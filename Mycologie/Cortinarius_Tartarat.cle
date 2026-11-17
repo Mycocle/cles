@@ -1,0 +1,15 @@
+Titre$Flore Analytique des Cortinaires - André Tartarat
+Com$Adaptation par Aurélien Paris
+
+1,0$ 1a : Chapeau vivement coloré, jaune, rouge, verdâtre etc. ; lames jaunes, jaune safran, orangées, gris olive, brun rouge sang ; présence dans la chair de pigments intracellulaires colorés. $ Genre (Sous-genre) DERMOCYBE. $f"Sg-Dermocybe.cle"
+1,2$ 1b : Espèces de formes et dimensions très variables de 1 à 30 cm, très charnues ou très minces, visqueuses ou sèches, glabres à laineuses, voile universel toujours présent.
+2,3$ 2a : Chapeau visqueux.
+2,4$ 2b : Chapeau sec.
+3,0$ 3a : Stipe visqueux, plus ou moins cylindrique ou atténué vers le bas. $ Sous-genre MYXACIUM. $f"Sg-Myxacium.cle"
+3,0$ 3b : Stipe sec, espèces charnues en général. $ Sous-genre PHLEGMACIUM. $f"Sg-Phlegmacium.cle"
+4,0$ 4a : Espèces violet foncé, squamuleuses-feutrées, pigments vacuolaires violets, présence de grandes cheilo- ou pleurocystides. $ Sous-genre CORTINARIUS (Sect. VIOLACEI). $f"Sg-Cortinarius.cle"
+4,5$ 4b : Espèces non violet foncé, pas de pigments vacuolaires violets, pas de pleurocystides.
+5,0$ 5a : Espèces de couleur olivacée, verte, brun olivacé jaune, brun-jaune, brun orangé, cuticule fibrillo-squamuleuse, feutrée à lisse et soyeuse ; pigments incrustés, spores rondes ou elliptiques larges, rarement longuement elliptiques. $ Sous-genre LEPROCYBE. $f"Sg-Leprocybe.cle"
+5,6$ 5b : Pas ces caractères.
+6,0$ 6a : Chapeau plus ou moins hygrophane, de couleur brune, brun-jaune, ocre ou violacée (rarement olivacée) ; stipe guêtré ou annelé, fibrilleux ou nu. $ Sous-genre TELAMONIA. $f"Sg-Telamonia.cle"
+6,0$ 6b : Chapeau non hygrophane, cuticule soyeuse ou micacée, parfois squamuleuse, spores plus ou moins rondes, hypoderme plus ou moins celluleux. $ Sous-genre SERICEOCYBE. $f"Sg-Sericeocybe.cle"

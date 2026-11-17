@@ -1,0 +1,35 @@
+titre$Phanerochaete-Uruguay-Martinez-2005-
+com$adapt G Fannechere 12-04-2019
+rem$ Clé utilisable via le logiciel Mycoclé : http://mycolim.free.fr/DOC_SML/mycoCLE/Charg_Mycocle.htm
+
+
+1,0$source  : The genus Phanerochaete (Corticiaceae,Basidiomycotina) sensu lato in Uruguay -Sebastian Martinez1* & Karen K. Nakasone2/// June 2005  Sydowia -Horn- 57(1)
+1,0$ Phanerochaete  is  a  group  of  morphologically  diverse  species  with  resupinate  basidiomes  and  smooth,  tuberculate  or  aculeate  hymenophores  (Burdsall,  1985;  Hjortstam,  2000).  Microscopically,  it  is  characterized  by  a monomitic  hyphal  system  of  primarily  simple  septate  generative  hyphae,  clavate  basidia,  and  thin - walled,  non ¬ amyloid,  and  acyanophilous  basidiospores.  Cystidia  are  present  in  many  species.  Recent  molecular  phylogenetic  studies  indicate  that  the  genus  is  polyphyletic  as  well  (de  Koker     al.,  2003;  Greslebin  &  al.,  2004).  In  the  future  it may  be  necessary  to  divide  Phanerochaete  into  smaller,  natural  groups;  but  for  now,  it is convenient  to  maintain  this  genus  for  the  many  corticioid  species  with  the  features  described  above  
+1,0$
+
+
+
+1,2 $ Cystidia absent
+1,4 $ Cystidia present
+2,0 $ Basal hyphae mainly thick-walled, basidiospores 7-9.5 x 3.5-4.5 µm $ P. corymbata
+2,3 $ Basal hyphae mainly thin-walled
+3,0 $ Basidiospores broadly ellipsoid, 6.5-9 x 3.5-4.5 µm $ P. xerophila
+3,0 $ Basidiospores narrowly ellipsoid, 5-7.5 x 2.5-3.5 µm $ P. avellanea
+4,0 $ Brown subicular hyphae present, basidiospores 5.5-7 x 2.5-3.5 µm $ P. singularis
+4,5 $ Brown subicular hyphae absent
+5,6 $ Hymenophore raduloid to hydnoid
+5,7 $ Hymenophore smooth to tuberculate
+6,0 $ Cystidia fusoid, basidiospores 5-6 x 3-3.5 µm ., $ P. omnivora
+6,0 $ Cystidia cylindrical-clavate, basidiospores 4.5-6 x 2-25.3) µm . $ P. aculeata
+7,0 $ Vesicles present in subiculum, cystidia clavate to fusiform, 40-70 x 5.5-8 µm , and basidiospores (6.5-)7-9 x 4-5 µm $ P. vesiculosa
+7,8 $ Not with this combination of characters( not : Vesicles present in subiculum, cystidia clavate to fusiform, 40-70 x 5.5-8 µm , and basidiospores (6.5-)7-9 x 4-5 µm)
+8,9 $ Cystidia strongly encrusted
+8,10 $ Cystidia smooth or lightly encrusted
+9,0 $ Basidiocarp and cords turning purple or red in KOH $ P. filamentosa
+9,0 $ Basidiocarp not changing color in KOH $ P. sordida
+10,0 $ Cystidia subulate, 25-50 x 8-12 µm $ P. australis
+10,11 $ Cystidia nearly cylindrical, >50 µm long
+11,0 $ Hymenophore smooth to warted, cystidia thin-walled and smooth, basidiospores 5.5-7 x 2.5-3 µm $ P. magnoliae
+11,0 $ Hymenophore smooth, cystidia thin-walled at apex, becoming thick-walled toward base, smooth, lightly to heavily encrusted, basidiospores 4.5-7 x 2.5-3.5 µm $ P. sordida
+
+ µm 

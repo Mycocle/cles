@@ -1,0 +1,63 @@
+MYCOCLE 00210760719050612C5D12
+ clé exploitable par Mycoclé 2.04
+Mycoclé 2.06 Clé des espèces des genres « xérocomoïdes »
+ Adapt GF aout 2016
+REM$LANGUE$Détection automatique
+31021179121416202224273134373941444750525456
+0 source : Guillaume Eyssartier Version juillet 2016 - : Genres Xerocomus et Xerocomellus (incl. Hortiboletus et Rheubarbariboletus)011113500
+0  Note liminaire : le genre historique Xerocomus a été, depuis quelques années, largement démembré. Le changement principal a été la scission en deux genres Xerocomus (groupe de X. chrysenteron : spores lisses ou striées, épicutis d’hyphes nettement incrustées) et Xerocomellus (groupe de X. subtomentosus : spores à onrmentation très fine, visible seulement au MEB, épicutis à hyphes non ou faiblement incrustées). Les petits bolets parasites (X. parasiticus, X. astraeicola) sont aujourd’hui placés dans le genre Pseudoboletus (non traités dans cette clé). Le groupe de X. rubellus (espèces plutôt rudérales ou anthropophiles, à pontuations rouges souvent présentes dans le bas du pied, spores toujours lisses, etc.) a été combiné dans le genre Hortiboletus, et X. armeniacus et X. persicolor dans le genre Rheubarbariboletus (chair rhubarbe dans le bas du pied, plaques congophiles abondantes sur les hyphes de l’épicutis, etc.). Enfin, les genres Alessioporus et Pulchroboletus ont été décrits pour les bolets méditerranéens X. ichnusanus et X. roseoalbidus (non traités dans cette clé).011213600
+0011313700
+0Chapeau à tons nettement rouges ou roses011413902
+0Chapeau sans tons rouges, ni roses évidents, ou  alors seulement marginaux et diffus (parfois  brun chaud rougeâtre)01151310011
+00-106111200
+0 Points rouge sang dans la chair de la base du pied (à la  coupe) ; chapeau souvent décoloré au bord . 024714130 X. rubellus0
+0 Pas de points rouge sang . 0248141403
+0 Pied et chapeau jaune rougeâtre à brun-rouge, pied souvent  nettement radicant, avec un mycélium blanchâtre à ±  jaune ; sous peupliers 038915150 X. silwoodensis0
+0(penser aussi aux formes roses ou rouges, rares, de X. subtomentosus,  à chair rosâtre dans la moitié inférieur du pied))03810151600
+0 Pas ces caractères réunis.03811151704
+0 Chair totalement blanche ou blanc crème et mycélium  jaune vif . 04111216180 X. ferrugineus0
+0 Pas ces caractères réunis.041113161905
+0 Espèces des lieux humides (fond de mare, bord de cours  d'eau, etc.), associée aux saules, peupliers, aulnes .051314172006
+0 Pas cet habitat.051315172107
+0 Chapeau se craquelant au bord de façon radiale ; spores  non tronquées . 06141618220 X. ripariellus170
+0(syn. Boletus catalaunicus)06141718230N0
+0 Chapeau se craquelant en tout sens ; spores tronquées 06141818240 X. intermedius190
+0 (syn. X. fennicus)06141918250N0
+0 Spores tronquées . 07152019260 forme rouge de X. porosporus  (" X. marekii")0
+0 Spores non tronquées .071521192708
+0 Chair de la moitié inférieure du pied nettement rouge à  rouge betterave .082122202809
+0 Chair de la moitié inférieure du pied typiquement rhubarbe,  ocre orangé vif à safran vif .0821232029010
+0 Quotient sporal < 2,5 ; chair non ou peu bleuissante ; chapeau  non ou peu craquelé. 09222421300 X. redeuilhii ad int.250
+0(X. dryophilus sensu auteurs europ.)09222521310N0
+0 Quotient sporal > 2,5 ; chair très bleuissante dans la moitié  inférieure du pied ; chapeau vite craquelé. 09222621320 X. cisalpinus0
+0 Plaques congophiles nettes sur les hyphes de l'épicutis ; la  couleur de la chair ne s'accentue pas nettement au séchage. . 010232722330 X. armeniacus280
+0(grisonnant ou noircissant au toucher, " var. sordescens " ad int.)010232822340N0
+0 Plaques congophiles absentes ou rares sur les hyphes de  l'épicutis ; la couleur de la chair s'accentue fortement au séchage  . 010232922350 X. persicolor0
+00-2030103800
+0 Chair totalement blanche ou blanc crème et mycélium  jaune vif . 01153123400 X. ferrugineus320
+0(sous peupliers, penser à X. silwoodensis)01153223410N0
+0 Pas ces caractères réunis .0115332342012
+0 Points rouge sang dans la chair de la base du pied (examiner  attentivement une coupe sur un exemplaire en bon état) .  . 012333424430 X. engelii350
+0 (à tons roses dans le chapeau, voir X. bubalinus)012333524440N0
+0 Pas de points rouge sang .01233362445013
+0 Chapeau très vite craquelé en tous sens, brun tabac terne  sans tons rouges, et chair typiquement gris fuligineux dans la  base du pied ; spores tronquées . 013363725460 X. porosporus0
+0 Pas ces caractères réunis . 401336382547014
+0 Chair à tons roses ou rosâtres dilués dans le chapeau ou  dans la moitié inférieure du pied .01438392648015
+0 Chair différente .01438402649016
+0 Chair à tons roses dans le chapeau (parfois des points  rouge sang dans la chair de la base du pied) ; souvent dans les  parcs, surtout sous peupliers et tilleuls . 015394127500 X. bubalinus420
+0(X. erubescens est un sosie poussant sous chênes,  dont l'autonomie est discutée)015394227510N0
+0 Chair seulement à tons roses ou rosâtres diffus dans la  moitié inférieure du pied . 015394327520 X. subtomentosus0
+0 Chair blanchâtre ou jaune ochracé pâle, dégageant une  odeur agréable de pâtisserie ; silhouette souvent peu " xérocomoïde  ", chapeau parfois cabossé au bord et spores presque  hyalines au microscope . 016404428530 X. moravicus  450
+0 (syn. X. leonis)016404528540N0
+0 Chair différente.01640462855017
+0 Chair jaune vif (jaune d'or) dans la moitié inférieure du  pied (blanchâtre dans le chapeau) et mycélium jaune vif 017464729560 X. chrysonemus480
+0(chair entièrement jaune plus ou moins vif : penser à de jeunes exemplaires de X. chrysenteron ou X. pruinatus)017464829570N0
+0 Chair au moins en partie rouge, rouge vineux à rouge betterave  dans la moitié inférieure du pied au moins (n'observer  que des exemplaires adultes) .01746492958018
+0 Spores au moins en partie tronquées au sommet ; chapeau  craquelé en tous sens évoquant celui de X. porosporus 018495030590 X. sarnarii0
+0 Spores jamais tronquées au sommet01849513060019
+0 Chair jaune pâle ou blanchâtre avec un bleuissement intense  typique et assez rapide débutant par la base du pied. . 019515231610 X. cisalpinus0
+0 Chair non ou peu et très lentement bleuissante .01951533162020
+0 Petite espèce à chapeau de 1,2-8 cm, porté par un pied  grêle et rougeâtre ; sous chênes (Q. robur) . 020535432630 X. poederii0
+0 Espèces plus grandes .02053553264021
+0 Espèce plutôt estivale (juin-septembre), surtout sous les  conifères (ou alors uniquement sous les hêtres) ; tons vineux  sur et dans le pied ; tubes nettement vert olivâtre chez les  adultes ; chair ± jaune, immuable ou presque .  . 021555633650 X. chrysenteron0
+0 Espèce plutôt automnale (septembre-novembre), sous  feuillus et conifères ; pied parfois rouge-rose mais jamais  vineux ; tubes jaune olivâtre chez les adultes ; chair jaune vif,  bleuissant souvent seulement dans la base du pied 021555733660 X. pruinatus0

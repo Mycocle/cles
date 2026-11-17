@@ -1,0 +1,570 @@
+titre$ANDERS MUNK DANISH PYRENOMYCETES clé générale
+com$ANDERS MUNK DANSK BOTANISK ARKIV, UDGIVET AF DANSK BOTANISK FORENING Bind 17 N°1/ adapt GF 07/2013
+Bind 17 N°1 DANSK BOTANISK ARKIV, UDGIVET AF DANSK BOTANISK FORENING, 
+ rem$LANGUE$Anglais
+
+µm           ±
+
+SACCARDO'S artificial "sporologicat" system of the Pyrenomycetes has been
+adopted here as a basis for construction of the following artificial key to the Danish
+genera of Pyrenomycetes. The groups within this system arc characterised as
+follows:
+1,cs1 $ Spores ± sausage-shaped, hyaline or slightly coloured, not septate (or with an indistinct median plasmatic separation of the contents).The coloured allantoid spores are often ± flattened. $ Allantosporae$s"Allantosporae"
+1,cs5 $ Spores ellipsoid or fusiform, hyaline, not septate. $ Hyalosporae $s"Hyalosporae"
+1,cs8 $ Spores ellipsoid or fusiform, coloured, not septate. - Several Phaeosporae have hyaline appendages (of various morphological value) on the spores. $ Phaeosporae $s""
+1,cs15 $ Spores hyaline, composed of two cells when mature. $ Hyalodidymae $s"Hyalodidymae"
+1,cs18$ Spores coloured, composed of two cells when mature. $ Phaeodidymae $s"Phaeodidymae"
+1,cs23$ Spores hyalines, transversally septate, composed of more than two cells. $ Hyalophragmae $s"Hyalophragmae"
+1,cs27$ Spores coloured, transversally septate, composed of more than two cells. $ Phaeophragmae $s"Phaeophragmae"
+1,cs30 $ Spores both transversally and longitudinally septate. $ Dictyosporae $s"Dictyosporae "
+1,cs35 $ Spores very long and thin, often perfectly filiform, hyaline or slightly coloured, generally ± indistinctly transversally septate. Swollen cells may occur $ Scolecosporae $s"Scolecosporae"
+........................
+
+cs1,0$Allantosporae
+1,cs2$A. Non-stromatic; ostioles not collectively erumpent
+1,cs3$B. Stromatic, or with collectively erumpent ostioles
+
+cs2,0$ Non-stromatic ; ostioles not collectively erumpent
+1,0 $ Asci small to very small, springing from bundles of paraphysis-like hyphae$ Calosphaeria p. 278
+1,2 $ Asci not springing from such bundles of hyphae
+2,3 $ Fruit-bodies free, superficial.
+2,6 $ Fruit-bodies ± immersed
+3,4 $ Surface of fruit-bodies coarsely gibbous-rough.
+3,0 $ Surface of fruit-body smooth or hairy $ Lasiosphaeria p. 108
+4,0 $ Fruit-bodies subcylindric $ Bertia p. 293
+4,5 $ Fruit-bodies collapsing to cup-shape
+5,0 $ Fruit-bodies densely crowded; no conspicuous hyphae. $ (Nitschkia)
+5,0 $ Fruit-bodies somewhat gregarious, accompanied by a loose tomentum of black, shining hyphae $ Calyculosphaeria p. 294
+6,0 $ Asci long-stipitate. $ Coronophora p. 289
+6,7 $ Asci not stipitate, loosening, rounded below.
+7,0 $ Asci polysporous; on Alnus $ Ditopella p. 219
+7,0 $ Asci 8-spored; on Quercus $ Enchnoa p. 221
+
+cs3,0$Stromatic, or with collectively erumpent ostioles
+1,2 $ Spores ± brownish at maturity
+1,9 $ Spores perfectly hyaline
+2,0 $ Spores large, banana-shaped, flattened at the middle, with a group of small oil-drops at each end $ Leptomassaria p. 146
+2,3 $ Spores not so (not : Spores large, banana-shaped, flattened at the middle, with a group of small oil-drops at each end)
+3,0 $ Asci polysporous $ Diatrypella p. 160
+3,4 $ Asci 8-spored
+4,5 $ Ostioles ± collectively erumpent
+4,6 $ Ostioles distinctly separately erumpent
+5,0 $ Stroma small, inconspicuous, with 2-6 fruit-bodies; ostioles inconspicuous $ Quaternaria p. 147
+5,0 $ Stroma with numerous fruit-bodies; ostioles projecting, often sulcate $ Eutypella p. 157
+6,0 $ Stroma sharply delimited, disciform or pulvinate $ Diatrype p. 165
+6,7 $ Stroma widely effuse
+7,0 $ Stroma permanently covered by the peridermis of the host; ostioles erumpent through the peridermis $ Cryptosphaeria p. 152
+7,8 $ Stroma widely erumpent, at least at maturity
+8,0 $ Ostioles flat-pulvinate, circular, sharply separated from the surface of the stroma $ Diatrype p. 165
+8,0 $ Ostioles projecting or diffusely confluent with the stroma-surface $ Eutypa p. 153
+9,10 $ Stroma basal with free fruit-bodies
+9,11 $ Fruit-bodies immersed 
+10,0 $ No conspicuous hyphae $ (Nitschkia)
+10,0 $ Fruit-bodies accompanied by a loose, black, shining tomentum $ Calyculosphaeria p. 294
+11,0 $ Spores more than 35-40 µm long $ Cryptospora p. 241
+11,12 $ Spores less than 35-40 µm long
+12,0 $ Asci springing from bundies of paraphysis-like hyphae. $ Calosphaeria p. 278
+12,13 $ Not so (not : Asci springing from bundies of paraphysis-like hyphae) 13
+13,0 $ Asci long-stipitate $ Coronophora p. 289
+13,0 $ Asci not stipitate, loosening, rounded below $ Valsa p. 222
+..................
+cs5,0$ Hyalospora
+1,cs6$A. Non-stromatic; ostioles not collectively erumpent
+1,cs7$B. Stromatic, or ostioles collectively erumpent
+
+Cs6,0$ Non-stromatic; ostioles not collectively erumpent
+1,2 $ Asci 8-spored
+1,16 $ Asci with more than 8 spores
+2,15 $ Fruit-bodies with a prominent, conspicuous beak
+2,3 $ Not so (not : Fruit-bodies with a prominent, conspicuous beak)
+3,4 $ Fruit-bodies light-coloured
+3,5 $ Fruit-bodies dark-coloured
+4,0 $ On dung; spores very large $ Seliniella p. 284
+4,0 $ Not so (Not : On dung; spores very large)$ Pseudonectria p. 60
+5,6 $ Fruit-bodies free or almost so
+5,8 $ Fruit-bodies immersed
+6,0 $ On dead leaves or dung; spores subspheric $ Anixia p. 282
+6,7 $ On rotten wood or on bark
+7,0 $ Spores ± ellipsoid $ Trichosphaeria p. 182
+7,0 $ Spores ± cylindric $ Lasiosphaeria p. 108
+8,0 $ On leaves of Buxus $ Hyponectria p. 172
+8,9 $ Elsewhere (not On leaves of Buxus)
+9,0 $ Spores (when mature) with a septum near the proximal end $ Pseudomassaria p. 174
+9,10 $ Spores permanently 1-celled
+10,0 $ Fruit-bodies scutate, small $ (Phacidina, a Discomycete)
+10,11 $ Fruit-bodies rounded
+11,12 $ Asci bitunicate (thick-walled)
+11,13 $ Asci unitunicate (thin-walled)
+12,0 $ Asci basal, parallel $ Botryosphaeria p. 468
+12,0 $ Asci springing from a parenchymatic column, strongly diverging $ Columnosphaeria p. 472
+13,14 $ Spores rather large, multiguttulate
+13,0 $ Spores small, eguttulate or with two terminal oil-drops. $Phomatospora p. 176
+14,0 $ Fruit-bodies cylindric; on living leaves o( Astragalus .... $ Polystigma p. 171
+14,0 $ Fruit-bodies spheric-papillate, see key to $ Physalospora p. 168
+15,0 $ On rotten wood $ Endoxyla p. 195
+15,0 $ On leaves $ Gnomoniella p. 213
+16,0 $ Fruit-bodies red or yellowish $ Nectria p. 40
+16,17 $ Fruit-bodies dark-coloured
+17,0 $ On twigs of Alnus, beneath the peridermis ' $ Ditopella p. 219
+17,18 $ On rotten wood
+18,0 $ Asci apparently 16-spored; fruit-bodies setose $ Neorehmia p. 67
+18,0 $ Asci  apparently polysporous; fruit-bodies glabrous $ Rhamphoria p. 192
+
+CS7,0$Stromatic, or with collectively erumpent ostioles
+1,0 $ Fruit-bodies light-coloured; on Hymenomycetes $ Hypomyces p. 69
+1,0 $ Fruit-bodies light-coloured; on leaves $ Polystigma p. 171
+1,0 $ Fruit-bodies light-coloured; on dung $ Selinia p. 62
+1,2 $ Fruit-bodies dark-coloured
+2,3 $ On wood or bark
+2,5 $ On leaves or herbaceous stems
+3,0 $ Stroma large, prominent; asci bitunicate $ Botryosphaeria p. 468
+3,4 $ Stroma inconspicuous; asci unitunicate
+4,0 $ On bark beneath the peridermis $ Cryptosporella p. 244
+4,0 $ On rotten wood; asci apparently 16-spored $ Neorehmia p. 67
+5,6 $ Asci unitunicate (thin-walled)
+5,0 $ Asci bitunicate (thick-walled) $ Ascospora p. 333
+6,0 $ Ostioles inconspicuous; on monocotyledonous plants .. $ Phyllachora p. 173
+6,7 $ Ostioles long and slender; on dicotyledonous plants ...
+7,0 $ On leaves of Corylaceae $ Mamiania p. 218
+7,0 $ On herbaceous stems $ Diaporthe p. 252
+...............
+cs8,0$ Phaeosporae
+1,cs9$A. Non-stromatic; ostioles not collectively erumpent
+1,cs10$B. Stromatic, or ostioles collectively erumpent 
+
+cs9,0$ A. Non-stromatic; ostioles not collectively erumpent
+1,2 $ Asci oval-elliptic; spores in a cluster
+1,3 $ Asci subcylindric; spores 1 (-2)-seriate
+2,0 $ Fruit-bodies covered with dark-coloured hairs $ Chaetomium p. 83
+2,0 $ Not so (not Fruit-bodies covered with dark-coloured hairs) $ Melanospora p. 79
+3,4 $ Fruit-bodies conspicuously hairy
+3,7 $ Not so (not Fruit-bodies conspicuously hairy )
+4,0 $ Hairs branched ; on paper $ Ascotricha p. 86
+4,5 $ Not so (not Hairs branched ; on paper)
+5,0 $ On Hymenomycetes $ Helminthosphaeria p. 89
+5,6 $ On wood or dung
+6,0 $ Spores appendiculate $ Pleurage p. 98
+6,0 $ Not so (not Spores appendiculate ) $ Coniochaeta p. 89
+7,8 $ Spores appendiculate
+7,11 $ Not so (not Spores appendiculate )
+8,0 $ On leaves or herbaceous stems $ Anthostomella p. 119
+8,9 $ On wood or dung
+9,0 $ Spores with a germ slit $ Rosellinia p. 126
+9,10 $ No germ slit (a germ pore is often present)
+10,0 $ Spores originally cylindric, with small, pointed appendages $ Bombardia p. 105
+10,0 $ Spores originally ellipsoid-clavate, often with long secondary appendages when mature $ Pleurage p. 98
+11,12 $ Spores without germ openings, or with a germ slit
+11,15 $ Spores with 1 or 3-4 distinct germ pores
+12,0 $ On leaves or herbaceous stems $ Anthostomella p. 119
+12,0 $ On dung; fruit-bodies small, very light brown $ Melanospora p. 79
+12,13 $ On wood
+13,0 $ Spores light brown, rather large, without a germ slit. . . $ Lasiosphaeria p. 108
+13,14 $ Spores with a germ slit, or very small
+14,0 $ Fruit-bodies more than 500 µm diam $ Rosellinia p. 126
+14,0 $ Fruit-bodies less than 500 µm. diam $ Coniochaeta p. 89
+15,0 $ Spores with one proximal germ pore $ Sordaria p. 95
+15,0 $ Spores with 3-4 equatorial, equidistant germ pores . $ Amphisphaerella p. 137
+
+cs10,0$ B. Stromatic, or ostioles collectively erumpent
+1,2 $ fruit-bodies circinate, ostioles collectively erumpent
+1,3 $ Ostioles separately erumpent
+2,0 $ Spores ellipsoid, dark brown $ Lopadostoma p. 144
+2,0 $ Spores slender, oblong-fusiform, flattened, light brown. $Leptomassaria p. 146
+3,4 $ Stroma developed as a blackish clypeus
+3,7 $ Stroma thicker, prominent above the substratum
+4,0 $ On dung $ Hypocopra p. 123
+4,5 $ Elsewhere (not On dung )
+5,0 $ spores with 3-4 equatorial, equidistant germ pores . $ Amphisphaerella p. 137
+5,6 $ Spores with a lateral germ slit, or without distinct germ openings
+6,0 $ Ostiole acutely papillate; spores with 3 pseudosepta $ Clypeosphaeria p. 122
+6,0 $ Spores not septate $ Anthostomella p. 119
+7,0 $ Spores minute, smoky grey $ Camarops p. 149
+7,8 $ Spores brown
+8,0 $ ores ± allantoid, light brown, without a germ slit $ Eutypa p. 153
+8,9 $ Spores ellipsoid
+9,10 $ Stroma not stipitate
+9,14 $ Stroma stipitate
+10,0 $ Stroma generally including one fruit-body $ Rosellinia p. 126
+10,11 $ Stroma with several fruit-bodies
+11,0 $ Stroma tuberose, concentrically zonate inside $ Daldinia p. 128
+11,12 $ Not so (not: Stroma tuberose, concentrically zonate inside)
+12,0 $ Conidial layer covered by a fleshy, sterile layer $ Nummularia p. 128
+12,13 $ Conidial layer superficial
+13,0 $ Stroma large, coaly brittle; fruit-bodies not prominent. $ Ustulina p. 129
+13,0 $ Stroma ± tough, or fruit-bodies prominent $ Hypoxylon p. 130
+14,0 $ Stroma cup-shaped, stipitate $ Poronia p. 125
+14,0 $ Stroma upright, clavate or branched $ Xylaria p. 138
+...............
+
+cs15,0$ Hyalodidymae
+1,cs16$A. Non-stromatic; ostioles not collectively erumpent
+1,cs17$B. Stromatic, or ostioles collectively erumpent
+
+cs16,0$Non-stromatic; ostioles not collectively erumpent
+1,2 $ Asci unitunicate (thin-walled)
+1,18 $ Asci bitunicate (thick-walled)
+2,3 $ Fruit-bodies coloured 
+2,5 $ Fruit-bodies black or almost so
+3,0 $ Fruit-bodies violaceous; on Myxomycetes $ Nectriopsis p. 59
+3,4 $ Fruit-bodies reddish or yellowish
+4,0 $ Fruit-bodies reddish (in N. ochroleuca ochraceous); paraphyses present $ Nectria p. 40
+4,0 $ Fruit-bodies brownish or ochraceous; no paraphyses; spores sculptate by longitudinal ridges $ Neuronectria p. 56
+5,6 $ Fruit-bodies free or almost so; ostiole small
+5,12 $ Fruit-bodies immersed, or ostiole long
+6,7 $ Fruit-bodies gibbous-rugose, naked
+6,8 $ Fruit-bodies smooth or hairy
+7,0 $ fruit-bodies subcylindric; no conspicuous mycelium $ Bertia p. 293
+7,0 $ Fruit-bodies collapsing to cup-shape, surrounded by black, shining hyphae $ Calyculosphaeria p. 294
+8,9 $ Fruit-bodies smooth and glabrous, or with obtuse hairs
+8,10 $ Fruit-bodies covered with acute hairs
+9,0 $ Fruit-bodies collapsing to cup-shape $ Melanopsamma p. 54
+9,0 $ Fruit-bodies pulvinate; spores with a long, proximal appendage $ Loramyces p. 287
+10,11$ On rotten wood 
+10,0 $ On leaves or herbaceous stems $ Niesslia p. 186
+11,0 $ Spores hardly constricted $ Eriosphaeria p. 185
+11,0 $ Spores strongly constricted, disrupting $ Neorchmia p. 67
+12,13 $ Ostiole distinctly elongated
+12,17 $ Ostiole short, often inconspicuous
+13,0 $ On rotten wood $ Lentomita p. 191
+13,14 $ Elsewhere (not On rotten wood )
+14,0 $ Spores uniseriate in the ascus $ Sydowiella p. 204
+14,15 $ Spores in a cluster or 2-3-seriate
+15,0 $ Ostiole latéral $ Plagiostoma p. 214
+15,16 $ Ostiole central
+16,0 $ Ascus with a refractive apical apparatus; porus periphysate $ Gnomonia p. 209
+16,0 $ Ascus without an apical apparatus; porus not periphysate $ Rostrocoronophora p. 292
+17,0 $ Spores equally 2-celled, rounded at the ends $ Paradidymella p. 178
+17,0 $ Spores equally 2-celled, tapering into filiform appendages $ Ceriospora p. 176
+17,0 $ Spores unequally septate, proximal cell small $ Pseudomassaria p. 174
+18,0 $ Fruit-bodies scutate $ (Microthyrium)
+18,19 $ Fruit-bodies rounded
+19,0 $ Asci 16-spored; on leaves of Abies $ Sydowia p. 470
+19,20 $ Not so (not : Asci 16-spored; on leaves of Abies )
+20,0 $ Papilla laterally flattened $ Lophiosphaera p. 430
+20,21 $ Not so (not : Papilla laterally flattened )
+21,0 $ Fruit-bodies free $ Herpotrichia p. 406
+21,22 $ Fruit-bodies ± immersed
+22,23 $ On wood or in stromata of Pyrenomycetes
+22,24 $ On leaves or herbaceous stems
+23,0 $ Papilla with pointed bristles $ Keissleriella p. 449
+23,0 $ Not so; in stromata of Diaporthe spp $ Pseudotrichia p. 447
+24,0 $ Interascicular tissue distinct $ Didymella p. 334
+24,0 $ Interascicular tissue obsolète $ Mycosphaerella p. 307
+
+cs17,0$B. Stromatic, or ostioles collectively erumpent
+1,2 $ fruit-bodies and stroma coloured; asci unitunicate
+1,7 $ Fruit-bodies and stroma black or almost so
+2,3 $ Stroma basal
+2,5 $ Stroma with ± immersed fruit-bodies
+3,0 $ Fruit-bodies dark violaceous; on Myxomycetes $ Nectriopsis p. 59
+3,4 $ Not so (not : Fruit-bodies dark violaceous; on Myxomycetes)
+4,0 $ Spores fusiform; on Hymenomycetes $ Hypomyces p. 69
+4,0 $ Spores rounded al the ends $ Nectria p. 40
+5,0 $ Spores fusiform; on Hymenomycetes $ Hypomyces p. 69
+5,6 $ Not so (not : Spores fusiform; on Hymenomycetes)
+6,0 $ Spores rather large, slightly constricted $ Hypocreopsis p. 61
+6,0 $ Spores small, strongly constricted, disrupting $ Hypocrea p. 63
+7,0 $ Spores small, strongly constricted, disrupting; on wood. $ Neorehmia p. 67
+7,8 $ Not so (not : Spores small, strongly constricted, disrupting; on wood)
+8,9 $ Asci bitunicate (thick-walled)
+8,11 $ Asci unitunicate (thin-walled) 
+9,10 $ Stroma widely erumpent
+9,0 $ Stroma otherwise (Diaporthe-stromata in which the fungus lives) $ Pseudotrichia p. 447
+10,0 $ On twigs of shrubs $ Dothidella p. 463
+10,0 $ On sheaths of Gramineae; stroma linear $ Scirrhia p. 463
+10,0 $ On herbaceous dicotyledons or leaves; stroma isodiametric $ Euryachora p. 464
+11,12 $ Spores l-seriate in the ascus
+11,13 $ Spores 2-seriate or in a cluster
+12,0 $ Spores without appendages $ Sydowiella p. 204
+12,0 $ Spores with filiform appendages, 3 at the middle septum and One at each end $ Caudospora p. 246
+13,14 $ Stroma limited by black zones in the substratum
+13,16 $ Not so (not : Stroma limited by black zones in the substratum)
+14,15 $ On leaves of Fagales
+14,0 $ On branches, twigs, or herbaceous stems; spores equally 2-celled or almost so $ Diaporthe p. 252
+14,0 $ On twigs of Betulus spores unequally 2-celled $ Anisogramma p. 240
+15,0$ 1-3 fruit-bodies in a stroma; on Quercus $ Hypospila p. 217
+15,0 $ Many fruit-bodies in a stroma; on Corylaceae $ Mamiana p. 218
+16,0 $ Asci mainly basal; paraphyses generally observed $ Melanconis p. 235 (cp. also Prothecium)
+16,17 $ Asci loosening, filling the fruit-body in spite of their small size; paraphyses rarely observed
+17,0 $ Disc very strongly developed; perithecia deeply immersed $ Melanconis p. 235
+17,0 $ Disc ± developed; perithecia not so deeply immersed . $ Cryptodiaporthe p. 248
+
+.....................
+
+cs18,0$Phaeodidymae
+1,cs20$A. Non-stromatic; ostioles not collectively erumpent
+1,cs21$B. Stromatic, or ostioles collectively erumpent
+
+
+cs20,0$A. Non-stromatic; ostioles not collectively erumpent
+rem $ A Non-stromatic; ostioles not collectively erumpent
+1,0 $ Fruit-bodies red; ascus unitunicate $ Nectria p. 40
+1,2 $ Fruit-bodies black or almost so
+1,3 $ On dung
+2,4 $ Elsewhere (not On dung)
+3,0 $ Spores with a lateral germ slit; papilla glabrous $ Delitschia p. 458
+3,0 $ Spores with two terminal, complicated germ pores; papilla setose $ Trichodelitschia p. 461
+4,5 $ Fruit-bodies free or almost so
+4,9 $ Fruit-bodies immersed
+5,6 $ On wood
+5,8 $ On leaves
+6,0 $ Fruit-bodies very small, somewhat setose $ Didymotrichiella p. 439
+6,7 $ Fruit-bodies rather large, glabrous
+7,0 $ Peridium soft $ Amphisphaeria p. 286
+7,0 $ Peridium brittle, carbonaceous $ Kirschsteiniella p. 410
+8,0 $ Fruit-body hemispheric, glabrous $ Stigmatea p. 302
+8,0 $ Fruit-body subspheric, setose $ Coleroa p. 300
+8,0 $ Fruit-body obpyriform ; on Polytrichum $ Lizonia p. 412
+9,0 $ Papilla setose; spores pallid olivaceous; on leaves $ Venturia p. 296
+9,10 $ Papilla glabrous 
+10,0 $ Fruit-bodies more than 500 µm diam., subperidermal on bark $ Massariella p. 423
+10,11 $ Fruit-bodies less than 500  µm  diam
+11,0 $ Spores unequally 2-celled; on Cladium $ Didymopleella p. 383
+11,12 $ Spores approximately equally 2-celled
+12,0 $ Mycelium radiating; on Triglochin $ Leptosphaeria juncaginearum p. 377
+12,13 $ Not so (not : Mycelium radiating; on Triglochin)
+13,0 $ Fruit-bodies very small ; asci saccate $ Monascostroma p. 382
+13,0 $ Fruit-bodies medium-sized; asci ± cylindric $ Didymosphaeria p. 431
+
+
+cs21,0$ B. Stromatic, or ostioles collectively erumpent
+1,0 $ Stroma fleshy, coloured $ Hypocrea p. 63
+1,2 $ Stroma black or almost so
+2,3 $ Stroma superficial, clypeiform
+2,5 $ Stroma basal, with free fruit-bodies
+2,8 $ Stroma 3-dimensional, with immersed fruit-bodies
+3,0 $ Asci cylindric $ Didymosphaeria p. 431
+3,4 $ Asci ± saccate
+4,0 $ Stroma composed of radiating bundles of hyphae; on Triglochin $ Leptosphaeria juncaginearum p. 377
+4,0 $ Stroma otherwise; on living leaves of Geranium $ Stigmatea p. 302
+5,6 $ Fruit-bodies or stroma ± hairy; on leaves
+5,0 $ Fruit-bodies and stroma glabrous; on branches and twigs $ Otthia P 402
+6,7 $ Fruit-bodies medium-sized, hairy
+6,0 $ Fruit-bodies very small; stroma tuberose, hairy; on leaves of Lonicera $ Lasiobotrys p. 304
+7,0 $ Fruit-bodies sparsely gregarious $ Coleroa p. 300
+7,0 $ Fruit-bodies densely gregarious $ Gibbera p. 303
+8,0 $ Stroma pulvinate, widely erumpent; fruit-bodies reduced to loculi in the stroma $ Systremma p. 465
+8,9 $ Stroma immersed
+9,0 $ Asci unitunicate, with a refractive apical apparatus; paraphyses dissolving $ Melanconiella p. 239
+9,0 $ Asci bitunicate; paraphysoid tissue persistent, filaments very thin, branched and anastomosing $ Valsaria p. 436
+
+
+
+cs23,0$ Hyalophragmiae
+
+1,cs24$A. Non-stromatic; ostioles not collectively erumpent
+1,cs25$B. Stromatic, or ostioles collectively erumpent
+
+
+cs24,0$ A. Non-stromatic; ostioles not collectively erumpent
+1,2 $ On rotten wood (or on old fungi)
+1,9 $ On (or in) bark of branches and twigs, or on leaves or herbaceous stems
+2,3 $ Fruit-bodies ochraceous or hyaline
+2,4 $ Fruit-bodies black or almost so
+3,0 $ Fruit-bodies ochraceous; asci bitunicate $ Ophionectria p. 473
+3,0 $ fruit-bodies hyaline; asci unitunicate $ Debaryella p. 194 (cp. also Calonectria)
+4,0 $ Spores cylindric (or tapering below) $ Lasiosphaeria p. 108
+4,5 $ Not so (not : Spores cylindric (or tapering below) )
+5,0 $ Fruit-bodies hemispheric, pulvinate; peridium greenish. $ Winterina p. 284
+5,6 $ Fruit-bodies subspheric, ± ostiolate
+6,7 $ Asci unitunicate, truncate above, with a refractive apical apparatus
+6,8 $ Asci bitunicate
+7,0 $ Ostiole papillate $ Zignoëlla p. 189
+7,0 $ Ostiole elongated $ Ceratosphaeria p. 190
+8,0 $ Fruit-bodies almost free; on wood; spores 3-celled $ Melomastia p. 409
+8,0 $ Fruit-bodies ± immersed in stromata of Diaporthe spp.; spores 4-celled $ Pseudotrichia p. 447
+9,10 $ Asci unitunicate
+9,11 $ Asci bitunicate
+10,0 $ Peridium pale; fruit-bodies free $ Calonectria p. 55
+10,0 $ Peridium bluish; fruit-bodies free $ Gibberella p. 56
+10,0 $ Peridium brownish; fruit-bodies immersed $ Griphosphaeria p. 180
+11,12 $ Fruit-bodies free or almost so
+11,14 $ Fruit-bodies immersed
+12,0 $ Ostiole laterally flattened $ Lophiotrema p. 429
+12,13 $ Not so (not : Ostiole laterally flattened )
+13,0 $ Fruit-bodies middle-sized; mycelium black $ Herpotrichia p. 406
+13,0 $ Fruit-bodies small; mycelium whitish $ Acanthostigma p. 407
+14,15 $ Interascicular tissue distinctly paraphysoid
+14,19 $ Not so (not : Interascicular tissue distinctly paraphysoid)
+15,0 $ fruit-hody simple, papilla neither setose nor reinforced by a conspicuous black tissue $ Leplosphaeria p. 346
+15,16 $ Papilla setose or reinforced by a conspicuous black tissue inside
+16,17 $ On herbaceous stems
+16,18 $ On branches or twigs of trees or shrubs
+17,0 $ Papilla setose $ trichometasphaeria  p. 443
+17,0 $ Not so (not Papilla setose) ; on culms of grasses $ Metasphaeria coccodes p. 442
+18,0 $ Hyper saprophytic in old stromata of Diaporthe spp. $ Pseudotrichia p. 447
+18,0 $ Not so (not : Hyper saprophytic in old stromata of Diaporthe spp.)$ Massarina p. 446
+19,0 $ Asci 16-spored; on leaves of Abies $ Sydowia p. 470
+19,0 $ Not so (not: Asci 16-spored; on leaves of Abies)$ Sphaerulina p. 332
+
+
+
+cs25,0 $ B. Stromatic, or ostioles collectively erumpent
+
+1,0$ Stroma basal; peridium bluish $ Gibberella p. 56
+1,2 $ Not so (Not : Stroma basal; peridium bluish)
+2,0 $ The stroma appears to belong to a Diaporthe at a closer examination $ Pseudotrichia p. 447
+2,3 $ The stroma belongs to the fungus itself
+3,0 $ Stroma slightly developed, clypeiform $ cp.  Trichometasphaeria and Massarina p. 443-446
+3,4 $ Stroma well developed
+4,0 $ Stroma effuse, limited by a black zone; on herbaceous stems $ Diaporthe p. 252
+4,5 $ Stroma isolate
+5,0 $ On leaves of Quercus $ Hypospila p. 217
+5,6 $ On branches or twigs
+6,0 $ Length of the spore about 20 times the thickness $ Sillia p. 200
+6,7 $ Spores thicker in proportion to length
+7,0 $ Spores subfusiform $ Pseudovalsa p. 200
+7,0 $ Spores broadly rounded at the ends $ Prosthecium p. 245
+
+------------------------------
+
+cs27,0$Phaeophragmiae
+1,cs28$A. Non-stromatic; ostioles not collectively erumpent
+1,cs29$B. Stromatic, or ostioles collectively erumpent
+
+
+
+
+cs28,0 $ A. Non-stromatic; ostioles not collectively erumpent
+1,2 $ Fruit-bodies free or almost so
+1,9 $ Fruit-bodies immersed
+2,0 $ Asci unitunicate, truncate above $ Lasiosphaeria p. 108
+2,3 $ Asci bitunicate (thick-walled)
+3,0 $ On dung $ Sporormia p. 451
+3,4 $ On wood or bark of trees or shrubs
+3,8 $ On herbaceous stems
+4,0 $ Spores 40-65 x 15-20 µm; fruit-bodies crowded in small groups $ Astromassaria p. 411
+4,5 $ Spores smaller
+5,6 $ Fruit-bodies glabrous; no conspicuous hyphal tomentum
+5,7 $ Fruit-bodies hairy or accompanied by a black hyphal tomentum
+6,0 $ Fruit-bodies perfectly free $ Melanomma p. 408
+6,0 $ Fruit-bodies ± immersed $ Trematosphaeria p. 409
+7,0 $ Fruit-bodies medium-sized, seated in a black hyphal tomentum; terminal cells of spore subhyaline $ Chaetosphaeria p. 404
+7,0 $ Fruit-bodies small, setulose; spores pale greenish grey ail through $ Herpotrichiella p. 438
+8,0 $ Spores oblong or fusiform, short-celled $ Leptosphaeria p. 346
+8,0 $ Spores subcylindric-filiform or long-celled $ Ophiobolus p. 384
+9,0 $ Papilla laterally flattened $ Lophiostoma p. 425
+9,10 $ Not so (not:Papilla laterally flattened)
+10,0 $ On dung $ Sporormia p. 451
+10,0 $ On decorticated wood $ Trematosphaeria p. 409
+10,11 $ Elsewhere  (not On decorticated wood)
+11,12 $ In the bark of woody plants
+11,16 $ On leaves or herbaceous stems
+12,13 $ Spores rather small; spore-wall not gelatinous
+12,14 $ Spores large, spore-wall often gelatinous
+13,0 $ Ascus unitunicate; on Hippophaë $ Hymenopleella p. 181
+13,0 $ Ascus bitunicate $ Dendropleella p. 392
+14,0 $ Fruit-bodies widely erumpent in small clusters; on Fagus $ Astromassaria p. 411
+14,15 $ Fruit-bodies permanently immersed
+15,0 $ Epispore punctuate, golden brown till the very maturity. $ Stigmatomassaria p. 417
+15,0 $ Epispore smooth, at first olive-yellow, soon umber brown  $Massaria p. 418
+16,0 $ Asci unitunicate (thin-walled) $ Diapleella p. 208
+16,17 $ Asci bitunicate (thick-walled)
+17,0 $ Spores oblong or subfusiform, short-celled $ Leptosphaeria p. 346
+17,0 $ Spores subcylindric-filiform or long-celled $ Ophioholus p. 384
+
+
+cs29,0$ B. Stromatic, or ostioles collectively erumpent
+1,2 $ Stroma basal
+1,4 $ Stroma with immersed fruit-bodies
+1,0 $ Stroma small, subperidermal, with small, dense crowds of fruit-bodies; on Fagus $ Astromassaria p. 411
+2,3 $ Stroma represented by a widely extended hyphal subiculum 
+3,0 $ Asci unitunicate, truncate above $ Lasiosphaeria p. 108
+3,0 $ Asci bitunicate (thick-walled) $ Chaetosphaeria p. 404
+4,0 $ Stroma clypeiform $ Clypeosphaeria p. 122
+4,5 $ Not so (not:Stroma clypeiform)
+5,0 $ Stroma linear, on leaf-stalks of Pteridium aquilinum . . . $ Rhopographus p. 466
+5,6 $ Not so (not:Stroma linear, on leaf-stalks of Pteridium aquilinum)
+6,7 $ Asci unitunicate, thin-walled
+6,8 $ Asci bitunicate, thick-walled
+7,0 $ Spores subcylindric or curved-fusiform $ Melogramma p. 198
+7,0 $ Spores broadly oblong $ Pseudovalsa p. 200
+8,0 $ Spores large; spore-wall gelatinous $ Massaria p. 418
+8,0 $ Spores rather small; spore-wall not gelatinous $ Thyridaria p. 414
+
+
+cs30,0$Dictyosporae
+1,cs31$A. Non-stromatic; ostioles not collectively erumpent 
+1,cs32$B. Stromatic, or with collectively erumpent ostioles
+
+page 38
+
+cs31,0$ A. Non-stromatic; ostioles not collectively erumpent
+1,0 $ Asci unitunicate (thin-walled), truncate above; spores hyaline; on rotten wood $ Rhamphoria p. 192
+1,2 $ Asci bitunicate (thick-walled)
+2,0 $ Epiphytes on living leaves; mycelium black, superficial. $ Capnodium p. 475
+2,3 $ Not so (not:Epiphytes on living leaves; mycelium black, superficial)
+3,4 $ Fruit-bodies free or almost so
+3,12 $ Fruit-bodies immersed
+4,5 $ On wood, or on bark of woody plants
+4,11 $ On leaves or herbaceous stems
+5,0 $ Asci densely fasciculate; spores hyaline; on Rosa $ Pringsheimia p. 471
+5,6 $ Not so (not:Asci densely fasciculate; spores hyaline; on Rosa)
+6,0 $ Fruit-bodies large, pulvinate, widely erumpent; on Sorbus $ Dothiora p. 469
+6,7 $ Not so (not: Fruit-bodies large, pulvinate, widely erumpent; on Sorbus )
+7,8 $ Spores medium-sized,   L golden brown
+7,9 $ Spores small, greenish grey
+8,0 $ Fruit-bodies densely gregarious (or on a  ±  developed basal stroma) $ Cucurbitaria p. 397
+8,0 $ Fruit-bodies scattered or effusely gregarious $ Teichospora p. 394
+9,0 $ Asci 16-spored $ Capronia p. 440
+9,10 $ Asci 8-spored
+10,0 $ Fruit-bodies densely gregarious on old stromata of Pyrenomycetes $ Berlesiella p. 441
+10,0 $ Fruit-bodies inconspicuous, scattered on rotten wood.. $ Dictyotrichiella p. 440
+11,0 $ Interascicular tissue not distinctly paraphysoid; fruit-bodies and spores large $ Pleospora, sect. Pyrenophora p. 339
+11,0 $ Interascicular tissue paraphysoid, or fruit-bodies small. $ Pleospora p. 337
+12,0 $ Asci densely fasciculate; spores hyaline; on Rosa $ Pringsheimia p. 471
+12,13 $ Not so (not:Asci densely fasciculate; spores hyaline; on Rosa)
+13,0 $ Papilla laterally flattened (often difficult to observe!); spores subcylindric; on bark or rotten wood $ Platystomum p. 425
+13,14 $ Not so (not:Papilla laterally flattened (often difficult to observe!); spores subcylindric; on bark or rotten wood)
+14,15 $ On wood, or on bark of woody plants
+14,17 $ Elsewhere (not On wood, or on bark of woody plants)
+15,0 $ Spores very large, spore-wall gelatinous; epispore punctate $ Pleomassaria p. 416
+15,16 $ Not so (not:Spores very large, spore-wall gelatinous; epispore punctate )
+16,0 $ Spores rarely longitudinally septate, chestnut-brown; immersed in twigs of Frangula $ Karstenula p. 391
+16,0 $ Spores always ± longitudinally septate,  ± yellowish brown $ Teichospora p. 394
+17,0 $ Interascicular tissue not distinctly paraphysoid; fruit- bodies and spores large $ Pleospora, sect. Pyrenophora p. 339
+17,0 $ Interascicular tissue paraphysoid, or fruit-bodies small. $ Pleospora p. 337
+
+p39
+
+cs32,0$ B. Stromatic, or with collectively erumpent ostioles
+1,0 $ Epiphytes on leaves; mycelium black, superficial $ Capnodium p. 475
+1,2 $ Not so (not:Epiphytes on leaves; mycelium black, superficial)
+2,0 $ Stroma pulvinate, widely erumpent; asci in an indefinite locule in the stroma $ Dothiora p. 469
+2,3 $ Not so (not:Stroma pulvinate, widely erumpent; asci in an indefinite locule in the stroma)
+3,4 $ Stroma basal with free fruit-bodies
+3,5 $ Fruit-bodies immersed in the stroma
+4,0 $ Spores medium-sized, yellowish brown $ Cucurbitaria p. 397
+4,0 $ Spores small, greenish grey; on old stromata of Pyrenomycetes $ Berlesiella p. 441
+5,0 $ Stroma indistinctly delimited; spores rarely longitudinally septate $ Karstenula p. 391
+5,0 $Stroma sharply delimited, isolate; spores always with longitudinal septa$ Feneslella p. 412
+
+
+cs35,0$Scolecosporae
+1,cs36$A.  Non-stromatic; ostioles not collectively erumpent
+1,cs37$B. Stromatic, or with collectively erumpent ostioles
+
+cs36,0 $ A.  Non-stromatic; ostioles not collectively erumpent
+1,2 $ Fruit-bodies olive-grey or ochraceous; on old Pyrenomycetes
+1,3 $ Fruit-bodies black
+2,0 $ Fruit-bodies olive-grey; spores filiform; on Bertia or on lichens $ Barya p. 73
+2,0 $ Fruit-bodies ochraceous; spores slenderly fusiform $ Ophionectria p. 473
+3,0 $ On rotten wood; spores not very thin $ Lasiosphaeria p. 108
+3,4 $ On leaves or herbaceous stems
+4,0 $ Asci unitunicate (thin-walled); spores perfectly hyaline. $ Linocarpon p. 207
+4,0 $ Asci bitunicate (moderately thick-walled); spores ± coloured $ Ophiobolus p. 384
+
+
+CS37,0$ B. Stromatic, or with collectively erumpent ostioles
+1,2 $ Stroma and fruit-bodies whitish or coloured, ± fleshy .
+1,5 $ Stroma black outside
+2,0 $ Fruit-bodies free; on Bertia or on lichens $ Barya p. 73
+2,3 $ Fruit-bodies immersed or on other substrata
+3,0 $ Stroma yellowish white, forming a surrounding layer on culms of grasses $ Epichloë p. 75
+3,4 $ Stroma stipitate
+4,0 $ Stromata pin-shaped, springing from sclerotia in seeds. $ Claviceps p. 75
+4,0 $ Stromata springing directly from fungi or dead insects . $ Cordyceps p. 76
+5,0 $ On branches of Corylus $ Sillia p. 200
+5,0 $ On leaves of Salicaceae $ Linospora p. 216
+
+

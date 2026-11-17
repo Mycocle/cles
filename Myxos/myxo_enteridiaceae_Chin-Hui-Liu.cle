@@ -1,0 +1,40 @@
+Titre Chin-Hui Liu : Myxomycetes  Enteridiaceae Taiwan
+com$ Chin-Hui Liu adapt GF 06/2013
+1,0$ référence  : Myxomycetes of Taiwan (XVIII): The Family Enteridiaceae -Taiwania, 51(4): 273-278, 2006
+1,5$  Bibliographie
+1,0$ Introduction : Enteridiaceae, one of the families of Liceales, is established by Farr (1982) due to the genus Reticularia has been replaced by Enteridium (Farr,1976). Members in this family are a group of Myxomycetes with fructifications often large and conspicuous, and in the form of aethalium or pseudoaethalium except Tubifera bombarda which is a sporangiate form. Other distinct characters of this family are the presence of pseudocapillitiumin in various forms, and the absence of true capillitium.///The lacking of dictydine granules is a character separating this family from Cribrariaceae. Four genera are generally accepted in this family althouth one of them, Dictydiaethalium, was removed (Nannenga-Bremekamp, 1985).
+
+1,2 $ Fructification sporangiate; sporangia clustered or united into a pseudoaethalium
+1,3 $ Fructification aethaliate
+2,cs3 $ Fructification sporangiate or pseudoaethaliate with persistent peridium; hypothallus massive, fibrous or spongy $ Tubifera$s"Tubifera"
+2,0 $ Fructification pseudoaethaliate; peridia evanescent at maturity except for thickened strands at the angles, which persist as pseudocapillitial threads depending from the lids; hypothallus not massive or spongy $ Dictydiaethalium
+3,cs2 $ Aethalium subglobose to conical or pulvinate, often on a restricted base; pseudocapillitium of colorless, ornamented tubes; spores in mass pinkish, then pallid $ Lycogala$s"Lycogala"
+3,cs1 $ Aethalium pulvinate on a broad base; pseudocapillitium of frayed or perforated membranes; spores in mass brown, yellow or olivaceous $ Enteridium$s"Enteridium"
+5,0$Chen, Y.-F., P.-A. Yea, J.-H. Chang and C.-H. Liu.  2005. Myxomycetes in Hsien-Chi-Yen, Taipei  City. Coll. and Res. 18: 15-23.///Farr, M. L. 1976. Reticularia Baumgarten (Lichens)  versus Reticularia Bulliard (Myxomycetes).  Taxon 25: 514.///Farr, M. L. 1982. Notes on Myxomycetes III.  Mycologia 74: 339-343.///Ing, B. 1999. The Myxomycete of Britain and  Ireland. The Richmond Publication Co. Ltd.,  England, UK. 374pp.///Liu, C.-H. 1980. Myxomycetes of Taiwan I.  Taiwania 25: 141-151.///Liu, C.-H. 1981. Myxomycetes of Taiwan II.  Taiwania 26: 58-67.///Liu, C.-H. 1982. Myxomycetes of Taiwan III.  Taiwania 27: 64-85.///Martin, G. W. and C. J. Alexopoulos. 1969. The  Myxomycetes. Univ. Iowa Press, Iowa City,USA. 477pp.
+
+cs1,0$
+rem $ Key to the species of Enteridium from Taiwan (inspired by Martin and Alexopoulos, 1969)
+1,0 $ Pseudocapillitium membranous at base (but not perforated), fraying out into dendroid columns of flexuous threads; peridium persistent; aethalia often large, up to 3 cm or more inextent … $ E. lycoperdon
+1,0 $ Pseudocapillitium composed entirely of dendroid columns; peridium thin, brittle, evanescent; aethalia rarely exceeding 2 cm in extent $ E. intermedium
+
+cs2,0$
+
+rem $ Key to the species of Lycogala from Taiwan (inspired by Martin and Alexopoulos, 1969; Ing, 1999)
+1,0 $ Aethalia large, 2 cm or more in diameter; peridium smooth or nearly so, without scales $ L. flavofuscum
+1,2 $ Aethalia less than 2 cm in diameter; peridium with scales or warts
+2,0 $ Aethalia conical, taller than broad $ L. conicum
+2,3 $ Aethalia subglobose or pulvinate, not notably taller than broad
+3,0 $ Aethalia pallid to yellow-brown, rarely blackish, mostly 3-15 mm in diameter; cortical scales neither strongly pustulate nor tessellate; pseudocapillitium strongly sculptured, 6-25 µm in diameter $ L. epidendrum
+3,0 $ Aethalia brownish ochraceous to dark brown or black, mostly 2.5-5.5 mm in diameter, rarely larger; cortical scales pulvinate, prominent, dark, at first pustulate, tending to become tessellate; pseudocapillitium not strongly sculptured, 2-5 µm in diameter $L. exiguum
+
+cs3,0$
+
+com $ Key to the species of Tubifera from Taiwan (inspired by Martin and Alexopoulos, 1969)
+1,0 $ Pseudocapillitium columella-like, sometimes with branches which may reach the peridium $ T. casparyi
+1,2 $ Pseudocapillitium lacking ……
+2,0 $ Hypothallus expanded, not forming a stalk-like structure; spores usually larger than 6 µm in diameter $ T. ferruginosa
+2,3 $ Hypothallus contracted, forming a short thick stalk ...
+3,0 $ Hypothallus white, forming a stalk-like structure, densely covered by small sporangia . $ T. dimorphotheca
+3,0 $ Hypothallus dark, raises slightly as a short and stout stalk without any sporangia on the rim, spores smaller than 6 µm in diameter $ T. microsperma
+
+µm ± 

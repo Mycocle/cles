@@ -1,0 +1,37 @@
+
+ 
+titre$ SAAR 2003: CYSTODERMA AND CYSTODERMELLA
+com$ Adapt GF oct 201
+rem$LANGUE$Anglais
+
+1,0$source : MTCOTAXON Volume LXXXVI, pp. 45S-473 April-June 2003///THE GENERA CYSTODERMA AND CYSTODERMELLA (TRICHOLOMATACEAE) IN TEMPERATE EURASIA///IRJA SAAR
+1,0$
+
+rem$Key to species referred to in this contribution
+1,2 $Stipe with persistent flaring membranous ring.
+1,6 $Stipe with evanescent floccose-scaly ring zone.
+2,3 $Basidiospores 4-5 x 3-3.5 µm, amyloid, broadly ellipsoid to ellipsoid.
+2,4 $Basidiospores longer (>5 µm) than above.
+3,0 $Pileus and stipe white with greyish pink or vinaceous tinge. $Cystoderma carcharias   3. 
+3,0 $Pileus rusty (rarely medium brown or ochre). $Cystoderma fallax   4. 
+4,0 $Pileus ochre, ring narrow. Basidiospores 5-6 x 2.5-3.5 µm, oblong. $Cystoderma intermedium   5. 
+4,5 $Pileus brown, basidiospores wider (>3.5  µm ) than above, broadly ellipsoid to ellipsoid.
+5,0 $Pileus fulvous brown. Basidiospores 5-7 x 3.5-4.5 µm. $Cystoderma tuomikoskii  11.
+5,0 $Pileus rusty brown. Basidiospores 6-10 x 4-6 µm. $Cystoderma arcticum   2. 
+6,7 $Basidiospores amyloid.
+6,11 $Basidiospores inamyloid.$$s"Cystodermella"
+7,0 $Basidiocarp white. Basidiospores 5.5-8.0 x 3.0-4.5 µm, oblong to fusiform. $Cystoderma niveum   8. 
+7,8 $Basidiocarp coloured.
+8,9 $Pileus yellowish ochre.
+8,10 $Pileus brownish ochre to dark brown.
+9,0 $Lamellae white. Basidiospores 5-6.5 x 2.5-3.5 µm, ellipsoid to oblong. Arthrospores lacking or rare beneath pileipellis context. $Cystoderma amianthinum 1. 
+9,0 $Lamellae yellowish. Basidiospores 6-7.5 x 3-4 µm, oblong to fusiform. Arthrospores abundant. $Cystoderma jasonis  6. 
+10,0 $Stipe apex violet or purple. Basidiospores 6-7.5 x 3.5-4 µm, oblong to fusiform. $Cystoderma lilacipes   7. 
+10,0 $Pileus brownish ochre. Basidiospores 5.5-7.5 x 2.5-4 µm, oblong to fusiform. $Cystoderma saarenoksae   9. 
+11,0 $Basidiocarp while. Basidiospores 4-5.5 x 2.5-3 µm, ellipsoid to oblong. $Cystodermella ambrosii   13. 
+11,12 $Basidiocarp coloured
+12,0 $Pileus with different shade of brown. Basidiospores 3.5-4 x 2-2.5 µm. oblong. $Cystodermella granulosa   14. 
+12,13 $Pileus brownish orange or red
+13,0 $Cheilocystidia absent. Basidiospores 4-5 x 2-2.5 µm, ellipsoid to oblong. $Cystodermella adnatifolia   12. 
+13,15 $* Cheilocystidia present. Basidiospores 3.5-4 x 2-2.5 µm, ellipsoid to oblong.$Cystodermella cinnabarina 15.
+µm 

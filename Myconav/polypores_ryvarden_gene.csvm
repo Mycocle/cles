@@ -1,0 +1,82 @@
+
+titre=Polyporus Ryvarden
+commentaire=adapt GF janv 2018
+
+
+ Champ = Polyporus *;Stipitate;Perennial basidiocarps;color;Hymenophore;Septation;Encrusted cystidia;Basidia;Spores;Type of rot
+Abortiporus;single basidiocarps;Annual;;Poroid;clamps;;4 sterigmata and no septa;;White
+Albatrellus;single basidiocarps;Annual;;Poroid;simple septa with smooth spores;;4 sterigmata and no septa;;White
+Amylocystis;;Annual;;Poroid;clamps;Ventricose;4 sterigmata and no septa;;Brown
+Anomoporia;;Annual;;Poroid;clamps;;4 sterigmata and no septa;Amyloid and smooth;Brown
+Antrodia;;Annual;Yellow;Poroid;clamps;;4 sterigmata and no septa;;Brown
+Antrodiella;;Annual;Yellow;Poroid;clamps;;4 sterigmata and no septa;;White
+Auriporia aurolenta;;Annual;Yellow;Poroid;clamps;Ventricose;4 sterigmata and no septa;;Brown
+Bjerkandera;;Annual;Black pore layer;Poroid;clamps;;4 sterigmata and no septa;;White
+Boletopsis.;single basidiocarps;Annual;;Poroid;clamps;;4 sterigmata and no septa;Omamented and negative in Melzer;White
+Bondarzewia;single basidiocarps;Annual;;Poroid;simple septa with omamented spores;;4 sterigmata and no septa;Amyloid and omamented, negative in Melzer;White
+Byssoporia terrestre;;Annual;;Poroid;simple septa with smooth spores;;4 sterigmata and no septa;;White
+Ceriporia;;Annual;Red-orange;Poroid;simple septa with smooth spores;;4 sterigmata and no septa;;White
+Ceriporiopsis;;Annual;;Poroid;clamps;;4 sterigmata and no septa;Amyloid and smooth;White
+Cerrena unicolor;;Annual;;Daedaleoid;clamps;;4 sterigmata and no septa;;White
+Chaetoporellus;;Annual;;Poroid;clamps;;4 sterigmata and no septa;;White
+Climacocystis;;Annual;;Poroid;clamps;Ventricose;4 sterigmata and no septa;;White
+Coltricia;single basidiocarps;Annual;Brown;Poroid;clamps;;4 sterigmata and no septa;Dextrinoid and smooth;White
+Coriolopsis gallica;;Annual;Brown;Poroid;clamps;;4 sterigmata and no septa;;White
+Daedalea;single basidiocarps;Perennial ;;Daedaleoid;clamps;;4 sterigmata and no septa;;Brown
+Daedaleopsis;;Annual;Brown;Lamellate, Daedaleoid;clamps;;4 sterigmata and no septa;;White
+Datronia;;Annual;Brown;Poroid;clamps;;4 sterigmata and no septa;;White
+Dichomitus;;Annual;;Poroid;clamps;;4 sterigmata and no septa;;White
+Diplomitoporus;;Annual;;Poroid;clamps;;4 sterigmata and no septa;;White
+Diplomitoporus lindbladii ;;Annual;;Poroid;clamps;;4 sterigmata and no septa;;White
+Donkiporia expansa;;Annual;Brown;Poroid;clamps;;4 sterigmata and no septa;;White
+Fistulina;;;Red-orange;Poroid;clamps;;4 sterigmata and no septa;;Brown
+Fomes;;Perennial ;Brown;Poroid;clamps;;4 sterigmata and no septa;;White
+Fomitopsis;;Perennial ;;Poroid;clamps;;4 sterigmata and no septa;;Brown
+Ganoderma;single basidiocarps;Perennial ;Brown;Poroid;clamps;;4 sterigmata and no septa;Omamented and negative in Melzer;White
+Gloeophyllum;;Annual;Brown;Lamellate;clamps;Clavate;4 sterigmata and no septa;;Brown
+Gloeoporus;;Annual;Red-orange;Poroid;simple septa with smooth spores;;4 sterigmata and no septa;;White
+Grifola;compound basidiocarps;Annual;;Poroid;clamps;;4 sterigmata and no septa;;White
+Hapalopilus;;Annual;Red-orange, Brown;Poroid;clamps;;4 sterigmata and no septa;;White
+Haploporus odorus;;Perennial ;;Poroid;clamps;;4 sterigmata and no septa;Amyloid and omamented, negative in Melzer;White
+Heterobasidion;;Perennial ;;Poroid;simple septa with omamented spores;;4 sterigmata and no septa;Omamented and negative in Melzer;White
+Heterobasidion annosum;;Perennial ;;Poroid;simple septa with omamented spores;;4 sterigmata and no septa;Omamented and negative in Melzer;White
+Hexagonia nitida;;Perennial ;Brown;Poroid;clamps;;4 sterigmata and no septa;;White
+Inonotus;single basidiocarps;Annual;Brown;Poroid;simple septa with setae;Setae;4 sterigmata and no septa;Dextrinoid and smooth;White
+Irpex lacteus;;Annual;;Hydnoid to irpicoid;clamps;Clavate;4 sterigmata and no septa;;White
+Ischnoderma;;Annual;Brown;Poroid;clamps;;4 sterigmata and no septa;;White
+Jahnoporus;single basidiocarps;Annual;;Poroid;clamps;;4 sterigmata and no septa;;White
+Junghuhnia;;Annual;;Poroid;clamps;Clavate;4 sterigmata and no septa;;White
+Laetiporns;;Annual;Yellow;Poroid;simple septa with smooth spores;;4 sterigmata and no septa;;Brown
+Lenzitella malenconii;;Annual;Brown;Poroid;clamps;;4 sterigmata and no septa;Omamented and negative in Melzer;White
+Lenzites;;Annual;;Lamellate;clamps;;4 sterigmata and no septa;;White
+Leptoporus mollis;;Annual;Red-orange;Poroid;simple septa with smooth spores;;4 sterigmata and no septa;;White
+Lindtneria;;Annual;;Poroid;clamps;;4 sterigmata and no septa;Omamented and negative in Melzer;White
+Meripilus;compound basidiocarps;Annual;;Poroid;simple septa with smooth spores;;4 sterigmata and no septa;;White
+Oligoporus;;Annual;;Poroid;clamps;;4 sterigmata and no septa;;Brown
+Oligoporus sericeomollis;;Annual;;Poroid;clamps;Ventricose;4 sterigmata and no septa;;Brown
+Oxyporus;;Perennial ;;Poroid;simple septa with cystidia;Clavate;4 sterigmata and no septa;;White
+Pachykytospora tuberculosa;;Perennial ;;Poroid;clamps;;4 sterigmata and no septa;Omamented and negative in Melzer;White
+Parmastomyces;;Annual;;Poroid;clamps;;4 sterigmata and no septa;Dextrinoid and smooth;Brown
+Perenniporia;;Perennial ;;Poroid;clamps;;4 sterigmata and no septa;Dextrinoid and smooth;White
+Phaeolus;single basidiocarps;Annual;Brown;Poroid;simple septa with cystidia;;4 sterigmata and no septa;;Brown
+Phellinus;;Annual;Brown;Poroid;simple septa with setae;Setae;4 sterigmata and no septa;;White
+Phylloporia;;Annual;;Poroid;simple septa with smooth spores;;4 sterigmata and no septa;;White
+Physisporinus;;Annual;;Poroid;simple septa with smooth spores;;4 sterigmata and no septa;;White
+Piloporia;;Annual;Brown;Poroid;clamps;;4 sterigmata and no septa;;White
+Piptoporus;;Annual;;Poroid;clamps;;4 sterigmata and no septa;;Brown
+Podofomes;single basidiocarps;Annual;Brown;Poroid;clamps;;4 sterigmata and no septa;;White
+Polyporus;single basidiocarps;Annual;;Poroid;simple septa with smooth spores;;4 sterigmata and no septa;;White
+Polyporus umbellatus;compound basidiocarps;Annual;;Poroid;simple septa with smooth spores;;4 sterigmata and no septa;;White
+Protomerulius caryae;;Annual;;Poroid;clamps;;longitudinal septa;;White
+Pycnoporellus;;Annual;Red-orange;Poroid;simple septa with cystidia;;4 sterigmata and no septa;;Brown
+Pycnoporus;;Annual;Red-orange;Poroid;clamps;;4 sterigmata and no septa;;White
+Pyrofomes demidoffii;;Perennial ;Red-orange;Poroid;clamps;;4 sterigmata and no septa;;White
+Rigidoporus;;Annual;;Poroid;simple septa with cystidia, smooth spores;Clavate;4 sterigmata and no septa;;White
+Schizopora;;Annual;;Daedaleoid;clamps;;4 sterigmata and no septa;;White
+Sistotrema;;Annual;;Poroid;clamps;;4-8 sterigmata;;White
+Skeletocutis;;Annual;;Poroid;clamps;;4 sterigmata and no septa;;White
+Spongipellis;;Annual;;Hydnoid to irpicoid;clamps;;4 sterigmata and no septa;;White
+Trametes;;Annual;;Poroid;clamps;;4 sterigmata and no septa;;White
+Trechispora;;Annual;;Poroid;clamps;;4 sterigmata and no septa;Omamented and negative in Melzer;White
+Trichaptum;;Annual;;Lamellate, Hydnoid to irpicoid;clamps;Clavate;4 sterigmata and no septa;;White
+Tyromyces;;Annual;;Poroid;clamps;;4 sterigmata and no septa;;White

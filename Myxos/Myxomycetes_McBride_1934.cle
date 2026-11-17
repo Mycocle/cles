@@ -1,0 +1,1044 @@
+titre $Myxomycetes McBride 1922-1934
+com $adapté  GF juillet 2013
+343 espèces
+
+1,cs300 $compléments
+1,0 $definition Myxomycetes : Chlorophyl-less organisms whose vegetative phase consists of a naked mass of multinuclear protoplasm, the Plasmodium; reproduced by spores  which are either free or more commonly enclosed in sporangia, and which  n germinating produce ciliated or amoeboid zoospores, whose coalescence gives rise to the Plasmodium.
+1,cs101 $. Parasites, in the cells of living plants $PHYTOMYXINAE $s"PHYTOMYXINAE"
+1,3 $ Saprophytes, developed in connection with decaying vegetable matter
+3,cs1 $. With spores in receptacles or sporangia  $Myxogastres $s"Myxogastres"
+3,cs103 $. With free spores  $Exosporeae $s"Exosporeae"
+
+
+Rem $   µm 
+
+cs300,0 $
+1,cs301$ bibliographie
+1,0 $Figures McBride 1922 $ $f"Myxomycetes_McBride_1922_figures.pdf"
+1,0 $Figures McBride 1934 $ $f"Myxomycetes_McBride_1934_figures.pdf"
+1,0 $ couleurs du plamode $ $f"Myxomycetes_McBride_1922_Couleurs-plasmode.txt"
+
+cs301,0$
+1,0$-The north american slime-moulds a descriptive list of all species of myxomycetes itherto reported from the continent of north america with notes on some extra-limital species by  thomas h. macbride  1922///-The myxomycetes a descriptive list of the known species with special  reference to those occurring in north america by Thomas H. Macbride and G. W. Martin, state university of iowa
+
+
+cs1,0 $KEY TO ORDERS OF TRE MYXOGASTRES
+1,2  $Spore mass black or deep violaceous, rarely ferruginous or pallid ; capillitium always present
+1,3 $Spore mass usually brown or yellow, sometimes purplish or rosy, very rarely blackish brown ; capillitium present or absent .
+2,cs5  $Peridium or capillitium, or both, calcareous  $Order PHYSARALES  $s"Order PHYSARALES"
+
+2,cs2 $Peridium and capillitium usually limeless ; lime if present restricted to hypothallus, stipe and columella  $Order STEMONITALES $s"Order STEMONITALES"
+3,cs27  $True capillitium none or scanty (except in genus Alwisia) ; pseudocapillitium often present, of tubules or perforated plates which sometimes fray out into threads ; spores pallid, brown or purplish  $Order LICEALES $s"Order LICEALES"
+3,cs36 $Capillitium thread-like, more or less distinctly sculptured, parietal or free ; spores pallid or yellow  $Order TRICHIALES  $s"Order TRICHIALES"
+
+
+cs5,0 $KEY TO FAMILiae OF PHYSARALES
+1,cs51 $Capillitium more or less calcareous, usually reticulate or anastomosing in intricate fashion ; calcareous deposits often affecting entire fructification  $Physaraceae $s"Physaraceae"
+1,cs14 $Capillitium non-calcareous, usually less intricate ; calcareous deposits affecting the peridium only, or the peridium and the stipe  $Didymiaceae  $s"Didymiaceae"
+
+cs51,0 $
+rem  $KEY TO THE GENERA OF THE PHYSARACEAES
+1,cs6  $Fructification athalioid  $1 Fuligo"  $s"Fuligo"
+1,2  $Fructification plasmodiocarpous or of separate sporangia .
+2,cs7  $Capillitium composed of a network of tubules, calcareous throughout  $Badhamia 2  $s"Badhamia"
+2,3  $Capillitium of hyaline threads connecting nodules of lime
+3,4  $Peridium obviously calcareous
+3,8  $Peridium appearing nearly limeless
+4,cs8 $Fructification long-cylindrical, branching, pendent  $Erionema 3 $s"Erionema"
+4,5  $Fructification plasmodiocarpous and appressed to substratum, or of sessile or stalked sporangia
+5,CS13  $Dehiscence circumscessile or by a definite lid  $5 Craterium $s"Craterium"
+5,6  $Dehiscence irregular 
+6,cs10  $Fructification plasmodiocarpous or of distinct sporangia, the latter subglobose, laterally appressed or gyrose, but the peridium not introverted  $Physarum 4  $s"Physarum"
+6,7  $Fructification rarely plasmodiocarpous, usually of stalked sporangia, with the peridium more or less introverted
+7,cs78  $Sporangia saucer-shaped, fragile ; dehiscence irregular  $Trichamphora 6 $s"Trichamphora" $s"Trichamphora"
+7,cs73  $Sporangia thimble-shaped, rarely plasmodiocarpous ; dehiscence by petal-like lobes .  $Physarella 7 $s"Physarella"
+8,cs59  $Plasmodiocarpous ; capillitium with free, hooked branches  $Cienkowskia 8 $s"Cienkowskia"
+8,cs71  $Sporangia distinct, ovoid ; peridium shining  $Leocarpus 9  $s"Leocarpus" $s"Leocarpus"
+
+cs6,0 $
+rem  $KEY TO THE SPECIES OF FULIGO p20
+1,0  $Spores predominantly elliptical ; fructification plasmodiocarpous or aethalioid ; crust white  $F cinerea l
+1,2  $Spores predominantly spherical ; fructification aethalioid ; cortex various
+2,0  $Aethalia small, usually l cm or less in diameter  $F muscorum 2
+2,3  $AEthalia larger, usually 2 cm or more in diameter
+3,0  $Spores mostly 6-9 µm, always under 10 µm  $F septica
+3,4  $Spores 11 µm or larger
+4,0  $Cortex thin, fragile, not calcareous, grayish or brownish, often wanting ; spores 11-13 µm, nearly smooth.  $F intermedia 4.
+4,0  $Cortex thick, spongy, calcareous ; spores 15 µm or over, rough-tuberculate .  $F megaspora 5. 
+
+µm
+cs7,0 $
+rem $KEY TO THE SPECIES OF BADHAMIA p 26
+1,2  $Spores adherent in firm, globose clusters
+1,6  $Spores free or only slightly and irregularly adherent
+2,0  $Spores elliptical or oval  $ B versicolor 1
+2,3  $Spores spherical or pyriform
+3,0  $Sporangia yellow  $ B nitens 2
+3,4  $Sporangia gray or white
+4,0  $Stipitate, rarely sessile ; stipe short, dark  $ B papaveracea 3
+4,5  $Usually sessile ; stipe, when present, yellow or straw colored ..
+5,0  $Sporangia gray, walls thin, translucent, white when empty ; spores warted  $ B capsulifera 4
+5,0  $Sporangia white, rarely pale rose, calcareous ; spores sometimes marked by bands or ridges  $ B populina 5
+6,0  $Spores tending to adhere somewhat, but not in regular clusters ; iridescent  $ B utricularis 6
+6,7  $Spores wholly free
+7,0  $Spores ovoid ; sporangia white or ochraceous, minute  $ B ovispora 8
+7,8  $Spores typically spherical
+8,9  $Sporangia yellow or yellowish .
+8,10  $Sporangia gray, white or iridescent
+8,18  $Sporangia pale lilac or brown
+9,0  $Sessile ; dull yellow  $B decipiens 9
+9,0  $Stipitate ; yellow-green or gray with a yellow base  $B viridescens 10
+10,0  $Spores warted with overlying coarse reticulation  $B gracilis 14
+10,11  $Spores not reticulate
+11,0  $Sporangia flattened ; discoidal to annulate or plasmodiocarpous  $B orbiculata 12
+11,12  $Sporangia not greatly flattened, pulvinate, hemispherical or subspherical .. .
+12,0  $Sporangia gray, iridescent, borne on long, slender, flaccid, straw-colored stalks  $ B magna 7
+12,13  $Stipes shorter, or lacking
+13,0  $Spores usually over 15 µm $B affinis 11
+13,14  $Spores usually under 15 µm
+14,0  $Sporangia ashy, heaped ; spores very dark, coarsely and densely spiny  $B cinerescens 15
+14,15  $Sporangia paler ; spores more finely spinulose .
+15,0  $Sporangia white, stained with yellow or brown below ; spores dark, spinulose, 12-15 µm  $B macrocarpa 13
+15,16  $Sporangia without yellowish stains ; spores paler, smoother and smaller
+16,0  $Capillitium dense, usually massed in center to form a pseudocolumella  $B panicea 16
+16,17  $Capillitium less dense, not forming a pseudocolumella
+17,0  $Sporangia usually sessile, sometimes with a short, yellowish, flaccid stalk ; spores dusky violaceous  $B foliicola 17
+17,0  $Always sessile on a broad base ; spores grayish lilac ; alpine  $B alpina 18
+18,0  $Sporangia pale lilaceous, rarely white ; spores roughly warted or subreticulate  $ B lilacina 19 
+18,0  $Sporangia grayish brown, stipitate ; spores dark, roughened, 12-14 µm $B rubiginosa 20
+18,0  $Sporangia darker, sessile ; spores roughly warted, 15-18 µm  $ B subaquila 21 
+
+cs8,0 $3. Erionema  $Erionema
+Myx. Buitenzorg 36. 1898.
+1,0 $Sporangia plasmodiocarpous, cylindrical, simple or branched; capillitium a network of slender colorless threads, elastic; nodules few and small. $Erionema aureum Penzig Myx. Buitenzorg 37. 1898
+
+
+cs10,0 $
+KEY TO THE SPECIES OF PHYSARUM p41
+rem $KEY TO THE SPECIES OF PHYSARUM
+1,cs11 $Capillitium irregularly reticulate ; lime-knots various, typically large and irregular I. $Section Euphysarum $s"Section Euphysarum"
+1,cs12 $Capillitium regular, forked and radiating ; lime-knots smaller, fusiform II. $Section Tilmadoche $s"Section Tilmadoche"
+
+cs11,0 $
+rem  $EUPHYSARUM p 41
+1,2  $Fructification sessile, often plasmodiocarpous .
+1,12  $Fructification sporangiate, stalked 
+2,3  $Peridium single, or, if double, inner peridium very delicate and closely attached to outer
+2,8  $Peridium plainly double 
+3,4  $White or cinereous
+3,5  $Some shade of yellow or green
+3,6  $Orange-red, red or brown .
+3,7  $Dark gray, dull violet, blue or iridescent
+4,0  $Peridium granular ; spores sometimes oval .  $P ovisporum 1
+4,0  $White or gray, calcareous ; spores dark, rough, 9-12 µm  $P vernum 2
+4,0  $Cinereous ; wall thin, delicate ; spores bright lilac, finely spinulose, 7-11 µm  $P cinereum 3
+4,0  $Sessile, but narrowed at base ; lime forming a fine reticulation over surface  $P gilkeyanum 4
+4,0  $Sporangia depressed, annulate or umbilicate above, rarely with short stalks ; spores 12-15 µm  $P megalosporum 5
+4,0  $Gray, sometimes slightly bluish ; peridium smooth ; spores pale, 6-8 µm $P sessile 6
+5,0  $Pale yellow to ochraceous ; spores 10-13 µmo o  $P serpula 7 
+5,0  $Bright yellow ; spores 9-12 µm  $P aureum 8 
+5,0  $Yellow or greenish yellow to green ; spores 7-10 µm  $P virescens 9 
+6,0  $Vermilion or scarlet ; lime-knots rounded, yellow, often with red centers  $P lateritium 10 
+6,0  $Rusty or reddish brown ; lime-knots angular, dull red or yellowish  $P rubiginosum 11
+6,0  $Tawny or day colored ; very small, crowded ; spores 6-7 µm  $P digitatum 12 
+6,0  $Brownish orange or chestnut ; spores 10-12 µm  $P famintzini 13 
+7,0  $Dull violet-brown ; small, densely clustered and super- imposed ..  $P confertum 14
+7,0  $Blue-gray, iridescent ; lime in form of flat scales  $P lepidoideum 15
+7,0  $Dull gray, somewhat iridescent ; limeless .  $P nudum 16 
+8,0  $Red .  $P nasuense 16a 
+8,9  $white or pallid .
+8,10  $Yellow or ochraceous
+8,11  $Some shade of brown
+9,0  $Laterally compressed, chalk white ; spores subreticulate  $P echinosporum 17 
+9,0  $Laterally compressed, white or gray, sometimes yellowish ; inner peridium colorless or pallid .  $P bivalve 18
+9,0  $Somewhat compressed or terete, white or pallid ; inner peridium purplish  $P bitectum 19 
+9,0  $Hemispherical, rarely laterally compressed, snow-white ; outer peridium diderma-like, remote  $P diderma 20 
+10,0  $Pale yellow to yellowish white ; plasmodiocarpous ; spores 9-14 µm $P alpinum 21
+10,0  $Ochraceous, sporangiate ; peridial walls distant ; spores 8-10 µm  $P conglomeratum 22 
+10,0  $Deep ochraceous to pallid ; short-plasmodiocarpous to reniform, densely crowded ; spores spinulose, 11-13 µm  $P contextum 23
+10,0  $Ochraceous to pallid ; usually sporangiate, not crowded ; outer peridium breaking up into scales, inner peridium persistent below ; spores warted, 11-13 µm  $P mortoni 24 
+11,0  $Sporangiate ; sessile or short-stalked, rarely plasmodiocarpous ; lower part remaining as a cup ..  $P brunneolum 25
+11,0  $Usually plasmodiocarpous ; pinkish brown or bronze  $P ameum 26
+11,0  $Usually plasmodiocarpous ; outer peridium yellow-brown, dehiscing by triangular lobes revealing the pure white inner surface  $P bogoriense 27 
+12,13  $Columella large, conspicuous
+12,14  $Columella small, conical, sometimes imperceptible
+12,17  $Columella lacking, pseudocolumella sometimes present 
+13,0  $Columella long, slender, acuminate ; sporangia ellipsoidal, greenish ..  $P penetrate 28
+13,0  $Columella cylindrical ; sporangia pink  $P puniceum 29 
+13,0  $Columella stout, cylindrical or clavate, sometimes reduced ; sporangia globose, grayish white or pale brown  $P crateriforme 30
+13,0  $Columella subglobose or clavate, yellow .  $P listeri 31 
+13,0  $Columella white, conica!, attaining one-third the height of the sporangium ; stipe stout, yellowish .  $P perfectum 32 
+14,0  $Sporangia pale bluish gray to white ; nodes white or yellowish  $P globuliferum 33 
+14,0  $Sporangia ashy brown ; nodes orange to brownish  $P murinum 34
+14,15  $Sporangia yellow or orange
+14,16  $Sporangia lilac to purple or blue
+15,0  $Honey yellow ; columella and stipe white, yellow or tawny ; nodes white .  $P melleum 35
+15,0  $Bright yellow ; columella and stipe yellow ; nodes yellow  $P citrinum 36
+15,0  $Yellow-orange to bronze tawny ; stipe orange-red, darker at base  $P pulcherripes 37
+16,0  $Sporangia and stalk deep purple-red ; nodes small, purple  $P pulcherrimum 38 
+16,0  $Pale lilac to pale red, rarely blue ..  $P lilacinum 39 
+17,18  $Sporangia with a conspicuous, white calcareous nucleus at center • .
+17,19  $Sporangia non-nucleate .
+18,0  $Globose, white ; peridium membranous, capillitium dense ..  $P nucleatum 40
+18,0  $Gray or brown ; capillitium delicate  $P willgatense
+18,0  $Ovoid or cylindric, crowded ; outer peridium white, calcareous, sometimes lacking ; inner peridium lead colored ; spores 12-15 J..L o  $P didennoides 42
+18,0  $Lime mass often columella e ; stalked, sessile or plasmodiocarpous ; spores 7-10 J..L  $P mutabile 43 
+18,0  $Sporangia multilobate, contorted  $P nicaraguense 44 
+18,0  $Discoidal or top-shaped, depressed or umbilicate above  $P discoidale 45
+19,20  $Sporangia not globose or lenticular .
+19,21  $Sporangia globose, subglobose or lenticular
+20,0  $Sporangia white ; thin, saucer-shaped .  $P javanicum 46
+20,0  $Sporangia white or ashy ; laterally compressed, circular to reniform, sometimes sessile and almost plasmodiocarpous .  $P compressum 47
+20,0  $Sporangia pale purple ; obovate or wedge-shaped ; stipe pallid, weak, often fattened .  $P straminipes 48 
+21,0  $Brilliant purple ; short-stemmed, sometimes sessile  $P newtoni 49 
+21,0  $Rose-red ; stipe exceeding sporangium  $P roseum 50
+21,0  $Blue or bronze, iridescent, spotted with red or orange ; stipe brilliant orange  $P psittacinum 51 
+21,22  $Gray, white or iridescent .
+21,23  $Yellow or yellowish
+22,0  $Stipe snow-white, fragile ; peridium didymium-like  $P leucopus 52
+22,0  $Stipe pale fuscous to brown, stout, short, wrinkled ; peridium white to bluish  $P leucophceum 53 
+22,0  $Stipe bright yellow ; nodes small, yellow ..  $P maculatum 54
+22,0  $Sporangia depressed-globose, stipitate or sessile, strongly calcareous ; stipe dark, opaque, sometimes frosted with white granules  $P notabile 55
+22,0  $Stipe long, slender, bright brown ; sporangia nearly globose, rather small, 0.4-0.6 mm  $P pusillum 56 
+22,0  $Stipe shorter, robust, dark ; sporangia larger, iridescent, with scanty lime deposits  $P tropicale 57
+23,24  $Color dull ; pale, ochraceous, fulvous to nearly black
+23,25  $Bright yellow
+24,0  $Dull yellow to dusky ; minute ; spores 7-9 J..L  $P simplex 58 
+24,0  $Yellowish white to fulvous ; stipe weak, often lacking ; spores dark, rough, 12-15 J..L  $P albescens 59 
+24,0  $Pale or deep ochraceous ; spores violaceous, 10-12.5 J..L  $P citrinellum 60 
+24,0  $Dingy yellow to brownish ochraceous, often obovate or cylindrical ; stipe short ..  $P variabile 61
+24,0  $Peridium membranous, ochraceous above, lower part and stipe with flesh tints  $P cameum 62 
+24,0  $Yellowish to sooty, often iridescent  $P flavicomum 63 
+24,0  $Sulphur-yellow to olive-yellow ; nodes large, white  $P sulphureum 64
+25,0  $Golden yellow ; capillitium yellow, badhamioid ; stipe short or lacking .  $P auriscalpium 65
+25,0  $Pale yellow or straw colored, rarely gray ; dehiscence petaloid ; stipe slender ; nodes small, rounded  $P tenerum 66
+25,0  $Golden yellow ; peridium thin ; capillitium dense, yellow, the nodes few, small and angular .  $P galbeum 67
+25,0  $Peridium bright yellow, rough ; nodes yellow, dense, connected by yellow or hyaline threads  $P oblatum 68 
+
+
+cs12,0 $
+II. TlLMADOCHE p 44
+
+1,0 $Plasmodiocarpous, almost aethalioid  $P. gyrosum 69
+1,2 $Sporangiate, stalked 
+2,0 $Sporangia compound, gyrose  $P. polycephalum 70
+2,3 $Sporangia single
+3,0 $Spores reticulate ; sporangia dull orange to brown  $P. dictyospermum 71
+3,4 $Spores not reticulate
+4,0 $Gray or white, nodding  $P. nutans 72
+4,0 $Yellow, greenish yellow or rusty orange ; nodding. $P. viride 73
+4,0 $Iridescent-blue with pale yellow scales ; usually erect on short stipe  $P. bethelii 74
+4,0 $Yellow, orange or iridescent ; lenticular, often umbilicate ; capillitium rigid, rod-like  $P. rigidum 75
+
+
+
+cs13,0 $
+KEY TO THE SPECIES OP CRATERIUM p 93
+
+REM  $KEY TO TRE SPECIES OF CRATERIUM 
+1,2  $Dehiscence circumscissile or by the breaking up of the upper wall of the sporangium
+1,4  $Dehiscence by a distinct lid
+2,0  $Sporangia violet or purple  $C paraguayense 1
+2,0  $Sporangia yellow  $C aureum 2
+2,3  $Sporangia white-capped .
+3,0  $Sporangia subglobose to obovoid  $C leucocephalum 3
+3,0  $Sporangia elongate, cylindrical ..  $C cylindricum 4
+4,0  $Capillitium entirely white  $C minutum 5
+4,0  $Lime-knots pale brown, small  $C concinnum 6
+4,0  $Lime-knots pinkish or reddish brown, some large  $C rubronodum 7
+
+cs14,0 $
+rem  $KEY TO THE GENERA OF THE DIDYMIACEE p103
+1,2  $Calcareous deposits in the form of stellate crystals .
+1,3  $Calcareous deposits not stellate crystals
+2,cs72  $aethalioid  $Mucilago 1 $s"Mucilago"
+2,cs15  $Plasmodiocarpous or sporangiate  $2 Didymium $s"Didymium"
+3,4  $Peridium strongly and continuously calcareous
+3,6  $Calcareous deposits not continuous ; scattered ; sometimes restricted to basal portion ; rarely lacking
+4,cs74  $Lime on surface of peridium in form of cylindrical peg-like protuberances  $Physarina  $s"Physarina"
+4,5  $Lime forming a granular or firm shell
+5,cs16  $Peridium double ; layers often distant  $Didermae 4
+5,0 $Peridium single .. $S Wilczeki
+6,cs19  $Calcareous deposits in the form of scattered, flattened scales  $6 Lepidoderma $s" Lepidoderma"
+6,CS52  $Calcareous deposits restricted to basal region, embedded in a dark, granular deposit  $Leptoderma 7
+
+
+cs15,0 $
+rem  $KEY TO THE SPECIES OF DIDYMIUM p 105
+1,0  $Lime crystals aggregated into discoidal, often concave scales, sessile or plasmodiocarpous  $D nivicolum 1
+1,2  $Lime crystals scattered or forming a powdery coating on surface of peridium .
+1,12  $Crystals combined to form a shell-like crust
+2,3  $Plasmodiocarpous .
+2,6  $Sporangiate
+3,0  $Yellowish or tawny ; spores dark, tuberculate, 12-15  µm ,  $D fulvum 2
+3,0  $Pale brown or ochraceous ; spores pale, smooth, 5-7  µm ,  $D ochroideum 3
+3,4  $Lime coat white ; inner peridium usually dark
+4,0  $Flattened, thin ; capillitium bearing conspicuous vesicles  $D complanatum 4
+4,5  $Capillitium not bearing vesicles
+5,0 $Capillitium of vertical, tubular columns containing crystalline lime .  $D anomalum 5
+5,0  $Capillitium only slightly branched ; columella lacking ; plasmodiocarps small ; sometimes sporangiate, rarely with a short stalk  $D anellus 6
+5,0  $Capillitium dense, dark ; plasmodiocarp very flat ; spores 11-14 µm  $D dubium 7
+6,0  $Sporangia sessile or nearly so ; crust thick, fragile, distant  $ D crustaceum 8
+6,7  $Typically with distinct stipes
+7,8  $Peridium usually depressed or lenticular, umbilicate 2elow ..
+7,11  $Peridium subglobose or globose, not markedly um- silicate
+8,0  $Spores irregularly reticulate ; stipe often yellowish or pinkish  $ D intermedium 9
+8,9  $Spores nearly smooth to spiny or warted, but not reticulate .
+9,0  $Stipe yellow or orange ; peridium cartilaginous, yellowish ; lime often in scale-like clusters  $D leoninum 10
+9,0  $Stipe pale brown ; peridium grayish buff ; columella yellowish, rough or spiny  $D eximium 11
+9,0  $Stipe white, fluted ; fructification sometimes sessile or plasmodiocarpous  $D squamulosum 12
+9,10  $Stipe very dark to black 
+10,0 $Sporangia greatly flattened, discoid ..  $D clavus 13
+10,0  $Less compressed, large, over 0.5 mm in diameter ; capillitium dark, coarse  $D melanospermum 14
+10,0  $Smaller ; capillitium pale, delicate  $D minus 15
+11,0  $Stipe dark brown to black ; columella dark, often nearly obsolete  $D nigripes 16
+11,0  $Stipe yellow to yellow-brown ; columella white or pallid  $D xanthopus 17
+12,0  $Sessile or short-stalked ; ochraceous or yellowish white ; columella very large, pulvinate  $D vaccinum 18
+12,0  $Broadly plasmodiocarpous, depressed and very thin ; peridium tending to break away as a whole  $D listeri 19
+12,13  $Sessile, pulvinate to plasmodiocarpous
+13,0  $Spores nearly smooth, 12-14 µm ..  $ D difforme 20
+13,0  $Spores very dark, rough, obscurely banded and subreticulate, 12-15 µm. peridium diderma-like, the crystals obscure .  $D quitense 21
+13,0  $Spores with short spines, often clustered, sometimes with reticulate patches, 9-10 µm  $ D trachysporum 22 
+
+
+cs16,0 $
+KEY TO THE SPECIES OF DIDERMA p 121
+1,cs17 $Outer wall of sporangium calcareous, crustose, fragile ; inner wall membranous, usually distant, rarely lacking I. Section Eudiderma $s"Eudiderma"
+1,cs18 $Outer wall of sporangium cartilaginous ; inner wall often not distinct, or concrete with the outer II. Section Leangium $s"Section Leangium"
+
+ cs17,0 $
+rem  $EUDIDERMA p 121
+1,2  $More or less plasmodiocarpous or on a plasmodiocarp- like hypothallus
+1,4  $Sporangiate or forming small separate plasmodiocarps
+2,0  $Broadly effused, flattened, varying to short plasmodiocarps massed in a larger network ; occasionally of separate sporangia ; spores 7-10 µm  $D effusum 1
+2,3  $Plasmodiocarps smaller, spores larger
+3,0  $Plasmodiocarpous, or sporangiate on a plasmodiocarp- like hypothallus ; spores about 12 µm  $D alpinum 2
+3,0  $Plasmodiocarpous to discoid, rarely with a short stalk ; spores 10-15 µm $D chondrioderma 3
+4,0  $Spores marked with prominent but incomplete reticulations  $D subdictyospennum 4
+4,5  $Spores warted, spiny or nearly smooth
+5,0  $Brown or brick-red, fading to brownish ochraceous  $D simplex 5
+5,6  $white, grayish or pale flesh colored
+6,7  $Seated on a common hypothallus 
+6,9 $Sporangia not on a common hypothallus
+7,0  $Outer wall not porcelain-like, adhering to inner wall  $D spumarioides 6
+7,8  $Outer wall firm, porcelain-like, separate from the inner wall
+8,0  $Sporangia in a dense, crustose mass ; walls remote ; spores 11-14 µm $D crustaceum 7
+8,0  $Sporangia gregarious ; walls remote ; spores 7.5-10 µm  $D globosum 8
+8,0  $Sporangia crowded, large, substipitate, walls dose ; inner wall and columella brownish or fiesh colored  $D lyallii 9
+9,10  $Sporangia sessile
+9,11  $Sporangia stipitate
+10,0  $Outer peridium white or pallid ; inner distinct, ochraceous ; capillitium duplex  $ D niveum 10
+10,0  $Outer wall porcelain-like, pale rose ; capillitium simple  $D testaceum 11
+11,0  $Sporangia greatly flattened, discoid  $D hemispluericum 12
+11,0  $Sporangia hemispherical to subglobose  $D montanum 13
+
+
+cs18,0 $
+rem $Il LEANGIUM p122
+1,2  $Sessile, rarely short-stipitate .
+1,6  $Usually with a distinct stipe 
+2,3 $Inner peridium distinct
+2,4  $Peridial layers more or less united
+3,0  $Brownish or pinkish gray ; spores 12-13 µm  $D sauteri 14
+3,0  $Ochraceous or olivaceous ; spores 9-11 µm  $D ochraceum 15
+3,0  $White above, deep red below ; columella clavate, rough, deep red  $ D cor-rubrum 16
+4,0  $Middle layer of peridium subcrystalline ; columella usually lacking  $D trevelyani 17
+4,5  $Middle layer of peridium not crystalline
+5,0  $Peridium chocolate, marked before dehiscence with lines converging at apex ; columella white  $D asteroides 18
+5,0  $Pinkish or red-brown ; columella cream colored, rough  $D antarcticum 19
+5,0  $Dark gray to nearly black ; columella lacking  $D imperiale 20
+6,7  $Stipe short, less than height of sporangium .
+6,8  $Stipe equal to or exceeding height of sporangium
+7,0  $Ashy to brownish drab .  $D radiatum 21
+7,0  $Umberto red-brown  $D roanense 22
+7,0  $Orange-red or vermilion  $D lucidum 23
+8,0  $Brownish gray, ochraceous brown or umber ; wall smooth ; dehiscence revolute  $D floriforme 24
+8,0 $White or grayish ; wall rugulose, areolate and areolately dehiscent $D rugosum 25
+
+
+cs19,0 $
+
+rem  $KEY TO THE SPECIES OF LEPIDODERMA p 141
+
+1,0  $Sporangia stipitate, stipe bright orange-brown ; rarely sessile on an orange-brown hypothallus  $L tigrinum 1
+1,2  $Typically sessile or plasmodiocarpous ; rarely stipitate and stipe then dark
+2,0  $Subglobose, pulvinate or short-plasmodiocarpous ; spores 10-13 µm ..  $L chailletii 2
+2,3  $Typically plasmodiocarpous ; spores usually larger .
+3,0  $Spores 15-18 p. ; capillitium usually vesicular  $L granuliferum 3
+3,0  $Spores 11-15 p. ; capillitium not vesicular $L carestianum 4
+
+
+cs2,0 $
+Rem key TO THE FAMILIES OF THE STEMONITALES 144
+1,cs56 $Outer wall of peridium gelatinous; sporangiate; columella lacking  $Collodermaceae $s"COLLODERMACEAE"
+1,2 $Peridium membranous, often early fugacious; aethalioid or sporangiate; columella typically well developed, rarely rudimentary or lacking 
+2,cs49 $Fructification aethalioid or of separate sporangia; columella usually prominent, giving rise to a branched capillitium; in a few forms columella and capillitium poorly defined  $Stemonitaceae $s"Stemonitaceae"
+2,cs24 $Sporangia always distinct ; capillitium developed chiefly or only from the summit of the columella  $Lamprodermaceae $s"Lamprodermaceae"
+
+cs49,0 $
+rem $KEY TO THE GENERA OF THE STEMONITACEaE p 146
+1,cs20 $Stipe and columella calcareous, rarely waxy  $Diachea $s"Diachea" 1
+1,2  $wholly non-calcareous
+2,3  $Fructification aethalioid
+2,5  $Fructification sporangiate
+3,cs77  $Capillitial threads unbranched, united into columnar cords and attached to both base and peridium ; columella lacking  $Schenella 2 $s"Schenella "
+3,4  $Capillitium branched, dendroid
+4,cs21 $Columelle obscure or lacking ; capillitium not vesicular  $3 Amaurochaete $s" Amaurochaete"
+4,cs55  $Columellae distinct above, merging below ; capillitium vesicular  $Brefeldia 4 $s"Brefeldia"
+5,cs22 $Tips of capillitial branches united to form a more or less complete surface net  $Stemonitis $s"Stemonitis" 5
+5,cs23  $Surface net lacking, or scantily and imperfectly developed  $Comatricha $s"Comatricha" 6
+
+cs20,0 $
+rem  $KEY TO THE SPECIES OF DIACHEA p 146
+1,2  $Lime deposits white 
+1,6  $Lime deposits orange, or lacking
+2,0  $Sporangia typically cylindrical  $D leucopodia 1
+2,3  $Sporangia ovate, globose or hemispherical .
+3,4  $Stalks equalling or exceeding height of sporangia
+3,5  $Stalks very short, sometimes lacking
+4,0  $Spores sparsely and irregularly warted  $D bulbillosa 2
+4,0  $Spores with numerous dark warts and lines forming an imperfect reticulation .  $D splendens * 3
+5,0  $Spores spinulose or warted .  $D radiata 4
+5,0  $Spores distinctly warted-reticulate ..  $D subsessilis 5
+6,0  $Calcareous deposits orange or orange-yellow  $D thomasii 6
+6,0  $Lime lacking ; stem translucent, waxy or black, with wax deposited as a collar a t junction with sporangium  $D cerifera 7
+
+cs21,0 $
+rem  $KEY TO TRE SPECIES OF AMAUROCHAETE p 158
+1,2  $Capillitium rigid, irregular
+1,4  $Capillitium soft, woolly, circinate
+2,0  $Capillitium and spores brown in mass ; spores 7.5-9  µm .,pale  $A ferruginea 1
+2,3  $Capillitium and spores black in mass ; spores 12.5-15 µm .
+3,0  $Spores spinulose  $A fuliginosa 2
+3,0  $Spores strongly reticulate ..  $A trechispora 3
+4,0  $Capillitium composed of numerous stout, often columella- like branches, giving rise to a dense network  $A tubulina 4
+4,0  $Capillitium composed almost wholly of slender flexuose threads .  $A comata 5
+
+
+cs22,0 $
+rem  $KEY TO TRE SPECIES OF STEMONITIS p 160
+1,2  $Spores reticulate or verrucose-reticulate 
+1,6 $Spores not reticulate ; verrucose to smooth
+2,0  $Sporangia connate below .. , .  $S trechispora 1
+2,3  $Sporangia distinct, appressed or scattered
+3,0  $Spore-mass black ; net developed mainly at base ; 3-6 mm tall  $S nigrescens 2
+3,4  $Spore-mass fuscous or paler
+4,0  $Dark fuscous ; surface net rather coarse ; 18-25 mm tall  $S dictyospora 3
+4,0  $Fuscous ; surface net fine-rneshed ; usually 6-10 mm tall  $S fusca 4
+4,5  $Paler, with vinaceous tints, in small clusters ; usually under 6 mm tall .
+5,0  $Benzo-brown ; spores banded-reticulate ; surface net often incomplete .•  $S virginiensis 5
+5,0  $Lilaceous brown ; spores faintly and irregularly reticulate ; surface net developed below only  $S hyperopta 6
+6,0  $Sporangia connate with plate-like processes at junctions of capillitial branches of adjoining sporangia .  $S confluens 7
+6,7  $Sporangia separate .
+7,0  $Spores in clusters of 4 or more  $S uvifera 8
+7,8  $Spores not in clusters 
+8,9  $Sporangia over 15 mm tall, flexuous
+8,10  $Sporangia under 15 mm tall, subflexuous to erect
+9,0  $Sporangia angular in section ; columella more or less lateral  $S fenestrata 9
+9,0  $Sporangia terete ; columella central  $S splendens 10
+10,0  $Peridial net with coarse meshes, 50-125 p across  $S webberi 11
+10,11  $Meshes of peridial net mostly less than 50 
+11,12  $Spores under 7 µm in diameter, nearly smooth
+11,13  $Spores 7 µm in diameter or larger, verrucose
+12,0  $Sporangia 7-15 mm tall ; ferruginous ; spores 5-7 µm  $S axifera 12
+12,0  $Sporangia under 5 mm tall ; vinaceous ; spores 4-5 µm  $S smithii 13
+13,0  $Purplish ferruginous ; closely fasciculate ; columella often with plate-like expansions at tip  $S flavogenita 14
+13,14  $Sporangia in small, scattered clusters or gregarious ; columella without plate-like expansions
+14,0  $Slender, acuminate ; columella dissipated below tip of sporangium ; 7-10 mm tall .  $S carolinensis 15
+14,15  $Columella ending abruptly below obtuse tip of sporangium, 3-7 mm tall
+15,0  $Peridial net close-meshed, scantily developed above ; usually on wood ..  $S pallida 16
+15,0  $Peridial net very fine, complete ; usually on herbaceous stems or leaves .  $S herbatica 17
+
+
+
+KEY TO THE SPECIES OF COMATRICHA
+cs23,0 $KEY TO THE SPECIES OF COMATRICHA 171
+rem $KEY TO THE SPECIES OF COMATRICHA 171
+1,2  $Peridium iridescent, persistent, at least at the base ; stipe very short or lacking .
+1,4  $Peridium fugacious ; stipe distinct
+2,0  $Sessile or short-stipitate ; clavate-truncate ; spores roughly warted  $C cespitosa l
+2,3  $Sessile ; cylindrical ; spores reticulate
+3,0  $Black ; peridium more or less persistent over entire surface ; spores 1Q-12 µm  $ C cylindrica 2
+3,0  $Brown ; peridium persistent only at base ; spores 8-9 µmo  $C rispaudii 3
+4,5  $Sporangia densely clustered ; capillitium scantily branched ..
+4,7  $Sporangia gregarious or scattered ; capillitium various
+5,0  $Ferruginous, 5-10 mm tall  $C flaccida 4
+5,6  $Dark brown or blackish 
+6,0 $Sporangia 10-25 mm tall ; spores roughly warted or reticulates  $C longa
+6,0  $Sporangia 3-6 mm tall ; spores echinulate  $C irregularis 6
+7,8  $Spores black or dark purplish in mass ; violet-brown by transmitted light .
+7,21  $Spores lilaceous or ferruginous in mass ; pallid by transmitted light 
+8,9  $Capillitium simple, with few or no anastomoses 
+8,12  $Capillitium intricate 
+9,0 $Capillitium caduceus, falling away with the spiny spores $C filamentosa 7
+9,10  $Capillitium persistent, at least above ; spores minutely warted or nearly smooth .•
+10,0  $Capillitium moderately dense, but with few anastomoses ; columella nearly reaching the summit  $C laxa 8
+10,11  $Capillitium looser ; columella shorter
+11,0  $Very minute, usually under 0.5 mm tall ; columella not exceeding middle of sporangium ; capillitium forking repeatedly  $C cornea 9
+11,0  $Minute, 0.7-1.5 mm tall ; columella very short ; capillitium of slender, simple or sparsely branched threads with expanded tips  $C fimbriata 10
+12,13  $Spores mostly over 10 µm o
+12,14  $Spores mostly under 10 µm o
+13,0  $Robust, truncate, 2-6 mm tall ; stem equal to sporangium or shorter  $C suksdorfii 11
+13,0  $Cylindrical or slightly ovate, 7-8 mm tall ; stipe at least half the total height  $ C pacifica 12
+14,0  $Spores reticulate  $C reticulata 13
+14,15  $Spores warted to nearly smooth
+15,0  $Capillitium caducous except at top ; spores usually under 6 µm  $ C fragilis 14
+15,16  $Capillitium persistent ; spores usually larger
+16,17  $Sporangia distinctly cylindrical
+16,18  $Sporangia globose to ovoid, rarely short cylindrical
+17,0  $Stipe long, equal to sporangium ; spores 7.5-8 µm  $C aequalis 15
+17,0  $Stipe short ; spores 9-10 µm $C subccespitosa  16
+18,0  $Usually 2-4 mm tall ..  $C nigra 17
+18,19  $Under 2 mm tall .
+19,0  $Columella nearly reaching apex  $ C ellisii 18
+19,20  $Columella shorter .
+20,0  $Columella reaching middle of sporangium ; spores coarsely warted .  $C lurida 19
+20,0  $Columella divided at base into several main branches ; spores finely spinulose  $C elegans 20
+21,0  $Cylindrical ; spores with sparsely scattered clusters of warts  $C typhoides 21
+21,22  $Spores more densely and uniformly spinulose
+22,0  $Base of peridium persisting as a cup ; globose or elliptical  $C rubens 22
+22,23 $Base of peridium not persistent ; ovate to short cylindrical
+23,0  $Capillitium pallid or flesh colored  $C tenerrima 23
+23,0  $Capillitium dark  $C pulchella 24
+
+KEY TO THE GENERA OF THE LAMPRODERMACEaE
+cs24 ,0 $KEY TO THE GENERA OF THE LAMPRODERMACEAE 187
+1,cs61  $Sessile on a broad base or short-stalked ; columella lacking  $Diacheopsis 1 $s"Diacheopsis"
+1,2  $Stipitate, or rarely sessile on a narrowed base ; columella present .
+2,cs25  $Columella percurrent ; capillitium arising from a disk at its apex  $ Enerthenema $s"Enerthenema" 2
+2,3  $Columella rarely exceeding the center of the sporangium
+3,4  $Columella very short ; capillitium forking but not forming a net.. ..
+3,5  $Columella 1/3 to 1/2 the height of the sporangium
+4,cs70  $Minute, 100 µm or less in height ; capillitium rudimentary  $Echinostelium 3 $s"Echinostelium"
+4,cs60  $Larger ; capillitium brush-like, rigid, the threads bearing circular disks at their tips derived from the sporangium wall  $Clastoderma 4 $s"Clastoderma"
+
+1886. Orthotricha microcephala Wing., Jour. Myc."
+5,cs54  $Peridium dark, dehiscing in persistent lobes ; capillitium dark, scanty, simple  $ Barbeyella 5 $s"Barbeyella"
+5,CS26  $Peridium iridescent, fragile ; capillitium dense, often branching and anastomosing freely  $6 Lamproderma $s"Lamproderma"
+
+
+
+cs25,0 $
+rem $KEY TO TRE SPECIES OF ENERTHENEMA
+1,0  $Color fuscous to violaceous or ferruginous ; spores minutely warted, not clustered  $E papillatum 1
+1,2  $Color black ; spores rough
+2,0  $Spores not clustered, dark, coarsely verrucose  $E melanospermum 2
+2,0  $Spores clustered ; exposed area long-spinescent  $E berkeleyanum 3
+
+cs26,0 $
+rem  $………………………….KEY TO THE SPECIES OF LAMPRODERMA 192
+
+1,2  $ $Spores reticulated or marked with raised bands or lines of warts
+1,4  $Spores warted, spinulose or nearly smooth
+2,0  $Reticulation complete, regular  $L cribrarioides l
+2,3  $Reticulation incomplete or replaced by lines .
+3,0  $Peridium thin, membranous, dark gray ; spores covered with warted vesicles, the warts in lines or circles  $L cristatum 2
+3,0  $Peridium somewhat thicker, fragile, dull ; spores incompletely reticulate with lines of warts  $L atrosporum 3
+4,5 $Spores coarsely echinulate, 14-20 µm
+4,7  $Spores finely warted or echinulate, usually under 15 µm 
+5,0  $Stalked ; peridium iridescent ; spores 15-20 µm  $L echinulatum 4
+5,6  $Usually sessile
+6,0  $Iridescent ; columella lacking ; spores 18-19 µm  $L insessum 5
+6,0  $Dull ; columella well developed ; spores 14-16 µm  $L echinosporum 6
+7,0  $Peridium netted, silvery blue over black .  $L gulielmae 7
+7,8  $Peridium not netted
+8,9  $Stipe scarcely exceeding height of sporangium, sometimes very short or lacking .. .
+8,10  $Stipe as a rule greatly exceeding height of sporangium, sometimes short
+9,0  $Sessile ; sporangia ovate, taller than wide ; capillitium dense, dark  $L carestice 8
+9,0  $Peridium thin, iridescent ; capillitium delicate, pale ; spores pallid, 8-11 µm  $L violaceum 9
+9,0  $Peridium firmer, blue or bronze ; capillitium coarse, appearing hoary ; spores dark, mostly 10-15 µm  $L sauteri 10
+10,0  $Columella divided at tip into several primary branches of the dense capillitium  $L arcyrionema 11
+10,11  $Columella undivided ; capillitium not dense, the numerous branches arising directly
+11,0  $Stipe slender, smooth, thread-like ; sporangia very small  $L scintillans 12
+11,12  $Stipe thick, rough, stuffed ; larger .. .
+12,0  $Columella swollen, obtuse ; capillitium simple, rigid  $L physaroides 13
+12,0  $Columella slender, tapering ; capillitium branching freely  $L columbinum 14
+
+CS27,0 $
+rem $KEY TO FAMlLIES OF LICEALES 
+1,cs28  $Sporangium wall membranous, often falling away between net­like thickenings ; sporangium and spores dotted with plasmodic granules  $CRIBRARIACEAE $s"CRIBRARIACEAE"
+1,2  $Sporangial wall not netted ; plasmodic granules lacking
+2,cs30  $Sporangia separate, sometimes more or less plasmodiocarpous  $LICEACEAE $s"LICEACEAE"
+2,3  $Sporangia densely massed, usually forming a pseudo-aethalium ; or fructification a true aethalium 
+3,cs31 $Sporangia closely appressed, but with walls entire ; individual sporangia dehiscent at apex  $TuBIFERACEaE $s"TUBIFERACEAE"
+3,4  $Fructification either a true aethalium or a pseudo-aethalium in which the sporangial walls disappear at maturity ; dehiscence typically irregular
+4,cs33  $Pseudocapillitium thread-like or of perforated, frayed or fragmentary plates ; spores ochraceous or umber  $RETICULARIACEaE
+4,cs35  $Pseudocapillitium of colorless branched tubes ; spores pinkish or pallid  $LYCOGALACEaE $s"LYCOGALAEAE"
+
+
+
+cs28,0 $
+rem  $KEY TO THE GENERA OF THE CRIBRARIACEAE
+1,cs65 $aethalioid, the net lacking  $Lindbladia 1 $s"Lindbladia"
+1,2 $Sporangia separate, stalked or very rarely sessile ; net present
+2,cs29 $Main threads of net short, connected by numerous expanded nodes $Cribraria 2
+2,cs62 $Main threads of net parallel, extending from base to apex, connected by delicate filaments $Dictydium 3 $s"Dictydium"
+
+
+
+
+cs29,0 $
+
+rem $KEY TO THE SPECIES OF CRIBRARIA 206
+1,0  $Net obscure, fugacious ; sporangia sessile or short-stipitate ; densely crowded  $C argillacea 1
+1,2  $Net persistent ; sporangia stalked ; gregarious or scattered
+2,3  $Ochraceous or brown
+2,17  $Orange, red or purple
+3,4  $Calyculus lacking, or, if present, very small or represented by ribs (See also Nos 6, 14)
+3,7  $Calyculus well developed (See also Nos 4, 5) .
+4,5  $Free ends lacking in net, or few
+4,6  $Free ends usually numerous
+5,0  $Moderately large, 0.3-0.7 mm in diameter ; nodes flattened  $C splendens 2
+5,0  $Small, under 0.4 mm in diameter ; nodes thickened  $C microcarpa 3
+6,0  $Connecting threads of net single ; granules ochraceous  $C dictydioides 4
+6,0  $Connecting threads often parallel in twos or threes ; granules dark brown  $ C intricate 5
+7,8  $Nodes expanded
+7,9  $Nodes thickened .
+8,0  $Net light ochraceous, meshes small, with no free ends..  $C minutissima 6
+8,0  $Net dark brown, meshes large, with free ends .  $C atrofusca 7
+9,10  $Nodes flat and angular
+9,15  $Nodes rounded
+10,11  $Sporangia small, under 0.4 mm
+10,13  $Sporangia larger, over 0.5 mm
+11,0  $Copper colored ; meshes large ; nodular granules pale  $C cuprea 8
+11,12  $Dark brown, with dark granules ..
+12,0  $Deep reddish brown ; spores 5-6.5 µm  $C languescens 9
+12,0  $Nearly black ; spores 9 µm  $ C oregana 10
+13,0  $Spores reticulated  $C dictyospora 11
+13,14  $Spores spiny or roughened
+14,0  $Dusky ; margin of calyculus dentate ; free ends few  $C piriformis 12
+14,0  $Yellow-brown ; margin of calyculus perforated ; free ends numerous  $C macrocarpa 13
+15,0  $Small, under 0.5 mm in diameter ; stipe 2-6 mm  $C tenella 14
+15,16  $Larger, 0.5 mm or over ; stipe 1-2 mm
+16,0  $Yellow-brown ; margin of calyculus dentate ; on wood  $C aurantiaca 15
+16,0  $Nut brown ; calyculus prominently ribbed ; on leaves  $C laxa 16
+17,18  $Deep yellow, orange or red
+17,20  $Purple, lavender or blue . .
+18,0  $Reddish tawny ; minute, 0.15-0.2 mm in diameter  $C exigua 17
+18,0  $Deep yellow or orange ; diameter 0.6-0.7 mm  $C rufa 18
+18,19  $Red ; over 1 mm in diameter. .
+19,0  $Ruby red ; nodes expanded, not granular  $C rubiginosa 19
+19,0  $Brick-red ; nodes scarcely expanded, granular ..  $C ferruginea 20
+20,21  $Nodes expanded
+20,22  $Nodes thickened
+21,0  $Net purple ; nodular granules reddish purple  $C purpurea 21
+21,0  $Net dark blue ; nodular granules black ..  $C lepida 22
+22,0  $Deep lilac or reddish purple, 0.4-0.5 mm in diameter ; spores 5-6 µm  $C elegans 23
+22,0  $Violet, 0.2-0.3 mm in diameter ; spores 7-8 µm  $C violacea 24
+
+LICEACEAE a chercher !!!*******************
+
+
+cs30,0 $
+rem $KEY TO THE SPECIES OF LICEA 229
+1,0  $Short to long, flattened plasmodiocarps, often branched  $L variabilis l
+1,2  $Separate sporangia or short, pulvinate plasmodiocarps
+2,3  $Yellow or brownish, not dark .
+2,5  $Deep purplish to black
+3,0  $Elongate, with membranous peridium ; dehiscence by a longitudinal .fissure  $L biforis 6
+3,4  $Pulvinate or subglobose ; peridium more or less cartilaginous ; dehiscence not by a longitudinal fissure
+4,0  $Subglobose on a narrowed base ; dehiscence irregular ; bright yellow-brown  $L tenera 2
+4,0  $Pulvinate or forming short plasmodiocarps ; dehiscence by regular plates or lobes ; chestnut or pale brown .  $L castanea 3
+5,0  $Spores 4-5 p., spherical, each with a distinct umbilicus  $L hungarica 7
+5,6  $Spores larger, without umbilicus
+6,0  $Umberto black, dull ; spores 10-12 µm  $L minima 4
+6,7  $Dark purplish brown, shining ; spores larger
+7,0  $Spores 13-17 p., dark, smooth, on wood  $L pusilla 5
+7,0  $Spores 12-20 p., with long, detachable, spine-like processes partly covering the spore wall ; on dung  $L fimicola    8
+
+
+cs31,0 $
+rem $………………………………..KEY TO THE GENERA OF THE TUBIFERACEAE 230
+1,cs32  $Sporangia cylindrical, densely clustered, sessile or on a stalk-like hypothallus  $1 Tubifera $s"TUBIFERA"
+1,cs53  $Sporangia ovate, in a loose cluster on a common stalk ; capillitium a tuft of bristle-like tubes  $Alwisia 2 $s"Alwisia"
+
+
+cs32,0 $
+rem $KEY TO THE SPECIES OF TUBIFERA
+1,0  $Pseudocolumellae present in most of the sporangia  $T casparyi 3
+1,2  $Pseudocolumellae lacking
+2,0  $Hypothallus thick, expanded, not columnar ..  $T ferruginosa 1
+2,0  $Hypothallus stalk-like, columnar  $T stipitata 2
+
+cs33,0 $
+rem $………………………………….KEY TO TRE GENERA OF TRE RETICULARIACEAE 236
+1,cs63  $Surface alveolar, the alveoli representing the caps of the sporangial units ; from each cap four to six threads descend almost to the base  $Dictydiaethalium 3 $s"Dictydiaethalium"
+1,2  $Surface not alveolar
+2,cs34  $Pseudocapillitium of broad, perforated plates  $Enteridium $s"ENTERIDIUM" 1
+2,cs76  $Pseudocapillitium of flat, irregular plates fraying out into threads .  $Reticularia $s"Reticularia"
+
+cs34,0 $
+rem $……………………………….KEY TO THE SPECIES OF ENTERIDIUM 236
+1,2  $Spores free
+1,3  $Spores clustered, rarely free 
+2,0  $aethalium pulvinate, reddish brown ; spores brown in mass, reticulate  $E rozeanum 1
+2,0  $aethalium thin, broadly effused, dark olivaceous brown ; spores brownish olive in mass, warted  $E yabeanum 5
+3,0  $aethalium plasmodiocarpous  $E liceoides 2
+3,4  $aethalium pulvinate 
+4,0 $aethalium olivaceous, of moderate size ..  $E olivaceum 3
+4,0 $aethalium very small, usually under 2 mm in diameter ; pale umber $E minutum 4
+
+
+
+LYCOGALAEAE" ?????????????*********
+cs35,0 $
+rem $…………………………………..KEY TO THE SPECIES OF LYCOGALA 243 
+1,0  $Distinctly conical, small, not exceeding 3 mm in height ; diameter less than height  $L conicum 4
+1,2  $Subglobose or pulvinate, mostly Iarger ; diameter equalling or exceeding height
+2,0  $Usually 2-4 cm in diameter ; cortex thick, nearly smooth  $L flavo-fuscum 3
+2,3  $Under 12 mm in diameter ; cortex thin, rough
+3,0  $Mostly 3-10 mm in diameter ; cortex minutely roughened or warted  $L epidendrum 12
+3,0  $Mostly 2-5 mm in diameter ; cortex scaly  $L exiguum 2
+
+cs36,0 $
+rem $KEY TO THE FAMILIES OF THE TRICHIALES 247
+1,2  $Capillitial threads slender, warted or spinulose, markings sometimes minute, threads rarely smooth .
+1,3  $Capillitial threads coarser, marked by spirals, cogs or rings .
+2,cs37  $Peridium usually single ; capillitial threads solid, transverse to the sporangial cavity, attached atone or both ends, or forming a net ; markings minute or lacking  $DIANEMACEAE $s"DIANEMACEAE"
+2,cs39  $Peridium double ; capillitial threads hollow, free or attached atone end, papillose or spiny, rarely smooth ..  $PERICHENACEAE $s"PERICHENACEAE"
+3,cs42  $Capillitium a distinct net, attached below to sporangium wall ; markings various but never in the form of spiral bands  $ARCYRIACEAE $s"ARCYRIACEAE"
+3,cs45  $Capillitium netted or of short, free elaters, marked by distinct spiral bands, rarely nearly smooth ..  $TRICHIACEAE $s"TRICHIACEAE"
+
+
+cs37,0 $
+rem $…………………………KEY TO THE GENERA OF THE DIANEMACEAE 247
+1,cs67  $Dehiscence lobate ; capillitial threads jointed ; spores dark  $Listerella 1 $s"Listerella"
+1,2  $Dehiscence irregular ; capillitial threads not moniliform ; spores pale
+2,cs68 $Capillitial threads coiled, hair-like, simple, attached at base .  $margarita 2 $s"Margarita"
+2,3 $Capillitial threads not coiled 
+3,cs69  $Capillitium attached only to lower part of sporangium, branching and anastomosing to form a dense net  $Lamprodermopsis 3 $s"Lamprodermopsis"
+3,CS38  $Capillitial threads nearly straight, simple or scantily forked, attached to base and to sporangial wall  $Dianema $s"DIANEMA" 4
+
+cs38,0 $
+rem $…………………………………………………KEY TO THE SPECIES OF DIANEMA 250
+1,2  $Spores free 
+1,4  $Spores clustered 
+2,0  $Sporangia sessile or substipitate  $D andersonii 1
+2,3  $More or less plasmodiocarpous 
+3,0  $Pulvinate ; dull red or iridescent ; spores 8-10 µm  $D harveyi 2
+3,0  $Broadly expanded ; gray-brown ; spores 6-9 µm  $D depressum 3
+4,0  $Wall cartilaginous, opaque ; on wood  $D corticatum 4
+4,0  $Wall membranous, translucent ; on lichens and hepatics  $D repens 5
+
+
+cs39,0 $
+rem $KEY TO THE GENERA OF THE PERICHENACEAE 252
+1,cs66  $Capillitium smooth ; sporangia clustered, often massed to resemble an aethalium  $Minakatella 1 $s"Minakatella"
+1,2  $Capillitium warted or spiny ; fructifications sporangiate or plasmodiocarpous, often closely appressed .
+2,cs40  $Typically plasmodiocarpous ; dehiscence irregular  $2 Ophiotheca $s"OPHIOTHECA"
+2,cs41  $Typically sporangiate, often densely massed forming a pseudo-aethalium ; dehiscence typically circumscissile, rarely areolate  $Perichcena $s"PERICHAENA" 3
+……………………………………………….
+
+cs40,0 $
+rem $…………………………………….KEY TO THE SPECIES OF OPHIOTHECA 253
+1,0  $Peridium thin, single, membranous, dull gray or yellowish ; usually on herbaceous stems .  $O vermicularis 1
+1,2  $Peridium fìrm, double, darker ; usually on bark
+2,0 $Brown or yellowish brown ; capillitium minutely spinulose $O chrysosperma 2
+2,0  $Chestnut brown or blackish ; capillitium strongly spinulose  $O wrightii 3
+
+cs41,0 $
+rem $KEY TO TRE SPECIES OF PERICHAENA 256
+1,2  $Dehiscence circumscissile
+1,5  $Dehiscence not circumscissile .
+2,3  $Sporangia greatly flattened ; crowded .
+2,4  $Sporangia hemispherical or subglobose ; less crowded or gregarious
+3,0  $Individual sporangia 0.5-1 mm or more in diameter  $P depressa 1
+3,0  $Individual sporangia 0.1-0.4 mm in diameter ..  $P quadrata 2
+4,0  $Chestnut brown ; spores 10-12 µm  $P corticalis 3
+4,0  $Gray or canescent ; spores 12-15 µm  $P marginata 4
+5,0  $Dehiscence areolate ; purplish black ..  $P tessellata 5
+5,6  $Dehiscence irregular
+6,0  $Plasmodiocarpous ; salmon pink  $P microspora 6
+6,0  $Sporangiate, stalked ; purplish ..  $P pulcherrima 7
+
+cs42,0 $
+rem $KEY TO THE GENERA OF THE ARCYRIACEAE 260
+1,cs57 $Sessile or plasmodiocarpous ; capillitium flaccid, bearing complete rings  $Cornuvia 4 $s"Cornuvia"
+1,2  $Sporangiate, stalked or sessile ; capillitium not marked with rings
+2,cs43  $Capillitium not elastic ; peridium persistent  $1 Lachnobolus $s"LACHNOBOLUS"
+2,3  $Capillitium elastic ; peridium not persistent
+3,cs44  $Capillitium without harnate branches  $Arcyria 2 $s"ARCYRIA" 
+3,cs64  $Capillitium with harnate branches ..  $Heterotrichia 3 $s"Heterotrichia"
+
+cs43,0 $
+rem $KEY TO THE SPECIES OF LACHNOBOLUS 261
+1,0  $Sporangia sessile, crowded or heaped  $L congestus 1
+1,2  $Sporangia stalked, gregarious or scattered
+2,0  $Yellowish or ashy ; stipe about equal to height of sporangium ; on burs and fallen catkins of Castanea  $L globosus 2
+2,0  $Rosy or copper colored, fading to brownish or ochraceous ; stipe short, sometimes almost lacking  $L occidentalis 3
+
+
+cs44,0 $
+rem $…………………………………………KEY TO THE SPECIES OF ARCYRIA 263
+1,2  $Capillitium almost or quite free from the calyculus .
+1,9  $Capillitium attached to the calyculus .
+2,3  $Mature capillitium far expanded, drooping .
+2,6  $Mature capillitium short, not drooping, though sometimes procumbent
+3,4  $Sporangia dusky, with gray to reddish tints
+3,5  $Sporangia yellowish or greenish
+4,0  $Large, 6-12 mm., tawny gray, spores 7-8 µm  $A magna 1
+4,0  $Of medium size, 4-6 mm., dull crimson, sometimes vermilion, spores 8-10 µm  $ A oerstedtii 2
+5,0  $Pale yellow or buff ; calyculus broad  $A nutans 3
+5,0  $Yellowish green ; calyculus narrow  $A virescens 4
+6,0  $Obovate or pyriform ; olivaceous with yellow and reddish tints  $A versicolor 5
+6,7  $Oval or cylindrical ; reddish or flesh colored, at length sordid
+7,0  $Spores 7-8 µm .  $A incarnata 6
+7,8  $Spores10-12 µm
+8,0  $Capillitium with numerous node-like expansions .  $A nodulosa 7
+8,0  $Capillitium without node-like expansions  $A ferruginea 8
+9,10  $Sporangia globose or subglobose ; capillitium only slightly elastic
+9,11  $Sporangia ovate or cylindrical ; capillitium more elastic
+10,0  $Capillitium marked with blunt spines, warts and transverse bands  $A pomiformis 9
+10,0  $Capillitium with close-set rings  $A annulifera 10
+11,0  $Pale bluish green becoming greenish drab  $A glauca 11
+11,12 $Cinereous or yellowish 
+11,13  $Red or flesh colored 
+12,0  $Sporangia separate ..  $A cinerea 12
+12,0  $Sporangia clustered  $A digitata 13
+13,0  $Flesh colored  $A carnea 14
+13,0  $Rose colored, small ; stipe short .  $A insignis 15
+13,0  $Red, weathering to brown, robust ; stipe long ..  $A denudata 16
+
+
+cs45,0 $
+rem $KEY TO THE GENERA OF THE TRICHIACEAE 276
+1,cs75  $Capillitial threads solid, marked with spirals, fascicled, arising from base and branching in upper part, the tips attached to the sporangium wall  $Prototrichia 1 $s"Prototrichia"
+1,2  $Capillitial threads free or united into a net, not fascicled nor attached
+2,3  $Capillitial threads short, entirely free, sometimes branched
+2,4  $Capillitial threads long, united into a net
+3,cs46  $Spirals irregular, faint, sometimes wanting ..  $Oligonema $s"OLIGONEMA " 2
+3,cs47  $Spirals distinct, usually regular ..  $Trichia $s"TRICHIA" 3
+4,cs48  $Spirals regular  $Hemitrichia $s"HEMITRICHIA" 4
+4,cs58  $Spirals fragmentary, more or less obscured by a reticulation  $Calonema 5 $s"Calonema"
+
+cs46,0 $
+rem $…………………………………….KEY TO THE SPECIES OF OLIGONEMA 278
+1,0  $Spores warted  $O fulvum 1
+1,2  $Spores reticulate
+2,0  $Elaters usually rough, spirals sinistrorse, indistinct  $O flavidum 2
+2,0  $Elaters nearly smooth, with faint dextrorse spirals and scattered rings  $O nitens 3
+
+cs47,0 $
+rem $KEY TO THE SPECIES OF TRICHIA 280
+1,2  $Sporangia sessile . ,
+1,13  $Sporangia stalked
+2,3  $Pulvinate or somewhat plasmodiocarpous ; usually gregarious, sometimes crowded .
+2,8  $Sporangiate ; usually crowded, sometimes merely gregarious
+3,4  $Black or dark purple ; spores over 13 µm 
+3,5  $Lighter ; spores under 13 µm 
+4,0 $Wall single ; elaters 7-8 µm thick, warted  $T cascadensis
+4,0  $Wall double ; elaters 4-6 µm , smooth or spiny .  $T alpina 4
+5,0  $Dark ochraceous to purplish brown  $T macbridei 6
+5,0  $Yellow or olivaceous ; peridium membranous, little encrusted  $T lutescens 7
+5,6  $Reddish or purplish brown
+6,0  $Capillitium with prominent spines  $T iowensis 3
+6,7  $Capillitium spineless 
+7,0  $Spirals even, regular  $T inconspicua 2
+7,0  $Spirals irregular  $T contorta 1
+8,0  $Elaters with two spirals .  $T varia 8
+8,9  $Elaters with three or more spirals
+9,0  $Spores finely reticulate  $T scabra 9
+9,10  $Spores coarsely, often imperfectly reticulate
+10,0  $Spore bands narrow, not pitted  $T favoginea 10
+10,11  $Spore bands pitted ..
+11,0  $Spore bands narrow ; elaters with long, slender tips  $T pulchella 11
+11,12  $Spore bands broad ; tips of elaters short . .
+12,0  $Spores 13-15, reticulation complete  $T affinis 12
+12,0  $Spores 10-13 ' reticulation broken  $T persimilis 13
+13,14  $Spores reticulate
+13,15  $Spores minutely warted .
+13,0  $Reticulations prominent, coarse  $T verrucosa 14
+14,0  $Reticulations delicate  $T decipiens 17
+15,0  $Elaters spiny  $T erecta 15
+15,16  $Elaters without spines 
+16,0  $Elaters of uniform thickness with short tips .  $T subfusca 16
+16,17  $Elaters tapering very gradually to the long, slender tips 
+17,0  $Spore-mass ochraceous ; stem opaque  $T botrytis 18
+17,0  $Spore-mass brick-red ; stem translucent  $ T floriformis 19
+
+
+cs48,0 $
+rem  $……………………………………..KEY TO THE SPECIES OF HEMITRICHIA 294
+1,2  $Fructification plasmodiocarpous
+1,3  $Sporangia usually distinct, rarely somewhat plasmodiocarpous .
+2,0  $Plasmodiocarps net-like, yellow ; spores reticulated  $H serpula 1
+2,0  $Plasmodiocarps shorter, brown ; spores warted  $H karstenii 2
+3,4  $Sporangia sessile or very short stalked
+3,9  $Sporangia with distinct, usually long stalks
+4,0  $Spores reticulated, over 14 µm  $H chrysospora 3
+4,5  $Spores minutely warted or nearly smooth
+5,0  $Copper colored or reddish to deep brown ; spiral bands often faint or irregular  $H stipata 4
+5,0  $Copper colored, fading to tawny yellow ; bands distinct and regular ..  $H imperialis 5
+5,6  $Without copper or red tints
+6,0  $Pallid or whitish  $H montana 6
+6,7  $Yellow or ochraceous
+7,0  $Peridium hyaline, iridescent  $H ovata 7
+7,8  $Peridium opaque
+8,0  $Minute, under 0.4 mm diameter, usually sessile, sometimes plasmodiocarpous  $ H minor 8
+8,0  $Larger, usually with short, thick stipe  $H leiotricha 9
+9,0  $Deep red .  $H vesparium 10
+9,10  $Pallid, yellow or yellow-brown
+10,0  $Stalk solid ; capillitium distinctly spiny ..  $H intorta 11
+10,11  $Stalk hollow, filled with spore-like cells ; capillitiumsmooth or nearly so
+11,0  $Pallid or grayish ochraceous ; spirals of capillitium sinistrorse  $H leiocarpa 12
+11,12  $Olivaceous yellow to bright yellow-brown ; spirals of capillitium dextrorse .. .
+12,0  $Stalk expanding upward, gradually merging into the deep calyculus ; capillitium loose, rough, with free ends usually evident ; spores coarsely papillate or subreticulate  $H clavata 13
+12,0  $Stalk cylindrical, ending abruptly below the shallow calyculus ; capillitium dense, nearly smooth, with few or no free ends ; spores minutely spinulose or faintly reticulate  $H stipitata 14
+
+cs52,0 $Leptoderma G. Lister
+Jour. Bot. 51 : 1. 1913,
+1,0 $Fructification sporangiate, the walls membranous above, thickened with dark granular deposits below; calcareous deposits restricted to scales embedded among the basal granules; capillitium netted; spores purplish gray. A single species  $Leptoderma iridescens G. List.
+
+
+
+cs53,0 $2. Alwisia Berk. & Br. Jour. Linn. Soc. 14 : 86. 1873.
+1,0 $Sporangia ellipsoidal, clustered, stipitate; dehiscence by the falling away of the upper part of the peridium disclosing a persisting pencil of capillitial threads. A single species  $Alwisia bombarda Berk. & Br.
+
+cs54,0 $5. Barbeyella Meylan Bull. Soc. Bot. Geneve 2 ser. 6 : 89. 1914.
+1,0 $Sporangia subglobose, stalked, the walls dehiscing into somewhat persistent lobes; capillitium consisting of a few simple dark threads radiating from the summit of the columella. $Barbeyella minutissima Meylan
+Bull. Soc. Bot. Geneve 2 ser. 6 : 89. 1914.PI. XVI, Figs. 395, 396.
+
+cs55,0 $4. Brefeldia Rostafinski Versuch8. 1873.
+1,0 $Fructification aethalioid, the constituent veins occupying several layers, those of the median, and especially of the lowest layer furnished with columellae which blend beneath; capillitium threads arising from the columellae and united at adjacent tips by prominent inflated sacs. The genus Brefeldia is, like some others, difficult to dispose of in any scheme of classification where linear sequence must be followed. Rostafinski placed it in an order by itself. Its relationships are on the one hand with Amaurochaete and on the other with Stemonitis, though it is easily distinguished from either of these genera. It is intermediate between the two, but apparently a little nearer Stemonitis. $Brefeldia maxima (Fr.) Rost.
+Versuch9. 1873.
+PI. XI, Figs. 244, 245. 1825. Reticularia maxima Fr., Syst. Orb. Veg. 1 : 147. 1848. Licea perreptans Berk., Gard. Chron. 451.
+
+
+cs56,0 $Family COLLODERMACEAE
+1,2 $Sporangiate, sessile or stalked, limeless; peridium duplex, the inner wall membranous, the outer, gelatinous when moist, with superficial €granular deposits, hard and brittle when dry; capillitium intricate. A single gen
+2,0 $With the characters of the family. The one species was originally described by Lippert as a didymium on the basis of calcareous deposits in the sporangium wall. These have not been observed in numerous later collections. A distinctive genus, well regarded as the type of a separate family. A single species:  $ Colloderma oculatum (Lipp.) G. List.
+Jour. Bot. 48 : 312. 1919. Vj, PI. X, Figs. 220, 221, 222.
+
+
+cs57,0 $ 4. Cornuvia RosL Versuch 15. 1873.
+1,0 $Sporangia sessile or plasmodiocarpous; capillitium a network, the threads marked by complete rings; spores reticulate. The capillitium is netted as in Arcyria and Hemitrichia, but the prominent ring-like markings are distinctive, although the rare Arcyria annulifera is described as bearing on its capillitial threads complete rings, apparently of a different character.A single species  $Cornuvia serpula (Wigand) Rost.
+Versuch 15. 1873.
+
+
+cs58,0 $5. Calonema Morgan Jour. Cin. Soc. Nat. Hist. 16 : 27. 1893.
+1,0 $Sporangia sessile, subglobose or irregular, crowded and superimposed; hypothallus usually not evident; capillitium a network of branching threads arising from the base of the sporangium, the surface marked with an irregular reticulation; spores yellow. Related to both Hemitrichia and Oligonema, distinguished from the first by the markings on the capillitium and from the second by the capillitial net.A single species $Calonema aureum Morg.
+Jour. Cin. Soc. Nat. Hist. 16 : 27. 1893.
+
+cs59,0 $8. Cienkowskia Rost. Versuch9. 1873.
+1,0 $Fructification plasmodiocarpous, irregularly dehiscent, the wall a thin cartilaginous membrane destitute of lime, except for the capillitial attachments within; capillitium scanty but rigid, and characterized everywhere by peculiar hook-like branchlets, free and sharp-pointed, the spores as in Physarum. The genus contains, so far, but a single species $Cienkowskia reticulata (Alb. & Schw.) Rost.
+Versuch9. 1873.PI. VII, Figs. 143, 144, 145.
+
+cs60,0 $4. Clastoderma Blytt Bot. Zeitung 38 : 343. 1880.
+1,0 $Sporangium globose, distinct, stipitate; columella short or obsolete; capillitium of few sparsely branched threads, which bear at their tops the persistent fragments of the peridium, but are not otherwise united. Distinguished from Lamproderma by the peculiar manner in which the peridium is ruptured, and by the simplicity of the scanty capillitium. So far there appears to be but a single species $Clastoderma debaryanum Blytt
+Bot. Zeitung 38 : 343. 1880.PI. XXI, Fig. 554.1886. Orthotricha microcephala Wing., Jour. Myc.
+
+cs61,0 $1. Diacheopsis Meylan Bull. Soc. Vaud. Sc. Nat. 57 : 149. 1930.
+1,0 $Sporangia globose, sessile or stalked; peridium membranous, persistent, shining with metallic luster; columella lacking; capillitium of branching and anastomosing threads as in Lamproderma, but these arising from the base of the sporangium; spores dark. Except for the absence of a columella the genus appears to be very close to Lamproderma. A single species $Diacheopsis metallica Meylan
+Bull. Soc. Vaud. Sc. Nat. 57 : 149. 1930.
+
+cs62,0 $3. Dictydium Schrad. emend. Rost. Vers. 5. 1873. 1797. Dictydium Schrad., Nov. Gen. PL 11, in part.
+1,0 $ Sporangia distinct, gregarious, globose or depressed-globose, stipitate, cernuous; peridium very delicate, evanescent, thickened on the inside by numerous meridional costae which are joined at frequent intervals by fine transverse threads more or less parallel to each other, forming a persistent network of rectangular meshes. Schrader applied the name Dictydium to all Cribraria-like species in which the calyculus was wanting, and in this was followed by Fries (Syst. Myc. 3 : 164). Rostafinski first defined the genus in its modern sense.We here recognize a single species, extremely common, and widely distributed throughout the world. It is remarkably variable, and many of its more constant variants have been deemed worthy of varietal and even specific distinction. $Dictydium cancellatum (Batsch) Macbr.
+N. A. Slime-Moulds 172. 1899.PL XV, Figs. 371, 372.
+
+cs63,0 $DICTYDIEATHALIUM 241 3. Dictydiaethalium Rost. Versuch 5. 1873. 1875. Clathroptychium Rost., Mon. 225.
+1,0 $Fructification a pseudo-aethalium, the sporangia closely compressed in a single layer on an expanded base; lateral walls disappearing at maturity, the sporangia then represented by the angular, usually hexagonal tops, from the edges of each of which depend four to six simple threads, these reaching nearly to the base and there either free or united with each other; the united caps forming a continuous areolate surface; spores ochraceous or clay colored.In 1873 Rostafinski applied the generic name here adopted, because he thought he discovered close relationships with Dictydium. In1875, believing his first impressions erroneous, and desirous that the nomenclature might not at once mislead the student and perpetuate the memory of his mistake, the same author proposed the name Clathroptychium. However sensible the latter conclusion, it is plainly contrary to all rules of priority. A single widely distributed species  $Dictydiaethalium plumbeum {Schum) Rost.
+
+
+cs64,0 $3. Heterotrichia Massee Mon. 139. 1892.
+1,0 $Sporangia distinct, stipitate; peridium simple, evanescent above as in Arcyria; capillitium centrally attached, freely branched, the threads within very slender, without broad, anastomosing to form a dense peripheral network, and everywhere extended to form short, free, often hamate tips. A single species:  $Heterotrichia gabriellae Massee
+Mon. 140. 1892.
+
+cs65,0 $1. Lindbladia Fries Summa Veg. Scand. 449. 1849.
+1,0 $Fructification aethalioid; the sporangia short, tubular, sometimes superimposed, sometimes forming a simple stratum, in the latter case generally sessile, but sometimes short-stipitate, the peridium at first entire, at length opening irregularly either at the sides or apex, beset with granules; spores olivaceous. This genus was established by Fries in 1849 to accommodate a single species of wide distribution and somewhat varying habit, which is neither a tubifera nor yet a cribraria but offers points of resemblance to each. It resembles Tubifera in its simple sporangia, opening without the aid of a net; it is like certain species of Cribraria in the smooth ochraceous-olivaceous spores and is allied to that genus by its granuliferous peridium. $Lindbladia effusa {Ehr) RosL
+Mon. 223. 1875.
+PI. XIII, Figs. 328, 329.
+
+cs66,0 $1. Minakatella G. List. Jour. Bot. 59 : 92. 1921.
+1,0 $Sporangia sessile, clustered, more or less united into a pseudo asthalium; capillitium forming a coil of nearly simple, smooth, flattened tubular threads; spores reddish, spinulose. A single species:  $minakatella longefila G. List.
+Jour. Bot. 59 : 92. 1921.
+
+cs67,0 $1. Listerella John Ber. Deutsch. Bot. Ges. 24 : 540. 1906.
+1,0 $Sporangia sessile, with lobate dehiscence; capillitium of jointed threads attached to the sporangial wall; spores dark. A single species $ Listerella paradoxa John
+Ber. Deutsch. Bot. Ges. 24 : 540. 1906. PL XVI, Figs. 412, 413, 414.
+
+cs68,0 $2. Margarita List. Mycetozoa 203. 1894.
+1,0 $Sporangia sessile, sometimes plasmodiocarpous; sporangium wall translucent ; capillitium of simple or sparsely branched, hair-like, solid threads with occasional attachments to the sporangium wall. A single species  $Margarita metallica (Berk. &* Br.) List.
+Mycetozoa 203. 1894. PL XVI, Figs. 415, 416.
+
+cs69,0 $3. Lamprodermopsis Meylan Bull. Soc. Vaud. Sc. Nat. 46 : 168. 1910.
+1,0 $Sporangia sessile or stalked; peridium membranous, persistent, shining with metallic luster; columella lacking; capillitium arising from the base, composed of slender threads which fork and anastomose freely toward the surface, forming a dense net, not attached to the peridium and persisting after the peridium disappears; spores pallid. ///The single species is included by Miss Lister in Dianema. As Meylan points out, the capillitial characters are so distinct as to imply an unwarranted extension of the limits of that genus. In peridial and capillitial characters it resembles Lamproderma and especially Diacheopsis, from which genera it is set off mainly by the pallid spores. A single species:  $Lamprodermopsis nivalis Meylan
+Bull. Soc. Vaud. Sc. Nat. 46 : 56. 1910.
+
+cs70,0 $3. Echinostelium de Bary in Rost., Versuch 7 : 1873.
+1,0 $Sporangia distinct, globose, minute, the structure limited to a few imperfect rib-like, loosely joined branches developed from the short columella or stem-top, sustaining the spores. A single species:  $Echinostelium minutum de Bary
+in Rost., Mon. 215. 1875. PI. XXI, Figs. 552, 553.
+
+cs71,0 $9. Leocarpus Link Mag. Ges. Nat. Fr. Berl. 3 : 25. 1809.
+1,0 $Peridium double, the outer wall thick, smooth, polished, smooth inside or with deposits of lime, the inner wall delicate, hyaline; capillitium of two more or less distinct systems, the one a delicate network of hyaline, limeless threads, the other calcareous throughout, or nearly so, the meshes large and the threads or tubules broad; columella none; pseudocolumella sometimes present./// This genus was by Link established on purely external characters. Rostafinski supplemented Link's definition by calling attention to the peculiar character of the capillitium and to the microscopic characters in general. The outer peridium is thick and strong, unlike the ordinary structure in Physarum. Some physarums, however, have a very similar outer wall; P. brunneolum, for instance, or P. citrinellum. In dehiscence and structure there is also some resemblance to some species of Diderma, and by Persoon and Fries the common species was so referred, but the capillitium is again definitive./// A critical study of all these things really begins with Rostafinski. Under his definition of the present genus P. albescens Ell. might well be entered here. Such course at present would but increase confusion, and until by future research the ontogeny of all these, and so their relationship, shall be more exactly known, the genus may be left with its historic species,—monotypic. $Leocarpus fragilis (Dickson) Rost.
+Mon. 132. 1875. PL VII, Figs. 146, 147, 148
+
+
+cs72,0 $ 1. Mucilago Micheli ex Adans. Fam. des PI. 2 : 7. 1763. 1791. Spumaria Pers., in Gmel., Syst. Nat. 2 : 1466.
+1,0 $Fructification aethalioid, consisting of a large pulvinate mass composed of numerous branched and anastomosing tubes as in Fuligo, the whole covered by a white, foam-like crust composed of stellate lime crystals; inner peridium delicate; capillitium of slender, limeless threads, more or less branched, terminating in the walls of the tubes and marked with occasional swellings or thickenings./// By the descriptions offered by most authors, and especially by Rostafinski's figures (Mon., pi. 9, fig. 158), a pronounced columella is called for in the structure of Spumaria. The individual tubes rise from a common hypothallus, and occasionally portions of this run up and give the appearance of stipitate sporangia. Sometimes also this upper extension of the hypothallus passes beyond or behind the base of such a tube or between two or more, and is more or less embraced by these in their confluent flexures. This, it seems, suggested Rostafinski's elaborate diagram; at least, no other form of columella is shown by American materials at hand. A single species: $Mucilago spongiosa (Leyss.) Morg.
+Bot. Gazette 24 : 56. 1897.
+
+
+
+cs73,0 $7. Physarella Peck
+Bull. Torrey Bot. CI. 9 : 61. 1882.
+1,0 $Sporangia cylindrical, deeply umbilicate, the upper part of the peridium inverted so as to form a thimble-shaped or bell-shaped structure; capillitium composed of slender filaments with minute fusiform nodes, together with stout spine-like processes, extending from the exterior to the interior walls of the sporangium and firmly attached to the former.///The form of the sporangium in the only species is very variable, but in typical cases is vasiform, the peridial wall at the apex introverted. The capillitium is like that of Timadoche, except for the presence of the "straight tubes" emphasized in the original description. These are very remarkable and at once diagnostic. They take origin in the sporangial wall and pass across to the "columella"; but at the dehiscence of the sporangium, in typical cases, they remain attached at the points of origin, projecting as stout spine-like processes. The formation of the capillitium has been studied by Bisby (1914). $Physarella oblonga {Berk. & Curt.) Morg.
+Jour. Cin. Soc. Nat. Hist. 19 : 7. 1896.
+PI. X, Figs. 223, 224, 225.
+
+cs74,0 $3. Physarina von Eohnel Sitzungsb. K. Akad. Wiss. Wien, Math.-Nat. Kl. 118 (1) : 431. 1909. 1,0 $Sporangia rough with numerous blunt, cylindrical, peg-like processes projecting from the surface; capillitium without nodes.
+1,0 $One species. $Physarina echinocephala von Hohnel
+Sitzungsb. K. Akad. Wiss. Wien, Math.-Nat. Kl. 118 (1) : 432. 1909. PL XXI, Fig. 573.
+
+cs75,0 $. Prototrichia Rost. Mon. App. 38. 1876.
+1,0 $Fructification sporangiate or somewhat plasmodiocarpous, rarely short-stipitate; peridium thin, transparent; capillitium of solid, spirally banded threads, attached at base of sporangium and becoming subdivided, the penicillate tips attached to the upper sporangium wall; spores brown in mass, pallid, pinkish by transmitted light. A single species  $Prototrichia metallica {Berk.) Massee
+Jour. Roy. Micr. Soc. 1889 : 350. PI. XVIII, Figs. 478, 479, 480. 1859. Trichia metallica Berk., in Hooker, Fl. Tasm. 268.
+
+
+cs76,0 $2. Reticularia Bull, emend. Rost. Versuch6. 1873. 1791. Reticularia Bull, Champ. 83, in part. 
+1,0 $Fructification aethalioid, the pseudocapillitium consisting of membranous plates, branching and anastomosing in various ways, and generally giving rise at the sides and especially above to long, slender, flexuous threads, the whole forming a spongy mass; outer cortex silvery white, becoming copper colored; hypothallus well developed, white; spore-mass and threads umber or rusty brown./// It has been customary to speak of the frayed and perforated plates of the pseudocapillitium as degenerate sporangial walls. Wilson and Cadman, in their beautiful and detailed study of the single species included in this genus, demonstrate that this view is untenable. These authors regard the entire fructification as a single sporangium, but surely a sporangium formed from a dense aggregation of protoplasm representing many plasmodial strands is not completely homologous with what is called a sporangium in a trichia or a physarum. It may, on the other hand, easily be correlated with the fructification in Fuligo or Lycogala, and would seem to represent a true aethalium as opposed to the pseudo-aethalia formed by the obvious coalescence of more or less clearly distinguishable sporangial units. A single species: $Reticularia lycoperdon Bull.
+Champ. 95. 1791. PI. XVI, Fig. 403.
+
+
+cs77,0 $2. Schenella Macbride Mycologia3 : 39. 1911.
+1,0 $Fructification aethalioid, depressed, flat, covered by a fragile, continuous crust; capillitium of simple threads twisted together to form vertical, closely arranged columns passing from the base to the outer peridium as if supporting it. Spores fuscous black. A single species  $Schenella simplex Macbride
+Mycologia3 : 39. 1911. PI. X, Figs. 237, 238; PL XXI, Figs. 563, 564.
+
+cs78,0 $6. Trichamphora Jungh. Fl. Crypt. Jav. 12. 1838.
+1,0 $ Sporangia discoidal, concave above, saucer-shaped, stipitate; peridium membranous, more or less encrusted with lime; capillitium colorless, with many or few lime-knots, sometimes almost badhamioid, at other times limeless and in this respect approaching Didymium. ///Rather artificially separated from Physarum, mainly on the basis of the broad, saucer-shaped sporangium, mounted on a stalk. Unlike Physarella in shape and lacking the characteristic trabecule of that genus. A single species $ Trichamphora pezizoidea Jungh.
+Fl. Crypt. Jav. 12. 1838. PI. VII, Figs. 141, 142.
+
+--------------------------------------
+plus mcBride 1922
+
+
+
+Cs101,0 $Sub-Class PHYTOMYXINae Schroeter 1889. Phytomyxinae Schroeter, Engl. u. Prantl., I., i., pp. 1 and 5.
+1,cs102 $The parasitic Myxomycetes affecting plants include but few (four or five) species, distributed among four genera. All are parasites in the  ells of particular hosts; their vegetative phase is plasmodial and their spores are formed by the simultaneous breaking up of the Plasmodium into an indefinite number of independent cells. But a single genus need here concern us $Plasmodiophora $s"Plasmodiophora"
+
+
+rem $  $Plasmodiophora  $s”Plasmodiophora”
+----------------
+cs102,0 $ Plasmodiophora Woronin 1879. Plasmodiophora Woronin, Pringsh. Jahrb., XI., p. 548.
+rem $I. Plasmodiophora brassica Woronin. 1879. Plasmodiophora brassicae Woronin, op. c'tt.
+1,0  $This species, typical of forms so far reported in this country, infests the roots of cabbages,  and produces a very serious disease of that  vegetable. In England the malady has long been known under the names "clubbing," "fingers and toes," etc. The roots affected swell  reatly, and at length resemble sometimes the flexed fingers of the human  and ; hence the English name. As the disease progresses, the roots  peedily rot away, to the serious injury of the leaf-bearing portion of  he plant. In badly affected fields, sometimes one-half of the crop is  tterly destroyed. Careful search continued through several years has not  vailed to bring this species to my personal acquaintance./// For a full  count of the parasitism of this species and its distribution in the United States see Jour. Myc, VII., p. 79; also Bull. 66, Agric. Sta. of Vermont. $Plasmodiophora brassica Woronin
+
+----------------
+Cs103,0 $ Sub-Class EXOSPOREAE Rost. 1873. Exosporeae Rostafinski, Versuch, p. 2.
+1,cs104  $Spores developed, superficially, outside the fructification, which consists of sporophores, membranous, or slender and branching ; spores white, stalked. A single genus $Ceratiomyxa $s"Ceratiomyxa"
+----------------
+
+
+cs104,0 $ 1889. Ceratiomyxa Schroeter, Engl. u. Prantl, I., i., p. 16. For further synonimy, see under first species.
+1,0 $type : Sporangia none ; spores superficial, borne on erect papillae or pillars, or even on the inside of minute depressions or pits; each spore surmounting a delicate pedicel or stalk./// The spores on germinating give rise to amoeboid zoospores, which undergo repeated divisions, later become ciliate, and at length again amoeboid to blend into genuine Plasmodia.  At maturity the Plasmodium gives rise to numerous minute divisions, each of which may lengthen in a direction perpendicular to the surface and bear a spore at the tip./// The homologies between the structures just described and the fructification of the  ordinary  lime-mould are somewhat obscure, if indeed any really exist///. Are these minute reproductive bodies spores? /// — their behavior on germination is unique; are they sporangia? /// —the arrested development  hey exhibit is none the less puzzling. /// Perhaps the sporiferous pillars represent incipient stipes, the spores the uncombined fragments of what might otherwise have coalesced at the summit of the pillar to form a true sporangium./// Several species have been recognized, all referable probably to one or two, or at most, four forms. That universally recognized alike in the literature of the past and in recent studies is  $Ceratiomyxa fruticulosa  {Muell.) Macbr.
+
+1,2 $Variétés de Ceratiomyxa fruticulosa : The extreme variability of the species has led to the proposal of a number of varieties as well as specific  egregates. These all merge into one another, but the following forms seem for the present to merit recognition as varieties.
+2,0 $A form in which each sporophore has a single short stalk which becomes profusely branched in tree- like fashion. $ Ceratiomyxa fruticulosa Var. arbuscula Berk. & Br. 
+(Ceratium arbuscula Berk. & Br., Jour. Linn. Soc. 14 : 97, 1873).
+2,0 $Very long, slender sporophores, sometimes unbranched for 3-4 mm. then branching profusely in a tuft at the top, the branches of the neighboring sporophores interlacing to form a dense mat concealing the substratum and covering an area several centimeters square. Most common in the tropics of both hemispheres. $ Ceratiomyxa fruticulosa Var. filiforme Berk. & Br.
+(Ceratium filiforme Berk. & Br., Jour. Linn. Soc. 14 : 97, 1873). 
+2,0 $Sporophores confluent, porose; pores ample, angular, at length radiate-dentate. Ceratium crustosum Berk. & Curt., Grev. 3 : 62, 1874, is merely a crustose form of this variety./// The var. porioides has frequently been regarded as a distinct species and it ordinarily appears to be so, but cases occur in which it and the typical form arise together from the same Plasmodium, hence the attribution of a yellow Plasmodium to this variety  cannot be regarded as significant. Widespread and fairly common, but not so frequent as the typical form. $ Ceratiomyxa fruticulosa Var. porioides Alb. & Schw. 
+{Ceratium porioides Alb. & Schw., Consp. Fung. 359, 1805; Ceratiomyxa porioides (Alb. & Schw.)  chroet. in Engler & Prantl 1 (i) : 16). 
+2,0 $Similar to var. porioides, but tinged with green, and developing from a bright blue-green plasmodium. It has  been reported only from Germany. $ Ceratiomyxa fruticulosa Var. ctzsia Jahn
+ {Ceratiomyxa caesia Jahn, Ber. Deutsch. Bot. Ges. 36 : 660, 1919) 
+2,0 $Arising from a bright yellowish green or citron yellow plasmodium and as occurring in scattered small patches. In other respects it seems not to differ from typical C. fruticulosa and judging by the description is doubtfully distinct. It has been reported from Switzerland and Rumania. $ Ceratiomyxa freyana Meylan 
+(Bull. Soc. Vaud. Sc. Nat. 56 : 65, 1925)

@@ -1,0 +1,56 @@
+
+
+
+Titre$ Clé des ciboria /  Botany and Plant Physiology, Department of Biology, University of Oslo
+Literature: Whetzel (1945), Buchwald (1947), Schumacher (1978), Schumacher & al. (1995), Holst-Jensen & al. (1997b).
+Com$    ref :   http://biologi.uio.no/bot/ascomycetes/Taxa/Ciboria.html 
+
+Type species: Ciboria caucus (Reb.:Fr.) Fuckel. Ciboria is a heterogeneous assemblance of species characterized by ± determinate stromata, an apothecial outer excipulum consisting of globose cells (textura globulosa) NOT embedded in a gelatinous matrix, and hyaline, unicellular ascospores. The genus is probably polyphyletic. The species on catkins of amentiferous trees constitute a monophyletic group. Based on scientific evidence and educated guess we distinguish five groups within the genus, the true Ciboria (on catkins), the warted-spored Ciboria , which are presumably obligate parasites and produce apothecia on fruits of amentiferous trees, the deciduous leaf inhabitants, forming a ± well differentiated stroma on leaves of deciduous trees, the herbaceous plant inhabitants, nutritioning on plant remnants of various kind (for groups three and four, see also Rutstroemia), and a fifth group of incommon features, consisting of presumably unrelated taxa classified on the basis of stromatal type.
+rem$ ref :   http://biologi.uio.no/bot/ascomycetes/Taxa/Ciboria.html
+1, 15$type 
+1,2$ Apothecia on catkins of amentiferous trees and shrubs 
+1,6$ Apothecia on fruits, inflorescences or leaves 
+
+2,0$(1) Asci 4-spored. Apothecia ochraceous brown to pale brown, disc 1-4 mm diam., stipe 5-25 x 0.2-0.4 mm. Asci clavate, 60-105 x 5.8-7.5 um. Ascospores (7.5)10 - 12 (14.5) x 4-5.5 um. On male catkins of Myrica gale, Salix spp. and Populus spp., occasionally on leaves of Acer spp., Salix spp. and Rubus chamaemorus. Apothecia in spring and early summer . . . . .$ Ciboria acerina Whetzel & N. F. Buchw.
+2,3$. Asci 8-spored 
+
+3,0$ (2) Apothecia pale brown, disc 3-11 mm diam., stipe 5-35 x 0.3-1 mm. Asci 130-170 x 7-11 um. Ascospores subfusoid, 9.0-15.5 x 6-8 um. On male catkins of Corylus avellana. Apothecia in early spring . . . . .$ Ciboria coryli (Schellenb.) N. F. Buchw.
+3,4$. Ascospores < 11 ?m long 
+
+4,0$ (3) Apothecia on male catkins of Betula, pale to medium brown, disc 3-10 mm diam., stipe 5-30 x 0.3-1 mm. Asci cylindric-clavate, 75-145 x 6-10 um. Ascospores ellipsoid, 5.5-9.5 x 3-5.5 um. Apothecia in spring . . . . .$ Ciboria betulicola Groves & Elliott
+4,5$ Apothecia on other hosts
+
+5,0$ (4) Apothecia on catkins of Populus, Salix and Corylus, pale brown to medium brown, disc 4-15 mm diam., stipe 5-25 x 0.3-1.7 mm. Asci cylindric-clavate, 95-145 x 6-9 um. Ascospores ellipsoid, 7.5-11.0 x 4.5-6 um. Apothecia in spring . . . . . $Ciboria caucus (Rebent.: Fr.) Fuckel
+5,0$. Apothecia on catkins of Alnus, ochraceous brown to pale brown, disc 4-12 mm diam., stipe flexuous, 10-35 x 0.3-1.0 mm. Asci cylindric-clavate, 95-145 x 6-9 um. Ascospores 7.5-10.5 x 4.2-6 um. Apothecia in spring . . . . . $Ciboria amentaceae (Balbis) Fuckel
+
+6,0$ (1). Apothecia on decaying cone scales of Abies, dark brown to medium brown, disc 3-15 mm diam., stipe 2-7 x 0.7-1.5 mm. Asci 65-90 x 5.5-6.5 um. Ascospores 5.5-7.5 x 2.8-3.5 um. Apothecia in spring and early summer . . . . . $Ciboria rufofusca (Weberb.) Sacc.
+6,7$. Apothecia on fruits, bulbils, acorns or leaves
+
+7,8$ (6) Apothecia on stromatized fruits or female floral organs
+7,12$ . Apothecia on leaves 
+
+8,9$ (7) Apothecia on stromatized patches of fruits (carpels) of Alnus or Betula ; very slow growing on PDA (potato dextrose agar), mass ascospore isolates reaching a diameter of 10-20 mm after 6-12 months . . . . . . . . . 9.
+8,10$. Apothecia on fruits or floral organs of other hosts.
+
+9,0$ (8) On fruits (carpels) of Alnus, pale brown, disc 1.5-3 mm diam., stipe 1-10 x 0.5-1 mm. Asci 100-125 x 5.5-7.5 um. Ascospores narrowly ellipsoid to subfusoid, multiguttulate, minutely verrucose, 12-18 x 3-4.5 um. Apothecia in early spring . . . . . $Ciboria  lentiformis (Velen.) T. Schumach. ined. (= Ciboria alni (O. Rostr.) N. F. Buchw. nom. illeg. = Ciboria seminicola (Kienh. & Cash) Hechler & Steindl)
+9,0$. On fruits (carpels) of Betula, pale brown, disc 1.5-3 mm diam., stipe 4-14 x 0.5-1 mm. Asci 110-160 x 6-8 um. Ascospores narrowly ellipsoid, biguttulate, minutely verrucose, 9.5-15 x 4-5.5 um. Apothecia in late spring . . . . . $Ciboria  betulae (Woronin) White
+
+10,0$ (8) Apothecia on female inflorescenses of Alnus, yellowish to olivaceous brown, disc 1-3 mm diam., stipe 2-25 x 0.7-1.5 mm. Asci 110-140 x 7-10 um. Ascospores ellipsoid, 7.8-10.6 x 4.2-5.5 um. Apothecia in autumn . . . . . $Ciboria  viridifusca (Fuckel) Höhn (= "Ciboria " amenticola (P. Karst.) Boud.)
+10,11$. Apothecia on bulbils of Polygonum viviparum or acorns of Quercus.
+
+11,0$ (10) Apothecia on stromatized bulbils of Polygonum viviparum, pale to medium brown, disc 0.5-2.5 mm diam., stipe 1-12 x 0.3-0.6 mm. Asci 150-180 x 10-12 um. Ascospores biguttulate, 13-17 x 5.5-7 um. Apothecia in summer and autumn. . . . . $Ciboria  polygonivivipari Eckbl.
+11,0$ Apothecia on stromatized acorns of Quercus, medium to purplish brown, disc 3-15 mm diam., stipe 3-30 x 0.8-2 mm. Ascospores 6-11 x 4-6 um. Apothecia in autumn . . . . . $Ciboria  batschiana (Zopf) N. F. Buchw.
+
+
+
+12,13$ (7) Apothecia on leaves of deciduous trees 
+12,14$ Apothecia on plant remnants of Rubus chamaemorus .
+
+13,0$ (12) On leaves of Alnus, more exceptionally Betula and Populus, dark to medium pale brown, disc 0.5-3 mm diam., stipe 0.5-7 x 0.3-0.6 mm. Asci 65-95 x 6-8 um. Ascospores 6.5-10 x 4.2-5.3 um. Apothecia in spring and early summer from stromatized patches on decaying leaves . . . . . $Ciboria  conformata (P. Karst.) Svrcek
+13,0$. On leaves of Salix spp. Several collections from Northern Europe fall into this category. $The taxonomy of this group is under investigation in our lab.
+
+14,0$ (12) Apothecia reddish brown to pale brown, disc 4-7 mm diam., stipe rather thick, 10-38 x 0.7-2.1 mm. Asci 80-120 x 5.5-7 um. Ascospores biguttulate, 9-13.5 x 5-6 um. Apothecia from stromatized patches on leaves and stems in spring and early summer . . . . . $Ciboria  latipes Holst-Jensen & T. Schumach.
+14,0$ Apothecia medium brown to dark brown, disc 0.5-3 mm diam., cupulate to plane, short-stipitate, stipe slender 1-15 x 0.2-0.8 mm. Asci 90-120 x 9-11.5 um. Ascospores ellipsoid, biguttulate, unicellular, 11.5-15.5 x 5-6 um. Apothecia from stromatized leaf veines and petioles of host in early summer . . . . . $Rutstroemia chamaemori L. Holm & K. Holm
+
+
+15,0$  Ciboria is a heterogeneous assemblance of species characterized by ± determinate stromata, an apothecial outer excipulum consisting of globose cells (textura globulosa) NOT embedded in a gelatinous matrix, and hyaline, unicellular ascospores. The genus is probably polyphyletic. The species on catkins of amentiferous trees constitute a monophyletic group. Based on scientific evidence and educated guess we distinguish five groups within the genus, the true Ciboria (on catkins), the warted-spored Ciboria , which are presumably obligate parasites and produce apothecia on fruits of amentiferous trees, the deciduous leaf inhabitants, forming a ± well differentiated stroma on leaves of deciduous trees, the herbaceous plant inhabitants, nutritioning on plant remnants of various kind (for groups three and four, see also Rutstroemia), and a fifth group of incommon features, consisting of presumably unrelated taxa classified on the basis of stromatal type$Ciboria caucus (Reb.:Fr.) Fuckel.

@@ -1,0 +1,220 @@
+titre$ ROY CAIN'S FIELD KEY TO POLYPORES
+
+
+com$ adapt GF oct 2015
+rem$LANGUE$Anglais
+1,0$ source : http://website.nbm-mnb.ca/mycologywebpages/EssaysOnFungi/Polypores/Polypore.html
+1,0$
+
+01,02 $ Basidiomata hard and woody when fresh, functional over several years and showing more than one layer of tubes or more than one year's growth when cut vertically down through the centre; these are mostly big "conks" found on large logs and trunks  -
+01,14 $ Basidiomata more or less annual and with only one layer of tubes -
+02,0 $ Context and lower surface of basidiomata pinkish or reddish - $ Fomitopsis cajanderi
+02,03 $ Context and lower surface of basidiomata not pink -
+03,04 $ Context of of basidiomata white or light coloured, varying to buff or ochraceous -
+03,08 $ Context of basidiomata distinctly dark in colour, often dark reddish brown -
+04,0 $ Context very bitter to the taste - $ Fomitopsis officinalis
+04,05 $ Context not bitter -
+05,06 $ Tubes in very distinct layers as seen when the basidiomata are cut vertically through the centre -
+05,07 $ Tubes not in distinct layers -
+06,0 $ Pores angular; basidiomata white above; on hardwoods only, usually maple - $ Oxyporus populinus
+06,0 $ Pores circular; basidiomata gray or red above; on either hardwoods or conifers - $ Fomitopsis pinicola
+07,0 $ Growing only on living ash trees - $ Perenniporia fraxinophila
+07,0 $ Growing on other hosts, living or dead  - $ Fomitopsis pinicola
+08,09 $ Always growing on living trees; basidiomata without a distinct upper crust  -
+08,11 $ Growing on dead trees; basidiomata sometimes with a distinct crust covering the softer tissues below  -
+09,0 $ Growing on conifers  - $ Phellinus pini
+09,10 $ Growing on hardwood trees  -
+10,0 $ Growing only on living locust trees (Robinia species)  - $ Phellinus robineae
+10,0 $ Growing on living oak trees  - $ Phellinus everhartii
+11,12 $ Upper surface of basidiomata covered with a hard crust, below which the context is softer  -
+11,13 $ Upper surface without a hard crust, but basidiomata hard and woody throughout  -
+12,0 $ Basidiomata hoof-shaped, the tubes 2.5 cm or more long, not in definite layers  - $ Fomes fomentarius
+12,0 $ Basidiomata not hoof-shaped, the tubes shorter and in very definite layers  - $ Ganoderma applanatum
+13,0 $ Tubes in definite annual layers as seen when the basidiomata are cut vertically through the centre; on birches only  - $ Phellinus robustus
+13,0 $ Tubes not in definite annual layers; often on other hosts  - $ Phellinus igniarius
+14,15 $ Lower surface with sinuous pores or with pores elongated in a radial direction, or with mushroom-like lamellae (gills); basidiomata never stipitate  -
+14,28 $ Lower surface with round, angular or tubular pores; basidiomata stipitate or not  -
+15,16 $ Context white or light coloured  -
+15,23 $ Context distinctly brown  -
+16,17 $ Growing on coniferous wood  -
+16,19 $ Growing only on hardwoods  -
+17,0 $ Pore surface purple to lilac, at least near the margin  - $ Trichaptum abietinum
+17,18 $ Pore surface white to cream  -
+18,0 $ Pores averaging about 2 to 3 per mm; mostly found on hardwoods but also on juniper  - $ Antrodia albida
+18,0 $ Pores averaging about 1 to 2 per mm; on dead standing conifers, rarely on hardwoods  - $ Antrodia heteromorpha
+19,20 $ Upper surface of basidiomata glabrous, zonate or not  -
+19,21 $ Upper surface of basidiomata distinctly pubescent and zonate  -
+20,0 $ Upper surface of basidiomata zonate  - $ Daedaleopsis confragosa
+20,0 $ Upper surface of basidiomata azonate; confined to oak and chestnut  - $ Daedalea quercina
+21,0 $ Pores greatly elongated and forming mushroom-like lamellae  - $ Lenzites betulina
+21,22 $ Pores round to sinuous, never forming lamellae  -
+22,0 $ Pores 3 to 4 per mm  - $ Cerrena unicolor
+22,0 $ Pores about 2 to 3 per mm  - $ Antrodia albidus
+23,24 $ Basidomata less than 1 cm thick  -
+23,26 $ Basidiomata more than 1 cm thick  -
+24,0 $ Upper surface of basidiomata pubescent; context rusty brown; only on conifer wood  - $ Gloeophyllum sepiarium
+24,25 $ Upper surface of basidiomata glabrous; context dull brown or paler, not rusty  -
+25,0 $ Upper surface of basidiomata scarcely zonate; context umber brown or paler; on both hardwoods and conifers  - $ Gloeophyllum trabeum
+25,0 $ Upper surface of basidiomata zonate; context scarcely brown; on hardwoods  - $ Daedaleopsis confragosa
+26,0 $ Growing only on conifers  - $ Phellinus pini
+26,27 $ Growing on hardwoods only  -
+27,0 $ Only on wood of oak and chestnut; pores 1 mm or more broad  - $ Daedalea quercina
+27,0 $ On a great variety of hardwoods; pores less than 1 mm broad  - $ Daedaleopsis confragosa
+28,29 $ Context pinkish, reddish, yellowish, yellowish brown or darker  -
+28,51 $ Context white, whitish, or pale wood-color  -
+29,30 $ Context decidedly pinkish, reddish, or yellowish  -
+29,33 $ Context yellowish brown or darker  -
+30,31 $ Pore surface deep red, pink or pinkish brown  -
+30,32 $ Pore surface not so brightly colored  -
+31,0 $ Pore surface deep red; on various hardwoods  - $ Pycnoporus cinnabarinus
+31,0 $ Pore surface pink or pinkish brown; on coniferous hosts; basidiomata corky  - $ Fomitopsis cajanderi
+32,0 $ Basidiomata fleshy, gelatinous on top  - $ Fistulina hepatica
+32,0 $ Basidiomata tough at maturity, not at all gelatinous  - $ Hapalopilus croceus
+33,34 $ Basidiomata with a more or less distinct stipe (stem)  -
+33,38 $ Basidiomata of the bracket type, without a stipe  -
+34,35 $ Growing on conifers  -
+34,37 $ Growing on hardwoods or in soil  -
+35,0 $ Inner substance of pileus of uniform consistancy, not forming two distinct layers  - $ Phaeolus schweinitzii
+35,36 $ Inner substance of pileus in two rather distinct layers, an upper soft and a lower more firm one  -
+36,0 $ Context of pileus up to 4 mm thick  - $ Inonotus tomentosus
+36,0 $ Context of pileus up to 10 mm thick  - $ Onnia leporina
+37,0 $ Pileus covered with a red varnish; laterally stipitate; on hardwoods  - $ Ganoderma lucidum
+37,0 $ Pileus not varnished; centrally stipitate; growing in soil and apparently not associated with wood  - $ Coltricia perennis
+38,0 $ Basidiomata red-varnished  - $ Ganoderma lucidum
+38,39 $ Basidiomata not red-varnished  -
+39,40 $ Growing on conifers  -
+39,42 $ Growing on hardwoods  -
+40,0 $ Basidiomata corky or leathery with upper surface glabrous  - $ Fomitopsis cajanderi
+40,41 $ Upper surface of basidiomata tomentose  -
+41,0 $ Basidiomata soft when fresh, brittle when dry; cystidia present but setae absent  - $ Phaeolus schweinitzii
+41,0 $ Basidiomata firm, never brittle; setae present  - $ Onnia circinata
+42,0 $ Basidiomata forming a more or less globose mass, with many small, closely overlapping pilei  - $ Globifomes graveolens
+42,43 $ Basidiomata solitary or with a few overlapping pilei  -
+43,0 $ Context very light brown in colour  - $ Ischnoderma resinosum
+43,44 $ Context yellowish brown or darker  -
+44,0 $ Basidiomata turning violet to red where touched with a KOH solution; context cinnamon  - $ Hapalopilus nidulans
+44,45 $ Basidiomata turning black where touched with a KOH solution; context darker  -
+45,46 $ Basidiomata less than 5 cm thick at their base  -
+45,49 $ Basidiomata more than 5 cm thick at their base  -
+46,47 $ Context usually less than 1 cm thick  -
+46,48 $ Context up to 2 cm thick  -
+47,0 $ Upper surface of basidiomata conspicuously zonate  - $ Inonotus radiatus
+47,0 $ Upper surface of basidiomata azonate or only faintly zonate  - $ Inonotus cuticularis
+48,0 $ Basidiomata with a central whitish-streaked core as seen when cut vertically through the center; without hymenial setae; on aspen  - $ Inonotus rheades
+48,0 $ Basidiomata without a central whitish-streaked core; hymenial setae present; on a variety of hardwoods, especially oak  - $ Phellinus gilvus
+49,0 $ Upper surface of basidiomata quite hairy  - $ Inonotus hispidus
+49,50 $ Upper surface not hairy  -
+50,0 $ Basidiomata with a central whitish-streaked core as seen when cut vertically through the centre; on trunks of living oak trees  - $ Inonotus dryophilus
+50,0 $ Basidiomata without a central core; found at the base of living oak trees or around stumps of recently felled trees  - $ Inonotus dryadeus
+51,52 $ Basidiomata with a more or less distinct, branched or unbranched stipe (stem)  -
+51,65 $ Basidiomata not stipitate  -
+52,53 $ Upper surface and stem covered with a reddish varnish  -
+52,54 $ Basidiomata not at all varnished, although sometimes reddish  -
+53,0 $ On coniferous wood only; context white  - $ Ganoderma tsugae
+53,0 $ On hardwoods only; context not pure white  - $ Ganoderma lucidum
+54,55 $ Stipe more or less branched, producing several or many pilei  -
+54,57 $ Stipe not branched and producing only one pileus, although the stipes of two or more may become confluent  -
+55,0 $ Pilei small (mainly less than 7 cm broad) and numerous  - $ Grifola frondosa
+55,56 $ Pilei few to several but larger (often 10 cm or more broad)  -
+56,0 $ Basidiomata becoming blackish where handled and on drying;spores smooth  - $ Meripilus giganteus
+56,0 $ Basidiomata not becoming blackish; spores rough  - $ Bondarzewia berkeleyi
+57,0 $ Pore surface bright sulphur-yellow in fresh plants  - $ Laetiporus sulphureus
+57,58 $ Pore surface not bright sulphur-yellow  -
+58,59 $ Pileus not more than 5 cm broad  -
+58,62 $ Pileus larger  -
+59,0 $ Pileus scaly, reddish; stipe (stem) poorly developed  - $ Polyporus alveolaris
+59,60 $ Pileus in browner shades; stipe well developed  -
+60,0 $ Pileus smoky-brown or smoky-black  - $ Polyporus brumalis
+60,61 $ Pileus tan in colour  -
+61,0 $ Stipe black at the base  - $ Polyporus elegans
+61,0 $ Stipe not black at the base  - $ Polyporus arcularius
+62,0 $ Growing on the ground, not associated with wood  - $ Albatrellus ovinus
+62,63 $ Growing on wood  -
+63,0 $ Pileus convex, the margin projecting downward below the level of the tubes; pallid to pale brown on top  - $ Piptoporus betulinus
+63,64 $ Pileus plane to depressed, without an overhanging margin  -
+64,0 $ Pileus pinkish-salmon or reddish when fresh  - $ Laetiporus cincinnatus
+64,0 $ Pileus chestnut-brown or darker, unchanged on drying  - $ Polyporus badius
+65,0 $ Basidiomata 1-3 cm diameter, almost globose; only on coniferous wood  - $ Cryptoporus volvatus
+65,66 $ Basidiomata not as above  -
+66,0 $ Found only on small dead limbs of elm; pure white in colour and bearing a small brownish cup-shaped body on the upper surface  - $ Poronidulus conchifer
+66,67 $ Not as above  -
+67,0 $ Margin of pileus projecting downward 5 mm or more beyond the pores; tubes separable in a smooth layer from the remainder of the basidiomata; found only on birch  - $ Piptoporus betulinus
+67,68 $ Basidiomata not as above  -
+68,0 $ Pore surface bright sulphur-yellow when fresh  - $ Laetiporus sulphureus
+68,69 $ Pore surface not sulphur-yellow, sometimes slightly yellowish on drying  -
+69,70 $ Basidiomata more or less entirely brown, blackish-brown, or rusty-brown in colour  -
+69,72 $ Basidiomata not uniformly brown in color  -
+70,0 $ Basidiomata very hairy on the upper surface; found only on willows and poplars  - $ Coriolopsis gallica
+70,71 $ Basidiomata not strongly hairy; usually on other hosts  -
+71,0 $ Basidiomata 10 cm or more broad  - $ Ischnoderma resinosum
+71,0 $ Basidiomata much smaller  - $ Antrodia serialis
+72,73 $ Pore surface more or less smoke-coloured or black  -
+72,77 $ Pore surface not blackish  -
+73,74 $ Basidiomata more than 5 mm thick  -
+73,75 $ Basidiomata less than 5 mm thick  -
+74,0 $ Pores 3 to 4 per mm; basidiomata lacking a distinctive odour  - $ Bjerkandera fumosa
+74,0 $ Pores 1 to 2 per mm; basidiomata with a pleasant odour of anise  - $ Trametes suaveolens
+75,0 $ Basidiomata scarcely hairy above, azonte  - $ Bjerkandera adusta
+75,76 $ Basidiomata decidedly hairy on the upper surface, usuallly distinctly zonate  -
+76,0 $ Upper surface of basidiomata marked with zones of contrasting colours  - $ Trametes versicolor
+76,0 $ Upper surface not with zones of different colors  - $ Trametes hirsuta
+77,78 $ Basidiomata fibrous or tough and leathery when fresh and soaking up to a similar condition  -
+77,92 $ Basidiomata either soft, spongy, and full of water, or else firm and corky when fresh  -
+78,79 $ Pores soon breaking up into teeth  -
+78,86 $ Pores little or not at all toothed  -
+79,80 $ Basidiomata less than 4 mm thick  -
+79,84 $ Basidiomata more than 4 mm thick  -
+80,0 $ Growing only on coniferous wood; pore surface with lilac to purple colours, at least when young  - $ Trichaptum abietinum
+80,81 $ Growing on hardwoods, less commonly on conifers; if on conifers pore surface not lilac to purple  -
+81,0 $ Basidiomata white and less than 1 cm from margin to point of attachment  - $ Irpex lacteus
+81,82 $ Basidiomata gray or otherwise coloured, and more than 1 cm from margin to point of attachment  -
+82,0 $ Upper surface of basidiomata strongly pubescent  - $ Cerrena unicolor
+82,83 $ Upper surface of basidiomata only thinly pubescent  -
+83,0 $ Pores 3-6 mm long - $ Trametes pubescens
+83,0 $ Pores 1-3 mm long  - $ Trichaptum biforme
+84,0 $ Pores large, averaging 1-2 per mm  - $ Trichaptum biforme
+84,85 $ Pores smaller, averaging 3 to 4 per mm  -
+85,0 $ Upper surface conspicuously hairy and seldom white; pores grayish in age  - $ Trametes hirsuta
+85,0 $ Upper surface less hairy, pure white or with some light orange brown colours; pores yellow brown to ochre in age  - $ Trametes pubescens
+86,0 $ Growing only on coniferous wood; pore surface with lilac to purple colours, at least when young  - $ Trichaptum abietinum
+86,87 $ Growing on hardwoods, less commonly on conifers; if on conifers pore surface not lilac to purple  -
+87,0 $ Pores 3-7 mm long; pileus 1-2 cm thick; pore surface white to yellowish; on oak and chestnut; drying very hard  - $ Fomitopsis spraguei
+87,88 $ Basidiomata thinner; not as above  -
+88,89 $ Pore surface lavender, lilac, reddish or reddish-purple, at least near the margin of the basidiomata  -
+88,90 $ Pore surface with no lavender, lilac, reddish or reddish-purple colours  -
+89,0 $ Pore surface lavender or lilac at the margin of the basidiomata; upper surface not with narrow colored zones  - $ Trichaptum biforme
+89,0 $ Pore surface reddish to reddish-purple when fresh, and peeling off in a thin rubbery layer  - $ Gloeoporus dichrous
+90,0 $ Upper surface of basidiomata marked with many narrow and differently-colored zones  - $ Trametes versicolor
+90,91 $ Upper surface of basidiomata zonate but of a uniform colour  -
+91,0 $ Upper surface conspicuously hairy and seldom white; pores grayish in age  - $ Trametes hirsuta
+91,0 $ Upper surface less hairy, pure white or with some light orange brown colours; pores yellow brown to ochre in age  - $ Trametes pubescens
+92,93 $ Basidiomata corky in texture  -
+92,98 $ Basidiomata soft and spongy in texture when fresh  -
+93,94 $ Basidiomata more than 2 cm thick  -
+93,95 $ Basidiomata less than 2 cm thick  -
+94,0 $ Growing on willows and poplars; odour pleasant, anise-like  - $ Trametes suaveolens
+94,0 $ Growing mainly on locust; without an odour of anise  - $ Perenniporia robiniophila
+95,0 $ Pores small, averaging 4 to 6 per mm, often grayish  - $ Bjerkandera fumosa
+95,96 $ Pores larger  -
+96,0 $ Pores averaging about 1-2 per mm; on dead standing conifers, rarely on hardwoods  - $ Antrodia heteromorpha
+96,97 $ Pores smaller, averaging 2 to 3 per mm; mostly on hardwoods  -
+97,0 $ Basidiomata, including the pores, white; mostly found on hardwoods but also on juniper  - $ Antrodia albidus
+97,0 $ Basidiomata, including the pores, pale brown  - $ Antrodia malicola
+98,0 $ Pore surface immediately dirty-yellowish where bruised  - $ Postia fragilis
+98,99 $ Pore surface not so discoloring  -
+99,100 $ Basidiomata generally less than 4 cm long  -
+99,102 $ Basidiomata generally more than 4. cm long  -
+100,0 $ Pore surface definitely reddish coloured  - $ Gloeoporus dichrous
+100,101 $ Pore surface whitish or only slightly yellowish or bluish  -
+101,0 $ Basidiomata quite hairy on the upper surface  - $ Postia caesia
+101,0 $ Basidiomata not hairy  - $ Tyromyces chioneus
+102,103 $ Growing only on coniferous woods  -
+102,104 $ Growing only on hardwoods  -
+103,0 $ Tubes usually more than 5 mm long, the pores averaging 2 to 3 per mm  - $ Climacocystis borealis
+103,0 $ Tubes usually less than 5 mm long, the pores averaging 4 to 5 per mm  - $ Postia guttulata
+104,105 $ Pores averaging 0.5 to 2 per mm  -
+104,106 $ Pores averaging 3 to 5 per mm  -
+105,0 $ Tubes 1.5-3 cm long; only on oak  - $ Spongipellis unicolor
+105,0 $ Tubes 0.5-1.5 cm long; on various hardwoods  - $ Spongipellis delectans
+106,0 $ Growing only on oak and chestnut, drying very hard  - $ Fomitopsis spraguei
+106,0 $ Growing on other hosts; not drying hard  - $ Spongipellis spumeusEssays >> Polypore key

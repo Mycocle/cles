@@ -1,0 +1,78 @@
+Key to species of Otidea
+We were not able to study and interpret the following Chinese
+species and these are therefore not treated nor included in the
+key: Otidea bicolor W.Y. Zhuang & Zhu L. Yang, O. kunmingensis
+W.Y. Zhuang, O. olivaceobrunnea Harmaja, O. sinensis J.Z.
+Cao & L. Fan, O. subpurpurea W.Y. Zhuang and O. tianshuiensis
+J.Z. Cao, L. Fan & B. Liu. For O. integra (Bres.) Harmaja
+see notes under O. phlebophora.
+
+
+1. Ascomata hypogeous, globose to subglobose, truffle-like	4. O. subterranea
+1. Ascomata epigeous, cup-shaped to ear-shaped, split or entire	2
+2. Spores ornamented	3
+2. Spores smooth	5
+3. Spores with fine warts ± ridges	17. O. unicisa
+3. Spores spiny	4
+
+4. Spores 14-17 ??7-9 ?m	16. O. kaushalii
+4. Spores 16.5-20 ??7.6-10 ?m	18. O. yunnanensis
+5. Spores Lm > 17 ?m	6
+5. Spores Lm < 17 ?m	10
+6. Apothecia broadly ear-shaped, split; typically ochraceous yellow to ochre orange; often associated with Cudonia in mossy Picea forests	11. O. cantharella
+6. Apothecia cup-shaped, split or entire; brown; under Picea or other trees	7
+7. Apothecia entire; reddish brown; basal mycelium normally with abundant minute resinous exudates; ectal excipulum hyphoid hairs often with a gelatinous sheath (more easily seen in MLZ); with Picea	12. O. propinquata
+7. Apothecia split or entire; purple or ochre-brown; basal mycelium without or with sparse resinous exudates; ectal excipulum hyphoid hairs without a conspicuous sheath; with angiosperms	8
+8. Apothecia split, up to 75 mm wide; spores broadly ellipsoid to oblong, Qm = 1.7-1.8; associated with Fagaceae	 .	3. O. platyspora
+8. Apothecia entire or split, up to 16 mm diam; spores narrowly ellipsoid to fusoid, Qm = 1.9-2.1; most likely associated with Betulaceae and Salicaceae	9
+9. Apothecia deeply cup-shaped, split; ectal excipulum without resinous exudates	1. O. apophysata
+9. Apothecia shallowly cup-shaped, usually entire; ectal excipulum surface with abundant resinous exudates	2. O. daliensis
+10. Receptacle surface with bright citrine yellow tones in young apothecia	11
+10. Receptacle surface without citrine yellow tones	15
+11. Spores Qm = 1.7- 2; apothecial base at most wrinkled, without high ribs or veins	12
+11. Spores Qm = 2-2.3; apothecial base with ribs or strongly veined at least in some apothecia	14
+12. Receptacle surface ochraceous yellow; basal mycelium yellow in KOH; spores Wm = 6.5 ?m, Qm = 1.7	25. O. borealis
+12. Receptacle surface citrine yellow; basal mycelium unchanged in KOH; spores Wm = 5.6-6 ?m, Qm = 1.8-2	13
+13. Apothecia sometimes entire, sometimes with blunt ribs at the base; North America	31. O. oregonensis
+13. Apothecia split, without ribs at the base; Europe	27. O. concinna
+14. Apothecia mostly entire, base strongly ribbed-veined and anastomosing in all the apothecia .	32. O. phlebophora
+14. Apothecia mostly split, base with a few ribs-veins, smooth in some apothecia	30. O. minor
+15. At least some paraphyses straight or curved, claviform to almost capitate at apices; and/or resinous exudates of the ectal excipulum yellow or reddish yellow, turning bright yellow in KOH; apothecia split or not	16
+15. Paraphyses not as such; resinous exudates of the ectal excipulum, when present, not turning bright yellow in KOH; apothecia always split	20
+16. Apothecia shallowly cup-shaped and irregular, entire	29. O. lactea
+16. Apothecia ear-shaped or deeply cup-shaped, split 	17
+17. Paraphyses often claviform or capitate at apices, 3-9 ?m broad; spores Qm = 1.6-1.8	18
+17. Paraphyses at most slightly swollen at apices, 2-5 ?m broad; spores Qm = 1.9-2	19
+18. Basal mycelium turning yellow in KOH; Europe	(see under O. borealis) O. sp. 'a'
+18. Basal mycelium not yellow in KOH; North America	33. O. rainierensis
+19. Spores Lm = 11.2-11.8 ?m; sometimes receptacle with a bluish hue, ochraceous grey when dried; basal tomentum light ochre in dried specimens . . .	26. O. caeruleopruinosa
+19. Spores Lm = 10-10.6 ?m; receptacle without bluish hue when fresh, reddish brown when dried; basal tomentum orange-ochre in dried specimens 28. O. flavidobrunneola
+20. Spores Lm < 12 ?m	21
+20. Spores Lm > 12 ?m	28
+21. Apothecia dark brown with lilaceous tones; Asia	23. O. purpurea
+21. Apothecia not dark brown, without lilaceous tones; Asia, Europe or North America	22
+22. Medullary excipulum with reddish brown resinous exudates scattered among and covering some hyphae; ectal excipulum of textura prismatica to textura intricata; receptacle surface with contrasting brown warts	6. O. papillata
+ 22. Medullary excipulum sometimes with yellowish brown resinous exudates at septa, not covering hyphae; ectal excipulum of textura angularis; receptacle surface with contrasting warts or not	23 
+23. At least some warts higher than 85 ?m; basal tomentum orange-ochre when dried; apothecial sections often yellow in KOH; without resinous exudates at septa in the medullary excipulum	9. O. tuomikoskii
+23. Warts up to 85 ?m; basal tomentum pale ochre or yellow when dried; apothecial sections not yellow in KOH; sometimes with resinous exudates at septa in the medullary excipulum	24
+24. Hymenium with distinct yellow or orange tones, ochreyellow to pinkish orange; resinous exudates on the ectal excipulum partly dissolving into reddish grey, heterogeneous drops in KOH or basal mycelium yellow in KOH 	25
+24. Hymenium without or with weak orange tones; resinous exudates sometimes turning reddish brown but not dissolving into drops in KOH; basal mycelium not turning yellow in KOH	26
+25. Resinous exudates on the ectal excipulum partly dissolving into reddish grey heterogeneous drops in KOH; basal mycelium not turning yellow in KOH; North America	8. O. pseudoleporina
+25. Resinous exudates on the ectal excipulum not dissolving into reddish grey heterogeneous drops in KOH; basal mycelium turning yellow in KOH; Asia	19. O. brevispora
+26. Hymenium sometimes with pink tones; apothecia yellowish ochre to brown; narrowly ear-shaped in the beginning	14. O. nannfeldtii
+26. Hymenium without pink tones; apothecia reddish brown to orange-brown; broadly ear-shaped	27
+27. Spores Lm = 10-10.7 ?m; Qm = 1.6-1.7	13. O. formicarum
+27. Spores Lm = 11.1-11.7 ?m; Qm = 1.7-1.9	15. O. subformicarum
+28. Spores Qm < 1.8; ear-shaped	29
+28. Spores Qm > 1.8; ear- or cup-shaped	30
+29. Apothecia dark brown, sometimes with olivaceous tint; paraphyses mostly with distinct notches .	 10. O. brunneoparva
+29. Apothecia cinnamon brown, without olivaceous tint; paraphyses not or slightly notched	7. O. leporina
+30. Apothecia ochraceous yellow, hymenium often with pink tones; basal mycelium turning yellow in KOH	22. O. onotica
+30. Apothecia pale or dark brown, without pink tones; basal mycelium not turning yellow in KOH	31
+31. Receptacle medium brown; ectal excipulum resinous exudates absent or scarce, light yellowish brown; basal mycelium without dark brown resinous exudates	5. O. alutacea s.l.
+31. Receptacle dark purple brown; ectal excipulum resinous exudates abundant, dark brown; basal mycelium with dark brown resinous exudates	32
+32. Spores Qm < 2, ellipsoid; apothecia mostly ear-shaped; North America	24. O. smithii
+32. Spores Qm > 2, ellipsoid-fusoid; apothecia mostly cupshaped, split; Eurasia and North America	33
+33. Receptacle strikingly purple-violaceous (fresh); medullary excipulum without, or rarely with flabellate crystal-like exudates, forming cross-like aggregates; under conifers on calcareous ground	21. O. mirabilis
+33. Receptacle mostly without purple tones; medullary excipulum with striate exudates covering some hyphae, sometimes forming crystal-like aggregates; often under deciduous trees or on acidic ground	20. O. bufonia
+

@@ -1,0 +1,75 @@
+
+KEY TO THE GENERA
+1. Volvaabsent . . . . . . . . . .
+1. Volva present .
+1. PLUTEUS Fr.• FI. scan.: 338. 1835
+ 1,0  Pluteus
+.2,0  Volvariel1a
+
+a terminer
+
+
+
+titre$PLUTEUS FLORA AGARICINA NEERLANDICA
+com$adapt GF oct 2013
+rem$LANGUE$Anglais
+1,0$source  FLORA AGARICINA NEERLANDICA vol 2
+
+1,2 $ Pleurocystidia thick-walled, with hooks at apex.
+1,7 $ Pleurocystidia thin-walled and not hooked at apex, or absent.
+2,0 $ Edge of lamellae brown, grey-brown 2 $P. atromarginatus
+2,3 $ Edge of lamellae white or concolorous with sides.
+3,4 $ Clamp-connections present, at least in pileipellis.
+3,5 $ Clamp-connections absent.
+4,0 $ Pileus brown, greyish brown, not distinctly squarnulose at centre; on coniferous wood, mainly Picea $ P. pouzarianus
+(if growing on deciduous wood: see note under P cervinusï
+
+4,0 $ Pileus grey, sometimes slightly brownish, with dark greenish or bluish squamulose centre; on deciduous wood. $ P. salicinus
+5,0 $ Smell strongly raphanoid; pileus mostly brown, very rarely white $ P. cervinus
+5,6 $ Smell sweet or fungoid; pileus white to cream with or without brownish fibrils.
+6,0 $ Pileus shiny white, with age cream eoloured at centre, smooth; spores (6.5-)7.0-8.5(-9.0) x 4.5-5.5(-6.5) um; cheilocystidia crowded; basidiocarps solitary $ P. pellitus
+6,0 $ Pileus white to cream-eoloured, brown fibrillose to squamose or viseid and glabrous; spores (5.0-)5.5-8.0(-9.5) x 3.5-5.0 (-5.5) ~m; cheilocystidia mostly very scarce, rarely abundant; basidiocarps mostly fasciculate $ P. petasatus
+7,8 $ Pileipellis a differentiated cutis, with ascending elements at centre ofpileus.
+7,9 $ Pileipellis a hymeniderm or a trichoderm.
+8,0 $ Pleurocystidia absent or very rare and only near larnella edge; pileus up to 25 mm wide; stipe up to 40 mm long. $ p. hispidulus
+8,0 $ Pleurocystidia present and moderately abundant; pileus wider than 30 mm; stipe longer than 45 mm. . $ P. ephebeus
+9,10 $ Pileipellis consisting only of cylindrical to fusiform elements with Q> 3.
+9,15 $ Pileipellis made up of c1avate to spheropedunculate elements (Q < 3) or of fusiform to narrowly conicaI elements mixed with clavate to spheropedunculate elements.
+10,11 $ Pleurocystidia absent or very rare.
+10,12 $ Pleurocystidia present and moderately abundant to abundant.
+11,0 $ Spores mainly broadly eIIipsoid to ellipsoid (Q =1.25-1.35); cheilocystidia colourless . $P. exiguus
+11,0 $ Spores mainly subglobose (Q = 1.1); cheilocystidia partly with brown contents. $P. pusiIIuJus
+12,13 $ Stipe not flocculose, only with sorne squamule-like structures made up of a few irregular hyphae at base.
+12,14 $ . Stipe completely covered with floccules or squamules made up of cystidia.
+13,0 $ Pileus brown to brown-grey; stipe whitish, pink coloured at base. $P. roseipes
+13,0 $ Pileus yellow to yellow-brown; stipe white, pale yellow at base, not pink coloured $P. leoninus
+14,0 $ Larnella edge brown; caulocystidia in squamules ascending from stipitipellis $ P. umbrosus
+14,0 $ Larnella edge concolorous with sides; caulocystidia in patent-spreading tufts $P. plautus
+15,16 $ Pileipellis made up of two types of elements, viz. clavate to spheropedunculate and narrowly fusiform to narrowly conieal elements.
+15,17 $ PileipelIis made up of one type of elements, viz. cIavate to spheropedunculate ones.
+16,0 $ Pleurocystidia usually absent, very rarely present; cheilocystidia partly rostrate; stipe with white floccules made up oftufted cystidia. $P. thomsonii
+16,0 $ Pleuroeystidia present; eheilocystidia not rostrale; stipe glabrous to innately dark fibrillose, rarely with sorne brown floccules. $P. podospileus
+17,18 $ Pileus white or orange-red.
+17,19 $ Pileus grey-brown, brown, dark brown, yellow, yellow-brown, or dark grey, with or without olive tinges.
+18,0 $ Pileus orange-red , $P. aurantiorugosus
+18,0 $ Pileus white $P. inquilinus
+19,0 $ Stipe chrome-yellow, at least at base $P. romellii
+19,20 $ Stipe white to greyish, at most sIightly yellowish cream at base.
+20,21 $ Pleurocystidia absent or very searee.
+20,23 $ Pleurocystidia present and moderately to very abundant.
+21,0 $ Spores subglobose to broadly ellipsoid (Q=1.15); cheilocystidia partly rostrate $ P. insidiosus
+21,22 $ Spores ellipsoid to oblong (Q = 1.5-1.65); cheilocystidia not rostrate,
+22,0 $ Stipe glabrous, without cystidia; surface of pileus cracking into granules. $ P. diettrichii
+22,0 $ Stipe with cystidia when young; surface ofpileus glabrous. $ P. poliocnemis
+23,0 $ Pileus dark grey, dark brown, soot-coloured, sometimes with slight olive tinge, smooth to slightly venose-rugulose; pileipellis becorning opaque when gently rubbed; stipe whitish grey striate, or grey, lacking greenish or bluish tinges. $P. nanus
+23,24 $ Pileus yellow to dark brown, grey or olive-tinged, smooth to venose, not becoming opaque when gently rubbed; stipe white or whitish, or grey with distinct bluish or greenish tinges in lower part (species 22-27: unsufficiently unravelled  P. phlebophorus group; see also note under that species).
+24,0 $ Stipe with distinct bluish or greenish grey tinges in lower part $P. cyanopus
+24,25 $ Stipe lacking bluish or greenish grey tinges.
+25,0 $ Lamellaedgebrown,atleastnearmarginofpileus $P.luctuosus
+25,26 $ Lamella edge concolorous with surface.
+26,0 $ Pileus yellowish-ochraceous brown and golden yellow at margin, or greenish yellow; at centre brown or hyaline elements of pileipellis situated on layer of yellow hyphae. $P. chrysophaeus
+26,27 $ Pileus brown, greyish or olive-tinged, without yellow tinges.
+27,0 $ Pileus slightly or not hygrophanous, brown to dark brown, venose $ P. phlebophorus
+27,28 $ Pileus distinctly hygrophanous, slightly venose or smooth.
+28,0 $ Pileus brown, pale brown. $P. pallescens
+28,0 $ Pileus when young grcyish brown with distinct olive linge, later more brown coloured and olive tinged at centre. $P. cinereofuscus

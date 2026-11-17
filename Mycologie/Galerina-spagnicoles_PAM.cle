@@ -1,0 +1,42 @@
+Titre$ Clé expérimentale des Galerina sphagnicoles en Europe
+Com$ Adaptation par Aurélien Paris
+rem$ Pierre-Arthur Moreau - Analyse écologique et patrimoniale des champignons supérieurs dans les tourbières des Alpes du Nord. Thèse, Laboratoire Dynamique des Ecosystèmes d'Altitude, Université de Savoie, 2002.
+rem$ Disponible en ligne sur http://botanique.univ-lille2.fr/fileadmin/user_upload/documents/pdf_pam/Rapport_These_PAM.pdf
+1,50$ Remarque de l'auteur
+1,2$ 1a : Boucles absentes dans le revêtement piléique.
+1,3$ 1b : Boucles abondantes dans le revêtement piléique.
+2,0$ 2a : Basides non bouclées. Spores > 12 µm, non dextrinoïdes, non porées. Commun et ubiquiste. (= G. heterocystis ss. auct. europ.) $ G. clavata (Vel.) Kühner
+2,0,N$ A basides 2-sp. = G. subclavata Kühner
+2,0$ 2b : Basides bouclées. Spores < 12 µm, dextrinoïdes, subporées. Rare, tourbières mouillées d'altitude. $ G. stordalii Smith & Singer
+3,4$ 3a : Spores calyptrées. Petites espèces ternes associées aux sphaignes rases ou compactes.
+3,6$ 3b : Spores non calyptrées. Espèces variables.
+4,5$ 4a : Couleurs gris olivâtre ou jaunâtre à centre hyalin. Pied très grêle < 0,1 mm.
+4,0$ 4b : Couleurs ochracées à roussâtres, non hyalines. Pied peu grêle, souvent comprimé, x 2-3 mm. $ G. sphagnicola (Atk.) Smith & Singer
+5,0$ 5a : Saveur farineuse. Pied non brunissant. Greffé sur sphaignes. $ G. calyptrata P.D. Orton
+5,0$ 5b : Saveur non farineuse. Pied brunissant. Plutôt sur tourbe. $ G. sahleri (Quél.) J.Favre 
+5,0,N$ A pied non brunissant, mousses hygrophiles ou souches, cf. G. cerina Smith & Sing. ss. lat.
+6,7$ 6a : Cheilocystides (toutes ou en majorité) très distinctement capitées. Pleurocystides absentes. Saveur non farineuse. $ Sect. Tibiicystis $s"Sect. Tibiicystis"
+6,8$ 6b : Cheilocystides non capitées ou à tête peu individualisée. Saveur variable.
+7,0$ 7a : Caulocystides en totalité capitées (1/3 sup. du pied). Cheilocystides toutes capitées. Pied non fibrilleux, entièrement pruineux, ochracé à apex bistré chez les jeunes. Août-octobre. (= G. europaea ad int.). $ G. tibiicystis (Atk.) Kühner ss. auct. europ. 
+7,0$ 7b : Caulocystides non ou minoritairement capitées. Cheilocystides mixtes, certaines fusiformes à capitule absent ou peu net. Pied blanchâtre et lames jaune pâle chez les jeunes. Avril-septembre. $ G. hybrida Kühner
+7,0,N$ Ces deux espèces ont des spores jusqu'à 12,5 µm long. A spores petites 8,5-10 µm, voir G. lasiosperma (Atk.) Moreau & Courtec. ad int., signalée en Auvergne par Bouteville.
+8,9$ 8a : Pleurocystides présentes. Pied pruineux jusqu'à la base ou présence d'un voile annuliforme blanchâtre net. Saveur variable. $ Sect. Vittaeformis $s"Sect. Vittaeformis"
+8,13$ 8b : Pleurocystides absentes. Pied pruineux seulement sous les lames. Saveur farineuse. $ Sect. Galerina $s"Sect. Galerina"
+9,0$ 9a : Saveur farineuse. Piléocystides nombreuses. Greffé sur sphaignes vivantes. $ G. atkinsoniana var. sphagnorum Smith & Singer
+9,0,N$ Le type sur substrats moussus, non greffé.
+9,10$ 9b : Saveur nulle ou raphanoïde.
+10,11$ 10a : Couleurs rougeâtres ou pied fortement brunissant. Piléocystides absentes ou très rares. Non greffées.
+10,0$ 10b : Couleurs ochracées non brunissantes. Piléocystides nombreuses. $ G. muricellospora (Atk.) Kühner
+10,0,N$ A anneau membraneux, voir groupe G. marginata, notamment G. beinrothii Bresinsky & Besl.
+11,0$ 11a : Pied brunissant, chapeau plus pâle. Basides 2-sporiques. Acidophile, surtout avec polytrics. $ G. vittaeformis (Fr.:Fr.) Kühner
+11,12$ 11b : Pied et chapeau concolores. Dans les sphaignes ou les mousses imbues, peu acidophile.
+12,0$ 12a : Milieux tourbeux variés, peu acides. Voile absent. Pied pruineux jusqu'à la base. $ G. rubiginosa (Fr.) Kühner
+12,0$ 12b : Tourbières froides d'altitude. Voile blanc fibrilleux laissant une zone annulaire ± nette. Pied pruineux au-dessus du voile. $ G. rubiginosa var. annulata J. Favre
+13,14$ 13a : Espèces grêles et élancées à voile abondant, laissant des chinures ou des fibrilles nettes sur le pied.
+13,15$ 13b : Espèces plutôt trapues à pied souvent comprimé, à voile fibrilleux léger, rarement armilliforme.
+13,0$ 13c : Petit et grêle, gris ochracé pâle à mamelon hyalin. $ Voir G. mniophila (Pers.:Fr.) Kühner
+14,0$ 14a : Voile terminé au sommet par un anneau ± net. Chapeau feutré chez les jeunes, convexe ou bassement mamelonné. Avril-septembre. $ G. paludosa (Fr.:Fr.) Kühner
+14,0$ 14b : Voile seulement fibrilleux, sans trace annulaire distincte. Chapeau toujours lisse, à mamelon aigu proéminent. Août-octobre. (= G. subsphagnorum ad int.). $ G. « sphagnorum ss. Bon »
+15,0$ 15a : Chapeau bassement campanulé, jusqu'à 2 cm diam. Spores cylindro-fusiformes (en suppositoire), lisses. Tourbières flottantes ou sphaignes très humides. $ G. gibbosa J. Favre
+15,0$ 15b : Chapeau convexe, dépassant rarement 1 cm. Spores amygdaliformes, bassement marbrées. Plutôt tapis de sphaignes compactes. $ G. sphagnorum (Pers.:Fr.) Kühner ss. Smith & Singer
+50,0$ Il s'agit de documents de travail inédits (la thèse n'a pas été publiée) . Les noms qui peuvent figurer "ad interim" dans ces clés n'ont pas été publiés et n'ont aucune valeur nomenclaturale. $ _remarque importante

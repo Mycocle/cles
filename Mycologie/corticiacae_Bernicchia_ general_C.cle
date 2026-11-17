@@ -1,0 +1,633 @@
+MYCOCLE 00210760719050612C5D12
+ clé exploitable par Mycoclé 2.04
+ Mycoclé V2.04 : Clé génerale Corticiaceae Bernicchia
+ Key N: Tomentelloid fungi, spores hyaline to typically brown or violet in KOH, ornamented,telephoric acid present
+REM$LANGUE$Détection automatique
+2862307135791113151719212325272931333537404244464850525456586062646668707274767880828486889092949698100102104106108109111113115118120122124126128130133135137139142144146148150152154157159161163165167169171173175177179181183185187189191193195197199201204206208210212214216218220222224226228230232234236238240242244246248250253255257259262264266268270272274276278280282284286288290292294296298300302304306308310312314316318321323325327329331333335337339341343345347349351353355357360362364366368370372374376378380382384386388390392394396398400403405407409411413415417419421423425428430432434436438440442444446448450452454456458460462464466468470472474476478480482484486488490492494496498500502504506508510512514516518520522524526528530532534537539541543545547549551553555557559561563565567569571573575577579581583585587589591593595597599601603605607609611613615617619622624626
+0 Star-shaped asterohyphidia (with brown, acuminate branches) present011113302
+0 Star-shaped asterohyphidia absent011213403
+0 Hymenophore smooth, asterohyphidia dextrinoid, spores amyloid 02131450 Asterostroma0
+0 Hymenophore hydnoid, asterohyphidia not dextrinoid, spores inamyloid 02141460 Asterodon0
+0 Setae present 03251570 Hymenochaete0
+0 Setae absent032615804
+0 Dichohyphae and/or binding-skeleta1 hyphae dextrinoid046716905
+0 Not as above(<> Dichohyphae and/or binding-skeleta1 hyphae dextrinoid)0468161007
+0 Dichohyphae present0579171106
+0 Dichohyphae absent (dendrohyphidia may be present) 0571017120 Scytinostroma0
+0 Spores smooth, amyloid or not 0691118130 Vararia0
+0 Spores verrucose, strongly amyloid 0691218140 Dichostereum0
+0 Spores hyaline to typically brown or violet in KOH, omamented, telephoric acid present 0781319150 Tomentelloid fungi (not treated but see Key N)305
+0 Not as above(<> Spores hyaline to typically brown or violet in KOH, omamented, telephoric acid present)0781419160s"Tomentelloid fungi"8
+0 Spores with a reaction in Melzer's reagent (amyloid or dextrinoid)081415201709
+0 Spores without a reaction in Melzer's reagent0814162018010
+0s"Without asterohyphidia; setae absent, dichohyphae and/or dextrinoid binding-skeletal hyphae absent; spores amyloid" Spores amyloid 09151721190 Key A20
+0s"Without asterohyphidia; setae absent, dichohyphae and/or dextrinoid binding-skeletal hyphae absent; spores dextrinoid" Spores dextrinoid 09151821200 Key B 59
+0 Basidia mostly with 2-4 sterigmata01016192221011
+0s"Without asterohyphidia; setae absent, dichohyphae and/or dextrinoid binding-skeletal hyphae absent; spores IKI-, basidia with 5-8 sterigmata" Basidia mostly with more than 4 sterigmata 010162022220 Key C 66
+0. Spores thick-walled and smooth01119212323012
+0 Spores thin-walled and/or omamented and/or branched, lobed or triangular01119222324013
+0s"Without asterohyphidia; setae absent, dichohyphae and/or dextrinoid binding-skeletal hyphae absent; spores IKI-, basidia with 2-4 sterigmata, spores thick-walled and smooth, clamps absent or scattered" Clamps either totally absent or scattered 012212324250 Key D70
+0s"Without asterohyphidia; setae absent, dichohyphae and/or dextrinoid binding-skeleNotasabo' tai hyphae absent; spores IKi-, basidia with 2-4 sterigmata, spores thick-walled and smooth, clamps present ." Clamps present on nearly all septa 012212424260 Key E77
+0s"Without asterohyphidia; setae absent, dichohyphae and/or dextrinoid binding-skeletal hyphae absent; spores IKl-, basidia with 2-4 sterigmata, spores ornamented and/or branched, lobed or tetrahedral" Spores (in Melzer's reagent!) omamented and/or branched, lobed or tetrahedral 013222525270 Key F100
+0 Spores smooth01322262528014
+0s"Without asterohyphidia; setae absent, dichohyphae and/or dextrinoid binding-skeletal hyphae absent; spores IKi-, basidia with 2-4 sterigmata, spores smooth, lyocystidia present" Lyocystidia present 014262726290 Key G124
+0 Lyocystidia absent01426282630015
+0 Generative hyphae with simple septa or occasional clamps 01528292731016
+0 Generative hyphae with clamps01528302732017
+0s"Without asterohyphidia; setae absent, dichohyphae and/or dextrinoid binding-skeletal hyphae absent; spores IKi-, basidia with 2-4 sterigmata, spores smooth, lyocystidia absent, generative hyphae with simple septa, cystidial organs present Cystidial organs present (excepting dendrohyphidia) 016293128330 Key H128
+0s"Without asterohyphidia; setae absent, dichohyphae and/or dextrinoid binding-skeletal hyphae absent; spores lKI-, basidia with 2-4 sterigmata, spores smooth, lyocystidia absent, generative hyphae with simple sepia, cystidial organs absent" Cystidial organs lacking 016293228340 Key I157
+0s"Without asterohyphidia; setae absent, dichohyphae and/or dextrinoid binding-skeletal hyphae absent; spores IKI-, basidia with 2-4 sterigmata, spores smooth, lyocystidia absent, generative hyphae with clamps, hyphal system di- or trimitic" Hyphal system dimitic/trimitic 017303329350 Key J176
+0 Hyphal system monomitic (or pseudodimitic )01730342936018
+0s"Without asterohyphidia; setae absent, dichohyphae and/or dextrinoid binding-skeletal hyphae absent; spores IKI-, basidia with 2-4 sterigmata, spores smooth, lyocystidia absent, generative hyphae with clamps, hyphal system monomitic, dendrohyphidia present" Dendrohyphidia or dendrophyses present 018343530370 Key K197
+0 Dendrohyphidia or dendrophyses absent01834363038019
+0s"Without asterohyphidia; setae absent, dichohyphae and/or dextrinoid binding-skeletal hyphae absent; spores IKi-, basidia with 2-4 sterigmata, spores smooth, lyocystidia absent, generative hyphae with clamps, hyphal system monomitic, dendrohyphidia absent, cystidialorgans present" Cystidial organs present 019363731390 Key L209
+0s"Without asterohyphidia; setae absent, dichohyphae and/or dextrinoid binding-skeletal hyphae absent; spores IKl-, basidia with 2-4 sterigmata, spores smooth, lyocystidia absent, generative hyphae with clamps, hyphal system monomitic, dendrohyphidia absent, cystidialorgans absent Cystidial organs lacking 019363831400 Key M263
+00-1039114200
+0 Hymenium c1early odontioid to hydnoid02017403244021
+0 Hymenium smooth to verrucose or slightly merulioid02017413245028
+0 Basidiome stipitate, growing on cones ofPicea or Pinus 021404233460 Auriscalpium0
+0 Basidiome different02140433347022
+0 Aculei arising single, usually inconspicuous02243443448023
+0 Àculei disposed on a structured conspicuous basidiome02243453449024
+0 Cystidia absent 023444635500 Mucronella0
+0 Cystidia present 023444735510 Dentipratulum0
+0 Spores smooth 024454836520 Irpicodon0
+0 Spores ornamented02445493653025
+0 Basidiome pileate or effuse-reflexed..:02549503754026
+0 Basidiome resupinate02549513755027
+0 Basidome pileate, fleshy, globose to ramified or dimidiate, white to cream 026505238560 Hericium0
+0 Basidiome effuse-reflexed, not as above(<> Basidome pileate, fleshy ...), brownish to greyish 026505338570 Gloiodon0
+0 Hyphal system monomitic, metuloids absent 027515439580 Dentipellis0
+0 Hyphal system dimitic or pseudodimitic, metuloids present... 027515539590 Gloeodontia0
+0 Acanthophyses, botryophyses and/or dendrophyses present02841564060029
+0 Acantho-, botryo- and/or dendrophyses absent02841574061034
+0 Hyphal system dimitic (see alsoXylobolus, monomitic but in some species seemingly dimitic) 029565841620 Stereum0
+0 Hyphal system monomitic02956594163030
+0 With a white pocket-rot 030596042640 Xylobolus0
+0 With a laminar white rot03059614265031
+0 Spores smooth 031616243660 Acanthophysellum0
+0 Spores ornamented03161634367032
+0 Botryophyses present 032636444680 Aleurobotrys0
+0 Botryophyses absent03263654469033
+0 Acanthobasidia present 033656645700 Acanthobasidium0
+0 Acanthobasidia absent 033656745710 Aleurodiscus0
+0 Hyphal system dimitic or trimitic03457684672035
+0 Hyphal system monomitic03457694673040
+0 Spores smooth03568704774036
+0 Spores ornamented03568714775037
+0 With brown, encrusted (metuloid) cystidia 036707248760 Amylostereum0
+0 Without brown, encrusted (metuloid) cystidia 036707348770 Stereum0
+0 Spores 15-20 µm long 037717449780 Aleurocystidiellum0
+0 Spores shorter03771754979038
+0 Gloeocystidia (SA+) present 038757650800 Scytinostromella0
+0 Gloeocystidia absent03875775081039
+0 Hyphal system trimitic, pseudocystidia absent 039777851820 Laurilia0
+0 Hyphal system dimitic, pseudocystidia present 039777951830 Echinodontium ryvardenii0
+0 Spores verrucose (in Melzer's reagent)04069805284041
+0 Spores smooth (in Melzer's reagent)04069815285048
+0 Basidia pleural 041808253860 Pseudoxenasma0
+0 Basidia terminal04180835387042
+0 Gloeocystidia present04283845488043
+0 Gloeocystidia absent 042838554890 Aleurodiscus amorphus0
+0 Spores wider than 10 µm043848655900 Aleurocystidiellum0
+0 Spores narrower than 10 µm 04384875591044
+0 Basidiome stereoid, pileate or resupinate, context dark brown 044878856920 Laxitextum0
+0 Basidiome resupinate, context white to cream04487895693045
+0 Basidia suburniform 045899057940 Boidinia0
+0 Basidia clavate04589915795046
+0 Context pseudoparenchymatic, hyphae cyanophilous, basidia with internal repetition ... 046919258960 Conferticium0
+0 Not as above(<> Context pseudoparenchymatic, hyphae cyanophilous ...)04691935897047
+0 With lamprocystidia 047939459980 Gloeopeniophorella0
+0 Without lamprocystidia 047939559990 Gloeocystidiellum0
+0 Spores thin-walled048819660100049
+0 Spores thick-walled048819760101057
+0 GIoeocystidia present049969861102050
+0 Gloeocystidia absent049969961103053
+0 Context pseudoparenchymatic, hyphae cyanophilous, basidia with internaI repetition 05098100621040 Conferticium0
+0 Not as above(<> Context pseudoparenchymatic, hyphae cyanophilous ... )0509810162105051
+0 Clamps present 051101102631060 Megalocystidium0
+0 Clamps absent05110110363107052
+0 Gloeocystidia with granular contents, SA+ 052103104641080 Gloiothele0
+0 Gloeocystidia with no appreciable contents, SAD 052103105641090 Vesiculomyces0
+0 Basidia pleural(see also Melzericium, with larger spores) 05399106651100 Amyloxenasma0
+0 Basidia terminal0539910765111054
+0 Lamprocystidia present05410710866112055
+0 Basidiome effuse-reflexed to pileate, hymenophore plicate, spores very narrow, 0.5-1.2 µm wide 055108109671130 Plicatura0
+0 Basidiome resupinate, hymenophore smooth to tuberculate, spores at least 1.5 µm wide .05510811067114056
+0 Spores up to 2-3 µm wide, cystidia sometimes present, basidia clavate 056110111681150 Amylocorticium0
+0 Spores larger, 3-{5 µmwide, cystidia absent, basidia stalked 056110112681160 Melzericium0
+0 Clamps absent 05797113691170 Hypochnella0
+0 Clamps present.0579711469118058
+0 Amyloid reaction strong (violet), spores 5-7 ) µm wide 058114115701190 Amyloathelia0
+0 Amyloid reaction weak (greyish), spores up to 4.5 ) µm wide 058114116701200 Amylocorticiellum0
+00-201171012200
+0 Hymenophore smooth or tuberculate0591811871124060
+0 Hymenophore merulioid, reticulate, folded, hydnoid0591811971125061
+0 Cystidia present, non-septate, clamps present 060118120721260 Jaapia0
+0 Cystidia usually absent, when present septate, clamps usually absenL 060118121721270 Coniophora0
+0 Hymenophore merulioid06111912273128062
+0 Hymenophore hydnoid06111912373129064
+0 Hyphal system dimitic, with skeletoid hyphae, spores longer than 8 ) µm 062122124741300 Serpula0
+0 Hyphal system monomitic, spores up to 8 ) µm long06212212574131063
+0 Spores cylindrical, up to 1-1.5 µm wide, clamps ansiform 063125126751320 Pseudomerulius0
+0 Spores ellipsoid, wider than 2-2.5 ) µm, clamps not ansiform 063125127751330 Leucogyrophana0
+0 Hyphae with simple septa 064123128761340 Gyrodontium0
+0 Hyphae with clamps06412312976135065
+0 Only collapsed spores dextrinoid, gloeocystidia present.. 065129130771360 Hyphoradulum0
+0 Spores dextrinoid, gloeocystidia absent 065129131771370 Hydnomerulius0
+00-30132913900
+0 Basidia urniform0662013378141067
+0 Basidia differently shaped but not urniform0662013478142068
+0 Spores thin-walled 067133135791430 Sistotrema0
+0 Spores thick-walled 067133136791440 Sistotremella0
+0 Basal hyphae broad, 5-10(-20) µm wide, and branched at right angles 068134137801450Botryobasidium0
+0 Basal hyphae mostly up to 5 µm wide, branched at acute angles06813413880146069
+0 Basidiome thin and hardly visible, basidia obconical to pyriform 069138139811470 Paullicorticium0
+0 Basidiome distinct, basidia almost cylindric to clavate 069138140811480 Sistotremastrum0
+00-40141815100
+0 Dendrohyphidia present 07023142821530 Dendrothele0
+0 Dendrohyphidia absent0702314382154071
+0 Basidiome pink: to red, hyphae in the subiculum short-ce lIed 071143144831550 Erythricium0
+0 Basidiome and subicular hyphae not as ab ove07114314583156072
+0 Spores up to 6 µm long07214514684157073
+0 Spores longer than 6 µm07214514784158075
+0 Hymenophore poroid 073146148851590 Byssoporia0
+0 Not as above (<> Hymenophore poroid)07314614985160074
+0 Basidiome bluish green (or cream to yellowish with scattered clamps) 074149150861610 Byssocorticium0
+0 Basidiome white to cream to pale yelIow, clamps completely absent. 074149151861620 Piloderma0
+0 Spores subglobose to sphaerical 075147152871630 Membranomyces0
+0 Spores ellipsoid to fusoid or ovoid07514715387164076
+0 Basidiome dark violet, spores brownish violet, slightly amyloid 076153154881650 Hypochnella0
+0 Basidiomedifferent, spores yellowish to brownish, often dextrinoid 076153155881660 Coniophora0
+00-50156716800
+0 Spores 20-30 µm long, on dead grasses 07724157891700 Epithele0
+0 Spores usually less than 20 µm long, on different substrata 0772415889171078
+0 Hyphidia or dendrohyphidia present07815815990172079
+0 Hyphidia and dendrohyphidia absent07815816090173080
+0 Dendrohyphidia present, on bark ofliving trees 079159161911740 Dendrothele0
+0 Hyphidia unbranched (or very poody ramified), on dead wood 079159162911750 Radulomyces0
+0 Thick-walled cystidia or skeletoid or hyphoid encrusted hyphae present08016016392176081
+0 Not as above (<> Thick-walled cystidia or skeletoid or hyphoid encrusted hyphae present )08016016492177083
+0 Hymenophore odontioid, with skeletoid cystidia 081163165931780 Nodotia0
+0 Hymenophore smooth, with hymenial or hyphoid cystidia08116316693179082
+0 Cystidia hyphoid, septate 082166167941800 Gyrophanopsis0
+0 Cystidia hymenial, aseptate 082166168941810 Bulbillomyces0
+0 Hymenophore merulioid or remarkably folded, spores dextrinoid08316416995182084
+0 Hymenophore different, smooth to hydnoid, spores indextrinoid08316417095183086
+0 Hyphal system dimitic, spores more than 8 µm long 084169171961840 Serpula0
+0 Hyphal system monomitic, spores up to 8 µm long,08416917296185085
+0 Spores cylindrical, up to 1-1.5 µm wide, clamps ansiform 085172173971860 Pseudomerulius0
+0 Spores ellipsoid, wider than 2-2.5 µm, clamps not ansiform 085172174971870 Leucogyrophana0
+0 Basidia clearly stalked 086170175981880 Intextomyces0
+0 Basidia not stalked08617017698189087
+0 Basidia pleural 087176177991900 Aphanobasidium0
+0 Basidia terminal08717617899191088
+0 Hyphae often ampullate at the septa 0881781791001920 Trechispora0
+0 Hyphae not ampullate at the septa088178180100193089
+0 Spores up to 4-5 µm long and 2-3 µm wide 0891801811011940 Amphinema0
+0 Spores longer and/or wider089180182101195090
+0 Immature basidia with cyanophilous drops or granules 0901821831021960 Cristinia0
+0 Not as above (<> Immature basidia with cyanophilous drops or granules)090182184102197091
+0 Cystidia (not cystidiols!) present091184185103198092
+0 Cystidia absent091184186103199096
+0 Hymenophore clear1y hydnoid 0921851871042000 Radulodon0
+0 Hymenophore smooth to tuberculate or odontioid092185188104201093
+0 Cystidia (gloeocystidia) SN 0931881891052020 Gloeohypochnicium0
+0 Cystidia SA'093188190105203094
+0 Cystidia moniliform or torulose 0941901911062040 Xylodon0
+0 Not as above(<> Cystidia moniliform or torulose)094190192106205095
+0 Cystidia with obtuse apex, basidia small, 10-20 µm long 0951921931072060 Lagarobasidium0
+0 Not as above (<> Cystidia with obtuse apex, basidia small)0951921941072070 Hypochnicium0
+0 Hymenophore hydnoid 0961861951082080 Sarcodontia0
+0 Hymenophore smooth to tuberculate096186196108209097
+0 Basidia 10-15 x 3-4 µm, spores 4-5 x 2.5-3 µm 0971961971092100 Hypochniciellum0
+0 Basidia, and spores wider097196198109211098
+0 Basidia longer than 30 µm, spores on average more than 6 µm wide 0981981991102120 Hypochnicium0
+0 Basidia rarely more than 30 µm long, spores on average decidedly narrower and098198200110213099
+0 Hymenophore often with olivaceous tints, spores dextrinoid 0992002011112140 Leucogyrophana0
+0 Hymenophore bright yellow, spores indextrinoid 0992002021112150 Coniophora ladoi0
+00-60203621800
+0 Spores lobed or branched0100252041122200101
+0 Spores suballantoid, ellipsoid, globose or tetrahedral0100252051122210104
+0 Spores Y-shaped, with two outgrowths, which in the end branch out once again 01012042061132220 Elaphocephala0
+0 Spores differently shaped01012042071132230102
+0 Spores V-shaped 01022072081142240 Galzinia0
+0 Spores otherwise01022072091142250103
+0 Spores with seven lobes 01032092101152260 Lobulicium0
+0 Spores more or less regularly triangular in outline, with 3 lobes 01032092111152270 Tylospora0
+0 Dendrophyses present01042052121162280105
+0 Dendrophyses absent01042052131162290106
+0 On bark ofliving trees, spores more than 10 µm long 01052122141172300 Dendrothele0
+0 On decayed wood, spores up to 10 µm long 01052122151172310 Ramaricium0
+0 Cystidia absent (cystidiols or large subicular vesicles may be present)01062132161182320107
+0 Cystidia present01062132171182330120
+0 Basidia with cyanophilous granular content 01072162181192340 Lindtneria0
+0 Basidia without cyanophilous granular content01072162191192350108
+0 Hymenophore poroid 01082192201202360 Trechispora0
+0 Hymenophore smooth to hydnoid01082192211202370109
+0 Hymenophore odontioid to hydnoid 01092212221212380110
+0 Hymenophore smooth to grandinioid-tuberculate01092212231212390112
+0 Basidia clearly stalked, spores ellipsoid, slightly angular, thick-walled 01102222241222400 Intextomyces0
+0 Not as above (<> Basidia clearly stalked, spores ellipsoid, slightly angular, thick-walled)01102222251222410111
+0 Basidiospores subfusiforrn, yellowish,with strongly cyanophilous warts 01112252261232420 Kavinia0
+0 Basidiospores ellipsoid to subglobose, hyaline, weakly or not cyanophilous 01112252271232430 Trechispora0
+0 Clamps absent or inconstant01122232281242440113
+0 Clamps present, constant01122232291242450115
+0 Basidia pleural 01132282301252460 Phlebiella0
+0 Basidia terrninal01132282311252470114
+0 Basidia umiforrn to subcylindrical, hyphae broad, usually more than 5 µm wide 01142312321262480 Botryobasidium0
+0s"Tomentelloid fungi" Basidia clavate, hyphae nararrow, up to 5 µm wide 01142312331262490 Tomentelloid fungi (not treated but see Key N)305
+0 Hyphae with ampullaceous swellings near the septa01152292341272500116
+0 Hyphae without ampullate septa01152292351272510117
+0 Spore omamentation developed in later stages of the maturation 01162342361282520 Trechinothus0
+0 Not as above (<> Spore omamentation developed in later stages of the maturation )01162342371282530 Trechispora0
+0 Basidia pleural01172352381292540118
+0 Basidia terrninal01172352391292550119
+0 Spores subcylindrical to ellipsoid 01182382401302560 Phlebiella0
+0 Spores angular, tetrahedraL 01182382411302570 Xenosperma0
+0 Hyphidia absent, spores rugose, cyanophilous 01192392421312580 Granulobasidium0
+0 Hyphidia present, spores minutely warted, acyanophilous 01192392431312590 Radulomyces0
+0 Hyphae without clamps or only occasional01202172441322600121
+0 Hyphae with clamps01202172451322610122
+0 Cystidia metuloid 01212442461332620 Duportella0
+0 Not as above (<> Cystidia metuloid )01212442471332630 Dendrothele0
+0 Lyocystidia present 01222452481342640 Litschauerella0
+0 Lyocystidia absent01222452491342650123
+0 Basidia terminal 01232492501352660 Hypochnicium0
+0 Basidia pleural 01232492511352670 Xenasma0
+00-70252526900
+0 Hyphal system dimitic 0124272531362710 Dacryobolus0
+0 Hyphal system monomitic0124272541362720125
+0 Hyphae without clamps 01252542551372730 Odonticium fiabelliradiatum0
+0 Hyphae clamped01252542561372740126
+0 Lyocystidia usually bi-rooted, smooth 01262562571382750 Tubulicrinis0
+0 Lyocystidia usually multi-rooted, covered by hyphae01262562581382760127
+0 Spores sigmoid to vermiform, smooth 01272582591392770 Tubulicium0
+0 Spores subglobose, finely warted (rarely smooth) 01272582601392780 Litschauerella0
+00-80261428100
+0 Septocystidia present 0128312621402830129
+0 Clearly differentiated septocystidia absent 0128312631402840130
+0 Septocystidia not encrusted (see also Membranomyces spurius, with somewhat septate, scarcely differentiated hyphal ends) 01292622641412850 Candelabrochaete0
+0 Septocystidia encrusted 01292622651412860 Odonticium0
+0 Basidia pleural 01302632661422870 Lepidomyces0
+0 Basidia terminal01302632671422880131
+0 Cystidia ofthe metuloid type (thick-walled, encrusted) or heavily encrusted, thick-walledhyphal ends/pseudocystidia present01312672681432890132
+0 Cystidia not heavily encrusted01312672691432900139
+0 Hyphal system dimitic or pseudodimitic01322682701442910133
+0 Hyphal system monomitic01322682711442920136
+0 Hymenophore smooth to slightly tuberculate, cystidia yellowish brown to brown 01332702721452930Hjortstamia0
+0 Hymenophore odontioid to irpicoid, cystidia hyaline01332702731452940134
+0 Hymenophore irregularly irpicoid to subporoid 01342732741462950 Irpex0
+0 Hymenophore odontioid to raduloid01342732751462960135
+0 Hymenophore with cylindrical or cODical aculei 01352752761472970 Steccherinum0
+0 Hymenophore raduloid 01352752771472980 Australohydnum0
+0 Metuloids and gloeocystidia present 01362712781482990 Peniophora0
+0 Only metuloids or encrusted cystidia present01362712791483000137
+0 Basidiome ceraceous, subiculum poorly developed 01372792801493010 Scopuloides0
+0 Basidiome subceraceous to membranaceous, subiculum weel developed 01372792811493020138
+0 Basidiome subceraceous, subicular hyphae agglutinate and indistinct... 01382812821503030 Phlebiopsis0
+0 Basidiome membranaceous, subicular hyphae in a looser structure 01382812831503040 Phanerochaete0
+0 Basidiome pileate and stipitate01392692841513050140
+0 Basidiome resupinate or slightly reflexed01392692851513060141
+0 Cystidia capitate 01402842861523070 Muscinupta0
+0 Cystidia not capitate 01402842871523080 Cotylidia0
+0 Hymenophore merulioid or phlebioid01412852881533090142
+0 Hymenophore smooth to odontioid or raduloid01412852891533100143
+0 Hymenophore merulioid, cystidia thin-walled, 30-50 µm long, spores 4.5--6 µm long 01422882901543110 Byssomerulius0
+0 Hymenophore tuberculate to phlebioid, cystidia thick-walled 110-160 µm long, spores 6.5-9 µm long 01422882911543120 Crustoderma efibulatum0
+0 Hymenophore odontioid, contextual hyphae vertically arranged; aculei with fascic1es of thin-walled, heavily encrusted hyphae 01432892921553130 Hyphodermella0
+0 Not as above (<> Hymenophore odontioid, contextual hyphae vertically arranged ... )01432892931553140144
+0 Hymenophore odontioid to raduloid01442932941563150145
+0 Hymenophore smooth to grandinioid or tuberculate01442932951563160147
+0 Basidia bisporic, cystidia thick-walled, arising deep in subiculum 01452942961573170 Kneiffiella efibulata0
+0 Basidia tetrasporic, cystidia not as ab ove01452942971573180146
+0 Basidome cenlceous to subceraceous, hyphae difficult to discem 01462972981583190 Phlebia0
+0 Basidiome membranous, hyphae distinct 01462972991583200 Phanerochaete0
+0 Spores subglobose to globose01472953001593210148
+0 Spores navicular to fusiforrn, cylindrical, ellipsoid or filiforrn01472953011593220150
+0 Spores globose, up to 8 µmin diam; cystidia sharply pointed 01483003021603230 Subulicium0
+0 Spores subglobose to globose, larger, cystidia cylindrical to capitate01483003031603240149
+0 Cystidia conspicuous, not septate 01493033041613250 Hyphoderma0
+0 Cystidia poorly differentiated, hyphoid and with secondary septa 01493033051613260 Membranomyces0
+0 Spores repetitive 01503013061623270 Oliveonia0
+0 Spores not repetitive01503013071623280151
+0 Spores navicular to fusiforrn01513073081633290152
+0 Spores cylindrical to ellipsoid01513073091633300153
+0 Spores navicular, up to 8 µm long 01523083101643310 Coronicium0
+0 Spores fusiforrn, more than 10 µm long 01523083111643320 Veluticeps0
+0 Cystidia capitate present, together with strongly encrusted hyphal ends 01533093121653330 Hyphoderma0
+0 Not as above (<> Cystidia capitate present, together with strongly encrusted hyphal ends)01533093131653340154
+0 Basidia umiforrn 01543133141663350 Sistotrema0
+0 Basidia different01543133151663360155
+0 Basidioma athelioid; basidia short, 13-16 µm long, in  clusters 01553153161673370 Athelia0
+0 Basidioma membranaceous basidia longer, more than 25 µm long, not in c1usters01553153171673380156
+0 Hymenial surface and rhizomorphs reddish purple in KOH 01563173181683390 Rhizochaete0
+0 Basidiome with no colour chauges in KOH 01563173191683400 Phanerochaete0
+00-90320334300
+0 Basidiome pileate aud stipitate0157323211693450158
+0 Basidiome resupinate0157323221693460159
+0 Basidiome white, hyphal system with a lichenized structure 01583213231703470 Cyphellostereum0
+0 Not as above (<> Basidiome white, hyphal system with a lichenized structure) 01583213241703480 Stereopsis0
+0 Spores repetitive01593223251713490160
+0 Spores not repetitive01593223261713500161
+0 Basidia forming a regular palisade, ellipsoid to cylindrical 01603253271723510 Thanatephorus0
+0 Basidia not forming a regular palisade, subglobose 01603253281723520 Ceratobasidium0
+0 Hyphal system dimitic, skeletal hyphae with brown (green in KOH) incrustations 01613263291733530 Boreostereum0
+0 Hyphal system monomitic, hyphae without such incrustations01613263301733540162
+0 Basidiome either merulioid, or odontioid to hydnoid01623303311743550163
+0 Hymenophore smooth to radially rugose 01623303321743560164
+0 Basidiome tough, odontioid to hydnoid, basal hyphae thick-walled and constricted at close intervals 01633313331753570 Odonticium0
+0 Basidiome soft, merulioid (in Byssomerulius pirottae, odontioid to hydnoid), basal hyphae Not as above (<> thick-walled and constricted at close intervals ) 01633313341753580 Byssomerulius0
+0 Basidia predominantly 2-spored01643323351763590165
+0 Basidia predominantly 4-spored01643323361763600167
+0 Basidiome brown, basidiospores fusiform to navicular.. 01653353371773610 Luelliafurcata0
+0 Basidiome differently coloured, basidiospores ellipsoid, oval to pyriform01653353381773620166
+0 Spores 20-30 x 12-15 µm 01663383391783630 Corticium quercinum0
+0 Spores smaller, less than 15 µm long 01663383401783640 Athelia0
+0 Sterigmata 10--30 µm long, ab. halfthe length of the basidium ... 01673363411793650 Thanatephorus terrigenus0
+0 Sterigmata considerably shorter, ab. 1/4 ofthe length of the basidium01673363421793660168
+0 Basidia sphaeropedunculate, thin-walled probasidia present, clavarioid anamorph present 01683423431803670 Laetisaria0
+0 Not as above (<> Basidia sphaeropedunculate, thin-walled probasidia present ...) 01683423441803680169
+0 Basidia stalked, spores large ab. 15 µm long01693443451813690170
+0 Basidia not stalked, spores smaller, up to 15 µm long01693443461813700171
+0 Spores wider than 5-6 µm 01703453471823710 Athelicium0
+0 Spores narrower, up to 4 µm wide 01703453481823720 Amphinema angustispora0
+0 Basidia pleural 01713463491833730 Aphanobasidium0
+0 Basidia terminal01713463501833740172
+0 Basidiome ceraceous, hyphae gelatinized and difficult to discern 01723503511843750 Phlebia0
+0 Not as above (<> Basidiome ceraceous, hyphae gelatinized and difficult to discern )01723503521843760173
+0 Clamps completely lacking01733523531853770174
+0 Clamps scattered on the basal hyphae01733523541853780175
+0 Basidiome whitish, basidia in candelabrum-arranged clusters 01743533551863790 Athelia0
+0 Basidiome yellow to orange, basidia not in candelabrum clusters 01743533561863800 Athelidium0
+0 Basidiome athelioid to arachnoid; subiculum loose, basidia in candelabmm-arranged clusters 01753543571873810 Athelia0
+0 Basidiome membranaceous, subiculum denser; basidia arranged in a dense palisade 01753543581873820 Phanerochaete0
+00-100359238500
+0 Hymenophore formed by small cupuliform pores densely aggregated 0176333601883870 Stromatoscypha0
+0 Hymenophore not poroid0176333611883880177
+0 Basidiome spathulate to flabelliform 01773613621893890 Podoscypha0
+0 Basidiome different, resupinate to effuse-reflexed or discoid to pileate01773613631893900178
+0 Skeletal hyphae dextrinoid (different from the binding-skeletal hyphae typical of Scytinostroma) 01783633641903910 Merulicium0
+0 Skeletal hyphae non-dextrinoid01783633651903920179
+0 Cystidia and dendrohyphidia absent01793653661913930180
+0 Cystidia/pseudocystidia andlor dendrohyphidia present01793653671913940184
+0 Hyphal system pseudodimitic, spores 10 µm long 01803663681923950 Auricufariopsis ampla0
+0 Hyphal system di- or trimitic, spores up to 7 µm long01803663691923960181
+0 Hyphae often ampullate at the septa, hymenophore aracnoid to granulose 01813693701933970 Trechispora0
+0 Hyphae not ampullate at the septa, hymenophore odontioid to hydnoid01813693711933980182
+0 Skeleto-binding capillary hyphae present 01823713721943990 Phlebia pyrenaica0
+0 Only skeletal hyphae present01823713731944000183
+0 Basidia 10-20 µm long, clavate to subumiform 01833733741954010 Fibrodontia gossypina0
+0 Basidia 25-30 µm long, clavate 01833733751954020 Fibricium subceraceum0
+0 Hymenophore odontioid to hydnoid01843673761964030185
+0 Hymenophore smooth to tuberculate01843673771964040188
+0 Encmsted skeletocystidia present01853763781974050186
+0 Skeletocystidia absent01853763791974060187
+0 Skeletocystidia brown, spores more than 10 Jl.m long 01863783801984070 Veluticeps0
+0 Skeletocystidia hyaline, spores smaller, less than 8 µm long 01863783811984080 Steccherinum0
+0 Hyaline dendrohyphidia and vesicular to ovate gloeocystidia present 01873793821994090 Crustomyces0
+0 Dendrohyphidia and gloeocystidia absent 01873793831994100 Phlebia0
+0 Hyphal system pseudodimitic, brown dendrohyphydia present 01883773842004110 Dendrophora0
+0 Not as above (<> Hyphal system pseudodimitic), brown dendrohyphidia absent01883773852004120189
+0 Skeleto-binding or micro-binding hyphae present01893853862014130190
+0 Only skeletal hyphae present01893853872014140191
+0 Basidiome reddish in KOH 01903863882024150 Crustodontia0
+0 Basidiome not changing in KOH 01903863892024160 Phlebia0
+0 Dark brown pseudocystidia and/or metuloids present01913873902034170192
+0 Dark brown pseudocystidia and metuloids absent (hyaline to pale yellow brown metuloids may be present)01913873912034180194
+0 Gloeocystidia present 01923903922044190 Duportella0
+0 Gloeocystidia absent01923903932044200193
+0 Spores more than 10 µm long 01933933942054210 Veluticeps0
+0 Spores up to 6-8 µm long 01933933952054220 Porostereum0
+0 Skeletocystidia present, spores usually more than 10 µm long 01943913962064230 Lopharia0
+0 Not as above (<> Skeletocystidia present, spores usually more than 10 µm long)01943913972064240195
+0 Spores 8-10 x 4.5-5 µm, skeletals rare 01953973982074250 Hyphoderma multicystidium0
+0 Spores up to 7 µm long, skeletals conspicuous01953973992074260196
+0 Basidiome crustaceous, stratified, vesicular gloeocystidia abundant 01963994002084270 Cystostereum0
+0 Basidiome membranaceous to waxy, gloeocystidia few or absent. 01963994012084280 Fibricium0
+00-110402143000
+0 Basidiome iridiscent bluish 0197354032094320 Terana caerulea0
+0 Basidiome differently coloured0197354042094330198
+0 Basidiome decorticant 01984044052104340 Vuilleminia0
+0 Basidiome not decorticant01984044062104350199
+0 On bark of living trees, spores cyanophilous (often difficult to verify!) 01994064072114360 Dendrothele0
+0 Not as above (<> On bark of living trees, spores cyanophilous )01994064082114370200
+0 Repetobasidia present 02004084092124380 Repetobasidiellum0
+0 Repetobasidia absent or only occasional02004084102124390201
+0 Cystidia present02014104112134400202
+0 Cystidia absent02014104122134410206
+0 Gloeocystidia present02024114132144420203
+0 Gloeocystidia absent, with leptocystidia02024114142144430204
+0 Dendrohyphidia soon brown coloured 02034134152154440 Dendrophora0
+0 Dendrohyphidia remaining hyaline or darkening slightly with age 02034134162154450 Peniophora0
+0 Leptocystidia subulate, spores fusifonn to navicular 02044144172164460 Leptocorticium0
+0 Leptocystidia with capitate or obtuse apex, spores otherwise02044144182164470205
+0 Leptocystidia capitate, spores 15-20 µm long 02054184192174480 Vuilleminia macrospora0
+0 Leptocystidia with obtuse apex, spores up to 6-8 µm long 02054184202174490 Crustomyces expallens0
+0 Dendrohyphidia becoming yellowish to brown 02064124212184500207
+0 Dendrohyphidia remaining hyaline or subhyaline02064124222184510208
+0 Hymenium bright red to violaceous red, spores more than 10 µm long 02074214232194520 Cytidia0
+0 Hymenium brown to dark violaceous, spores up to 9 µm long 02074214242194530 Punctularia0
+0 Probasidia distinctly thick-walled, spore print rose 02084224252204540 Corticium0
+0 Probasidia thin-walled, spore print white 02084224262204550 Dendrocorticium0
+00-120427045800
+0 Cystidia strongly encrusted with crystals0209374282214610210
+0 Cystidia smooth or not densely encrusted0209374292214620221
+0 Basidiome brown, (pseudo )cystidia brown coloured02104284302224630211
+0 Basidiome rarely brown, cystidia hyaline02104284312224640212
+0 Basidiome cupulate, gregarious 02114304322234650 Campylomyces0
+0 Basidiome resupinate to effuse-reflexed 02114304332234660 Duportella0
+0 Hymenophore distinctly odontioid to raduloid or hydnoid02124314342244670213
+0 Hymenophore smooth to grandinioid or irregularly tubercu1ate02124314352244680214
+0 Basidiome decorticant, gloeocystidia present 02134344362254690 Peniophora laeta0
+0 Basidiome not decorticant, gloeocystidia absent 02134344372254700 Phlebia0
+0 Basidiome semigelatinous, hyphae gelatinized and difficult to discern 02144354382264710 Phlebia0
+0 With a different combination of characters02144354392264720215
+0 Basidiome pink, orange, reddish, dark bluish or violaceous 02154394402274730 Peniophora0
+0 Basidiome differently coloured02154394412274740216
+0 Cystidia subulate, characteristically encrusted withrectangular crystals . 02164414422284750 Subulicystidium0
+0 Cystidia different02164414432284760217
+0 Cystidia cylindrical to subulate, encrusted on1y at the basal part, apically naked, basidia mostly pleuraL 02174434442294770 Lepidomyces0
+0 Cystidia and basidia different02174434452294780218
+0 Gloeocystidia SA + present, basidia 15-20 µm long 02184454462304790 Metulodontia0
+0 Gloeocystidia SN absent, basidia 20-40 µm long 02184454472304800219
+0 Spores up to 6 µm long, basal hyphae 4-8 µm wide 02194474482314810 Ceraceomyces0
+0 Spores on average more than 7 µm long, basal hyphae 2-4 µm wide02194474492314820220
+0 Basidia c1avate to subcylindrical, echinulate cells usually present... 02204494502324830 Peniophorella0
+0 Basidia suburniform, echinulate cells absenL 02204494512324840 Hyphoderma0
+0 Septate cystidia present02214294522334850222
+0 Septate cystidia lacking02214294532334860229
+0 Spores 12-18 µm long, fusiform to narrowly fusiform 02224524542344870 Suillosporium0
+0 Spores different02224524552344880223
+0 Repetobasidia present 02234554562354890 Repetobasidium0
+0 Basidia not repetitive02234554572354900224
+0 With lagenocystidia 02244574582364910 Hyphodontia0
+0 Lagenocystidia lacking02244574592364920225
+0 Septocystidia hyphoid, very finely encrusted with thin crystals 02254594602374930 Amphinema0
+0 Septocystidia smooth or differently ornamented02254594612374940226
+0 Spores more than 6 µm long02264614622384950227
+0 Spores up to 4.5 µm long02264614632384960228
+0 Basidiome ceraceous, cystidia with several septa, more or less encrusted 02274624642394970 Hyphoderma0
+0 Basidiome pellicular, cystidia with one clamped septa, smooth 02274624652394980 Atheloderma0
+0 Cystidia and basidia basally thick-walled, cystidia abundant... 02284634662404990 Tubulicrinopsis0
+0 Cystidia and basidia thin-walled, cystidia rare 02284634672405000 Ceraceomyces0
+0 Basidiome pileate, caps imbricate, hymenophore hydnoid 02294534682415010 Climacodon0
+0 With a different combination of characters02294534692415020230
+0 Basidiome resupinate to effuse-reflexed, hymenophore violaceous 02304694702425030 Chondrostereum0
+0 Not as above (<> Basidiome resupinate to effuse-reflexed, hymenophore violaceous) 02304694712425040231
+0 Cystidia tubular and thick-walled, at least towards the base02314714722435050232
+0 Cystidia different02314714732435060236
+0 Spores on average less than 7 µm long 02324724742445070 Kneiffiella0
+0 Spores on average more than 7 µm long02324724752445080233
+0 Spores up to 1.5-2 µm wide02334754762455090234
+0 Spores wider than 1.5-2 µm02334754772455100235
+0 Cystidia 8-12 µm wide, with a drop of secretion at the subcapitate apex 02344764782465110 Dacryobolus0
+0 Cystidia 5-6 µm wide, without drop ofsecretion at the apex 02344764792465120 Kneiffiella0
+0 Cystidia 150-300 µm long, basidia 50-100 µm long 02354774802475130 Chaetoderma0
+0 Cystidia up to 100-130 µm long, basidia up to 20-50 µm long 02354774812475140 Crustoderma0
+0 Hymenophore poroid 02364734822485150 Chaetoporellus0
+0 Hymenophore differently shaped02364734832485160237
+0 Basidiome ceraceous, hyphae gelatinized difficult to discern02374834842495170238
+0 Basidiome not ceraceous, hyphae usually distinct02374834852495180239
+0 Hymenophore reddish in KOH 02384844862505190 Crustodontia0
+0 Hymenophore with no colour changes in KOH 02384844872505200 Phlebia0
+0 Halocystidia present 02394854882515210 Resinicium0
+0 Halocystidia absent02394854892515220240
+0 Hymenophore odontioid to raduloid or hydnoid02404894902525230241
+0 Hymenophore more or less smooth or merulioid to phlebioid02404894912525240247
+0 Rosette-like crystals present, cystidiols capitulate, spores allantoid 02414904922535250 Sidera0
+0 Not as above (<> cystidiols capitulate, spores allantoid), rosette-like crystals absent02414904932535260242
+0 Cystidia excreting a drop of sticky liquid, spores allantoid 02424934942545270 Dacryobolus0
+0 Cystidia Not as above (<> Cystidia excreting a drop of sticky liquid), spores variable02424934952545280243
+0 Spores 8-12 µm long 02434954962555290 Basidioradulum0
+0 Spores shorter02434954972555300244
+0 With subulate leptocystidia and gloeocystidia, spores 3-4 µm long 02444974982565310 Physodontia0
+0 Spores longer and/or gloeocystidia absent02444974992565320245
+0 With thin-walled tubular cystidia, spores allantoid 02454995002575330 Alutaceodontia0
+0 Spores and/or cystidia different02454995012575340246
+0 With large and projecting capitate leptocystidia 02465015022585350 Deviodontia0
+0 Cystidia or cystidioles not distinct, as capitate hyphal ends 02465015032585360 Xylodon0
+0 Spores repetitive, basidia with comparatively very long sterigmata 02474915042595370 Oliveonia0
+0 Spores not repetitive, basidia with shorth sterigmata02474915052595380248
+0 Basidiome thin and inconspicuous, basidia subglobose to obconical 02485055062605390 Sphaerobasidium0
+0 Basidiome distinct and conspicuous, basidia Not as above (<> subglobose to obconical)02485055072605400249
+0 Cystidia often with apical papilla or with a cap ofyellow to reddish-brown incrustations. 02495075082615410 Coronicium0
+0 Not as above (<> Cystidia often with apical papilla or with a cap ofyellow to reddish-brown incrustations)02495075092615420250
+0 Spores on avçrage more than 8 µm long02505095102625430251
+0 Spores on average less than 8 µm long02505095112625440254
+0 Basidia suburniform 02515105122635450 Hyphoderma0
+0 Basidia clavate02515105132635460252
+0 Spores dacryoid to obliquely ellipsoid, often in groups of 2-4 02525135142645470 Cylindrobasidium0
+0 Spores Not as above (<> dacryoid to obliquely ellipsoid, often in groups of 2-4 )02525135152645480253
+0 Spores 6.5-8 µm wide, echinulate cells absent 02535155162655490 Clavulicium0
+0 Spores up to 5 µm wide, echinulate cells usually present 02535155172655500 Peniophorella0
+0 Basidia umiform to suburniform02545115182665510255
+0 Basidia otherwise02545115192665520259
+0 Basidia urniform, cystidia present as flexuose gloeocystidia 02555185202675530 Sistotrema0
+0 Basidia subumiform, cystidia different02555185212675540256
+0 Cystidia 6-13 µm wide and often longer than 100 µm 02565215222685550 Hyphoderma0
+0 Cystidia only 3-7 µm wide and generally up 10 60 µm long02565215232685560257
+0 With two kinds of cystidia: 1) moniliform and 2) subulate or capitate 02575235242695570 Hastodontia0
+0 Not as above (<> With two kinds of cystidia ...)02575235252695580258
+0 Capitate or subulate, more or less encrusted cystidia present... 02585255262705590 Lyomyces0
+0 Cystidia, if present, different, not distinct, as hyphoid cystidiols 02585255272705600 Xylodon0
+0 Basidia with a basal clamp, subicular hyphae with simple-septa 02595195282715610 Hyphodontiella0
+0 Basidia and aU hyphae with clamps02595195292715620260
+0 Basidia 8-12 µm long, with clavate to flexuose gloeocystidia 02605295302725630 Parvobasidium0
+0 Basidia larger, gloeocystidia absent02605295312725640261
+0 Hymenophore becoming violaceous in KOH 02615315322735650 Ceraceomyces0
+0 Not as above (<> Hymenophore becoming violaceous in KOH)02615315332735660262
+0 Spores 3-5 µm wide, often glued in groups of2-4 02625335342745670 Cylindrobasidium0
+0 Spores up to 3 µm wide 02625335352745680 Amphinema0
+00-130536-157100
+0 Basidiome cup-shaped, hyphal system dimitic/pseudodimitic 0263385372755730 Auriculariopsis0
+0 Basidiome not cup-shaped, hyphal system monomitic0263385382755740264
+0 Basidiome gregarious formed by minute globules 02645385392765750 Mycostigma0
+0 Basidiome Not as above (<> Basidiome gregarious formed by minute globules)02645385402765760265
+0 Basidiome stipitate-pileate or with weil developed pilei02655405412775770266
+0 Basidiome resupinate or slightly retlexed02655405422775780267
+0 Basidiome with weil developed pilei, hymenophore merulioid 02665415432785790 Phlebia0
+0 Basidiome stipitate-pileate, hymenophore aculeate 02665415442785800 Mycorrhaphium0
+0 Hymenophore tuberculate, odontioid to raduloid, phlebioid, merulioid or poroid02675425452795810268
+0 Hymenophore smooth to farinaceous or grandiniod02675425462795820280
+0 Hymenophore poroid, basidia umiform 02685455472805830 Sistotrema0
+0 Hymenophore and basidia different02685455482805840269
+0 Hymenophore merulioid or phlebioid02695485492815850270
+0 Hymenophore distinctly tuberculate to hydnoid02695485502815860271
+0 Basidiome subgelatinous to ceraceous, hyphae embedded in a gelatinous matrix, clamps and hyphae difficult to discem 02705495512825870 Phlebia0
+0 Basidiome not fully ceraceous, subiculum remaining membranaceous, hyphae distinct and easily to discem 02705495522825880 Ceraceomyces0
+0 Hymenophore hydnoid02715505532835890272
+0 Hymenophore tuberculate, odontioid to raduloid02715505542835900274
+0 Hyphae in subiculum and cords with ampullaceous swellings near the septa 02725535552845910273
+0 Hyphae without ampullate septa 02725535562845920 Phlebia0
+0 Spores 8-10 µm long 02735555572855930 Hydnocristella0
+0 Spores shorther, up to 5 µm long 02735555582855940 Trechispora0
+0 Hyphal system pseudodimitic, with skeletoid or pseudoskeletal hyphae 02745545592865950 Fibrodontia0
+0 Hyphal system monomitic02745545602865960275
+0 Basidia subumiform (cystidiols often present! ) 02755605612875970 Xylodon0
+0 Basidia different02755605622875980276
+0 Subicular hyphae thick-walled, refractive in KOH 02765625632885990 Odontiopsis0
+0 Not as above (<> Subicular hyphae thick-walled, refractive in KOH)02765625642886000277
+0 Hymenophore raduloid, spores 8-12 µm long 02775645652896010 Radulomyces0
+0 Hymenophore not raduloid, tuberculate to odontioid, spores less than 8 µm long02775645662896020278
+0 Spores globose02785665672906030279
+0 Spores not globose 02785665682906040 Phlebia0
+0 Subhymenial hyphae isodiametrical; basidia terminal 02795675692916050 Brevicellicium0
+0 Subhymenial hyphae not isodiametrical; basidia often pleural 02795675702916060 Aphanobasidium0
+0 Spores repetitive02805465712926070281
+0 Spores not repetitive02805465722926080282
+0 Basidia clavate to ovoid, spores citriform, if subglobose to ellipsoid, then 2-4 µm wide 02815715732936090 Oliveonia0
+0 Basidia obconical, spores subglobose to ovoid 3.5-6 µm wide 02815715742936100 Scotomyces0
+0 Basidia frequently pleural02825725752946110283
+0 Basidia terminal, only occasionally pleural02825725762946120284
+0 Basidia 30-50 µm long, with a lateral hook-like hypha 02835755772956130 Uncobasidium0
+0 Basidia remarkably shorter, and anyhow without such a lateral hook-like hypha 02835755782956140Aphanobasidium0
+0 Basidia urniform, hyphae characteristically with oily contents 02845765792966150 Sistotrema0
+0 Basidia and/or hyphae differently characterized02845765802966160285
+0 Hyphae in subiculum and cords often ampullate near the septa 02855805812976170 Trechispora0
+0 Hyphae in subiculum and cords different (ampullaceous swellings may occur in more or less isodiametric hyphae in subhymenium)02855805822976180286
+0 Subhymenial hyphae short-celled, more or less isodiametrical and swollen02865825832986190287
+0 Subhymenial hyphae long celled, not more or less isodiametrical02865825842986200288
+0 Spores 8-10 µm long 02875835852996210 Conohypha0
+0 Spores up to 6 µm long 02875835862996220 Brevicellicium0
+0 Hyphae alternating clamps and simple septa 02885845873006230 Hyphodontiella0
+0 All septa with clamps02885845883006240289
+0 Basidiome ceraceous, hyphae gelatinized and difficult to discern 02895885893016250 Phlebia0
+0 Not as above (<> Basidiome ceraceous ...), hyphae as a rule easily to discern02895885903016260290
+0 Basidiome pellicular, basidia in candelabrum-arranged clusters 02905905913026270 Athelia0
+0 Not as above (<> Basidiome pellicular, basidia in candelabrum-arranged clusters )02905905923026280291
+0 Basidia with 2 long sterigmata, spores allantoid 02915925933036290 Cerinomyces0
+0 Differently characterized02915925943036300292
+0 Basidiome brown to dark brown, subhymenial hyphae encrusted with resinous matter by age, spores navicular 02925945953046310 Luellia0
+0 Not as above (<> Basidiome brown to dark brown, subhymenial hyphae encrusted with resinous matter by age, spores navicular)02925945963046320293
+0 Basidia as a rule urniform to suburniform02935965973056330294
+0 Basidia cylindrical to clavate02935965983056340296
+0 Basidia umiform to cylindrical, often with internaI repetition, spores allantoid 02945975993066350 Galzinia0
+0 Not as above (<> Basidia umiform to cylindrical, often with internaI repetition, spores allantoid)02945976003066360295
+0 Basidia on average longer than 30 µm, spore usually longer than7 µm 02956006013076370 Hyphoderma0
+0 Basidia on average shorter than 30 µm, spore usually up to 7 µm long 02956006023076380 Xylodon0
+0 Basidia c1early stalked02965986033086390297
+0 Basidia not evidently stalked02965986043086400300
+0 Basidia up to 20 µm long, tetrasporic 02976036053096410 Athelopsis0
+0 Basidia more than 20 µm long, with a variable number of sterigmata (2-3-4)02976036063096420298
+0 Basidia 50-75 µm long, spores globose to subglobose, 9-13 µm in diam 02986066073106430 Globulicium0
+0 Basidia up 30 µm long, spores ellipsoid to cylindrical, up to 8 µm wide02986066083106440299
+0 Basidia bisporic, 20-25 µm long, spores wider than 5 µm 02996086093116450 Athelicium0
+0 Basidia with 2-3-4 sterigmata, 27-30 µm long, spores up to 4 µm wide 02996086103116460 Thujacorticium0
+0 Basal hyphae cinnamom encrusted, violaceous in KOH 03006046113126470 Ceraceomyces0
+0 Basal hyphae otherwise03006046123126480301
+0 Basidia distinctly very thick-walled 03016126133136490 Tubulicrinopsis0
+0 Not as above (<> Basidia distinctly very thick-walled)03016126143136500302
+0 Basidia small, on average <20 µm long03026146153146510303
+0 Basidia on average >20 µm long03026146163146520304
+0 Spores on average more than 2.5 µm wide 03036156173156530 Athelia0
+0 Spores on average less than 2.5 µm wide 03036156183156540 Leptosporomyces0
+0 Spores on average more than 5.5 µm wide, slightly thick-walled 03046166193166550 Radulomyces0
+0 Spores up to 4.5 µm wide, thin-walled 03046166203166560 Dendrothele0
+00-140621-265900
+0 Basidiome bluish when fresh, greenish when dry, spores violaceous in KOH 03052336223176610 Amaurodon0
+0 Not as above (<> Basidiome bluish when fresh, greenish when dry, spores violaceous in KOH)03052336233176620306
+0 Hyphae simple-septate, spores echinulate and hyaline in KOH 03066236243186630 Tomentellopsis0
+0 Not with this combination of characters03066236253186640307
+0 Basidia spahaeropedunculate, hyphae mostly simple-septate or c1amped with hyaline spores 03076256263196650 Pseudotomentella0
+0 Basidia usually c1avate, hyphae mostly c1amped and spores mostly brownish in KOH 03076256273196660 Tomentella0

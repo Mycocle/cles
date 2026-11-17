@@ -1,0 +1,72 @@
+/*
+menu css adapted from http://www.divitodesign.com/blog/2008/01/vertical-css-menu-with-a-behavior-file/
+*/
+
+#menu {
+  padding-top: 5px;
+  background: #f0f0f0;
+  width: 100%;
+}
+
+ul a {
+  color: #515151;
+  text-decoration: none;
+}
+
+ul#nav {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  padding-left: 1%;
+  text-align: center;
+}
+
+ul#nav li a {
+  display: block;
+  padding: 2 0 3 0px;
+  background: #f0f0f0;
+}
+
+ul#nav li a:hover {
+  background: #004820;
+  color: #ffffff;
+}
+
+ul#nav li {
+  float: left;
+  position: relative;
+  width: 180px;
+  margin-right: 5px;
+  border: 1px solid #cccccc;
+}
+
+li ul {
+  display: none;
+  position: absolute;
+  top: 22px;
+  left: 0;
+  font-weight: normal;
+  padding: 1 0 10 0px;
+  margin-left: -1px;
+  list-style-type: none;
+}
+
+ul#nav li ul.sub li {
+  border-width: 0 1 1 1px!important;
+}
+
+ul#nav li ul.sub li a {
+  font-weight: normal!important;
+}
+
+li:hover ul, li.over ul {
+  display: block;
+}
+
+ul.left {
+  text-align: left;
+}
+
+.menupt {
+  padding: 5 5 5 10px;
+}

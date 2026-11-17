@@ -1,0 +1,43 @@
+titre$ Rhizopogon Martin  :Artificial key to the species
+com$ complément de F Fouchier / adapt GF  oct 2010
+1,0$ tableau comparatif$$f"Rhizopogon_Martin_Tabl.doc"
+1,0 $ Spores with a cup-shaped base (Sect. Fulviglebae) $ R. melanogastroides 10. $s"Fulviglebae"
+1,2 $ Spores with a rounded, truncate or other shaped base, not cup-shaped
+2,0 $ Peridium duplex (Sect. Villosuli) $  R. villosulus 20.$s"Villosuli"
+2,3 $ Peridium simple (Sect. Rhizopogon)$$s"Rhizopogon"
+3,4 $ Rhizomorphs covering the whole peridium surface
+3,14 $ Rhizomorphs not covering the whole peridium surface
+4,5 $ Small areas of the spore wall becoming dark in Melzer's reagent
+4,6$ Spore wall not becoming dark in Melzer's reagent 
+5,0 $ Peridium roseolus-type $  R. ellenae 5.
+5,0 $ Peridium luteolus-type $ R. fuscorubens 7. 
+6,7 $ Peridium roseolus-type
+6,8 $ Peridium otherwise (ni luteolus-type, ni roseolus-type)
+7,0 $ H>phae between the peridium and the gleba with a lanceolate to obclavate ending. $  R. subsalmonius 18.
+7,0 $ Hyphae between peridium and gleba lacking a lanceolate to obclavate ending $  R. subolivascens 17.
+8,9 $ Peridium  roseolus-type.
+8,11 $ Peridium corsicus-type
+9,10 $ Spores truncate at the base
+9,0 $ Spores not truncate at the base $  R. occidentalis ll.
+10,0 $ Basidia lageniform with a thick-walled ventricose base $  R. verii 19.
+10,0 $ Basidia clavate to cylindrical; when lageniform, with a thin-walled ventricose base $ R. luteolus 8. 
+11,12 $ Hyphal packets mixed with globose cells, giving the peridium a pseudoparenchymatous aspect
+11,0 $ Hyphal packet not mixed with globose cells $  R. corsicus 4.
+12,13 $ Spores truncate at the base
+12,0 $ Spores not truncate at the base $ R. aurantiucus 3 
+13,0 $ Basidia cylindrical to lageniform $R. ochraceorubens  12 
+13,0 $ Basidia clavate $ R. subalpinus 16. 
+14,15 $ Peridium squamulose
+14,16 $ Peridium not squamulose
+15,0 $ Squamules isodiametric, formed of parallel hyphae $ R. rocabrunae 14. 
+15,0 $ Squamules irregular, formed of laxly interwoven hyphae $ R. pannosus  13.
+16,17 $ Peridium roseolus-type
+16,20 $ Peridium abietis-type
+17,0 $ Spores truncate $  R. vinicolor 21.
+17,18 $ Spores not truncate
+18,0 $ Spores naviculate $ R. angustisepta 2. 
+18,19 $ Spores not naviculate
+19,0 $ Brachybasidioles thick-walled $  R. roseolus 15.
+19,0 $ Brachybasidioles thin-walled $ R. evadens 6. 
+20,0 $ Spores truncate $ R. abietis 1. 
+20,0 $ Spores not truncate $ R. marchii 9. 

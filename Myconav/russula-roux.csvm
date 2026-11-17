@@ -1,0 +1,228 @@
+titre = russula P roux;;;;;;;;;;;;;;;;;;;;
+commentaire = ;;;;;;;;;;;;;;;;;;;;
+format=TABLE; ; ; ; ; ; ;;;;;;;;;;;;;;
+Titre§;;;;;;;;;;;;;;;;;;;;
+
+
+CHAMP= RUSSULA;chapeau;lamellules ;sporée;chair;odeur;saveur;Fer;Gaiac;Phenol;KOH;Formol;NH3;Habitat;Spores connect ;Spores hauteur ;spore tâche amyloide;subcutis;dermatocystides;Hyphes incrust.;sba
+RUSSULA;chapeau;lamellules ;sporée;chair;odeur;saveur;Fer;Gaiac;Phenol;KOH;Formol;NH3;Habitat;Spores connect ;Spores hauteur ;spore tâche amyloide;subcutis;dermatocystides;Hyphes incrust.;sba
+
+aciculocystis;rouge;non;crème;non noircissante;fruitée;douce;rose pâle;;cassis;;;;F&C;;;;baionnette;absentes;;
+acrifolia;blanc;oui;blanche;Rougit noircit;tonneau;âcre;verdâtre;positif;;;;;F&C;C*D;1*2;non;;diverticulé;;
+adulterina;pourpre;non;jaune;jaunissante;compote;âcre;gris-rosé;vite bleu vif;;;;;Conifères;A ;3;oui;;présentes;non;positif
+adusta;blanc;oui;blanche;noircissante;faible;douce;rosâtre;bleu;;;;;Conifères;B*C;1;non;;étroites;;
+aeruginea;vert;non;blanc-crème;non noircissante;faible;douce;rose-orangé;positif;;;;;Bouleaux, epicéas;B*C;2;non;filamenteux;longues;non;positif
+albonigra;blanc;oui;blanche;noircissante;bois de crayon;douce;rougeâtre;positif;;;;;F&C;C*D;1;non;;absentes;;
+alpigena;rouge;non;blanche;non noircissante;vanille;âcre;;faible;;;;;Zone Alpine;;;;;;;
+alternata;pourpre;non;jaune;non noircissante;nulle;douce;faible;faible;;;;;;C;2;oui;;présentes;;positif
+alutacea;brun;non;jaune;non noircissante;miellée;douce;;lent;vif;;;;Feuillus;C*D;2;oui;;absentes;non;
+amarissima;rouge;non;crème;non noircissante;faible;amère;rose-orangé;bleu;;;;;F&C;C*D;2;oui;mixte;présentes;oui;gris
+amethystina;pourpre;non;jaune;non noircissante;;douce;gris-rosé;faible;;;;;Feuillus;B*C;2;oui;;absentes;cloisonnées;
+amoena;pourpre;non;crème-ocre;non noircissante;artichaut;douce;rose sale;nul;cassis;;;;F&C;C*D;2;non;baionnette;absentes;non;
+amoenicolor;pourpre;non;crème-ocre;non noircissante;artichaut;douce;jaune;lent bleu;chocolat;;;;F&C;D;2*3;non;baionnette;absentes;non;
+amoenolens;brun;non;blanc-crème;non noircissante;forte;âcre;ocre;fort;;;;;F&C;B*C;2;non;;;;
+anatina;lilas-vert;non;blanc-crème;non noircissante;faible;douce;faible;vite bleu vif;;;;;Feuillus;A;2;non;filamenteux;volumineuses;non;positif
+annae;;non;blanc-crème;jaunissante;;douce;rose;;;;;;;;;oui;;présentes;;positif
+anthracina;blanc;oui;blanche;noircissante;faible;douce;verdâtre;positif;;;;;Feuillus;C*D;1;non;;;;
+aquosa;rouge;non;blanche;non noircissante;coco;âcre;rosâtre;faible;;;;;Sphaigne;B ;3;oui;cylindracés;présentes;non;positif
+arpalices;rouge;non;ocre;jaunissante;pomme;douce;nul;bleu;;;;;Feuillus;B*C;1;oui;;pluriseptées;non;positif
+atroglauca;versicolor;non;crème;non noircissante;iodoforme;amère;rose sale;positif;;;;;Bouleaux, epicéas;C;2*3;non;;présentes;;positif
+atroglauca;versicolor;non;crème;non noircissante;iodoforme;douce;rose sale;positif;;;;;Bouleaux, epicéas;C;2*3;non;;présentes;;positif
+atropurpurea;pourpre;non;blanche;non noircissante;coco;âcre;rose sale;positif;;;;;Feuillus;C*D;2*3;oui;;présentes;non;positif
+atropurpurea;pourpre;non;blanche;non noircissante;coco;douce;rose sale;positif;;;;;Feuillus;C*D;2*3;oui;;présentes;non;positif
+atrorubens;pourpre;non;blanche;non noircissante;vanille;âcre;rose-orangé;vite bleu;;;;;F&C zone humide;C ;2;oui;;présentes;non;positif
+aurea;rouge;non;jaune;jaunissante;nulle;douce;rose sale;vite bleu vif;;;;;Feuillus;C*D;3;oui;;absentes;;positif
+azurea;violet;non;blanche;;nulle;douce;orangé;faible;;;;;Conifères;C ;2;oui;;absentes;;faible
+badia;pourpre;non;jaune;jaunissante;bois de crayon;âcre;rose-orangé;bleu pâle lent;;;;;Conifères;B ;3;oui;;présentes;non;positif
+betularum;rose;non;blanche;;coco;âcre;rose;faible;;;;;Bouleaux, epicéas;C*D;2*3;oui;;cylindriques;;
+blumiana;orangé;non;jaune;jaunissante;nulle;âcre;;nul;;;;;Feuillus;B*C;2*3;oui;;présentes;oui;positif
+brunneoviolacea;violet;non;crème;non noircissante;faible;douce;orangé;fort;;;;;Feuillus;D;2;oui;;pluriseptées;non;positif
+caerulea = amara;violet;non;jaune;;faible;amère;rose sale;faible;;;nul;;Pinus;C*D;2;oui;non clavés;absentes;oui;
+camarophylla;ocre;non;blanche;non noircissante;;douce;rosâtre;fort;;;;;F&C;A ;1;non;;absentes;;
+campestris;ocre;non;jaune;non noircissante;faible;douce;nul;bleu;;;;;Pinus herbe;A;;oui;;présentes;;positif
+carminea;pourpre;non;blanche;grisonnante;pomme;âcre;;fort;;;;;Conifères humides;C ;2;doute;;cloisonnées;;
+carminipes;rouge;non;jaune;non noircissante;faible;douce;rosâtre;bleu vif lent;;;;;Quercus;C*D;1;oui;mixte;présentes;oui;gris
+carpini;versicolor;non;jaune;jaunissante;;douce;rosâtre;positif;;;;;Carpini;A;3;oui;;présentes;;positif
+carpini;versicolor;non;jaune;jaunissante;;acre;rosâtre;positif;;;;;Carpini;A;3;oui;;présentes;;positif
+cavipes;violet;non;crème-ocre;jaunissante;pelargonium;âcre;;nul;;;;rose/L;Conifères humides;B*C;3;oui;;présentes;non;positif
+cessans;rouge;non;jaune;grisonnante;faible;douce;rose sale;bleu vif;;;;;Pinus;C ;2;oui;;pluriseptées;non;positif
+chamitae;rouge;non;crème;non noircissante;crustacé;douce;vert;;;;;;Feuillus;A*B;2;oui;;absentes;;positif
+chloroides;blanc;oui;blanche;non noircissante;poisson;douce;rougeâtre;fort;;;;;Feuillus;A*B;3;oui;;rares;;
+cistoadelpha;violacé;non;blanche;;fruitée;douce;;;;;;;Cistes;C;2;oui;;absentes;;
+citrina;jaune;non;blanche;non noircissante;fruitée;âcre;;;;;;;Feuillus;D ;2;oui;;présentes;non;positif
+claroflava;jaune;non;jaune;noircissante;fruitée;douce;rose-orangé;faible;;;orangé;;Bouleaux, epicéas;C*D;1;oui;non clavés;absentes;oui;
+consobrina;brun-gris;non;crème;non noircissante;fruitée;âcre;gris-rosé;;;;;;Sphaigne;C*D;2;oui;;volumineuses;non;positif
+convivialis;pourpre;non;ocre;non noircissante;;douce;;positif;;;;;;;;oui;;pluriseptées;non;positif
+cremeoavellanea;beige;non;jaune;non noircissante;faible;douce;rosâtre;fort;;;;;Bouleaux, epicéas;A*B;2*3;oui;mixte;présentes;oui;gris
+cruentata;;non;ocre;jaunissante;;douce;;;;;;;;;;oui;;présentes;;positif
+curtipes;rouge;non;jaune;non noircissante;faible;douce;rose-orangé;bleu;;;;;Conifères;C;2;oui;baionnette;présentes;;positif
+cyanoxantha;versicolor;non;blanche;non noircissante;nulle;douce;nul;moyen;;;;;F&C;A*B;1*2;non;filamenteux;petites;non;positif
+cyanoxantha f. pelteraui;vert;non;blanche;non noircissante;nulle;douce;nul;moyen;;;;;Feuillus;A*B;1*2;non;filamenteux;petites;non;positif
+cyanoxantha var cutefracta;versicolor;non;blanche;non noircissante;nulle;douce;nul;moyen;;;;;F&C;A*B;1*2;non;filamenteux;petites;non;positif
+decipiens;rouge;non;jaune;jaunissante;faible;âcre;rose-orangé;vite bleu;;;;;Feuillus;C;2*3;oui;;présentes;non;positif
+decolorans;orangé;non;blanc-crème;grisonnante;faible;douce;rose > vert;fort;;;;;Conifères humides;B*C;3;oui;;présentes;présentes;positif
+delica;blanc;oui;blanche;non noircissante;poisson;douce;rosâtre;fort;;;;;Feuillus;C*D;1*2;non;;rares;;
+delica var puta;blanc;oui;blanche;non noircissante;poisson;douce;rosâtre;fort;;;;;Feuillus;A*B;3;non;;rares;;
+delica var trachyspora;blanc;oui;blanche;non noircissante;poisson;douce;rosâtre;fort;;;;;Feuillus;B*C;3;non;;rares;;
+densifolia;blanc;oui;blanche;Rougit noircit;faible;douce;vert;bleu;;;;;F&C;B*C;1*2;non;articles;cylindriques;;
+dryophila;pourpre;non;blanc-crème;jaunissante;nulle;douce;rose;bleu;;;;;Zone Méditerannéenne;C*D;2;oui;;présentes;;positif
+emetica;rouge;non;blanche;non noircissante;coco;âcre;orangé;faible;;;;;Conifères;A;3;oui;;présentes;non;positif
+emetica f. longipes;rouge;non;blanche;non noircissante;coco;âcre;orangé;nul;;;;;Conifères;B;2;oui;;présentes;non;positif
+emeticicolor;rose  ;non;blanche;non noircissante;fruitée;douce;rosâtre;lent bleu;;;;;Fagus;A;2;oui;;absentes;;
+erythropoda;pourpre;non;jaune;jaunissante;crustacé;;vert;fort;;;;;Pinus;B;2;;septés;présentes;;
+exalbicans;versicolor;non;crème-ocre;non noircissante;fruitée;âcre;gris-rosé;faible;;;;;Bouleaux, epicéas;B*C;2;oui;;présentes;non;positif
+faginea;rouge;non;ocre;brunnissante;crustacé;douce;vert;fort;;;;;Fagus;B*C;2;oui;;absentes;;positif
+farinipes;jaune;non;blanche;non noircissante;fruitée;âcre;rose-orangé;faible;;;;;Feuillus;A*B;2;non;;non cloisonnées;;
+favrei;brune;non;crème;brunnissante;crustacé;douce;vert;fort;;;;;Picea ZA;A;3;oui;;absentes;;positif
+fellea;jaune;non;blanche;non noircissante;compote;âcre;ocre;nul;;;;;Fagus;C;2*3;oui;;volumineuses;;
+firmula;violet;non;jaune;jaunissante;compote-géranium;âcre;rose-orangé;bleu lent;;;;;Picea;B*C;2*3;oui;;présentes;non;positif
+flavispora;blanc;oui;jaune;non noircissante;nauséuse;acre;rose sale;fort;;;;;Feuillus;B;2*3;non;;;;positif
+flavocitrina;jaune;non;jaune;;nulle;douce;;;;;;;Fagus;C*D;2*3;non;poils clavés;absentes;oui;douteux
+foetens;ocre;non;blanc-crème;non noircissante;forte;âcre;rosâtre;positif;;nul;;;F&C;A*B;3;non;;;;
+font-queri;rouge;non;jaune;non noircissante;faible;douce;orangé;fort;;;;;Bouleaux, epicéas;C;2*3;oui;;pluriseptées;non;positif
+fragilis;violet;non;blanche;non noircissante;bonbon anglais;âcre;rosâtre;nul;;;;;Feuillus;C*D;2*3;oui;;présentes;non;positif
+galochroa;crème décoloré;non;blanc-crème;non noircissante;;douce;orangé;fort;;;;;Feuillus;A*B;2;non;filamenteux;volumineuses;non;positif
+galochroides;;non;crème;non noircissante;;douce;orangé;fort;;;;;Zone Méditerannéenne;A*B;1;non;filamenteux;volumineuses;non;positif
+gilva;jaune;non;jaune;;acidulée;douce;;nul;;;;;Feuillus;B*C;2;oui;poils clavés;absentes;oui;positif
+globispora;orangé;non;jaune;non noircissante;faible;douce;;faible;;;;;Feuillus;A*B;3;oui;;présentes;;positif
+gracilis;rose;non;crème;;faible;âcre;orangé;positif;;;;nul;Lieux humides;B;2;;cylindracés;présentes;;
+grata = laurocerasi;ocre;non;blanc-crème;non noircissante;forte;âcre;rose pâle;fort;;;;;F&C;B*C;3;non;;petites;;
+graveolens;pourpre;non;ocre;jaunissante;crustacé;douce;vert;fort;;;;;Quercus;C*D;1*2;oui;;absentes;;positif
+grisea;versicolor;non;blanc-crème;non noircissante;faible;douce;orangé vif;bleu;;;;;Fagus;B*C;2;non;filamenteux;volumineuses;non;positif
+grisea;versicolor;non;blanc-crème;non noircissante;faible;douce;orangé vif;bleu;;;;;Quercus;B*C;2;non;filamenteux;volumineuses;non;positif
+groenlandica;;non;jaune;;;douce;;;;;orangé;;;;;;non clavés;absentes;oui;
+helios;jaune;non;jaune;;fruitée;douce;rosâtre;faible;;;;;Zone Méditerrannéene;B*C;2;oui;poils clavés;absentes;oui;
+helodes;rouge;non;crème-ocre;non noircissante;faible;âcre;rosâtre;lent bleu;;;;;Conifères humides;D;1*2;oui;;présentes;non;positif
+heterochroa;pourpre;non;crème-ocre;non noircissante;;douce;;;;;;;Zone Alpine;A;2*3;oui;;pluriseptées;non;positif
+heterophylla;vert;non;blanc-crème;non noircissante;faible;douce;vif rose orangé;fort;;;;;Feuillus;A;1*2;non;filamenteux;petites;non;positif
+ilicis;crème décoloré;non;blanc-crème;non noircissante;faible;douce;subnul;bleu lent;;;;;Quercus illicis ZM;B*C;1;non;filamenteux;longues;non;positif
+illota;ocre;non;blanc-crème;non noircissante;forte;âcre;rosâtre;fort;;;;;F&C;C;3;non;;larges;;
+impolita;orangé;non;jaune;non noircissante;faible;douce;;positif;;;;;Feuillus;A*B;2;oui;;pluriseptées;non;positif
+insignis;jaune;non;blanche;non noircissante;fruitée;âcre;rose-orangé;moyen;;rouge;;;Feuillus;C;2;non;;rares;;
+integra;versicolor;non;jaune;non noircissante;faible;noisette;rose-orangé;bleu;;;;;Conifères;A*B;3;oui;mixte;présentes;oui;gris
+intermedia= lundelli= mesospora;orangé;non;jaune;jaunissante;faible;âcre;orangé;bleu pâle;;;;;Bouleaux, epicéas;A*B;3;oui;;présentes;non;positif
+ionochlora;verdâtre;non;crème;non noircissante;nulle;douce;rose sale;bleu clair;;;;;Fagus;A*B;1*2;non;articulés;non cloisonnées;;
+ionochlora;verdâtre;non;;non noircissante;nulle;âcre;rose sale;bleu clair;;;;;Fagus;A*B;1*2;non;articulés;non cloisonnées;;
+kallioi;;non;jaune;non noircissante;;douce;;;;;;;;;;oui;mixte;présentes;oui;gris
+laccata;pourpre;non;blanche;non noircissante;nulle;âcre;;bleu lent;;;;;Salix  ;B*C;2*3;oui;;présentes;non;positif
+laeta;rouge;non;jaune;non noircissante;fruitée;douce;rose-orangé;vif;;;;;Feuillus;A*B;2*3;oui;mixte;présentes;oui;gris
+laricina;versicolor;non;jaune;grisonnante;nulle;douce;;fort;;;;;Conifères;B;2*3;oui;;pluriseptées;non;positif
+laricinoaffinis;ocre;non;jaune;non noircissante;;douce;;;;;;;Zone Méditerannéenne;;;oui;;pluriseptées;non;positif
+lepida;rouge;non;crème;non noircissante;mentholée;menthol;sale lent;faible;;;;;F&C;D;1*2;oui;mixte;présentes;oui;gris
+lepidicolor;rouge;non;blanche;non noircissante;nulle;douce;gris-rosé;;;;;;Feuillus;C*D;2;oui;;absentes;;
+lilacea;rose foncé;non;blanche;non noircissante;faible;douce;rosâtre;bleu vif lent;;;;;Carpini;A*B;2;oui;larges;absentes;abondantes;
+lilacinicolor;Lilas;non;;non noircissante;poisson;douce;;;;;;;Feuillus;C*D;2;oui;;pluriseptées;non;positif
+littoralis;ocre;oui;blanche;non noircissante;lactaires;douce;rosé;;;;;;Zone Méditerannéenne;C*D;1;non;;présentes;;positif
+littoralis;ocre;oui;blanche;non noircissante;lactaires;acre;rosé;;;;;;Zone Méditerannéenne;C*D;1;non;;présentes;;positif
+lutensis;rouge;non;jaune;non noircissante;faible;douce;faible;vite bleu;;;;;Feuillus humides;B*C;2*3;oui;diverticules;cylindriques;;
+luteotacta;rose;non;blanche;non noircissante;fruitée;âcre;orangé;bleu vif;;;;;Quercus;B*C;2;oui;;présentes;non;positif
+maculata;rose et jaune;non;jaune;jaunissante;fruitée;âcre;ocre;bleu lent;;;;;Quercus;C*D;2*3;oui;;présentes;non;positif
+maculata;rose et jaune;non;jaune;jaunissante;fruitée;douce;ocre;bleu lent;;;;;Quercus;C*D;2*3;oui;;présentes;non;positif
+mairei = fageticola;rouge;non;blanche;non noircissante;coco;âcre;ocre;bleu vif;;;;;Fagus;C*D;2;oui;;présentes;non;positif
+medullata;gris ou rose;non;jaune;non noircissante;faible;âcre;rose-orangé;moyen;;;;;Populus, betula;A*B;2;non;articulés;non cloisonnées;;
+medullata;gris ou rose;non;jaune;non noircissante;faible;douce;rose-orangé;moyen;;;;;Populus, betula;A*B;2;non;articulés;non cloisonnées;;
+melitodes;vineux;non;jaune;non noircissante;miellée;douce;rosâtre;bleu;;;;;Populus;A*B;2*3;oui;mixte;présentes;oui;gris
+melliolens;rouge;non;blanc-crème;jaunissante;miellée;douce;rose;fort;;;;;F&C;D;1;oui;;présentes;;positif
+melzeri;rouge;non;ocre;non noircissante;faible;douce;;positif;carmin;;;;F&C;A*B;2*3;oui;;pluriseptées;non;positif
+messapica;rouge;non;;grisonnante;fruitée;douce;gris-rosé;lent bleu;;rouge;;;Zone Méditerannéenne;C;1;oui;;présentes;spectaculaires;positif
+minutula;rose;non;blanche;non noircissante;fruitée;douce;nul;nul;;;;;Feuillus;B*C;2;oui;;absentes;oui;
+monspelliensis;verdâtre;non;ocre;non noircissante;bois de crayon;âcre;rose-orangé;bleu lent;;;;;Cistes;B;1;non;;non cloisonnées;;
+mustelina;brun;non;blanc-crème;non noircissante;fromage;douce;vif rose orangé;bleu vif;;;;;Conifères;C*D;1*2;non;filamenteux;petites;non;positif
+nana;rouge;non;blanche;non noircissante;coco;âcre;rose;bleu lent;;;;;Zone Alpine;D;1*2;oui;;présentes;non;positif
+nauseosa;violacé;non;jaune;grisonnante;faible;douce;rosâtre;bleu vif;;;;;Bouleaux, epicéas;A;3;oui;;pluriseptées;non;positif
+nigricans;blanc;oui;blanche;Rougit noircit;;douce;rosâtre;fort;;;;;F&C;D;1;non;;absentes;;
+nitida;pourpre;non;ocre;non noircissante;nulle;douce;rose terne;fort;;;;;Bouleaux, epicéas;B;2;oui;;pluriseptées;non;positif
+nuragica;lilas;non;jaune;non noircissante;;douce;rose;;;;;;Quercus ilex;C*D;2*3;oui;;présentes;;positif
+ochracea;jaune;non;jaune;non noircissante;faible;douce;;faible;;;;;F&C;A*B;3;oui;poils clavés;absentes;oui;
+ochroleuca;jaune;non;blanc-crème;jaunissante;faible;âcre;ocre;vite bleu vif;;rouge;;;F&C;B  ;2*3;oui;;présentes;oui;positif
+odorata;lilas;non;jaune;non noircissante;pomme;douce;rose-orangé;vite bleu vif;;;;;Quercus;C;2;oui;;pluriseptées;non;positif
+olivacea;versicolor;non;jaune;;faible;douce;orangé;fort;groseille;roux;;;F&C;A*B;3;oui;;absentes;non;
+olivascens = postiana;verdâtre;non;jaune;brunnissante;;douce;vert;positif;;;;;F&C;B*C;3;oui;poils clavés;absentes;oui;
+olivascens = postiana;brun;non;jaune;brunnissante;;douce;vert;positif;;;;;F&C;B*C;3;oui;poils clavés;absentes;oui;
+olivobrunnea;;non;jaune;non noircissante;;douce;;;;;;;;;;oui;;présentes;;positif
+pallidospora;blanc;oui;crème;non noircissante;pomme verte;douce;rose-orangé;lent bleu;;;;;Fagus;C;1*2;non;;présentes;;negatif
+paludosa;rouge;non;ocre;jaunissante;nulle;douce;gris vert 15 mn;faible;;;;;Conifères humides;C*D;2*3;oui;;présentes;;positif
+paraodorata;;non;jaune;non noircissante;;douce;;fort;;;;;;;;oui;;pluriseptées;non;positif
+parazurea;violet;non;blanc-crème;non noircissante;nulle;douce;rose-orangé;lent;;;;;Feuillus;C*D;2;non;filamenteux;volumineuses;non;positif
+parazurea f. dibapha;violet;non;blanc-crème;non noircissante;nulle;douce;rose-orangé;lent;;;;;Conifères;C*D;2;non;filamenteux;volumineuses;non;positif
+pascua;pourpre;non;ocre;brunnissante;crustacé;douce;vert;positif;;;;;Salix  ZA;A;3;oui;;absentes;;positif
+pectinata;ocre;non;blanc-crème;non noircissante;forte;âcre;rose sale;bleu;;;;nul;Feuillus;B*C;2;non;;présentes;;douteux
+pelargonia;violet;non;crème-ocre;grisonnante;pelargonium;âcre;rose-orangé;faible;;;;;Conifères;C*D;2*3;oui;;présentes;non;positif
+persicina;rouge;non;crème-ocre;non noircissante;fruitée;âcre;ocre;vite bleu vif;;;;;Feuillus;B*C;2*3;oui;;présentes;non;positif
+poikilochroa;violacé;non;blanche;non noircissante;vanille;douce;rose-orangé;rapide;;;;;Quercus;C;1;non;grêle;larges;;
+poikilochroa;verdâtre;non;blanche;non noircissante;vanille;âcre;rose-orangé;rapide;;;;;Quercus;C;1;non;grêle;larges;;
+praetervisa = pectinatoides;ocre;non;ocre;roussissante;caoutchouc;douce;rosâtre;positif;;;;nul;Sol sablonneux;B*C;2*3;non;;présentes;;
+prinophila;versicolor;non;jaune;non noircissante;faible;douce;nul;bleu;;;;;Quercus ilex;C;1*2;oui;;cloisonnées;;positif
+pseudoaeruginea;verdâtre;non;blanc-crème;non noircissante;faible;douce;orangé;moyen;;;;;Feuillus;C;2;non;filamenteux;volumineuses;non;positif
+pseudocampestris;pourpre;non;jaune;non noircissante;fruitée;douce;;bleu;;;;;Salix  ZA;A;2*3;oui;;présentes;;positif
+pseudoimpolita;rouge;non;jaune;non noircissante;;douce;;fort;;;;;Feuillus Z M;C*D;3;oui;;pluriseptées;non;positif
+pseudointegra;rouge;non;jaune;non noircissante;mentholée;amère;nul;nul;;;nul;;Feuillus;B*C;2;oui;non clavés;absentes;oui;
+pseudopuellaris;pourpre;non;crème-ocre;jaunissante;;douce;;;;;;;Feuillus;C*D;2;oui;;pluriseptées;non;positif
+pseudoraoultii;jaune;non;blanche;non noircissante;faible;âcre;orangé;fort;;;;;Sphaigne;;;oui;tortueux;présentes;non;positif
+pseudoromellii;versicolor;non;jaune;non noircissante;faible;douce;orangé;positif;;;;;Fagus;B*C;2*3;oui;;présentes;;positif
+pseudosuberetorum;;non;jaune;non noircissante;;douce;;;;;;;Quercus suber ;;;oui;;pluriseptées;non;positif
+pubescens;;non;jaune;;;douce;;;;;orangé;;;;;;non clavés;absentes;oui;
+puellaris;pourpre;non;crème-ocre;jaunissante;faible;douce;ocre;vite bleu vif;;;;;Conifères;B*C;2*3;oui;;pluriseptées;non;positif
+puellula;rouge;non;crème;non noircissante;faible;douce;rose-orangé;vite bleu vif;;;;;Fagus;C;2;oui;;pluriseptées;non;positif
+pulchella;beige;non;crème;non noircissante;fruitée;âcre;orangé;faible;;nul;;nul;Bouleaux, epicéas;A*B;1;;cylindracés;présentes;;
+putida;ocre;non;blanc-crème;non noircissante;forte;âcre;rose vineux;vite bleu vif;;nul;;;Zone Méditerannéenne;;;non;;;;
+queletii;pourpre;non;crème-ocre;non noircissante;pomme confiture;âcre;rosâtre;bleu pâle;;;;;Picea  ;A ;2*3;oui;;présentes;non;positif
+quercilicis;;non;jaune;jaunissante;;âcre;;;;;;;;;;oui;;présentes;oui;positif
+raoultii;jaune;non;blanche;non noircissante;pomme;âcre;orangé;fort;;roux;rose;;F&C;C*D;2;oui;;présentes;non;positif
+rhodella;rouge;non;jaune;non noircissante;nulle;douce;gris-rosé;fort;;;;;Fagus;B;2*3;oui;;pluriseptées;non;positif
+rhodomarginata;rouge;non;jaune;non noircissante;;douce;;;;;;;Feuillus Z M;B;;oui;mixte;présentes;oui;gris
+rhodopus;rouge;non;crème-ocre;non noircissante;fruitée;âcre;rosâtre;vite bleu vif;;;;;Picea;C*D;2;oui;;présentes;non;positif
+risigallina;jaune;non;jaune;non noircissante;girolle;douce;rosâtre;faible;;;;;F&C;A*B;3;oui;poils clavés;absentes;oui;
+risigallina;rose;non;jaune;non noircissante;girolle;douce;rosâtre;faible;;;;;F&C;A*B;3;oui;poils clavés;absentes;oui;
+rivulicola;rouge;non;blanc-crème;grisonnante;;douce;;;;;;;Zone humide nordique;;;oui;;présentes;;positif
+roberti = sphagnophila;pourpre;non;crème;non noircissante;fruitée;douce;rose sale;positif;;;;;Sphaigne;C*D;2*3;oui;;pluriseptées;non;positif
+romelli;versicolor;non;jaune;non noircissante;faible;douce;orange pâle;positif;;;;;Feuillus;C*D;2*3;oui;;présentes;;positif
+roseicolor;rouge;non;jaune;;nulle;douce;;faible;;;;;Feuillus;A*B;2;oui;poils clavés;absentes;oui;
+roseipes;orangé;non;jaune;;nulle;douce;orangé;nul;;;;;Conifères;B*C;2;oui;;absentes;oui;
+rubra;rouge;non;ocre;jaunissante;miellée;âcre;rosâtre;bleu vif;;;;;Feuillus;C*D;2;oui;;présentes;oui;positif
+rubroalba;rouge;non;jaune;non noircissante;faible;douce;brun;faible;;;;;Feuillus;C*D;2*3;oui;;présentes;;positif
+rubroalba var. albocretacea;versicolor;non;jaune;non noircissante;faible;douce;brun;faible;;;;;Feuillus;C*D;2*3;oui;;présentes;;positif
+rutila;rouge;non;jaune;jaunissante;faible;âcre;rosâtre;nul;;;;;Quercus;B*C;2;oui;;présentes;oui;positif
+salicicola;;non;ocre;non noircissante;;douce;;;;;;;;;;oui;;pluriseptées;non;positif
+sanguinea;rouge;non;crème-ocre;non noircissante;fruitée;âcre;ocre;bleu vif;;;;;Pinus;B;2*3;oui;;présentes;non;positif
+sapinea;;non;ocre;grisonnante;;douce;;fort;;;;;;;;oui;;pluriseptées;non;positif
+sardonia;violet;non;crème-ocre;non noircissante;fruitée;âcre;rosâtre;vite bleu vif;;;;rose/L;Pinus;C*D;2;oui;;présentes;non;positif
+scotica;rosâtre;non;crème-ocre;non noircissante;;douce;;;;;;;;D;;oui;;pluriseptées;non;positif
+seperina;pourpre;non;jaune;noircissante;;douce;;;;;rouge;;Zone Méditérannéenne;B*C;2*3;oui;;incrustées;non;positif
+sericatula;vineux;non;jaune;non noircissante;crustacé;douce;faible;bleu;;;nul;;Carpini;A;3;oui;non clavés;absentes;oui;
+silvestris;rouge;non;blanche;non noircissante;coco;âcre;;nul;;;;;Feuillus;A;3;oui;;;;
+solaris;jaune;non;blanche;non noircissante;vinaigrée;âcre;ocre;bleu vif;;;;;Fagus;B;3;oui;;présentes;non;positif
+sororia;brun;non;blanc-crème;non noircissante;forte;âcre;rose sale;faible;;;;;Feuillus;B;1*2;non;;présentes;;
+stenotricha;verdâtre;non;ocre;non noircissante;faible;âcre;rose-orangé;faible lent;;;;;Quercus;C;1*2;non;;en massues;;
+stenotricha;verdâtre;non;ocre;non noircissante;faible;douce;rose-orangé;faible lent;;;;;Quercus;C;1*2;non;;en massues;;
+straminea;jaune;non;jaune;jaunissante;;âcre;grisâtre;;;;;;;A;3;oui;;présentes;non;positif
+subazurea;violet;non;blanche;non noircissante;faible;douce;rose-orangé;nul;;;;;Zone Méditerannéenne;C*D;2;oui;;absentes;oui;
+suberetorum;versicolor;non;jaune;non noircissante;pomme;douce;rose-orangé;vite bleu;;;;;Quercus illicis ZM;;;oui;;pluriseptées;non;positif
+subfoetens;ocre;non;blanc-crème;non noircissante;forte;âcre;;bleu vif;;jaune vif;;;Feuillus;B*C;2;non;;;;
+subrubens;rouge;non;ocre;brunnissante;crustacé;douce;vert;fort;;;;;Salix;;;oui;;absentes;;positif
+taigarum;;non;jaune;non noircissante;;douce;;;;;;;;;;oui;;présentes;;positif
+terenopus;vineux;non;crème-ocre;non noircissante;pomme;douce;rose-orangé;vite bleu vif;;;;;Populus;A*B;3;oui;;pluriseptées;non;positif
+terenopus;vineux;non;crème-ocre;non noircissante;pelargonium;douce;rose-orangé;vite bleu vif;;;;;Populus;A*B;3;oui;;pluriseptées;non;positif
+tinctipes;rouge;non;jaune;non noircissante;mentholée;douce;rose gris pâle;vite bleu vif;;;;;Quercus;B*C;1*2;oui;;incrustées;non;positif
+torulosa;violet;non;crème-ocre;non noircissante;pomme;âcre;rosâtre;vite bleu vif;;;;;Pinus;B*C;2;oui;;présentes;non;positif
+turci;pourpre;non;jaune;non noircissante;iodoforme;douce;;lent;;;;;Conifères;C*D;2;oui;;absentes;oui;
+tyrrhenica;vineux;non;jaune;non noircissante;fruitée;douce;rose-orangé;vite bleu vif;;;;;Cistes;C;2;oui;mixte;incrustées;oui;gris
+unicolor;lilas;non;crème-ocre;non noircissante;faible;douce;rose-orangé;fort;;;;;F&C;D;2*3;oui;;pluriseptées;non;positif
+velenovskyi;rouge;non;jaune;non noircissante;faible;douce;rose-orangé;bleu;;;;;Bouleaux, epicéas;B;2;oui;;incrustées;non;positif
+velutipes;rose;non;blanche;non noircissante;;douce;gris rose;faible;;jaune;;;Feuillus;B;1*2;oui;;absentes;présentes;
+versatilis;vineux;non;crème-ocre;non noircissante;violette;douce;faible;positif;;;;;Feuillus;B;2*3;oui;;pluriseptées;non;positif
+versicolor;versicolor;non;crème-ocre;non noircissante;fruitée;âcre;rose-orangé;vite bleu vif;;;;;Bouleaux, epicéas;C;2;oui;;pluriseptées;non;positif
+versicolor;versicolor;non;crème-ocre;non noircissante;fruitée;douce;rose-orangé;vite bleu vif;;;;;Bouleaux, epicéas;C;2;oui;;pluriseptées;non;positif
+vesca;jambon;non;blanc-crème;non noircissante;faible;douce;vif rose orangé;fort;;;;;F&C;A*B;1*2;non;filamenteux;petites;non;positif
+veternosa;rose saumon;non;jaune;grisonnante;miellée;âcre;rosâtre;vite bleu vif;;;;;Fagus;A;3;oui;;abondantes;;
+vinosa;pourpre;non;jaune;noircissante;faible;douce;rose-orangé;faible;;;orangé;;Conifères humides;A  ;2*3;oui;non clavés;absentes;oui;
+vinosobrunnea;pourpre;non;jaune;non noircissante;pomme;douce;orangé vif;lent bleu;pourpre;;;;Feuillus;B*C;2*3;oui;;absentes;non;
+vinososordida;pourpre;non;blanc-crème;grisonnante;;douce;;;;;;;Bouleaux, epicéas;;;oui;;présentes;;positif
+violacea;violacé;non;crème;jaunissante;compote;douce;rose-orangé;vite bleu vif;;;;;Feuillus;A;3;non;;peu cloisonnées;;
+violeipes;pourpre;non;crème-ocre;non noircissante;artichaut;douce;rose sale;nul;chocolat;;;;Feuillus;D;1*2;non;baionnette;absentes;non;
+virescens;vert;non;blanc-crème;non noircissante;faible;douce;rosâtre;faible;;;;;Feuillus;B*C;1*2;non;celluleux;absentes;non;positif
+viscida;pourpre;non;blanc-crème;jaunissante;miellée;âcre;gris-rosé;bleu vif  ;;rouge;;;F&C;C*D;2;oui;;présentes;oui;positif
+vitellina;jaune;non;jaune;non noircissante;;douce;;;;;;;;;;oui;poils clavés;absentes;oui;
+xerampelina;pourpre;non;ocre;brunnissante;crustacé;douce;vert;fort;;;;;Pinus;B;2*3;oui;;absentes;;positif
+zvarae;rouge;non;blanche;non noircissante;faible;douce;;bleu/Lames;;;;;Feuillus;C;2;oui;volumineux;absentes;présentes;
+zvarae;rouge;non;blanche;non noircissante;faible;douce;;nul/stipe;;;;;Feuillus;C;2;oui;volumineux;absentes;présentes;

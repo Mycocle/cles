@@ -1,0 +1,83 @@
+rem $ rem Clave A    Myxomycota (Mixogastria);;;;;;
+1,0 $ Esporas desarrolladas en el ápice de un pedúnculo procedente de una matriz mucosa, expuestas al exterior. Esporoforo sin peridio ni capilicio   ; $ Ceratiomyxa
+1,2 $ Esporas desarrolladas en el interior de esporotecas. Esporóforo con peridio más o menos desarrollado, con o sin capilicio;;
+2,3 $ Con capilicio;;
+2,6 $ Sin capilicio, con o sin pseudocapilicio (Liceales, Echinostelium p.p.);;
+3,4 $ Fase asimiladora variada., esporas de color variado que germinan por rotura de su pared. Esporóforo a veces con columela o depósitos calcareos;;
+3,13 $ Fase asimiladora de tipo afanoplasmodio, solo visible cuando está fructificando., esporas de color pardo violáceo que germinan mediante un poro. Esporóforo con columela y sin depósitos calcáreos o bien sólo en la base (Stemonitales);;
+4,5 $ Esporas en masa de colores claros. Esporóforo rara vez con depositos de calcio, fase asimiladora de tipo fane-roplasmodio o de otro tipo;;
+4,22 $ Esporas en masa negras, pardas oscuras o violáceas. Esporóforo con depósitos calcáreos en peridio (y frecuentemente en capilicio), fase asimiladora de tipo faneroplasmodio (Physarales);;
+5,33 $ Con columela generalmente, esporoforos estipitados de hasta 0,5 mm de altura, capilicio liso, fase asimiladora de tipo protoplasmodio, peridio fugaz, a veces queda al menos como un collar (Echinosteliales p.p.);;
+5,34 $ Sin columela, esporoforo y capilicio variado, fase asimiladora variada, peridio persistente al menos en la base (Trichiales);;
+6,0 $ Esporóforos estipitados de hasta 0,4 mm de altura;; $ Echinostelium p.p.
+6,7 $ Esporóforos no estipitados, o estipitados y de más de 0,4 mm de altura;;
+7,0 $ Peridio evanescente, quedando un retículo que encierra las esporas;; $ Cribraria
+7,8 $ Peridio nunca persiste como una red;;
+8,0 $ Esporocarpos agregados formando un pseudoetalio de color naranja a rosa o rojo;; $ Tubulifera
+8,9 $ Esporocarpo diferente;;
+9,10 $ Sin pseudocapilicio;;
+9,11 $ Con pseudocapilicio;;
+10,0 $ Esporóforos de 0,5(-1) mm, esporocárpicos, alguna vez plasmodiocárpicos., ornamentacion esporal uniforme;Licea;;; $ Licea
+10,0 $ Esporóforos de más de 1 mm de largo, plasmodiocárpico., ornamentación esporal localizada en un área concreta;Reticularia p.p.;;; $ Reticularia p.p.
+11,0 $ Esporóforo en etalio globoso o subgloboso., pseudocapilicio tubular ramificado;; $ Lycogala
+11,12 $ Esporóforo en pseudoetalio o etalio aplanados o pulvinado., pseudocapilicio variado;;
+12,0 $ Peridio en mosaico, formado por placas poligonales., pseudocapilicio filiforme péndulo de las placas del peridio. Esporoforo en pseudoetalio;Dictydiaethalium+B88;;; $ Dictydiaethalium+B88
+12,0 $ Peridio sin placas poligonales., pseudocapilicio membranoso. Esporóforo en etalio;; $ Reticularia p.p.
+13,0 $ Esporóforo con depositos calcareos en la base y pie;; $ Diachea
+13,14 $ Esporóforo sin depositos calcareos;;
+14,0 $ Columela que termina en un disco del que pende el capilicio;; $ Enerthenema
+14,15 $ Columela sin disco apical del que pende el capilicio;;
+15,16 $ Peridio persistente, al menos parcialmente, en forma de collar;;
+15,18 $ Peridio evanescente;;
+16,0 $ Pie formado por fibras paralelas, columela que llega hasta el medio del esporocarpo ramificandose y disminuyendo su grosor hacia la periferia;Collaria;;; $ Collaria
+16,17 $ Sin los caracteres anteriores juntos;;
+17,0 $ Pie hueco, peridio no iridiscente en general;; $ Macbrideola
+17,0 $ Pie fibroso, peridio con frecuencia iridiscente;; $ Lamproderma
+18,0 $ Capilicio ramificado dicotòmicamente, sin anastomosis., esporocarpo globoso;; $ Paradiacheopsis
+18,19 $ Capilicio formando una red, con anastomosis., esporocarpo cilindrico o globoso;;
+19,0 $ Esporóforos en pseudoetalio., esporocarpos cilindricos sésiles o subsésiles unidos por la parte media o basal, sin red superficial;Symphytocarpus;;; $ Symphytocarpus
+19,20 $ Esporóforos individuales, esporocárpicos, con o sin red superficial;;
+20,21 $ Esporocarpo cilindrico., capilicio con una red superficial., pie hueco o fibroso;;
+20,0 $ Esporocarpo esférico o cortamente cilindrico., capilicio sin red en la superficie (excepto C. ellae)., pie fibroso con fibras entrelazadas;Comatricha;;; $ Comatricha
+21,0 $ Red superficial completa., pie hueco;; $ Stemonitis
+21,0 $ Red superficial fragmentada., pie fibroso;; $ Stemonitopsis
+22,23 $ Capilicio sin depósitos calcáreos;;
+22,26 $ Capilicio con depósitos calcáreos;;
+23,0 $ Peridio con pequeños depósitos aglutinados calcáreos amorfos o irregulares., esporóforo esporangiado o plasmodiocárpico ;Diderma;;; $ Diderma
+23,24 $ Peridio con cristales estrellados dispersos de carbonato cálcico o formando cubiertas, escamas o placas cristalinas., esporóforo variado;;
+24,25 $ Peridio con cristales estrellados que no forman escamas o placas delimitadas;;
+24,0 $ Peridio con placas o escamas cristalinas;; $ Lepidoderma p.p.
+25,0 $ Esporóforo esporangiado o plasmodiocárpico;; $ Didymium
+25,0 $ Esporóforo en etalio;; $ Mucilago
+26,0 $ Esporóforo en etalio;; $ Fuligo
+26,27 $ Esporóforo esporangiado o plasmodiocárpico;;
+27,0 $ Esporóforo gregario, ovoide, sésil o con un corto pedúnculo., peridio liso y brillante, inicialmente amarillo, después naranja y finalmente pardo, con apertura apical irregular ;Leocarpus;;; $ Leocarpus
+27,28 $ Sin los caracteres anteriores juntos;;
+28,29 $ Capilicio formado por túbulos rellenos de calcio, rara vez con zonas sin rellenar;;
+28,30 $ Capilicio con calcio en los nódulos de la red o dispuesto en placas transversales;;
+29,0 $ Capilicio formado por una red de túbulos;; $ Badhamia
+29,0 $ Capilicio formado por túbulos columnares, ocasionalmente bifurcados, pero que no forman una red;Badhamiopsis;;; $ Badhamiopsis
+30,31 $ Capilicio con calcio en los nódulos de la red, esporóforo de tipo esporocarpo o plasmodiocarpo;;
+30,0 $ Capilicio con calcio en placas transversales a los elementos de un plasmodiocarpo reticulado;; $ Willkommlangea
+31,0 $ Esporóforo con dehiscencia mediante un opérculo circular, quedando la parte basal en forma de copa;Craterium;;; $ Craterium
+31,32 $ Esporóforo con dehiscencia irregular o lobada;;
+32,0 $ Esporóforo de tipo plasmodiocarpo., peridio con placas o escamas cristalinas., esporas en púrpura; masa de color pardo $Lepidoderma p.p.
+32,0 $ Sin los caracteres anteriores juntos., esporóforo a veces estipitado;; $ Physarum
+33,0 $ Sin capilicio o rudimentario, muy pálido o incoloro, filamentoso o ramificado, en ocasiones con un elemento diferencial en el ápice del estipe, globoso o elipsoide;Echinostelium p.p.;;; $ Echinostelium p.p.
+33,0 $ Con capilicio ramificado de color oscuro o pardo oliváceo, sin el mencionado elemento diferencial;; $ Clastoderma
+34,35 $ Capilicio macizo;;
+34,36 $ Capilicio hueco, a modo de tubos;;
+35,0 $ Capilicio con elementos rectos, ramificados o fasciculados frecuentemente unidos al peridio;; $ Dianema
+35,0 $ Capilicio con elementos largos y generalmente sin ramificar, poco unido al peridio;; $ Calomyxa
+36,37 $ Capilicio con bandeo espiralado;;
+36,41 $ Capilicio con verrugas, crestas, anillos o retículos;;
+37,0 $ Bandeo espiralado tenue, fragmentado o casi liso en algunas zonas;; $ Oligonema
+37,38 $ Bandeo espiralado patente, no fragmentado;;
+38,0 $ Capilicio deshilachado en los extremos;; $ Prototrichia
+38,39 $ Capilicio atenuado en los extremos;;
+39,0 $ Esporocarpo con peridio grueso., capilicio pardo rojizo o naranja;; $ Metatrichia
+39,40 $ Esporocarpo con peridio delgado de apertura variada., capilicio amarillento;;
+40,0 $ Capilicio poco ramificado, con terminaciones libres frecuentes;; $ Trichia
+40,0 $ Capilicio ramificado en red, con terminaciones libres ocasionales;; $ Hemitrichia
+41,0 $ Capilicio poco ramificado, con terminaciones libres frecuentes., esporóforos sésiles;; $ Perichaena
+41,0 $ Capilicio ramificado en red, con terminaciones libres ocasionales., esporóforos generalmente estipitados y con un peridio que perdura a modo de copa;Arcyria;;; $ Arcyria

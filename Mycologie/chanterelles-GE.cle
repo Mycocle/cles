@@ -1,0 +1,57 @@
+titre $ Clé des Chanterelles Par Guillaume Essartier
+com$ adaptée GF Fev 2008
+1,cs1$ a Taxons manifestement et rapidement jaunissants, puis roussissants; le jaunissement, évident à la récolte dans les endroits blessés de la chair ou après manipulation, résulte d'un processus autre que celui de la dessiccation $ Première clé$s" Première clé"
+1,cs2 $ b Taxons ne jaunissant jamais à manipulation, seuls les vieux exemplaires souvent secs et abîmés montrent parfois des traces roussâtres périphériques qui n'apparaissent pas lorsque l'on gratte la chair $ Seconde clé$s" Seconde clé"
+Première clé  Espèces manifestement roussissantes, parfois faiblement
+cs1,0$
+1,2 $ a Basidiome montrant des teintes roses
+1,5 $ b Basidiome sans teintes roses, mais parfois à squames lilacines
+2,0 $ a Petite espèce grêle, teintée de rose sur le stipe uniquement : $ Cantharellus cibarius var. nanus
+2,3 $ b Espèce de taille et stature normales, couleur rose nette sur l'hyménophore :
+3,0 $ a Chapeau blanc, crème au disque, stipe blanc $ Cantharellus cibarius var. carneoalbus
+3,4 $ b Chapeau et stipe jaunes :
+4,0 $ a Spores 15 x 5 µm, basides 4-2 sporiques. Espèce douteuse : $ Cantharellus subcarneus
+4,0 $ b Spores probablement plus petites et basides (4) 5-6 sporiques (à vérifier) : $ Cantharellus cibarlus var. salmoneus
+5,6 $ a Chapeau squameux
+5,7 $ b Chapeau sans squames
+6,0 $ a Squames lilacines $ Cantharellus amethysteus
+6,0,N$ Si saveur désagréable, styptique, voir Cantharellus amethysteus var. substypticus
+6,0 $ b Squames brunes $ Cantharellus cibarius var. squamulosus
+7,8 $ a Chapeau nettement teinté de brun
+7,9 $ b Chapeau jaune ou plus pâle
+8,0 $ a Chapeau, stipe et hyménophore jaune pâle, chapeau parfois teinté de brun grisâtre dans la jeunesse; marge souvent subitement plus pâle $ Cantharellus ferruginascens
+8,0 $ b Chapeau, stipe et hyménophore jaunes, chapeau teinté de brun châtain même sur les adultes; marge concolore $ Cantharellus cibarius var. umbrinus
+9,0 $ a Basidiome morphologiquement semblable en tous points à C. cibarius (charnu, entièrement jaune), mais roussissant $ Cantharellus cibarius var. rufipes
+9,10 $ b Basidiome différant de C. cibarius par la couleur, la stature ou le chapeau remarquablement pruineux :
+10,11 $ a Espèces de petite taille, atteignant tout au plus 4 cm de diamètre piléique, souvent beaucoup plus petites (voir aussi C. queletii)
+10,12 $ b Espèce de taille normale, diamètre piléique 5-6 (10) cm
+11,0 $ a Hyphes du piléipellis à parois non épaissies $ Cantharellus romagnesianus
+11,0 $ b Hyphes du piléipellis à parois épaissies $ Cantharellus henrici
+12,0 $ a Taxon d'abord fortement et remarquablement pruineux $ Cantharellus subpruinosus
+12,13 $ b Taxons non remarquablement pruineux
+13,14 $ a Chapeau jaune ou jaune pâle
+13,15 $ b Chapeau blanc ou crème pâle
+14,0 $ a Chapeau, stipe et hyménophore non discolores $ Cantharellus ferruginascens
+14,0 $ b Chapeau et stipe jaunes, hyménophore discolore plus pâle $ Cantharellus cibarius var. albidus
+15,16 $ a Taxons typiquement bicolores, chapeau et stipe blancs, hyménophore jaune formant contraste
+15,17 $ b Taxons non typiquement bicolores
+16,0 $ a Taxon venant typiquement sous chênes thermophiles $ Cantharellus cibarius  var. bicolor
+16,0 $ b Taxon venant sous noisetiers (exclusifs?) $ Cantharellus cibarius var. flavipes
+17,0 $ a Feuillus thermophiles, méditerranéens $ Cantharellus alborufescens
+17,0 $ b Feuillus et conifères tempérés $ Cantharellus cibarius f. pallidus
+cs2,0 $ Seconde cléEspèces jamais jaunissante, ni roussissantes
+1,0 $ a  Espèces peu charnues à hyménophore gris lilas : $ Cantharellus neglectus
+1,2 $ b Hyménophore jamais gris lilas :
+2,0 $ a Très petite espèce, à chapeau ne dépassant pas 20 mm $ Cantharellus pseudominimus
+2,0,N$ voir aussi Canthanellus queletii
+2,3 $ b Taxons plus grands
+3,0 $ a Taxon remarquable par ses couleurs rose-orangé-abricot toujours nettes au moins sur le chapeau $ Cantharellus friesii
+3,4 $ b  Taxons de couleur jaune ou plus pâles
+4,0 $ a Taxon rappelant tout à fait C. cibarius  type, mais à chapeau fortement pruineux dans la jeunesse $ Cantharellus cibarius var. atlanticus
+4,5 $ b Taxon rappelant C. cibarius type ou plus pâle, mais à chapeau jamais pruineux
+5,0 $ a Chapeau, hyménophore et stipe d'un beau jaune : $ Cantharellus cibarius
+5,6 $ b Basidiome blanchâtre sur toute sa surface ou seulement sur certaines parties
+6,0 $ a Basidiome entièrement blanc ou blanchâtre, marge souvent lobée : $ Cantharellus pallens
+6,7 $ b  Jaune au moins sur une partie du basidiome (contraste) :
+7,0 $ a Chapeau et stipe blancs, hyménopliore jaune $ Cantharellus cibarius var. bicolor
+7,0 $ b Chapeau et stipe normalement colorés, hyménophore très pâle : $ Cantharellus cibarius var. albidus

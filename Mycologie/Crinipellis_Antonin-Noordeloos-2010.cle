@@ -1,0 +1,20 @@
+titre$ CRINIPELLIS IN EUROPE Antonin-Noordeloos 2010
+com$adapt G Fannechere 28 sept 2019
+rem$ Clé utilisable via le logiciel Mycoclé : http://mycolim.free.fr/DOC_SML/mycoCLE/Charg_Mycocle.htm
+
+1,0$source :Vladimir Antonin & Machiel E. Noordeloos ///A monograph of marasmioid and collybioid fungi in Europe VERLAG 2010
+1,0$Ne pas diffuser !
+1,0$
+µm 
+
+
+1,0 $Spores all dextrinoid (ripe spores); basidiocarps rather robust with a 3 - 6 mm wide, bulbose stipe $C. sardoa
+1,2 $Spores non-dextrinoid, or only few thick-walled spores dextrinoid, but always mixed with non-dextrinoid spores; basidiocarps less robust, stipe up to 3.5 (4) mm wide, bulbose or not
+2,3 $ (1) Basidiocarps relatively slender, pileus up to 15 (18) mm broad; stipe filiform, up to 1.5 (2) mm wide
+2,4 $Basidiocarps more robust, pileus 20-30 mm broad, stipe 2 - 3 mm wide, not filiform . . .
+3,0 $ (2) Pileus with rusty-brown to chestnut centre and paler marginal zone with orange to redbrown hairs; stipe yellow-brown, with similar hairs; cheilocystidia (17) 28-55 (72) x 3.5- 8.5 µm , often forked or with apical projections or strangulate $C. scabellus
+3,0 $Pileus greyish brown to ochre-brown with distinct lilac hue, with hyaline, almost white hairs; stipe grey to grey-brown, often with similar lilac hue, covered with white hairs; cheilocystidia (11) 15-32 (45) x 3.8-11 µm , clavate, subfusiform, utriform . . . $C. tomentosa
+4,0 $ (2) Pileus with pinkish purple tinge; pileipellis with distinct sphaeropedunculate chlamydospores $ C. pedemontana
+4,5 $Pileus without pink-purple tinges; chlamydospores absent
+5,0 $ (4) Spores ail thin-walled, non-dextrinoid, (7.0) 7.5-9.5 ( 11.0) x 4.2-5.5 (6.0) µm $C. subtomentosa
+5,0 $Spores in part slightly thick-walled, dextrinoid, 6.5-8.5 x (3.0) 3.5-5.0 µm . . $ C. zonata

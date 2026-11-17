@@ -1,0 +1,262 @@
+Boletus Jahrg. 11 Heft 2 1987, ersch. 1988 S. 35-49
+
+Conocybe Fayod
+Fruchtkörper meist schlank und gebrechlich, mit myzenoidem Habitus, seltenei tricholomatoid und an Hebeloma oder Cortinarius erinnernd, ± ockerbraun, mit oder ohne Velum, Sporenstaub ockerbrqun. Huthaut eine Palisade aus. rundlichen bis birnenförmigen Zellen. Stets mit Cheilozystiden; diese entweder vorn Conocybe-Typ (flaschen- bis ampullenfÖrmig mit schlankem, kurzen Hals und abgesetztem, rundlichen Kopf) oder vom P h o I i o t i n a- Typ (zylindrisch-fädig, flaschenförmig, sackförmig usw.). Pleurozystiden fehlen; mit oder ohne Pileo- und Caulozystiden. Basidien 4- bis, 2-sporig. Sporen ellipioid, eiförmig, bisweilen mandel- oder bohnenförmig, selten hexagonal, glatt, selten feinwarzig, meist mit deutlichem Keimporus. — Saprophyten auf Erde, Dung oder Holzkohle, seltener an morschem Holz; in Grünland, Wäldern und Gärten. Hilfsschlussel
+
+
+1,0 $ ===> RETOUR AU KIT $$f"Conocybe_kit.cle"
+1,0, $
+
+
+1,2 $ Cheilozystiden vom Conocybe-Typ. Fruchtkörper ohne Velumreste.
+1,4 $ Cheilozystiden vom Pholiotina-Typ (Ausnahme: C. brunnea)
+1,0 $                                                *************************
+1,0 $ Figures $$f"Zschieschang_Conocybe_fig.pdf"
+
+2,3 $ Stiel mit Zystiden vom Conocybe-Typ.
+2,cs3 $ Stiel ohne Zystiden vom Conocybe-Typ, aber mit voluminösen, zystidenartigerr Zellen. $$s"Unt.Gat. Conocybe Sekt. Pilosellae"
+3,cs1 $ Sporen glatt. $$s"Unt.Gat. Conocybe Sekt. Conocybe"
+3,cs2 $ Sporen warzig. $$s"Unt.Gat. Ochromarasmius"
+
+
+4,5 $ Fruchtkörper ohne Velum reste.
+4,cs6 $ Mit deutlichen Velumresten. Stiel beringt oder Hutrand ± behangen. $$s"Unt.Gat. Pholiotina"
+
+5,cs4 $ Hut plisseeartig gefaltet, ähnlich Coprinus oder Bolbitus. $$s"Unt.Gat. Galerella"
+5,cs5 $ Hut glatt. Hut und Stiel mit Zystiden, unten. Lupe Feinflaumig oder bereift. $$s"Unt.Gat. Pilferae" 
+
+
+cs1,0 $ Schlüssel I . * Conocybe. Ochromarasmius. (Stiel mit Zystiden vom Conocybe-Typ. Hut und Stiel bisweilen feinflaumig-behaart. Einige Arten mit positiver Ammoniakreaktion).
+
+1,0 $ Fruchtkörper kräftig, gedrungen, vom Habitus eines Cortinarius oder Hebeloma $ C. intrusa (Peck) Sing.
+1,0,N$///Hut 2-8 cm, konvex bis flach, auch breit gebuckelt oder niedergedrückt, cremeblaß bis ockerbraun oder rötHchbraun, Rand schmal eingerollt. Lamellen gedrängt, angeheftet bis fast frei, reif ockerbraun, jung Schneide weiß gezähnelt. Stiel 2,5-8/0,5-1,5 cm, weißlich, Spitze gerillt, Basis bis 2,5 (4) cm verdickt. (Abb. \1). ///Sporen 5-8/3,5-5 µm. ///- Auf Mist und gedüngten Böden; in Gewächshäusern und im Freiland 
+1,2 $ Fruchtkörper klein, dünnstielig gebrechlich
+
+2,3 $ Sporen ± hexagonal
+2,4 $ Sporen nicht hexagonal
+
+3,0 $ Stiel wurzelnd. $ C. antipus (Lasch) Fayod
+3,0,N$ ///Hut 1,5-3 cm, kegelig-glockig bis konvex dunkel zimtbraun, trocknend lederblaß. Lamellen gedrängt,, angeheftet, lange ockerblaß, schließlich röstbraun, Schneide blaß. Stiel 2-4,5/0,2-0,4 cm, blaß bis bräunlich, Spitze weiß bemehlt, unterhalb der verdickten Basis mit leicht abbrechender, nach Ricken (1915) bis zu 12 cm langer wurzelartiger Verlängerung. (Abb. 4). ///Sporen 8-11/6-7,5/4-6 µm, leicht zitronenförmig bis fast sechseckig, Keimporus groß (Abb. 4). , Zystiden 15-20/5-9/2,5-4,5 µm 
+3,0 $ Stiel nicht wurzelnd.
+3,0,N$///===> C. lenticulospora, Schlüssel II
+
+4,5 $ Zystiden mit großen, etwa 4-8 (10) µm breiten Köpfen
+4,5,N$/// ===> vgl. auch C. dumetorum und C. macrocephala
+4,10 $ Köpfe der Zystiden etwa 2,5-5 µm, selten breiter
+
+5,0 $ Sporen untem Mikro auffallend blaß $ C. spiculoides (Kühn, ex) Kühn. & Watl.
+5,0,N$///Hut 1-1,5 cm. stumpfkegelig bis konvex, ocker- bis lehmbraun, stark ausblasend. Lamellen dunkel ocker. Stiel 3-6/0,1-0,15 cm, Knöllchen bis 0,25 cm, weiß bemehlt. Geruch obstartig. ///Sporen 7,5- 9,5/4-5,5 µm, unten Mikro sehr blaß,- dünnwandig, Keimporus kaum sichtbar. (Abb. 18), Zystiden 17-32/8-14/4-7 (8) µm. Mit schwacher Ammoniakreaktion.
+5,6 $ Sporen nicht auffallend blaß
+
+6,7 $ Stielbasis mit relativ kräftigem, ± gerandetem Knöllchern. Ammoniakreaktion positiv
+6,8 $ Stielbasis mit schwachen Knöllchen. Mit oder ohne Ammoniakreaktion
+
+7,0 $ Sporen (10) 11,5-14 (16)/6,5-8 µm (Abb. 7).
+7,0,N$///Hut 1-3 cm, kegelig-glockig, halbkugelig, ocker bis ockerbraun, oft mit leichtem Olivton, rasch bis creme austrocknend. Lamellen zimt- bis rostbraun, Schneide glatt oder blaß gezähnelt.. Stiel 4-12/ 1,5-3,5 cm, Knolle bis 0,6 cm breit, weißlich, ± gerandet (Abb. 6). ///Zystiden 20-35/7-15/4-6,5 (7,5) µm. Ammoniakreaktion stark. Auf Mist, Kompost oder gedüngten Böden $ C. subovalis (Kühn, ex.) Kühn & Watl
+7,0 $ Sporen 8-9,5/4,5-5,5 µm$ C. abruptibulbosa Watl.
+7,0,N$///Hut 1,8-4,2 cm, konvex bis flach-konkav, feucht blaß ocker oder ledergelb mit dunklerer Mitte, trocknend creme, etwas runzelig, Rand kaum durchscheinend gestreift. Lamellen kaum gedrängt, reif rostbraun, Schneide Weißflockig. Stiel 3,6-4,8/0,2-0.5 cm, weiß bereift, mit fast gerandeter Knolle. ///Zystiden 17,5-22,5/8,5-9,5/4,5-5,5 (6) µm. Ammoniakreaktion stark 
+
+8,0 $ Sporen 9-11 (12)/5-7 (7,5) µm, relativ dickwandig. $ C. magnicapitata P. D. Orton
+8,0,N$///Hut 0,8-2,0 cm, glockig, halbkugelig oder konvex, feucht bis fast zur Mitte durchscheinend gestreift, ockerbraun, rotbräunlich, bald schmutzig ausblassend. Lamellen kaum gedrängt, blaß ocker bis dunkel otkerbraun, Schneide glatt oder ± deutlich gezähnelt. Zystiden 18-30/10-15/4-8 (9) µm 
+8,9 $ Sporen etwas kleiner, nicht dickwandig
+
+9,0 $ Hut lebhaft gefärbt, Lamellenschneide schartig. Häufige Art. $ C. rickeniana P. D. Orton
+9,0,N$///Hut 0,3-3 cm, stumpfkegelig-glockig bis konvex, Rand oft aufgebogen, feucht dicht gestreift, lebhaft gelbockervbis ockerrötlich, Mitte dunkler. Lamellen gedrängt, blaßgelb bis ocker, Schneide auffallend schartig gezähnt. Stiel 3-10/0,1-0,2 cm, oft mit kleinem Knöllchen, bis zur Basis weiß gepudert. (Abb. 8). Sporen 7,5-10 (t1)/4-6 µm (Abb. 10). Zystiden 20-32/10-15 (18)/4,5-9 µm (Abb. 9) 
+9,0 $ Hut mit trüben, graubräunlichen Farben, Lämellenschneide nicht schartig$ C. sordida (Kühn, ex) Kühn. & Watl.
+9,0,N$///Hut 0,8-2,0 cm, kegelig-g loclcig bis konvex, blaß ockerbräunlich, trocknend fahlbraun, tongrau, Mitte dattelbraun. Lamellen gedrängt, pcker (zur Hutfarbe kontrastierend!), Schneide glatt bis fein weiß- flockig. Stiel 25-60/0,1-1,5 mm, gleichdick oder mit leicht verdickter Basis, gänzlich bereift. ///Sporen 7-9 (10)/4-5,5 µm. Keimporus klein. Zystiden 20-30/10-15/5-7 (9) µm 
+
+10,0 $ Hut leuchtend orangebraun-chromgelb. $ C. aurea (J. Schff.) Hongo
+10,0,N$///Hut 1-3 cm, kegelig-glockig oder halbkugelig, satt orangebraun, Rand Chromgelb (ähnlich Russula claroflava), Hüthaut glimmerig, abziehbar. Lamellen gedrängt, zimt- bis rostfarben. Stiel 2,5-6,5/0,4-0,5 cm, Basis klein-knollig, in der oberen Hälfte blaß zitronengelb, nach unten rostbraun bis schwärzlich. ///Sporen (9) 11- 12/ (13)/(5) 6-7 µm. Basidien zwei- bis viersporig. Zystiden 24-26/ 7-11/3,5-5 µm. Zellen der Huthaut mit gelbem Saft gefüllt. Ammoniakreaktion stark 
+10,11 $ Hut weniger lebhaft gefärbt. Zellen der Huthaut ohne gelben Saft
+
+11,0 $ Sporen 6-7,5 (8)/3,5-4 µm. $ C. brunneola (Kühn. ex) Kühn. & Watl.
+11,0,N$///Hut 0,8-1,5 cm, konvex bis flach, oft stumpf gebuckelt, ockerbraun. Lamellen bauchig, breit. Stiel 25-45/1-1,5 mm gleichdick oder mit kleinem Knöllchen, gänzlich weiß bemehlt. ///Sporen von vorn fast zylindfisch, im Profil ± bohnenförmig (Abb. 17). Zystiden 15-25/7-12/3-5,5 µm 
+11,12 $ Sporen größer
+
+12,13 $ Stiel auffallend blaß oder weiß und lange so bleibend
+12,13,N$ vgl. auch C. semiglobata, mesospora, ambigua
+12,14 $ Stiel nicht auffallend blaß
+
+13,0 $ Sporen (8) 8,5-10 (1t)/(5) 5,5-6,5 µm, Ammoniakreaktion stark. $ C. macrocephala (Kühn, ex) Kühn. & Watl.
+13,0,N$///Hut 1,5-4 cm, glockig, konvex, oft gebuckelt, ockerbräunlich, stark hygrophan, bis cremeweiß ausblassend. Lamellen kaum gedrängt, lange hell, dann ocker, Schneide fein flockig. Stiel 1,5-5/0,15-0,3 cm, basal bis 4 (5) mm verdickt, gänzlich weiß bis creme, alt von unten her bräunend, Spitze gerillt, und L. fein bereift. ///Sporen ellipsoid, im Profil bisweilen leicht mandelförmig. Zystiden 17-26/8-15/4-6 (7) µm, Hals relativ lang und nach oben verjüngt 
+13,0 $ Sporen 11,5-14,5/6,5-8 (9) µm. Keine Ammoniakreaktion. $ C. leucopus (Kühn. ex) Kühn. & Watl.
+13,0,N$///Hut 1,5-1,7 cm, kegelig oder glockig, feucht ockergelb bis ockerbraun, trocknend ocker bis lederblaß, fein radial-runzelig. Lamellen kaum gedrängt, rostgelb, relativ hell, Schneide blaß. Stiel 4-6/0,2- 0,3 cm, cremeweiß, auch an der Basis, und so bleibend, und L. fein bereift, Stielfleisch bis zur Basis weiß. ///Sporen relativ dunkel, dickwandig, Keimporus breit. Zystiden 20-26/7-9/3-5 µm, schlank, mit langem Hals (Abb. 20), (2-sporige Sippe mit Sporen 13-17/7-8 µm).
+
+14,15 $ Stiel blaß honigbraun, an der Basis oft schmutzig rotbraun, Stiel und Hut kaum flaumig behaart. Ammoniakreaktion positiv oder negativ
+14,19 $ Stiel lebhaft gelb oder rostb raun (Ausnahme: C. ambigua ), feucht oft Hut und Stiel flaumig behaart. Köpfe der Zystiden stets klein. Ammoniakreaktion negativ
+
+15,0 $ Stiel mit breiter, ± gerandeter Knolle. 
+15,0,N$/// ===> Vgl. C. subovalis
+15,16 $ Stiel nicht auffallend gerandet-knolllg
+
+16,17 $ Sporen bis 13-14 (16) um lang
+16,18 $ Sporen nur bis etwa 10 um lang
+
+17,0,$ Sporen bis 6 µm breit. Ammoniakreaktion stark. $ C. tenera (Schaeff. : Fr.) Fayod
+17,0,N$///Hut 0,8-2,5 cm, kegelig-glockig bis konvex, ocker bis bräunlich, Mitte oft dunkler, feucht bis fast zur Mitte durchscheinend gestreift, stark ausblassend. Lamellen gedrängt, Schneide glatt bis weißflockig, Stiel 3,5-8,5/0,1-0,3 cm, Basis leicht verdickt, oben gerieft, und L. fein bereift. (Abb. 11, 12). ///Sopren (8,5) 10-12 (13)/5-6 µm. dickwandig, Keimporus breit (Abb. 14). Zystiden 16-25/7-12/3,5-5 (5,5) µm (Abb. 13). ///- Zerstreut bis verbreitet. 
+17,0 $ Sporen 6-8 breit. Ammoniakreaktion schwach oder fehlend. $ C. semiglobata (Kühn, ex.) Watl.
+17,0,N$///Hut 1-2,5 cm, halbkugelig-glockig, seltener stumpfkegelig oder konvex, feucht ockerbräunlich, trocknend ockergelb bis creme, bisweilen oliv getönt. Lamellen ziemlich gedrängt, zimtbräun. Stiel' 2,5-9/1-2 cm bisweilen mit blassem Knöllchen. ///Sporen 11,5-14,5 (16)/6-8 (9) µm. Zystiden 15-25/7-11/2,5-5 µm
+
+18,0 $ Stielbasis mit fast gerandeter Knolle. Zystiden mit großem, bis 6 µm breitem Kopf. Ammoniakreaktion positiv. 
+18,0,N$/// ===> Vgl. C. abruptibulbosa.
+18,0 $ Nicht mit diesen Merkmalen [Stielbasis mit fast gerandeter Knolle. Zystiden mit großem, bis 6 µm breitem Kopf]. Stielbasis höchstens leicht verdickt, Köpfe der Zystiden klein. Ohne Ammoniakreaktion. $ C. mesospora (Kühn. ex) Kühn. & Watl.
+18,0,N$///Hut 1-3,5 cm, glockig, stumpfkegelig bis konvex, mitunter stumpf gebuckelt, orangeocker bis ockerbraun, trocknend ockerblaß, cremegelb, Lamellen gedrängt, Schneide ± ganzrandig. Stiel 3-7/1-2 cm, basal leicht verdickt, jung weißlich oder gelblichblaß, lange hell biet- bend, an der Spitze oder gänzlich fein gerillt, uunten Lupe bereift. ///Sporen 7-10 (11)/4,5—5,5 µm. Zystiden 15-27/7-11/3,5-5 µm. - Nicht selten.
+
+19,0 $ Sporen 13-18 (22)/7-10 (12) µm. Auf Pferdemist oder überdüngten Böden. $ C. pubescens (gill.) Kühn. ss Kühner & Romagnesi 1953
+19,0,N$///Hut 0,8-2 cm, kegelig-glockig, feucht ockerbraun und bis zur Mitte durchscheinend gestreift, bis creme ausblassend, Lamellen kaum gedrängt, Schneide blasser. Stiel 5-12/0,1-0,3 cm, mit deutlichem, weißlichem Knöllchen, Spitze blaß, nach unten rostgelb. ///Basidien 4-, seltener 2-sporig. Zystiden 15-30/6-10/3—4 µm /// ///(Ähnlich ist C. farinacea Watl. mit starkem Mehlgeruch und Sporen 11-14/7-9 µm. 
+19,20 $ Sporen kleiner. An anderen/ Standorten
+
+20,0 $ Basidien 2-sporig C. ambigua Watl.
+20,0,N$///Hut 0,5-2 cm, stumpf-kegelig bis glockig öder konvex, feucht bis zur Mitte durchscheinend gestreift, ockerrötlich bis zimtbräunlich. Lamellen ocker, oft hell, Schneide kaum blasser. Stiel 8-9/0,05-0,2 cm, Basis bisweilen leicht verdickt, jung weiß mit bräunlicher Basis, bald gelblich bis rostbraun und nur Spitze blaß, oft glänzend, Spitze unter Lupe fein bemehlt. ///Sporen (10) 11-14 (17)/6-8 (9) µm, im Profil leicht mandelförmig (Abb. 21). Zystiden 15-25/6-10/2,5-4 µm. An der Stielspitze zahlreiche kopfige Zystiden, zusammen mit verschieden geformten Zellen 
+20,21 $ Basidien 4-sporig
+
+21,0 $ Sporen (11) 12-16 (17)/7-9 µm. Basidien breitkeulig, bis 13 (15) µm breit (Abb. 16). Häufige Art. $ C. pseudopilosella (Kühn, Ex) Kühn. & Watl 
+21,0,N$///Hut 0,5-1,5 cm, bleibend kegelig-glockig, feucht bis zur Mitte durchscheinend gestreift, lebhaft ocker, rötlichocker oder ockerbraun. Lamellen ocker bis rotbräunlich, ziemlich dunkel. Stiel 3-8/0,05-0,15 cm, Basis leicht verdickt, meist kräftig gefärbt, Spitze blaß bis honiggelb, darunter ockergelb bis rostbraun. ///Zystiden 15-24/6-10/2.5-4 µm. ///- Grünland, Waldwege usw. Gesellig
+21,0 $ Sporen (10) 11-13 (14)/6-8 µm. Basidien bis 10 (11) µm breit (Abb. 15) $ C. subpubescens P. D. Orton
+21,0,N$///Hut 1-3 cm, stumpfkegelig, orangeocker bis gelbbraun. Lamellen kaum bauchig, oft schmal, reif rötlich braun. Stiel 3-10/0,1-0,25 cm, Knöllchen bis 5 mm, Spitze lange weiß bis blaßgelb, nach unten kräftig rostgelb bis schmutzig braun. ///Zystiden 15-25/7-10/3-5 µm. ///- Wälder, feuchte Standorte.
+
+
+Cs2,0 $ Ochromarasmius
+
+1,2 $ Fruchtkörper klein, dünnstielig gebrechlich
+2,0 $ Sporen feinwarzig (Immersion!). $ C. dumetorum (Vel.) Svr.
+2,0,N$///Hut 0,6-1 (1,2) cm, konvex, bald flach, oft leicht gebuckelt, ocker bis ziegelrötlich, Mitte dunkler. ///Lamellen bauchig, angeheftet, Schneide blaß gezähnelt, ///Stiel 0,8-2,5/0,05/0,1 cm, mit Knöllchen, jung , weißblaß, itn unteren Drittel rotbräunlich, schmutzig braun, gänzlich weiß bemehlt. ///Sporen 6—8,5 (10)/3-5 µm ± mandelförmig bis (schmal) ellipsoid, apikal oft schnauzenartig verschmälert, feinwarzig (Abb. 2). ///Zystiden 20-25/8-14/4,5-8,5 µm (Abb. 3).///;- Auf Erde, Rohhumus, bemoostem Holz; besonders auf basischen Böden .
+
+
+Cs3,0 $ Schlüssel II - Pilosellae. (Zystiden vom Conocybe-Typ nur an der Lamellenschneide, Köpfe stets klein, 5 [im 0 kaum überschreitend. Stiel ohne solche Zystiden, aber mit verschieden geformten, zystide na rügen Zellen (Abb. 26, 29). Ammoniakreaktion negativ.) 
+
+1,2 $ Hut und Stiel blaß ocker oder weißlich, Hut meist nicht durchscheinend gestreift.
+1,4 $ Kräftiger gefärbte Arten. Hut feucht durchscheinend gestreift.
+
+2,0, $ Hut schmal glockig. Stiel rein weiß. Basidien 4-sporig. $ C. lactea (Lange) Metrod
+2,0,N$///Hut 1-1,8 cm breit, bis 2,5 cm hoch, schmal-glockig oder walzenförmig, milchweiß, elfenbeinblaß, Mitte bisweiten gelblich, frisch klebrig. Lamellen schmal, blaß, dann ockergelb, ockerbräunlich oder zimtrötlich. Stiel 5-12/0,1-0,25 cm, Knolle bis 8 (10) mm, glänzend weiß, gerillt, weißflockig, feucht wie der Hut, flaumig-behaart (Abb. 24). ///Sporen (10) 11-15 (17)/7—9 µm. ///- Gedüngte Wiesen, Gärten, Parkrasen  usw.
+2,3 $ Hut halbkugelig, kegelig-glockig. Stiel nicht rein weiß. Basidien oft 2-sporig.
+
+3,0 $ Fruchtkörper oft kräftig und langstielig, Basidien meist 2-sporig (Abb. 27), seltener 4-sporig. 0ft auf Dung. Häufige Art. $ C. rickenii (J. Schff.) Kühn.
+3,0,N$///Hut 1-3 (5) cm, jung ± eiförmig, dann kegelig-glockig bis halbkugelig, feucht blaß ocker, oft mit Olivstich (nach längerem Regen auch durchscheinend gestreift), bald creme, schmutzig-blaß. Lamellen ziemlich gedrängt bis fast entfernt, jung blaß, dann gelbocker, Stiel 10/0,1-0,4	cm, weiß bis schmutzig-blaß, alt oft ± ockerlich, ± gerillt. ///Spören (11) 12-16 (18)/V10 µm (2-sporige Sippe) (Abb. 28), 10-12/6-7 µm (4-sporige Sippe). Stieloberfläche mit Büscheln blasiger bis haarförmiger Zellen (Abb. 29). ///— Auf Dung, gedüngten Böden, Holzkohle.
+3,0 $ Fruchtkörper schmächtig, Basidien stets 2-sporig. Im Grünland auf Erde. $ C. siliginea (Fr. : Fr.) Kühn.
+3,0,N$///Hut 0,5-1,5 cm, glockig, oft halbkugelig bis konvex, creme, grauweiß, ockergrau, kaum ausbkissend. Lamellen ockergelb bis zimtbräunlich. Stiel 3-7/0,1-0,15 cm, Basis ,verdickt, weißblaß, Basis bräunlich, ± gerieft. ///Sporen 11-14 (16)/6,5-8 (9) µm. Zystiden 20-22/7-10/3-4,5 µm.
+
+4,0 $ Stiel mit breiter Knolle. Basidien 2-sporig. Sporen 14,5-17,5/7,5- (8) µm, leicht mandelförmig. $ C. inocybeoides Watl.
+4,0,N$ = C. bulbifera ss. Kühner & Romagnesi 1953///Hut. 1-4 cm, kegelig, konvex, feucht ledergelblich, ausblassend. Lamellen blaß bis rostbraun. Stiel bis 8/0,6 cm, mit gerandeterr bis 12 mm breiter Knolle, nur an der Spitze oder gänzlich weiß, dann von unten her rostbraun, weißflockig, gerillt. ///Zystiden 15,5-18,5/7,5- 8,5/3-^4 µm. Im Habitus an Inocybe asterospora erinnernd.
+4,5 $ Stielbasis nicht so stark knollig, Basidien 4-sporig. Sporen meist kleiner, ± ellipsoid.
+
+5,0 $ Hut und Stiel fleisch- bis kupferrot. $ C. fragilis (Peck) Sing
+5,0,N$///Hut 1-2,5 cm, stumpfkegelig, satt fleisch rot, auch wein- oder kupferrot, feucht mehr fleischbraun und bis zur Mitte durchscheinend gestreift. Lamellen gedrängt, schwach bauchig, rostgelb bis rostbraun, Schneide heller. Stiel 2,5-6/0,05-0,1 cm, schwach knollig, Spitze blaß, sonst dem Hut gleichfarbig, auf ganzer Länge gerillt und weißflockig. ///Sporen 8-10/5-6 µm. Vakuolen der Huthautzellen mit rotem Saft gefüllt. 
+5,6 $ Fruchtkörper anders gefärbt.
+
+6,7 $ Sporen bis etwa 9 |xm lang.
+6,8 $ Sporen länger.
+
+7,0 $ Sporen unten Mikro fast farblos. $ C. leptospora Zschieschang ad .int.
+7,0,N$///Hut 0,5-1,5 cm, stumpfkegelig bis konvex, ockerbraun, rußigbraun, Mitte dunkler, trocknend graubraun bis cremegrau (ähnlich C. moseri). Lamellen kaum gedrängt bis fast entfernt, blaß ocker bis ockergelb. Stiel 1,5-3/0,05-0,1 cm, Knöllchen bis 2,5 mm, weißlich, Basis schmutzig rötlich, oft silbrig glänzend, weißflockigr ///Sporen 6,5- 8,5 (9,5)/4-5 µm, sehr blaß, dünnwandig, im Profil bisweilen leicht mandelförmig, Keimporus kaum sichtbar.
+7,0 $ Sporen normal gefärbt. $ C. pilosella(Pers. : Fr.) Kühn.
+7,0,N$///Hut 1-2,5 (3,5) tm, kegelig-glockig bis konvex, auch niedergedrückt, feucht sehr dicht durchscheinend gestreift, ockergelb bis ockerbraun. Lamellen auffallend gedrängt. Stiel 3-6 (9)/0,1-0,2 (0,3) cm, Basis schwach knollig, Spitze lange weißlich bis ockerblaß, Basis rostbraun, weißflockig. Sporen 6-8,5/3,5-4,5 µm, ellipsoid, im Profil leicht mandelförmig, Keimporus klein (Abb. 22). ///- Bisweilen an morschem Holz. /// ///===>Vgl. C. brunneola
+
+8,0 $ Hut mit schmutzigen, grauen Farben. .$ C. moseri Watl.
+8,0,N$///Hut 0,5-1,5 cm, glockig-kegelig oder halbkugelig, feuqht schmutzig rußbraun, auch mit olivlichem Ton, trocknend graubraun bis schwarz- grau. Lamellen fast gedrängt, ocker. Stiel 4-6/0,05-0,1 cm, ohne Knöllchen, blaß odcer bis bräunlich., Spitze bloß, kaum flockig oder bereift. ///Sporen 8,5—11,5 (13)/5-7 µm, eiförmig-ellipsoid, im Profil leicht mandelförmig. Stieloberfläche mit Büscheln zystidenartiger Zellen verschiedener Form (Abb. 26).
+8,9 $ Hut anders gefärbt.
+
+9,0 $ Sporen oft leicht hexagonal (vgl. G . antipus). $ C. lenticulospora Watl.
+9,0,N$///Hut 0,5-2,5 cm, kegelig, glockig oder konvex, feucht urnbra, dattel- braun oder rötlichbraun, Mitte dunkler, trocknend blaß ocker. Lamellen bauchig, ziemlich gedrängt, reif zimtocker. Stiel 2-7/0,05—0,15 cm, Basis leicht verdickt, Spitze creme, darunter cremegelblich, von unten dattelbraun verfärbend. ///Sporen 10-12.5/6-7/7-8,5 µm, linsenförmig, von vorn eiförmig oder breit elliptisch, oft leicht hexagonal. ///- Auf Pferdemist. - Aus der DDR nicht sicher nachgewiesen.
+9,10 $ Sporen nicht hexagonal.
+
+10,0 $ Sporen 9,5-13 (14,5)/6-8,5 µm. ). $ C. kuehneriaua Sing.
+10,0,N$///Hut 1-2,5 cm, kegelig glockig öder halbkugelig, ocker bis bräunlich, trocknend blaß bräunlich, cremegrau, Mitte dunkler/ Lamellen ockerbraun, Schneide meist gleichfarbig. Stiel 3-8/0,05-0,15 cm, kaum knollig, Spitze weißlich, dann gänzlich ockergelb bis rostbraun, Basis schmutzig rotbraun. ///Sporen eiförmig, im Profil ellipsoid, dickwandig, mit großem Keimporus (Abb. 23
+10,11 $ Sporen kleiner [9,5-13 (14,5)/6-8,5 µm].
+
+11,0 $ Große, dunkel gefärbte Art $ C. anthracophila (Maire & Kühner) Kühner & Watling
+11,0,N$///Hut 1-3 cm, kegelig-glockig, Rand oft wellig und bisweilen aufgebogen, ockerbraun bis rötlichbraun, Mitte oft dunkler feucht dicht durchscheinend gestreift. Lamellen gedrängt, ockerbraun. Stiel 4-8/0,15-0,2 cm, anfangs oft gänzlich weißblaß, schließlich ocker bis rötlichbraun, glänzend, bis zur Basis gerillt, in der oberen Hälfte weißflockig. ///Sporen 10-11,5 (12)/6,5-7,5 µm, frontal eiförmig, Im Profil ellipsoid, ziemlich dickwandig, Keimporus deutlich, ///- Brandstellen, Gärten, anthropogene Standorte. ///- Kein Nachweis aus der DDR. 
+11,0 $ Fruchtkörper kleiner und heller gefärbt. $ C. sienophylla (Berk. & Br.) Sing.
+11,0,N$///Hut 0,6-1,2 cm, kegelig-glockig bis halbkugelig oder konvex, heller oder dunkler ocker, bis blaß ledergelb oder weißlich austrocknend. Lamellen fast entfernt, ocker, oft hell., Stiel 3-7/0,05-0,1 cm, Basis kaum knollig, Spitze weißlich, nach unten honiggelb bis ocker, Basis schmutzig bräunlich, feucht glänzend, undeutlich bereift. Sporen (7,5) 8,5-11 (12)/(4) 5-6 (7) µm, ellipsoid, mit großem Keimporus. ///-Grünland. Äcker	
+
+
+
+cs4,0 $ Schlüssel III  -  G a l e r e I I a . P i l i f e r a e_. (Zystiden vom Pholiotina-Typ. Ohne Velum).
+
+1,0 $ Hut bald ± flach. Stiel bis etwa 3>cm lang. $ C. plicatella (Peck) Kühner
+1,0,N$///Hut 0,5—1,5 cm, kegelig, halbkugelig^ bald konvex bis flach, häutig, feucht lange und dicht durchscheinend gestreift, klebrig oder etwas x schleimig, blaß ocker, Mitte dunkler, über den Rücken der Lamellen aufspaltend. ///Lamellen fast entfernt, ockergelb bis ockerrötlich, Schneide weißflockig. ///Stiel 1,5-3,5/0,07-0,15 cm, mit rundlichem Knöllchen, weiß alt blaß ledergelb, gänzlich flockig-bereift. ///Sporen 7-10,5/4,5-6,5 µm, eiförmig-ellipsoid, ziemlich dünnwandig, Keimporus klein. Zystiden wellig-zylindrisch mit bauchiger Basis, 30-60/8-10/2-5 mm (Abb. 30).
+
+1,0 $ Hut kegelig-glockig und so bleibend, Stiel bis 12 cm lang. $ C. conocephale (Bull.:Fr.)
+1,0,N$ = Bolbitius conocephalus ss. Ricken - Ungeklärte Art./// ///Hut 1,5-2 cm, kegelig-glockig, zimtgrau, rotbraun, hygrophan, trok- ken tonblaß, fast bis zum klebrigen Scheitel spaltend-gerieft. Lamellen schwach bauchig, frei, fast zimtrot mit weißlicher Schneide, schwärzend. Stiel 7-12/0,2 cm, blaß, hohl. ///Sporen 10-11/7-8 µm, ellipsoid. Zystiden 60-80/12-13 µm, spindelig mit stumpfer Spitze.
+
+
+
+cs5,0 $ Schlüssel III  -  G a l e r e l l a . P i l i f e r a e .  (Zystiden vom Pholiotina-Typ. Ohne Velum)
+
+1,0 $ Auf Mist wachsend. $ C. coprophila (Kühn.) Kühn.
+1,0,N$///Hut 0,7-2,5 cm, halbkugelig, konvex, blaß ocker; bis cremegelblich, jung nicht durchscheinend gestreift und leicht schmierig. Lamellen blaßgelb bis rostbraun, Schneide weißflockig. Stiel 1-4/0,1-0,2 cm, jung weiß, Spitze bereift, unten weißfaserig, Basis wollig-filzig und mitunter leicht verdickt (Abb. 31). ///Sporen 10-14/6,5-8 µm, breit-ellipsoid, unten Mikro goldgelb, dickwandig, Keimporus breit. Zystiden zylindrisch-bauchig, Spitze ahgerundet, 20-35/7-11 1 /4-6 µm (Abb. 32).
+1,2 $ Nicht auf Mist.
+
+2,3 $ Cheilozystiden zylindrisch oder flaschenförmig, oben abgerundet bis leicht-kopfig; Stielbasis bisweilen blaugrün.
+2,4 $Cheilozystiden von anderer Form; Stielbasts, nie blaugrün.
+
+3,0 $ Sporen feinwarzig, (8,5) 9,5-11,5(13,5)/5-7 (7,5) µm. $ C. subverrucispora Veselsky & Watl
+3,0,N$///Hut 1,5-3,5 (4) cm, kegelig-glockig bis konvex, schmierig, kastanien- bis orangebraun, später isabell, Rand oft etwas dunkler, besonders in Exsikkaten. Lamellen gedrängt, tonblaß bis orangebraun, schließlich zimtfarben, Schneide jung blaß gezähnelt. Stiel 4,5-8,5/0,2-0,4 (0,6) cm, silbrig-weiß, glänzend, selten bläulich. ///Sporen breit ellipsoid bis mandelförmig, fein warzig (immersion !), Keimporus klein. Cheilozystiden 17-30 (60)/6-13,5/2,5-8,5 µm, keulig, zylindrisch oder flaschenförmig, bisweilen schwach kopfig. Pileozystiden breit zylindrisch bis keulig; Caulozystiden oft kopfig. ///- Feuerstellen, grasige Wälder, steinige Böden. ///- Aus der DDR bisher nicht bekannt. . .
+3,0 $ Sporen glatt, 7-9 (10)/4-5 (5,5) µm. $ C. cyanopus (Atk.) Kühn.
+3,0,N$///Hut 0,8-2 cm, stumpfkegelig, halbkugelig oder konvex, oft leicht gebuckelt, feucht rötlich-ocker bis dattelbraun, bis ledergelblich ausblassend. Lamellen fast entfernt, Schneide weißflockig. Stiel 1-4/ 0,1-15 cm, gleichdick oder mit etwas verdickter Basis, weiß, grauweiß, schimmernd, Basis alt oder berührt blaugrün. ///Zystiden 20-38/ 7-10/3-5 µm, flaschenförmig, mit ± langem Hals mitunter leicht köpfig (Abb. 33).
+
+4,0 $ Zystiden schlauchförmig (Abb. 34). $ C. utriformis P. D. Orton
+4,0,N$///Hut 1,3-2 cm, glockig bis konvex, bisweilen stumpf gebuckelt, rötlichgelb oder honigocker, trocknend ockerweißlich. Lamellen fast entfernt. Stiel 4-8/0,1-0,2 cm, Basis leicht knollig, weiß, dann weißlich, auf ganzer Länge weiß bereift. ///Sporen 8-11/4,5-5,5 µm, ellipsoid bis leicht mandelförmig. Zystiden 32-50/8-12/6-12 µm, ± schlauchförmig, vereinzelt keulig (Abb. 34). ///- Zwischen Sauergräsern.
+4,5 $ Zystiden von anderer Form [schlauchförmig (Abb. 34)]
+
+5,0 $ Relativ kräftige Art Stiel meist deutlich gerieft. $ C. striaepes (Cke.) Lund.
+5,0,N$= C. pygmaeoaffinis ss. Kühn./// ///Hut 2-4 (5) cm, kegelig-glockig, dann konvex und oft flach gebukkelt, feucht ocker, trocken ledergelblich, bis creme, Rand höchstens schmal durchscheinend gestreift. Lamellen gedrängt, blaßgelb bis zimt- ocker, Schneide weißflockig und bei feuchtem Wetter oft tränend. Stiel 4-8 (10)/0,2—0,5 cm, gleichdick, etwas zäh, völlig weiß, auf ganzer,Länge gerieft und weißklelig. ///Sporen 7-9 (10)/4-5 (5,5) µm, blaß gelb, ellipsoid, im Profil leitcht mandelförmig. Zystiden 25-40/5-8 µm, pfriemförmig zugespitzt (Abb. 35)/// 
+5,6 $ Kleinere Arten. Stiel kaum gerieft.
+
+6,0 $ Zystiden 4-7 µm breit. Sporen 6-8 (8,5)/3,5-4,5 µm, Keimporus undeutlich. $ C. mairei (Kühn. ex) Watl. 
+6,0,N$///Hut 0,5-1 cm, stumpfkegelig bis konvex, blaßocker oder tonbräunlich mit dunklerer Mitte, bis creme ausblassend, weiß bereift. Lamellen ziemlich entfernt, bauchig, ockerbräunlich, Schneide fein bewimpert. Stiel 1-2,5 (4)70,05-0,1. cm, Basis oft keulig verdickt, weißlich, alt creme bis gelblich, oft fein flaumig (Abb. 36). ///Zystiden 15-30/4-7/1,5-2 µm, mit schnabelartiger, ± abgesetzter Verlängerung (ähnlich Alnicola) (Abb. 37). 
+6,0 $ Zystiden 7-10 (14) µm breit. Sporen (7), 8-10/(4) 5-6 µm, Keimporus deutlich. $ C. aberrans (Kühn.) Kühn.
+6,0,N$///Hut 0,4-1,2 cm, stumpf kegelig-glockig, bis zur Mitte durchscheinend gestreift, ockerrötlich oder ockerbraun, bis ockerweißlich ausblasend. Lamellen leicht bauchig. ockerbraun. Stiel 2-4 (5)/0,5-1(1.5) µm, nach unten keulig verdickt, weiß, alt auch gelblich, bis zur Basis bereift (Abb. 38). ///Zystiden 35-50 (70)/7-10 (14) µm, Basis bauchig, nach oben allmählich verjüngt (Abb, 39). ///- Brandstellen, an Holzstäckchen und auf der Erde. , .... 
+
+
+
+cs6,0 $ Schlüssel IV  - Pholiotina. (Mit ± deutlichem Velum.)
+
+1,2 $ Stiel beringt (Ring bisweilen flüchtig oder am Hutrand haftend).
+1,7 $ Stiel unberingt, aber Hutrand oft vom Velum gezähnt oder behangen; reife Fruchtkörper mitunter (fast) kahl.
+
+2,3 $ Sporen bis 12 (13) µm lang.
+2,4 $ Sporen bis 10 µm lang.
+
+3,0 $ Basidien 2-sporig. Zystiden rundlich, . sackförmig, spindelig, flaschenförmig usw. (Abb. 41). $ C. teneroides (Lge.) Kits v. Waveren 
+3,0,N$ vgl. auch. C. filaris !///Hut 0,6-1,2 cm, kegelig-glockig bis konvex, manchmal etwas runzelig, gelbocker, stark ausblassend, Rand bald ungestreift. Lamellen ziemlich gedrängt, ocker, Schneide weiß gezähnt. Stiel 2-6/0,15-0,2 cm, jung seidig glänzend, Spitze blaß und fein bemehlt, Basis dunkelbraun; Ring oft beweglich, abfällig (Abb. 40). ///Sporen (11) 12-13 (14,5)/(5,5) 6-7 (8) µm, Keimporus groß. Zystiden 20-40/10-30 µm, sehr variabel (Abb. 41). 
+3,0 $ Basidien 4-sporig. Zystiden bauchig-flaschenförmig mit meist deutlich abgesetztem Hals (Abb. 42). $ C. blattaria (Fr.) Kühn ss. Kits v. Waveren
+3,0,N$///Hut 0,5-2 cm, stumpf kegelig-glockig bis konvex, oft breit gebuckelt, gelbbraun, gelblich ausblassend, bisweilen runzelig. Lamellen zimtraun, Schneide flockig-gezähnelt, weiß. Stiel 3-8/0,1-0,3 cm, Basis leicht vedickt, jung weißlich, seidig glänzend, bald ockergelb und Basis bräunlich, Spitze bereift; Ring dauerhaft, bisweilen beweglich. ///Sporen 10-12,5/5,5-7 µm. Zystiden 25-40/7-25 µm (Abb. 42).
+
+4,0 $ Sporen ohne Keimporus. Fruchtkörper relativ gedrungen. Im Frühjahr wachsend. $ C. aporos Kits v. Waveren
+4,0,N$///Hut 1-4 cm, glockig-halbkugelig bis flach, bisweilen stumpf gebuckelt, ockerbraun, Mitte dunkler, ausblassend. Lamellen gedrängt, bauchig, dunkel ockerbraun, Schneide weiß gezähnelt. Stiel 2-5/0,15-0,4 cm, Basis leicht verdickt oder keulig, Spitze holzblaß, nach unten rostgelb bis dunkelbraun, jung seidig glänzend; Ring ± dauerhaft, gerieft. Geruch leicht nach Pelargonium. (Abb.43). ///Sporen 8-10/ 4,5-5,5 µm (Abb. 44). Zystiden 20-60/5-10/3-8 µm, fädig bis flaschenförmig, Spitze abgerundet bis keulig verdickt (Abb. 45).
+4,5 $ Sporen mit Keimporus. Meist später im Jahr wachsend.
+
+5,0 $ Zystiden flaschenförmig. Schmächtige Art. $ C. filaris (Fr.) Kühn.
+5,0,N$///Hut 0,5-2 cm, kegelig, glockig-halbkugelig, seltener konvex, oft runzelig, feucht rötlichbraun, gelbbraun oder braun, Mitte dunkler, bald ausblassend. Lamellen kaum gedrängt, bauchig, ockerbraun, Schneide weiß. Stiel .1-4/0,07-0,15 cm, Spitze gelblichblaß, bereift, unterhalb des Ringes blaß faserig-flockig auf braunem Grund. ///Sporen 8-10/4,5-5,5 µm, Basidien 4-sporig, mitunter 4- und 2-sporig und dann Sporen bis 12,5/6 µm. Zystiden 25-50/5-12/1,5-3 µm, flaschenförmig, Hals nach oben ± verjüngt und vom bauchigen Teil kaum deutlich abgesetzt (Abb. 46).
+5,6 $ Zystiden nicht flaschenförmig. Etwas größere Arten. 
+
+6,0 $ Zystiden meist zylindrisch-fädig, nie keulig, Spitze bis 4 µm breit (Abb. 47). $ C. arrhenii (Fr.) Kits v. Waveren 
+6,0,N$///Hut 1-3 cm, glockig bis konvex, oft flach gebückelt, rötlichbraun, trocknend ockergelb mit dunklerer Mitte. Lamellen mäßig gedrängt, ocker-braun, Schneide weiß. Stiel 2-6/0,15-0,3 (4) cm, Basis schwach keulig, Spitze weißflockig, mit weißem, silbrig glänzendem Faserüberzug, darunter blaß-bis dunkelbraun; Ring dauerhaft, stark gerieft. (Abb. 48). ///Sporen 7-9/4-4,5 (5) µm, Keimporus klein, oft undeutlich. Zystiden 20-50/3-7 (9)/1,5-4 µm, zylindrisch-fädig, oft verborgen, Basis mitunter leicht angeschwollen, seltener flaschenförmig (Abb. 47). . . . . 
+6,0 $ Zystiden zylindrisch-verbogen, oft keulig-kopfig, Spitze > 4 µm, 30-50/ 5-10/5-10 (15) µm. $ C. arrhenii var. hadrocystis Kits v. Waveren 
+6,0,N$ = C. hadrocystis) (Kits v. Waveren) Watl./// Hut 1-3 cm, glockig bis konvex, oft flach gebückelt, rötlichbraun, trocknend ockergelb mit dunklerer Mitte. Lamellen mäßig gedrängt, ocker-braun, Schneide weiß. Stiel 2-6/0,15-0,3 (4) cm, Basis schwach keulig, Spitze weißflockig, mit weißem, silbrig glänzendem Faserüberzug, darunter blaß-bis dunkelbraun; Ring dauerhaft, stark gerieft. (Abb. 48). ///Sporen 7-9/4-4,5 (5) µm, Keimporus klein, oft undeutlich.///- Bisher für die DDR nicht nachgewiesen. . . 
+
+7,0 $ Zystiden mit rundlichem, abgesetztem Kopf. $ C. brunnea (Lge. & Kühn.) ex Watl.
+7,0,N$///Hut 0,8-1,6 cm, konvex, oft flach gebuckelt, feucht rötlichbraun, trocknend ockergelb, Mitte dunkler, Rand vom weißen Velum behangen. Lamellen kaum gedrängt, rostbraun, Schneide weißlich. Stiel 2—5/ 0,1—0,3 cm, Basis verdickt, gelbocker, abwärts braun. ///Sporen 6-9/ 3,5-5 µm, ellipsoid, im Profil ± deutlich zylindrisch-bohnenförmig. Zystiden 20-45/5-8 µm (Abb. 49),
+7,8 $ Zystiden nicht mit rundlichem, abgesetztem Kopf.
+
+8,0 $ Stiel und Fleisch gänzlich reinweiß. $ C. subnuda Kühn. (nom. nud.) 
+8,0,N$///Hut 1-3 cm, flach-kegelig, konvex, einfarbig ockerbraun, Rand sehr junger Fruchtkörper mit Velumfasern, bald kahl. Lamellen bauchig, ockergelb, Schneide weißgezähnelt. Stiel 1,5-6,5/0,15-0,45 cm, obere Hälfte gestreift und weiß bemehlt. ///Sporen 8,5-10 (13)/4,5-5,7 (6,5) µm, fein runzelig (immersion !). Zystiden 26-33/5-8 µm, zylindrischsackförmig, bisweilen leicht keulig-kopfig. ///- In der DDR nicht sicher nachgewiesen.
+8,9 $ Stiel und Fleisch blaß bis bräunlich.
+
+9,0 $ Hutrand vom weißen Velum zottig und dauerhaft behangen. $ C. vestita (Fr.) Kühn.
+9,0,N$///Hut 1-3 cm, glockig-halbkugelig bis konvex, rötlichocker bis ockerbraun. Lamellen ziemlich gedrängt, ockerbraun. Stiel 1,5-5/0,1-0,3 cm, blaß, abwärts ockerbraun, stark bräunend, oft mit Velumflöckchen. ///Sporen 6-8,5/4-5 µm im Profil leicht mandelförmig. Zystiden 35-50/6,5-10/4-7,5 µm, zylindrisch-flaschenförmig, oft verbogen (Abb. 50). ///- Laubwald, feuchte, schattige Stellen. ///- Kein sicherer Nachweis aus der DDR.
+9,10 $ Velum weniger kräftig und dauerhaft.
+
+10,0 $ Zystiden ± keulig-kopfig. $ C. appendiculata Lge. & Kühn. ex Watl.
+10,0,N$///Hut 0,6-2 (2,5) cm, kegelig-konvex, oft flach und breitgebuckelt, honiggelb bis ockerrötlich, relativ blaß, Rand vom weißen Velum gezähnt. Lamellen fast entfernt, creme bis ocker, oft hell, Schneide weißflockig. Stiel 2-6/0,1-0,2 cm, jung silbrigglänzend, bald rötlichocker, aufwärts bräunend (Abb. 52). ///Sporen (6,5) 7-8 (9)/4-5 (5,5) µm (Abb. 51). Zystiden 25-45/6-10/3-8 µm, oft verbogen, Basis angeschwollen, Spitze abgerundet oder keulig-kopfig (Abb. 53).
+10,11 $ Zystiden flaschenförmig.
+
+11,0 $ Sporen 7-9 (10)/4-5 µm. $ C. exannulata (Kühn. ex) Kühn & Watl.
+11,0,N$///Hut 1-3 cm, glockig-halbkugelig bis flach, rötlichocker bis braun, Rand blasser, mit spärlichen Velumresten (Lupe !): Lamellen ockerbraun, Schneide weißflockig. Stiel 2,5-4,5/0,15-0,4 cm, mit seidig glänzendem, faserigen Überzug, aufwärts bräunend, bisweilen mit faserigen Velumresten. ///Zystiden 35-45/8,5-11/3,5-5 µm, flaschenförmig (Abb. 54); an den Lamellenscheiden außerdem keulige bis eiförmige 10-20 µm breite sterile Zellen. ///- Aus der DDR bisher nicht bekannt.
+11,0 $ Sporen (8,5) 9-11 (12)/5-6 µm. $ C. dentotomarginata Watl.
+11,0,N$///Hut 0,7-2 em, konvex, mitunter leicht gebuckelt, meist einfarbig honiggelb bis gelbocker (ähnlich C. appendiculata ), bis creme-gelb ausblassend, Rand mit Velumresten. Lamellen fast gedrängt, angewachsen, bisweilen mit kleinem Zahn, gelbocker, Schneide weiß gezähnelt. Stiel 2-6/0,1-0,2 cm, Spitze blaß, weißflockig, abwärts ocker bis braun. Geruch nach Pelargonium (Abb. 55). ///Zystiden 30-50/7-10/3-4,5 µm, flaschenförmig.
+
+
+

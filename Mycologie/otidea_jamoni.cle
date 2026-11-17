@@ -1,0 +1,71 @@
+pl1  macro
+pl2  asques et spores
+pl3  paraphyses
+pl4 hymenium
+
+titre$Otidea Jamoni 
+com$ adapt JCV GF mars 09
+
+1,0$planche macro$.planche macro$f"Otidea-Jamoni_1.jpg"
+1,0$planche asques et spores$.planche asques et spores$f"Otidea-Jamoni_2.jpg"
+1,0$planche  paraphyses$.planche paraphyses$f"Otidea-Jamoni_3.jpg"
+1,0$planche hymenium$.planche hymenium$f"Otidea-Jamoni_4.jpg"
+1,0 $ Imenio color senape poi ocra, superficie esterna (excipulum) brunastro-bistro poi blu-violacea, pustolosa. Ascopori slanciati-cupulati. Ascopore 10-13(15)x6-7(8) µm. Abetaie subalpine. $ Mirabilis
+1,2 $ Imenio ed excipulum di colore diverso
+2,0 $ Ascocarpi auriculiformi, cupulati-lanceati. Imenio giovane nettamente rosa, excipulum giallo-arianco. Ascpospore 11-14x6-8 µm $ Onotica
+2,3 $ Combinazioni differenti
+3,4 $ Excipulum vivamente giallo, ocraceo (esemplari giovani)
+3,5 $  Excipulum con tinte diverse o se ocraceo allora non vivace
+4,0 $ Ascocarpo auriculiforme, slanciato, cupulato-lancolato (altezza > larghezza), di piccole dimensioni (taxon insufficentemente coniosciuto). Possibili anche forme di O. leporina. $ Onotica var. ochracea
+4,0 $ Ascocarpo tronco, tubinato (altezza ± = larghezza), Excipulum citrino giallo-limone. Imenio ± concolore di citrino-rosato. Parafasi larghe fino a 5 µm alla sommità. Ascopore 10-12x5,5-7 µm. Boschi di latifoglie (ved. Anche O. integra, piu robusta. Poca distinta). $ Concinna
+5,0 $ Ascocarpo tronco, interamente bianco. Ascocarpo lunghe 12-15 µm. (Specie insufficentemente coniosciuta). $ Alba
+5,6 $ Ascocarpo non bianco
+6,7 $ Ascospore < 10(12) µm
+6,12 $ Ascospore > 12 µm
+7,8 $ Ascocarpo tronco, ciatiforme, raramente slanciaro - e allora apice non lanceolato - Imenio crema-nocciola pallido. Parafisi a lungo con apice globoso-subcapitulato. (Probabile conspecificità per almeno 2 dei tre taxa considerati)
+7,9 $ Ascocarpo cupulato-auriculiforme-lanceolato. Parafisi incurvate all'apice
+8,0 $ Ascopore 10-12x6-7(8). Ascocarpo alto e largo fino 7 cm. $ Rainierensis
+8,0 $ Ascospore 8-10(12)x5-6(7) µm. Ascocarpo alto e largo 3-4 cm. $ Kauffmani
+8,0 $ Ascospore 9-10x5,5-6,5 µm. Ascocarpo alto fino a 8 cm. $ Alutacea var. microspora
+9,0 $ Ascocarpo  interamente scuro, bruno-vinoso. Ascopore 10-12(14)x6-7 µm fusoidi-subnaviculari  (ved.anche n. 16). Specie extra-europea ( ?) $ Smithii
+9,10 $ Ascocarpo non interamente scuro, imenio generalmente chiaro
+10,0 $ Solo excipulum scuro, pustulato. Ascospore 9-10,5x5,5-6 µm. $ Papillata
+10,0 $ Imenio crema-grigiastro, rugoso-labirintiforme. Excipulum ± concolore, vistosamente virante al rosa-vinato. Ascospore 8-10x4,5-5/11 µm. $ Otidea spec. (rubellotacta ad int.)
+10,11 $ Imenio ocra-bruno-pallido, giallino-nocciola chiaro. Excipulum giallo-brunastro pallido o al massimo color ruggine, non virante (Probabile conspecificità tra qualche taxon)
+11,0 $ Ascospore 9-10x5,5-6 µm. $ Nannfeldtii
+11,0 $ Ascospore 9-11x5-6 µm. $ Tuomikoskii
+11,0 $ Ascospore 8,5-11x5-6 µm. $ Leporina var. minor
+12,0 $ Ascocarpo visibilmente stipitato. Imenio giallo-oliva, excipullum più pallido. Ascopore lunghe 12-17 µm. $ Pedunculata
+12,13 $ Ascocarpo sessile o solo brevemente stipitato. Imenio di altro colore (se con sfumature oliva allora bruno-oliva, mai giallo-oliva)
+13,14 $ Ascospore subnavicolari-subfusiformi (ved.anche n. 17, 20, 21 b)
+13,18 $  Ascospore ellittiche
+14,0 $ Ascocarpo auriculiforme-subemisferico. Imenio marrone-bruno-oliva scuro. Excipulum più pallido, ocra-alutaceo. Ascopore 14-17x6-8 µm, (nomen dubium : taxon variamente interpretato). $ Umbrina
+14,15 $ Altre combinazioni
+15,0 $ Ascocarpo tronco. Imenio ocra-arancio. Excipulum bruno-oliva. Ascopore 14-18x6-8 µm. Specialmente presso pini. $ Grandis
+15,0 $ Simile alla precedente ma con excipulum pervaso da tinte ciclamino e molto grinzoso. Ascopore 13-14,5x6-6,5 µm. (Raccolto sotto studio - legit E. Campo - ). Presso Pinus pinea in areale mediterraneo. $ Grandis fo ? (maritima ad int.)
+15,16 $  Ascocarpo auriculiforme-cupulato
+16,0 $ Ascocarpo di grandezza medio-grande. Imenio bruno-marrone, excipulum bruno scuro con bitorzoli. Ascopore 14-16(17)x6-7(8) µm. $ Bufonia
+16,17 $  Ascocarpo minuto. Imenio da giallo-ocra a fulvo-grigiastro. Excipulum ± concolore. Specie insufficentemente conosciuta
+17,0 $ Ascopore 11-13x6-6,5 µm, talora anche ellittiche (nel typus lunghe 14-16 µm) Imenio crema-alutaceo. Excipulum grigio-cenere $ Felina (ss. Bres., Vel.)
+17,0 $ Ascospore fino a 26x11 µm, navicolari. Imenio piuttosto scuro. Excipulum um pò più pallido. $ Felina (ss. Boud. Grelet)
+18,19 $ Ascocarpo tronco o a forma di coppa
+18,22 $ Ascocarpo auriculiforme, sovente con base ± peduncolata e avvolta da abbondante tomento micelioso
+19,0 $ Ascopore 12-16x6-7,5 µm, lievemente ornementale. Simile a O. onotica. $ Unicisa
+19,20 $ Ascopore lisce
+20,0 $ Ascopore 13-17x7-9 µm, talora anche subnavicolari. Ascocarpo sessile, più largo che alto. Imenio grigio-beige-caffelatte, bruno pallido-cremeo. Excipulum livido-crema-beige ± concolore o più pallido. $ Alutacea
+20,0 $   - Ascopore 13-15(16)x6,5-7 µm. Imenio cinereo-livido-violaceo. Excipulum ± concolore o più pallido. Abetaie muschiose. (Racc. N. 2258 : vedi descr.) $ Otidea spec.
+20,21 $  Ascopore più grandi
+21,0 $ Ascocarpo uniformemente  ocra-brunastro (e allora poca differenziato dalla specie precedente - sinonimo ? = talora con sfumature rosa-violacee). Ascopore 16-20x9-11 µm (= indivisa Vel. = abietina ss. Boud.) $ Propinquata
+21,0 $  Simile elle due precedenti o più bruna. Parafisi talora ramose all'apice. Ascopore 16-18x7-8 µm. Boschi di latifoglie. $ Cochleata
+22,23 $ Ascopore 18-20x10-11 µm. lmenio bruno-rossastro, rugginoso. Excipulum concolore. Boschi di latifoglie
+22,24 $ Ascopore più piccole
+23,0 $ Parafisi larghe all'apice 2-3 µm. Pseudostipite con abbondante micelio. $ Caligata
+23,0 $ Parafisi larghe all'apice 3-5 µm. Cespitosa. $ Platyspora
+24,0 $ lmenio ocra-lilla-purpurea. Excipulum ocra-oliva. Ascopore 16x10 µm, (finement verruculose sec. Heim & Remy). Presso larici $ Lilacina
+24,25 $ Ascopore < 16 µm. habitat variabile.     (Gruppo di O. leporina)
+25,0 $ lmenio ocra-beige. Excipulum biancastro. Sotto abeti $ Reisneri
+25,26 $ Excipulum concolore all'imenio o virante su tinte più scure, mai Biancastre
+26,0 $ lmenio ocra-rosato. Excipulum crema poi rosastro, rugoso. Ascopore 12±15x7-9 µm $ Leporina var. rubescens
+26,27 $ lmenio ocra-fulvo-rugginoso, ocra-canella. Excipulum ± concolore $ 27"
+27,0 $ Ascopore 12-15x7-9 µm. Excipulum subliscio.Cespitosa sotto conifère $ Leporina
+27,0 $  Ascopore 11-13x7-7,5 µm. (Specie  poco conosciuta) $ Myosotis

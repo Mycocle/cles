@@ -1,0 +1,192 @@
+hebeloma Vesterholt.cle
+hebeloma_Vesterholt.gif
+
+titre$The genus Hebeloma FUNGI Of NORTHERN EUROPE - VOL. 3
+com$The genus Hebeloma, Jan Vesterholt 2005 /adapt GF 2010
+
+Keys to the species KEY TO SECTIONS AND SUBSECTIONS
+1,cs10$détails sections
+1,0$schémas spores et cystides$$f"hebeloma_Vesterholt.gif"
+1,2$Cortina present but often fugacious : caulocystidia only present at the top of the stem : cheilocystidia with a ±cylindrical apical part, often widened in lower half (fig. 5A-B) : perispore never loosening (PO)
+1,3$Cortina absent : caulocystidia often continuing to the base of the stem : cheilocystidia often with a different shape : perispore loosening or not (PO-4)
+2,cs1$Spores ellipsoid to ellipsoid-ovoid, mostly yellowish in water and KOH mounts, indextrinoid or weakly dextrinoid (DO-l).$Key A - sect. Hebeloma, subsect. Hebeloma, p. 28$s"sect. Hebeloma, subsect. Hebeloma"
+2,cs1,n$Cortina present; cheilocystidia with a ±cylindrical apical part, often widened in lower third; spores ellipsoid to ellipsoid-ovoid, indextrinoid or weakly dextrinoid (sect. Hebeloma, subsect. Hebeloma).
+
+2,cs2$Spores ovoid-amygdaliform to citriform, mostly brownish, weakly to strongly dextrinoid (D2-5), rarely almost indextrinoid (Dl).$Key B - sect. Hebeloma, subsect. Amygdalina, p. 29$s"sect. Hebeloma, subsect. Amygdalina"
+2,cs2,n$Cortina present; cheilocystidia with a ±cylindrical apical part, often widened in lower third; spores ovoid-amygdaliform to citriform, weakly to strongly dextrinoid (sect. Hebeloma, subsect. Amygdalina).
+3,0$Universal veil forming a membranous ring on the stem : stem continuing into a strongly rooting base : smell of marzipan, rarely weak.$H. radicosum, (sect. Myxocybe, subsect. Myxocybe), p. 104
+3,4$Universal veil present or absent but never forming a membranous ring on the stem : stem rooting or not : smell not of marzipan
+4,cs6$Smell strong and sweet.$Key F - sect. Myxocybe, subsect. Sacchariolentia, p. 32$s"sect. Myxocybe, subsect. Sacchariolentia"
+4,cs6,n$Cortina absent : smell strong and sweetish, penetrating (sect. Myxocybe, subsect. Sacchariolentia).
+
+
+4,5$Smell different (radish-like, cocoa-like, soap-like, tea-like, fruit-like) or indistinct
+5,0$Gills with a distinct pinkish tinge, spore deposit brownish red.$H. sarcophyllum, (sect. Porphyrospora), p. 132
+5,6$Gills without a pinkish tinge, spore deposit umber, sepia, dark brick or whitish
+6,cs5$Fruitbodies often ±rooting : smell never with radish-like components : gills without droplets : cystidia ±cylindrical or variable in shape.$Key E - sect. Myxocybe, subsect, Scabrispora, p. 32$s"sect. Myxocybe, subsect, Scabrispora"
+6,cs5,n$Cortina absent : fruitbodies +/- rooting : smell never with radish-like components : cystidia versiform (sect. Myxocybe, subsect. Scabrispora).
+
+6,7$Fruitbodies never rooting : smell usually with radish-like components : gills with or without droplets : cystidia weil differentiated and cylindrical, clavate, capitate or ventricose
+7,0$Spore deposit whitish.$H. domardianum (sect. Denudata, subsect. Hebelomina), p. 102
+7,8$Spore deposit umber to sepia or dark brick
+8,9$Cheilocystidia in majority ventricose with a cylindrical, apical part (fig. SC)
+8,10$Cheilocystidia cylindrical to clavate or capitate, sometimes both widened at apex and at base (figs SD-H)
+9,0$Stem coarse1y floccose in transverse be1ts, especially in the upper part, not discolouring from the base : nearly ail cheilocystidia ventricose.$H. sinapizans (sect. Sinapizantiai, p. 60
+9,0$Stem finely pruinose, especially in the upper part, discolouring from the base : ventricose cheilocystidia are intermixed with clavate cheilocystidia.$H. quercetorum (sect. Yelutipes, subsect. Aestivale), p. 72
+10,cs4$Spores indextrinoid or weakly dextrinoid (DO-2).$Key D - sect. Denudata, subsect. Denudata, p. 30 $s"sect. Denudata, subsect. Denudata"
+10,cs4,n$Cortina absent : fruitbodies not rooting : sme1l radish-like : cystidia clavate to capitate, often in addition widened in the basal part : spore deposit umber to sepia (sect, Denudata, subsect. Denudata).
+
+10,11$Spores distinctly to strongly dextrinoid (D3-4)
+11,0$Spores on average 4.4-5.3 µm broad.$H. theobrominum (sect, Theobromina), p. 62
+11,12$Spores on average> 5.5 µm broad
+12,cs4$Cheilocystidia typically widened both at apex and base (fig. S H).$Key D - sect. Denudata, subsect. Denudata, p. 30 $s"sect. Denudata, subsect. Denudata"
+12,cs4,n$Cortina absent : fruitbodies not rooting : sme1l radish-like : cystidia clavate to capitate, often in addition widened in the basal part : spore deposit umber to sepia (sect, Denudata, subsect. Denudata).
+
+12,13$Cheilocysitida cylindrical to subclavate, typically not much widened at apex or at base (fig. 5 E)
+13,cs3$Perispore never or only slightly loosening (PO-1) : stem with a rounded basal bulb.$Key C - sect. Velutipes, subsect. Velutipes, p. 30$s"sect. Velutipes, subsect. Velutipes"
+13,cs3,n$Cortina absent : fruitbodies not rooting : smell radish-like : cystidia clavate to capitate : cap dominantly pale, not hygrophanous : spores strongly dextrinoid (D3-4), verruculose (01-2), with a mostly non-loosening perispore (PO-l) (sect, Velutipes, subsect. Velutipes).
+13,0$Perispore distinctly loosening in most spores (P3) : stem usually without a basal bulb.$H. aestivale (sect. Velutipes, subsect. Aestivale), p. 68
+
+
+
+cs1,0$KEY A: Cortina present : cheilocystidia with a ±cylindrical apical part, often widened in lower third : spores ellipsoid to ellipsoid-ovoid, indextrinoid or weakly dextrinoid (sect. Hebeloma, subsect. Hebeloma).
+
+1,2$In the arctic or alpine zone, usually with Salix species
+1,5$In other types of habitat (not arctic or alpine zone)
+2,0$Cap umber to sepia, almost to the margin : exsiccata coriaceous.$See H. polare, p. 48
+2,3$Cap not so dark, bur often with a dark centre : exsiccata fragile to fairly tough
+3,0$Spores on average longer than 10.3 µm and broader than 5.8 µm : cap 10-24 µm broad, not fully expanding.$H. marginatulum, p. 42
+3,4$Spores on average shorter than 10.5 µm and narrower than 6.0 µm : cap 15-50 (-70) mm broad, fully expanded with age
+4,0$Epicutis mostly about 30 µm thick : stem rather short, only slightly discolouring with age : cap nearly unicoloured clay-buff to Isabella or cinnamon.$H. bruchetii, p. 40
+4,0$Epicutis > 50 J.1m thick : stem usually rather long, distinctly discolouring to brown from the base with age : cap typically bicoloured with a cinnamon to yellowish brown or umber centre and a pa 1er margin.$H. mesophaeum, p. 34
+5,0$Cap initially fairly pale, ±unicoloured : stem (4-)6-14 mm broad, often becoming sordid with age : not in sand dunes.$H. sordidum, p. 38
+5,6$Cap mostly with a clay-buff to cinnamon or umber centre and a paler, often greyish margin : stem often narrower : in sand dunes or in other habitats
+6,0$Spores on average < 10.5 µm long.$H. mesophaeum, p. 34
+6,7$Spores on average> 10.5 µm long
+7,0$Stem pale from the beginning, but not whitish, soon discolouring to brown from the base : sometimes subfasciculate : under Salix, Betula or Populus, often with Salix in coastal dunes.$H. collariatum, p. 44
+7,0$Stem white, only weakly discolouring with age : not fasciculate : only recorded with Salix in coastal dunes.$H. psammophilum, p. 46
+
+cs2,0$
+rem$KEY B: Cortina present : cheilocystidia with a ±cylindrical apical part, often widened in lower third : spores ovoid-amygdaliform to citriform, weakly to strongly dextrinoid (sect. Hebeloma, subsect. Amygdalina).
+1,2$Cap umber to sepia, almost to the margin
+1,3$Cap clay-buff to orange-brown with a paler margin
+2,0$Spores ellipsoid to ovoid : only found with dwarfish Salix species in arctic and boreal habitats : exsiccata coriaceous.$H. polare, p. 48
+2,0$Spores ovoid to amygdaloid : with Salix in arc tic and boreal habitats as weil as in lowland bogs and sand dunes : exsiccata rather fragile.$H. nigellum, p. 52
+3,0$Spores amygdaloid to subcitriform, often papillate, rarely > 12 µm long, strongly dextrinoid, D(3-)4 : exsiccata nearly always discoloured to dark brown : under Betula, Corylus, Quercus and possibly Fagus.$H. sordescens, p. 58
+3,4$Spores amygdaloid to ovoid, non-papillate, often > 12 µm long, dextrinoid but never strongly so, D( 1-)2-3 : exsiccata typically not discoloured to dark brown : under Salix, possibly also other hosts
+4,0$Stem 1-3 mm thick : cap 8-24 mm broad : in alpine habitats.$H. kuehneri, p. 52
+4,5$Stem (2-)3-8 mm thick : cap 15-50 mm broad : in lowlands as weil as in alpine habitats
+5,0$Cap margin white, contrasting the orange-brown centre : stem white with an orange-brown base : with Salix in humid Forest localities.$H. candidipes, p. 56
+5,0$Stem and cap less contrasting, appearance mesophaeum-like : with Salix in arctic/ alpine regions, less often with Salix or Betula in boreal woodland.$H. monticola, p. 54
+
+cs3,0$
+rem$KEY C: Cortina absent : fruitbodies not rooting : smell radish-like : cystidia clavate to capitate : cap dominantly pale, not hygrophanous : spores strongly dextrinoid (D3-4), verruculose (01-2), with a mostly non-loosening perispore (PO-l) (sect, Velutipes, subsect. Velutipes).
+1,0$Cheilocystidia on average < 6.0 µm broad at apex : only in moss in coniferous forests.$H. incarnatulum, p. 66
+1,2$Cheilocystidia on average> 6.9 µm broad at apex : under various trees and shrubs
+2,0$Cap diameter not exceeding 30 mm : spores on average 6.7-7.1 um broad : cheilocystidia distinctly clavate, apex on average 8.5-10.1 um broad : only in alpine habitats.$See H. alpinum, p. 78
+2,0$Cap diameter mostly exceeding 30 mm : spores on average 6.0-6.6 µm broad : cheilocystidia distinctly clavate, apex on average 6.9-8.9 µm broad : in lowlands as well as in alpine habitats.$H. velutipes, p. 64
+
+cs4,0$
+rem$KEY D: Cortina absent : fruitbodies not rooting : sme1l radish-like : cystidia clavate to capitate, often in addition widened in the basal part : spore deposit umber to sepia (sect, Denudata, subsect. Denudata).
+1,2$Species growing in alpine habitats with dwarf Salix or Dryas
+1,5$Not growing in alpine habitats with dwarf Salix or Dryas
+2,3$Stem 4-8 mm broad
+2,4$Stem 1.5-3.5 mm broad
+3,0$Cap < 30 mm broad : spores on average 6.7-7.1 µm broad.$H. alpinum, p. 78
+3,0$Cap mostly > 30 mm broad : spores on average 5.5-6.5 µm broad.$H. crustuliniforme, p. 72
+4,0$Spores ellipsoid-ovoid to subamygdaliform, on average 10.1-11.4 x 6.3-6.7 µm : fruitbody dominated by greyish colours.$H. subconcolor, p. 86
+4,0$Spores amygdaliform to citriform, on average 11.4-12.8 x 6.1-6.3 um : cap claybuff to yellowish brown and stem whitish.$H. minus, p. 84
+5,6$Cap dominantly white or whitish, at least in the outer part, in the centre often with yellow or brownish yellow tinges : spores pale yellow in the microscope
+5,9$Cap ±brown or with greyish colours : spores brownish yellow to brownish in the microscope
+6,0$Cheilocystidia on average < 7.0 µm broad at apex, median part often remarkably constricted and/or with wall thickenings.$H. fragilipes, p. 76
+6,7$Cheilocystidia on average> 7.0 µm broad at apex, median part not remarkably constricted or with wall thickenings
+7,0$Stem 2-5 mm wide : spores on average < 5.5 µm broad : cheilocystidia often rather abruptly capitate.$H. helodes, p. 74
+7,8$Stem> 5 mm wide : spores on average> 5.5 µm broad : cheilocystidia broadly clavate
+8,0$Spores dextrinoid (D2-3) : only recorded with Salix.$H. lutense, p. 100
+8,0$Spores indextrinoid (DO) : recorded with a wide range of broadleaved trees and conifers.$H. crustuliniforme, p. 72
+9,0$Stem 1-3 mm broad : with Salix.$H. pusillum, p. 82
+9,10$Stem 3-10 mm broad : with Salix or other hosts
+10,0$Spores indextrinoid or indistinctly dextrinoid (DO-1) : some cheilocystidia thick-walled in the median part.$H. hiemale, p. 80
+10,11$Spores distinctly to strongly dextrinoid (D2-4) : cheilocystidia rarely thick-walled in the median part
+11,12$Cheilocystidia on average> 8.71-1111 broad
+11,13$Cheilocystidia on average < 8.1 prn broad
+12,0$Sorne cheilocystidia very stongly and abruptly capitate, to 19(-22) µm broad : stem 3-6 mm broad.$H. vaccinum var. cephalotum, p. 90
+12,0$Cheilocystidia ±clavate, not abruptly capitate and not so broad : stem 4-12 mm broad.$H. populinum, p. 92
+13,0$Ixocutis very thin, about 20-30 µm : cap cinnamon coloured to the margin : spores narrowly amygdaloid to fusiform : found in a juniperus alvar with Pinus sylvestris.$H. alvarense var. alvarense, p. 94
+13,14$ Ixocutis rather thick, 50-150 µm : cap with less vivid colours, at least in the outer part : spores amygdaloid to citriform : with broadleaved trees or conifers
+14,15$Spores on average < 6.5 µm 
+14,16$Spores on average> 6.5 µm 
+15,0$Cheilocystidia often widened at base, not remarkably flexuose : perispore loosening in few to many spores (PI-2).$H. vejlense, p. 98
+15,0$Cheilocystidia rarely widened at base, often remarkably flexuose in the lower part : perispore not loosening (PO).$H. lutense, p. 100
+16,0$Flesh clay-buff to greyish buff, dark greyish buff or honey-coloured, subhygrophanous, fragile : stem 2.5-7 mm broad.$H. vaccinum var. vaccinum, p. 88
+16,0$Flesh whitish, not hygrophanous, not fragile : stem (5-)7-13 mm broad.$H. alvarense var. hinnuleum, p. 96
+
+cs5,0$
+rem$KEY E: Cortina absent : fruitbodies s rooting : smell never with radish-like components : cystidia versiform (sect. Myxocybe, subsect. Scabrispora).
+1,0$Spores ±cylindrical : in pine forests on poor and sandy soil.$H. cylindrosporum, p. 114
+1,2$Spores ±fusiform, amygdaloid or limoniform : often in different places
+2,0$Cap appearing dry : epicutis < 30 ).lm thick : in coniferous forests. $H. syrjense, p. 112
+2,3$Cap viscid to slimy : epicutis > 50 µm thick : in different types of habitat
+3,0$Perispore loosening in some to ail spores (P2-3).$H. birrus, p. 116
+3,4$Persipore not loosening or only slightly loosening in few spores (PO-1)
+4,5$Under broadleaved trees
+4,6$Under conifers
+5,0$Cap yellowish brown.$H. lundqvistii, p. 108
+5,0$Cap pale buffish to dark pinkish buff.$H. laterinum, p. 106
+6,0$Spores on average 5.1-5.9 prn broad : cap colours ±marbled : smell like tea.$H. circinans, p. 110
+6,0$Spores on average 5.9-6.3 µm broad : cap colours not marbled : smell like cocoa or "poires belle Helene".$H. laterinum, p. 106
+
+cs6,0$
+rem$KEY F: Cortina absent : smell strong and sweetish, penetrating (sect. Myxocybe, subsect. Sacchariolentia).
+1,0$Cap dry, soon velutinate or cracking up into small scales : cheilocystidia shorter than 35 µm .$H. hetieri, p. 126
+1,2$ Cap slightly to distinctly viscid, totally smooth or only slightly velutinate at the margin : cheilocystidia often longer 2
+2,0$Perispore not or only exceptionally loose (PO-1) : stem base fusiform.$H. fusipes, p. 122
+2,3$Perispore loose in few to ail spores (Pl-3) : stem base typically not fusiform
+3,0$Spores slender, Q on average> 1.9 : cap 10-28 mm broad, white to pale cream : exsiccata not discoloured to dark brown.$H. fusisporum, p. 128
+3,4$Spores not so slender, Q mostly < 1.9 : cap 15-60(-85) mm broad, pale pinkish buff to greyish buff, clay-buff or cinnamon : exsiccata often partly discoloured to dark brown
+4,0$Spores on average> 13.5 µm long : cap clay-buff or cinnamon, but paler towards the margin : mostly in damp places with Salix or Alnus.$H. gigaspermum, p. 124
+4,0$Spores on average < 13.5 µm long : cap pale pinkish buff to greyish buff : in wet or dry places with broadleaved hasts.$H. sacchariolens, p. 120
+
+sections
+
+Cs10,0$détail sections
+1,Cs11$Section Hebeloma Type: H. fastibile (Pers.: Fr.) P. Kumm. (= H. mesophaeum (Pers.)
+1,Cs12$Section Sinapizantia (Quad.) Vesterh. Type: H. sinapizans (Paul.) Gill.
+1,Cs13$Section Theobromina Beker, Eberhardt & Vesterh.
+1,Cs14$Section Velutipes Vesterh. Type: Hebeloma velutipes Bruchet.
+1,Cs15$Section Denudata Type: Hebeloma crustuliniforme (Bull.) Quél.
+1,Cs16$Section Myxocybe (Fayod) Konr. & Maubl. Type: Hebeloma radicosum (Pers.) Quél..
+1,Cs17$Section Porphyrospova Konr. & Maubl. ex Vesterh., sect. nov.
+
+CS11,0$
+1,0$Section Hebeloma. Type: H. fastibile (Pers.: Fr.) P. Kumm. (= H. mesophaeum (Pers.) Quél) (Syn.: sect. Indusiata (Fr.) Sacc., type: H. mesophaeum (Pers.) Quél.) ///Cortina present; universal veil woolly, but sometimes very fugacious; stem never rooting; smell radish-like; spores ellipsoid to amygdaliform, dextrinoid or indextrinoid, perispore not loosening; cheilocystidia ventricose.
+1,0$Subsection Hebeloma ///Spores ellipsoid, indextrinoid or weakly dextrinoid./// H. bruchetii, H. collariatum, H. marginatulum, H. mesophaeum, H. psammophilum, H. sordidum.
+1,0$Subsection Amygdalina Vesterh. Type: H. sordescens Vesterh./// Spores +/- amygdaliform, +/- dextrinoid.///H.candidipes, H. kuehneri, H. monticola, H. nigellum, H. polare, H. sordescens. 
+
+Cs12,0$
+1,0$Section Sinapizantia (Quad.) Vesterh. Type: H. sinapizans (Paul.) Gill./// Cortina absent; universal veil typically only visible in primordia; cap +/- unicoloured brown; stem not rooting; smell radish-like; spores amygdaliform to citriform, dextrinoid, perispore loosening or not; cheilocystidia -.ventricose./// H. sinapizans.
+
+Cs13,0$
+1,0$Section Theobromina Beker, Eberhardt & Vesterh., sect. nov. Pileus brunneus. /// Cortina nulla. Stipes non radicans. Odor raphanoideus. Sporae amygdaloideae, valde dextrinoideae, perispora cohaerenti. Cheilocystidia cylindrica vel subclavata. Typus: Hebeloma theobrominum Quél./// Cap +/- unicoloured brown, often greyish pruinose; cortina absent; universal veil not observed; stem not rooting; smell +radish-like; spores amygdaliform, dextrinoid, perispore not loosening; cheilocystidia cylindrical to subclavate./// H. theobrominum
+
+Cs14,0$
+
+1,0$Section Velutipes Vesterh. Type: Hebeloma velutipes Bruchet./// Cortina absent; universal veil only visible in primordia; cap not hygrophanous; stem velutinate, never rooting; smell radish-like; spores amygdaliform to citriform, strongly dextrinoid; cheilocystidia narrowly to broadly clavate.
+1,0$Subsection Velutipes///Spores amygdaloid, with a rather low ornamentation, without loosening perispore; cheilocystidia narrowly to broadly clavate.///H. incarnatulum, H. velutipes. 1,0$Subsection Aestivale Beker, Eberhardt & Vesterh., subsect. nov. ///Sporae citriformes, valde ornatae, valde dextrinoideae. Stipes non radicans. Cortina nulla. Odor raphanoideus. Typus: Hebeloma aestiuale Vesterh. ///Spores citriform, rather strongly ornamented, dextrinoid, with or without loosening perispore; cheilocystidia cylindrical to clavate or a mixture of ventricose and clavate. ///H. aestivale, H. quercetorum.
+
+
+cs15,0$
+1,0$Section Denudata Type: Hebeloma crustuliniforme (Bull.) Quél.///Cortina absent; universal veil typically only visible in primordia; stem never rooting; smell radish-like; spores amygdaliform to citriform, dextrinoid or indextrinoid, perispore loosening or not; cheilocystidia narrowly to broadly clavate or capitate, sometimes in addition widened in the lower half.
+1,0$Subsection Denudata///Spore deposit umber to sepia or dark brick.///H. alpinum, H. alvarense, H. crustuliniforme, H. fragilipes, H. hiemale, H. helodes, H. lutense, H. minus, H. populinum, H. pusillum, H. subconcolor, H. vaccinum, H. vejlense.
+1,0$Subsection Hebelomina (Maire) Beker, Eberhardt & Vesterh., stat. nov. Basionym genus Hebelomina Maire, Bull. Soc. Hist. Nat. Afrique du Nord 26: 13, 1935. Type: Hebelomina domardiana Maire. Spore deposit whitish. ///H. domardianum
+
+Cs16,0$
+1,0$Section Myxocybe (Fayod) Konr. & Maubl. Type: Hebeloma radicosum (Pers.) Quél. (Syn.: sect. Birri Groger, type Hebeloma birrus (Fr.) Sacc.).///Cortina absent; universal veil conspicuous or only visible in primordia; stem often +/- rooting; smell never radish-like; spore deposit umber; spores amygdaliform to inequilateral or cylindrical, dextrinoid, perispore not loosening in most species; cheilocystidia little differentiated, cylindrical to irregular, often short.
+1,0$Subsection Myxocybe///Universal veil membranaceous, forming a ring on the stem; stem distinctly rooting; smell mostly like marzipan; cheilocystidia cylindrical to irregular, short.///H. radicosum.
+1,0$Subsection Scabrispora Romagn. Type: Hebeloma cylindrosporum Romagn. (Syn.: Sect. Calyptrospora M. Bon. Type: H. calyptrosporum Bruchet).///Universal veil not known or only visible in the primordial state; stem in most species distinctly fusiform or rooting; smell variable, but never radish-like and never strong and sweetish; cheilocystidia cylindrical to irregular, mostly short.///H. birrus, H. circinans, H. cylindrosporum, H. laterinum, H. lundqvistii, H. syrjense. 
+1,0$Subsection Sacchariolentia J.E. Lange ex M. Bon. Type: Hebeloma sacchariolens Quél. ///Universal veil not observed or only visible in the primordial state; stem distinctly or indistinctly fusiform or rooting; smell strong and sweetish; cheilocystidia variable in shape, often fairly large. ///H. fusipes, H. fusisporum, H. gigaspermum, H. hetieri, H. sacchariolens.
+
+
+cs17,0$
+1,0$Section Porphyrospova Konr. & Maubl. ex Vesterh., sect. nov. /// Sporae in cumulo rubrobrunneae. Lamellae roseae. Cortina nulla. Odor non raphanoideus. Sporae dextrinoideae. Cheilocystidia versiformes. Type: Hebeloma porphyrosporum (Paul.) Gill. (= H.sarcophyllum). Konrad & Maublanc (1948) proposed the section, but without a formal diagnosis. ///Cortina absent; universal veil not known; smell not radish-like; spore deposit brownish red; spores amygdaliform to citriform, dextrinoid, perispore not loosening; cheilocystidia variable in shape. ///H. sarcophyllum.
+

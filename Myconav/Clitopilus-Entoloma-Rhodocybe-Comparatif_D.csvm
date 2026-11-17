@@ -1,0 +1,10 @@
+titre=  comparatif genres  Clitopilus, Entoloma, Rhodocybe;;;;;;;
+commentaire = source : https://www.flickr.com/photos/labmyco  ;;;;;;;
+commentaire =  Roland Labbé : novembre 2011./ adapt GF 15/03/19;;;;;;;
+* : caractère important de différenciation);;;;;;;
+rem=;;;;;; xyz;
+
+champ = Genre;Stature :;Chapeau :;Hyménophore :;Lames :;Pied :;Spores *;Pileipellis :
+genre Clitopilus;clitocyboïde / omphalinoïde crépidotoïde / cyphelloïde pleurotoïde;de colorations souvent pâles blanc / blanchâtre parfois gris / brun brun rougeâtre / noirâtre;typiquement lamellé parfois mérulioïde;adnées-décurrentes souvent arquées-décurrentes;présent / réduit / absent;ridées longitudinalement de l’apex à la base avec multiples facettes et souvent anguleuses vues par les pôles;en rectocutis
+genre Entoloma;crépidotoïde / pleurotoïde omphalinoïde / collybioïde mycénoïde / tricholomatoïde de formes et de tailles très variées;de colorations très variés blanc / crème / jaune / ocre brun / gris / rouge / vert / bleu rose / bleu / violacé / noirâtre;lamellé;d’insertions variées libres / adnexées / adnées émarginées / décurrentes parfois sécédentes;présent;distinctement anguleuses vues de tous les côtés rhombiques / polygonales;en rectocutis / ixorectocutis trichoderme / tomentum hyménoderme
+genre Rhodocybe;tricholomatoïde t collybioïde clitocyboïde / omphalinoïde crépidotoïde;de colorations ternes blanc / beige / brun carné jaune-brun / orangé brun grisâtre / grisâtre foncé;lamellé;adnées / adnexées adnées-émarginées / décurrentes;présent / réduit / absent;pustulées-ondulées vues de face rarem. anguleuses vues de profil fin. anguleuses vues par les pôles;en rectocutis / ixorectocutis trichoderme / tomentum

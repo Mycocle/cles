@@ -1,0 +1,43 @@
+Titre$Pholiotina_Breit_Känzl_1995
+com$ adapt PB 24/10/13
+rem$LANGUE$Français
+1,0$ Retour au Kit $$f"Pholiotina_kit.cle"
+1,0$
+
+1,2 $ Basidiomes sans voile
+1,4 $ Basidiomes pourvus d'un voile présent soit sous forme d'un anneau sur le pied soit sous forme de flocons à la marge du chapeau
+
+2,0 $ Sur excréments ou sur fumier, chapeau lardacé à visqueux par imbibition, 10-20 (25) mm de diamètre, spores 11,5-14 x 6,5-7,8 µm $ Conocybe (Pholiotina) coprophila
+2,0,N$ n°400, p. 316
+
+2,3 $ Sur terre nue ou sur débris végétaux
+
+3,0 $ Chapeau relativement grand, 25-40 (60) mm de diamètre, brun ochracé foncé à brun tabac foncé par temps humide, hygrophane, brun ochracé pâle et veiné ridulé à l'état sec, spores 7-9,7 x 4,3-5,3 m, pied blanc $ Conocybe (Pholiotina) pygmaeoaffinis
+3,0,N$ n°402, p. 316/// = C. friesii/// = P. striaepes ss. aut. p.p.
+3,0 $ Chapeau plus petit, 15-25 mm de diamètre, bleu vert sale au début, vert-de-gris, spores 8,3-11 x 4,8-6,5 µm $ Conocybe (Pholiotina) aeruginosa
+3,0,N$ n°395, p.312///Romagnesi H. 1969 ("1968"), BSMF 84:365-368 [diagnose princeps]
+
+4,5 $ Voile présent sous forme d'un anneau membraneux persistant
+4,9 $Voile présent sous forme de flocons à la marge du chapeau et parfois aussi sur le pied
+
+5,0 $ Spores dépourvues de pore germinatif, espèce vernale, spores 6,5-10 x 4-5 µm $ Conocybe (Pholiotina) aporos
+5,0,N$ n°396, p. 312///Kits vav Waveren E. 1970, Persoonia 6:144 [diagnose princeps]
+5,6 $ Spores pourvues d'un pore germinatif, espèce venant généralement en été et en automne
+
+6,0 $ Spores 11-14 x 5-7 m, cheilocystides clavées à ventrues $ Conocybe (Pholiotina) teneroides
+6,0,N$ n°403, p. 318/// = C. blattaria ss. P.D. Orton/// = C. percincta
+6,7 $ Spores plus petites
+
+7,0 $ Spores 10,5-13 x 5,5-6,5 µm, cheilocystides lagéniformes, chapeau 15-30 (40) mm de diamètre, pied long de 30-70 mm $ Conocybe (Pholiotina) blattaria
+7,0,N$ n°399, p. 314/// = C. vexans/// = C. togularis ss. Kühner
+7,8 $ Spores plus petites
+
+8,0 $ Spores 7,7-10,5 x 5-6 µm, cheilocystides lagéniformes, chapeau 8-20(25) mm de diamètre, pied long de 20-35 mm $ Conocybe (Pholiotina) filaris
+8,0,N$ n°401, p. 316/// = P. rugosa
+8,0 $ Spores 7,5-8,5 x 4-4,5 µm, cheilocystides cylindriques à sinueuses, chapeau 12-25 (30) mm de diamètre, pied long de 35-50 mm $ Conocybe (Pholiotina) arrhenii
+8,0,N$ n°398, p. 314/// = P. blattaria ss. Kühner, Ricken
+
+9,0 $ Voile nettement frangé, feutré, blanc et robuste, pore germinatif absent ou à peine visible $ Conocybe (Pholiotina) vestita
+9,0,N$ n°404, p. 318
+9,0 $ Voile +/- membraneux, dessinant une roue dentée s'il est encore fixé au bord du chapeau, spores avec pore germinatif évident $ Conocybe (Pholiotina) appendiculata
+9,0,N$ n°397, p. 314

@@ -1,0 +1,79 @@
+Titre$ S U I L L U S  -  MUNOZ  BOLETUS s. l. 2005
+Clave para el género Suillus Micheli ex Adanson Clave de Secciones
+
+Com$ Munoz 2005 / Adaptée par Paul Bertéa –Espagnol 15/10/2013
+rem$LANGUE$Espagnol
+
+1,cs1 $ Superficie pileica afieltrada, escamosa o fibrillosa, puede ser seca o un poco viscosa. Estipe con velo y sin granulaciones. Poros grandes y angulosos. Bajo Larix sp., Pseudotsuga sp. y Pinus strobus. (p. 173) $$s"Sección Solidipedes (Sing.) Sing. "
+1,2 $ Superficie pileica con fibrillas, glabra o ligeramente escamosa, de viscosa a glutinosa en tiempo húmedo. Estipe con o sin velo y con o sin granulaciones.
+
+2,cs2 $ Exclusivamente bajo Larix sp. Estipe sin granulaciones; provisto de velo. (p. 185) $$s"Sección Larigni Sing. ex Lannoy et Estadés"
+2,3 $ Bajo Pinus sp. Estipe con o sin granulaciones; provisto o no de velo.
+
+3,cs3 $ Estipe con granulaciones; provisto o no de velo. (= pp. Granulati Sing.) (p. 205) $$s"Sección Suillus"
+3,cs4 $ Estipe sin granulaciones; desprovisto de velo. (p. 251) $$s"Sección Fungosi (Smotl.) Lannoy et Estadés"
+
+
+cs1,0 $  Sección Solidipedes 
+1,0 $ Esporada pardo rojizo a pardo chocolate. Píleo ligeramente viscoso. Estipe con velo doble, la cara interior membranosa y gelatinosa, la parte exterior escuamulosa. Superficie pileica cubierta de gruesas escamas. Bajo Larix sp. $ Suillus spectabilis (Peck) Kuntze $s"Subsección Spectabiles (Sing.) Sing."
+1,2 $ Esporada sin tonos pardo rojizos. Superficie pileica ligeramente viscosa, escamosa.. Estipe con velo normal, no gelatinoso. Bajo Pseudotsuga menziesii y Pinus strobus. $$s"Subsección Pictini (Sing.) Sing. emend Lannoy et Estadés"
+
+2,0 $ Superficie del píleo cubierto de finas escamas de color rojo naranja, pardo rosado, sobre fondo primero amarillento, más oscuro hacia el disco. Estipe de color amarillo pardusco o pardo rojizo por debajo del velo. $ Suillus lakei (Murrill) Smith et Thiers
+2,0 $ Superficie del píleo cubierto de finas escamas de color amarillo claro que dejan ver un fondo concolor; resto de caracteres como el tipo. $ Suillus lakei var. calabrus Lavorato
+
+
+cs2,0 $  Sección Larigni
+1,2 $ Poros amplios, mayores de 1 mm, grisáceos o rojizo ferruginosos, raramente amarillentos. $$s"Subsección Megaporini Sing."
+1,4 $ Poros generalmente menores de 1 mm, de color amarillo a ocráceo oliváceo. $$s"Subsección Leptoporini Sing."
+
+2,0 $ Poros de color naranja a ocre rojizo, que no cambian de color a la presión. Superficie pileica fibrillosa o con finas escamas, de color naranja o naranja ladrillo. Estipe del mismo color que el píleo o algo más claro. $ Suillus tridentinus (Bres.) Sing.
+2,3 $ Poros de color pálido: blanquecino, grisáceo o gris amarillento.
+
+3,0 $ Carne blanquecina, con tonos rosa lila al corte. Píleo de color gris oliváceo. Himenóforo con poros primero gris pálido, después marrón grisáceo. Estipe del color del píleo o más pálido. $ Suillus viscidus (L.) Roussel
+3,0 $ Carne amarilla, gris azulada al corte. Píleo en colores rojo marrón o pardo marrón. Himenóforo con poros crema amarillos. Estipe del color del píleo o algo más claro. $ Suillus bresadolae (Quél.) Gerhold
+
+4,0 $ Hifas de la pileipellis sin gruesas incrustaciones. Píleo de color amarillo limón u ocre naranja, liso, cónico o campanulado. Estipe por debajo del velo de color amarillo dorado, a ocre amarillo. $ Suillus grevillei (Klotzsch) Sing.
+4,0 $ Hifas de la pileipellis con gruesas incrustaciones marrones. Píleo de color oscuro, pardo marrón, pardo marrón castaño oscuro, margen amarillo dorado. Estipe en la parte inferior del velo de color amarillo y cubierto densamente de finas escamas o fibrillas de color rojizo marrón. $ Suillus clintonianus (Peck) Kuntze
+
+
+cs3,0 $  Sección Suillus
+1,2 $ Poros amplios, mayores de l mm, compuestos. Estipe con velo gelatinoso o glutinoso, a veces sólo con restos fugaces. $$s"Subsección Latiporini Sing."
+1,3 $ Poros pequeños, normalmente menores de 1 mm, incluso en los basidiocarpos maduros. Estipe con o sin velo. (-pp. Granulati Sing) $$s"Subsección Suillus"
+
+2,0 $ Píleo de 30-70 mm; superficie pileica un poco fibrillosa, de color amarillo, amarillo pálido. Estipe con velo parcial, amarillento, primero muy viscoso o glutinoso, al final escaso. Basidiosporas elípticas, de (7,5) 8,6 -9,7 (10) x 3,2 - 3,8 µm, Q = (2,4) 2,5 - 2,8. Bajo Pinus sp., en zonas húmedas. $ Suillus flavidus (Fr. : Fr.) Besl.
+2,0 $ Píleo de 40-110 mm; superficie pileica cubierta de finas escamas, de color pardo marrón, sobre fondo de color amarillo ocre o amarillo leonado. Estipe cubierto de gruesas máculas, pardo rojizo por debajo del velo; velo parcial seco. Basidiosporas elípticas, de (9,2) 9,7 - 11 x (3,8) 4 - 4,3 (4,6) µm. Q = (2,1) 2,3 - 2,5 (2,7). exclusivo de Pinus cembra, en montaña. $ Suillus sibiricus Sing.
+
+3,4 $ Estipe provisto de velo parcial.
+3,6 $ Estipe desprovisto de velo parcial.
+
+4,5 $ Velo amplio que en los ejemplares jóvenes está bien desarrollado; blanco, un poco algodonoso, pronto se queda alrededor del estipe, tomando un color pardo marrón oscuro.
+4,5 $ Velo menos desarrollado, ubicado en la parte baja del estipe, incluso puede parecer un velo general, del color de la superficie pileica. Píleo de color marrón claro u ocre marrón. Basidiosporas fusiformes, de (8,5) 9 - 10 x (3,6) 4 - 4,3 µm, Q = 2,2 - 2,5. Bajo Pinus sp., en ambiente mediterráneo. $ Suillus collinitus var. velatipes Contu, Lavorato et Simonini
+
+5,0 $ Píleo de color pardo oscuro, marrón oscuro, ocre amarillo, a veces con zonas decoloradas. Estipe blanquecino, salpicado de granulaciones más oscuras por encima del velo. Basidiosporas fusiformes, de (6,5) 7,5 - 9 (9,2) x (2,4) 2,7 - 3,3 µm, Q = (2,4) 2,5 - 3 (3,2). Bajo Pinus sp. $ Suillus luteus (L.: Fr.) Roussel
+5,0 $ Píleo enteramente de color blanco, que puede o bien cubrir toda la superficie o tener algunas zonas con tonos marrón. Resto de características igual que el tipo. Bajo Pinus sp., muy raro. $ Suillus luteus f. albus Wasser et Soldatova
+
+6,7 $ Especies de montaña, micorrícicas de Pinus cembra y Pinas strobus.
+6,8 $ Especies que crecen del llano a la montaña, bajo Pinus sp. en general, pero normalmente de 2 agujas.
+
+7,0 $ Píleo blanco o blanquecino, con tintes citrinos. Himenóforo con poros de blanquecinos a amarillentos. Estipe concolor al píleo; cubierto de granulaciones de color marrón rojizo o pardo negruzcas. Bajo Pinus strobus en montaña. $ Suillus placidus (Bonord.) Sing.
+7,0 $ Píleo de color ocre o marrón oscuro. Himenóforo con poros amarillentos, después ocre oliva. Estipe por lo general corto, cilindráceo o un poco claviforme, del color del pileo o más pálido; granulaciones marrón oscuro. Bajo Pinus cembra, en montaña. $ Suillus plorans (Rolland) Kuntze
+
+8,9 $ Estipe cubierto de gruesas granulaciones, inicialmente rojo marrón, pardo rosado.
+8,11 $ Estipe cubierto de finas granulaciones, inicialmente amarillas u ocráceas.
+
+9,0 $ Carne amarilla, amarillo cromo cerca de ios tubos. Píleo de color amarillo claro, amarillo ocráceo, marrón ocráceo, ocre oliváceo, inicialmente con zonas blanquecinas. Micelio basal rosa claro. Bajo Pinus sp., en ambiente mediterráneo. $ Suillus mediterraneensis (Jacquetant et Blum) Redeuilh
+9,10 $ Carne blanquecina, más amarillenta cerca de los tubos.
+
+10,0 $ Píleo marrón, decolorado en zonas blancas o blanquecinas, que puede ser enteramente blanco (fo. alba'?). Micelio basal blanco. Bajo Pinus sp., en ambiente mediterráneo. $ Suillus bellinii (Inzenga) Watling
+10,0 $ Píleo enteramente de color amarillo citrino; resto de características igual que el tipo. Bajo Pinus sp., en ambiente mediterráneo. $ Suillus bellinii f. lútea. Pérez-de-Greg.
+
+11,0 $ Micelio basal blanquecino. Píleo de color ocre naranja, ocre o amarillo naranja. Carne blanquecina o amarillenta cerca de los tubos. Común y abundante en bosques de Pinus sp. $ Suillus granulatus (L.: Fr.) Kuntze
+11,0 $ Micelio basal de color rosa. Píleo de color marrón, pardo marrón, ocre amarillento; superficie pileica cubierta de fibrillas radiales más oscuras. Bajo Pinus sp., común. $ Suillus collinitus (Fr.) Kuntze
+
+
+cs4,0 $  Sección Fungosi
+1,0 $ Poros pequeños a medianos. Píleo con finas escamitas o fibrillas. $ Suillus variegatus (Swartz : Fr.) Richon et Roze $s"Subsección Stenosporini Sing. ex Lannoy et Estadés"
+1,0,N$///Especie de porte en general robusto. ///Superficie pileica afieltrada, muy poco viscida; de color marrón ocre, pardo oliváceo. ///Estipe del color del píleo. ///Bajo Pinus sp., ///común.
+1,0 $ Poros muy anchos y angulosos. Píleo liso sin fibrillas o finas escamas. $ Suillus bovinus (L.: Fr.) Kuntze $s"Subsección Euryporini Sing. ex Lannoy et Estadés"
+1,0,N$///Especie más grácil. ///Superficie pileica lisa, viscosa en tiempo húmedo; de color naranja ocre, marrón rojizo u ocre pálido en tiempo seco. ///Estipe del color del píleo o más claro. ///Bajo Pinus sp., ///muy común.
+

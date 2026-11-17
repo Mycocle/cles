@@ -1,0 +1,70 @@
+Titre$ Scutellinia Medardi 2007
+com$ IL GENERE SCUTELLINIA IN ITALIA, Mycol. Monten. X: 119-164,2007 adapt GF  mai 09
+
+rem$ Correcion ligne 24 (3,4) du 10/09/2022 
+
+1,cs1 $ Spore sferiche o globoso sferiche; crescita sempre legata a terreno umido 
+1,2 $ Spore ellissoidali; crescita non esclusivamente terricola 
+1,5$ note
+
+2,cs2$ Nello stesso ascocarpo, peli con base semplice oppure a forma di croce
+2,cs3$Nello stesso ascocarpo, peli con base costantemente multiforcata (tre o più appendici)
+2,cs4$Nello stesso ascocarpo, peli con base variabilmente forcata (1-2-3 appendici)
+2,cs5$Nello stesso ascocarpo, peli con base costantemente biforcata
+5,0$La chiave per la determinazione delle specie italiane di seguito proposta non tiene conto delle suddivisioni sistematiche illustrate da SCHUMACHER (l.c.), ma si fonda principalmente  sulla forma delle spore, così da separare le specie in due grandi macrogruppi, e come secondo fulcro di lettura, considera la forma della base dei peli; come già detto in precedenza, è però necessario ammettere che in uno stesso campione analizzato possano essere presenti rari casi di conformazione diversa.$_note
+
+
+CS1,0 $ spores feriche o globoso sferiche, crescita sempre legata a terreno umido
+
+1,0 $ Spore 17-18 µm di diametro, con verruche coniche (echinulate). Peli lunghi fino a 800  µm , a base 1-2-3-forcata $ S. legaliae
+1,2 $ Spore con dimensioni diverse, dotate di verruche diversamente conformate. Peli talvolta differenti
+2,3 $ Peli con base semplice, molto raramente bi-triforcata
+2,5 $ Peli con base anche 2-3-forcata
+3,0 $ Spore 16-19 µm  di diametro (alcune possono talora essere molto largamente ellissoidali,con dimensioni di 22-23 x 19-20 µm), con tubercoli tronchi o irregolarmente emisferici,alti fino a 2 µm . Peli lunghi fino a450 µm , con base semplice (raramente biforcata), bruni chiari,con apice pic pallido, talora ventricosi $ S. minor
+3,4 $ Spore pic grandi  > 22-23 x 19-20 µm  e peli piu lunghi > 450 µm 
+4,0 $ Spore (18) 20-22 µm di diametro, con verruche semisferiche. Peli lunghi fino a 730 µm, con la parte apicale notevolmente pic chiara (carattere non sempre chiaramente visibile) $ S. hyperborea
+4,0 $ Spore 28-30 µm  di diametro, dotate di tubercoli emisferici alti fino a 1,5 µm . Peli lunghi fino a 800 µm  $ S. citrina
+5,0 $ Spore 18-22 µm  di diametro, con tubercoli tronchi (ossia verruche semisferiche appiattite superiormentep) ; peli lunghi fino a 350 µm  $ S. barlae
+5,0 $ Spore 20-21 µm  di diametro, con verruche tronco-coniche; peli lunghi fino a 1000 (1500) µm  $ S. trechispora
+
+
+cs2,0$ SOTTOCHIAVEA- PELI CON BASE SEMPLICE OPPURE A FORMA DI CROCE
+1,0 $ Spore 18 X 9-10 µm, dotate di verruche parzialmente unite tra loro. Peli lunghi fino a 280 µm; quelli basali in maggioranza a forma di croce (in qualche raro caso sono presenti peli con base biforcata). Su terreno umido $ S. crucipila
+1,2 $ Spore più grandi > 18 X 9-10 µm e peli basali non a forma di croce
+2,0 $ Spore 24-27 x 13-15 (17,5) µm, con verruche angolose che si possono unire tra loro; peli lunghi fino a 400 µm. Su terreno o su legno fradicio $ S. nigrohirtula
+2,3 $ Spore più piccole < 24-27 x 13-15 (17,5) µm
+3,0 $ Spore 21-23 x 14-15 µm, verrucose (verruche con altezza di 1 µm e di 1,5 µm di larghezza, che a tratti si possono unire a formare un reticolo incompleto); peli lunghi fino a 350 µm. Su terreno umido $ S. superba
+3,4 $ Spore più piccole, di 20-21 x 11-12,5 (15) µm
+4,0 $ Spore finemente verrucose (verruche ampie e alte circa 1 µm). Peli lunghi fino a 370 µm; su terreno umido $ S. olivascens
+4,0 $ Spore dotate di tubercoli alti e ampi circa 1 [lffi; peli lunghi fino a 900 µm. Su terreno $ S. subhirtella
+
+
+cs3,0$ NELLO STESSO ASCOCARPO, PELI CON BASE COSTANTEMENTE  MULTIFORCATA (TRE O PIÙ APPENDICI)
+1,0 $ Crescita su terreno umido, più raramente su legno in disfacimento. Spore 18-19,5 x 11-13 µm, con verruche alte e larghe circa 1 µm; peli lunghi fino a 1850 µm $ S. scutellata
+1,2 $ Crescita su legno fradicio. Spore con dimensione anche diversa e peli più corti <  1850 µm
+2,0 $ Apotecio piccolo, fino a 2,5 mm di diametro. Spore 18-19,5 x 10-13,5 µm , sublisce; peli lunghi fino a 800 µm  $ S. setosa
+2,0 $ Apotecio di 5-10 mm di diametro. Spore 21-26 x 12-15 µm , con verruche alte e ampie circa 0,5 µm , parzialmente unite tra loro a formare piccole creste; peli lunghi fino a 1500 µm $ S. pilatii
+
+
+cs4,0 $sottochiave c - nello stesso ascocarpo, peli con base variabilmente forcata (1-2-3 appendici)
+
+1,0 $ Spore 21-26 x 15-19 µm , dotate di una granulosità con dimensioni di circa 0,3 µm ; peli lunghi fino a 500 µm , con base mano-biforcata. Su terreno umido o su legno imbevuto $ S. kerguelensis
+1,2 $ Spore più piccole <  21-26 x 15-19 µm
+2,0 $ Spore 22-24,5 x 10-12 µm , dotate di verruche alte e larghe circa 1,5 µm , a tratti unite tra loro a formare piccole placchette; peli lunghi fino a 400 µm , con base 1-2-pluri-forcata. Su terreno o su legno $ S. cejpii
+2,3 $ Spore più piccole < 22-24,5 x 10-12 µm
+3,0 $ Peli lunghi fino a 1500  µm, con base 1-2-3-forcata. Spore 18-21 x 10-13 µm , con verruche di circa 0,8 µm . Su terreno, anche con residui bruciati, su legno o su sterco $ S. crinita
+3,4 $ Peli più corti < 1500  µm, con base mano-biforcata (raramente con più terminazioni)
+4,0 $ Peli lunghi fino a  1000 µm . Spore 18-21 x 10-12 µm , dotate di verruche angolose più fitte ai poli, di circa 1,5 µm , a tratti unite tra loro. Su legno, su terreno o su residui cartacei deteriorati $ S. vitreola
+4,5 $ Peli più corti < 1000  µm
+5,0 $ Peli lunghi fino a 780 µm . Spore 18,5-22 x 11-13  µm, con due tipi di ornamentazione: tubercoli di 1,5 x 3 µm  misti con verruche piccole e parzialmente unite tra loro a brevi tratti. Su terreno o su residui vegetali molto degradati $ S. heterosculpturata
+5,6 $ Peli più corti <  780 µm   e spore più piccole < 18,5-22 x 11-13  µm,
+6,0 $ Peli lunghi 300-330 µm ; spore 15-18,5 x 8-10,5 µm , con ornamentazione poco evidente, costituita da verruche e piccole creste sottili, che si dissolve facilmente con blu cotone.Su terreno ricco di humus. $ S. torrentis
+6,0 $ Peli lunghi fino a 200 µm ; spore 14-15,5 x 8-9,5 µm , dotate di piccole verruche unite tra loro in creste più o meno lunghe e sinuose, che a loro volta si uniscono e costituiscono un reticolo incompleto. Su terreno umido e ricco di humus $ S. minutella
+
+
+cs5,0 $ sottochiave d - nello stesso ascocarpo, peli con base constatamente biforcata
+
+1,0$ - Spore 26-30 x 11,5-14,5 fLm, con punteggiatura parzialmente unita a formare piccole creste; peli lunghi fino a 500 fLm. Su terreno o su legno molto degradato $S. macrospora
+1,0$- Spore 20-22 x 10-13 fLm, dotate di tubercoli alti 1,5 fLm e larghi 2 fLm; peli lunghi fino a 850 fLm. Su terreno o su legno bagnato $S. umbrorum
+
+

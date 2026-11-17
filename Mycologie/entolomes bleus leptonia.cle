@@ -1,0 +1,47 @@
+titre $ Essai de clé dichotomique pour l'identificationdes Entolomes à chapeau et stipe bleusdu sous-genre Leptonia,à boucles nulles et cellules marginales présentes:
+com$ adapt GF mars 09
+
+1,2 $ a Arête des lames nettement discolore par rapport aux faces, bleue, bleu très foncé presque noir, ou brun
+1,6 $ b Arête des lames concolore aux faces
+1,20$ espèces  particulières
+1,20,n$ MOREAU (dans BON, 2001) a récemment publié une photo d'un E. mougeotii dont l'arête des lames était très franchement bleue, comme celle que l'on rencontre chez E. serrulatum. De plus, l'habitat de cette récolte - tourbière - était singulier. 
+
+2,3 $ a  Arête des lames brune
+2,4 $ b Arête des lames bleue
+3,0 $ a Teintes purpurines ou violacées sur le chapeau, et spores allongées (Q = 1,4-2), de forme complexe pour le groupe $ E. brunneoserrulatum Eyssartier & Noordel.
+3,0 $ b Pas de telles teintes sur le chapeau, et spores plus simples (Q = 1,3-1,7). $ E. mougeotii var.fuscomarginatum Noordel.
+4,0 $ a Chapeau des exemplaires jeunes " d'un superbe gris-bleu-vert obscur au centre, avec le bord cerné d'une lueur plus bleue" ; stipe à teinte glauque nette $ E. querquedula (Romagn.) Noordel.
+4,5 $ b Jamais de teintes verdâtres, même dans la jeunesse
+5,0 $ a Chapeau strié, d'abord brun foncé à marge gris-bleu ou gris d'acier, puis gris-brun plus ou moins jaunâtre; stipe sans teinte glauque $ E. caesiocinctum (Kühner) Noordel.
+5,0 $ b Chapeau non strié; chapeau et stipe bleu sombre, bleu nuit, presque noir; lames généralement teintées de bleu ou de bleuâtre $ E. serrulatum (Fr. : Fr.) Reslerrem 2
+6,7 $ a Chapeau distinctement strié par temps humide
+6,10 $ b Chapeau non strié
+7,8 $ a Chapeau et stipe nettement discolores
+7,9 $ b Stipe et chapeau concolores ou presque
+8,0 $ a Stipe d'un magnifique bleu outremer $ E. ursulae Noordel. et al.
+8,0 $ b Stipe beige avec de nettes teintes bleu d'acier $ E. caesiellum Noordel. & Wölfel
+9,0 $ a  Petite espèce atteignant 10 mm de diamètre piléique, à lames d'abord blanches ou crème $ E. cyanulum (Lasch : Fr.) Noordel.
+9,0 $ b Espèce plus grosse, atteignant 50 mm de diamètre piléique, à lames d'abord bleues $ E. chalybaeum var. lazulinum (Fr.) Noordel.
+10,0 $ a Lames bleues dans la jeunesse $ E. chalybaeum (Fr. : Fr.) Noordel.
+10,11 $ b Lames non bleues dans la jeunesse
+11,0 $ a Espèce venant dans des lieux humides, souvent sous Alnus, Salix ou Betula ; grandes spores mesurant de 8 à 11 µm de largeur. $ E. aethiops (Scop.) G. Stev.
+11,12 $ b Habitat plus banal ou non spécialement hygrophile, spores plus petites
+12,13 $ a Stipe fibrilleux-strié sur toute la longueur
+12,15 $ b Stipe glabre, poli ou soyeux
+13,0 $ a Chapeau d'abord bleu-noir sombre, puis " rapidement gris-brun lilacin ", et enfin " crème rosâtre avec des squamules brun-noirâtre" $ E. armoricanum Hériveau & Courtec.
+13,14 $ b Chapeau des exemplaires adultes différemment coloré
+14,0 $ a Tonalités bleues souvent peu évidentes: taxon d'abord bleu très sombre, tournant généralement au brunâtre ou brun bleuâtre sur les exemplaires adultes $ E. corvinum (Kühner) Noordel.
+14,0 $ b Tonalités bleues toujours évidentes: taxon d'abord d'un beau bleu assez sombre puis tournant au bleu-gris un peu violacé $ E. mougeotii (Fr.) Hesl.
+15,0 $ a Chapeau très sombre, presque noir - tonalités bleues indistinctes -, puis brun noirâtre $ E. melanochroum Noordel.
+15,16 $ b Chapeau pas aussi sombre
+16,0 $ a  Chapeau distinctement bleu, puis ternissant en brunâtre avec des teintes bleu-lilas; spores (8) 9-11,5 (12,5) µm de longueur $ E. caeruleum (P. D. Orton) Noordel.
+16,0 $ b Chapeau d'abord brun pâle ou un peu orangé, à teintes bleues peu évidentes et disparaissant totalement lorsque le champignon grandit: spores plus petites, ,5-9 (10,5) µlm de longueur $ E. mediterraneense Noordel. & Hausknrem>1 Entoloma gomerense Wölfel & Noordel., décrit des Îles Canaries (WOLFEL & NOORDELOOS, 2001), est une magnifique espèce entièrement bleu outremer, hyménophore compris. L'arête des lames est discolore, bleu foncé.
+
+
+20,0$décrit des Îles Canaries (WOLFEL & NOORDELOOS, 2001), est une magnifique espèce entièrement bleu outremer, hyménophore compris. L'arête des lames est discolore, bleu foncé $ E. gomerense Wölfel & Noordel.
+
+rem $2 MOREAU (dans BON, 2001) a récemment publié une photo d'un E. mougeotii dont l'arête des lames était très franchement bleue, comme celle que l'on rencontre chez E. serrulatum. De plus, l'habitat de cette récolte - tourbière - était singulier. 
+
+20,0$entolome décrit des Îles Canaries (WOLFEL & NOORDELOOS, 2001), à chapeau d'un bleu foncé ardoisé, qui a la particularité d'avoir des lames qui se tachent au toucher de gris-bleu sombre.$ E. chalybescens Wölfel, Noordel. & Dähncke 
+
+20,0$ Entoloma ianthinomeleagris Courtec., ne possède pas de cellules marginales bien différenciées, mais "de nombreuses basidioles ou [des] cellules plus ou moins articulées" sont parfois présentes sur l'arête des lames (COURTECUISSE, 1993) $ E. ianthinomeleagris Courtec.

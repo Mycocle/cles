@@ -1,0 +1,38 @@
+http://www.champignons-passion.be/cleZonari.htm
+
+Clé de la section des ZONARII Quélet emend. K. & R.
+(= Insulsini Sing.) :
+marge glabre ; lait blanc, immuable ; zonation piléique +/- remarquable ; chapeau glabre, un peu visqueux, de couleurs jaunâtres à roussâtres ou orangées ; sporée blanche. 
+
+
+titre$Lactarius section ZONARII Lecomte
+com$ http://www.champignons-passion.be/cleZonari.htm  adapt GF 2012
+1,10$caractéristique générales 
+
+1,2$ 1. zonation marginale et couleur pâle
+1,3$ 2. zonation nettement marquée couvrant tout le chapeau
+2,0$ 1. stipe très court restant plein et trapu ; lames espacées, crispées, anastomosées ; espèce des feuillus, surtout Quercus $ acerrimus (*) .
+
+
+2,0,n$acerrimus présente un pied qui peut être lisse ou scrobiculé… chez evosmus, il est toujours lisse… acerrimus est aussi l’espèce qui possède les plus grosses spores du genre (10-15 x 8-11 µ).
+2,0$ 2. lames et pied normaux ; odeur de pomme coupée ; sous feuillus (Quercus & Populus) et parfois conifères ; chair non rosissante à l'air ; cystides rares et peu apparentes (Romagnesi) $ evosmus (*) .
+2,0,n$evosmus dégage une odeur remarquable par son intensité mais variable selon les auteurs quant à sa nature : fruitée acide, de bolet (Kühner), compote de pommes (Romagnesi), pomme fraîche (Bon), poire cuite, mêlée de pélargonium, parfois fétide (Blum), agréable de pomme coupée (Marchand)… à chacun de se forger une opinion ! Lorsque les zones du chapeau s’effacent et disparaissent, on pourrait le confondre, selon Blum, avec Russula delica.
+2,0$ 3. semblable au précédent ; odeur faible ; connu d'abord de Slovénie, dans les hêtraies acidophiles $ illyricus (*) .
+2,0,n$illyricus Piltaver : Andreas GMINDER l’a récolté en 1999 à Einsiedeln (Suisse, 25 km de Zürich), surtout sous Castanea sativa. Il l’a également rencontré à 20 km au Sud de Stuttgart (Allemagne) dans un groupement chêne – charme – hêtre, sur sol argileux. Il indique aussi que lors des JEC (Journées Européenes des Cortinaires) de 1999, ll était régulièrement confondu avec Lactarius pallidus, L. fascinans ou L. utilis.Voici une description compilant les observations de Andreas GMINDER et PAM (Pierre-Arthur MOREAU) : cette espèce ressemble à pallidus, mais est d’allure plus grêle et plus mince, avec des lames remarquablement plus étroites, anastomosées près du pied (comme fraxineus ou spinosulus ). Le revêtement est très finement fibrillo-squamuleux, presque spinuleux quand il est jeune. Il est plus grand que spinosulus et affiche de 5 à 9 cm de diamètre ; il ne porte pas de traces de rose. Les spores sont petites et finement réticulées.
+
+2,0$ 4. sous Quercus ; chapeau nettement zoné mais tout-à-fait lisse à la marge piléique ; pied très scrobiculé $ maliodorus .
+2,0,n$maliodorus pourrait être synonymisé avec illyricus, selon MTB, mais ce taxon demande à être revu avec du matériel frais.
+3,0$ 1. chapeau relativement pâle (jaune ocre) ; chair rosissante à l'air ; cuticule séparable par moitié ; sous chênes calcicoles en plaine ; cystides nombreuses et parfaitement évidentes $ zonarius (*) .
+
+3,0,n$zonarius est orné d’une douzaine de zones denses et apparentes ; le pied est trapu et caverneux ; préférence marquée pour Quercus sur sol argilo-calcaire… HCVV & MTB ont rapproché la fo. scrobipes (Kühner & Romagnesi) Bon du type, et considèrent qu’elle reste dans les limites de variabilité de l’espèce.
+3,0$ 2. idem mais à pied scrobiculé (densément gravé de fossettes jaune clair, sur fond blanc) et marge pubescente $ zonarius var. scrobipes .
+rem$3,0,n$
+3,4$ 3. chapeau de couleur plus vive ou plus sombre (orangé vif à fauve)
+4,0$ 1. lait et chair doux, saveur amère ; odeur mélangée de quietus et de mandarine ; pied et chapeau concolores ; inféodé aux mélèzes (Larix), plutôt en montagne $ porninsis .
+rem$4,0,n$
+
+10,0$ marge glabre ; lait blanc, immuable ; zonation piléique +/- remarquable ; chapeau glabre, un peu visqueux, de couleurs jaunâtres à roussâtres ou orangées ; sporée blanche.
+4,0$ 2. lait très âcre ; couleurs vives (roux orangé) ; sous conifères ; tendance montagneuse $ bresadolanus (*) .
+4,0,n$bresadolianus pour Marchand & M.T. Basso et bresadolanus pour Courtecuisse…. Qui a raison ? Comme ce champignon a été dédié à BRESADOLA, je pencherais plutôt pour la seconde version… Sa cuticule est séparable sur un tiers et est marquée d’une dizaine de zones concentriques +/- nettes… HCVV & MTB ont synonymisé ce taxon avec zonarioides ; Pierre-Arthur MOREAU, qui nous l'a fait découvrir dans la région de VALLANDRY (Alpes françaises), est du même avis
+4,0$ 3. chair virant en zones sombres et taches verdâtres (aux endroits où le lait sèche) ; inféodé à Picea, en montagne $ zonarioides .
+rem$4,0,n$

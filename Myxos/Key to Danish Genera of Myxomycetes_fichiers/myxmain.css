@@ -1,0 +1,265 @@
+body {
+  font-size: 11pt;
+  font-family: "Sans-serif", "Arial", "Verdana";
+  color: #515151;
+}
+
+hr {
+  color: #004820;
+}
+
+table, td {
+  font-size: 11pt;
+  vertical-align: top;
+}
+
+img {
+  border: none;
+}
+
+/* boxes ----------------------------------------------- */
+
+#main {
+  width: 84em;
+  min-height: 40em;
+  margin: 0 auto;
+  padding: 5px;
+  _position: relative;
+  _left: 50%;
+  _margin-left: -27em;
+}
+
+#mainwin {
+  width: 98%;
+  min-height: 40em;
+  margin: 0 auto;
+  padding: 5px;
+  _position: relative;
+  _left: 50%;
+  _margin-left: -27em;
+}
+
+#head {
+  background: #004820;
+  background-image: url('/img/img_2052_2.jpg');
+  background-repeat: no-repeat;
+  background-position:right top;
+  width: 100%;
+}
+
+#content {
+  background: #f0f0f0;
+  width: 100%;
+}
+
+#foot {
+  background: #f0f0f0;
+  width: 100%;
+}
+
+#leftbox {
+  width: 69.75%;
+  background: #ffffff;
+  border: 1px solid #cccccc;
+  float: left;
+  margin-top: 5pt;
+  margin-bottom: 10pt;
+  margin-left: 1%;
+  padding: 10 10 10 10pt;
+}
+
+#rightbox {
+  width: 24.25%;
+  float: right;
+  margin-right: 1%;
+}
+
+#righttop {
+  width: 100%;
+  background: #ffffff;
+  border: 1px solid #cccccc;
+  float: right;
+  margin-top: 5pt;
+  margin-bottom: 10pt;
+  padding: 10 5 10 5pt;
+}
+
+#rightbot {
+  width: 100%;
+  background: #ffffff;
+  border: 1px solid #cccccc;
+  float: right;
+  margin-top: 5pt;
+  margin-bottom: 10pt;
+  padding: 10 5 10 5pt;
+}
+
+.clear {
+  clear: both;
+}
+
+/* formatting ------------------------------------------ */
+
+#leftbox a:hover {
+  color: red;
+}
+
+#leftbox a {
+  color: #004820;
+  text-decoration: none;
+}
+
+#leftbox p.indent {
+  text-indent: 1em;
+}
+
+#leftbox p.right {
+  text-align: right;
+}
+
+#winbox {
+  background: #ffffff;
+  border: 1px solid #cccccc;
+  margin-right: 1%;
+  margin-left: 1%;
+  padding: 10 10 10 10pt;
+  text-align: left; 
+}
+
+#winbox a {
+  color: #004820;
+  text-decoration: none;
+}
+
+#winbox a:hover {
+  color: red;
+}
+
+#winbox p.indent {
+  text-indent: 1em;
+}
+
+#rightbox p {
+  text-indent: 2em;
+}
+
+#rightbox p.noind {
+  text-indent: 0em;
+}
+
+#rightbox a {
+  color: #515151;
+  text-decoration: none;
+}
+
+#rightbox a:hover {
+  color: red;
+}
+
+#header {
+  font-size: 26pt;
+  color: #f0f0f0;
+  padding: 5 5 35 10pt;
+}
+
+.header1 {
+  font-size: 15pt;
+  color: #004820;
+  padding-bottom: 5pt;
+}
+
+.header2 {
+  font-size: 13pt;
+  color: #004820;
+  padding-bottom: 5pt;
+}
+
+.header3 {
+  font-size: 12pt;
+  color: #004820;
+  padding-bottom: 5pt;
+}
+
+.header4 {
+  font-size: 16pt;
+  color: #004820;
+  padding-bottom: 5pt;
+}
+
+#foottext {
+  font-size: 8pt;
+  color: #004820;
+  padding: 0 10 10 10pt;
+}
+
+.rtoptext {
+  font-size: 10pt;
+  padding-left: 10pt;
+}
+
+.small {
+  font-size: 10pt;
+}
+
+.petit {
+  font-size: 9pt;
+}
+
+.details {
+  font-size: 10pt;
+  text-align: right;
+}
+
+.rthumb {
+  text-align: center;
+  font-size: 10pt;
+  padding-top: 6pt;
+}
+
+/* ----------------------------------------------------- */
+
+#centerImg {
+  font-size: 11pt;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  border: 0;
+}
+
+#adjustImg {
+  width: 90%;
+}
+
+/* ----------------------------------------------------- */
+
+.ftrefs {
+  font-size: 10pt;
+  text-align: left;
+}
+
+.ftfootnote {
+  font-size: 9pt;
+  text-align: left;
+}
+
+.fttable {
+  font-size: 10pt;
+  text-align: left;
+}
+
+.ftkey {
+  font-size: 10pt;
+  text-align: left;
+}
+
+.ftfigure {
+  font-size: 10pt;
+  text-align: left;
+}
+
+br.myxlit {
+  text-indent: 1em;
+}
+
+/* ----------------------------------------------------- */
+

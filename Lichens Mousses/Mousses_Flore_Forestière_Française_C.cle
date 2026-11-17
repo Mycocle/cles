@@ -1,0 +1,192 @@
+MYCOCLE 00210760719050612C5D12
+ clé exploitable par Mycoclé 2.04
+Mycoclé 2.05 Clé des Bryophytes
+Adaptation par A.Paris, 2013
+REM$LANGUE$Détection automatique
+101589146810131618202224262830323537404244464850525456586062646668707274767880828486889092949698100102104106108110112114116118120122124126128130133135137140142144146148150152154156158160162164166169171173175177179181183185
+0 Pour les Bryophytes, ne jamais oublier que les clés proposées ne sont pas exhaustives, que nombre d’espèces ont des sosies et que, pour ces petites plantes, il n’est pas possible de faire une clé totalement valable sur les seuls caractères visibles à l’œil nu ou à la loupe.011113500
+0 Tige feuillée ou lame foliacée (thalle) à symétrie bilatérale ; sporophyte peu différencié : capsule seulement constituée d’un tissu sporogène et d’une paroi ; soie fugace et hyaline grandissant au dernier moment. – Hépatiques011213602
+0 Tige feuillée à symétrie axiale ; sporophyte différencié, présentant toujours un tissu stérile central et, généralement, une capsule complexe avec apophyse, urne, opercule et péristome. – Mousses011313705
+0 Gamétophyte formé d’une tige feuillée022414803
+0s"Hépatiques à thalle" Gamétophyte constitué d’une lame foliacée (thalle). 022514904
+0s"Jungermanniales acrogynes" Feuilles sans nervure (rarement à fausse nervure). 0346151006
+0 Feuilles dont un côté seulement de la base est dédoublé et à vraie nervure nettement visible 034715110Cf. Fissidens (Mousses)0
+0s"Metzgériales (Jungermanniales anacrogynes)" Thalle peu différencié (paraissant lisse à la face supérieure) ; sporophytes isolés. 04581612016
+0s"Marchantiales" Thalle très différencié, marqué d’un réseau de mailles polygonales et de pores à la face supérieure ; sporophytes groupés dans des excroissances spéciales du thalle. 04591613017
+0s"Sphagnum" Gamétophyte à rameaux fasciculés par 2 à 6, de plus en plus serrés vers le sommet ; 2 sortes de rameaux et 2 sortes de feuilles ; sporophyte sans soie ni péristome. – Sphagnales. 053101714081
+0s"Bryales ss. lato" Gamétophyte non ramifié ou à rameaux partant individuellement de la tige principale ; feuilles le plus souvent d’une seule sorte et à nervure nette ; sporophyte généralement bien développé et complet. 053111715018
+0 Jungermanniales acrogynes0-1012111700
+0 De très nombreuses autres espèces d’hépatiques sont observables en forêt, depuis les minuscules Cephaloziella aux tiges feuillées larges de 0,25 mm jusqu’aux grandes espèces à feuilles ou à thalle. Leur reconnaissance passe presque obligatoirement par l’utilisation de flores spécialisées et d’un microscope.06613181800
+0 Feuilles et amphigastres divisés en lanières filiformes (loupe !), tellement serrées qu’elles forment un feutrage dense autour d’une tige pennée ou bipennée ; (zones tourbeuses ou berges de ruisseaux) 0661418190Trichocolea tomentella0
+0 Feuilles et amphigastres non divisés en lanières filiformes (loupe !)06615182007
+0 Feuilles tri- ou quadrilobées071516192108
+0 Feuilles lobées ou simples0715171922010
+0 Grandes hépatiques (3-10 cm) à tiges et rameaux plus ou moins redressés ; feuilles (1-3 mm) différentes des amphigastres081618202309
+0 Petite hépatique (1-3 cm), rampante ; feuilles (0,2-0,5 mm) et amphigastres semblables, à 3 ou 4 lobes profonds 08161920240Lepidozia reptans0
+0 Feuilles plus larges que longues, embrassantes, ondulées, à 4 lobes larges brusquement apiculés, celles du sommet formant une « tête » crépue ; amphigastres petits, à longs cils, souvent masqués par les rhizoïdes 09182021250Barbilophozia lycopodioides0
+0 Feuilles plus longues que larges, plates ou légèrement concaves, à 3 dents courtes, celles du sommet formant un casque ; amphigastres bien visibles, arrondis, irrégulièrement dentés ; rameaux filiformes abondants 09182121260Bazzania trilobata0
+0 Feuilles à 2 lobes inégaux repliés l’un sur l’autre, donnant l’impression de paires de feuilles superposées à chaque insertion ; lobe dorsal plus petit que le ventral01017222227011
+0 Feuilles planes ou concaves, sans lobes repliés01017232228012
+0 Lobes arrondis, finement denticulés tout autour, nettement décurrents sur la tige ; propagules brun-rouge à l’extrémité des feuilles apicales ; tige rougeâtre à brun-noir 011222423290Scapania nemorea0
+0 Lobes allongés, entiers ou denticulés au sommet, non décurrents, munis d’une fausse nervure bien visible ; propagules vert-jaune au bout des feuilles apicales ; tige verte 011222523300Diplophyllum albicans0
+0 Feuilles bilobées01223262431013
+0 Feuilles simples01223272432015
+0 Feuilles planes, terminées par 2 lobes effilés ou 2 dents très nettes ; amphigastres à 4 lobes étroits-effilés 013262825330Lophocolea bidentata0
+0 Feuilles plus ou moins concaves ; pas d’amphigastres ; tiges dressées pouvant former des touffes ou des tapis assez denses01326292534014
+0 Hépatique presque toujours vert pâle, brillante ; feuilles insérées obliquement, souvent étalées horizontalement, à 2 lobes aigus, ceux des feuilles apicales souvent terminés par des amas de propagules vert-jaune 014293026350Lophozia ventricosa0
+0 Hépatique d’un vert sombre plus ou moins rougeâtre à brun noirâtre, mate ; feuilles insérées transversalement, souvent repliées canaliculées, embrassantes, à 2 lobes arrondis, rarement subaigus ; pas de propagules 014293126360Marsupela emarginata0
+0 Grande hépatique dressée (3-10 cm) ; feuilles succubes, nettement décurrentes, denticulées tout autour ; pas d’amphigastres 015273227370Plagiochila asplenioides0
+0 Petite hépatique rampante (1-3 cm) ; feuilles incubes, non ou peu décurrentes, entières ; amphigastres bien visibles, plus larges que la tige, échancrés au sommet 015273327380Calypogeia muelleriana0
+0 Metzgériales (Jungermanniales anacrogynes) 0-2034104000
+0 Thalle vert, souvent teinté de rouge au centre, ce qui forme une fausse nervure ; plante monoïque portant archégones et anthéridies à la face supérieure du même thalle ; capsule jeune, puis base de la soie, protégées par un involucre formant un petit clapet 01683528410Pellia epiphylla0
+0 Marchantiales0-303694300
+0 Thalle souvent de grande taille, vert franc à vert jaune, marqué de constrictions par les arrêts de croissance, à réseau polygonal bien marqué à la face supérieure, chaque maille étant percée d’un pore simple ; réceptacles mâles sessiles (disques brun-noir), les femelles en forme de chapeau conique à pédicelle marqué d’un seul sillon 01793729440Conocephalum conicum0
+0 Thalle plus petit, vert sombre et souvent marqué de noir au niveau d’une fausse nervure, à réseau peu marqué mais à pores en tonnelet, bien visibles à la face supérieure ; réceptacles mâles et femelles pédicellés, ces derniers découpés-digités, à pédicelle marqué de deux sillons ; nombreuses corbeilles à propagules 01793829450Marchantia polymorpha0
+0 Bryales ss. lato 0-403984700
+0s"Bryales acrocarpes" Archégones (puis sporophyte) en position terminale sur des tiges dressées, non ramifiées ou à rameaux parallèles, eux aussi dressés (attention, la tige principale reprenant sa croissance après production du sporophyte, celui-ci peut se trouver en apparence en position latérale [ex. : Aulacomnium palustre]). 01811403048019
+0s"Bryales pleurocarpes" Archégones (puis sporophyte) en position latérale sur des tiges généralement couchées, ramifiées, à rameaux nettement écartés. 01811413049045
+0 Certaines tiges au moins terminées par des amas de propagules vertes01940423150020
+0 Jamais de tiges terminées par des propagules01940433151021
+0 Sommet de la tige non feuillé, où les propagules constituent une masse globuleuse ; capsule très rare, oblique, avec un péristome à nombreuses dents libres 020424432520Aulacomnium androgynum0
+0 Sommet de la tige occupé par des feuilles arrondies et formant une corbeille en rosette contenant les propagules ; capsule dressée, avec un péristome à 4 dents 020424532530Tetraphis pellucida0
+0 Petite mousse à port de palmier avec une rosette terminale à nombreuses grandes feuilles spatulées, dentées au sommet, surmontant une tige nue sauf quelques toutes petites feuilles 021434633540Rhodobryum roseum0
+0 Mousses de tailles diverses et à port différent (même si certains pieds fertiles de Mnium peuvent parfois avoir un aspect dendroïde)02143473355022
+0 Feuilles planes et minces, à nervure bien marquée02247483456023
+0 Feuilles épaisses ou plus ou moins repliées (enroulées ou canaliculées), vertes02247493457033
+0 Feuilles ondulées transversalement, même à l’état humide02348503558024
+0 Feuilles non ondulées transversalement02348513559027
+0 Feuilles en forme de langue, très arrondies au sommet, les plus grandes généralement au milieu des tiges ; capsule droite, pendante par courbure de l’extrémité de la soie ; tiges âgées ramifiées en bouquet vers le sommet 024505236600Plagiomnium undulatum0
+0 Feuilles triangulaires-allongées, effilées au sommet02450533661025
+0 Feuilles entières, très longues, très fortement crispées-enchevêtrées à sec ; limite nette, en V, entre une base blanc jaunâtre et un limbe vert 025535437620Tortella tortuosa0
+0 Feuilles dentées, individuellement crispées ou tordues à sec ; pas de limite nette entre la base et le limbe chlorophyllien02553553763026
+0 Feuilles régulièrement dentées, très crispées à sec, les plus grandes toujours au sommet des tiges, jamais ramifiées ; capsule arquée-horizontale ; péristome avec une membrane 026555638640Atrichum undulatum0
+0 Feuilles à longue pointe, fortement et irrégulièrement dentées, étalées-tordues à sec, celles du sommet pouvant se grouper en pinceau plus ou moins courbé ; tiges souvent ramifiées, portant plusieurs capsules arquées ; péristome à dents libres 026555738650Dicranum polysetum0
+0 Feuilles elliptiques à arrondies, apiculées, à marge nettement dentée, en apparence distiques sur des tiges arquées et stoloniformes 027515839660Plagiomnium affine0
+0 Feuilles disposées tout autour de la tige02751593967028
+0 Feuilles nombreuses, serrées, masquant la tige02859604068029
+0 Feuilles peu nombreuses, laissant voir la tige02859614069032
+0 Feuilles plus ou moins crispées-tordues à sec02960624170030
+0 Feuilles dressées-appliquées à sec, parfois tordues au sommet ou sur les jeunes pousses étiolées, légèrement denticulées en haut 029606341710Pohlia nutans0
+0 Pas de marge03062644272031
+0 Marge nette à dents groupées par 2 dans les deux tiers supérieurs, lisse à la base ; feuilles lancéolées-allongées, en ogive au sommet 030626542730Mnium hornum0
+0 Feuilles larges, ovales-allongées, obtuses ou subaiguës, denticulées au sommet ; mousse jaunâtre en haut des tiges, devenant brunâtre et tomenteuse en dessous 031646643740Aulacomnium palustre0
+0 Feuilles étroites, longuement linéaires, dentées au moins jusqu’à la moitié ; capsules en forme de pomme, fréquentes, striées à maturité 031646743750Bartramia pomiformis0
+0 Feuilles obovales, entières, à marge épaisse et cartilagineuse, très crispées à sec, formant souvent une rosette au sommet 032616844760Rhizomnium punctatum0
+0 Feuilles ovales-allongées, sans marge, denticulées au sommet, peu crispées à sec, droites ou tordues 032616944770Pohlia nutans0
+0 Limbe épais, strié, à nervure invisible, rattaché à la tige par une gaine incolore ou brune ; feuilles écartées de la tige à l’état frais, mais dressées-appliquées (en « pinceau ») à sec ; coiffe très velue03349704578034
+0 Limbe mince, canaliculé ou enroulé ; feuilles courbées en faux ou parallèles à la tige, même à l’état frais ; capsule à urne cylindrique droite ou plus ou moins arquée03349714579035
+0 Capsule à urne arrondie et allongée, sans apophyse nette ; limbe denté d’un vert glauque 034707246800Pogonatum urnigerum0
+0 Capsule à urne quadrangulaire et à apophyse nette ; mousses en tapis vert foncé. – Polytrichum03470734681042
+0 Tiges très serrées, formant des coussinets denses03571744782036
+0 Tiges moins serrées, en coussinets peu denses ou en tapis ; feuilles sans base différenciée en gaine, mais à longue pointe, enroulées longitudinalement, plus ou moins courbées en faux et souvent homotropes03571754783038
+0 Coussinets très denses, presque en boule, glauques en surface, brun blanchâtre à l’intérieur ; limbe court, involuté au sommet, toujours dressé et dans le prolongement d’une base large, décolorée et engainante, presque totalement occupée par la nervure 036747648840Leucobryum glaucum0
+0 Coussinets denses, plus ou moins en tapis ; nervure occupant le tiers à la moitié de la base de la feuille03674774885037
+0 Touffes vert jaunâtre ; feuilles fragiles, cassant facilement, à nervure peu distincte ; limbe terminée par une très longue et très fine pointe subulée, souvent courbée ; capsule dressée, droite et lisse même à sec, en col de cygne à l’état jeune 037777849860Dicranodontium denudatum0
+0 Touffes vertes en surface, brun-rouge à l’intérieur, très tomenteuses ; feuilles non fragiles, à nervure très nette ; limbe allongé, en pointe droite ou arquée ; capsule toujours pendante (soie recourbée), striée à sec 037777949870Campylopus flexuosus0
+0 Mousses grêles, à feuilles très fines (2-5 x 0,3-0,5 mm), formant des tapis denses03875805088039
+0 Mousses plus robustes, de taille moyenne ([3]5-12[20] cm), en touffes plus ou moins denses ; capsule rapidement déjetée sur le côté par la tige qui reprend sa croissance (ne pas confondre avec une espèce pleurocarpe)03875815089041
+0 Tiges feuillées de petite taille (environ 1 cm [0,5-3 cm]), en tapis vert sombre ; feuilles très fines (2-4 x 0,3-0,5 mm), non fragiles, sans oreillettes, graduellement rétrécies en pointe subulée étroite ; capsules abondantes, roux orangé, arquées et striées à sec, à soie jaune, grêle et ondulée 039808251900Dicranella heteromalla0
+0 Tiges feuillées plus grandes ([1]2-3[6] cm) ; feuilles ayant des oreillettes hyalines ou orangées03980835191040
+0 Touffes vert jaunâtre ; feuilles fragiles, cassant facilement, à nervure peu distincte et à oreillettes hyalines ; limbe terminé par une très longue et très fine pointe subulée, souvent courbée ; capsule dressée, droite et lisse même à sec, en col de cygne à l’état jeune 040838452920Dicranodontium denudatum0
+0 Touffes vertes en surface, brun-rouge à l’intérieur, très tomenteuses ; feuilles non fragiles, à nervure très nette et à oreillettes le plus souvent orangées, parfois hyalines ; limbe allongé, en pointe droite ou arquée ; capsule toujours pendante (soie recourbée), striée à sec 040838552930Campylopus flexuosus0
+0 Plante généralement vert-jaune, à feuilles courbées en tous sens malgré une direction préférentielle ; une seule capsule par tige 041818653940Dicranum scoparium0
+0 Plante généralement vert vif, à feuilles homotropes formant une « faucille » très nette au sommet ; capsules groupées par 2 à 5 au sommet d’une tige 041818753950Dicranum majus0
+0 Feuilles à marge claire, dentée ; sommet des pieds mâles vert ou vert-jaune ; mousses atteignant ou dépassant généralement 8-10 cm04273885496043
+0 Feuilles apparemment non marginées et non dentées, à bord replié sur le limbe et masquant en partie les lamelles ; sommet des pieds mâles rouge ou orangé ; plantes de petite taille (généralement moins de 5 cm)04273895497044
+0 Plante des zones humides, normalement très grande (20-40 cm), à gaine brillante, blanchâtre, bien visible entre les limbes écartés (attention, certains échantillons de petite taille sont difficiles à reconnaître ainsi) 043889055980Polytrichum commune0
+0 Plante des zones moins humides, de taille moyenne (7-15 cm), à gaine brunâtre, peu visible entre les limbes ; (espèce la plus commune en forêt) 043889155990Polytrichum formosum0
+0 Feuilles terminées par une pointe rougeâtre en forme de poil 0448992561000Polytrichum juniperinum0
+0 Feuilles terminées par un poil blanc bien net 0448993561010Polytrichum piliferum0
+0 Tiges feuillées non ramifiées ou subdivisées seulement à la base ; feuilles distiques, dissymétriques, à nervure très nette ; capsule partant de la base des gamétophytes 0454194571020Fissidens taxifolius0
+0 Tiges ramifiées, à feuilles disposées tout autour ; capsule sur le côté des tiges principales045419557103046
+0 Tiges 1 ou 2 fois assez régulièrement ramifiées046959658104047
+0 Tiges irrégulièrement ramifiées046959758105057
+0 Tiges 1 fois régulièrement ramifiées (type penné)047969859106048
+0 Tiges 2 fois ramifiées (type bipenné)047969959107055
+0 Feuilles droites, plus ou moins appliquées les unes sur les autres et sur l’axe, elliptiques à ovales0489810060108049
+0 Feuilles à pointe recourbée, non totalement appliquées les unes sur les autres0489810160109052
+0 Tiges et rameaux aplatis ; feuilles plates, très nettement ondulées transversalement ; plante vert-jaune, brillante 049100102611100Neckera crispa0
+0 Tiges et rameaux arrondis ; feuilles concaves, jamais ondulées transversalement04910010361111050
+0 Tiges rouges (retirer les feuilles en grattant avec l’ongle) ; feuilles obtuses ; rameaux effilés à l’extrémité 050103104621120Pleurozium schreberi0
+0 Tiges vertes05010310562113051
+0 Mousse verte à jaunâtre, à tiges et rameaux généralement rampants, arrondis à l’extrémité ; feuilles apiculées 051105106631140Scleropodium purum0
+0 Mousse vert blanchâtre, très brillante, à rameaux dressés ; feuilles brusquement terminées par une pointe en forme de poil 051105107631150Cirriphyllum piliferum0
+0 Feuilles droites, dressées-écartées, régulièrement disposées tout autour des tiges ; plante à allure très grêle 052101108641160Eurhynchium stokesii0
+0 Feuilles homotropes, courbées en faux vers la face inférieure05210110964117053
+0 Tige rigide, cassante, en crosse dure au sommet, généralement dressée ; feuilles fortement plissées en long, plus ou moins mêlées de paraphylles ; grande mousse vert-jaune à jaune 053109110651180Ptilium crista-castrensis0
+0 Tige molle, peu cassante et non en crosse dure au sommet, généralement rampante05310911165119054
+0 Mousse jaunâtre, densément ramifiée-pennée depuis la base ; feuilles non plissées, les caulinaires en cœur à la base, denticulées tout autour, celles des rameaux plus petites et fortement courbées, bouclées à la face inférieure ; (pierres calcaires essentiellement) 054111112661200Ctenidium molluscum0
+0 Mousse vert blanchâtre, irrégulièrement ramifiée à la base, puis en disposition pennée-triangulaire au sommet ; feuilles homotropes, toutes semblables, à pointe en crochet à la face inférieure ; (substrats acides exclusivement) 054111113661210Hypnum ericetorum0
+0 Tiges rouges, feuilles lisses et brillantes, à pointe effilée, à nervure bifide courte et peu visible 05599114671220Hylocomium splendens0
+0 Tiges vertes, feuilles différentes0559911567123056
+0 Feuilles mates, courtes, à nervure forte, appliquées contre les tiges et entremêlées de paraphylles 056115116681240Thuidium tamariscinum0
+0 Feuilles brillantes, allongées, à nervure étroite : les caulinaires largement en cœur à la base, embrassantes et décurrentes, à longue pointe effilée et tordue, celles des rameaux ovales-allongées, plus étroites, dressées-écartées ; pas de paraphylles 056115117681250Eurhynchium stokesii0
+0 Tiges principales rampantes, appliquées sur le substrat0579711869126058
+0 Tiges principales dressées, au moins en apparence (il peut exister des tiges primaires rampantes fugaces ou peu visibles)0579711969127070
+0 Tiges et rameaux aplatis ; feuilles plates, courtes, ovales ou en forme de langue05811812070128059
+0 Tiges et rameaux non aplatis, dressés ou rampants05811812170129062
+0 Feuilles ondulées transversalement05912012271130060
+0 Feuilles non ondulées transversalement05912012371131061
+0 Mousse glauque ou vert blanchâtre, mate, entièrement rampante, irrégulièrement ramifiée ; feuilles à courte nervure bifide, les latérales pliées en long 060122124721320Plagiothecium undulatum0
+0 Mousse vert-jaune plus ou moins dorée, à base plus ou moins brun rouille, brillante, à rameaux souvent pennés ; feuilles sans nervure, plates et toutes ramenées à droite ou à gauche 060122125721330Neckera crispa0
+0 Feuilles symétriques, ovales, obtuses et sans nervure, non modifiées par la dessiccation (attention, ne pas confondre avec une Hépatique, où les feuilles sont réellement disposées sur deux rangées opposées et où les capsules sont fugaces, sans péristome, et ouvertes par 4 valves) 061123126731340Hookeria lucens0
+0 Feuilles un peu dissymétriques, ovales allongées, pointues, plus ou moins apiculées et à nervure bifide nette ; mousse très modifiée par la dessiccation, à feuilles repliées en long et tordues 061123127731350Plagiothecium nemorale0
+0 Tiges et rameaux non visibles, masqués par des feuilles appliquées et recouvrantes06212112874136063
+0 Tiges et rameaux visibles entre des feuilles dressées et écartées. – Eurhynchium06212112974137067
+0 Mousse petite, grêle, à feuilles d’environ 1,5 mm, triangulaires allongées, dressées étalées, parfois un peu homotropes aux extrémités ; nervure atteignant de la moitié aux trois quarts de la feuille 063128130751380Brachythecium velutinum1310
+0 La détermination des Brachythecium sur les seuls caractères macroscopiques n’est pas possible, d’une part en raison de la multiplicité des autres espèces voisines, surtout en montagne, d’autre part à cause de la polymorphie des individus à l’intérieur d’un même taxon et en fonction des conditions de croissance. Les deux espèces signalées ici sont très communes, mais leur détermination fiable nécessite des critères microscopiques et le recours à d’autres ouvrages.063128131751390N0
+0 Mousses plus fortes, à feuilles de 2-4 mm06312813275140064
+0 Feuilles courbées en faux, homotropes, à nervures très courtes et à pointes orientées vers le bas06413213376141065
+0 Feuilles ovales, dressées, à nervure nette sur la moitié ou les deux tiers de la feuille06413213476142066
+0 Mousse d’un vert franc, à rameaux courts et épais 065133135771430Hypnum cupressiforme0
+0 Mousse vert jaunâtre ou blanchâtre à rameaux grêles, souvent pennés au sommet 065133136771440Hypnum ericetorum0
+0 Feuilles concaves, brusquement rétrécies en une pointe en forme de poil ; nombreux rameaux allongés et dressés ; plante vert blanchâtre très brillante 066134137781450Cirriphyllum piliferum0
+0 Feuilles planes ou concaves parfois un peu plissées, progressivement terminées en pointe courte ; nombreux rameaux couchés ou redressés ; mousse d’autant plus jaune qu’elle est plus éclairée ; capsules fréquentes 066134138781460Brachythecium acetabulum1390
+0 La détermination des Brachythecium sur les seuls caractères macroscopiques n’est pas possible, d’une part en raison de la multiplicité des autres espèces voisines, surtout en montagne, d’autre part à cause de la polymorphie des individus à l’intérieur d’un même taxon et en fonction des conditions de croissance. Les deux espèces signalées ici sont très communes, mais leur détermination fiable nécessite des critères microscopiques et le recours à d’autres ouvrages.066134139781470N0
+0 Feuilles triangulaires, plissées longitudinalement ; nombreux rameaux dressés en tous sens donnant un port « en buisson » ; tiges vertes 067129140791480Eurhynchium striatum0
+0 Feuilles non plissées06712914179149068
+0 Feuilles toutes semblables, ovales-lancéolées courtes, celles des tiges à peine plus grandes, sans pointe effilée ; plante rampante, irrégulièrement ramifiée 068141142801500Eurhynchium hians0
+0 Feuilles des tiges différentes de celles des rameaux, les caulinaires nettement plus grandes, à base élargie et extrémité effilée ; plantes diversement ramifiées, rampantes06814114380151069
+0 Mousse pennée ou bipennée ; feuilles caulinaires largement ovales à la base, décurrentes, brusquement rétrécies en une longue pointe fine et coudée ; feuilles des rameaux ovales-allongées, écartées ; (espèce essentiellement subatlantique) 069143144811520Eurhynchium stokesii0
+0 Mousse irrégulièrement ramifiée ; feuilles caulinaires à base élargie non décurrente, moins brusquement rétrécies en une pointe restant dans le prolongement de la feuille 069143145811530Eurhynchium praelongum0
+0 Une tige principale nette, portant des rameaux plus petits07011914682154071
+0 Pas de tige principale nette07011914782155079
+0 Rameaux plus ou moins en touffe au sommet d’une tige principale dénudée (port en petit arbre : dendroïde) ; feuilles à nervure unique nettement visible ; tige primaire forte, rampante, constituant des stolons07114614883156072
+0 Rameaux répartis tout au long de la tige, souvent dès la base et toujours plus petits qu’elle07114614983157075
+0 Plantes de taille moyenne (5-10 cm), robustes, longuement dénudées à la base ; feuilles des rameaux ovales-triangulaires, dentées, fortement nerviées07214815084158073
+0 Plantes plus petites (1-5 cm), courtement dénudées07214815184159074
+0 Mousse terne, généralement d’un vert foncé mat, à rameaux souvent de taille inégale ; feuilles caulinaires triangulaires-aiguës ; stolons vigoureux, superficiels ; (rochers et sols humides) 073150152851600Thamnobryum alopecurum0
+0 Mousse brillante ; feuilles vertes à vert-jaune et rameaux jeunes de même taille, souvent rougeâtres ; feuilles caulinaires ovales-obtuses et entières ; stolons importants, souterrains ; (sols marécageux à tourbeux) 073150153851610Climacium dendroides0
+0 Feuilles lancéolées, concaves, faiblement denticulées au sommet ; plante de 2-5 cm, à rameaux arrondis par des feuilles plus ou moins recouvrantes, étroitement appliquées ; (écorce ou, plus rarement, pierres) 074151154861620Isothecium alopecuroides0
+0 Feuilles triangulaires-effilées, dentées tout autour ; plante petite (1-3 cm), grêle, à feuilles écartées ; (écorces ou rochers siliceux) 074151155861630Isothecium myosuroides0
+0 Feuilles droites, plissées, triangulaires ou plus ou moins ovales, sans longue pointe, à 2 nervures ; plantes robustes07514915687164076
+0 Feuilles pliées ou recourbées07514915787165077
+0 Tige rouge très robuste, visible entre des feuilles d’environ 5 mm, à nervures grêles ; rameaux simples, inégaux, souvent retombants 076156158881660Rhytidiadelphus triquetrus0
+0 Tige brune, totalement masquée sous un feutrage de paraphylles entre des feuilles espacées ; rameaux nombreux, ceux de la base souvent ramifiés ou pennés 076156159881670Hylocomium umbratum0
+0 Feuilles pliées à environ 90°, à base embrassante et pointe canaliculée pliée, souvent descendante ; feuilles en disposition étoilée au sommet des tiges et des rameaux ; tige orangée à rougeâtre 077157160891680Rhytidiadelphus squarrosus0
+0 Feuilles en crochet, avec de longues pointes courbées, souvent dans un sens préférentiel07715716189169078
+0 Grande mousse (10-20 cm), à tige rouge, robuste, dure, à rameaux nombreux, long, effilés à l’extrémité ; feuilles plus ou moins homotropes, plissées à la base, à 2 nervures courtes 078161162901700Rhytidiadelphus loreus0
+0 Mousse moyenne (8-10 cm), à tiges secondaires dressées vert-jaune (les primaires rampantes et peu visibles), à rameaux peu nombreux, courts ; feuilles raides, très fortement plissées, formant des crochets au bout des rameaux et des tiges, à 1 nervure forte et très longue 078161163901710Drepanocladus uncinatus0
+0 Mousses très ramifiées, à port « en buisson »07914716491172080
+0 Mousse en apparence peu ramifiée, les tiges secondaires dressées étant le plus souvent simples, molles et vertes (les primaires, rampantes, sont toujours en mauvais état) ; feuilles ovales, embrassantes et en cœur à la base, obtuses, à nervure cessant juste sous le sommet, tordues par la dessiccation 079147165911730Calliergon cordifolium0
+0 Tiges fraîches rouges à brun-rouge ; feuilles à pointe effilée-tordue ; nervure courte et bifide, peu visible dans les plis du limbe ; présence de paraphylles 080164166921740Hylocomium brevisrostre0
+0 Tiges fraîches vertes ; feuilles dressées, à pointe courte et droite ; nervure forte et nettement visible parmi les plis du limbe ; pas de paraphylles 080164167921750Eurhynchium striatum0
+0 Sphagnum0-50168717700
+0 Plantes robustes, vert blanchâtre (jamais rouges) ; rameaux épais à feuilles écartées bien visibles, non ondulées à sec ; feuilles caulinaires en forme de langue, arrondies au sommet, sans marge ou à marge étroite à la base0811016993178082
+0 Plantes grêles ou moyennes, mais rameaux fins à feuilles lancéolées, recouvrantes et appliquées, au moins à la base0811017093179083
+0 Feuilles des rameaux très concaves, en « coque de bateau » (ou en cuillère), généralement droites et sans pointe tordue vers l’extérieur ; au microscope, présence de fibres spiralées dans les cellules corticales des tiges et des rameaux. (Section Cymbifolia) 082169171941800Sphagnum palustre0
+0 Feuilles des rameaux planes ou carénées, à pointe tronquée et dentée, assez brusquement tordue vers l’extérieur à angle droit (feuilles squarreuses) ; jamais de fibres spiralées dans les cellules corticales des tiges ou des rameaux. (Section Squarrosa) 082169172941810Sphagnum squarrosum0
+0 Feuilles caulinaires échancrées-fendues à bifides au sommet, largement marginées à la base. (Section Cuspidata) 083170173951820Sphagnum riparium0
+0 Feuilles caulinaires jamais échancrées ni bifides, arrondies ou tronquées08317017495183084
+0 Feuilles des rameaux ondulées sur les bords à sec ; feuilles caulinaires petites (moins de 1 mm), entières-arrondies au sommet et non mucronées ; pas de bourgeons durs au sommet ; espèce vert-jaune, plus rarement verte. (Section Cuspidata) 084174175961840Sphagnum flexuosum0
+0 Feuilles des rameaux droites, même à sec ; feuilles caulinaires variables (Section Acutifolia, dont les espèces ne peuvent être déterminées de manière certaine qu’avec des critères microscopiques)08417417696185085
+0 Plantes toujours vertes, jamais teintées de rouge ou de brun ; feuilles caulinaires plus ou moins laciniées08517617797186086
+0 Plantes teintées de rouge ou de brun, à feuilles caulinaires non laciniées08517617897187087
+0 1 ou 2 bourgeon(s) dur(s), souvent blanchâtre(s), parmi les rameaux courts du sommet des tiges ; feuilles caulinaires arrondies, largement laciniées-frangées à l’extrémité et sur les côtés 086177179981880Sphagnum fimbriatum0
+0 Pas de bourgeon dur ; feuilles caulinaires plus longues que larges, légèrement laciniées au sommet 086177180981890Sphagnum girgensohnii0
+0 Plante fauve à brune ; feuilles petites, les caulinaires arrondies, celles des rameaux imbriquées ; (surtout en tourbières) 087178181991900Sphagnum fuscum0
+0 Plantes généralement teintées de rouge08717818299191088
+0 Feuilles des rameaux disposées sur 5 rangs réguliers, surtout à sec ; (pentes et rochers suintants ombragés) 0881821831001920Sphagnum quinquefarium0
+0 Feuilles des rameaux non disposées sur 5 rangs réguliers088182184100193089
+0 Plante brillante à l’état sec (reflets métalliques irisés) ; feuilles caulinaires rétrécies en pointe tronquée 0891841851011940Sphagnum subnitens0
+0 Plante mate, sans reflets irisés ; feuilles caulinaires triangulaires au sommet mais brusquement rétrécies en pointe tronquée 0891841861011950Sphagnum capillifolium0

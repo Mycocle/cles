@@ -1,0 +1,41 @@
+titre$main groups of bryoparasitic Pezizales- update: 2016-01-18
+com$adapt GF 01/2018
+1,0$Source : Jan Eckstein _ http://www.octospora.de/Orustica.htm
+1,0$ lien site source $$f"http://www.octospora.de/Orustica.htm"
+1,0$Note : Identification///The main characteristics for species identification are ascospore-size and ornamentation as well as the host species. Below, there is a tentative key, which leads to main groups of species with similar spores. Apart from the key, a list of fungi with their known bryophyte hosts and a list of host bryophytes with the associated parasitic fungi may also help with idendification. 
+1,0$
+
+bryoparasitic_Pezizales-Eckstein_2018
+
+1,2$ Spores globose or nearly so (Q    1.1), ornamented
+1,9 $ Spores subglobose, ellipsoid or fusiform (Q > 1.1), ornamented or not
+2,3 $ Spore ornamentation consisting solely of warts or tubercles
+2,4 $ Spores ornamentation consisting of ridges, sometimes additionally with warts
+3,0 $ Spores ornamented with large wart or tubercles mostly > 1 µm wide $ Lamprospora esterlechnerae, L. maireana, L. rehmii, L. tuberculata, L. tuberculatella
+3,0 $ Spores ornamented with small warts, mostly < 1 µm wide $ Lamprospora ecksteinii, L. lubucensis, L. lutziana, L. spinulosa, L. tuberculatella, Octospora affinis, O. svrcekii, O. wrightii
+4,0 $ Spores ornamented by fine ridges 0.1-0.2 µm wide, host the liverwort Aneura pinguis $ Lamprospora aneurae
+4,5 $ Spore ornamentation consisting of broader ridges, parasitic on mosses
+5,0 $ Ridges of spore ornamentation at least partly > 2 µm wide $ Lamprospora annulata, L. arvensis, L. bavarica, L. dicranellae, L. moynei
+5,6 $ Ridges of spore ornamentation < 2 µm wide
+6,0 $ Spore ornamentation consisting of curved ridges with at least some loose ends, not forming a reticulum or reticulum incomplete $ Lamprospora ascoboloides, L. leptodictya, L. paechnatzii
+6,7 $ Spore ornamentation consisting of curved or straight ridges without loose ends, forming a complete reticulum, sometimes straight ridges can be reduced in various degrees and forming an incomplete reticulum (i.e. L. miniata s.l.)
+7,0 $ Spore ornamentation with curved ridges forming an alveolate reticulum (Seaveri-type) $ Lamprospora cailletii, L. hispanica, L. norvegica, L. seaveri
+7,8 $ Spore ornamentation with straight ridges forming an areolate reticulum
+8,0 $ Ridges of spore ornamentation 1.5-3 µm high $ Lamprospora areolata, L. australis
+8,0 $ Ridges of spore ornamentation mostly less than 1.5 µm high $ Lamprospora campylopodis, L. carbonicola, L. dictydiola, L. ditrichi, L. faroensis, L. feurichiana, L. gotlandica, L. hanfii, L. kristiansenii, L. miniata s.l., L. minuta, L. rugensis, L.spitzbergensis, L. tortulae-ruralis
+9,10 $ Spores ornamented
+9,13 $ Spores smooth or nearly so (ornamentation hardly visible under the light microscope at 1000x magnification)
+10,0 $ Spore ornamentation consisting of ridges froming a ± reticulate pattern $ Lamprospora gotlandica, L. leptodictya, L. retispora, Neottiella aphanodictyon, N. albocincta, N. rutilans, O. canariensis, Octospora neerlandica
+10,11 $ Spore ornamentation consisting of isolated warts
+11,0 $ Asci 4-spored or 4-8-spored $ Octospora alpestris, O. phagospora
+11,12 $ Asci predominantly 8-spored
+12,0 $ Spores > 22 µm long, ellipsoid, narrowly ellipsoid or fusiform $ Neottiella vivida, O. bridei, O. echinospora, O. megapolitana
+12,0 $ Spores    22 µm long, subglobose, broadly ellipsoid or ellipsoid $ Octospora affinis, O. americana, O. cashii, O. ciervensis, O. erzbergeri, O. fissidentis, O. heterosculpturata, O. ithacaensis, O. meslinii, O. moravecii, O. orthotrichi, O. pseudoampezzana, O. similis, O. splachnophila, O. svrcekii, O. texensis, O. wrightii
+13,14 $ Asci 4-spored or 4-8-spored
+13,15 $ Asci predominantly 8-spored
+14,0 $ Spores on average > 27 µm long $ Octospora axillaris var. tetraspora, O. coccinea var. tetraspora
+14,0 $ Spores on average < 27 µm long $ Octospora gemmicola var. tetraspora, O. itzerottii, O. leucoloma var. tetraspora
+15,0 $ Spores on average < 20 µm long $ Octospora bryi-argenti, O. gyalectoides, O. hetieri, O. humosa, O. lilacina, O. mnii, O. nemoralis, O. rubens, O. rustica, O. subglobispora
+15,16 $ Spores on average > 20 µm long
+16,0 $ Spores on average > 13 µm wide $ Neottiella ricciae, Octospora excipulata, O. grimmiae
+16,0 $ Spores on average < 13 µm wide $ Octospora axillaris, O. coccinea, O. gemmicola, O. grimmiae, O. guestfaliensis, O. gyalectoides, O. humosa, O. leucoloma, O. musci-muralis, O. musci-muralis var. neglecta

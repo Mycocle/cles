@@ -1,0 +1,95 @@
+titre $Essai taxinomique sur le genre Gyromitra Fr. sensu lato
+com$Van Vooren N. & Moreau P.-A. 2009  http://www.ascomycete.org 
+
+clé des genres
+
+1,2 $Apothécie sessile ou substipitée
+1,3 $Apothécie stipitée
+2,cs5$Spores majoritairement biguttulées $subgen. Melaleucoides$s"subgen. Melaleucoides"
+2,cs2 $Spores majoritairement uni ou triguttulées  $$s"subgen. Discina"
+3,cs6 $Partie fertile campanulée  $$s"gen. Pseudorhizina"
+3,4 $Partie fertile de forme lobée, cérébriforme ou helvelloïde
+4,cs1 $Spores lisses ou finement verruqueuses, sans véritables apicules ou avec une calotte basse $$s"subgen. Gyromitra"
+4,5 $Spores majoritairement uni ou triguttulées, fortement ornées
+5,cs3 $Spores ornées d'épines ou avec des apicules isolés, épineux  $$s"subgen. Caroliniana"
+5,cs2 $Spores différentes à apicules coniques ou en forme de calotte $$s"subgen. Discina"
+
+cs1,0$
+rem$Clé de détermination des espèces du sous-genre Gyromitra
+1,2 $Espèces printanières, à chapeau généralement cérébriforme, sans lobes distincts 
+1,5 $Espèces estivales ou automnales, à chapeau généralement mitriforme à lobé
+2,3 $Spores sans calotte apicale ou peu distincte
+2,4 $Spores avec calotte apicale distincte
+3,0 $Chapeau brun sombre, pied court. Spores 13-18 × 7,5-8,5 µm, à grosses guttules × 4,5-6 µm, périspore à peine épaissie aux extrémités. Zone boréoarctique sous conifères, subnival dans les Alpes $G. columbiana
+3,0 $Chapeau brun-rouge, pied blanc, bien développé. Spores 18-25 × 8-10 µm, périspore non sensiblement épaissie. Habitat variable : pinèdes, pessières, forêts sablonneuses mêlées, etc. $G. esculenta
+3,8$voisines de esculenta (Chapeau brun-rouge, pied blanc, bien développé. Spores 18-25 × 8-10 µm, périspore non sensiblement épaissie. Habitat variable : pinèdes, pessières, forêts sablonneuses mêlées, etc. )
+rem$3,0 $Idem à spores plus petites (en moyenne), hyménium fauve $G. esculenta var. fulva
+rem$3,0 $Idem à spores supérieures à 27 µm de long (moyenne) $G. esculenta var. bubaci
+rem$3,0 $Idem précédent mais " blanchâtre à ivoire " (forme albinos) $G. esculenta var. alba
+rem$3,0 $Idem précédent mais à port plus grêle. Sous feuillus $G. neuwirthi
+4,0 $Chapeau brun sombre. Spores subfusoïdes, 23-28 × 11,5-13,5 µm $G. splendida
+4,0 $Chapeau brun sombre. mais stipe très allongé. Spores 19-28 × 9-13 µm $G. longipes
+4,7 $Chapeau hémisphérique, brun-rouge, à marge libre. Stipe blanc, robuste, ponctué de méchules brunes.
+5,0 $Spores à tendance losangique, à sommets plus étranglés, plus grandes que la précédente ; teintes violettes présentes $G. ambigua
+5,0 $Spores strictement elliptiques, à sommets arrondis, 19-24 × 7-8,5 µm $G. infulaG. sichuanensis est une " miniature " du précédent possédant des spores finement verruqueuses, connue uniquement de Chine. ///G. chirripoensis, décrit du Costa Rica, est proche mais à spores non calottées.
+7,0 $Sous Pinus $G. tasmanica
+7,0,n $Sous Nothofagus, on trouve G. antarctica, très similaire.
+8,0 $* à spores plus petites (en moyenne), hyménium fauve $G. esculenta var. fulva
+8,0 $* à spores supérieures à 27 µm de long (moyenne) $G. esculenta var. bubaci
+8,0 $* " blanchâtre à ivoire " (forme albinos) $G. esculenta var. alba
+8,0 $* à port plus grêle. Sous feuillus $G. neuwirthi
+
+
+cs2,0$
+rem$Clé de détermination des espèces du sous-genre Discina
+1,2 $Apothécies nettement stipités, non cupuliformes $$s"section Pseudogyromitrae"
+1,5 $Apothécies sessiles ou substipités, cupuliformes $$s"section Discina"
+2,0 $Hyménium à citriforme, d'abord ocre-brun, chocolat à maturité; appendices sporaux simples, en forme de capuchons, arrondis Surtout dans les bois de conifères Europe $ D. gigas
+2,3 $Hyménium un peu moins contourné citriforme, plus clair
+3,0 $Spores inférieures à 30 µm de long Sous feuillus $ D. ticiniana
+3,4 $Spores dépassant 30 µm de long
+4,0 $Spores sublisses à rugueuses $ D. Montana
+4,0 $Spores finement réticulées $ D. korfii
+5,6 $Spores jusqu'à 30 µm de long
+5,7 $Spores dépassant 30 µm de long
+6,0 $Appendices sporaux en calotte tronquée ; Apothécies quasiment sessiles, à hyménium avec des tons olivâtres nets, contrastant avec la surface externe blanc ivoire ; marge enroulée au d?ut $ D. geogenia
+6,0 $Appendices sporaux coniques, courts ; Apothécies larges de 1-3 cm, courtement stipitées (pied long jusqu'à 2 cm) $ D. intermedia
+6,0 $Appendices sporaux très longs de 2,5-5 µm ; spores inférieures à 30 µm de long $ D. warnei
+7,9 $Appendices sporaux très courts, largement arrondis à plans-gibbeux, parfois complètement absents
+7,0 $Appendices sporaux longs de 1,5-3,5 µm ; spores dépassant 30 µm de long $ D. perlata
+7,8 $Appendices sporaux longs de 3,5 µm ; spores dépassant 40 µm de long
+8,0 $Spores longues jusqu'à 45 µm, sublisses à faiblement réticulées $ D. fluctuans
+8,0 $Spores jusqu'à 48 µm de long, verruqueuses à fortement réticulées $ D. megalospora
+9,0 $Apothécies larges de 1-5 (9) cm, presque sessiles ; hyménium brun jaune à brunâtre ; paraphyses parfois ramifiées au sommet $ D. olympiana
+9,10 $Apothécies en général plus grandes, 4-15 cm de diamètre, en forme de ventouse à l'état jeune ; hyménium ocre pâle, puis graduellement brun jaunâtre à brun cannelle ; paraphyses non ramifiées
+10,0 $Spores très grandes, 35-45 (52) à 12-15 (18) µm ; Apothécies jusqu'à 6 (7) cm de diamètre ; hyménium rapidement brun cannelle $ D. accumbens
+10,11 $Spores dépassant rarement 35 µm de longueur ; hyménium jaune, brun ocre à brun-orangé
+11,0 $Hyménium initialement lisse, plus ou moins rugueux ; spores 25-35 à 10-15 µm Plutôt sur sols riches en carbonates $ D. leucoxantha
+11,0 $Hyménium fortement bosselé; spores longues de 35-40 µm Espèce américaine (forme luxuriante de leucoxantha ?) $ D. convoluta
+
+
+cs3,0$
+rem$Clé de détermination des espèces du sous-genre Caroliniana
+1,2$Apothécies nettement stipitées $$s"section Caroliniana"
+1,4 $Apothécies sessiles ou substipitées $$s"section Parmae"
+2,0 $Partie fertile citriforme $G.caroliniana
+2,3 $Partie fertile lobée à helvelloïde
+3,0 $Spores inférieures à 30 µm de long ; taxon nord-américain $G.brunnea
+3,0 $Spores pouvant dépasser 30 µm de long, moins larges $G.fastigiata
+4,5 $Spores dépassant 20 µm de long
+4,0 $Spores jusqu'à 20 µm de long $G.microspora
+5,0 $Spores fortement épineuses $G.spinosospora
+5,6 $Spores réticulées à subréticulées, à apicules épineux
+6,0 $Spores parfaitement réticulées, fortement épineuses aux pôles $G.parma
+6,0 $Spores subréticulées, verruco-épineuses aux pôles $G.martinii
+
+
+
+cs5,0$
+1,0$spores  18–22 × 9–10 µm Finement verruqueuse	$G. melaleuca
+1,0$spores 10–14,4 × 7–10 µm  Verruqueuses avec de petites crêtes $G. melaleucoides
+
+.
+cs6,0$ Le genre Pseudorhizina Jacz.
+1,0$spores 16–20,3 × 8,4–10,7 µm Lisses $G. californica
+1,0$spores Ø 8–10 (12) µm Lisses $G. sphaerospora

@@ -1,0 +1,36 @@
+tITRE$Phragmidium- Clave de identificación de especies
+COM$http://www.asturnatura.com  / adapt GF mai  2012
+REM$LANGUE$Espagnol
+
+1,0$  En Sanguisorba $ Phragmidium sanguisorbae
+1,2$ - En Potentilla
+1,4$ - En Rosa
+1,8$ - En Rubus
+1,0$ Note élémentaire sur les uredinales///Les Uredinales ou rouilles sont des parasites végétaux qui causent de grandes pertes dans beaucoup de cultures.///Ils possèdent un cycle biologique compliqué avec plusieurs étapes :///Le stade 0. spermogonies portant les spermaties et hyphes réceptrices///Le Stade I. - écidies portant les écidiospores///Le Stade II. - Uredos portant les urédospores///Le Stade III. - Telios portant les téleutospores ou téliospores///Le Stade IV. - promycelia portant les basidiospores///(cf. http://www.lenaturaliste.net/forum)
+1,0$ cycle_phragmidium (source http://ephytia.inra.fr)$$f"Phragmidium_Cycle.jpg"
+1,0$ Lien vers pages source de la clé  *** $$f"http://www.asturnatura.com/genero/phragmidium.html#clasificacion"
+2,0$  Teliosporas lisas, con 5 – 6 células $ Phragmidium potentillae
+2,3$ - Teliosporas con pequeñas verrugas en el ápice, principalmente con 4 células
+3,0$  Pedicelos de las teliosporas largos e higroscópicos $ Phragmidium andersonii
+3,0$ - Pedicelos de las teliosporas de 15 – 35 micras y no higroscópicos $ Phragmidium fragariae
+4,0$  Teliosporas con 2 células, rara vez con 3 $ Phragmidium kamtschatkae
+4,5$ - Teliosporas con más de 3 células por lo general
+5,0$  Teliosporas cilíndricas – fusiformes, con 8 – 14 células, generalmente 10 – 12 $ Phragmidium fusiforme
+5,6$ - Teliosporas elipsoidales con una papila apical, generalmente con 7 células
+6,0$  Papila apical corta, de 7 a 13 µm $ Phragmidium mucronatum
+6,7$ - Papila apical más larga, de 15 – 21 µm
+7,0$  Ecios a menudo presentes en tallos y frutos, agrupándose en soros de hasta 10 cm $ Phragmidium rosaepimpinellifoliae
+7,0$ Ecios en hojas, peciolos y alas del peciolo, de cómo mucho 3 mm $ Phragmidium tuberculatum
+8,0$  Teliosporas con 4 células $ Phragmidium violaceum
+8,9$ - Teliosporas con más de 4 células
+9,0$  Teliosporas principalmente con 8 – 9 (-14) células $ Phragmidium rubiidaei
+9,10$ - Teliosporas principalmente con 5 – 7 células, nunca más de 9
+10,0$  Teliosporas con un ancho de 30 – 40 µm $ Phragmidium candicantium
+10,11$ - Teliosporas más delgadas, de 20 – 30 micras
+11,0$  Teliosporas con la pared engrosada, de 5 – 7 µm $ Phragmidium bulbosum
+11,12$ - Teliosporas con la pared más fina, de 3 – 4 µm
+12,0$  Eciosporas equinuladas $ Phragmidium acuminatum 
+12,0$ - Eciosporas verrugosas $ Phragmidium arcticum
+
+15,0$Les Uredinales ou rouilles sont des parasites végétaux qui causent de grandes pertes dans beaucoup de cultures.///Ils possèdent un cycle biologique compliqué avec plusieurs étapes :///Le stade 0. spermogonies portant les spermaties et hyphes réceptrices///Le Stade I. - écidies portant les écidiospores///Le Stade II. - Uredos portant les urédospores///Le Stade III. - Telios portant les téleutospores ou téliospores///Le Stade IV. - promicélies portant les basidiospores
+///(cf. http://www.lenaturaliste.net/forum)

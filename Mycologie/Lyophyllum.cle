@@ -1,0 +1,113 @@
+Titre$ Lyophyllum
+com$aménagée et adaptée par GF Oct 2010
+
+1,cs4$Key to 4 species in the Lyophyllum decastes group $$s"decates group" 
+1,cs5$Lyophyllum, key to the staining species $$s"staining species"
+
+rem$ titre$Lyophyllum decastes group 
+rem$ com$Michael Kuo  http://www.mushroomexpert.com/lyophyllum_decastes.html adapt GF 2010
+
+Cs4,0$Key to 4 species in the Lyophyllum decastes group   
+
+1,5$ Documentation et références
+
+1,0 $ Cap white; spores ellipsoid (6-7 x 3.5-4 µ). $ L. connatum
+1,2 $ Cap more highly colored; spores round or nearly so.
+2,0 $ Cap hard and cartilaginous (snapping when broken), with a sturdy and thick cuticle. $ L. loricatum
+2,3 $ Cap softer than above; cuticle not especially thick.
+3,0 $ Cap surface with innate fibers; odor mealy. $ L. fumosum
+3,0 $ Cap surface bald; odor not distinctive. $ L. decastes
+
+5,0$Caractéristiques du groupe///-Ecology: Saprobic; usually growing in dense clusters in disturbed soil (roadbeds, paths, landscaping areas, and so on), or occasionally growing alone or scattered (and sometimes occurring in woods); summer and fall (fall through spring on the West Coast); widely distributed in North America.///-Cap: 3-12 cm; convex, becoming broadly convex or flat; moist (but not slimy) when fresh; smooth; grayish brown to yellowish brown or brown (usually darker when young); often somewhat streaked in appearance; the margin inrolled at first, later even, lobed, or upturned.///-Gills: Attachment variable (attached to the stem, sometimes by a notch, or beginning to run down it); close; white, sometimes yellowing somewhat with age.///-Stem: 5-10 cm long; up to 2 cm thick; smooth; more or less equal; dry; whitish, sometimes becoming brownish toward the base.///-Flesh: White; firm; not changing on exposure.///-Odor and Taste: Taste pleasant and mild, or faintly radish-like; odor not distinctive or somewhat fragrant.///-Spore Print: Pure white.///-Microscopic Features: Spores 4-6 µ; round or nearly so; smooth; inamyloid. Cystidia absent. Basidia with siderophilous granules 
+5,0$REFERENCES: (Fries, 1818) Singer, 1951. (Fries, 1821; Saccardo, 1887; Kauffman, 1918; Smith, 1975; Smith, Smith & Weber, 1979; Arora, 1986; Phillips, 1991/2005; Lincoff, 1992; Barron, 1999; Roody, 2003; McNeil, 2006; Miller & Miller, 2006; Kuo, 2007; Trudell & Ammirati, 2009.) Herb. Kuo 09110406, 01130516, 09110514, 05140601, 11110701 (WW).
+5,0$ Lien$http://www.mushroomexpert.com/lyophyllum_decastes.html$f"http://www.mushroomexpert.com/lyophyllum_decastes.html"
+
+Growth in dense (and often huge) clusters on the ground, usually in areas where the ground has been disturbed (roadbeds, paths, landscaping areas, etc.) but sometimes in woods.///A pure white spore print.///Pleasant or mild taste.Absence of a partial veil or universal veil.///A medium-sized cap that is whitish, brownish, yellowish brown, or grayish brown.///Gills that are white but may yellow somewhat in age.///Spores that are inamyloid, unornamented, and more or less round.///Gill faces and edges that lack cystidia.///Basidia that display granular contents when treated with acetocarmine.when mounted in acetocarmine. Clamp connections present.
+...............
+rem$ titre$LYOPHYLLUM, KEY TO THE STAINING SPECIES 
+rem$ com$Ian Gibson, April 2010, http://www.svims.ca/council/Lyophy.htm /adapt GF oct 2010
+
+cs5,0$LYOPHYLLUM, KEY TO THE STAINING SPECIES 
+1,cs1$microscopic key to the staining species of lyophyllum$$s"microscopic key"
+1,cs2$macroscopic key to the staining species of lyophyllum$$s"macroscopic key"
+1,2$Bibliographie
+
+2,0$  -Arora, David. 1986 Mushrooms Demystified Second Edition. Ten Speed Press, Berkeley. ///-Clémençon, Heinz. 1982. “Type studies and typifications in Lyophyllum (Agaricales). I. Staining Species.” Mycotaxon 15: 67-94. ///-Clémençon, Heinz, Alexander H. Smith. 1983. “New Species of Lyophyllum (Agaricales) from North America and a key to the known staining species.” Mycotaxon 18(2): 379-437. ///-Hofstetter, Valérie, Heinz Clémençon, Rytas Vilgalys, and Jean-Marc Moncalvo. 2002. “Phylogenetic analyses of the Lyophylleae (Agaricales, Basidiomycota) based on nuclear and mitochondrial rDNA sequences.” Mycol. Res. 106(9) 1043-1059. ///-Matheny, P. Brandon, Judd M. Curtis, Valérie Hofstetter, M. Catherine Aime, Jean-Marc Moncalvo, Zai-Wei Ge, Zhu-Liang Yang, Jason C. Slot, Joseph F. Ammirati, Timothy J. Baroni, Neale L. Bougher, Karen W. Hughes, D. Jean Lodge, Richard W. Kerrigan, Michelle T. Seidl, Duur K. Aanen, Matthew DeNitis, Graciela M. Daniele, Dennis E. Desjardin, Bradley R. Kropp, Lorelei L. Norvell, Andrew Parker, Else C. Vellinga, Rytas Vilgalys, and David S. Hibbett. 2006. “Major clades of Agaricales: a multilocus phylogenetic overview.” Mycologia 98(6): 982-995. ///-Miller Jr., Orson K. 1979. Mushrooms of North America. E.P. Dutton. New York Third Printing. ///-Miller Jr., Orson K., Hope H. Miller. 2006. North American Mushrooms. A field guide to edible and inedible fungi. FalconGuide. ///-Moncalvo, Jean-Marc, Rytas Vilgalys, Scott A. Redhead, James E. Johnson, Timothy Y. James, M. Catherine Aime, Valérie Hofstetter, Sebastiaan J.W. Verduin, Ellen Larsson, Timothy J. Baroni, R. Greg Thorn, Stig Jacobsson, Heinz Clémençon, and Orson K. Miller Jr. 2002. “One hundred and seventeen clades of eugarics.” Molecular Phylogenetics and Evolution 23 357-400. ///-Redhead, S.A. 1984. “Mycological observations 13-14: on Hypsizygus and Tricholoma.” Trans. Mycol. Soc. Japan 25: 1-9. ///-Redhead, S.A. 1986. “Mycological Observations 15-16: On Omphalia and Pleurotus.” Mycologia 78(4): 522-528. ///-Singer, Rolf. 1986. The Agaricales in Modern Taxonomy 4th Edition. Koeltz Scientific Books, Koenigstein, Germany. 981 pp. ///-Trudell, Steve, Joe Ammirati. 2009. Mushrooms of the Pacific Northwest. Timber Press. 
+2,0$Lien$http://www.svims.ca/council/Lyophy.htm$f"http://www.svims.ca/council/Lyophy.htm"
+
+
+CS1,0 $ $ MICROSCOPIC KEY TO THE STAINING SPECIES OF LYOPHYLLUM
+1,0$ Croquis micros de Heinz Clémençon, cf Mycotaxon 18, 379-437 $$f"LYOPHYLLUM_PN-STAINING_ SPECIES.jpg"
+1,0 $ a Spores punctate-rough, finely warted, or spiny $ L. scabrisporum
+1,2 $ b Spores smooth
+2,0 $ a Adaxial spore face rhomboidal, supra-apicular plane or depression usually well-developed $ L. geminum
+2,3 $ b Adaxial spore face round to elliptic, with round or pointed base but not rhomboidal
+3,4 $ a Superficial hyphae of stipe frequently agglutinated into massive, erect fascicles; pileipellis 30-60 um thick, gelatinous, with erect, isolated, clustered or intertwisted hairs
+3,6 $ b Superficial hyphae of stipe different; when arranged in erect groups or tufts, then not intertwisted and pileipellis not gelatinous
+4,0 $ a Pileus densely covered with erect, complex knots of braided hyphae $ L. furfurellum
+4,5 $ b Pileus without such knots
+5,0 $ a Pileipellis with a few scattered, cylindrical, short and inconspicuous hairs $ L. stenosporum
+5,0 $ b Pileipellis with separated, dense clusters of small, repent to erect, contorted, clavate, irregular hairs with colorless or brown walls $ L. investitum
+6,7 $ a (3b) Pileus hygrophanous, margin striatulate when wet; spores asymmetrically ovate in side view, thickest towards the apicular end, thinner at the apex, dimensions in the range 6.2-8.7 x 4.3-5.9 um, Q = 1.3-1.8; pileipellis an ixocutis, 30-45 um thick; basidia 25-35 um long
+6,8 $ b Pileus not hygrophanous or margin not striatulate when wet or spores of different shape or pileipellis not gelatinous or thicker than 45 um, or basidia longer than 35 um
+7,0 $ a Odor distinctly of potatoes, pileus dark fuliginous except at margin, fading to grayish brown, surface uneven and pitted $ L. conoideospermum
+7,0 $ b Odor not distinct, pileus very pale watery gray with pallid margin, pallid overall when faded, surface smooth $ L. pallidum
+8,0 $ a (6b) Odor strongly disagreeable rancid-farinaceous; stipe canescent over a pale blue-gray surface by long, cylindrical-wavy hairs, and hollow; basidia 36-40 x 7-8 um; ixocutis 60-80 um thick $ L. canescentipes
+8,9 $ b Odor not strongly disagreeable rancid farinaceous or stipe not canescent or stipe not hollow or basidia of different dimensions, or ixocutis 60-80 um thick not present
+9,0 $ a Odor spermatic, Inocybe-like; pileus 1-2.5 cm broad, very cartilaginous; spores short-ellipsoidal without supra-apicular depression, 5.7-8.0 x 4.7-5.5 um, Q = 1.2-1.6; pileipellis gelatinous $ L. chondrocephalum
+9,10 $ b Odor not spermatic; pileus larger
+10,0 $ a Odor of green corn; spores spherical to short-ellipsoidal: all of the following criteria apply simultaneously to at least 90% of the spores of a preparation: Q=1-1.45, difference between spore-length and width at most 2 um, supra-apicular depression absent $ L. leptosarx
+10,11 $ b Odors various or not distinct; spores elongate-ellipsoidal, frequently asymmetrical: at least one of the following criteria applies to at least half of the spores of a preparation: either Q greater than 1.45, or difference between spore length and width over 2 um, or spores with a supra-apicular depression
+11,12 $ a Stipe naked, even under the gills; odor farinaceous-rancid; cap 2.5-4 cm broad, hygrophanous, dark fuliginous, thin; gills adnate, subdistant; spores 6.5-8.7 x 3.5-5.3 um, with rounded base, without supra-apicular depression; basidia 27-33 um long; marginal cells hyphoid, 3-6 um broad, scattered to rare
+11,13 $ b Not all the characters simultaneously present; stipe covered with some hairs or even a tomentum, at least below the gills
+12,0 $ a Pileipellis not gelatinous, hyphae 2-4 um thick, smooth, colorless, radially arranged, covered with a few interwoven hyphae 5-8 um wide and with brown incrusting pigments and with numerous colorless, smooth, contorted or ramified, erect, 2-3 um broad hairs $ L. fistulosum
+12,0 $ b Pileipellis gelatinous, superficial hyphae 2 to 3 um broad and smooth; hairs rare, scattered, inconspicuous $ L. gracile
+13,0 $ a (11b) Cap margin translucent-striate; stipe hollow, pruinose at apex; spores with a pointed apicular base, 6.7-9.3 x 3.3-5.0 um, Q = 1.6-2.2 $ L. semitale
+13,14 $ b Other combination of characters, spore base round
+14,0 $ a Pileipellis not gelatinous $ L. chamaeleon
+14,15 $ b Pileipellis gelatinous
+15,0 $ a Odor and taste not distinct $ L. piceum
+15,16 $ b Odor farinaceous
+16,0 $ a Basidia 37-42 um long; hyphae of pileipellis interwoven $ L. lubricum
+16,17 $ b Basidia 29-36 um long
+17,0 $ a Cap with erect, cylindrical to slightly irregular hairs, 30-40 x 3-4 um $ L. acutipes
+17,0 $ b Cap without erect hairs $ L. solidipes
+
+
+
+CS2,0$ MACROSCOPIC KEY TO THE STAINING SPECIES OF LYOPHYLLUM
+1,0 $ a Tricholomatoid stature, dry cap with center pallid to dingy gray and margin pallid, cap becoming blackish where bruised, pale ashy gray flesh that becomes darker where bruised, close, pale olive gray gills that stain bluish and finally black, pallid fibrillose stipe that is darker where handled or when old, faint disagreeable odor, somewhat cespitose growth, (spores punctate-rough, finely warted or spiny) $ L. scabrisporum
+1,2 $ b Not as above
+2,0 $ a Fresh cap dark sooty, lubricous, and bald, gills broad gray becoming blackish where bruised or when old, stipe whitish gray darkening where bruised and appressed-fibrillose at first, odor faintly farinaceous, growth cespitose $ L. furfurellum
+2,3 $ b Adaxial spore face round to elliptic, with round or pointed base but not rhomboidal
+3,0 $ a Odor of potatoes $ L. conoideospermum
+3,4 $ b Odor farinaceous, spermatic, green corn, or mild
+4,5 $ a Spermatic or green corn odor
+4,6 $ b Farinaceous or mild odor
+5,0 $ a Green corn odor, flesh thin, stains blue and finally black $ L. leptosarx
+5,0 $ b Green corn odor, flesh slowly gray when bruised $ L. geminum var. olens
+5,0 $ c Spermatic odor, cap cartilaginous, all parts stain directly black $ L. chondrocephalum
+6,7 $ a (4b) Farinaceous odor
+6,14 $ b Mild odor
+7,0 $ a Cap hygrophanous, gray brown to dark brown, moist to buttery, margin translucent-striate, gills pallid or grayish, stem pruinose at apex, often in mountains $ L. semitale
+7,8 $ b Not with this combination of characters
+8,0 $ a Cap dark sooty-gray, when broken cap staining immediately bluish gray to black, pale gray gills, stem hoary over a pale blue-gray surface $ L. canescentipes
+8,9 $ b Not with this combination of characters
+9,10 $ a Stem solid when mature
+9,11 $ b Stem hollow or stuffed with pith when mature
+10,0 $ a Cap pale gray to blackish, (with erect, cylindrical to slightly irregular hairs, 30-40 x 3-4 um) $ L. acutipes
+10,0 $ b Cap buffy brown to olive brown, (without erect hairs) $ L. solidipes
+11,0 $ a (9b) Cap flesh not changing in color when cut, gills staining bluish gray when cut or bruised $ L. gracile
+11,12 $ b Cap flesh changing in color when cut, gills staining various colors when cut or bruised
+12,0 $ a Pileipellis Gills staining yellowish then bluish $ L. chamaeleon
+12,13 $ b Gills staining black
+13,0 $ a Cap 4-7 cm broad, stipe 6-11 cm x 1.0-1.6 cm at top, narrowing down to pointed, somewhat rooting base, stuffed becoming hollow, pallid soon darkening and dingy, innately fibrillose often lacerating into scales that become cinnamon buff $ L. lubricum
+13,0 $ b Cap 2.5-4 cm broad, stipe 2-5 cm x 0.4-1.0 cm, hollow, wavy and compressed or grooved, fragile, pale dingy gray (blackening when old), bald $ L. fistulosum
+14,15 $ a (6b) Gills somewhat decurrent, caps medium to dark gray (fuliginous or sooty) when moist
+14,16 $ b Gills adnate, caps pale gray or drab when moist
+15,0 $ a Flesh staining blackish $ L. piceum
+15,0 $ b Odor farinaceous $ L. stenosporum
+16,0 $ a (14b) Cap drab when moist, stem surface pallid from thin hoary coating $ L. investitum
+16,17 $ b Cap pale gray when moist, hoary coating on stem not recorded
+17,0 $ a Cap lubricous to viscid when wet, flesh turning bluish gray, stem surface not discoloring noticeably when bruised, (spores elliptic 6.2-7.4(8.5) x 4.5-5.2(6.5) um) $ L. pallidum
+17,0 $ b Cap moist, flesh turning gray, stem surface whitish becoming gray where handled, (spores fusoid-ventricose 8.8-11.6 x 4.1-6.2 um) $ L. geminum var. geminum

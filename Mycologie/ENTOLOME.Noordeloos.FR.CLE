@@ -1,0 +1,365 @@
+  rem $  Entolomes de Noordeloos
+Titre$Entolomes de Noordeloos
+Com$traduit par Y.Deneyer, adapt GF dec 2007
+Clé des entolomes de Noordeloos
+
+Clé des sous-genres
+titre$Clé des entolomes de Noordeloos
+com$Traduction Y. Deneyer
+1,CS1$ . Stipe réduit, excentré ou latéral, parfois absent   (SS. genre Claudopus)$ $s"  Clé N° 1"
+1 ,2$. Stipe bien développé, normalement central, rarement excentrique
+2,3$ . Chapeau et/ou pied teinté de bleu ou de violet 
+2,4$ . Chapeau et stipe sans bleu ni violet
+3,CS2$ . Chapeau ET pied teintés de bleu ou de violet  (SS. genre Leptonia et Entoloma)$$s"  Clé N° 2"
+3 ,CS3$. Seulement le stipe teinté de bleu ou de violet  (SS. genre Leptonia et Omphaliopsis) $$s"  Clé N° 3"
+4,5$. Chapeau glabre, rarement ( pelucheux ou villeux au centre. Cuticule à cutis ou ixocutis composée d'hyphes cylindriques de 2 à 10 µm de large. Parfois avec qqes éléments terminaux plus larges, surtout au centre.
+4,6$ . Chapeau radialement fibrilleux, tomenteux ou squamuleux, rarement glabre. Cuticule à cutis,  trichoderme ou hyménoderme, composée d'hyphes larges de 10 à 25 µm, souvent à éléments terminaux encore plus larges.
+5,CS4$. Carpophores assez charnus, tricholomoïdes, rarement collybioïdes, mycènoïdes ou omphaloïdes. Trame piléique ou hyméniale composée d'éléments plutôt courts et enflés de 40 à 150 µm de long.   (SS. genre Entoloma) $$s"  Clé N° 4"
+5,cs5$ Carpophores relativement peu charnus, mycènoïdes plus rarement collybioïdes ou omphaloïdes, trame piléique et hyméniale composée d'éléments plutôt longs et fusiformes de 100 à 450 µm. (SS. genre Nolanea)  $$s"Clé N° 5"
+6 , cs6$ Aspect omphaloïde. Pigment incrustant, dans la cuticule et la trame piléique  (SS. genre Claudopus) $$s" Clé N° 6"
+6,7$  . Aspect mycènoïde, tricholomoïde ou collybioïde. Si omphaloïde alors pigment intracellulaire ou absent.
+7,cs7$ . Aspect mycènoïde ou tricholomoïde, pigment incrustant, boucles absentes (SS. genre Pouzarella)  $$s" Clé N° 7"
+7 ,8$  Aspect tricholomoïde, mycènoïde, collybioïde ou omphaloïde, pigment intracellulaire ou absent, rarement incrustant mais alors boucles présentes
+8 ,cs8$ Aspect tricholomoïde, cheilocystides très visibles et protubérantes (SS. genre Trichopilus et Allocybe) $$s" Clé N° 8"
+8 ,9$. Aspect mycènoïde, collybioïde ou omphaloïde, rarement tricholomoïde mais alors sans larges cheilocystides
+9 ,cs9$  Chapeau conique à convexe à papille nette. Boucles présentes (SS. genre Inocephalus)  $$s"Clé N° 9"
+9 ,cs10$ Chapeau conique à convexe, légèrement déprimé ou nettement ombiliqué, rarement avec une petite papille mais alors boucles absentes (SS. genres Leptonia, Alboleptonia et Poraleptonia)$$s" Clé N°10"
+
+figure
+Types de spores : 1 . isodiamètrique	2 . Héterodiamètrique 3 . Noduleux				4 . Cubique						5 . Cruciforme-étoilé 
+
+CS1,0$ Clé N° 1  Stipe réduit, excentré, latéral ou absent.$
+1,0$  Types de spores $ Types de spores$f"entoloma_Typ_Spore.gif"
+1,0$ . Spores larges > 10 µm, subisodiamètriques Q= 1,1-1,2. Carpophores blancs à gris pâle$135 . E. parasiticum
+1 ,2$. Spores petites < 9 µm, hétérodiamètriques Q= 1,3-1,7. Carpophores blancs à bruns
+
+2,0$ . Pas de cheilocystides, chapeau ( glabre $ 134 . E. byssisedum
+2,0$. Cheilocystides présentes, cylindriques souvent flexueuses. Chapeau couvert de méchules blanc argenté  $ 136 . E. depluens
+
+cs2,0$ Clé N° 2  Chapeau et pied avec du bleu ou du violet
+
+1,0$ . Arête des lames bleu noir, fimbriée  $ 110 . E. serrulatum
+1,2$ . Arête des lames concolore ou brune
+2,3$. Chapeau glabre ou légèrement rugueux ou villeux seulement au centre. Cuticule à (ixo)cutis composée d'hyphes étroites, cylindriques. Spores isodiamètriques.
+2,4$. Chapeau radialement fibrilleux, tomenteux ou squamuleux, rarement ( glabre. Cuticule à cutis avec intermédiaire vers trichoderme ou à trichoderme, plus rarement à hyménoderme avec éléments terminaux enflés de 10 à 45 µm de large.
+3,0$ . Aspect mycènoïde, stipe plus long que le diam. du chapeau, chapeau restant normalement bleu avec l'âge, en forêt. $ 6 . E. nitidum
+3,0$ . Aspect tricholomoïde. Longueur du stipe n'excédant pas le diam. du chapeau, ce dernier souvent décolorant à brun avec l'âge. Pelouses peu fumées.  $ 5 . E. bloxamii
+4 ,9$. Boucles absentes , cuticule à éléments terminaux cylindriques à clavés
+4,5$  Boucles présentes dans l'hyménium et dans la cuticule, celle-ci à trichoderme constitué d'hyphes septées à éléments terminaux cylindriques ou atténués, rarement clavés.
+5 ,6$. Chapeau et stipe couverts du même bleu ou violet
+5,7$ . Chapeau non concolore au pied.
+6 ,0$. Chapeau et stipe violets. Lames violettes à arête brune. Cheilocystides + avec pigment intracellulaire. Sur bois de feuillu. Odeur de bonbon. $ 100 . E euchroum
+6,0$  . chapeau et stipe bleu foncé, lames blanches ou légèrement nuancées de bleu. Cheilocystides. Terrestre, odeur non distincte.  $ 105 . E. lepidissimum
+7,0$. Chapeau gris-brun, seulement occasionnellement nuancé de bleu ou de taches bleues à la marge, spores à paroi mince et fortement anguleuses  $ 103 . E. tjallingiorum
+7,8$ . Chapeau lilas ou violet parfois mélangé de brun. Spores à parois relativement épaisses et angles prononcés.
+8,0$ . Stipe bleu profond ou bleu acier, initialement fibrilleux ou glabre. Pigment intracellulaire  $ 101 . E. dichroum
+8,0$ . Stipe violet pâle à foncé couvert de fibrilles floconneuses plus sombres, rouge violacées surtout en haut, pigment intracellulaire incrustant les parois internes des hyphes de la cuticule.  $ 102 . E. allochroum
+9 ,10$. Chapeau strié par transparence jusqu'à mi-rayon, habituellement squamuleux au centre seulement
+9,11$ . Chapeau non strié par transparence, habituellement entièrement fibrilleux, tomenteux ou squamuleux
+10 ,0$. Lames blanches chez les jeunes exemplaires $ 120 . E. pseudocoelestinum
+10,0$ . Lames bleues chez les jeunes exemplaires $ 121 . E. chalybeum var lazulinum
+11 ,12$ Chapeau et stipe bleu foncé, outremer ou violet noirâtre
+11,0$ . Chapeau et stipe concolores, gris violacé $ 122 . E. mougeotii
+12 ,0$. Lames bleues chez les jeunes exemplaires $ 121 . E. chalybeum var chalybeum
+12,0$ . Lames blanches chez les jeunes exemplaires  $ 123 . E. corvinum
+
+
+
+CS3,0$ Clé N° 3  Stipe bleu, bleu acier ou violet, chapeau rose ou ombré de brun, absolument dépourvu de nuance bleue ou violette
+
+1,0$ . Chapeau glabre, cuticule à ixocutis composé d'hyphes cylindriques étroites, boucles abondantes partout. Spores 6-8 x 5-7 µm à parois minces et angles très obtus  $ 27 . E. vinaceum var violeipes
+1,2$. Chapeau radialement fibrilleux, tomenteux ou squamuleux, rarement glabre. Cuticule à cutis ou à trichoderme, plus rarement à hyménoderme, composée d'hyphes relativement larges, enflées, boucles - habituellement. Spores distinctement plus larges et à parois relativement épaisses.
+2 ,4$. Boucles absentes
+2,3$ . Boucles présentes, au moins à la base des basides
+3 ,0$. Spores 8-10(11) X 6-8 µm Q<1.25 (sub)isodiamètriques, stipe gris bleu souvent envahi de brun avec l'âge, lisse ou faiblement fibrilleux, chapeau 5-20 mm de large, dans les pelouses souvent près des fourrés à Juniperus  $104 . E. juniperinum
+3 ,0$. Spores 9-11 X 6-7.5 µm Q>1.35 hétérodiamètriques. Stipe bleu profond fibrilleux floconneux, chapeau 20-50 mm de large, sur et autour de souches et branches de chêne, sous feuillus en général $103 . E. tjallingiorum
+4 ,5$. Lames à arête stérile ou hétérogène, cheilocystides présentes
+4,9$ . Lames à arête fertile, cheilocystides absentes
+5 ,0$. Lames à arête bleu noirâtre, fimbriée $ 111 . E. caesiocinctum
+5,6$ . Lames à arête concolore ou brune, entière ou fimbriée
+6 ,0$. Spores < 10 µm  $113 . E. poliopus var parvisporigerum
+6 ,7$. Spores > 10 µm
+7 ,0$. Stipe couvert de fibrilles floconneuses nettement bleues  $ 114 . E. caeruleoflocculosum
+7,8$ . Stipe +/- glabre, lisse. 
+8 ,0$. Chapeau brun ( sombre, habituellement profondément strié par transparence, cheilocystides largement clavées de 12-30 µm de large, non pigmentées, arête des lames concolore  $112 . E. sodale
+8 ,0$. Chapeau brun sombre à noirâtre, strié par transparence à la marge ou non strié, cheilocystides clavées, parfois cylindriques, de5-20 µm de large, souvent à pigment intracellulaire brun, lames à arête concolore ou brune  $113 . E. poliopus
+9 ,10$. Stipe glabre, lisse ou avec quelques fibrilles éparses, chapeau normalement profondément strié par transparence
+9,12$ . Stipe fibrilleux ou floconneux sur toute la longueur, chapeau non strié par transparence ou seulement à la marge
+10 ,0$. Longueur des spores > 10 µm, stipe gris avec une nuance violette, chapeau sépia ou gris-brun $116 . E. huijsmanii
+10 ,11$. Longueur des spores < 10 µm, stipe bleu ou gris acier, chapeau brun-jaune ou brun-rosâtre
+11 ,0$. Chapeau brun-jaunâtre, plutôt pâle, pigment exclusivement intracellulaire, pelouses peu fumées  $115 . E. lividocyanulum
+11,0$ . Chapeau brun rosâtre, trame piléique à hyphes délicatement incrustées, sous feuillus aux endroits riches en humus, jardins $ 141 . E. incarnatofuscescens
+12 ,0$. Chapeau assez pâle à brun ( sombre, cuticule à trichoderme à la marge à hyméniforme au centre, composée d'éléments terminaux plutôt fortement enflés jusqu'à 45 µm de large, stipe bleu pâle à violeté couvert de nombreuses fibrilles blanc argenté  $ 118 . E. griseocyaneum
+12,13$ . Chapeau brun sombre à noir, cuticule à trichoderme, aux éléments moins enflés jusque 30 µm, stipe bleu foncé ou violacé, sans fibrilles blanches
+13 ,0$. Chapeau conico-convexe subumboné ou papillé, moins souvent ombiliqué, non hygrophane, non strié par transparence, stipe bleu au moins chez les jeunes exemplaires, sans odeur, pelouses  $ 117 . E. anatinum
+13,0$ . Chapeau convexe à plan-convexe, ombiliqué, nettement hygrophane, strié par transparence à la marge, stipe lilas violacé, odeur aromatique, en forêt humide (aulnes)  $ 119 . E. scabrosum
+
+CS4,0 $ Clé N° 4 Chapeau glabre, cuticule à cutis ou ixocutis, trame du chapeau et des lames constituée d'éléments courts, boucles présentes partout, très rarement absentes.
+
+1,2$ . Chapeau non hygrophane, non strié par transparence
+1,8$ . Chapeau nettement hygrophane, strié par transparence ou non
+2 ,0$. Chapeau brun-jaune ( foncé, pelouses  $ 1 . E. prunuloïdes
+2 ,3$. Chapeau blanc, gris pâle, gris-brun ou brun-jaune, en forêt
+3,4$ . Espèce printanière, sous ormes ou rosacées
+3,6$ . Espèces d'été ou d'automne, non associées aux Rosaceae ou ormes mais sous feuillus (Quercus, Fraxinus, Fagus) sur alluvions riches en humus ou terreau calcaire 
+4 ,0$. Chapeau blanc brillant  $ 9 . E. niphoides
+4 ,5$. Chapeau légèrement à nettement pigmenté
+5 ,0$. Chapeau à voile fibrilleux sur les jeunes exemplaires, gris à blanc grisâtre avec l'âge parfois à nuance ocracée, à surface irrégulièrement couverte de taches micacées et glabre par ailleurs, habituellement sortant de la surface de la terre et de ce fait souvent couvert de particules de terre. Spores 10,5-12,5(14) X 10-12 µm, subglobuleuses, sous ormes $ 11 . E. saundersii
+5,0$ . Chapeau sans voile fibrilleux, à maturité normalement brun-jaune à crème, parfois nuancé d'ocracé ou d'orange, à surface assez soyeuse. Spores petites (7,5)8-10,5(11) X (6,5)8-10(11) µm ellipsoïde de profil, sous Rosaceae (Prunus spinosa, Crataegus, Prunus)  $ 10 . E. saepium
+6 ,0$. Chapeau pâle, parfois blanc ou nuancé d'ocre, toutes les parties du carpophore deviennent jaune à la blessure, lames espacées, épaisses. cheilocystides présentes  22-60 X 4-8 µm, cylindriques souvent flexueuses  $ 4 . E. moserianum
+6 ,7$. Chapeau gris-brun pâle ou ocracé, ne devenant jamais jaune à la blessure, lames normalement espacées et normalement épaisses, cheilocystides absentes
+7 ,0$. Lames blanches chez les jeunes exemplaires, chapeau ocracé pâle ou gris $ 3 . E. sinuatum
+7 ,0$. Lames jaunes chez les jeunes exemplaires, chapeau gris brun pâle  $ 2 . E. eulividum
+8 ,9$. Pigment incrustant
+8,14$ . Pigment intracellulaire
+9 ,10$. Chapeau gris brun sombre, brun rouge, sépia ou brun noirâtre ( uniformément coloré, non ou seulement pâle à la marge, habituellement non ou seulement légèrement strié, pigment grossièrement incrustant
+9 ,11$. Chapeau plus pâle, gris brun ou brun-jaune, ou avec des nuances rougeâtres mais parfois avec un umbo brun noir contrastant
+10 ,0$. Carpophore de petite taille, peu charnu, chapeau 10-35 mm, souvent déprimé au centre, stipe 13-45 X 2-5 mm(10 à la base)  $ 21 . E. gerriae 
+10 ,0$. Carpophore plus grand, 25-75 mm, stipe 10-120 X 5-15 mm   $ 22 . E. myrmecophilum
+11 ,0$. Chapeau brun-jaune contrastant fortement avec l'umbo brun noirâtre, pigment grossièrement incrustant  $ 22 . E. myrmecophilum
+11 ,12$. Chapeau ( coloré uniformément, pigment discrètement incrustant
+12 ,0$. Chapeau jaune à brun-jaune, sans trace de gris, sans odeur  $ 19 . E. majaloides
+12 ,13$. Chapeau gris-brun ou gris jaunâtre, parfois nuancé de rouge, odeur distincte nitreuse ou farineuse
+13 ,0$. Chapeau 10-45(55) mm, gris brun sale ou brun rougeâtre, stipe gris sale à presque blanc, faiblement strié à presque lisse, lames gris-brun, odeur farineuse, rance $ 18 . E. sordidulum
+13 ,0$. Chapeau 30-110 mm, brun-jaune ou brun-rougeâtre, stipe blanc brillant, à stries argentées, lames pâles puis roses, odeur faiblement nitreuse d'abord puis souvent farineuse $ 20 . E. sericatum
+14,16$. Spores nettement anguleuses et habituellement à parois ( nettement épaisses  7-11 µm ou plus)
+14 ,15$. Spores faiblement anguleuses avec beaucoup d'angles plutôt obtus à parois fines, et de petite taille 6-8(9) X 5-7(8) µm
+15 ,0$. Carpophores petits à moyens, tricholomoïdes, chapeau 15-60(80) mm convexe, habituellement umboné, lames émarginées à presque libres, stipe 3-8(13) mm  $ 26 . E. turbidum
+15 ,0$. Carpophores petits, collybioïdes ou presque mycènoïdes, chapeau 5-30 mm convexe à centre déprimé, rarement papillé, lames largement adnées, souvent à dent décurrente, rarement émarginées, stipe 1,5-3 mm  $ 27 . E. vinaceum
+16 ,21$. Espèces venant en été ou en automne, non associées aux rosacées ou ormes
+16,17$ . Espèces printanières, associées aux ormes et rosacées, cuticule à ixocutis mince à épais.
+17,18$ . Chapeau modérément sombre à sépia sombre ou gris-brun
+17,19$ . Chapeau pâle, jeune presque blanc puis brun pâle, gris ou ocracé
+18 ,0$. Stipe jeune déjà fistuleux, gaïac + sur la chair du stipe, chapeau glabre strié par transparence, sous ormes  $ 8 . E. aprile
+18 ,0$. Stipe plein et le restant avec l'âge, gaïac- sur la chair du stipe, chapeau habituellement ruguleux, spécialement au centre ou avec de petits trous, non strié par transparence. Sous rosacées  $ 7 . E. clypeatum
+19 ,0$. Gaïac + sur la chair du stipe, devenant orangé à la blessure  $ 10 . E. saepium
+19 ,20$. Gaïac - sur la chair du stipe, ne devenant pas orangé à la blessure
+20 ,0$. Lames épaisses et espacées, jaunes chez les jeunes exemplaires, stipe blanc puis nuancé de jaune  $ 7 . E. clypeatum var xanthophyllum
+20 ,0$. Lames moyennement espacées, habituellement épaisses, blanches ou gris pâle chez les jeunes exemplaires, stipe blanc ou gris  $ 7 . E. clypeatum var pallidogriseum
+21 ,22$. Forme collybioïde à chapeau ( déprimé, stipe glabre, souvent lisse , rarement couvert de fibrilles apprimées )
+21 ,24$. Forme tricholomoïde, chapeau habituellement largement umboné, stipe habituellement nettement strié à fibrilles apprimées ou détachées
+22 ,0$. Basides 2 spores  $ 25 . E. bisporigerum
+22 ,23$. Basides 4 spores
+23 ,0$. Spores hétérodiamètriques Q=1,1-1,5, odeur farineuse  $ 24 . E. cacabus
+23 ,0$. Spores isodiamètriques à subisodiamètriques Q= 1-1,3 sans odeur ou odeur légèrement nitreuse  $ 23 . E. politum
+24 ,25$. Chapeau blanc brillant ou jaune grisâtre très pâle et odeur jamais nitreuse
+24,26$ . Chapeau nettement coloré, si très pâle alors odeur nitreuse
+25 ,0$. Cheilocystides absentes $ 14 . E. speculum
+25 ,0$. Cheilocystides présentes $ 15 . E. leucocarpum
+26 ,0$. Lames brun rougeâtre sombre, spores anguleuses allongées 9,5-12,5 X 6,5-9 Q=1,3-1,4 $ 17 . E. sphagneti
+26 ,27$. Lames jamais brun rougeâtre sombre, spores subisodiamètriques Q=1,15-1,25
+27 ,0$. Forme robuste, chair ferme, chapeau à chair épaisse, sépia ( sombre ou brun, lames blanches puis roses, stipe blanc ou gris-jaune pâle, brillant, fibrilleux-strié, odeur farineuse $13 . E. lividoalbum
+27,28$ . Forme petite à moyenne, mais alors à chair assez fragile, stipe creux et odeur nitreuse
+28 ,0$. Chapeau 20-75 mm, brun-jaune pâle, stipe 25-95(125) X 5-15 mm, strié, odeur nitreuse $ 12 . E. nidorosum
+28,0$. Chapeau 15-35(50) mm, brun ( sombre, souvent avec une nuance rougeâtre, stipe 25-50 X 1,5-4 mm, seulement faiblement strié, odeur farineuse $ 16 . E. subradiatum
+
+
+
+CS5,0$ Clé N° 5 Carpophores mycènoïdes, rarement collybioïdes ou omphaloïdes, trame hyméniale constituée d'éléments longs et enflés
+
+
+
+1,2$. Spores cruciformes, étoilées ou cubiques
+1,3$ . Spores à 5 angles et plus, jamais cruciformes étoilées
+
+2 ,0$. Spores cruciformes-étoilées, cheilocystides absentes $ 40 . E. conferendum
+2 ,0$. Spores cubiques, cheilocystides présentes, lagéniformes $ 41 . E. rhombisporum
+3 ,4$. Cheilocystides +
+3,14$ . Cheilocystides absentes
+
+4 ,0$. Lames vert olivâtre, surtout chez les jeunes exemplaires  $ 85 . E. chlorophyllum
+4 ,5$. Lames blanches, gris ou brun chez les jeunes exemplaires
+5 ,0$. Spores isodiamètriques, cheilocystides subcylindriques à tibiformes   $ 53 . E. tibiicystidiatum
+5 ,6$. Spores hétérodiamètriques Q > 1,2
+6 ,7$. Cheilocystides globuleuses ou sphéropédonculées
+6 ,8$. Cheilocystides cylindriques clavées, lagéniformes ou lécithiformes
+7 ,0$. Boucles présentes, pigment incrustant $ 55 . E. sphaerocystis
+7,0$ Boucles absentes, pigment intracellulaire $ 83 . E. globuliferum
+8 ,11$. Pigment incrustant, parfois aussi intracellulaire
+8 ,9$. Pigment seulement intracellulaire
+9 ,0$. Cheilocystides lécithiformes, tibiformes, lames brun très sombre chez les jeunes exemplaires  $ 82 . E. inutile
+9 ,10$. Cheilocystides fusiformes, étroitement lagéniformes ou cylindriques, lames pâle à brun ( sombre )
+10 ,0$. Spores < 10 µm, cheilocystides cylindriques souvent subcapitées jusqu'à 40 µm de long  $ 81 . E. cryptocystidiatum
+10,0$ . Spores > 10 µm, cheilocystides cylindriques à fusiformes ou étroitement lagéniformes, longues de plus de 40 µm  $ 80 . E. velenovskyi
+11 ,12$. Pigment incrustant et intracellulaire dans le subpellis, odeur nulle ou farineuse
+11,0$ . Pigment seulement incrustant, odeur forte aromatique de caramel   $  55 . E. sacchariolens
+12 ,0$. Spores 6-7,5(8) µm, stipe élancé 1-3(5) mm épaisseur  $ 39 . E hebes
+12,13$ . Spores 8-9,5, stipe 3-7(10)mm épaisseur
+13 ,0$. Chapeau conique, seulement légèrement étalé avec une marge involutée, stipe plus long que le diam. du chapeau  $ 37 . E. hirtipes
+13 ,0$. Chapeau convexe puis plan-convexe, souvent avec une petite papille et marge droite, stipe 1 à 2 X le diam. du chapeau.  $ 38 . E. kuehnerianum
+14 ,15$. Basides bisporiques
+14 ,17$. Basides tétrasporiques
+15 ,0$. Boucles présentes, pigment finement incrustant, stipe à poils capités au sommet $ 47 . E. cuspidiferum
+15 ,16$. Boucles absentes, pigment membranaire ou intracellulaire, stipe sans poils capités
+16 ,0$. Carpophore collybioïde ou omphaloïde, chapeau habituellement déprimé, stipe glabre, lisse, odeur et surtout saveur nettement farineuses  $ 68 . E. farinogustus
+16 ,0$. Carpophore mycènoïde, souvent à papille distincte sur le chapeau. Stipe strié argenté, odeur et saveur nulles  $ 67 . E. cetratum
+17 ,18$. Pigment seulement intracellulaire
+17,29$ . Pigment incrustant (spécialement sur les hyphes les plus étroites de la cuticule et au bout de la trame piléique), parfois aussi intracellulaire
+18 ,19$. Spores isodiamètriques Q=1,05-1,15 
+18,20$ . Spores hétérodiamètriques
+19 ,0$. Chapeau habituellement convexe à concave, déprimé au centre, brun rougeâtre, boucles absentes $ 28 . E. costatum
+19,0$ . Chapeau habituellement convexe avec une papille, gris brun sombre, boucles présentes dans 'hyménium  $ 71 . E. occultopigmentatum
+20 ,21$. Chapeau sans nuance olivâtre, odeur nulle ou farineuse
+20,0$ . Chapeau olivâtre, odeur le plus souvent forte, aromatique de caramel ou rappelant H. sacchariolens  $ 84 . E. pleopodium
+21 ,22$. Spores 5-7 µm de largeur
+ 21 ,24$. Spores 7-10 µm de largeur
+22 ,0$. Chapeau brun noirâtre, spores irrégulières à 6-9 angles  $  79 . E. undulatosporum
+22 ,23$. Chapeau brun ( sombre, brun rouge à brun jaune, spores régulières à 5-7 angles
+23 ,0$. Stipe jaune ( sombre ou brun rouge, chapeau brun jaune ou brun rougeâtre, odeur fortement nitreuse  $ 76 . E. chlorinosum
+23,0$ . Stipe gris-brun à brun noirâtre, chapeau brun ( sombre, souvent nuancé d'ocre, odeur nulle  $ 75 . E. solsticiale
+24 ,26$. Stipe strié couvert de fibrilles argentées
+24,25$ . Stipe lisse
+25 ,0$. Stipe brun sombre, chapeau brun noirâtre $ 78 . E. triste
+25 ,0$. Stipe jaune, chapeau rosâtre ou brun rouge $ 77 . E. verecundum
+26 ,27$. Spores 10-12 µm de longueur Q=1,25-1,5 en forêt
+26 ,28$. Spores 8,5-10 µm Q=1,1-1,4, pelouses
+27 ,0$. Chapeau brun datte à papille jaune, stipe brun jaune le plus souvent pruineux seulement au sommet  $ 69 . E. cuneatum
+27 ,0$. Chapeau et stipe brun très pâle, entièrement pruineux  $ 70 . E. lanuginosipes
+28 ,0$. Chapeau gris-brun pâle légèrement nuancé d'ocracé, strié de brun sombre vers le centre, lames grises puis brun (sombre) rose, largement ventrues, épaisses  $ 73 . E. ventricosum
+28,0$ . Chapeau brun orangé pâle à stries gris-brun vers le centre, lames rose pâle sans nuance grise, (sub)ventrues, épaisses  $ 72 . E. calthionis
+29 ,37$. Boucles présentes, au moins dans l'hyménium
+29,30$ . Pas de boucles
+
+30,0$ . Pigment finement incrusté, chapeau ombiliqué, spores isodiamètriques Q=1-1,2 $ E. sericeoides
+30,31$ . Pigment grossièrement incrusté mais aussi intracellulaire sous forme de granules agglutinées dans la cuticule, chapeau le plus souvent papillé, spores hétérodiamètriques Q > 1,2
+31 ,32$. Stipe distinctement strié argenté
+31 ,33$. Stipe glabre, lisse ou légèrement pruineux
+32 ,0$. Chapeau gris-brun nuancé de jaune ou rouge, palissant en séchant, lames blanches puis roses, chair très fragile dans le chapeau, spores 8-10,5(11) X 6-7(7,5)  $ 62 . E. acidophilum
+32 ,0$. Chapeau gris-brun, lentement palissant en séchant, lames gris-brun pâle puis rose sale, chair relativement ferme dans le chapeau, spores 7,5-9,5(10,5) X 6-7(7,5) µm  $ 63 . E. argentéostriatum
+33 ,0$. Stipe jaune  $ 66 . E. xanthocaulon
+33 ,34$. Stipe gris brun
+34 ,0$. Spores faiblement anguleuses, arrondies 6,5-8 X 5,5-7(7,5) µm Q=1,2  $ 65 . E. defibulatum 
+34 ,35$. Spores nettement anguleuses Q > 1,25
+35 ,0$. Spores 9-12,5 µm Q=1,45  $ 64 . E. cuniculorum
+35 ,36$. Spores < 10,5 Q=1,3
+36 ,0$. Chapeau faiblement hygrophane, strié par transparence à la marge seulement, fibrilleux subsquamuleux  $ 60 . E. fernandae
+36 ,0$. Chapeau nettement hygrophane et profondément strié par transparence, glabre $ 61 . E. psilopus
+37,38$ . Spores isodiamètriques Q=1,1
+37,40$ . Spores hétérodiamètriques Q > 1,25
+38 ,0$. Pigment incrustant seulement, ou rarement avec pigment intracellulaire, subpellis indistinct, forme collybioïde, plus rarement mycènoïde. Pelouses $ 57 . E. sericeum
+38 ,39$. Pigment finement incrustant et intracellulaire, spécialement dans le subpellis qui est habituellement bien développé
+39 ,0$. Chapeau brun ( sombre, souvent nuancé d'ocre, couvert de fibrilles détachées, brillant, stipe fortement strié argenté, odeur faible terreuse, jamais farineuse  $ 52 . E. nitens
+39 ,0$. Chapeau brun sombre ou gris-brun, glabre, stipe glabre ou substrié avec qqes fibrilles détachées, odeur forte farineuse ou rance  $ 51 . E. juncinum
+40 ,0$. Odeur forte aromatique de caramel, proche d' H. sacchariolens  $ 54 . E. ameides
+40 ,41$. Odeur nulle ou farineuse
+41,42$ . Chapeau et stipe beige pâle ou brun, carpophores petits et fragiles. Pas d'odeur
+41,44$ . Chapeau et stipe brun ( sombre à brun très sombre, brun-rouge, sépia ou brun-jaune
+42 ,43$. Chapeau à papille nette, jamais déprimé, lames gris rose
+42,0$ . Chapeau généralement légèrement déprimé au centre avec des taches sombres, rarement papillé, lames rose pâle, stipe glabre, lisse. Spores 8-10,5(11,5) X 6,5-8(8,5) µm  $ 50 . E. minutum
+43,0$ . Stipe avec poils capités au sommet, spores 9,5-12 (14) X 7-9,5 $ 48 . E. favrei
+43,0$ . Stipe dépourvu de poils, entièrement glabre, spores 7,5-9,5(10,5) X 6-8(8,5)  $ 49 . E. pygmaepapillatum
+44 ,0$. Spores aux angles très obtus, plus ou moins arrondies, 7,5-8,5(9,5) X 5,5-7,5(8,5) Q=1,1-1,3, stipe très strié argenté  $ 46 . E. ortonii
+44,45$ . Spores très anguleuses, stipe lisse ou substrié
+45,46$ Spores un peu plus larges Q>1,3
+45,0$ . Spores 8,5-10,5 X 5,5-8(9) Q=1,2-1,25  $ 44 . E. lucidum
+46 ,0$. Lames brun très sombre déjà sur les jeunes exemplaires, épaisses, chapeau et stipe brun très sombre, lisses, odeur nulle  $ 43 . E. clandestinum
+46,47$ . Lames blanches ou pâles, jamais brun sombre sur les jeunes exemplaires, normalement épaisses, stipe brun ( sombre, odeur farineuse ou nulle
+47 ,49$. Spores > 10 µm de longueur
+47,48$ . Spores < 10 µm de longueur
+48 ,0$. Chapeau brun rougeâtre, couvert de fibrilles radiales, brillantes, stipe substrié, lames brun rose  $ 45 . E. sericeonitens
+48 ,0$. Chapeau glabre, brun jaune ou brun rouge, pâlissant fortement en séchant, stipe lisse, lames blanches puis roses  $ 74 . E. infula
+49 ,0$. Chapeau brun rouge sombre ou sépia, stipe concolore lisse ou substrié sans poils distincts, pelouses peu fumées, été et automne $ 42 . E. papillonatum
+49,0$ . Chapeau brun sombre ou sépia, parfois avec une nuance légèrement olivâtre, stipe concolore ou plus pâle à pruine blanche sommitale avec poils cylindriques ou clavés. Forêt de conifères au printemps $ 56 . E. vernum
+
+
+CS6,0$ Clé N° 6 Aspect omphaloïde, rarement collybioïde, pigment souvent grossièrement incrusté dans la cuticule et la trame piléique
+
+1,0$. Spores nettement hétérodiamètriques Q=1,35-1,4, chapeau non-hygrophane, non strié par transparence, entièrement subtomenteux ou radialement fibrilleux, souvent ( zoné )  $ 137 . E. undatum
+1 ,2$ . Spores (sub)isodiamètriques Q=1,0-1,15, chapeau faiblement à distinctement hygrophane, strié par transparence par temps humide
+2 ,0$. Chapeau brun rosé pâle, cheilocystides présentes, étroitement lagéniformes. Boucles présentes   $ 138 . E. rhodocylix
+2 ,3$. Chapeau brun ( sombre à brun très sombre, cheilocystides clavées à subglobuleuses quand il y en a. Boucles absentes
+3 ,0$. Cheilocystides absentes, lames pâles puis brun rosâtres, chapeau brun ( sombre  $ 139 . E. rusticoides
+3 ,0$. Cheilocystides présentes, largement clavées à subglobuleuses, lames gris très sombre à brun sur les jeunes exemplaires, chapeau brun très sombre à presque noir  $ 140 . E. phaeocyathus
+
+
+CS7,0 $Clé N° 7  Aspect mycènoïde, cuticule à pigment incrusté, pas de boucles
+
+1 ,2$. Cheilocystides présentes, rarement absentes et alors cuticule sans pigment intracellulaire granuleux, et stipe à poils incrustés et septés
+1,0$ . Pas de cheilocystides, cuticule à pigment incrusté et à pigment intracellulaires granuleux, stipe à poils incrustés et septés  $ Comparer avec Clé N°5, ligne 30
+2 ,3$. Cheilocystides lagéniformes ou fusiformes, pigment incrustant et pâle diffusément intracellulaire dans la cuticule
+2 ,4$. Cheilocystides clavées à coniques, pigment incrustant seulement
+3 ,0$. Chapeau et stipe à nuances vert olivâtre distinctes  $ 34 . E. versatile
+3 ,0$. Chapeau st stipe gris à gris-brun  $ 35 . E. araneosum
+4 ,5$. Spores > 15 µm en moyenne
+4,6$ . Spores < 15 µm en moyenne
+5,0$ . Chapeau et stipe à poils longs, rougeâtres non incrustés, setiformes  $ 29 . E. strigosissitum
+5,0$ . Chapeau et stipe à poils septés et à parois minces, incrustés$ 30. E. dysthales
+6,0$. Spores 10-12 X 7-8 µm, faiblement angulaires à parois minces. Chapeau et stipe gris brun pâle, poils du stipe 1-3 cloisons, à parois légèrement incrustées  $ 33 . E. pulvereum
+6 ,7$. Spores 10-15 X 7-9 µm, à parois épaisses nettement anguleuses, chapeau et stipe brun sombre ou gris
+7 ,0$. Spores (10)11-15(15,5) X 7-8(10) µm, chapeau et stipe gris, poils du stipe 1-3 cloisons, parois pâles, non incrustées  $ 32 . E. hirtum
+7,0$ . Spores 10,5-13,5(15) X 7-8(9) µm, chapeau et stipe brun sombre ou gris brun, poils du stipe 1-5 cloisons, à parois incrustées  $ 31 . E. dysthaloides
+
+
+CS8,0$ Clé N° 8 Aspect tricholomoïde, cheilocystides présentes, pigment membranaire ou intracellulaire, cuticule à cutis ou trichoderme
+
+1,0$ . Cheilocystides fusiformes à lagéniformes, 50-110 X 10-25 µm, chapeau brun pâle, cuticule à cutis et pigment membranaire  $ 36 . E. excentricum
+1,2$ . Cheilocystides cylindriques, clavées, lécythiformes à tibiiformes plus petites. Chapeau habituellement intensément coloré, cuticule à trichoderme et pigment intracellulaire
+2 ,0$. Pas de boucles, chapeau grossièrement fibrilleux à squamuleux montrant souvent la chair entre les fibrilles, cheilocystides souvent à capitulum mucroné $ 90 . E. scabiosum
+2 ,3$. Boucles présentes, chapeau fibrilleux radialement à tomenteux ou squamuleux où on voit pas la chair entre les fibrilles, Cheilocystides qui si elles sont capitées ne sont pas mucronées
+3 ,4$. Chapeau plutôt fortement fibrilleux radialement, tomenteux à squamuleux non hygrophane, odeur nulle
+3,5$ . Chapeau peu à très hygrophane, tomenteux à radialement fibrilleux, souvent glabrescent, odeur farineuse
+4 ,0$. Chapeau et souvent aussi stipe à nuance rouge porphyre, lames pâles puis roses, cheilocystides à col capité moniliforme $ 87 . E. porphyrophaeum
+4,0$ . Chapeau gris brun sombre à brun, lames gris brun sombre puis brun rouge, cheilocystides pour la plupart lécythiformes à col élancé et capitulum distinct  $ 86 . E. jubatum
+5 ,0$. Lames à arête brune  $ 89 . E. fuscomarginatum
+5 ,0$. Lames à arête concolore  $ 88 . E. elodes
+
+
+CS9,0$ Clé N° 9 Chapeau conique à convexe, papille distincte, radialement fibrilleux à squamuleux, cuticule à trichoderme, boucles présentes
+
+1,0$ . Chapeau radialement veiné comme chez certains Pluteus cheilocystides 35-135 X 4,5-9 µm, cylindriques, flexueuses, cuticule à trichoderme constitué d'éléments fusiformes à pigment intracellulaire, sommet de la trame à pigment incrustant  $ 91 . E. kitsii
+1,2$ . Chapeau radialement fibrilleux à squamuleux comme chez certains Inocybes, cuticule à trichoderme constitué d'éléments cylindriques à enflés
+2,0$. Cheilocystides finement à largement clavées et sommet pointu ou mucroné  $ 98 . E. carbonicola
+2,3$. Si cheilocystides, alors cylindriques-fusiformes
+3,4$. Spores comportant régulièrement 5-7 angles
+3,5$ . Spores irrégulièrement anguleuses-noduleuses
+4,0$. Stipe lisse, brun pâle, spores 8-11 X 6-8 µm Q=1,25  $ 94 . E. resutum
+4,0$. Stipe fibrillo-strié, brun sombre, spores 8-12 X 7,5-8,5 Q= 1,25  $ 93 . E. plebeioides
+5,0$. Spores (9)10,5-14,5(17) X 7-11 µm, chapeau 10-40 mm gris brun sombre, radialement fibrilleux à tomenteux, relativement charnu, stipe 25-75 X 2-6 mm, presque blanc, printanier et forestier  $ 92 . E. plebejum
+5,0$. Spores 9-12(14) X 6,5-8,5 µm, chapeau 5-20 mm, gris brun fibrilleux-squamuleux, relativement peu charnu, stipe 15-55 X 1-3 mm, brun jaune ou gris brun, souvent tâché de rouge à la base, densément strié-argenté, automnale, pelouses  $ 99 . E. hispidulum
+
+
+CS10,0$ Clé N° 10  Chapeau conique à convexe, légèrement à fortement déprimé à ombiliqué, rarement papillé mais alors boucles absentes.
+
+
+1,2$ . Carpophores blancs
+1,4$ . Carpophores nettement colorés 
+
+2,0$ . Boucles absentes, chapeau et stipe à poils capités $ 97 . E. cephalotrichum
+2,3$ . Boucles présentes, chapeau et pied sans poils capités
+3 ,0$. Cheilocystides absentes, chapeau strié par transparence par temps humide, fibrillo-squamuleux au centre seulement  $ 96 . E. olorinum
+3 ,0$. Cheilocystides présentes, chapeau non strié par transparence par temps humide, entièrement tomenteux ou squamuleux  $ 95 . E. sericellum
+4 ,12$. Boucles absentes
+4,5$ . Boucles présentes
+5,6$ . Cheilocystides absentes
+5,9$ . Cheilocystides présentes
+6,0$ . Chapeau strié par transparence jusqu'au centre par temps humide, à peu près glabre, légèrement hygrophane, fibrilleux-squamuleux au centre par temps sec  $ 109 . E. farinasprellum
+6,7$ . Chapeau non strié par transparence ou à la marge seulement, non hygrophane, radialement fibrilleux à tomenteux ou squamuleux, jamais glabre
+7,0$ . Chapeau brun, spores 9-13,5(18) X 6-9 µm Q=1,5 très irrégulières  $ 144 . E. sarcitum
+7,8$ . Chapeau pâle, crème, spores larges Q=1,25-1,45
+8 ,0$. Spores 9,5-11 X 7-8 µm Q=1,25, non noduleuses mais angles fortement aigus $ 143 . E. pallens
+8 ,0$. Spores 9-12,5 x 6-9(10)µm Q=1,35-1,45, irrégulièrement anguleuses-noduleuses  $ 142 . E. neglectum
+9 ,10$. Chapeau brun ou grisâtre, si de couleur pâle, alors jamais nuancé de jaune ocre vif
+9,0$ . Carpophores blancs à nuance ocre au centre du chapeau ou chapeau jaune-ocre vif  $ 95 . E. sericellum
+10,0$ . Chapeau gris-brun sombre, stipe concolore ou plus pâle, fibrilleux strié  $ 106 . E. griseorubidum
+10,11$ . Chapeau et stipe gris brun pâle, stipe lisse
+11,0$ . Chapeau non strié par transparence, fortement fibrilleux radialement, cheilocystides 27-60 X 15-30 µm lagéniformes à coniques ou fusiformes  $ 107 . E. calaminare
+11,0$ . Chapeau strié par transparence, ruguleux ou légèrement squamuleux au centre seulement, cheilocystides 40-110 X 5-15 µm, cylindriques à étroitement lagéniformes  $ 108 . E. cocles
+12,13$ . Chapeau rose
+12,14$ . Chapeau brun jaune, brun porphyre ou gris, parfois nuancé de vert sans trace de rose
+13,0$ . Stipe blanc, lames à arête fertile à cheilocystides cylindriques  $ 133 . E. queletii
+13,0$ . Stipe rose, lames à arête fertile ou hétérogène à cheilocystides clavées à largement lagéniformes  $ 132 . E. roseum
+14 ,15$. Stipe à nuance glauque ou verte
+14,16$ . Stipe dépourvu de nuance glauque ou verte
+15,0 $. Chapeau brun crème pâle à gris glauque, stipe vert glauque pâle, lames à arête stérile, cheilocystides présentes  $ 125 . E. exile
+15,0$ . Chapeau jaune vert, stipe jaune vert vif, devenant bleu-vert à la blessure, lames à arête fertile, cheilocystides absentes  $ 124 . E. incanum
+16,0$ . Chapeau gris porphyre, stipe fortement fibrilleux floconneux  $ 130 . E. porphyro-fibrillum
+16,17$ . Chapeau jaune, brun-jaune, brun ou gris brun
+17,18$ . Chapeau jaune vif, jaune rougeâtre, ou brun jaune
+17,19$ . Chapeau gris brun à brun, sans nuance jaunâtre
+18 ,0$. Chapeau brun jaune à jaune rougeâtre, lames blanches puis roses à arête concolore, stipe jaune à brun-jaune, spores 9,5-11,7 X 6,5-7,5 µm $ 127 . E. formosum
+18,0$ . Chapeau jaune ou brun-jaune à centre plus foncé, lames jaune ocracé à arête brune, rarement concolore, fimbriée, stipe jaune, spores 11,2-12,2 X 7,5-8 µm  $ 126 . E. xantochroum
+19,0$ . Chapeau brun ( sombre, légèrement hygrophane, strié par transparence au moins jusqu'à mi-rayon par temps humide, squamuleux au centre seulement $ 131 . E. sarcitulum
+19,20$ . Chapeau gris brun sombre, non hygrophane, non strié par transparence ou seulement à la marge, entièrement fibrilleux squamuleux ou tomenteux
+20,0$ . Spores 7,5-11 X 6-7,5 µm, aucune partie du carpophore ne devenant rose ou rouge à la blessure  $ 129 . E. pseudoturci
+20,0$ . Spores 9-12,5(13,5) X 6-9 µm, base du stipe et souvent aussi la chair devenant lentement rose ou rouge à la blessure  $ 128 . E. turci
+

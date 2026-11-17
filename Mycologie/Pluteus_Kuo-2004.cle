@@ -1,0 +1,169 @@
+titre$The Genus Pluteus.  Michael Kuo 2004
+com$ http://www.mushroomexpert.com/pluteus/ adapt GF 06/2014
+rem$LANGUE$Anglais
+
+1,100$ References
+
+1,0 $ With a partial veil that forms a ring on the stem; cap yellow. $ Pluteus mammillatus
+1,2 $ Partial veil and ring absent; cap variously colored.
+2,3 $ Stem bruising and discoloring bluish to greenish.
+2,4 $ Stem not bluing.
+3,0 $ Cap wrinkled in the center; cap margin lined; gills well spaced, their edges not discoloring; odor and taste mild; spores 6-7 x 5-6 µ; cystidia without spines. $ Pluteus cyanopus
+3,0 $ Cap center not wrinkled; cap margin not lined; gills crowded, their edges discoloring grayish; odor and taste unpleasant; spores 7-9 x 5-6 µ; cystidia with spines. $ Pluteus salicinus
+4,5 $ Cap bright red to orange.
+4,7 $ Cap otherwise colored.
+5,0 $ Cap tiny (1-1.5 cm across) at maturity, scarlet when young but eventually "almost striped yellow on more orange ground" (Singer); recorded from Florida, Cuba, and Trinidad. $ Pluteus laetifrons
+5,6 $ Not completely as above (not : Cap tiny (1-1.5 cm across) at maturity, scarlet when young but eventually "almost striped yellow on more orange ground" )
+6,0 $ Cap bright red, fading to orange, 2-5 cm across, margin not lined or only slightly lined; cystidia 44-76 µ long; known from the Great Lake States, northeastern North America, and Colorado--possibly widely distributed. $ Pluteus aurantiorugosus
+6,0 $ Cap "deep orange yellow," 2 cm across (according to the only official measurement), margin lined; cystidia 28-50 µ long; known from New York, apparently only documented once, in 1903. $ Pluteus aurantiacus
+7,8 $ Gill edges dark (brown to gray or blackish) at maturity, contrasting with the faces.
+7,13 $ Gill edges not as above.(not : Gill edges dark (brown to gray or blackish) at maturity, contrasting with the faces )
+8,0 $ Cap small (up to 2 cm wide) at maturity, grayish; reported from South America and perhaps to be expected in tropical and subtropical North America. $ Pluteus luctuosus
+8,9 $ Cap larger than above at maturity, variously colored; variously distributed.
+9,0 $ Odor of crushed flesh strong and pungent, "reminding one of crushed inner bark of elderberry" (Smith); cap dark brown, with appressed fibers; spores 7-8 x 5-5.5 µ; cystidia with poorly developed spines at their apices; known from the Great Lakes region. $ Pluteus bartelliae
+9,10 $ Not completely as above (not : Odor of crushed flesh strong and pungent, "reminding one of crushed inner bark of elderberry" (Smith); cap dark brown, with appressed fibers; spores 7-8 x 5-5.5 µ; cystidia with poorly developed spines at their apices).
+10,0 $ Cap smooth, sticky, pinkish gray with a darker center; tropical in distribution. $ Pluteus spinulosus
+10,11 $ Not completely as above.(not : Cap smooth, sticky, pinkish gray with a darker center; tropical in distribution.)
+11,0 $ Growing on the wood of hardwoods; cap velvety, color varying from white to brown to reddish brown. $ Pluteus eugraptus
+11,12 $ Growing on the wood of conifers; cap not velvety (though possibly with appressed fibers), color grayish or dark brown.
+12,0 $ Cap with a conspicuously wrinkled center, dark gray to grayish brown or dark brown; spores 5-7 x 3-4 µ; cystidia with thin walls and tiny irregular projections. $ Pluteus umbrosusphoto only
+12,0 $ Cap without a conspicuously wrinkled center, dark brown; spores 6.5-8 x 4.5-5 µ; cystidia with thick walls and large apical projections. $ Pluteus atromarginatus
+13,0 $ Growing on the wood of hardwoods; stem long and slender (4-10 cm x 4-8 mm); cap brownish overall when young but soon yellow on the margin and progressively yellowing toward the center, the surface finely granular; gills white before turning pink; cystidia without spines. $ Pluteus flavofuligineus
+13,14 $ Not completely as above.(not : Growing on the wood of hardwoods; stem long and slender (4-10 cm x 4-8 mm); cap brownish overall when young but soon yellow on the margin and progressively yellowing toward the center, the surface finely granular; gills white before turning pink; cystidia without spines.)
+14,15 $ Cap with yellow to greenish or olive shades.
+14,22 $ Cap without yellow, greenish, or olive shades.
+15,0 $ Cap tiny, "yellow with smoky reticulated veins radiating from the center" (Saccardo); gills white before maturity; stem with a fuzzy base, probably white overall (bad punctuation in the original description makes this unclear); microscopic characters unknown; found on hickory logs in the 19th Century, somewhere in North America. (Note: This species is obviously poorly documented. It has been synonymized with Pluteus admirabilis by some authors, and with Pluteus chrysophaeus by others. Some authors maintain the species. The brief description of the cap surface does seem distinctive.) $ Pluteus chrysophlebius
+15,16 $ Not completely as above.(not : Cap tiny, "yellow with smoky reticulated veins radiating from the center" (Saccardo); gills white before maturity; stem with a fuzzy base, probably white overall (bad punctuation in the original description makes this unclear); microscopic characters unknown; found on hickory logs in the 19th Century, somewhere in North America. (Note: This species is obviously poorly documented. It has been synonymized with Pluteus admirabilis by some authors, and with Pluteus chrysophaeus by others. Some authors maintain the species. The brief description of the cap surface does seem distinctive.))
+16,0 $ Cap white overall, with a yellowish center; gills white before maturity; stem white; probably tropical in distribution (originally collected in Jamaica). $ Pluteus myceniformis
+16,17 $ Not completely as above.(not : Cap white overall, with a yellowish center; gills white before maturity; stem white;)
+17,18 $ Cap uniformly yellow.
+17,20 $ Cap greenish, greenish gray, olive, or brownish with yellow shades mixed in.
+18,0 $ Cap large (10 cm across); stem white; probably tropical in distribution (originally collected in Cuba). $ Pluteus earliae
+18,19 $ Cap smaller than above (1-3 cm across); stem yellow; recorded from temperate North America.
+19,0 $ Cap and stem bright lemon yellow; gills white at first but soon yellowish before turning pinkish. (Note: The European species Pluteus leoninus has a yellow cap and a stem variously described as yellow, white, or both; some North American sources use the name to make distinctions in stem color and/or cap surface texture.) $ Pluteus admirabilis
+19,0 $ Cap and stem honey yellow; gills white at first and not becoming yellowish before maturity. $ Pluteus melleus
+20,0 $ Cap 2-4 cm across, wrinkled and veined, greenish gray when young, becoming cinnamon gray; stem pale yellow; spores 7-9 x 5.5-6.5 µ; recorded from California. $ Pluteus californicus
+20,21 $ Not completely as above.(not : Cap 2-4 cm across, wrinkled and veined, greenish gray when young, becoming cinnamon gray; stem pale yellow; spores 7-9 x 5.5-6.5 µ)
+21,0 $ Cap greenish yellow (sometimes with grayish or olive shades mixed in); gills yellowish to olive at first. $ Pluteus rugosidiscus
+21,0 $ Cap olive brown to yellowish over the center, elsewhere brown; gills white at first, then yellowish before maturity. $ Pluteus lutescens
+22,23 $ Cap white or whitish overall--or with a few brown fibers over a white ground color.
+22,31 $ Cap not white.
+23,0 $ Cap about 3 cm across, white with a yellowish center, smooth, the margin lined; gills white before maturity; stem white; probably tropical in distribution (originally collected in Jamaica). $ Pluteus myceniformis
+23,24 $ Not completely as above.(not : Cap about 3 cm across, white with a yellowish center, smooth, the margin lined; gills white before maturity; stem white;)
+24,0 $ Cap 2.5-4 cm across, conspicuously wrinkled over the center (at least when young) but otherwise smooth, pinkish to pinkish gray when young but sometimes fading to white, the margin finely lined; found on the wood of hardwoods in the Great Lakes region, possibly elsewhere. $ Pluteus pallidus
+24,25 $ Not completely as above.(not : Cap 2.5-4 cm across, conspicuously wrinkled over the center (at least when young) but otherwise smooth, pinkish to pinkish gray when young but sometimes fading to white, the margin finely lined)
+25,26 $ Mature cap small (2-3 cm across).
+25,28 $ Mature cap larger than above.
+26,0 $ Cap smooth, white but developing rose tinges in age or wet weather, the margin lined; apparently terrestrial in grassy areas near tamarack swamps in northeastern North America. $ Pluteus roseocandidus
+26,27 $ Not completely as above.(not :Cap smooth, white but developing rose tinges in age or wet weather, the margin lined; apparently terrestrial in grassy areas near tamarack swamps in northeastern North America)
+27,0 $ Cap completely white, minutely fuzzy, the margin not lined. $ Pluteus niveus
+27,0 $ Cap grayish white with a darker center, densely hairy, the margin lined. $ Pluteus unakensis
+28,0 $ Cap completely white, densely and conspicuously fuzzy and velvety; growing on the wood of hardwoods or conifers east of the Rocky Mountains. $ Pluteus tomentulosusphoto only
+28,29 $ Not completely as above.(not : Cap completely white, densely and conspicuously fuzzy and velvety)
+29,0 $ Cap completely white, smooth; found on the wood of hardwoods across North America. $ Pluteus pellitusat Fungi of Poland
+29,30 $ Cap white with brown to cinnamon brown fibers, at least over the center; found on the wood of hardwoods or growing from dead roots, sawdust, woodchips, and so on; variously distributed.
+30,0 $ Cap large (7-18 cm across), "white, to very pale isabelline-umber, with or without fuliginous appressed fibrillose squamules in the very centre" (Singer); stem up to 2.5 cm thick; cystidia with spines on their sides but not at their apices; almost always growing on the dead wood of hardwoods. $ Pluteus magnussensu Singer
+30,0 $ Cap medium sized (4-10 cm across), white streaked with brownish fibers (especially over the center); stem to 1.5 cm thick; cystidia with spines at the apices; often appearing terrestrial and growing from dead roots, sawdust, woodchips, and so on. $ Pluteus petasatus
+31,32 $ Stem yellow.
+31,38 $ Stem not yellow.
+32,0 $ Cap to 5 cm across, velvety, brownish with dark gray, reticulated wrinkles over the center; probably tropical and subtropical in distribution (recorded from Jamaica). $ Pluteus reticulatus
+32,33 $ Not completely as above.(not : Cap to 5 cm across, velvety, brownish with dark gray, reticulated wrinkles over the center)
+33,0 $ Cap greenish gray becoming cinnamon gray, with a lined margin; gills not yellowing before maturity; known from California. $ Pluteus californicus
+33,34 $ Not completely as above.(not : Cap greenish gray becoming cinnamon gray, with a lined margin; gills not yellowing before maturity)
+34,35 $ Cap margin lined.
+34,37 $ Cap margin not lined.
+35,0 $ Cap gray, covered with tiny white hairs; gills not yellowing before maturity; recorded from the wood of Eastern White Pine in New York. $ Pluteus fuliginosus
+35,36 $ Not completely as above.(not : Cap gray, covered with tiny white hairs; gills not yellowing before maturity)
+36,0 $ Cap 2-6.5 cm across, grayish brown, minutely velvety, developing a conspicuously radially split margin; gills not yellowing before maturity; recorded from Idaho and Michigan. $ Pluteus sp.Homola (1972)
+36,0 $ Cap 1-4 cm across, brownish olive, smooth or finely granular, the margin finely lined; gills white at first but soon yellow; recorded from Colorado eastward. $ Pluteus lutescens
+37,0 $ Cap 1-2.5 cm across, cinnamon brown; gills not yellowing before maturity; stem honey yellow; growing on dead wood east of the Rocky Mountains. $ Pluteus melleipes
+37,0 $ Cap to 5 cm across, reddish brown; gills yellowish before maturity; stem pale yellow; recorded from Oregon, growing terrestrially. $ Pluteus fulvibadius
+38,39 $ Cap gray at maturity.
+38,48 $ Cap some shade of brown.
+39,0 $ Cap 3-4 cm across, covered with tiny white hairs, the margin lined; recorded from the wood of Eastern White Pine in New York. $ Pluteus fuliginosus
+39,40 $ Not completely as above.(no :Cap 3-4 cm across, covered with tiny white hairs, the margin lined)
+40,0 $ Cap 2.5-4 cm across, wrinkled over the center (at least when young) pinkish to pinkish gray, the margin finely lined; taste disagreeable; recorded from Michigan. $ Pluteus pallidus
+40,41 $ Not completely as above.(not : Cap 2.5-4 cm across, wrinkled over the center (at least when young) pinkish to pinkish gray, the margin finely lined; taste disagreeable)
+41,0 $ Cap 2-4 cm across, greenish gray becoming cinnamon gray, the margin lined; found in California. $ Pluteus californicus
+41,42 $ Not completely as above.(not : Cap 2-4 cm across, greenish gray becoming cinnamon gray, the margin lined)
+42,43 $ Cap margin strongly lined at maturity.
+42,47 $ Cap margin not lined at maturity, or only faintly so.
+43,0 $ Cap 1-3 cm across, fragile, conspicuously lined from the margin almost to the center, surface otherwise smooth except possibly over the very center; cystidia 50-70 µ long; spores 6-7.5 x 5-5.5 µ; growing on the wood of hardwoods east of the Rocky Mountains; common; well documented, well established species. $ Pluteus longistriatus
+43,44 $ Features (including microscopic characters) not completely as above; variously distributed; rarely collected and imperfectly documented species.
+44,0 $ Cystidia up to 120 µ long; collected on a railroad tie in Mexico in 1909 by Murrill. $ Pluteus multistriatus
+44,45 $ Cystidia substantially shorter than above; variously distributed.
+45,0 $ Cystidia scattered to rare, up to 30 µ long; "gregarious in a field on soil mixed with decayed wood"; collected in Jamaica in 1908 by Murrill. $ Pluteus rimosus
+45,46 $ Cystidia substantially longer than above; variously distributed.
+46,0 $ Spores narrow (5-6 x 3.5 -4 µ); cap surface densely covered with silky fibers; originally collected in Tennessee; named for its occurrence in Unaka Springs, TN. $ Pluteus unakensis
+46,0 $ Spores wider than above (5-6 x 4-5.5 µ); cap surface with some fibers and scales; collected on the wood of hardwoods in Florida; named with total disregard for homonyms. $ Pluteus floridanus
+47,0 $ Spores round or nearly so (6-7 x 5.5-7 µ); cap uniformly dark gray, the margin faintly lined; collected "on soil in a wet thicket" by Earle in 1908 in New Orleans. $ Pluteus fibrillosus
+47,0 $ Spores elliptical (6-7 x 4-4.5 µ); cap grayish brown with a darker center, the margin cracking radially but not truly lined; collected "on dead wood" by Earle in 1908 in New Orleans. $ Pluteus griseibrunneus
+48,49 $ Cap medium sized to large (regularly 4-5 cm wide or more at maturity); belonging in "Section Machopluteus."
+48,57 $ Cap smaller than above; belonging in "Section Wimpopluteus."
+49,30 $ Cap whitish with brown fibers over the center.
+49,50 $ Cap more uniformly colored.
+50,51 $ Cap conspicuously and densely velvety or granular.
+50,52 $ Cap not velvety or granular, or merely finely so.
+51,0 $ Cap brownish with conspicuous, dark gray, reticulated wrinkles over the center; probably tropical and subtropical in distribution (recorded from Jamaica); poorly documented species based on a 1911 type collection that has been virtually destroyed by mold. $ Pluteus reticulatus
+51,0 $ Cap uniformly dark brown, without wrinkles; widely distributed; well documented species. $ Pluteus granularis
+52,0 $ Cap to 18 cm or more across, wrinkled; stem to 3 cm in diameter. $ Pluteus magnus
+52,53 $ Mushroom smaller than above; cap not wrinkled.
+53,0 $ Cap pale brown with a reddish brown center; known from New York. $ Pluteus pallidicervinus
+53,54 $ Cap more uniformly brown than above; variously distributed.
+54,0 $ Taste usually radishlike; cystidia with apical projections; common and widely distributed on the wood of hardwoods in North America; well established species (or species cluster). $ Pluteus cervinus
+54,55 $ Taste not radishlike; cystidia without apical projections; variously distributed; rare, imperfectly known species.
+55,0 $ Cap conspicuously radially cracked at maturity, blackish brown; spores 6-7.5 x 5-6.5 µ; known from Idaho and Michigan, growing on the wood of birch or basswood. $ Pluteus sp.Homola (1972)
+55,56 $ Not completely as above.(not : Cap conspicuously radially cracked at maturity, blackish brown; spores 6-7.5 x 5-6.5 µ;)
+56,0 $ Cap minutely granular, yellowish brown, the margin faintly lined; cystidia to 90 µ long; known from Maine. $ Pluteus whiteae
+56,0 $ Cap not minutely granular, dark tan, the margin not lined; cystidia to 60 µ long; known from Louisiana. $ Pluteus ludovicianus
+57,0 $ Taste mealy; cap slightly to prominently wrinkled over the center, otherwise smooth, dark brown becoming yellowish brown, the margin faintly lined; stem white with a base that stains yellowish brown; spores 5-7 x 5-6 µ; cystidia to 80 µ long and 20 µ wide, without projections; growing on the wood of hardwoods across North America;. $ Pluteus chrysophaeus
+57,58 $ Taste definitely not mealy; mushroom not completely as above.( not completely as :  Taste mealy; cap slightly to prominently wrinkled over the center, otherwise smooth, dark brown becoming yellowish brown, the margin faintly lined; stem white with a base that stains yellowish brown; spores 5-7 x 5-6 µ; cystidia to 80 µ long and 20 µ wide, without projections)
+58,0 $ Mushroom identifier lacking a microscope and lacking the patience to sift through dozens of species (often poorly described, or described with contending descriptions, or found once by William Murrill over 100 years ago), many of which would likely be found to be genetically identical if someone were ever able to collect them again, identify them with certainty, and submit them to DNA testing. $ Little Brown Pluteus
+58,59 $ Mushroom identifier not as above.(not : Mushroom identifier lacking a microscope and lacking the patience to sift through dozens of species (often poorly described, or described with contending descriptions, or found once by William Murrill over 100 years ago), many of which would likely be found to be genetically identical if someone were ever able to collect them again, identify them with certainty, and submit them to DNA testing )
+59,60 $ Species documented to occur in temperate or north-temperate North America.
+59,72 $ Species documented to occur in tropical and subtropical North America.
+60,61 $ Cap and stem densely granular-velvety; stem brown.
+60,62 $ Cap and stem not as above.(not : Cap and stem densely granular-velvety; stem brown. )
+61,0 $ Recorded from Washington in 1911 on the wood of alder--and perhaps found once in Michigan by Singer, though Smith and Stuntz think not, due to the lack of thick-walled cystidia in the cells of the fibrils at the base of the stem in Singer's Michigan collection . . . you get the picture. $ Pluteus latifolius
+61,0 $ Recorded consistently from eastern North America on the wood of hardwoods or conifers. $ Pluteus granularis
+62,63 $ Cap center conspicuously radially veined.
+62,64 $ Cap center not conspicuously veined.
+63,0 $ Cap cinnamon brown; pleurocystidia 40-66 x 13-21 µ. $ Pluteus phlebophorusat Fungi of Poland
+63,0 $ Cap dark brown; pleurocystidia 36-63 x 8-9 µ. $ Pluteus thomsonii
+64,65 $ Spores regularly longer than 7 µ.
+64,69 $ Spores usually 7 µ long or smaller.
+65,0 $ Pleurocystidia 68-96 µ long. $ Pluteus nanus
+65,66 $ Pleurocystidia shorter than above.
+66,0 $ Cap dark brown, minutely hairy when viewed with a hand lens, the margin not lined or faintly lined at maturity; pleurocystidia 36-63 x 8-9 µ, without projections. $ Pluteus thomsonii
+66,67 $ Not completely as above.(not : Cap dark brown, minutely hairy when viewed with a hand lens, the margin not lined or faintly lined at maturity; pleurocystidia 36-63 x 8-9 µ, without projections)
+67,0 $ Cap margin not lined; cystidia with apical projections. $ Pluteus brunneidiscus
+67,68 $ Cap margin lined; cystidia with or without apical projections.
+68,0 $ Known from Tennessee; apparently terrestrial; cap center never wrinkled; gills crowded. $ Pluteus atriavellaneus
+68,0 $ Known from Idaho and Michigan; growing on the wood of basswood or birch; cap center smooth or wrinkled; gills close or nearly distant. $ Pluteus sp.Homola (1972)
+69,0 $ Cap dark reddish brown, minutely granular or velvety, the center smooth or wrinkled; stem white with a brownish to grayish base; pleurocystidia without apical projections. $ Pluteus seticepsphoto only
+69,70 $ Not completely as above.(not : Cap dark reddish brown, minutely granular or velvety, the center smooth or wrinkled; stem white with a brownish to grayish base; pleurocystidia without apical projections.)
+70,0 $ Cap margin conspicuously lined, nearly to the center. $ Pluteus campanulatus
+70,71 $ Cap margin lined or not, but not conspicuously lined to the center.
+71,0 $ At least three species, all found by collectors in northeastern North America nearly 100 years ago and apparently not documented since, are practically indistinguishable. Pluteus avellaneus, Pluteus glabrescens, and Pluteus longipes all have smooth, brownish caps with smooth centers; crowded gills; smooth, white stems; spores 6-7 x 5-6 µ; and pleurocystidia with apical projections, 40-70 x 10-20 µ. Murrill distinguished Pluteus glabrescens by its slimy and shiny cap, but Smith & Stuntz (1958), studying Murrill's type collection, say "[i]t is obvious that the specimen which is now labeled as the type was never subviscid and shining, as called for in the original description" (123). Only one specimen of Pluteus longipes has ever been found, with a stem 11 cm long (hence the species name), growing "on rotten trash in soil" in Connecticut (Murrill). Singer (1956) found clamp connections in Pluteus avellaneus, separating it from the others, but Smith & Singer found no clamp connections when studying the s,0  ametype collection; they suggest the type collection is mixed, and that Singer studied the wrong mushrooms. $ Little Brown Pluteus
+72,73 $ Cap center prominently wrinkled-reticulate.
+72,74 $ Cap center variously textured but not wrinkled-reticulate.
+73,0 $ Cap smooth with a brown dusting on the margin, the margin not lined; pleurocystidia 50-67 µ long; known from Grenada, growing terrestrially. $ Pluteus pulverulentus
+73,0 $ Cap granular, the margin lined; pleurocystidia 40 µ long; known from Florida, growing on wood (probably hickory). $ Pluteus cinerellus
+74,75 $ Cap surface smooth or slightly wrinkled.
+74,77 $ Cap surface granular, hairy, scaly, or conspicuously cracked and wrinkled.
+75,0 $ Spores 6-10 x 5-6.5 µ; pleurocystidia with apical projections; stem white with a pale grayish base. $ Pluteus harrisii
+75,76 $ Spores smaller than above; pleurocystidia without apical projections; stem white, the base not pale grayish.
+76,0 $ Pleurocystidia 35-47 µ long; cap fragile and rapidly collapsing. $ Pluteus deliquescens
+76,0 $ Pleurocystidia 50-77 µ long; cap not markedly fragile. $ Pluteus compressipes
+77,0 $ Cap conspicuously granular, hairy, and cracked (reminiscent of species of Inocybe), brownish, often with a whitish margin; stem white and finely hairy; spores 6-9 x 4.5-7 µ; pleurocystidia 40-70 x 13-30 µ, rarely with apical projections; recorded from Cuba, Trinidad, and other Caribbean locations, growing on the wood of hardwoods or bamboo debris. $ Pluteus cubensis
+77,78 $ Not completely as above.(not : Cap conspicuously granular, hairy, and cracked (reminiscent of species of Inocybe), brownish, often with a whitish margin; stem white and finely hairy; spores 6-9 x 4.5-7 µ; pleurocystidia 40-70 x 13-30 µ, rarely with apical projections; recorded from Cuba, Trinidad, and other Caribbean locations, growing on the wood of hardwoods or bamboo debris.)
+78,79 $ Cap margin lined.
+78,80 $ Cap margin not lined.
+79,0 $ Pleurocystidia with apical projections. $ Pluteus floridanus
+79,0 $ Pleurocystidia without apical projections. $ Pluteus eliae
+80,81 $ Cap surface finely hairy or with appressed fibers.
+80,0 $ Cap surface wrinkled to cracked, but not hairy. $ Pluteus jamaicensis
+81,0 $ Cap grayish brown with a darker center; growing on wood. $ Pluteus griseibrunneus
+81,0 $ Cap pale brown with blackish appressed fibers; terrestrial. $ Pluteus lepiotiformis
+
+100,0$///Homola, R. L. (1972). Section Celluloderma of the genus Pluteus in North America. Mycologia 64: 1211-1247. ///Kauffman, C.H. (1918). The gilled mushrooms (Agaricaceae) of Michigan and the Great Lakes region, Volumes I and II. New York: Dover. 924 pp. (1971 Reprint.)///Minnis, A. M., W. J. Sundberg, A. S. Methven, et al. (2006). Annulate Pluteus species, a study of the genus Chamaeota in the United States. Mycotaxon 96: 31-39.///Singer, R. (1956). Contributions towards a monograph of the genus Pluteus. Transactions of the British Mycological Society 39: 145-232.///Singer, R. (1978). Keys for the identification of the species of Agaricales II. Sydowia 31: 193-237.///Smith, A. H. & Stuntz, D. E. (1958). Studies on the genus Pluteus I. Redescriptions of American species based on a study of type specimens. Lloydia 21: 115-136.///Smith, A. H., Smith, H. V. & Weber, N. S. (1979). How to know the gilled mushrooms. Dubuque, Iowa: Wm. C. Brown. 334 pp.///Vellinga, E. C. & Schreurs, J. (1985). Notulae ad floram agaricinam neerlandlicam - VIII. Pluteus Fr. In West-Europe. Persoonia 12: 337-373.

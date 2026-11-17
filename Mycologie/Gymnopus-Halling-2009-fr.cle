@@ -1,0 +1,82 @@
+titre$Genre Gymnopus - Halling, Roy E.
+com$ adapt GF janv 2015
+1,0$  source : Réf. : A revision of Collybia s.l. in the northeastern United States & adjacent Canada, revision 2006, Halling, Roy E./// www.nybg.org/bsci/res/col/sectkey.html///Adaptation : Roland Labbé, août 2007. 
+1,0$ lien clé source $$f"http://www.nybg.org/bsci/res/col/sectkey.html"
+
+1,0$
+
+
+1,cs3 $ Chapeau avec pigments violets, devenant bleu aux alcali $$ s"section Iocephalae" 
+rem$ (voir Gymnopus iocephalus)
+1,2 $ Chapeau sans pigments violets, à réactions diverses aux alcali, mais non bleue
+2,cs1 $ Pileipelis formé d'hyphes couchées, à cellules rarement subdressées, souvent orientées radialement, cylindriques, avec éléments diverticulés et ramifications parfois présents $$s" section Vestipedes"
+2,3 $ Pileipelis formé d'hyphes souvent ramifiées, à cellules larges et courtes, sans orientation radiale
+3,cs4 $ Pied fortement fusoïde, profondément radicant poussant sur ou autour des racines et souches de chênes, rarement de bouleaux ou hêtres $$s"section Striipedes"
+ rem$(voir Gymnopus fusipes de l'ancien monde)
+3,cs2 $ Pied non fortement fusoïde, non radicant; poussant parfois sur bois de chêne $$s" section Levipedes"
+
+
+cs1,0$ rem $ Section Vestipedes :
+
+1,0 $ Spores globuleuses $ Gymnopus subdryophilus
+1,2 $ Spores ellipoïdes à lacrymoïdes
+2,3 $ Spores 2-3 µm de largeur
+2,4 $ Spores > 3 µm de largeur
+3,0 $ Pied inséré dans le bois à la base; lames collariées $ Gymnopus fasciatus
+3,0 $ Pied non inséré, arrivant de la litière, de l'humus ou du bois; lames adnexées, non collariées $ Gymnopus striatipes
+4,0 $ Basidiome densément cespiteux; pied glabre et terne $ Gymnopus acervatus
+4,5 $ Basidiome souvent non densément cespiteux; pied pruineux, densément tomenteux, pubescent ou fibreux, distinctement strié tordu; lames larges
+5,0 $ Pied typiquement > 0,5 cm de largeur, souvent courbe, distinctement strié tordu et fibrilleux $ Gymnopus luxurians
+5,6 $ Pied souvent < 0,5 cm de largeur, souvent droit et raide, tenace, densément tomenteux à pruineux ou pubescent; lames étroites ou lorsque larges alors jaunes et saveur âcre
+6,0 $ Saveur amère, parfois nulle; chapeau brun foncé, non hygrophane, pâlissant seulement légèrement, ruguleux sillonné concentriquement vers la marge; lames subespacées à espacées au sec $ Gymnopus subnudus
+6,7 $ Saveur douce ou âcre, non amère; chapeau brun à jaune-brun, hygrophane, uni à légèrement sillonné concentriquement vers la marge; lames très serrées ou espacées
+7,0 $ Saveur âcre; basidiome dans les tons prédominants de jaune; lames espacées et larges $ Gymnopus peronatus (ouest, Europe)
+7,8 $ Saveur douce ou fétide à alliacée, non âcre; basidiome non jaune; lames variablement espacées
+8,9 $ Cheilocystides présentes
+8,14 $ Cheilocystides absentes
+9,0 $ Base du pied en bouton tuberculé; cheilocystides sacciformes et volumineuses $ Gymnopus dichrous
+9,10 $ Base du pied sans bouton tuberculé; cheilocystides typiquement diverticulées, cylindriques, flexueuses ou étroitement clavées
+10,0 $ Revêtement du pied fauvâtre vers la base; odeur et saveur indistinctes ou douces $ Gymnopus biformis
+10,11 $ Revêtement du pied pâle au-dessus et au-dessous; odeur et saveur indistinctes ou alliacées
+11,12 $ Odeur et saveur indistinctes; spores > (8)9 µm de longueur
+11,13 $ Odeur et saveur ailliacées; spores < 9 µm de longueur
+12,0 $ Lames serrées à subespacées $ Gymnopus terginus
+12,0 $ Lames très serrées $ Gymnopus confluens
+13,0 $ Chapeau plissé à strié-sillonné concentriquement; lames espacées; poussant sur copeaux de bois; spores > 7 µm de longueur $ Gymnopus dysodes
+13,0 $ Chapeau uni ou parfois ondulé vers la marge, non plissé ni sillonné concentriquement; lames très serrées; poussant sur litière de feuilles; spores < ou = 7 µm de longueur $ Gymnopus polyphyllus
+14,0 $ Caulocystides à paroi très épaisse, souvent obscurant le lumen cellulaire $ Gymnopus contrarius
+14,15 $ Caulocystides à paroi non épaisse
+15,16 $ Odeur nulle ou non alliacée; spores > 7 µm de longueur
+15,17 $ Odeur alliacée; spores < 7 µm de longueur
+16,0 $ Lames brunes et serrées; pileipelis formé d'hyphes subgélatineuses et arrivant d'une zone étroite d'hyphes distinctement incrustées, orientées radialement $ Gymnopus putillus
+16,0 $ Lames blanches à chamois rosâtre, variablement espacées; pileipelis formé d'hyphes gélatineuses, avec cellules incrustées présentes, dispersées, peu distinctes, mais sans zone bien définie $ Gymnopus subterginus
+17,0 $ Chapeau rouge brunâtre; lames espacées $ Gymnopus impudicus
+17,0 $ Chapeau blanchâtre; lames serrées $ Gymnopus hariolorum
+
+
+cs2,0$ Section Levipedes :
+
+1,2 $ Basidiome devenant en partie vert aux alcali
+1,5 $ Basidiome ne devenant pas vert aux alcali
+2,0 $ Hyphes de la trame lamellaire avec granules grossièrement pigmentés brun foncé en H2O ou Melzer $ Gymnopus alkalivirens (voir aussi Gymnopus fuscopurpureus dans l'ouest)
+2,3 $ Hyphes de la trame lamellaire sans granules grossièrement pigmentés
+3,0 $ Pied strigueux fauvâtre seulement vers la base; hyphes de la chair du pied avec incrustations pigmentaires granuleuses brun foncé en H2O ou Melzer $ Gymnopus semihirtipes
+3,4 $ Pied glabre et brun-rouge foncé ou entièrement strigueux et fauvâtre
+4,0 $ Pied glabre et brun-rouge foncé $ Gymnopus erythropus
+4,0 $ Pied entièrement strigueux et fauvâtre $ Gymnopus spongiosus
+5,0 $ Poussant sur sol des forêt, sur pelouses et dans les pâturages, etc.; début-printemps $ Gymnopus earleae
+5,6 $ Poussant sur litière de feuilles, bois pourri, etc.; variable en saison
+6,0 $ Pied pubescent à tomenteux de l'apex jusqu'à la base; chapeau tan sordide (terne) à l'état frais; espèce marcescente $ Gymnopus kauffmanii
+6,7 $ Base du pied souvent glabre, parfois légèrement blanche pruineuse avec l'âge; chapeau brun rougeâtre foncé à jaune miel au frais; espèces légèrement charnues-fibreuses
+7,0 $ Basidiome dans les tons de jaune; rhizomorphes ocre rosâtre $ Gymnopus subsulphureus
+7,8 $ Basidiome brun rougeâtre foncé; rhizomorphes blanches
+8,0 $ Poussant sur copeaux de bois ou sol; lames serrées; cheilocystides renflées; printemps $ Gymnopus brunneolus
+8,0 $ Poussant sur litière; lames très serrées; cheilocystides filamenteuses; printemps - automne $ Gymnopus dryophilus
+
+
+cs3,0$ section Iocephalae (voir Gymnopus iocephalus)
+1,0$ section Iocephalae $Gymnopus iocephalus
+
+cs4,0$ section Striipedes
+1,0$ section Striipedes $Gymnopus fusipes de l'ancien monde
+

@@ -1,0 +1,45 @@
+Titre$Genre Arachnopeziza Fuckel
+Auteur : Korf R. – 1951 – A Monograph of Arachnopezizeae. Lloydia 14 (3).
+Traducteur : R. Dougoud, rte Gruyère 39, CH 1700 Fribourg.
+com$ Adaptation par Aurélien Paris
+
+1,2$ 1a : Ascospores avec 7 septa à maturité.
+1,0,N$ Si : les ascospores ont plus de 7 septa ; les poils sont de deux sortes, droits et enroulés ; le subiculum est absent ou rarement présent, par un faux subiculum, voir Dasyscyphella miniopsis (Ellis) Kanouse
+1,3$ 1b : Ascospores avec 1-5-septa à maturité.
+
+2,0$ 2a : Ascospores 1.4-2.7 µm de diamètre, parallèles sur un faisceau. Sur presque toutes plantes en décomposition, mais particulièrement sur bois pourri de Quercus. $ A. aurata Fuckel
+2,0$ 2b : Ascospores 3.4-4.8 µm de diamètre, en deux faisceaux, les unes en dessous des autres. Sur bois mort. $ A. araneosa (Sacc.) Korf
+
+3,0$ 3a : Poils collés,  formant des dents étroites, longues de 200 µm. Apothécie inférieure à 1 mm de diamètre. Sur bois pourri. $ A. fitzpatrickii Korf
+3,4$ 3b : Poils non collés, ne formant pas de dents, ou de courtes dents, émoussées.
+
+4,5$ 4a : Ascospores à 3-5 septa à maturité.
+4,9$ 4b : Ascospores avec 1 septum à maturité.
+4,0,N$ Si les ascospores mesurent jusqu’à 21 x 6.8 µm et si l’hyménium est cendré, voir Belonidium melaneres (Berk. & Br.) Sacc., traité sous espèce imparfaitement connue.
+
+5,0$ 5a : Ascospores 24-40-(48) x 2-2.7-(3.4) µm, avec 3-5 septa, parallèles sur un faisceau ou multisériées. Sur bois décomposé de Quercus, Pinus, etc. $ A. delicatula Fuckel
+5,6$ 5b : Ascospores inférieures à 30 µm de long, non parallèles sur un faisceau.
+
+6,7$ 6a : Apothécie assez grande, jusqu’à 2 mm de diamètre ou plus.
+6,8$ 6b : Apothécie plus petite, jusqu’à 1 mm de diamètre.
+
+7,0$ 7a : Poils longs, 100-500 x 1.3-3 µm, amincis au sommet, généralement jaunâtres. Ascospores avec 3 septa. Bois pourri, feuilles et spécialement sur fruits et involucres de Quercus et Fagus. $ A. aurelia (Pers.:Fr.) Fuckel
+7,0$ 7b : Poils courts : jusqu’à 40 µm, renflés à l’apex jusqu'à 6 µm, hyalins. Ascospores avec 1-3 septa. Sur bois pourri. $ A. major (Ellis & Everhart) Korf
+
+8,0$ 8a : Ascospores 9-14-(18) x 2-2.7 µm, irrégulièrement septées, 1 à 3 septa. Sur bois pourri, décortiqué. $ A. cornuta (Ellis) Korf
+8,0$ 8b : Ascospores 16-30 x 2.7-3.4 µm, 3-(4) septa. Sur bois pourri de Pinus, Quercus. $ A. obtusipila (Grelet) Korf
+
+9,10$ 9a : Ascospores, la plupart, inférieures à 10 µm de long. Poils grêles.
+9,11$ 9b : Ascospores, la plupart, inférieures à 10 µm de long. Poils robustes.
+
+10,0$ 10a : Apothécie urceolée à turbinée. Sur involucres de châtaignes (Castanea dentata et C. vesca). $ A. aranea (Notaris) Boud.
+10,0$ 10b : Apothécie patelliforme, sur bois de noyer, noix (Carya), etc. $ A. eriobasis (Berk.) Korf
+
+11,0$ 11a: Poils faiblement rugueux sur leur longueur. Sur bois décortiqué. $ A. trabinelloides (Rehm) Korf
+11,12$ 11b : Poils lisses ou seulement rugueux à l’apex.
+
+12,0$ 12a : Apothécie inférieure à 1 mm de diamètre. Sur bois pourri, décortiqué. $ A. cornuta (Ellis) Korf
+12,13$ 12b : Apothécie, généralement, 1-2 mm de diamètre.
+
+13,0$ 13a : Poils jusqu’à 40 µm de long, peu septés, hyalins. Sur bois pourri. $ A major (Ellis & Everhart) Korf
+13,0$ 13b : Poils 50-150-(250) µm de long, multiseptés, généralement jaunâtres. Ecorces, vieux champignons, etc. $ A. candido-fulva (Schw.) Korf

@@ -1,0 +1,55 @@
+titre = Amanitopsis ;;;;;;
+commentaire = http://shnvc.e-monsite.com/pages/mycologie/outils-determination.html;;;;;;
+Auteur : Eric Michon;;;;;;
+
+
+champ= Nom;chapeau;Volve;Habitat;arbres;spores;reactionKK
+
+argentea;Gris argenté;;collinéen;Quercus;Elliptiques;
+artica;Blanc;;zone alpine;;;
+avellanea;Crème jaune roux;;collinéen;Castaneus;Globuleuses;negatif
+basiana;Gris gris-brun;;collinéen;Pinus;;
+battarae;Gris gris-brun;;collinéen;Fagaceae;Globuleuses;negatif
+beckeri = brunneoconulus;Gris gris-brun;;collinéen;;;
+betulae;Gris gris-brun;;collinéen;Betula;Globuleuses;positif
+betulae;Crème jaune roux;blanche;collinéen;Betula;Globuleuses;positif
+cistetorum;Gris gris-brun;;thermophiles;Cistus;Elliptiques;
+coryli;Gris gris-brun;;collinéen;Corylus;Globuleuses;positif
+coryli f. albida;Blanc;;collinéen;Corylus;Globuleuses;positif
+crocea;Crème jaune roux;colorée;collinéen;conifères;;
+crocea;Crème jaune roux;colorée;collinéen;Betula;;
+crocea var. alba;Blanc;orangé;collinéen;Betula;;
+crocea var. subnudipes;Crème jaune roux;colorée;thermophiles;;;
+dryophila;Orangé roux;fragile;collinéen;;Elliptiques;
+friabilis;Gris gris-brun;;collinéen;Alnus;Elliptiques;
+fulva;Crème jaune roux;teinté de roux;collinéen;Betula;Globuleuses;positif
+fulva;Orangé roux;;collinéen;;Globuleuses;positif
+fulvoides;Orangé roux;;collinéen;;Globuleuses;negatif
+huisjmanii;Gris ;;collinéen;Quercus;Elliptiques;
+islandica;Blanc;;zone alpine;;Elliptiques;
+mairei;Gris gris-brun;;collinéen;Pinus;Elliptiques;
+nivalis;Blanc;;zone alpine;;Globuleuses;
+oblongispora;Orangé roux;;collinéen;;Elliptiques;
+ochraceomaculata  ;Gris gris-brun;tâches ochracées;collinéen;;Globuleuses;
+ochraceomaculata f. albopilea;Blanc;;collinéen;Picea;Globuleuses;
+ochraceopallida;Blanc;;collinéen;Abies;;
+pachyvolvata;Gris gris-brun;epaisse;collinéen;Conifères;Globuleuses;
+pini;Gris gris-brun;;collinéen;Pinus;Globuleuses;
+praelongipes;Gris-brun;;collinéen;;Globuleuses;negatif
+pseudofriabilis ad int.;Gris gris-brun;;collinéen;Corylus;Globuleuses;
+separata;Gris gris-brun;;collinéen;;Elliptiques;
+shaefferi   ;Brun de datte;;collinéen;;Globuleuses;
+shaefferi f. albidochracea;Blanc;;collinéen;Fagaceae;Globuleuses;positif
+simulans;Gris gris-brun;;collinéen;;Globuleuses;positif
+simulans  ;Gris gris-brun;;collinéen;Populus;;positif
+simulans f. alba;Blanc;;collinéen;Populus;;positif
+stenospora;Orangé roux;membraneuse;collinéen;;Elliptiques;
+strangulata = ceciliae;Gris gris-brun;;collinéen;Quercus;;
+subfraudulenta = lividoppalescens var tigrina;Gris gris-brun;;collinéen;;Elliptiques;
+subfuliginosa;Gris gris-brun;;collinéen;Pinus;;positif
+submembranacea;Gris gris-brun;grise;collinéen;;Globuleuses;
+umbrinolutea;Gris gris-brun;tâches ochracées;collinéen;;Globuleuses;positif
+vaginata  ;Gris gris-brun;;collinéen;;Globuleuses;negatif
+vaginata f. alba;Blanc;;collinéen;Fagaceae;Globuleuses;negatif
+simulans  ;Gris gris-brun;;collinéen;Salix;;positif
+simulans f. alba;Blanc;;collinéen;Salix;;positif

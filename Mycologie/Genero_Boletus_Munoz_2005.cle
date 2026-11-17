@@ -1,0 +1,149 @@
+Titre$ CLAVE DEL GÉNERO BOLETUS Dill. ex Fr.
+Com$ Munoz J.A.,2005. Boletus – Adaptée par Paul Bertéa 30-09-2011
+
+rem$LANGUE$Esapagnol
+
+1,2 $ Poros blancos o amarillos.
+1,cs1 $ Poros rojos o naranjas, que en la juventud pueden ser amarillos. Carne que al corte puede virar al azul mas o menos intensamente. $ Seccion Luridi Fr. (p. 378) $s"Seccion Luridi"
+
+2,cs2 $ Poros blancos en las fructificaciones inmaduras, excepcionalmente pueden ser amarillentos desde el principio, verdosos en la madurez. Carne blanca e inmutable; sabor dulce. $ Seccion Edules Fr. (=Boletus) (p. 307) $s"Seccion Edules"
+2,3 $ Poros amarillos o amarillento verdosos desde el principio, verdosos en los basidiocarpos maduros.
+
+3,cs3 $ Poros anchos en la madurez. Aspecto de los basidiocarpos "Xerocomoide". Estipe gràcil y cilindràceo. El carpoforo se mancha fuertemente por dentro y por fuera de azul oscuro intenso. $ Seccion Subpruinosi Fr. emend Sing. (p. 300) $s"Seccion Subpruinosi"
+3,4 $ Poros finos , prietos, especies de aspecto robusto, mas "Boletoide". Estipe robusto. Los carpoforos pueden azulear por dentro y par fuera pero no tan intensamente.
+
+4,cs4 $ Estipe desprovisto de reticulo; superficie cubierta de finas granulaciones. $ Seccion Fragrantes Lannoy & Estadès (p. 357) $s"Seccion Fragrantes"
+4,5 $ Estipe provisto de reticulo, ocasionalmente pueden observarse basidiocarpos desprovistos de reticulo.
+
+5,cs5 $ Carne dulce, que al corte puede virar al azul o no. $ Seccion Appendiculati Konrad & Maublanc (p. 336) $s"Seccion Appendiculati"
+5,cs6 $ Sabor amargo. Carne que siempre se mancha de azul. $ Seccion Calopodes Fr. (p. 369) $s"Seccion Calopodes"
+
+
+Cs1,0 $ Clave dicotomica para la seccion Luridi Fr.
+
+1,2 $ la. Poros amarillos desde el principio y que muy tardíamente pueden adquirir tonos rojizos o naranjas, sobre todo en la periferia del estipe. 2
+1,9 $ lb. Poros que inicialmente pueden ser total o parcialmente amarillos (sobre todo hacia el margen del píleo), pero que pronto toman tonos rojos o naranjas. 9
+
+2,3 $ 2a. Estipe sin retículo, liso o con finas granulaciones, basidiocarpos que se manchan de azul a la presión. 3
+2,4 $ 2b. Estipe con retículo bien visible, aunque normalmente poco desarrollado. 4
+
+3,0 $ 3a. Carne que azulea intensamente (azul oscuro). Superficie pileica de color amarillo citrino o amarillo limón. Estipe de color amarillo, cubierto de finas granulaciones concoloras. Bajo frondosas, en terrenos ácidos. $ Boletus erythropus var.junquilleus (Quél.) combo nov.
+3,0 $ 3b. Carne que azulea más débilmente (azul claro). Superficie pileica de color amarillo citrino, que se mancha de azul a la presión. Estipe liso, de color amarillo citrino, se mancha de azul a la presión. Bajo frondosas, en terrenos básicos. $ forma "xanthoide" de Boletus lupinus Fr.
+
+4,5 $ 4a. Píleo inicialmente de color blanquecino. 5
+4,6 $ 4b. Píleo inicialmente de otro color. 6
+
+5,0 $ 5a. Píleo que se mantiene de color blanco, blanquecino o grisáceo, sin tonos rosas o rojos. Estipe de color amarillo o amarillo naranja. Carne que azulea débilmente. Bajo frondosas, en terrenos calcáreos, termófila. $ forma "xanthoide" de Boletus satanas Lenz
+5,0 $ 5b. Píleo que pronto toma tonalidades rosa, rosa vivo o "rosa cilantro". Estipe amarillo en la parte alta, rosa o rosa pálido en la parte central; retículo en la parte alta, concoloro. Carne blanquecina, rojo rosa bajo la cutícula, azul claro sobre todo en el píleo. Bajo frondosas, en ambiente mediterráneo. $ Boletus pulchrotinctus Alessio
+
+6,0 $ 6a. Carne de color naranja por encima de la superficie himenial. Superficie pileica de color amarillo naranja u ocre amarillo. Estipe de color amarillo o amarillo naranja en la palie superior y rojo carmín claro hacia la base. Bajo frondosas. $ Boletus luridus f. lupinus Peltereau ex Gilb.
+6,7 $ 6b. Carne de color amarillo por encima de la superficie himenial. 7
+
+7,0 $ 7a. Basidiocarpos de aspecto general poco robusto. Estipe pronto cilindráceo y radicante; amarillo claro a amarillo oscuro, en la madurez marrón naranja; retículo de malla amplia, concoloro. Píleo de 50 - 150 mm de diámetro; superficie pileica amarillo ocre, marrón aceituna, naranja rojizo, incluso rojo vinoso oscuro, se mancha de azul oscuro al frotamiento. Carne con olor típico y característico de licor o frutos fennentados. Bajo frondosas y coníferas, en ambiente mediterráneo. $ Boletus poikilochromus Poder, Cetto el Zuccherelli
+7,8 $ 7b. Basidiocarpos de aspecto general muy robusto y con el pie obeso. Píleo de 80 - 250 mm de diámetro, azulean intensamente a la presión. 8
+
+8,0 $ 8a. Píleo inicialmente amarillo cromo, en la madurez con tonos oliváceos. Estipe subradicante; primero amarillo dorado, manchándose progresivamente y desde la base de rojo o rojo purpurino; retículo concolor. Olor de fennentación orgánica o de medicamento. Bajo frondosas en suelos calcáreos. $ Boletus torosus Fr.
+8,0 $ 8b. Píleo inicialmente amarillo pero que en la madurez toma tonos rosados o liláceos, sobre todo al centro. Estipe de color amarillo limón o amarillo naranja; retículo concoloro. Bajo frondosas, en suelo ácidos. $ Boletus rhodopurpureus f. xanthopurpureus Smotl.
+
+9,10 $ 9a. Estipe sin retículo, en algún caso brevemente retículado sólo cerca del himenóforo. 10
+9,15 $ 9b. Estipe con retículo nonnalmente bien desarrollado. 15
+
+10,11 $ l0a. Carne que al contacto con al aire azulea lenta y débilmente (azul claro). 11
+10,12 $ 10b. Carne que al contacto con el aire azulea de forma intensa y rápida (azul oscuro). 12
+
+11,0 $ 11a. Estipe cubierto de finas granulaciones de color rojo o rojo sangre. Píleo de color rojo sangre o rojo bermellón. Himenóforo con poros de color rojo sangre vivo. Bajo frondosas, en suelos ácidos. $ Boletus dupainii Boud.
+11,0 $ 11b. Estipe liso. Píleo de color primero rosa claro, rosa rojo, en los basidiocarpos maduros ocre naranja u ocre grisáceo. Himenóforo con poros primero amarillos, después rojo naranja, rojo sangre o rojo bermellón. Bajo frondosas, en ambiente mediterráneo, en suelo básicos. $ Boletus lupinus Fr.
+
+12,0 $ 12a. Estipe cubierto de finas granulaciones de color rojo vivo. Píleo de color pardo marrón, pardo rojo oscuro a pardo negro, con zonas decoloradas en amarillo sucio. Himenóforo con poros de color rojo vivo. Bajo frondosas y coníferas, muy común. $ Boletus erythropus Pers.
+12,13 $ 12b. Estipe liso o muy ligeramente retículado en la periferia del himenóforo. 13
+
+13,0 $ 13a. Superficie pileica brillante y un poco lubrificada; de color grisáceo rosado, ocráceo rosado, que se va coloreando desde el centro del sombrero en tonos rojo rosado. Himenóforo con poros primero naranjas a rojo sangre. Estipe cilindráceo, muy radicante, liso o con un retículo muy poco marcado en la inserción con el píleo. Bajo frondosas, en ambiente mediterráneo, en suelos básicos. $ Boletus comptus Simonini
+13,14 $ Superficie pileica mate, seca, un poco vellosa o aterciopelada. 14
+
+14,0 $ 14a. Píleo de color marrón naranja, ocre rojizo o naranja oliváceo. Himenóforo con poros de color naranja. Estipe liso, de color amarillo naranja en lo alto, rojo cannín hacia la mitad, carmín violáceo oscuro a casi negro hacia la base. Carne de color amarillo vivo bajo los tubos, azulea con intensidad, rojo vinoso a casi negruzco hacia la mitad inferior del estipe. Bajo frondosas. $ Boletus queletii Schulz.
+14,0 $ 14b. Píleo de color uniforme en rojo púrpura o pardo vinoso. Estipe en general más pálido que el tipo. Resto de características como el tipo. Bajo frondosas , sobre todo en verano, muy raro. $ Boletus queletii varo lateritius Bres. & Schulz.
+
+15,16 $ 15a. Píleo inicialmente con tonos blancos o grisáceos y que posteriormente puede tomar tonalidades rosa, rojo, rojo granate o rojo sangre. 16
+15,19 $ 15b. Píleo inicialmente sin tonos blanquecinos o grisáceos. 19
+
+16,0 $ 16a. Píleo blanquecino o grisáceo, sin restos de color rosa o rojo. Estipe de color amarillo azufre en lo alto, rojo carmín a rosa rojo hacia el centro, con retículo en la parte superior concolor. Carne azul claro; olor desagradable en los ejemplares adultos. Bajo frondosas, en suelos básicos. $ Boletus satanas Lenz
+16,17 $ 16b. Píleo que toma en los basidiocarpos maduros tonalidades rosas o rojas, sobre todo a la presión o roce. 17
+
+17,0 $ 17a. Carne que al contacto con el aire es azul claro en el píleo y amarillo vivo en el estipe. Estipeamarillo en lo alto, rojo carmín hacia la base; retículo que ocupa casi toda la superficie, de color rojo sangre o rojo carmín. Bajo frondosas, en suelos ácidos. $ Boletus rhodoxanthus Krombh.
+17,18 $ 17b. Carne azul claro tanto en el píleo como en el estipe. 18
+
+18,0 $ 18a. Píleo incialmente de color gris ocre marrón, gris crema, que se mancha progresivamente y sobre todo a la presión de rojo sangre. Estipe de color rojo sangre, pardo rojo oscuro hacia la base; retículo amplio, concolor. Bajo Abies sp. en montaña, en terrenos calcáreos. $ Boletus rubrosanguineus (Walty) ex Cheype 
+18,0 $ 18b. Píleo de color blanquecino o crema grisáceo, que se va manchando de rosa claro o rojo rosa claro. Estipe amarillo naranja en la mitad superior, rosa o rojo rosa en la mitad inferior; retículo en la parte superior, poco desarrollado, concolor. Bajo frondosas, en verano, en suelo ácidos. $ Boletus legaliae Pilát el Dermek
+
+19,0 $ 19a. Píleo de color rojo vivo, rojo sangre, rojo púrpura. Estipe de color amarillo naranja a naranja, en la parte baja es de color amarillo dorado; retículo que cubre casi toda la superficie, de color rojo vivo. Bajo frondosas, en suelos ácidos, en ambiente mediterráneo. $ Boletus permagnificus Pöder
+19,20 $ 19b. Píleo en otros colores; carne que azulea intensamente y que excepcionalmente puede ser primero rojo granate oscuro o violácea. 20
+
+20,21 $ 20a. Carne amarilla encima de la superficie del himenóforo. Reacción amiloide negativa o débilmente positiva. 21
+20,22 $ 20b. Carne naranja debajo de la superficie del himenóforo. Reacción amiloide fuet1emente positiva. 22
+
+21,0 $ 21a. Píleo primero vivamente coloreado en rosa vivo, rosa vinoso, rosa púrpura o rojo vinoso, oscureciéndose en rojo púrpura. Estipe de color amarillo, amarillo naranja, rojo naranja hacia la base; retículo apretado y poco desarrollado, rojo. Bajo frondosas, en suelos ácidos. $ Boletus rhodopurpureus Smotl.
+21,0 $ 21b Píleo primero amarillo cromo, en algunos casos con tonos rosados, pronto de color ocráceo naranja, a la presión en algunas boras toma tonos rojo cobre o pardo cobre. Estipe amarillo naranja, rojo o rojo carmín hacia la mitad inferior; retículo bien desarrollado, de color rojo. Bajo frondosas , en suelos ácidos, termófila. $ Boletus luteocupreus Bertéa el Estades
+
+22,0 $ Píleo de un vivo color rojo, rojo cobre o rojo rosa. Basidiocarpos que se manchan intensamente de azul oscuro a la presión. Himenóforo con poros de color primero rojo naranja, después rojo ladrillo. Bajo frondosas. $ Boletus luridus varo rubriceps (Maire) Dermek
+22,23 $ Píleo de otro color. 23
+
+23,0 $23a. Carne que azulea desde el principio. Píleo de color ocre, ocre oliváceo, naranja ocre, naranja ladrillo hasta pardo oliváceo. Estipe amarillo naranja en la parte superior y rojo carmín oscuro hacia la base; retículo con malla grande y alargada de color rojo. Bajo frondosas y coníferas. $ Boletus luridus Schaeff. : Fr.
+23,0 $ 23b. Carne al contacto con el aire primero rojo granate o violáceo, azuleando más tarde. Píleo de color gamuza, gris ocre, grisáceo amarillo, gris rosado. Himenóforo con poros rojos a rojo sangre. Estipe con retículo muy prieto y coloreado en rojo. Resto de características como el tipo. Bajo frondosas. $ Boletus luridus varo erythroteron (Bezdek) Pilát & Dermek
+
+
+Cs2,0 $ Clave para la Seccion Edules Fr. (= Sec. Boletus)
+
+1,2 $ Superficie pileica lisa, untosa o un poco viscosa en tiempo hùmedo, brillante. Carne que puede estar coloreada bajo la superficie pileica. Pileipellis en general con articulos terminales cortos, lanceolados o irregulares, cilindrâceos, fusiformes o clavados.
+1,6 $ Superficie pileica mate, seca, un poco aterciopelada. Carne no coloreada bajo la superficie pileica. Pileipellis con articulos terminales cortos, cilindràceos, o claviformes, no se observan elementos irregulares, fusiformes o lanceolados.
+
+2,3 $ Pileo enteramente de color blanco o amarillo.
+2,4 $ Pileo con tonos ocres, marrones, pardo caobas o pardo rojos.
+
+3,0 $ Pileo blanco puro, crema blanquecino con la edad. Estipe de color blanco; reticulo poco desarrollado y limitado a la parte superior, de color blanco. Carne blanca, incluso bajo la superficie pileica. Bajo frondosas, muy raro. [= Boletus persoonii Bon] $ Boletus edulis f. albus (Pers.) comb. nova 
+3,0 $ Pileo uniformemente coloreado de amarillo, amarillo ocre, Estipe de color blanquecino o crema claro, resta de caracteres igual que el tipo. [=B. venturii Bon] $ Boletus edulis f. citrinus (Venturi) comb. nova 
+
+4,0 $ Pileo de color variable: ocre marron, marron leonado, marron rosado, pardo castafio, marron oscuro, con zonas aclaradas o blancas sobre todo en ejemplares jovenes, Carne rojo vin osa bajo la superficie pileica. Estipe muy robusto, de color crema blanquecino; reticulo blanquecino. Bajo frondosas y coniferas, en suelo àcidos. $ Boletus edulis Bull.: Fr.
+4,5 $ Pileo de otro color.
+
+5,0 $ Pileo de color uniforme en gris claro, gris crema p àlido, crema blanquecino. Estipe pronto clavifonne o subcilindràceo; de color crema pàlido, con reticulo muy poco marcado, blanquecino, exclusivamente bajo Betula sp. $ Boletus edulis f. betulicola Vassilkov
+5,0 $ Pileo de color pardo caoba, rojo caoba, pardo rojizo a pardo marron. Estipe muy robusto, de color blanquecino en la parte superior, el resta es ocre marron u ocre rojizo ; con reticulo en la parte media alta, blanquecino. Bajo frondosas y coniferas en suelos àcidos. $ Boletus pinophilus Pilat & Dermek
+
+6,0 $ Pileo al principio casi negro, pardo negro, después marron oscuro, con zonas de color marron bronce, palideciendo en tiempo seco. Estipe robusto, de color pardo ocre ; con reticulo en la mitad superior, poco marcado, blanquecino. Bajo frondosas. $ Boletus aereus Bull.: Fr.
+6,0 $ Pileo de color pardo, ocre, marron claro, oscuro en tiempo hùmedo y mas pàlido hasta crema o crema blanquecino en tiempo seco; superficie pileica que se agrieta fàcilmente en tiempo seco. Estipe del color del pileo pero mas claro; reticulo blanquecino a crema. Bajo frondosas, en verano, muy comùn. $ Boletus aestivalis (Paulet) Fr.
+
+
+Cs3,0 $ Seccion: Subpruinosi Fr.
+
+1,0 $ Esporas de 12,9 - 14 (14 ,6) x (5,7) 5,9 - 7 um, Q = (1,8) 2 - 2,2 (2,3). Pileo de color primero amarillo, después con tonos rojo rosa , naranja. Estipe de color amarillo; superficie del estipe estéril. Bajo frondosas y coniferas, en suelos àcidos. $ Boletus flavosanguineus Lavorato et Simonini
+1,0 $ Esporas de (10,5) 12,5 - 14,5 (15,5) x 4,2 - 5,2 (5,4) µm, Q = (2,5) 2,6 - 2,9 (3). Superficie del pileo de color muy variable, amarillento, rosado , ocre marron, marron, pardo rojizo, pardo olivàceo. Estipe liso o un poco reticulado en la parte alta; de color amarillo vivo en lo alto, rojizo en la parte central; superficie del estipe fértil . Bajo frondosas y coniferas, poco comùn. $ Boletus pulverulentus Opat.
+
+
+Cs4,0 $ Clave para la Seccion Fragrantes Lannoy & Estadès
+
+1,0 $ Pileo de color uniforme: marron oscuro o pardo oscuro. Estipe fusiforme y radicante; amarillo citrino sobre todo en la parte alta, rojo o rojo rosa punteado en la mitad inferior. Bajo frondosas en verano y otonio. $ Boletus fragrans Vittad.
+1,2 $ Pileo de color rojo o rojo rosa, etc.
+
+2,0 $ Esporas estrechas, cilindrico fusiformes, Q = 2,6 - 3,2 (3,4). Himenoforo con tubos cortos a muy cortos, de 4-8 mm. Estipe de color amarillo pàlido ; recubierto, sobre todo en la parte alta, de un fino punteado de color rojo rosa. Reaccion negativa al Melzer. Bajo frondosas, en ambiente mediterr àneo. [ = Boletus aemilii Barbier] $ Boletus spretus Bertéa 
+2,0 $ Esporas elipticas, Q = ( 1,6) 1,8 - 2 (2,2) . Himenoforo con tubos muy largos hasta 17 mm de longitud. Estipe cubierto de fina s granulaciones del color del pileo. Reaccion fuertemente amiloide al Melzer. Bajo frondosas y coniferas, en ambiente mediterràneo. $ Boletus adonis Pôder & Ladurner
+
+
+Cs5,0 $ Clave para la Seccion Appendiculati Konrad & Maublanc ex Lannoy & Estadès
+
+1,2 $ Pileo y estipe con tonos rosa o rosa rojo , total o parcialmente.
+1,4 $ Pileo y estipe sin tonos rosa o rojizos.
+
+2,0 $ Came de color amarillo vivo que no azulea al corte. Pileo de color rosa vivo o rojo rosa que puede palidecer en tiempo seco. Estipe de color amarillo vivo , amarillo limon, con reticulo concolor. Olor caracteristico coma de "fermentacion quimica". Bajo frondosas, en verano. $ Boletus regius Krombh.
+2,3 $ Came blanca o blanquecina, no amarilla, que azulea sobre todo en el pileo. Pileo sin tonos rosa o rojo rosa vivo.
+
+3,0 $ Pileo de color beige , crema o gris crema. Estipe de color amarillo claro , provisto de una tipica banda rosa en la mitad inferior; reticulo concolor, sobre todo en la parte alta. Bajo frondo sas y coniferas, en verano. $ Boletus fechtneri Velenovsky
+3,0 $ Pileo de color pardo rosa, pardo rojizo en la madurez, a veces decolorado en tonos ocre rosado. Estipe amarillo en la mitad superior, ocre marron hacia la base y adomado con una llamativa orla de color rojo rosa; con reticulo de color amarillo en la parte alta. Bajo frondosas , en verano. $ Boletus pseudoregius Hubert ex Estadés
+
+4,0 $ Estipe pronto cilindràceo y radicante. Pileo de hasta 250 mm de diàmetro; de color marron ocrâceo, marron oscuro o pardo marron. Himenôforo con tubos muy anchos (hasta 18 mm) , poros que se manchan de azul a la presiôn. Bajo frondosas en verano, termofila. $ Boletus appendiculatus Fr.
+4,0 $ Estipe de obeso a claviforme, no radicante. Pileo hasta 120 (150) mm; de color uniforme en amarillo marron u ocre marron claro. Himenoforo con tubos poco anchos (hasta 10 mm); poros que no azulean a la presiôn. Bajo coniferas (Abies alba) y mucho mas raramente bajo frondosas (Fagus sylvatica), en zonas de montana, en verano. $ Boletus subappendiculatus Dermek, Lazebnicek & Veselsky
+
+
+Cs6,0 $ Clave de especies Seccion Calopodes Fr. 1838 emend. Lannoy et Estadès
+
+1,0 $ Estipe siempre con tonos rosas, rojos o rojo bermell6n; reticulo con malla alargada, de color amarillo vivo en 10 alto, rojo grosella o rojo vinoso en la parte baja. Superficie pileica de color gris beige, gris leonado, incluso un poco olivàceo. Bajo frondosas y coniferas, en verano. $ Boletus calopus Pers. : Fr.
+1,0 $ Estipe solo excepcionalmente con tonos rasas o rojos, habitualmente de color amarillo o amarillento; reticulo poco desarrollado, primera blanco, después amarillo. Superficie pileica de color blanquecino a gris crema. Bajo frondosas, en suelos calcàreos, frecuente. $ Boletus radicans Pers. : Fr.
+

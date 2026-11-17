@@ -1,0 +1,30 @@
+titre$ C Y S T O D E R M E  --  Clé de Marcel LOQUIN 1951
+com$ Adaptée par Paul Bertéa 10-09-2011
+
+1,0, $ Publication intégrale $$f"Cystoderma_Loquin_1951.pdf"
+1,Cs1$ Spores colorées par l'iode ; arête homomorphe $ Section Genuinae Locquin = Amianthina Smith et Singer $s"sect. GENUINAE"
+1,Cs2$ Spores non colorées en gris par l'iode ; arête parfois hétéromorphe $ Section Granulosae (Fr.) Locquin = Granulosa Smith et Singer $s"sect. GANULOSAE"
+
+cs1,0 $ GENUINAE.
+
+1,0 $ Armille submembraneux gainant le pied ; teinte générale, carné pâle $ C. carcharias
+1,2 $ Armille floconneux ou cortiniforme 
+2,0 $ Chapeau rouge brique, rouge vineux ou rouge sang, armille fugace $ C. haematites
+2,3 $ Chapeau d'une autre couleur ; stipe totalement gainé jusqu'aux ¾ 
+3,4 $ Spores étroites non elliptiques
+3,0 $ Spores elliptiques ayant moins de 5 X 3,5 µm $ C. fallax
+3,0,N$ Espèce américaine à rechercher, non décrite ici mais figurée d'après le type, fig. 6/// ///Remarque : Espèce mal connue de l'auteur qui la situe près de granulosum, pourtant placée par lui dans l’autre section .///En réalité, l'armille se termine par un anneau très évident à la manière de carcharias.
+4,0 $ Spores étroites de plus de 7 X 4 µm $ C. amianthinum v. longisporum
+4,5 $ Spores étroites de moins de 7 µm
+5,0 $ Chapeau coloré : ocracé, ocracé-fauvâtre $ C. amianthinum
+5,0 $ Chapeau blanc pur $ C. amianthinum v. album
+
+Cs2,0 $ GRANULOSAE.
+
+1,0 $ Hyphes incrustées $ C. ponderosum
+1,2 $ Hyphes non incrustées
+2,0 $ Chapeau brun ou brun ocre $ C. granulosum
+2,0 $ Chapeau rouge brique  $ C. cinnabarinum
+2,0 $ Chapeau blanc puis alutacé $ C. ambrosii
+2,0,N$ Non décrite ici
+

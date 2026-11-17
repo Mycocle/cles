@@ -1,0 +1,46 @@
+titre $ Geranium Belgique
+com$ adapt GF mai 2016
+rem$LANGUE$Anglais
+1,0$ source : Manual of the Alien Plants of Belgium
+1,30$ bibliographie
+1,0$
+1,0 $ Stamens at least twice as long as petals, long exserted $ G. macrorrhizum (incl. G. xcantabrigiense)
+1,2 $ Stamens hardly or not exserted, at most 1,5x as long as petals
+2,3 $ Petals abruptly narrowed at base to form a distinct claw about half or more the length of the petal
+2,5 $ Petals gradually narrowed towards base without a claw or sometimes with a short claw less than half the length of the petal
+3,0 $ Leaves divided ½-2/3 to base, nearly glabrous and shiny. Sepals distinctly keeled, glabrous (native) $ G. lucidum
+3,4 $ Leaves divided nearly to base, usually hairy and rather dull. Sepals not keeled, glandular hairy
+4,0 $ Mericarps with dense wrinkles in the basal half and 2-3(-4) deep collar-like ridges towards apex. Petals 5-9 mm long. Anthers yellow $ G. purpureum
+4,0 $ Mericarps with sparse, shallow ribs in the basal half and with 0-1(-2) deep collar-like ridges towards apex. Petals 8-14 mm long. Anthers pinkish-orange to purplish (native) $ G. robertianum
+5,6 $ Annuals, biennials or perennials (if perennial than without a distinct rhizome). Petals up to 10 mm long (often much shorter)
+5,14 $ Perennials with stout rhizomes. Petals usually much longer (if shorter than blackish)
+6,0 $ Fertile stamens 5 (outer whorl of stamens with filaments lacking anthers) (native) $ G. pusillum
+6,7 $ Fertile stamens 10 (all filaments bearing anthers)
+7,8 $ Mericarps reticulate (i.e. transversely ridged)
+7,9 $ Mericarps smooth
+8,0 $ Leaves angular in outline. Mericarps separating without stylar beak (fruit discharge mechanism not operative). Sepals distinctly mucronate (mucro ca. 1 mm long). Rostrum 5-8 mm long $ G. divaricatum
+8,0 $ Leaves rotund in outline. Mericarps separating with long stylar beak (fruit discharge mechanism operative). Sepals indistinctly mucronate (mucro ca. 0,1-0,2 mm long). Rostrum 6-11 mm long (native) $ G. molle
+9,0 $ Mericarps glabrous (native) $ G. aequale
+9,10 $ Mericarps hairy (at least in part but often throughout)
+10,11 $ Leaves divided ½-2/3 to base
+10,12 $ Leaves divided nearly to base
+11,0 $ Perennial. Petals 7-10 mm long, notched at apex $ G. pyrenaicum
+11,0 $ Annual. Petals 5-7 mm long, rounded to truncate at apex, not notched (native) $ G. rotundifolium
+12,0 $ Entire plant eglandular hairy. Peduncle slender, usually longer than 25 mm, longer than the subtending leaves. Petals bright pink, rounded at apex, 8-10 mm long (native) $ G. columbinum
+12,13 $ Plant glandular hairy (especially peduncles). Peduncle stouter, usually shorter than 25 mm, shorter than the subtending leaves. Petals reddish purple or pale lilac, 4-6 mm long
+13,0 $ Petals pale lilac, entire at apex. Mericarp blackish at maturity, 3-4,5 mm long. Rostrum of fruit 16-21 mm long $ G. carolinianum
+13,0 $ Petals reddish purple, notched at apex. Mericarps brownish at maturity, 2-2,5 mm long. Rostrum of fruit 7-10 mm long (native) $ G. dissectum
+14,0 $ All flowers solitary (native) $ G. sanguineum
+14,15 $ Most flowers 2(-3) per peduncle
+15,0 $ Petals very dark purplish to nearly black, apiculate at apex. Mericarps pointed at base $ G. phaeum
+15,16 $ Petals pinkish, purplish, reddish or sometimes whitish but never blackish. Mericarps rounded at base
+16,0 $ Petals deeply notched at apex. Leaves with 3-5 lobes, leaf lobes shallowly crenate $ G. nodosum
+16,17 $ Petals rounded to slightly emarginate at apex, never deeply notched. Leaf lobes deeply dentate
+17,18 $ Pedicels densely glandular hairy. Inflorescence compact (pedicels at most 3x as long as sepals)
+17,19 $ Pedicels eglandular or with some sparse glandular hairs. Inflorescence lax (pedicels at least 4x as long as sepals)
+18,0 $ Petals slightly emarginate at apex. Mericarps without tuft of bristles at base $ G. x magnificum
+18,0 $ Petals rounded at apex. Mericarps with tuft of bristles at base (native) $ G. pratense and G. sylvaticum
+19,0 $ Pedicels hirsute-hairy with coarse retrorse hairs. Fruiting pedicels curved near apex. Stamens with filaments shortly ciliate at base (native) $ G. palustre
+19,0 $ Pedicels with slender, patent eglandular hairs intermixed with numerous very short, more or less glandular ones. Fruiting pedicels erect at apex. Stamens with filaments long ciliate throughout (except in upper 1/3) $ G. endressii (incl. G. xoxonianum)________________________________________
+
+30,0$///Aedo C. (1996) Revision of Geranium subgenus Erodioidea (Geraniaceae). Syst. Bot. Monogr. 49: 1-104.///Aedo C. (2000) The genus Geranium L. (Geraniaceae) in North America. I. Annual species. Anales Jard. Bot. Madrid 58(1): 39-82.//Aedo C. (2001) The genus Geranium L. (Geraniaceae) in North America: 2. Perennial species. An. Jard. Bot. Madrid 59(1): 3-65.///Aedo C. (2003) Taxonomic revision of Geranium Sect. Trygonium (Geraniaceae). Bot. Zhurn. 88(4): 124-131.///Aedo C. (2012) Revision of Geranium (Geraniaceae) in the New World. Syst. Bot. Monogr. 95: 550 p.///Aedo C., Aldasoro J.J. & Navarro C. (1998a) Taxonomic revision of Geranium L., sections Divaricata Rouy and Batrachioidea W.D.J. Koch (Geraniaceae). Ann. Missouri Bot. Gard. 85: 594-630.///Aedo C., Fiz O., Alarcon M.L., Navarro C. & Aldasoro J.J. (2005a) Taxonomic revision of Geranium sect. Dissecta (Geraniaceae). Syst. Bot. 30: 533-558. ///Aedo C., Garcia M.A., Alarcon M.L., Aldasoro J.J. & Navarro C. (2007) Taxonomic revision of Geranium subsect. Mediterranea (Geraniaceae). Syst. Bot. 32(1): 93-128.///Aedo C., Muñoz Garmendia F. & Pando F. (1998b) World Checklist of Geranium L. (Geraniaceae). Anales Jard. Bot. Madrid 56(2): 211-252.///Aedo C., Navarro C. & Alarcón M.L. (2005b) Taxonomic revision of Geranium sections Andina and Chilensia (Geraniaceae). Bot. J. Linn. Soc. 149: 1-68. ///Andriessen L., Nagels C. & Vannerom H. (1985) Geranium versicolor L., nieuw voor het flora-gebied te Alken (Limburg, België). Dumortiera 33: 36. ///Ellermann G. (2008) Die Geschichte vom Fund und Verlust des Spreizenden Storchschnabels (Geranium divaricatum). Floristische Notizen aus der Lüneburger Heide 16: 11-13 [available online at: http://www.kaiser-alw.de/pdf/Fl16_08.pdf].///Jäger E.J., Ebel F., Hanelt P. & Müller G. (eds.) (2008) Rothmaler Band 5. Exkursionsflora von Deutschland. Krautige Zier- und Nutzpflanzen. Springer Verlag, Berlin: 880 p. ///Knuth R. (1912) Geraniaceae. In: Engler A. (ed.), Das Pflanzenreich 53 (IV.129). Engelmann, Leipzig: 1-640.///Lambinon J., Delvosalle L., Duvigneaud J. (avec coll. Geerinck D., Lebeau J., Schumacker R. & Vannerom H. (2004) Nouvelle Flore de la Belgique, du Grand-Duché de Luxembourg, du Nord de la France et des Régions voisines (Ptéridophytes et Spermatophytes). Cinquième édition. Jardin botanique national de Belgique, Meise: CXXX + 1167 p.///Lawalrée A (1964) Geraniaceae. In: Robyns W. (ed.), Flore Générale de Belgique, vol. 4, fasc. 3. Jardin Botanique de l’Etat, Bruxelles: 239-286. ///Lawalrée A. (2000) Geranium aequale (Babington) Aedo, une plante indigène méconnue en Belgique. Adoxa 28: 4. ///Mullenders W. (ed. De Langhe J.-E., Delvosalle L., Duvigneaud J., Lambinon J., Lawalrée A., Mullenders W. & Vanden Berghen C.) (1967) Flore de la Belgique, du Nord de la France et des Régions voisines. Ed. Desoer, Liège: XLIV + 749 p.///Sell P. & Murrell G. (2009) Flora of Great Britain and Ireland. Vol. 3 Mimosaceae – Lentibulariaceae. Cambridge University Press, Cambridge: XXVIII + 595 p.///Slavík B. (1997) Geraniaceae. In: Slavík B. (ed.), Kvetena Ceské Republiky, vol. 5. Academia, Praha: 191-229.///Stace C. (2010) New flora of the British Isles, 3th ed.: XXXII + 1232 p. Cambridge University Press.///Tokarski M. (1972) Morphological and taxonomical analysis of fruits and seeds of the European and Caucasian species of the genus Geranium L. Monogr. Bot. 36: 1-115.///Veldkamp J.-F. (2008) Gladde ooievaarsbek, Geranium aequale (Bab.) Aedo (Geraniaceae), een niet zo nieuwe soort voor Nederland. Gorteria 33: 50-58. ///Verloove F. & Lambinon J. (2008) Neophytes in Belgium: corrections and adjustments. Syst. Geogr. Pl. 78: 63-79.///Webb D.A. & Ferguson I.K. (1968) Geranium. In: Tutin T.G. & al. (eds.), Flora Europaea, volume 2. Cambridge University Press, Cambridge: 193-199.///Yeo P.F. (1997) Geranium. In: Cullen J. & al. (eds.), The European Garden Flora, vol. 5. Cambridge University Press, Cambridge: 26-50.

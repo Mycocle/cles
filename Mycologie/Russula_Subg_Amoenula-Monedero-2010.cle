@@ -1,0 +1,15 @@
+titre $ Russula subgénero AMOENULA
+com$ adapt GF sept 2015
+
+1,0$ source : MONEDERO GARCÍA, CARLOS :Estudio del género Russula en la Penísula Ibérica: El subgénero Amoenula /// SOCIEDAD MICOLÓGICA EXTREMEÑA  Boletín Informativo nº 10 - año 2010 - XXI
+rem$LANGUE$espagnol
+1,0$
+
+rem $ CLAVE PARA LA DETERMINACION DE LAS ESPECIES
+1,2 $ a. Esporada crema pálido (IIa-b, Cód. Romagn.)
+1,3 $ b. Esporada crema oscuro u ocre claro (IId-IIIa, Cód. Romagn.)
+2,0 $ a. Pelos cistidiformes cuyo calibre raramente sobrepasan 11 µm, especie de tamaño mediocre, sombrero de hasta 50-55 mm de diámetro, reacción púrpura violeta de la carne al fenol $ R. amoena
+2,0 $ b. Pelos cistidiformes de hasta 16 µm de anchura, sombrero que puede sobrepasar los 100 mm de diámetro, reacción de color pardo al fenol, pelos de la epicutis con artículos basales globosos, sombrero de color amarillo-verdoso, con parcelas lívido- violáceas, a menudo enteramente amarillo citrino (fo. citrina) $ R. violeipes
+3,0 $ a. Pelos cistidiformes faciales cuyo calibre no sobrepasa 10 µm, pelos epicuticulares con artículos basales más o menos globosos $  R. amoenicolor var. stenocystidiata
+3,0 $ b. Pelos cistidiformes faciales de hasta 18 µm de anchura, pelos epicuticulares con artículos basales no globosos, mostrando preferencia por los encinares de suelos arenosos $ R. amoenicolor var. amoenicolor
+

@@ -1,0 +1,82 @@
+Key to families of the Aphyllophorales (literally “not bearing gills”)
+The key uses macroscopic characteristics to key out to Friesian family
+
+titre$families of the Aphyllophorales
+com$Adapt GF nov 2015
+rem$LANGUE$Anglais
+1,0$ Source : MACROSCOPIC Key to genera of poroid fungi, at least to the common species.///Tom Volk University of Wisconsin -La Crosse revised July 2011 ///http://www.utm.utoronto.ca/
+1,0$
+
+MACROSCOPIC Key to genera of poroid fungi, at least to the common species.
+Tom Volk University of Wisconsin-La Crosse revised July 2011
+
+1,2 $Fruiting body red-brown or yellow, at least when young. Turns black with a drop of 2-3% KOH, pore surface not white or tan. (micr no clamps, usually with setae)
+1,4 $Fruiting body not with the above combination of characters.
+2,0 $Stalk present, usually on the round $Coltricia
+2,3 $Stalk absent
+3,0 $Fruiting body annual, usually softer $Inonotus
+3,0 $Fruiting body perennial, often with layers of pores in cross section $Phellinus
+4,0 $Fruiting body totally resupinate (i.e. crustlike, flat on substrate) $Heterobasidion, many others
+4,5 $Pileus present, fruiting body at least effused-reflexed
+5,0 $Pores separable as separate tubes, pileus red or gray (not common). $Fistulina
+5,6 $Pores congruous with one another
+6,7 $Fruiting body with many pilei from a single central point, usually on the ground 
+6,9 $Fruiting body with single pileus, although they may be overlapping
+7,0 $Fruiting body brown, not hirsute, staining black where handled. $Meripilus
+7,8 $Fruiting body gray or tan to brown, hirsute or glabrous, not staining black
+8,0 $Fruiting body almost white or tan to brown, usually hirsute $Bondarzewia
+8,0 $Fruiting body gray $Grifola
+9,10 $Centrally stipitate or nearly so (check several specimens)
+9,14 $Stalk lateral or lacking (check several specimens)
+10,0 $Growing on wood, or, if on ground, stalk black (growing from buried wood) . $Polyporus
+10,11 $Growing on the ground, not from buried wood, stalk never black
+11,0 $Fruiting body some shade of gray $Boletopsis subsquamosa
+11,12 $Fruiting body white, yellow, blue or some other color
+12,0 $Fruiting body not hirsute, colored white, yellow, blue, green or some other color, pore surface usually matching the pileus color $Albatrellus
+12,13 $Pileus hirsute, with shades of brown, tan, and yellow, pore surface not matching pileus color
+13,0 $Pore surface green to brown with irregular pores, pileus surface zonate, annual $Phaeolus schweinitzii
+13,0 $Pileus surface brown, pores white, rare, known only from Oregon and Washington, only with true fir (Abies), perennial.$Bridgeoporus nobilissimus
+14,15 $Pores irregular, breaking up into teeth, maze-like, or gill-like
+14,23 $Pores regular
+15,16 $Pores gill-like
+15,17 $Pores breaking up into teeth or irregular or maze-like
+16,0 $Pileus with broad concentric zones, multicolored with dark brown and yellow- orange $Gloeophyllum
+16,0 $Pileus with narrow concentric zones, multicolored with tans and orange, pores white $Lenzites
+17,18 $Pores breaking up into teeth as the fruiting body matures
+17,20 $Pores mazelike
+18,0 $Fruiting body darker, usually with some shade of purple, at least when young $Trichaptum
+18,19 $Fruiting body totally ochraceous, pileus top (if present) same color as the teeth
+19,0 $Teeth shorter than 3 mm when mature. $Irpex
+19,0 $Teeth usually longer than 3 mm when mature $Spongipellis pachyodon
+20,0 $Fruiting body <3 mm, pendulous, hanging from a narrow stipe .. $Porodisculus
+20,21 $Not as above (not Fruiting body <3 mm, pendulous, hanging from a narrow stipe )
+21,0 $Pore surface tan-gray to grayish-brown, pileus almost always green from algae $Cerrena
+21,22 $Pore surface white, sometimes brown when dried
+22,0 $Pileus entirely white, no zones. Pores narrower than 1 mm, pores do not scratch brown $Trametes elegans, T. gibbosa
+22,0 $Pileus surface with concentric zones, pores narrower than 1 mm, fresh pores turn from white to brown when scratched $Daedaleopsis
+22,0 $Pileus surface without concentric zones, pores wider than 1 mm, no stain when scratched. $Daedalea
+23,0 $Pore surface covered with a membranous veil $Cryptoporus
+23,24 $No veil present, pore surface exposed from early development
+24,25 $Fruiting body color predominantly bright orange to yellow-orange, at least on top and when fresh
+24,27 $Fruiting body some other color
+25,0 $Fruiting body larger than 10 cm across when fresh $Laetiporus
+25,26 $Fruiting body smaller than 10 cm across when mature
+26,0 $Pileus bright orange, often fading while the pores remain bright orange. . $Pycnoporus
+26,0 $Pileus yellow-orange, pileus and pores similar in color $Pycnoporellus
+27,0 $Pore surface smoky gray $Bjerkandera
+27,0 $Pore surface tinted pale orange, pileus surface white $Gloeoporus
+27,28 $Pore surface some other color, usually tan or white
+28,29 $Fruiting body watery, at least when fresh
+28,30 $Fruiting body with lower amount of water
+29,0 $Fruiting body dark on top, white underneath $Ischnoderma
+29,0 $Fruiting body white to cream colored, to blue $Tyromyces and Oligoporus
+30,0 $Pileus top zonate, usually strongly so, with many colors or shades. If not zonate then white, not at the base of a tree $Trametes
+30,31 $Pileus not strongly zonate
+31,0 $Spores brown (check top of pileus, where the spores tend to accumulate in the wind), pileus very hard, pores surface white (micr spores truncate, double walled) $Ganoderma 
+31,32$Spores white to buff32
+32,0 $Fruiting body turns red or purple with a drop of KOH $Hapalopilus
+32,33 $No change with KOH, or some other color
+33,0 $Fruiting body at the base of hardwood tree, especially maple, usually with green algae or moss growing top of it $Oxyporus populinus
+33,34 $Fruiting body a conk, usually quite large
+34,0 $Not on birch $Fomitopsis, Perenniporia, Spongipellis (keyed together)
+34,0 $Usually on birch $Piptoporus or Fomes

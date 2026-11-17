@@ -1,0 +1,195 @@
+Titre$Clé des Bryophytes
+Rem$J.-C.Rameau, D.Mansion & G.Dumé - Flore Forestière Française. 2, Montagnes. IDF, 1993
+Com$Adaptation par A.Paris, 2013
+
+1,0$ Pour les Bryophytes, ne jamais oublier que les clés proposées ne sont pas exhaustives, que nombre d’espèces ont des sosies et que, pour ces petites plantes, il n’est pas possible de faire une clé totalement valable sur les seuls caractères visibles à l’œil nu ou à la loupe.
+1,2$ Tige feuillée ou lame foliacée (thalle) à symétrie bilatérale ; sporophyte peu différencié : capsule seulement constituée d’un tissu sporogène et d’une paroi ; soie fugace et hyaline grandissant au dernier moment. – Hépatiques
+1,5$ Tige feuillée à symétrie axiale ; sporophyte différencié, présentant toujours un tissu stérile central et, généralement, une capsule complexe avec apophyse, urne, opercule et péristome. – Mousses
+2,3$ Gamétophyte formé d’une tige feuillée
+2,4$ Gamétophyte constitué d’une lame foliacée (thalle). $$s"Hépatiques à thalle"
+3,CS1$ Feuilles sans nervure (rarement à fausse nervure). $$s"Jungermanniales acrogynes"
+3,0$ Feuilles dont un côté seulement de la base est dédoublé et à vraie nervure nettement visible $Cf. Fissidens (Mousses)
+4,CS2$ Thalle peu différencié (paraissant lisse à la face supérieure) ; sporophytes isolés. $$s"Metzgériales (Jungermanniales anacrogynes)"
+4,CS3$ Thalle très différencié, marqué d’un réseau de mailles polygonales et de pores à la face supérieure ; sporophytes groupés dans des excroissances spéciales du thalle. $$s"Marchantiales"
+5,CS5$ Gamétophyte à rameaux fasciculés par 2 à 6, de plus en plus serrés vers le sommet ; 2 sortes de rameaux et 2 sortes de feuilles ; sporophyte sans soie ni péristome. – Sphagnales. $$s"Sphagnum"
+5,CS4$ Gamétophyte non ramifié ou à rameaux partant individuellement de la tige principale ; feuilles le plus souvent d’une seule sorte et à nervure nette ; sporophyte généralement bien développé et complet. $$s"Bryales ss. lato"
+
+CS1,0$ Jungermanniales acrogynes
+1,0$ De très nombreuses autres espèces d’hépatiques sont observables en forêt, depuis les minuscules Cephaloziella aux tiges feuillées larges de 0,25 mm jusqu’aux grandes espèces à feuilles ou à thalle. Leur reconnaissance passe presque obligatoirement par l’utilisation de flores spécialisées et d’un microscope.
+1,0$ Feuilles et amphigastres divisés en lanières filiformes (loupe !), tellement serrées qu’elles forment un feutrage dense autour d’une tige pennée ou bipennée ; (zones tourbeuses ou berges de ruisseaux) $Trichocolea tomentella
+1,2$ Feuilles et amphigastres non divisés en lanières filiformes (loupe !)
+2,3$ Feuilles tri- ou quadrilobées
+2,5$ Feuilles lobées ou simples
+3,4$ Grandes hépatiques (3-10 cm) à tiges et rameaux plus ou moins redressés ; feuilles (1-3 mm) différentes des amphigastres
+3,0$ Petite hépatique (1-3 cm), rampante ; feuilles (0,2-0,5 mm) et amphigastres semblables, à 3 ou 4 lobes profonds $Lepidozia reptans
+4,0$ Feuilles plus larges que longues, embrassantes, ondulées, à 4 lobes larges brusquement apiculés, celles du sommet formant une « tête » crépue ; amphigastres petits, à longs cils, souvent masqués par les rhizoïdes $Barbilophozia lycopodioides
+4,0$ Feuilles plus longues que larges, plates ou légèrement concaves, à 3 dents courtes, celles du sommet formant un casque ; amphigastres bien visibles, arrondis, irrégulièrement dentés ; rameaux filiformes abondants $Bazzania trilobata
+5,6$ Feuilles à 2 lobes inégaux repliés l’un sur l’autre, donnant l’impression de paires de feuilles superposées à chaque insertion ; lobe dorsal plus petit que le ventral
+5,7$ Feuilles planes ou concaves, sans lobes repliés
+6,0$ Lobes arrondis, finement denticulés tout autour, nettement décurrents sur la tige ; propagules brun-rouge à l’extrémité des feuilles apicales ; tige rougeâtre à brun-noir $Scapania nemorea
+6,0$ Lobes allongés, entiers ou denticulés au sommet, non décurrents, munis d’une fausse nervure bien visible ; propagules vert-jaune au bout des feuilles apicales ; tige verte $Diplophyllum albicans
+7,8$ Feuilles bilobées
+7,10$ Feuilles simples
+8,0$ Feuilles planes, terminées par 2 lobes effilés ou 2 dents très nettes ; amphigastres à 4 lobes étroits-effilés $Lophocolea bidentata
+8,9$ Feuilles plus ou moins concaves ; pas d’amphigastres ; tiges dressées pouvant former des touffes ou des tapis assez denses
+9,0$ Hépatique presque toujours vert pâle, brillante ; feuilles insérées obliquement, souvent étalées horizontalement, à 2 lobes aigus, ceux des feuilles apicales souvent terminés par des amas de propagules vert-jaune $Lophozia ventricosa
+9,0$ Hépatique d’un vert sombre plus ou moins rougeâtre à brun noirâtre, mate ; feuilles insérées transversalement, souvent repliées canaliculées, embrassantes, à 2 lobes arrondis, rarement subaigus ; pas de propagules $Marsupela emarginata
+10,0$ Grande hépatique dressée (3-10 cm) ; feuilles succubes, nettement décurrentes, denticulées tout autour ; pas d’amphigastres $Plagiochila asplenioides
+10,0$ Petite hépatique rampante (1-3 cm) ; feuilles incubes, non ou peu décurrentes, entières ; amphigastres bien visibles, plus larges que la tige, échancrés au sommet $Calypogeia muelleriana
+
+CS2,0$ Metzgériales (Jungermanniales anacrogynes) 
+1,0$ Thalle vert, souvent teinté de rouge au centre, ce qui forme une fausse nervure ; plante monoïque portant archégones et anthéridies à la face supérieure du même thalle ; capsule jeune, puis base de la soie, protégées par un involucre formant un petit clapet $Pellia epiphylla
+
+CS3,0$ Marchantiales
+1,0$ Thalle souvent de grande taille, vert franc à vert jaune, marqué de constrictions par les arrêts de croissance, à réseau polygonal bien marqué à la face supérieure, chaque maille étant percée d’un pore simple ; réceptacles mâles sessiles (disques brun-noir), les femelles en forme de chapeau conique à pédicelle marqué d’un seul sillon $Conocephalum conicum
+1,0$ Thalle plus petit, vert sombre et souvent marqué de noir au niveau d’une fausse nervure, à réseau peu marqué mais à pores en tonnelet, bien visibles à la face supérieure ; réceptacles mâles et femelles pédicellés, ces derniers découpés-digités, à pédicelle marqué de deux sillons ; nombreuses corbeilles à propagules $Marchantia polymorpha
+
+CS4,0$ Bryales ss. lato 
+1,2$ Archégones (puis sporophyte) en position terminale sur des tiges dressées, non ramifiées ou à rameaux parallèles, eux aussi dressés (attention, la tige principale reprenant sa croissance après production du sporophyte, celui-ci peut se trouver en apparence en position latérale [ex. : Aulacomnium palustre]). $$s"Bryales acrocarpes"
+1,28$ Archégones (puis sporophyte) en position latérale sur des tiges généralement couchées, ramifiées, à rameaux nettement écartés. $$s"Bryales pleurocarpes"
+2,3$ Certaines tiges au moins terminées par des amas de propagules vertes
+2,4$ Jamais de tiges terminées par des propagules
+3,0$ Sommet de la tige non feuillé, où les propagules constituent une masse globuleuse ; capsule très rare, oblique, avec un péristome à nombreuses dents libres $Aulacomnium androgynum
+3,0$ Sommet de la tige occupé par des feuilles arrondies et formant une corbeille en rosette contenant les propagules ; capsule dressée, avec un péristome à 4 dents $Tetraphis pellucida
+4,0$ Petite mousse à port de palmier avec une rosette terminale à nombreuses grandes feuilles spatulées, dentées au sommet, surmontant une tige nue sauf quelques toutes petites feuilles $Rhodobryum roseum
+4,5$ Mousses de tailles diverses et à port différent (même si certains pieds fertiles de Mnium peuvent parfois avoir un aspect dendroïde)
+5,6$ Feuilles planes et minces, à nervure bien marquée
+5,16$ Feuilles épaisses ou plus ou moins repliées (enroulées ou canaliculées), vertes
+6,7$ Feuilles ondulées transversalement, même à l’état humide
+6,10$ Feuilles non ondulées transversalement
+7,0$ Feuilles en forme de langue, très arrondies au sommet, les plus grandes généralement au milieu des tiges ; capsule droite, pendante par courbure de l’extrémité de la soie ; tiges âgées ramifiées en bouquet vers le sommet $Plagiomnium undulatum
+7,8$ Feuilles triangulaires-allongées, effilées au sommet
+8,0$ Feuilles entières, très longues, très fortement crispées-enchevêtrées à sec ; limite nette, en V, entre une base blanc jaunâtre et un limbe vert $Tortella tortuosa
+8,9$ Feuilles dentées, individuellement crispées ou tordues à sec ; pas de limite nette entre la base et le limbe chlorophyllien
+9,0$ Feuilles régulièrement dentées, très crispées à sec, les plus grandes toujours au sommet des tiges, jamais ramifiées ; capsule arquée-horizontale ; péristome avec une membrane $Atrichum undulatum
+9,0$ Feuilles à longue pointe, fortement et irrégulièrement dentées, étalées-tordues à sec, celles du sommet pouvant se grouper en pinceau plus ou moins courbé ; tiges souvent ramifiées, portant plusieurs capsules arquées ; péristome à dents libres $Dicranum polysetum
+10,0$ Feuilles elliptiques à arrondies, apiculées, à marge nettement dentée, en apparence distiques sur des tiges arquées et stoloniformes $Plagiomnium affine
+10,11$ Feuilles disposées tout autour de la tige
+11,12$ Feuilles nombreuses, serrées, masquant la tige
+11,15$ Feuilles peu nombreuses, laissant voir la tige
+12,13$ Feuilles plus ou moins crispées-tordues à sec
+12,0$ Feuilles dressées-appliquées à sec, parfois tordues au sommet ou sur les jeunes pousses étiolées, légèrement denticulées en haut $Pohlia nutans
+13,14$ Pas de marge
+13,0$ Marge nette à dents groupées par 2 dans les deux tiers supérieurs, lisse à la base ; feuilles lancéolées-allongées, en ogive au sommet $Mnium hornum
+14,0$ Feuilles larges, ovales-allongées, obtuses ou subaiguës, denticulées au sommet ; mousse jaunâtre en haut des tiges, devenant brunâtre et tomenteuse en dessous $Aulacomnium palustre
+14,0$ Feuilles étroites, longuement linéaires, dentées au moins jusqu’à la moitié ; capsules en forme de pomme, fréquentes, striées à maturité $Bartramia pomiformis
+15,0$ Feuilles obovales, entières, à marge épaisse et cartilagineuse, très crispées à sec, formant souvent une rosette au sommet $Rhizomnium punctatum
+15,0$ Feuilles ovales-allongées, sans marge, denticulées au sommet, peu crispées à sec, droites ou tordues $Pohlia nutans
+16,17$ Limbe épais, strié, à nervure invisible, rattaché à la tige par une gaine incolore ou brune ; feuilles écartées de la tige à l’état frais, mais dressées-appliquées (en « pinceau ») à sec ; coiffe très velue
+16,18$ Limbe mince, canaliculé ou enroulé ; feuilles courbées en faux ou parallèles à la tige, même à l’état frais ; capsule à urne cylindrique droite ou plus ou moins arquée
+17,0$ Capsule à urne arrondie et allongée, sans apophyse nette ; limbe denté d’un vert glauque $Pogonatum urnigerum
+17,25$ Capsule à urne quadrangulaire et à apophyse nette ; mousses en tapis vert foncé. – Polytrichum
+18,19$ Tiges très serrées, formant des coussinets denses
+18,21$ Tiges moins serrées, en coussinets peu denses ou en tapis ; feuilles sans base différenciée en gaine, mais à longue pointe, enroulées longitudinalement, plus ou moins courbées en faux et souvent homotropes
+19,0$ Coussinets très denses, presque en boule, glauques en surface, brun blanchâtre à l’intérieur ; limbe court, involuté au sommet, toujours dressé et dans le prolongement d’une base large, décolorée et engainante, presque totalement occupée par la nervure $Leucobryum glaucum
+19,20$ Coussinets denses, plus ou moins en tapis ; nervure occupant le tiers à la moitié de la base de la feuille
+20,0$ Touffes vert jaunâtre ; feuilles fragiles, cassant facilement, à nervure peu distincte ; limbe terminée par une très longue et très fine pointe subulée, souvent courbée ; capsule dressée, droite et lisse même à sec, en col de cygne à l’état jeune $Dicranodontium denudatum
+20,0$ Touffes vertes en surface, brun-rouge à l’intérieur, très tomenteuses ; feuilles non fragiles, à nervure très nette ; limbe allongé, en pointe droite ou arquée ; capsule toujours pendante (soie recourbée), striée à sec $Campylopus flexuosus
+21,22$ Mousses grêles, à feuilles très fines (2-5 x 0,3-0,5 mm), formant des tapis denses
+21,24$ Mousses plus robustes, de taille moyenne ([3]5-12[20] cm), en touffes plus ou moins denses ; capsule rapidement déjetée sur le côté par la tige qui reprend sa croissance (ne pas confondre avec une espèce pleurocarpe)
+22,0$ Tiges feuillées de petite taille (environ 1 cm [0,5-3 cm]), en tapis vert sombre ; feuilles très fines (2-4 x 0,3-0,5 mm), non fragiles, sans oreillettes, graduellement rétrécies en pointe subulée étroite ; capsules abondantes, roux orangé, arquées et striées à sec, à soie jaune, grêle et ondulée $Dicranella heteromalla
+22,23$ Tiges feuillées plus grandes ([1]2-3[6] cm) ; feuilles ayant des oreillettes hyalines ou orangées
+23,0$ Touffes vert jaunâtre ; feuilles fragiles, cassant facilement, à nervure peu distincte et à oreillettes hyalines ; limbe terminé par une très longue et très fine pointe subulée, souvent courbée ; capsule dressée, droite et lisse même à sec, en col de cygne à l’état jeune $Dicranodontium denudatum
+23,0$ Touffes vertes en surface, brun-rouge à l’intérieur, très tomenteuses ; feuilles non fragiles, à nervure très nette et à oreillettes le plus souvent orangées, parfois hyalines ; limbe allongé, en pointe droite ou arquée ; capsule toujours pendante (soie recourbée), striée à sec $Campylopus flexuosus
+24,0$ Plante généralement vert-jaune, à feuilles courbées en tous sens malgré une direction préférentielle ; une seule capsule par tige $Dicranum scoparium
+24,0$ Plante généralement vert vif, à feuilles homotropes formant une « faucille » très nette au sommet ; capsules groupées par 2 à 5 au sommet d’une tige $Dicranum majus
+25,26$ Feuilles à marge claire, dentée ; sommet des pieds mâles vert ou vert-jaune ; mousses atteignant ou dépassant généralement 8-10 cm
+25,27$ Feuilles apparemment non marginées et non dentées, à bord replié sur le limbe et masquant en partie les lamelles ; sommet des pieds mâles rouge ou orangé ; plantes de petite taille (généralement moins de 5 cm)
+26,0$ Plante des zones humides, normalement très grande (20-40 cm), à gaine brillante, blanchâtre, bien visible entre les limbes écartés (attention, certains échantillons de petite taille sont difficiles à reconnaître ainsi) $Polytrichum commune
+26,0$ Plante des zones moins humides, de taille moyenne (7-15 cm), à gaine brunâtre, peu visible entre les limbes ; (espèce la plus commune en forêt) $Polytrichum formosum
+27,0$ Feuilles terminées par une pointe rougeâtre en forme de poil $Polytrichum juniperinum
+27,0$ Feuilles terminées par un poil blanc bien net $Polytrichum piliferum
+28,0$ Tiges feuillées non ramifiées ou subdivisées seulement à la base ; feuilles distiques, dissymétriques, à nervure très nette ; capsule partant de la base des gamétophytes $Fissidens taxifolius
+28,29$ Tiges ramifiées, à feuilles disposées tout autour ; capsule sur le côté des tiges principales
+29,30$ Tiges 1 ou 2 fois assez régulièrement ramifiées
+29,40$ Tiges irrégulièrement ramifiées
+30,31$ Tiges 1 fois régulièrement ramifiées (type penné)
+30,38$ Tiges 2 fois ramifiées (type bipenné)
+31,32$ Feuilles droites, plus ou moins appliquées les unes sur les autres et sur l’axe, elliptiques à ovales
+31,35$ Feuilles à pointe recourbée, non totalement appliquées les unes sur les autres
+32,0$ Tiges et rameaux aplatis ; feuilles plates, très nettement ondulées transversalement ; plante vert-jaune, brillante $Neckera crispa
+32,33$ Tiges et rameaux arrondis ; feuilles concaves, jamais ondulées transversalement
+33,0$ Tiges rouges (retirer les feuilles en grattant avec l’ongle) ; feuilles obtuses ; rameaux effilés à l’extrémité $Pleurozium schreberi
+33,34$ Tiges vertes
+34,0$ Mousse verte à jaunâtre, à tiges et rameaux généralement rampants, arrondis à l’extrémité ; feuilles apiculées $Scleropodium purum
+34,0$ Mousse vert blanchâtre, très brillante, à rameaux dressés ; feuilles brusquement terminées par une pointe en forme de poil $Cirriphyllum piliferum
+35,0$ Feuilles droites, dressées-écartées, régulièrement disposées tout autour des tiges ; plante à allure très grêle $Eurhynchium stokesii
+35,36$ Feuilles homotropes, courbées en faux vers la face inférieure
+36,0$ Tige rigide, cassante, en crosse dure au sommet, généralement dressée ; feuilles fortement plissées en long, plus ou moins mêlées de paraphylles ; grande mousse vert-jaune à jaune $Ptilium crista-castrensis
+36,37$ Tige molle, peu cassante et non en crosse dure au sommet, généralement rampante
+37,0$ Mousse jaunâtre, densément ramifiée-pennée depuis la base ; feuilles non plissées, les caulinaires en cœur à la base, denticulées tout autour, celles des rameaux plus petites et fortement courbées, bouclées à la face inférieure ; (pierres calcaires essentiellement) $Ctenidium molluscum
+37,0$ Mousse vert blanchâtre, irrégulièrement ramifiée à la base, puis en disposition pennée-triangulaire au sommet ; feuilles homotropes, toutes semblables, à pointe en crochet à la face inférieure ; (substrats acides exclusivement) $Hypnum ericetorum
+38,0$ Tiges rouges, feuilles lisses et brillantes, à pointe effilée, à nervure bifide courte et peu visible $Hylocomium splendens
+38,39$ Tiges vertes, feuilles différentes
+39,0$ Feuilles mates, courtes, à nervure forte, appliquées contre les tiges et entremêlées de paraphylles $Thuidium tamariscinum
+39,0$ Feuilles brillantes, allongées, à nervure étroite : les caulinaires largement en cœur à la base, embrassantes et décurrentes, à longue pointe effilée et tordue, celles des rameaux ovales-allongées, plus étroites, dressées-écartées ; pas de paraphylles $Eurhynchium stokesii
+40,41$ Tiges principales rampantes, appliquées sur le substrat
+40,53$ Tiges principales dressées, au moins en apparence (il peut exister des tiges primaires rampantes fugaces ou peu visibles)
+41,42$ Tiges et rameaux aplatis ; feuilles plates, courtes, ovales ou en forme de langue
+41,45$ Tiges et rameaux non aplatis, dressés ou rampants
+42,43$ Feuilles ondulées transversalement
+42,44$ Feuilles non ondulées transversalement
+43,0$ Mousse glauque ou vert blanchâtre, mate, entièrement rampante, irrégulièrement ramifiée ; feuilles à courte nervure bifide, les latérales pliées en long $Plagiothecium undulatum
+43,0$ Mousse vert-jaune plus ou moins dorée, à base plus ou moins brun rouille, brillante, à rameaux souvent pennés ; feuilles sans nervure, plates et toutes ramenées à droite ou à gauche $Neckera crispa
+44,0$ Feuilles symétriques, ovales, obtuses et sans nervure, non modifiées par la dessiccation (attention, ne pas confondre avec une Hépatique, où les feuilles sont réellement disposées sur deux rangées opposées et où les capsules sont fugaces, sans péristome, et ouvertes par 4 valves) $Hookeria lucens
+44,0$ Feuilles un peu dissymétriques, ovales allongées, pointues, plus ou moins apiculées et à nervure bifide nette ; mousse très modifiée par la dessiccation, à feuilles repliées en long et tordues $Plagiothecium nemorale
+45,46$ Tiges et rameaux non visibles, masqués par des feuilles appliquées et recouvrantes
+45,50$ Tiges et rameaux visibles entre des feuilles dressées et écartées. – Eurhynchium
+46,0$ Mousse petite, grêle, à feuilles d’environ 1,5 mm, triangulaires allongées, dressées étalées, parfois un peu homotropes aux extrémités ; nervure atteignant de la moitié aux trois quarts de la feuille $Brachythecium velutinum
+46,0,N$ La détermination des Brachythecium sur les seuls caractères macroscopiques n’est pas possible, d’une part en raison de la multiplicité des autres espèces voisines, surtout en montagne, d’autre part à cause de la polymorphie des individus à l’intérieur d’un même taxon et en fonction des conditions de croissance. Les deux espèces signalées ici sont très communes, mais leur détermination fiable nécessite des critères microscopiques et le recours à d’autres ouvrages.
+46,47$ Mousses plus fortes, à feuilles de 2-4 mm
+47,48$ Feuilles courbées en faux, homotropes, à nervures très courtes et à pointes orientées vers le bas
+47,49$ Feuilles ovales, dressées, à nervure nette sur la moitié ou les deux tiers de la feuille
+48,0$ Mousse d’un vert franc, à rameaux courts et épais $Hypnum cupressiforme
+48,0$ Mousse vert jaunâtre ou blanchâtre à rameaux grêles, souvent pennés au sommet $Hypnum ericetorum
+49,0$ Feuilles concaves, brusquement rétrécies en une pointe en forme de poil ; nombreux rameaux allongés et dressés ; plante vert blanchâtre très brillante $Cirriphyllum piliferum
+49,0$ Feuilles planes ou concaves parfois un peu plissées, progressivement terminées en pointe courte ; nombreux rameaux couchés ou redressés ; mousse d’autant plus jaune qu’elle est plus éclairée ; capsules fréquentes $Brachythecium acetabulum
+49,0,N$ La détermination des Brachythecium sur les seuls caractères macroscopiques n’est pas possible, d’une part en raison de la multiplicité des autres espèces voisines, surtout en montagne, d’autre part à cause de la polymorphie des individus à l’intérieur d’un même taxon et en fonction des conditions de croissance. Les deux espèces signalées ici sont très communes, mais leur détermination fiable nécessite des critères microscopiques et le recours à d’autres ouvrages.
+50,0$ Feuilles triangulaires, plissées longitudinalement ; nombreux rameaux dressés en tous sens donnant un port « en buisson » ; tiges vertes $Eurhynchium striatum
+50,51$ Feuilles non plissées
+51,0$ Feuilles toutes semblables, ovales-lancéolées courtes, celles des tiges à peine plus grandes, sans pointe effilée ; plante rampante, irrégulièrement ramifiée $Eurhynchium hians
+51,52$ Feuilles des tiges différentes de celles des rameaux, les caulinaires nettement plus grandes, à base élargie et extrémité effilée ; plantes diversement ramifiées, rampantes
+52,0$ Mousse pennée ou bipennée ; feuilles caulinaires largement ovales à la base, décurrentes, brusquement rétrécies en une longue pointe fine et coudée ; feuilles des rameaux ovales-allongées, écartées ; (espèce essentiellement subatlantique) $Eurhynchium stokesii
+52,0$ Mousse irrégulièrement ramifiée ; feuilles caulinaires à base élargie non décurrente, moins brusquement rétrécies en une pointe restant dans le prolongement de la feuille $Eurhynchium praelongum
+53,54$ Une tige principale nette, portant des rameaux plus petits
+53,62$ Pas de tige principale nette
+54,55$ Rameaux plus ou moins en touffe au sommet d’une tige principale dénudée (port en petit arbre : dendroïde) ; feuilles à nervure unique nettement visible ; tige primaire forte, rampante, constituant des stolons
+54,58$ Rameaux répartis tout au long de la tige, souvent dès la base et toujours plus petits qu’elle
+55,56$ Plantes de taille moyenne (5-10 cm), robustes, longuement dénudées à la base ; feuilles des rameaux ovales-triangulaires, dentées, fortement nerviées
+55,57$ Plantes plus petites (1-5 cm), courtement dénudées
+56,0$ Mousse terne, généralement d’un vert foncé mat, à rameaux souvent de taille inégale ; feuilles caulinaires triangulaires-aiguës ; stolons vigoureux, superficiels ; (rochers et sols humides) $Thamnobryum alopecurum
+56,0$ Mousse brillante ; feuilles vertes à vert-jaune et rameaux jeunes de même taille, souvent rougeâtres ; feuilles caulinaires ovales-obtuses et entières ; stolons importants, souterrains ; (sols marécageux à tourbeux) $Climacium dendroides
+57,0$ Feuilles lancéolées, concaves, faiblement denticulées au sommet ; plante de 2-5 cm, à rameaux arrondis par des feuilles plus ou moins recouvrantes, étroitement appliquées ; (écorce ou, plus rarement, pierres) $Isothecium alopecuroides
+57,0$ Feuilles triangulaires-effilées, dentées tout autour ; plante petite (1-3 cm), grêle, à feuilles écartées ; (écorces ou rochers siliceux) $Isothecium myosuroides
+58,59$ Feuilles droites, plissées, triangulaires ou plus ou moins ovales, sans longue pointe, à 2 nervures ; plantes robustes
+58,60$ Feuilles pliées ou recourbées
+59,0$ Tige rouge très robuste, visible entre des feuilles d’environ 5 mm, à nervures grêles ; rameaux simples, inégaux, souvent retombants $Rhytidiadelphus triquetrus
+59,0$ Tige brune, totalement masquée sous un feutrage de paraphylles entre des feuilles espacées ; rameaux nombreux, ceux de la base souvent ramifiés ou pennés $Hylocomium umbratum
+60,0$ Feuilles pliées à environ 90°, à base embrassante et pointe canaliculée pliée, souvent descendante ; feuilles en disposition étoilée au sommet des tiges et des rameaux ; tige orangée à rougeâtre $Rhytidiadelphus squarrosus
+60,61$ Feuilles en crochet, avec de longues pointes courbées, souvent dans un sens préférentiel
+61,0$ Grande mousse (10-20 cm), à tige rouge, robuste, dure, à rameaux nombreux, long, effilés à l’extrémité ; feuilles plus ou moins homotropes, plissées à la base, à 2 nervures courtes $Rhytidiadelphus loreus
+61,0$ Mousse moyenne (8-10 cm), à tiges secondaires dressées vert-jaune (les primaires rampantes et peu visibles), à rameaux peu nombreux, courts ; feuilles raides, très fortement plissées, formant des crochets au bout des rameaux et des tiges, à 1 nervure forte et très longue $Drepanocladus uncinatus
+62,63$ Mousses très ramifiées, à port « en buisson »
+62,0$ Mousse en apparence peu ramifiée, les tiges secondaires dressées étant le plus souvent simples, molles et vertes (les primaires, rampantes, sont toujours en mauvais état) ; feuilles ovales, embrassantes et en cœur à la base, obtuses, à nervure cessant juste sous le sommet, tordues par la dessiccation $Calliergon cordifolium
+63,0$ Tiges fraîches rouges à brun-rouge ; feuilles à pointe effilée-tordue ; nervure courte et bifide, peu visible dans les plis du limbe ; présence de paraphylles $Hylocomium brevisrostre
+63,0$ Tiges fraîches vertes ; feuilles dressées, à pointe courte et droite ; nervure forte et nettement visible parmi les plis du limbe ; pas de paraphylles $Eurhynchium striatum
+
+CS5,0$ Sphagnum
+1,2$ Plantes robustes, vert blanchâtre (jamais rouges) ; rameaux épais à feuilles écartées bien visibles, non ondulées à sec ; feuilles caulinaires en forme de langue, arrondies au sommet, sans marge ou à marge étroite à la base
+1,3$ Plantes grêles ou moyennes, mais rameaux fins à feuilles lancéolées, recouvrantes et appliquées, au moins à la base
+2,0$ Feuilles des rameaux très concaves, en « coque de bateau » (ou en cuillère), généralement droites et sans pointe tordue vers l’extérieur ; au microscope, présence de fibres spiralées dans les cellules corticales des tiges et des rameaux. (Section Cymbifolia) $Sphagnum palustre
+2,0$ Feuilles des rameaux planes ou carénées, à pointe tronquée et dentée, assez brusquement tordue vers l’extérieur à angle droit (feuilles squarreuses) ; jamais de fibres spiralées dans les cellules corticales des tiges ou des rameaux. (Section Squarrosa) $Sphagnum squarrosum
+3,0$ Feuilles caulinaires échancrées-fendues à bifides au sommet, largement marginées à la base. (Section Cuspidata) $Sphagnum riparium
+3,4$ Feuilles caulinaires jamais échancrées ni bifides, arrondies ou tronquées
+4,0$ Feuilles des rameaux ondulées sur les bords à sec ; feuilles caulinaires petites (moins de 1 mm), entières-arrondies au sommet et non mucronées ; pas de bourgeons durs au sommet ; espèce vert-jaune, plus rarement verte. (Section Cuspidata) $Sphagnum flexuosum
+4,5$ Feuilles des rameaux droites, même à sec ; feuilles caulinaires variables (Section Acutifolia, dont les espèces ne peuvent être déterminées de manière certaine qu’avec des critères microscopiques)
+5,6$ Plantes toujours vertes, jamais teintées de rouge ou de brun ; feuilles caulinaires plus ou moins laciniées
+5,7$ Plantes teintées de rouge ou de brun, à feuilles caulinaires non laciniées
+6,0$ 1 ou 2 bourgeon(s) dur(s), souvent blanchâtre(s), parmi les rameaux courts du sommet des tiges ; feuilles caulinaires arrondies, largement laciniées-frangées à l’extrémité et sur les côtés $Sphagnum fimbriatum
+6,0$ Pas de bourgeon dur ; feuilles caulinaires plus longues que larges, légèrement laciniées au sommet $Sphagnum girgensohnii
+7,0$ Plante fauve à brune ; feuilles petites, les caulinaires arrondies, celles des rameaux imbriquées ; (surtout en tourbières) $Sphagnum fuscum
+7,8$ Plantes généralement teintées de rouge
+8,0$ Feuilles des rameaux disposées sur 5 rangs réguliers, surtout à sec ; (pentes et rochers suintants ombragés) $Sphagnum quinquefarium
+8,9$ Feuilles des rameaux non disposées sur 5 rangs réguliers
+9,0$ Plante brillante à l’état sec (reflets métalliques irisés) ; feuilles caulinaires rétrécies en pointe tronquée $Sphagnum subnitens
+9,0$ Plante mate, sans reflets irisés ; feuilles caulinaires triangulaires au sommet mais brusquement rétrécies en pointe tronquée $Sphagnum capillifolium

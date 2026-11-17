@@ -1,0 +1,217 @@
+Titre$  H E B E L O M E S   Vesterholt
+Com$ Traduit par François Cadène – adapté par Paul Bertéa octobre 2010
+
+1,cs10 $ *** Avant d'utiliser cette clé ***
+1,2 $ Cortine présente mais souvent fugace (caulocystides seulement en haut du pied) - cheilocystides avec une partie apicale plus cylindrique, souvent élargie dans la partie inférieure (fig. 5A-B) ; périspore jamais calyptré
+1,3 $ Cortine absente (caulocystides souvent jusqu’à la base pied) - cheilocystides avec souvent une forme différente [= non : cheilocystides avec une partie apicale plus cylindrique, souvent élargie dans la partie plus basse], périscope calyptré ou pas
+1,0 $ Explication des codes utilisés par Vesterholt $
+1,0,n$///- Ornementation :///    O0 : spores lisses///    O1 : spores presque lisses, même avec objectif à immersion///    O2 : spores faiblement ornementées, ornementation visible seulement avec un objectif à immersion///    O3 : spores distinctement ornementées, ornementation visible sans objectif à immersion mais non …///    O4 : spores avec une ornementation assez forte, toujours facilement visible sans objectif à immersion///- Spores calyptrées:///    P0 : périspore non calyptré///    P1 : périspore peu calyptré dans peu de spores///    P2 : périspore distinctement calyptré dans peu ou de nombreuses spores///    P3 : périspore vivement and constamment calyptré///- Réaction dextrinoïde:///    D0 : spores complètement dextrinoïdes, sans changement de couleur dans le Melzer///    D1 : spores prenant une teinte indistinctement brunâtre dans le Melzer///    D2 : spores faiblement mais distinctement dextrinoïdes, devenant brun pale, le plus souvent facilement observé par comparaison des spores nageant à distance du tissu ///           avec celles couchées dessus///    D3 : spores assez vivement dextrinoïdes, devenant brun jaunâtre à brun orangé ou brique (6D7-8, 7C6, 7D7-8)///    D4 : Spores fortement dextrinoïdes, devenant immédiatement brique foncé à brun rouge (8D6-8, 9D7-8)
+
+
+2,cs1 $ Spores ellipsoïdes à ellipto-ovoïdes, en général jaunes dans la potasse diluée, pas ou faiblement dextrinoïdes (D0-1) $Section Hebeloma, sous-section Hebeloma $s"[Clé A] - Section Hebeloma, sous-section Hebeloma"
+2,cs1,n$ Cortine présente, cheilocystides avec une partie apicale ± cylindrique, souvent élargies dans la tiers inférieur, spores ellipsoïdes à ellipto-ovoïdes, pas ou faiblement dextrinoïdes
+2,cs2 $ Spores ovoïdes amygdaliformes à citriniformes, en général brunâtres, faiblement à très dextrinoïdes (D2-5), très rarement presque pas dextrinoïdes (D1) $ Section Hebeloma, sous-section Amygdalina $s"[Clé B] - Section Hebeloma, sous-section Amygdalina"
+2,cs2,n$ Cortine présente, cheilocystides avec une partie apicale ± cylindrique, souvent élargies dans la partie inférieure, spores ovoïdes amygdaliformes à citriniformes, faiblement à très dextrinoïdes 
+
+3,0 $ Voile général formant un anneau membraneux sur le pied, pied radicant, odeur d’amande-amère, rarement légère $ H. radicosum
+3,4 $ Voile général présent ou absent, mais ne formant jamais un anneau membraneux sur le pied ; pied radicant ou non ; pas d’odeur d’amande amère
+
+4,cs6 $ Odeur forte et douce [sucre brûlé] $ Section Myxocybe, sous section Sacchariolentia $s"[Clé F] - Section Myxocybe, sous section Sacchariolentia"
+4,cs6,n$ Cortine absente, odeur forte et sucrée, pénétrante 
+4,5 $ Odeur raphanoïde, de cacao, de savon, de cacao, de fruit ou indistincte
+
+5,0 $ Lames nettement teintées de rose, sporée brun rouge $ H. sarcophyllum $s"Section Porphyrospora"
+5,6 $ Lames sans teinte rose, sporée brun sombre, sépia, brique sombre ou blanchâtre
+
+6,cs5 $ Carpophores souvent ± radicant ; odeur sans composante raphanoïde ; lames sans gouttelettes ; cystides ± cylindriques ou de forme variable  $ Section Myxocybe, sous section Scabrispora $s"[Clé E] - Section Myxocybe, sous section Scabrispora"
+6,cs5,n$ Cortine absente, carpophores souvent ± radicants ; odeur sans composante de radis ; cystides de forme variable
+6,7 $ Carpophores jamais radicants ; odeur habituellement raphanoïde ; lames avec ou sans gouttelettes ; cystides bien différenciées et cylindriques, clavées capitées ou ventrues
+
+7,0 $ Sporée blanche $ H. domardianum $s"Section Denudata, sous-section Hebelomina"
+7,0,n$///- Basionyme : Hebelomina domardiana. Maire R., 1935. Bull. Soc. Hist. Nat. Afrique du Nord 26:13 ;///- décrit de Mauritanie, Nord Ouest de l’Afrique ;///- type apparemment perdu.
+7,8 $ Sporée brun sombre à sépia ou brique sombre
+
+8,9 $ Cheilocystides en majorité ventrues avec une partie apicale cylindrique (fig. 5C)
+8,10 $ Cheilocystides cylindriques de clavées à capitées, quelquefois élargies à la fois au sommet et à la base (fig. 5D-H)
+
+9,0 $ Pied à flocons grossiers en ceinture transverse, spécialement dans la partie supérieure, ne se colorant pas à partir de la base ; presque toutes les cheilocystides sont ventrues $ H. sinapizans $s"Section Sinapizantia"
+9,0 $ Pied finement pruineux, spécialement dans la partie supérieure, brunissant à partir de la base ; cheilocystides ventrues mêlées à des cheilocystides clavées $ H. quercetorum $s"Section Velutipes, sous-section Aestivale"
+9,0,n$///Serge Poumarat précise que cet hébélome est le seul à avoir habituellement des cheilocystides de deux types (lagéniformes et capitées)
+
+10,cs4 $ Spores non dextrinoïdes ou faiblement (D0-2) $ Section Denudata, sous-section Denudata $s"[Clé D] - Section Denudata, sous-section Denudata"
+10,cs4,n$ Cortine absente ; pied non radicant ; odeur raphanoïde ; cystides clavées à capitées, en outre souvent élargies dans la partie basale ; sporée brun sombre à sépia
+10,11 $ Spores distinctement ou fortement dextrinoïdes (D3-4)
+
+11,0 $ Spores en moyenne 4,4 – 5,3 µm de large $ H. theobominum $s"Section Theobromina"
+11,12 $ Spores en moyenne > 5,5 µm de large
+
+12,cs4 $ Cheilocystides typiquement élargies à la fois au sommet et à la base (fig. 5H) $ Section Denudata, sous-section Denudata $s"[Cle D] - Section Denudata, sous-section Denudata"
+12,13 $ Cheilocystides cylindriques à subclavées, typiquement pas très élargies au sommet et à la base (fig. 5E)
+
+13,cs3 $ Périspore jamais ou légèrement calyptré, pied avec un bulbe basal arrondi $ Section Velutipes, sous-section Velutipes $s"[Clé C] - Section Velutipes, sous-section Velutipes"
+13,cs3,n$ Cortine absente, pied non radicant, odeur raphanoïde, cystides clavées à capitées, chapeau à dominante pâle, spores fortement dextrinoïdes, verruqueuses, avec une périspore surtout calyptrée 
+13,0 $ Périspore distinctement calyptré sur de nombreuses spores, pied habituellement sans bulbe $ H. aestivale $s"Section Velutipes, sous-sesction Aestivale"
+
+
+*** CLE A ***
+cs1,0 $ 
+1,2 $ Dans l’Artique ou en zone alpine, habituellement avec Salix 
+1,5 $ Habitat autre que dans l’Artique ou en zone alpine avec Salix (H. mesophaeum possible)
+
+2,0 $ Chapeau brun sombre à sépia, presque jusqu’à ma marge ; exsiccata coriaces $ 
+2,0,n$///voir H. polare 
+2,3 $ Chapeau pas si foncé [que brun sombre à sépia], mais souvent plus foncé au disque ; exsiccata fragiles à  assez résistants
+
+3,0 $ Spores dépassant en moyenne 10,3 µm en longueur et 5,8 µm en largeur ; chapeau 10-24 mm ne s’aplanissant pas complètement $ H. marginatulum
+3,4 $ Spores n’atteignant pas en moyenne 10,5 µm en longueur et 6,0 µm en largeur ; chapeau 10-15 (-70) mm, complètement aplani avec l’âge
+
+4,0 $ Epicutis le plus souvent de 30 µm d’épaisseur ; pied assez court, seulement légèrement décoloré avec l’âge ; chapeau presque pas coloré, chamois-argilacé à isabelle ou cannelle $ H. bruchetii
+4,0 $ Epicutis de plus de 50 µm d’épaisseur $
+4,0,n$///voir H. mesophaeum 
+
+5,0 $ Chapeau initialement assez pâle, ± unicolore, pied (4-)6-14 mm de large, devenant souvent sordide avec l’âge, pas dans les dunes sablonneuses $ H. sordidum
+5,0,n$///Synonymie proposée : H. pallidum, H. malençonii///Malençon & Bertault, Flore Ch. Sup. du Maroc I:460 :///- cédricole ;///- faible odeur et saveur de rave mais douce ;///- spores amygdaliformes à sommet obtus 8-10 X 5-6 µm ;///- stipe 60-65 X 6-8(12) mm, à base brunissante.///Maire, 1914 BSMF 30:212 (diagnose princeps) :///- cédricole ;///- odeur raphanoïde, chair douce ;///- spores ellipsoïdes-subamygdaliformes 8-10 x 4-6 µm) ;///- stipe 40-80 x 6-8 mm, à base fuscescente.
+5,6 $ Chapeau surtout avec une couleur chamois à cannelle ou centre brun sombre, et une marge pâle, souvent grisâtre, pied souvent rétréci, dans le sable ou autres habitats
+
+6,0 $ Spores en moyenne < 10,5 µm de long ; pied habituellement plutôt long, distinctement décoloré en brun à partir de la base avec l’âge ; chapeau typiquement bicolore avec le disque cannelle à brun jaunâtre ou brun sombre et la marge pâle ; épicutis de plus de 50 µm d’épaisseur $ H. mesophaeum
+6,7 $ Spores en moyenne > 10,5 µm de long
+
+7,0 $ Habitat sous cistes dans les régions méridionales $ H. cistophilum
+7,0,n$///Taxon ne figurant pas dans la clé de Vesterholt, placée ici par Serge Poumarat/// ///Description de Malençon & Bertault, 1970. Flore des Champignons supérieurs du Maroc I:440 :///Spores elliptiques, subamygdaliformes, presque lisses, très finement ponctuées, 12-13,5 x 6-7,5 µm (Maire indique 10-11,5 x 6-7 µm). Arête des lames hétéromorphes par de nombreux poils lagéniformes, 30-50 x 11-14 µm, à col cylindracé obtus large de 3,5-5 µm///Espèce très affine à H. mesophaeum/// ///- Complément de Serge Poumarat : pleurocystides présentes mais rares (ni Maire ni Malençon & Bertault ne signalent de pleurocystides)/// ///Voir description détaillée de récoltes corses par Pierre Arthur Moreau & all. in Bulletin des Associations Mycologiques Méditerranéennes 2007/1, 31:66-68 : arête stérile couverte de cheilocystides remarquablement polymorphes 18-40 x 6,5-12 µm, pleurocystides présentes mais rares, cylindracées à base non sensiblement élargie, 30 x 3 µm, bisporie partielle, spores sensiblement lisses même à l’immersion, elliptiques asymétriques de profil, très faiblement dextrinoïdes.
+7,8 $ Non lié aux cistes dans les régions méridionales 
+
+8,0 $ Pied pâle dès le début, mais pas blanchâtre, se colorant vite en brun à partir de la base, quelquefois subfasciculées, sous Salix, Betula ou Populus, souvent sous Salix dans les dunes côtières $ H. collariatum
+8,0 $ Pied blanc, ne se colorant que faiblement avec l’âge, non fasciculé, uniquement avec Salix dans les dunes côtières $ H. psammophilum
+
+
+*** CLE B ***
+cs2,0 $
+1,2 $ Chapeau brun sombre à sépia, presque jusqu’à la marge
+1,3 $ Chapeau chamois à brun orangé avec la marge pâle
+
+2,0 $ Spores elliptiques à ovoïdes, en Artique ou habitat boréal, sous saules nains, exsiccata coriace $ H. polare
+2,0 $ Spores ovoïdes à amygdaliformes, avec Salix en Artique et en habitat boréal, aussi bien que dans les marécages des terres basses que dans les dunes, exsiccata plutôt fragile $ H. nigellum
+
+3,0 $ Spores amygdaliformes à subcitriniformes, souvent papillées, rarement > 12 µm de long, fortement dextrinoïdes, D(3-)4 ; exsiccata presque toujours colorés en brun sombre ; sous Betula, Corylus, Quercus et même Fagus $ H. sordescens
+3,4 $ Spores amygdaliformes à ovoïdes, non papillées, souvent > 12 µm de long, dextrinoïdes mais jamais aussi fortement [que sordescens], D(1-)2-3 ; exsiccata typiquement non colorés en brun sombre ; sous Salix, également sous autres hôtes
+
+4,0 $ Pied 1-3 mm d’épaisseur, chapeau 8-24 mm de large, en zone alpine $ H. kuehneri
+4,5 $ Pied (2-)3-8 mm d’épaisseur, chapeau 15-50 mm de large, habitat depuis les basses terres jusqu’à la zone alpine
+
+5,0 $ Chapeau à marge blanche contrastant avec le centre brun orange ; pied blanc avec la base brun orangé ; avec Salix dans des forêts humides $ H. candidipes
+5,0 $ Pied et chapeau moins contrasté [que candidipes], aspect de mesophaeum ; avec Salix dans l’Arctique et zone alpine, moins souvent avec Salix ou Betula dans les forêts boréales $ H. monticola
+
+
+*** CLE C ***
+Cs3,0 $
+1,0 $ Cheilocystides en moyenne < 6,0 µm de large au sommet, seulement dans la mousse des forets de conifères.$ H. incarnatulum
+1,0,n$///===> Compléments de Serge Poumarat :///- Synonyme de Hebeloma stenocystis///- proche de velutipes, mais chapeau largement mamelonné///- stipe à base largement clavée///- marge piléique typiquement guttulée///Description canadienne:///- Chapeau :2,5-7 cm de diam., campanulé puis étalé-mamelonné, viscidule, glabre, un peu hygrophane, brun rougeâtre, plus pâle à la marge///- Lames : adnexées, serrées, crème puis brunâtres, à arêtes érodées et plus pâles///- Pied : 6-13 x 0,5-1 cm, clavé ou bulbeux, farci-creux, strié-fibrilleux, blanchâtre, brunissant avec l'âge///- Chair : concolore au chapeau ou blanchâtre-grisâtre, à odeur et saveur de pomme de terre crue///- Sporée : brune///- Spores : ± en amande, rugueuses, 9-13 x 5,5-7 µm///- Habitat : en milieux humides, sous divers conifères, souvent parmi les sphaignes, occasionnel///- Saison : septembre à octobre///- Remarque : Cet hébélome se reconnaît par son chapeau brun rougeâtre et son long pied bulbeux.///- Références : Mille et un champignons du Québec, Cercle des mycologues de Montréal inc., Montréal 2002.
+1,2 $ Cheilocystides en moyenne > 6,9 µm de large au sommet, sous divers arbres et arbustes
+
+2,0 $ Chapeau dont le diamètre n’excède pas 30 mm ; spores en moyenne 6,7-7,1 µm de large ; cheilocystides distinctement clavées ; sommet en moyenne 8,5-10,1 µm de large en moyenne ; seulement en zone alpine $ H. alpinum
+2,0 $ Chapeau dont le diamètre excède le plus souvent 30 mm ; spores en moyenne 6,0-6,6 µm de large ; cheilocystides distinctement clavées, sommet en moyenne 6,9-8,9 µm de large ; dans les basses terres aussi bien qu’en zone alpine $ H. velutipes
+
+
+*** CLE D *** 
+Cs4,0 $
+1,2 $ Espèces venant en zone alpine avec saules nains et Dryas
+1,5 $ Espèces ne poussant pas en zone alpine avec saules nains et Dryas
+
+2,3 $ Pied 4-8 mm de large
+2,4 $ Pied 1,5-3,5 mm de large
+
+3,0 $ Chapeau moins de 30 mm de large ; spores en moyenne 6,7-7,1 µm de large $ H. alpinum
+3,0 $ Chapeau plus de 30 mm de large ; spores en moyenne 5,5-6,5 µm de large $ H. crustuliniforme
+
+4,0 $ Spores ellipso-ovoïdes à subamygdaliformes, en moyenne 10,1-11,4 x 6,3-6,7 µm ; carpophores de couleurs grisâtres dominantes $ H. subconcolore
+4,0 $ Spores amygdaliformes à citriniformes, en moyenne 11,4-12,8 x 6,1-6,3 µm ; chapeau chamois à brun jaunâtre et pied blanchâtre $ H. minus
+
+5,6 $ Chapeau à dominante blanche ou blanchâtre, au moins à la périphérie, souvent avec des teintes jaune ou jaune brunâtre au centre ; spores jaune pâle au microscope
+5,9 $ Chapeau ± brun ou avec des tons grisâtres ; spores jaune brunâtre à brunâtre sous le microscope
+
+6,0 $ Cheilocystides en moyenne < 7,0 µm d’épaisseur au sommet, partie médiane souvent remarquablement rétrécie et/ou avec paroi épaisse $ H. fragilipes
+6,7 $ Cheilocystides en moyenne > 7,0 µm d’épaisseur au sommet, partie médiane non remarquablement rétrécie ou à paroi épaisse
+
+7,0 $ Pied 2-5 mm de large ; spores en moyenne < 5,5 µm de large ; cheilocystides souvent plutôt brusquement capitée $ H. helodes
+7,8 $ Pied > 5 mm de large ; spores en moyenne > 5,5 µm de large ; cheilocystides largement clavées 
+
+8,0 $ Spores dextrinoïdes (D2-3) ; sous Salix uniquement $ H. lutense
+8,0 $ Spores non dextrinoïdes (D0), sous un grand nombre de feuillus et de conifères $ H. crustuliniforme
+
+9,0 $ Pied 1-3 mm de large, avec Salix $ H. pusillum
+9,10 $ Pied 3-10 mm de large, avec Salix ou avec autres hôtes
+
+10,0 $ Spores non ou indistinctement dextrinoïdes (D0-1), quelques cheilocystides à paroi épaissie dans la partie médiane $ H. hiemale
+10,11 $ Spores distinctement à fortement dextrinoïdes (D2-4), cheilocystides rarement à paroi épaissie dans la partie médiane
+
+11,12 $ Cheilocystides > 8,7 µm de large en moyenne
+11,13 $ Cheilocystides < 8,1 µm de large en moyenne
+
+12,0 $ Quelques cheilocystides très fortement et abruptement capitées, jusqu’à 19(-22) µm de large ; pied 3-6 mm de large $ H. vaccinum var. cephalotum
+12,0 $ Cheilocystides ± clavées, non abruptement capitées, moins de19(22) µm de large ; pied 4-12 mm de large $ H. populinum
+
+13,0 $ Ixocutis très mince, environ 20-30 µm ; chapeau cannelle jusqu’à la marge ; spores peu amygdaliformes à fusiformes ; trouvé sous Juniperus alvar avec Pinus sylvestris $ H. alvarense var alvarense
+13,14 $ Ixocutis assez épais, environ 50-150 µm ; chapeau avec des couleurs moins vives, au moins en périphérie ; spores amygdaliformes à citriniformes ; sous feuillus et conifères
+
+14,15 $ Spores en moyenne < 6,5 µm
+14,16 $ Spores en moyenne > 6,5 µm
+
+15,0 $ Cheilocystides souvent élargies à la base, pas remarquablement flexueuses ; périspore calyptré dans peu à beaucoup de spores (P1-2) $ H. vejlense
+15,0 $ Cheilocystides rarement élargies à la base, souvent remarquablement flexueuses dans la partie inférieure ; périspore non calyptré $ H. lutense
+
+16,0 $ Chair chamois-argile à chamois grisâtre, chamois grisâtre sombre ou couleur miel, subhygrophane, fragile, pied 2,5-7 mm de large $ H. vaccinum var vaccinum
+16,0 $ Chair blanchâtre, non hygrophane, non fragile, pied (5)7-13 mm de large $ H. alvarense var hinnuleum
+
+
+*** CLE E ***
+Cs5,0 $
+1,0 $ Spores ± cylindriques ; forêt de pins sur sol pauvre ou sablonneux $ H. cylindrosporum
+1,2 $ Spores ± fusiforme, amygdaloïdes ou citriformes ; souvent non sur sol pauvre ou sablonneux 
+
+2,0 $ Chapeau apparemment sec, épicutis < 30 µm d’épaisseur, sous conifères $ H. syrjense
+2,3 $ Chapeau viscidule à visqueux, épicutis > 50 µm d’épaisseur ; dans différents types d’habitat
+
+3,0 $ Périspore calyptré dans presque toutes les spores (P2-3) $ H. birrus
+3,4 $ Périspore non calyptré, ou seulement légèrement calyptré dans peu de spores (P0-1)
+
+4,5 $ Sous feuillus
+4,6 $ Sous conifères
+
+5,0 $ Chapeau brun jaunâtre $ H. lundqvistii
+5,0 $ Chapeau chamois pâle à chamois rose sombre $ H. laterinum
+5,0,n$///Synonymie :proposée : H. senescens, H. edurum
+
+6,0 $ Spores en moyenne 5,1-5,9 µm de large ; chapeau de couleurs ± marbré, odeur de cacao $ H. circinans
+6,0 $ Spores en moyenne 5,9-6,3 µm de large ; chapeau sans couleurs ± marbrée ; odeur de cacao $ H. laterinum
+6,0,n$///Synonymie proposée : H. senescens, H. edurum
+
+
+*** CLE F ***
+Cs6,0 $ 
+1,0 $ Chapeau sec, revêtement souvent velouté ou éclatant en fines écailles ; cheilocystides < 35 µm $ H. hetieri
+1,2 $ Chapeau légèrement à distinctement visqueux, totalement lisse ou seulement légèrement velouté à la marge ; cheilocystides souvent longues
+
+2,0 $ Périspore non ou seulement exceptionnellement calyptré (P0-1) ; pied à base fusiforme $ H. fusipes
+2,3 $ Périspore calyptré dans peu à toutes les spores ; base du pied typiquement non fusiforme
+
+3,0 $ Spores étroites, Q en moyenne > 1,9 µm de large ;chapeau 10-28 mm de laorge, blanc à crème pâle ; exsiccata non colorés en brun sombre $ H. fusisporum
+3,0,n$///Synonyme : H. cremeopallidum (proposée par les auteurs, DM 109-110:17-19, 1998).
+3,4 $ Spores pas si étroites, Q pour la plupart < 1,9 µm de large, chamois rosé pâle à chamois grisâtre, argile ou cannelle ; exsiccata souvent en partie colorés en brun sombre
+
+4,0 $ Spores en moyenne > 13,5 µm de long ; chapeau chamois ou cannelle, mais pâle vers la marge, la plupart dans des lieux humides ; le plus souvent avec Salix ou Alnus en milieu humide $ H. gigaspermum
+4,0 $ Spores en moyenne < 13,5 µm de long ; chapeau chamois rose pâle à chamois grisâtre ; sous feuillus dans des lieux humides ou secs $ H. sacchariolens
+
+
+*** Avant d’utiliser cette clé ***
+cs10,0 $
+1,0 $ Limites de cette clé $
+1,0,n$///La clé publiée permet de déterminer les espèces septentrionales.///Beaucoup d'hébélomes méridionaux communs ne sont pas pris en compte.///Certains ont été introduits dans la présente clé, suivant les travaux de Quadraccia et la Flore du Maroc de Malençon & Bertault./// ///Cette clé inclut en outre des observations et compléments de Serge Poumarat.
+1,2 $ Espèces de Malençon
+
+2,0 $ Espèces des cèdres $ H. eburneum
+2,0,n$///Très affine à H. crustuliniforme dont il se sépare par son port en général plus luxuriant, son habitat strictement cédricole et ses tonalités pâles où le jaune ivoirin domine.///Odeur raphanoïde moins marquée.///Réaction dextrinoïde des spores non connue.
+2,0 $ Espèces des cistes $ 
+2,0,n$///voir H. cistophilum
+2,0 $ Espèce à stipe très brunissant, à chapeau très clair parfois presque blanc $ H. pallidum
+2,0,n$ Synonymisé à H. sordidum///- Chapeau 35-45(22) mm. Stipe grêle, élancé 55-70 x 4-6(8) mm. Cortine filamenteuse annuliforme haut placée, assez persistante.///- Arête des lames plus pâle, sinueuse, non pleurante.///- Inodore ou à relent raphanoïde à peine sensible à la cassure, insipide.///- Forêts mêlées. 
+

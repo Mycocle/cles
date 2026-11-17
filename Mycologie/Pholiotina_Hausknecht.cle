@@ -1,0 +1,136 @@
+Titre$  P H O L I O T I N A   Hausknecht
+Com$ Adapté par Paul Bertéa 04-10-2013
+1,0$ Retour au Kit $$f"Pholiotina_kit.cle"
+1,0$
+
+
+1,cs3 $ Spore surface minutely to coarsely verrucose-rough or rugose, at least in scanning electron microscope $$s"Sect. Verrucisporae"
+1,2 $ Spore surface smooth, even in scanning electron microscope
+
+2,3 $ Veil present, at least young as membranaceous ring or flocci at pileus margin
+2,5 $ Veil absent, even in young basidiocarps
+2,5,N$ (often fugacious, eventually try also 3)
+
+3,cs4 $ Cheilocystidia ± lecythiform, with thin, long neck and distinctly enlarged capitulum; spores phaseoliform $$s"Sect. Intermediae"
+3,4 $ Cheilocystidia lageniform, subcylindrical, vesiculous or utriform, if apex slightly capitate, then neck thick and capitulum only slightly marked; spores hardly phaseoliform
+
+4,cs6 $ Veil present as distinct ring on stipe $$s"Sect. Pholiotina"
+4,cs6,N$ (partly fugacious, try eventually 3)
+4,cs5 $ Veil present as flocci at pileus margin, never as ring $$s"Sect. Vestitae"
+
+5,cs1 $ Blue or blue-green colours present on pileus or stipe base $$s"Sect. Cyanopodae"
+5,6 $ Blue or blue-green colours absent
+
+6,0 $ Cheilocystidia spherical-vesiculous $$s"Sect. Vesiculoseae"
+6,0,N$ (extra-European)
+6,cs2 $ Cheilocystidia lanceolate, subcylindrical or lageniform $$s"Sect. Piliferae"
+
+
+cs1,0 $ Key A (Section Cyanopodae)
+
+1,0 $ Pileus dull brown to rubiginous without blue or green tints; stipe whitish, changing to blue-green or grey-blue at base when bruised; spores ellipsoid, weakly amygdaliform, not lentiform, in average 7.7-8.4 x 4.6-5.1 µm $ Pholiotina cyanopus
+1,2 $ Pileus with blue-green, dirty blue-grey or blackish blue colours
+
+2,0 $ Basidia 2-spored, pileus fresh blackish blue to dark blue; spores in average 10.8 x 6.4 µm, ellipsoid-amygdaliform; only known from the type locality $ Pholiotina atrocyanea
+2,3 $ Basidia 4-spored; fresh pileus colour never so intensive
+
+3,0 $ Pileus in centre blue-green, towards margin distinctly fading to brownish; spores in average 8.0-9.6 x 4.6-5.7 µm, with double wall and distinct, non-papillate germpore $ Pholiotina aeruginosa var. aeruginosa
+3,0 $ Pileus fresh uniformly greenish grey to grey, eventually older more blueish; spores in average 8.7-9.7 x 4.8-4.9 µm, thin-walled with distinctly papillate germ-pore $ Pholiotina aeruginosa var. caeruleopallida
+
+
+cs2,0 $ Key b - Sect. Piliferae
+1,2 $ Pileus up to half of radius strongly plicate-undulate, margin even rimose; spores often slightly phaseoliform with eccentrical germ-pore
+1,0,N$ [if pileus crenate-su\cate similar to a Coprinus, young with minute veil fibrils and spores slightly lentiform with central germ-pore, see also Galerella plicatella (Peck) Singer, as yet in Europe only in Sardinia]
+1,3 $ Pileus smooth, often striate or in centre rugose; germ-pore strictly central
+
+2,0 $ Planar to montane; spores in average 7.3-8.9 x 4.7-5.1 µm, thin- to slightly thickwalled $ Pholiotina sulcata var.  sulcata
+2,0 $ Subalpine to alpine; spores in average 8.7-9.8 x 5.2-6.2 µm,  distinctly thick-walled $ Pholiotina sulcata var. oreina
+
+3,0 $ Spores in average] 13-13.5 x 6.4-7.8 µm, pileus moist non-striate, slightly sticky; on dung $ Pholiotina coprophila
+3,4 $ Spores in average hardly 10.5 µm long, pileus moist mostly striate, dry or weakly shining; if on dung, then basidiocarp very small and spores in average less than 8 µm long
+
+4,0 $ Cheilocystidia mostly utriform or clavate, spores slightly phaseoliform $
+4,0,N$ see 13) Pholiotina dasypus (when veil lost and spores in light microscope seemingly smooth)
+4,5 $ Cheilocystidia mostly lanceolate, lageniform to subcylindrical; spores even In scanning electron microscope smooth, not phaseoliform
+
+5,6 $ Basidiocarp large, stipe thick; pileus 13-60 mm wide, stipe 25-90 x 2-8 mm
+5,8 $ Basidiocarp much smaller and more tender; pileus up to 20 mm wide, stipe up to 50 x 2 mm
+
+6,0 $ Spores very pale, hyaline in KOH, in average 7.6 x 4.3 µm; germ-pore absent, whole basidiocarp white to whitish $ Pholiotina alba
+6,7 $ Spores pale yellow to yellow in KOH, with distinct germ-pore; pileus mostly distinctly pigmented, rarely almost whitish
+
+7,0 $ Spores in average 8.3-10.1 x 4.5-5.3 µm; pileus mostly pale, milk-white to pale brownish at most; single or in small groups $ Pholiotina pygmaeoaffinis
+7,0 $ Spores in average 6.8-8.2 x 4.-4.8 µm, pileus mostly distinctly pigmented, golden yellow to cocoa; often fasciculate $ Pholiotina striipes
+
+8,9 $ Stipe only apically slightly pruinose, otherwise fibrillous striate; pileocystidia absent or extremely rare
+8,10 $ Stipe in whole length distinctly pruinose; pileocystidia remarkably abundant
+
+9,0 $ Smell indistinct, stipe in whole length white to whitish $
+9,0,N$ see 1) Pholiotina cyanopuswhen blueing of stipe base is overlooked
+9,0 $ Smell and taste distinctly like cucumber; stipe apically ochre, towards base changing up to dark brown, never becoming blue-green or grey-blue; spores in average 9.8 x 5.0) µm $ Pholiotina arnoldsii
+
+10,0 $ Basidiocarps with long stipe and distinctly striate, poorly pruinose pileus; spores in average (7.0-)8.0-9.7 x (3.8-)4.2-5.4 µm, cheilocystidia 30-75 x 5.5-12.5 ) µm $ Pholiotina filipes
+10,11 $ Basidiocarps with short stipe and only very moist striate, mostly strongly pruinose pileus; spores in average 5.7-7.6 x 3.3-4.5 µm; cheilocystidia rarely up to 60 µm long
+
+11,0 $ On dung; cheilocystidia short and thickly ventricose, 20-45 x 7.5-15 µm $ Pholiotina mairei var. stercorea
+11,12 $ Not on dung, but on wood chips or plant remnants; cheilocystidia either narrower or longer
+
+12,0 $ Cheilocystidia narrowly lanceolate, 15-52 x 5-9 µm $ Pholiotina mairei var. mairei
+12,0 $ Cheilocystidia lageniform to broadly lanceolate, 23-62 x 6-14 µm $ Pholiotina parvula
+
+
+cs3,0 $ Key C - Sect. Verrucisporae
+1,0 $ Single European representative $ Pholiotina dasypus
+
+
+cs4,0 $ Key D - (Section Intermediae)
+1,0 $ Veil present as membranaceous, on the upper side striate ring; pileus 25-58 mm wide, stipe 47-95 x 3-6 mm; spores in average 6.7-7.5 x 4.0-4.3 µm $ Pholiotina intermedia
+1,0 $  Veil present as fringes at pileus margin; pileus 5-30 mm wide, stipe 10-55 x 1-4 mm; spores in average 6.6-8.2 x 4.0-4.6 µm; basidia 4-spored $ Pholiotina brunnea
+1,0,N$ If spores in average 9.7-10.7 x 5.0-5.5 µm and basidia 2-spored - see Pholiotina spec. in Hauknecht 2007: 72
+
+
+cs5,0 $ - Key E (Section Vestitae)
+1,0 $ Germ-pore absent, spores in average 6.5-8.2 x 4.0-4.9 µm; cheilocystidia subcylindrical, partly undulate, apex not capitately enlarged $ Pholiotina vestita
+1,0,N$ If cheilocystidia with often capitately enlarged apex and occurrence in spring, see Pholiotina aporos var. aporos with destroyed ring, attached to pileus margin)
+1,2 $ Distinct germ-pore present
+
+2,0 $ Cheilocystidia mostly utrifonn or clavate, spores slightly phaseoliform $
+2,0,N$ see Pholiotina dasypus (with in light microscope seemingly smooth spores)
+2,3 $ Cheilocystidia subcylindrical, lageniform, partly slightly capitate, spores even in scanning electron microscope absolutely smooth
+
+3,4 $ Spores in average 6.9-9.3 x 3.3-5.5 µm, yellow, ochre-yellow to at most orangeyellow in KOH, germ-pore less than 1 µm wide
+3,6 $ Spores in average 8.8-11.2 x 4.4-6.2 µm, strongly yellow, rusty-yellow to rustybrownish in KOH, germ-pore 1-1.5 µm wide
+
+4,0 $ Basidiocarps large, stipe thick; pileus 20-50 mm wide, brownish spotted when old; stipe 25-60 x 3-8 mm; spores in average 8.8-9.3 x 5.3-5.5 µm $ Pholiotina exannulata var. maculata
+4,5 $ Basidiocarps small, mostly tender; pileus up to 30 mm, stipe up to 50 x 3 mm; spores in average 6.9-8.7 x 4.0-5.0 µm
+
+5,0 $ Cheilocystidia mostly lageniform with slender neck and often capitately enlarged apex; pileus moist pale, ochraceous, yellow-brown, brownish with orange hue $ Pholiotina velata
+5,0 $ Cheilocystidia much more variable, lageniform, utrifonn, clavate to subcylindrical; pileus moist darker, rubiginous, reddish brown $ Pholiotina exannulata var. exannulata
+
+6,0 $ Cheilocystidia lageniform with long, cylindrical neck with partly capitately enlarged apex; spores in average 8.8-11.2 x 4.4-6.0 µm $ Pholiotina nemoralis var. dentatomarginata
+6,0 $ Cheilocystidia more variable, lageniforrn, utriform, clavate to subcylindrical; spores in average 9.0-11.1 x 4.9-6.2 µm $ Pholiotina nemoralis var. nemoralis
+
+cs6,0 $ Key F - (Section Pholiotina)
+
+1,2 $ Germ-pore absent
+1,3 $ Germ-pore present
+
+2,0 $ Whole basidiocarp pigmented, pileus brown to dark brown; spores in average 6.8-9.3 x 4.1-4.8 µm $ Pholiotina aporos var. aporos
+2,0 $ Whole basidiocarp white to whitish; spores in average 7.5 x 4.2 µm; as yet only known from the type locality $ Pholiotina aporos var. moseriana
+
+3,4 $ Spores in average 6.7-10.3 x 3.8-5.7 µm, thin- to moderately thick-walled with small to medium (-1.5 µm wide) germ-pore
+3,6 $ Spores in average 10.0 -12.7 x 4.8-6.6 µm, thick-walled with up to 2 µm wide - germ-pore
+
+4,0 $ Cheilocystidia lanceolate to lageniform, gradually tuming into a thin, cylindrical or tapering apex; spores in average 8.9-10.0(-10.3) x (3.8-)4.2-5.7 µm, moderately thick-walled with up to 1.5 µm wide germ-pore $ Pholiotina rugosa
+4,5 $ Cheilocystidia different, either cylindrical with often undulate apex or utriform to cIavate; spores in average 6.7-8.0 x 3.9-4.7 µm, thin-walled with up to 1 µm wide germ-pore
+
+5,0 $ Cheilocystidia cylindrical with often undulate, 2-5 µm wide apex $ Pholiotina arrhenii
+5,0 $ Cheilocystidia mixed lageniform, utriform or clavate, the latter with 5-15 µm wide apex $ Pholiotina hadrocystis
+
+6,0 $ Basidia 2-spored; spores in average 10.8-12.7 x 4.8-6.5 µm $ Pholiotina teneroides
+6,7 $ Basidia 4-spored
+
+7,0 $ Cheilocystidia subcylindrical to narrowly lageniform with often undulate neck and 2-5 µm wide apex; spores in average (10.1-) 10.4-11.8 x 5.2-6.4 µm $ Pholiotina vexans
+7,0 $ Cheilocystidia mixed lageniform, utriform and cIavate, the latter with 5-15 µm wide apex; spores in average 10.0-11.6 x 5.2-6.6 µm $ Pholiotina utricystidiata
+
+

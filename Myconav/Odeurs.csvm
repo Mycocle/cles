@@ -1,0 +1,670 @@
+format=TABLE; ; ; ; ; ; 
+COMMENTAIRE=  extrait selon odeurs
+COMMENTAIRE=  tiré du 'monde des champignons
+
+TITRE=tri par odeurs
+CHAMP=NCOMPLET;ODEUR;SAVEUR
+Abortiporus biennis;faible;douce
+Agaricus arvensis;anisée plus ou moins forte;douce
+Agaricus augustus;amande amère;douce
+Agaricus augustus V perrarus;amande amère;douce
+Agaricus bisporus;agréable;douce, fongique
+Agaricus bitorquis;fongique assez forte;douce
+Agaricus bohusii;agréable mais non anisée ni phénolée;douce
+Agaricus campestris;fongique faible;douce
+Agaricus campestris V squamulosus;fongique faible;douce
+Agaricus comtulus;anisée ou d'amande amère;rappelant l'odeur
+Agaricus essettei;anisée;douce
+Agaricus excellens;faiblement anisée;douce, fongique
+Agaricus haemorrhoidarius;faible;douce
+Agaricus lanipes;fongique peu agréable, mais parfois d'amande amère;douce
+Agaricus macrocarpus;amande amère;douce
+Agaricus porphyrocephalus;fongique;douce
+Agaricus porphyrrhizon;amande amère;douce
+Agaricus praeclaresquamosus;iodoforme ou encre;désagréable
+Agaricus silvaticus;fongique;douce
+Agaricus silvicola;anisée;douce, rappelant l'odeur
+Agaricus squamulifer;agréable, fruitée, faiblement anisée;douce
+Agaricus vaporarius;fongique ou de chicorée ou de \colle de poisson\ !;noisette
+Agaricus xanthoderma;subnulle ou iodée ou d'encre ou encore de phénol;douce
+Agaricus xanthoderma V griseus;subnulle ou iodée ou d'encre ou encore de phénol;douce
+Agrocybe aegerita;agréable (de vieille futaille à vin selon Marchand);douce de noisette
+Agrocybe arvalis;banale, non farineuse;amarescente
+Agrocybe erebia;banale, non farineuse;amarescente
+Agrocybe firma;forte de farine;rappelant l'odeur
+Agrocybe molesta;fongique;douceâtre
+Agrocybe paludosa;forte de farine;amarescente
+Agrocybe pediades;farineuse;rappelant l'odeur
+Agrocybe praecox;farine;amarescente
+Agrocybe sphaleromorpha;farineuse;amarescente
+Albatrellus cristatus;nulle;douce, puis acidulée
+Albatrellus ovinus;un peu fruitée, acidulée;douce
+Albatrellus pes-caprae;agréable;douce rappelant la noisette
+Albatrellus subrubescens;agréable;douce rappelant la noix
+Aleuria aurantia;faible;faible
+Alnicola alnetorum;faible, farineuse;farineuse ou un peu amarescente
+Alnicola amarescens;subnulle;amère
+Alnicola bohemica;herbacée;subnulle, rappelant l'odeur
+Alnicola luteolofibrillosa;banale;amère
+Alnicola salicis;herbacée;douceâtre
+Alnicola scolecina;faible, raphanoïde;douce, un peu rapahnoïde
+Amanita battarae;faible;nulle
+Amanita beckeri;nulle;nulle
+Amanita boudieri;faible;fongique faible
+Amanita caesarea;faible mais agréable;douce, saveur de noix
+Amanita citrina;pomme de terre crue;peu agréable
+Amanita citrina F alba;pomme de terre crue;peu agréable
+Amanita crocea;faible;douce, rappelant un peu la noisette
+Amanita curtipes;faible;douce
+Amanita gemmata;nulle à subnulle;douce, agréable
+Amanita gracilior;faible;nulle
+Amanita muscaria;faible;faible mais agréable, un peu herbacée
+Amanita muscaria F aureola;faible;faible
+Amanita muscaria V formosa;faible;faible
+Amanita ovoidea;subnulle ou peu agréable (\marée\);douce
+Amanita pantherina;faible de radis;douce
+Amanita pantherina V abietum;faible;douce
+Amanita phalloides;subnulle ou un peu vireuse, rappelant l'odeur de rose fanée;douce
+Amanita phalloides F alba;odeur faible, identifique au type;douce
+Amanita rubescens;nulle;douce, puis amère après mastication
+Amanita spissa;faible de rave;douceâtre
+Amanita strobiliformis;subnulle ou faible de scléroderme, voire désagréable;nulle
+Amanita vaginata;inodore;douce
+Amanita verna;faible puis vireuse lorsque la chair est corrompue;douce
+Amanita virosa;inodore ou un peu vireuse avec l'âge (safran ?);légèrement âcre à la fin
+Amanita vittadinii;assez forte, aromatique et miellée, vireuse à la fin;douce
+Armillaria cepistipes;fongique faible;rappelant l'odeur
+Armillaria mellea;fongique ou de savon (?);douce ou astringente
+Arrhenia auriscalpium;nulle;nulle
+Arrhenia retigura;nulle;nulle
+Aureoboletus gentilis;fruitée faible;acidulée
+Baeospora myosura;fongique;fongique
+Boletinus cavipes;fruitée, faible;douce
+Boletopsis leucomeleana;faible;amère
+Boletus aereus;subnulle ou un peu oléagineuse;douce
+Boletus aestivalis;agréable;douce, un peu sucrée après mastication
+Boletus appendiculatus;agréable, d'écale de noix selon Marchand;douce
+Boletus calopus;subnulle ou fruitée ou un peu vinaigrée;amarescente
+Boletus dupainii;musquée;douce
+Boletus edulis;agréable mais peu prononcée;douce rappelant la noisette
+Boletus erythropus;faible;douce
+Boletus fechtneri;faible;douce
+Boletus impolitus;odeur complexe, iodée surtout dans le pied et un peu fruitée ailleurs;douce puis acidulée
+Boletus junquilleus;faible;douce
+Boletus legaliae;un peu musquée, non désagréable, de chicorée chez les spécimens âgés;douce
+Boletus luridus;fongique;douce
+Boletus pinophilus;faible;douce
+Boletus pseudoregius;de \fermentation chimique\;douce
+Boletus pulverulentus;faible, un peu fruitée;douce
+Boletus queletii;faible;acidulée
+Boletus radicans;faible mais peu agréable;amère
+Boletus regius;un peu fruitée ou d'écale de noix;un peu astringente
+Boletus rhodopurpureus;faible, un peu fruitée;douce ou un peu acidulée
+Boletus rhodopurpureus F xanthopurpur;faible;douce
+Boletus rubrosanguineus;faible;douce
+Boletus satanas;faible au début puis nauséeuse, fétide avec l'âge;douceâtre
+Boletus subappendiculatus;agréable;douce
+Boletus torosus;faible, un peu fruitée;douce
+Bulgaria inquinans;faible;douce
+Calocybe constricta;forte de farine fraîche;douce, rappelant l'odeur
+Calocybe gambosa;forte de farine fraîche;rappelant l'odeur
+Cantharellus amethysteus;aromatique, agréable;douce
+Cantharellus cibarius;aromatique assez forte, très agréable;douce, parfois amarescente
+Cantharellus ferruginascens;nulle;douce
+Cantharellus friesii;faible;amère
+Cantharellus ianthinoxanthus;faible;douce
+Cantharellus lutescens;fruitée (mirabelle), puissante, très agréable;douce
+Cantharellus melanoxeros;faible, un peu savonneuse ou fruitée;douce
+Cantharellus tubaeformis;fongique;douce
+Catathelasma imperiale;forte de farine ou de concombre;douce
+Chalciporus piperatus;faible;très poivrée
+Clitocybe alexandri;faible d'anis ou de cumin;douce
+Clitocybe clavipes;cyanique ou un peu fruitée;douce
+Clitocybe dealbalta;subfarineuse;douce
+Clitocybe decembris;nulle ou faiblement terreuse;banale
+Clitocybe ditopa;forte de farine, de concombre..;douce, rappelannt l'odeur
+Clitocybe geotropa;cyanique forte, très aromatique;douce
+Clitocybe gibba;cyanique, agréable;fongique
+Clitocybe houghtonii;particulière de feuille de tomate ou de fruit de la passion;douce
+Clitocybe nebularis;assez forte, fongique ou un peu cyanique (chou-navet ?), désagréable en vieillissant;douce
+Clitocybe obsoleta;anisée, parfois faible;douce
+Clitocybe odora;anis pur;rappelant l'odeur
+Clitocybe paropsis;cyanique forte;douce
+Clitocybe pausiaca;faible, farineuse ou de concombre;farineuse
+Clitocybe sinopica;forte de farine;rappelant l'odeur et un peu amarescente
+Clitocybe squamulosoides;cyanique ou de coumarine;douce
+Clitocybe vermicularis;farino-herbacée ou faiblement pélargoniée;douce
+Clitopilus prunulus;forte de faine fraîche;douce rappelant l'odeur
+Cortinarius agathosmus;fruitée, de poire;douce
+Cortinarius alboviolaceus;nulle;douce
+Cortinarius aleuriosmus;farineuse un peu rance pouvant rappelée Calocybe gambosa;douce
+Cortinarius allutus;suave mais faible;douce
+Cortinarius amoenolens;de mirabelle;douce dans la chair mais amère dans la cuticule
+Cortinarius arcuatorum;peu nette;amère
+Cortinarius argenteolilacinus;peu remarquable;douce
+Cortinarius armillatus;faiblement raphanoide;douce
+Cortinarius atrovirens;poivrée;douce
+Cortinarius aurilicis;non caractéristique;douce
+Cortinarius balteato-cumatilis;terreuse;douce
+Cortinarius balteatus;un peu terreuse;douce
+Cortinarius barbatus;bois vert ?;douce
+Cortinarius bicolor;légèrement raphanoïde;douce
+Cortinarius bolaris;faible;poivée
+Cortinarius brunneus;subraphanoïde, parfois comparée à celle du savon ?;douce
+Cortinarius bulliardii;subspermatique ou de fromage;douce
+Cortinarius caerulescens;désagréable;douce
+Cortinarius caerulescentium;peu remarquable;douce
+Cortinarius caesiocanescens;assez désagréable;douce
+Cortinarius caesiocortinatus;agréable;douce
+Cortinarius caesiocyaneus;nulle;douce
+Cortinarius caesiopallescens;plutôt spermatique;douce
+Cortinarius callisteus;de fumée de locomotive;douce ou un peu amère
+Cortinarius calochrous;un peu raphanoïde ou terreuse;douce
+Cortinarius calochrous V coniferarum;faiblement terreuse;douce
+Cortinarius camphoratus;repoussante de fromage très avancé !;douce mais désagréable
+Cortinarius causticus;bois vert ?;douce
+Cortinarius cedretorum;faible et non caractéristique;douce
+Cortinarius chevassutii;faible (pomme de terre);douce
+Cortinarius cinnabarinus;raphanoïde;raphanoïde
+Cortinarius cinnamomeoluteus;terreuse à raphanoïde;douce
+Cortinarius cinnamomeus;faiblement raphanoïde;subdouce
+Cortinarius citrinofulvescens;raphanoïde;douce
+Cortinarius citrinolilacinus;nulle;douce
+Cortinarius citrinus;Désagréable;douce
+Cortinarius claricolor;insignifiante;douce
+Cortinarius claroflavus;de pomme de terre crue;douce
+Cortinarius collinitus;subnulle;douce
+Cortinarius cotoneus;raphanoïde;amarescente
+Cortinarius croceocaeruleus;nulle;amère
+Cortinarius cumatilis;faible;douce
+Cortinarius decipiens;nulle;douce
+Cortinarius delibutus;raphanoïde;amarescente
+Cortinarius dibaphus;faible;amère
+Cortinarius dionysae;forte de farine;douce
+Cortinarius diosmus;raphanoïde puis fruitée;peu agréable
+Cortinarius duracinus;nulle;douce un peu stypique
+Cortinarius elatior;de miel;douce
+Cortinarius elegantior;faible et non carctéristique;douce
+Cortinarius elegantissimus;faible et non caractéristique;douce
+Cortinarius elotus;non caractéristique;douce
+Cortinarius emunctus;non caractéristique;douce
+Cortinarius epipoleus;insignifiante;douce
+Cortinarius erythrinus;Non caractéristique;douce
+Cortinarius eufulmineus;non caractéristique;douce
+Cortinarius eulepistus;de baudruche mais fruitée ou herbacée à la coupe;douce
+Cortinarius evernius;insignifiante;douce
+Cortinarius flavovirens;de farine;douce
+Cortinarius fluryi;aromatique, mêlée d'effluves terreuses;douce
+Cortinarius fraudulosus;un peu de légume;douce
+Cortinarius fulmineus;insignifiante;douce
+Cortinarius fulminoides;non caractéristique;douce
+Cortinarius fulvoochrascens;insignifiante;douce
+Cortinarius fulvoochrascens V umbrinu;nulle;douce
+Cortinarius glaucopus;non caractéristique;douce
+Cortinarius glaucopus V olivaceus;non caractéristique;douce
+Cortinarius guttatus;suave rappelant percomis;douce
+Cortinarius haasii;non caractéristique;douce
+Cortinarius helvolus;faible puis plus ou moins raphanoïde;douce
+Cortinarius herculeus;forte et désagréable rappelant C.variecolor;douce
+Cortinarius hercynicus;dite de bois de cèdre;douce
+Cortinarius herpeticus;faible et agréable;douce
+Cortinarius herpeticus V fageticola;insignifiante;douce
+Cortinarius hillieri;faible de mirabelle ou d'iris;douce
+Cortinarius humicola;dite de bois de cèdre assez faible;douce
+Cortinarius infractus F obscurocyaneu;faible raphanoïde ou fruité;nettement amère
+Cortinarius infractus V olivellus;faible peut-être fruitée;nettement amère
+Cortinarius infrastemmatus;nulle ou terreuse;désagréable
+Cortinarius integerrimus;miellée;douce
+Cortinarius intermedius;insignifiante;douce
+Cortinarius ionochlorus;un peu poivrée;douce
+Cortinarius joguetii;de violette;peu agréable
+Cortinarius josserandii;nulle;sans intérêt
+Cortinarius laniger;un peu raphanoïde;douce
+Cortinarius lanigeroides;faiblement agréable;douce
+Cortinarius largodelibutus;nulle;douce
+Cortinarius largus;terreuse plutôt faible;douce
+Cortinarius leproleptopus;pomme de terre crue;douce
+Cortinarius leubae;d'artichaut cuit;douce
+Cortinarius lignicola;légère de bois de cèdre;peu agréable
+Cortinarius malicorius;un peu raphanoïde;douce
+Cortinarius meinhardii;poivrée;douce
+Cortinarius moenne-loccozii;endive cuite;douce
+Cortinarius mucifloides;un peu de miel;douce
+Cortinarius mucosoamarissimus;faible, plutôt fétide;très amère
+Cortinarius mucosus;non significative;douce
+Cortinarius multiformis;de miel;douce
+Cortinarius muricinus;fruitée vireuse;douce
+Cortinarius nanceiensis;de banane.;douce
+Cortinarius ochrophyllus;inodore;douce
+Cortinarius odorifer;forte d'anis;douce
+Cortinarius odorifer V luteolus;anis;douce
+Cortinarius oenochelis;de lessive à raphanoïde;douce
+Cortinarius olivaceofuscus;raphanoïde;raphanoïde
+Cortinarius ophiopus;de fromage;amère
+Cortinarius orellanus;raphanoïde;douce
+Cortinarius orellanus V tristis;raphanoïde;douce
+Cortinarius osmophorus;aromatisée vers la fleur d'oranger en moins agréable;douce
+Cortinarius paleaceus;pélargoniée;douce
+Cortinarius paleifer;pelargonié;douce
+Cortinarius palustris;faible;désagréable
+Cortinarius parevernius;nulle;douce
+Cortinarius parvus;nulle;douce
+Cortinarius percomis;aromatique rappelant le fleur d'oranger avec une composante acide;douce
+Cortinarius percomium;subnulle à terreuse dans la vetusté;douce
+Cortinarius phoeniceus;un peu raphanoïde;douce, herbacée
+Cortinarius pholideus;subnulle à assez nette de rhubarbe;douce
+Cortinarius poecilopus;rappelant la chanterelle;douce
+Cortinarius polymorphus;insignifiante;douce
+Cortinarius praestans;subnulle;douce
+Cortinarius prasinocyaneus;insignifiante;douce
+Cortinarius pseudocrassus;nulle;douce
+Cortinarius pseudocyanites;fruitée;amère
+Cortinarius pseudorugulosus;non caractéristique;douce
+Cortinarius pseudosulfureus;nulle ou de pain frais;douce
+Cortinarius purpurascens;insignifiante;douce
+Cortinarius purpurascens V largusoide;non significative;douce
+Cortinarius regis-romae;faible de fenouil ou d'anis;douce
+Cortinarius renidens;fongique;peu agréable
+Cortinarius rubicundulus;non caractéristique;douce
+Cortinarius rufo-olivaceus;vireuse;douce mais désagréable
+Cortinarius russeus;aromatique désagréable et forte;douce
+Cortinarius safranopes;un peu raphanoïde;nulle
+Cortinarius salor;subnulle;douce
+Cortinarius sanguineus;bois de cèdre;douce
+Cortinarius scaurus;miéllée;amère
+Cortinarius semisanguineus;un peu raphanoïde;douce
+Cortinarius sodagnitus;insignifiante;un peu amère
+Cortinarius solis-occasus;un peu raphanoïde;douce
+Cortinarius sordescens;insignifiante;douce
+Cortinarius speciosissimus;raphanoïde;douce
+Cortinarius splendens;insignifiante;douce
+Cortinarius suaveolens;de fleur d'oranger;douce
+Cortinarius suberythrinus;insignifiante;douce
+Cortinarius subhygrophanicus;nulle;amarescente
+Cortinarius subtortus;bois de cèdre;douce
+Cortinarius subturbinatus;faiblement miéllée;douce
+Cortinarius subvalidus;briochée;douce
+Cortinarius subvirentophyllus;faible, peu significative;douce
+Cortinarius talus;miéllée;douce
+Cortinarius terpsichores;briochée;douce
+Cortinarius terpsichores V calosporus;faible et désagréable;douce
+Cortinarius tophaceus;de pomme de terre, de betterave..;douce
+Cortinarius torvus;subraphanoïde;douce
+Cortinarius traganus;de poire;douce
+Cortinarius triumphans;insignifiante;douce
+Cortinarius trivialis;subinodore;douce
+Cortinarius turgidus;de mirabelle;douce
+Cortinarius uliginosus;un peu de pomme de terre;désagréable
+Cortinarius urbicus;insignifiante;douce
+Cortinarius vaginatopus;fruité;douce
+Cortinarius variecolor;de DDT ou terreuse;douce
+Cortinarius variiformis;désagréable mêlée de DDT;douce
+Cortinarius variipes;bois de cèdre;douce
+Cortinarius varius;faible de brioche;douce
+Cortinarius venetus;raphanoïde;désagréable
+Cortinarius veregregius;insignifiante;douce
+Cortinarius vibratilis V bresadolae;inodore;amère
+Cortinarius violaceus;de bois de cèdre;douce
+Cortinarius viridipes;insignifiante;douce
+Cortinarius vulpinus;de pied sale;douce et désagréable
+Cortinarius xanthophyllus;faible;douce
+Craterellus cinereus;Fruitée, agréable;douce
+Craterellus cornucopioides;un peu fruitée;douce
+Craterellus konradii;faible mais agréable, de mirabelle;douce
+Craterellus sinuosus;agréable;douce
+Cuphophyllus berkeleyi;faible, un peu cyanique;douce
+Cuphophyllus pratensis;nulle;douce
+Cystolepiota bucknallii;forte, de gaz d'éclairage (Tricholoma sulfureum);désagréable, rappelant l'odeur
+Echinoderma hystrix;de Lepiota cristata;désagréable
+Gamundia pseudoclusilis;subnulle ou un peu herbacée;subnulle
+Gomphus clavatus;banale, non désagréable;douce, parfois amarescente
+Gyrodon lividus;un peu fruitée, acidulée;douce, faiblement acide
+Gyroporus castaneus;subnulle mais plutôt agréable;douce de noisette
+Gyroporus cyanescens;subnulle;douce
+Hebeloma ammophilum;un peu raphanoïde;douce
+Hebeloma anthracophilum;faible, plutôt agréable;raphanoïde, amère
+Hebeloma aprile;chocolatée;subnulle, un peu amarescente
+Hebeloma collariatum;subnulle;douce au début, puis raphanoïde et amère
+Hebeloma crustuliniforme V longicaudu;faiblement raphanoïde;raphanoïde, amarescente
+Hebeloma eburneum;faible, plutôt raphanoïde;douce
+Hebeloma edurum;agréable, complexe, fruitée (fraise) ou de cacao;raphanoïde faible, amère
+Hebeloma mesophaeum;raphanoïde à la coupe;amère
+Hebeloma ochroalbidum;faible, un peu raphanoïde;douce
+Hebeloma radicosum;très prononcée d'amande amère;raphanoïde, amère
+Hebeloma theobrominum;raphanoïde à la coupe;raphanoïde, un peu amarescente
+Hemipholiota populnea;assez prononcée, de lait !;douceâtre à amère
+Hydnellum aurantiacum;faible;douce
+Hydnellum caeruleum;agréable;douce
+Hydnellum peckii;faible;très âcre, brûlante
+Hydnellum scrobiculatum;farineuse;douce ou un peu épicée
+Hydnum repandum;agréable;généralement douce ou un peu amère chez les spécimens plus
+Hydnum rufescens;faible mais agréable;douceâtre ou amarescente
+Hygrocybe aurantiosplendens;un peu herbacée;nulle
+Hygrocybe ceracea V vitellinoides;un peu savonneuse;subnulle
+Hygrocybe insipida;nulle;douce
+Hygrocybe ovina;nitreuse, mêlée de farine;douce
+Hypholoma capnoides;nulle;douceâtre
+Hypholoma ericaeoides;faible;nulle
+Hypholoma fasciculare;faible, fongique;amère
+Hypholoma marginatum;nulle;subnulle, non désagréable
+Hypholoma radicosum;assez forte, peu agréable;amère
+Hypholoma sublateritium;nulle;amarescente
+Hypholoma udum;nulle;amarescente
+Inocybe agardhii;herbacée à vireuse;terreuse
+Inocybe dulcamara;miellée;douceâtre puis amarescente
+Inocybe jurana;forte, aromatique à vireuse;douce
+Inocybe lutescens;spermatique faible;vireuse
+Kuehneromyces mutabilis;faible;douce, fongique
+Laccaria amethystina;fruitée faible;douce
+Laccaria laccata;faible;douce
+Laccaria laccata V moelleri;faible;douce
+Lactarius acerrimus;fruitée;très âcre
+Lactarius acris;faible;âcre
+Lactarius albocarneus;fruitée;âcre
+Lactarius atlanticus;de L.quietus (punaise) sur le frais, puis de pélagornium, puis de chicorée en herbier;douce, puis amarescente
+Lactarius aurantiofulvus;faible, de hareng salé en sèchant, caoutchoutée;douce
+Lactarius azonites;faible;douce
+Lactarius badiosanguineus;fruitée faible;âcre amarescent
+Lactarius blennius;inodore;âcre
+Lactarius blennius F virescens;inodore;âcre
+Lactarius britannicus;subnulle, de sclérodermeà la coupe;douce, faiblement poivrée
+Lactarius camphoratus;de Lactarius quietus, puis de chicorée en sèchant;douce, un peu astringente
+Lactarius chrysorrheus;faiblement fruitée;amère puis âcre
+Lactarius circellatus;faible, fruitée, acidulée;âcre
+Lactarius citriolens;fruitée, puis citronelle, chicorée en séchant;âcre
+Lactarius controversus;un peu fruitée;amère, puis âcre
+Lactarius decipiens;nette et typique de pélargonium;un peu âcre
+Lactarius deliciosus;± fruitée;douce puis un peu âcre
+Lactarius deterrimus;complexe, fruitée, de scléroderme, de carotte, de pélargonium;amarescente
+Lactarius evosmus;forte de pomme;âcre
+Lactarius flavidus;agréable, fruitée;douce puis un peu âcre, amarescente
+Lactarius fluens;fruitée, agréable, faible;âcre
+Lactarius fuliginosus;faible;douce puis âcre styptique
+Lactarius fulvissimus;acidulée, vinasse, de Lepiota cristata;douce
+Lactarius glaucescens;fruitée;très âcre
+Lactarius glyciosmus;coco, gâteau congolais;douce, puis âcrescente
+Lactarius helvus;coumarine, chicorée, nette et forte sur excicata;douce
+Lactarius hemicyaneus;± fruitée;âcre
+Lactarius hepaticus;nulle;âcre, amère
+Lactarius hysginus;bougie, suif, cire;âcre
+Lactarius ichoratus;faible de Lactarius quietus, de scléroderme;amarescente
+Lactarius intermedius;fruitée faible;astringente, non âcre
+Lactarius lacunarum;faible, de scléroderme, de Lactarius quietus;douce puis âcre
+Lactarius lignyotus;faible;douce
+Lactarius lilacinus;chicorée torréfiée, accentuée en sèchant;âcrescente
+Lactarius luridus;légèrement fruitée;âcre
+Lactarius mitissimus;faible, de poisson ou de scléroderme;douce, puis amère
+Lactarius necator;faible de Russula amoena, de topinambour;âcre
+Lactarius obscuratus;inodore;subdouce, âcrescent
+Lactarius omphaliformis;subinodore;doux
+Lactarius pallidus;faible;douce puis âcre
+Lactarius picinus;faible, agréable;âcre
+Lactarius piperatus;subnulle;très âcre dans toutes ses parties
+Lactarius porninsis;forte fruitée, ± agréable;douce à amarescente
+Lactarius pterosporus;faible, fruitée;âcre, amer
+Lactarius pubescens;légèrement fruitée, acide;âcre
+Lactarius pyrogalus;fruité faible;âcre
+Lactarius quieticolor;fruitée faible;douce puis amère, âcrescente
+Lactarius quietus;forte dite de punaise des bois, de linge mouillé;douce, amarescente, astringente
+Lactarius repraesentaneus;subinodore;âcre, amer
+Lactarius resimus;fruitée faible;douce, puis âcre à amarescente
+Lactarius romagnesii;faible;âcrescent
+Lactarius rubrocinctus;faible de scléroderme, de Lactarius quietus ou de Lepiota cristata;± amère
+Lactarius rufus;de scléroderme, acidulée;très âcre
+Lactarius ruginosus;faible;âcre, amarescente
+Lactarius salmonicolor;savonette;douce, un peu astringente
+Lactarius scoticus;fruitée;très âcre
+Lactarius scrobiculatus;fruitée, subpélargonicée;très âcre
+Lactarius sphagneti;faible, herbacée;douce
+Lactarius spinosulus;faible;doux à âcrescent
+Lactarius subdulcis;scléroderme, caoutchouc\celluloïde\;doux à amarescent
+Lactarius subsericatus;de Lactarius quietus, de scléroderme;amarescente
+Lactarius tabidus;inodore;douce, puis âcre
+Lactarius theiogalus;faible;âcrescente
+Lactarius torminosus;acide, pélargoniée;très âcre
+Lactarius trivialis;fruitée faible;âcre, amère
+Lactarius uvidus;faible;douce
+Lactarius vellereus;fétide;âcre
+Lactarius vietus;très faible;chair tardivement âcre
+Lactarius zonarioides;faible;âcre
+Lactarius zonarius;fruitée acide;âcrescente
+Leccinum aurantiacum;faible;douce
+Leccinum avellaneum;subnulle;nulle
+Leccinum brunneogriseolum;agréable;douce
+Leccinum carpini;agréable;un peu acidulée
+Leccinum crocipodium;non caractéristique;un peu acidulée
+Leccinum duriusculum;faible;douce
+Leccinum holopus;nulle;non caractéristique
+Leccinum lepidum;fongique;douce ou amarescente
+Leccinum quercinum;agréable;douce
+Leccinum scabrum;agréable;douce
+Leccinum variicolor;faible, agréable;douce
+Leccinum versipelle;agréable;douce
+Lepista flaccida;subnulle, fongique;douce
+Lepista inversa;fongique, agréable;légèrement astringente
+Lepista irina;forte d'iris ou d'eau de Cologne;douce
+Lepista nuda;agréable, assez complexe, un peu farino-spermatique et fruitée ou acidulée;douce
+Lepista panaeola;subfarineuse ou fongique, agréable;douce
+Lepista personata;subfarineuse, ± forte;douce
+Lepista sordida;généralement faible, un peu herbacée ou de pomme, de concombre, parfois désagréable de poisso;douce, fongique
+Leucopaxillus albissimus;faible mais plutôt agréable;amère
+Leucopaxillus amarus;assez forte, farineuse, peu agréable;très amère
+Leucopaxillus gentianeus;farineuse, de concombre;très amère
+Leucopaxillus giganteus;plutôt agréable, un peu cyanique;douce
+Leucopaxillus paradoxus;complexe, d'abord plutôt agréable, un peu d'iris, de fleur d'oranger, puis en séchant de café;douce ou un peu styptique mais non amère
+Leucopaxillus tricolor;fongique ou herbacée, agréable;douce
+Macrolepiota excoriata;fongique, agréable;douce
+Mitrophora semilibera;fongique faible;douce
+Morchella acuminata;agréable;douce
+Morchella conica;fongique;douce
+Morchella conica V deliciosa;de pomme et de miel;douce
+Morchella costata;fongique;douce
+Morchella elata;fongique faible;douce
+Morchella elata V purpurescens;subnulle;douce
+Morchella rotunda;fongique;douce
+Morchella vulgaris;fongique;douce
+Mycena aetites;raphanoïde presque nitreuse, forte;douce
+Mycena albidolilacea;nitreuse;douce
+Mycena aurantiomarginata;non significative;douce
+Mycena epipterygia;nulle à nettement farineuse, parfois nitreuse;généralement farineuse
+Mycena galericulata;nulle à légèrement farineuse;constamment et distinctement farineuse
+Mycena galopus;nulle;nulle
+Mycena inclinata;typique, dite de cire de bougie;saveur nulle à subfarineuse
+Mycena leptocephala;odeur forte d'eau de javel;nulle
+Mycena pelianthina;forte, raphanoïde, parfois mêlée de \ tabac froid\;douce, raphanoïde, désagréable
+Mycena polygramma;nulle à vaguement raphanoïde;non caractéristique
+Mycena pura;forte, raphanoïde (radis noir ou pomme de terre crue), caractéristique;raphanoïde désagréable
+Mycena renatii;fortement nitreuse, caractéristique;insignifiante
+Mycena rosea;raphanoïde forte;légèrement à fortement raphanoïde
+Mycena rosella;non caractéristique;non caractéristique
+Mycena rubromarginata;nulle à faiblement raphanoïde;non caractéristique
+Mycena seynesii;non caractéristique;non caractéristique
+Mycena stipata;forte, ammoniaquée ou nitreuse;faible, un peu raphanoïde-herbacée
+Mycena stylobates;nulle;nulle
+Mycena zephyrus;nulle à légèrement herbacée ou un peu raphanoïde;raphanoïde-herbacée peu nette
+Myxomphalia maura;farineuse ± faible;subnulle
+Neournula pouchetii;nulle;nulle
+Omphaliaster asterosporus;farineuse faible;douce
+Omphalina lundellii;nulle;nulle
+Omphalina velutipes;subnulle ou faiblement pélargoniée;nulle
+Peziza cerea;faible;nulle
+Phaeogalera oedipus;nulle;douceâtre
+Phaeonematoloma myosotis;faible, un peu farineuse;nulle
+Pholiota alnicola;aromatique, de bonbon anglais;douceâtre, un peu amarescente
+Pholiota astragalina;faible;amère
+Pholiota aurivella;faible;douceâtre
+Pholiota flammans;raphanoïde;amarescente
+Pholiota flavida;subnulle ou désagréable selon Marchand;douce
+Pholiota gummosa;faible;subnulle, douce
+Pholiota highlandensis;faible;amarescente
+Pholiota lenta;faible, un peu fruitée ou iodée;douce, parfois de rave
+Pholiota squarrosa;de rave;rappelant l'odeur
+Pholiota tuberculosa;faible, fongique;amère
+Pleurotus cornucopiae;farineuse;douce
+Pleurotus eryngii;subnulle;douce
+Pleurotus ostreatus;fongique ou d'étoffe humide (?);douce
+Porphyrellus porphyrosporus;fruitée;nulle, parfois un peu âcre ou salée (?)
+Porpoloma elytroides;farineuse;un peu amarescente, rappelant l'odeur
+Porpoloma spinulosum;complexe, fruitée, de jasmin, de baume du Pérou, de banane séchée;douce
+Ptychoverpa bohemica;faible;douce
+Ramaria aurea;agréable, herbacée;douce
+Ramaria bataillei;subnulle;amère
+Ramaria botrytis;agréable, acidulée à fruitée;douce
+Ramaria curta;terreuse;douce à amère
+Ramaria fennica;terreuse;amère
+Ramaria fennica V fumigata;terreuse, de poussière, de renfermé;douceâtre ou un peu amère avec l'âge
+Ramaria fennica V griseolilacina;complexe, herbacée ou raphanoïde, un peu terreuse;subdouce ou amère (rameaux)
+Ramaria flava;variable, herbacée ou de vieux linge;douce à amarescente (rameaux)
+Ramaria flavescens;faible, un peu herbacée;amarescente
+Ramaria formosa;faiblement herbacée;douce à amère (rameaux)
+Ramaria largentii;de caoutchouc ou de cabinet dentaire;douce
+Ramaria pallida;subnulle ou de fénugrec en séchant;douce à amarescente
+Ramaria sanguinea;faible, un peu herbacée;douce à amarescente (rameaux)
+Ramaria stricta;plutôt agréable, acidulée ou un peu anisée;amère
+Ramaria subbotrytis;faible, complexe, un peu de farine rance;douce ou un peu amarescente (rameaux)
+Rozites caperatus;subnulle;douce
+Russula acetolens;nulle, ou un peu aigre lorsqu'elle s'altère;douce
+Russula acrifolia;subnulle;subdouce mais très âcre dans les lames
+Russula adulterina;de compote de pomme;subdouce puis âcre
+Russula adusta;faible, de vieux fût à vin;douce
+Russula aeruginea;faible;douceâtre à ± piquante
+Russula albonigra;faible;douceâtre, mentholée
+Russula amara;faible, un peu acidulée;douce mais amère dans le revêtement
+Russula amethystina;d'iodoforme faible, plus nette parfois à la base du stipe;douce
+Russula amoena;de topinambour ou de crustacé cuit;douce
+Russula amoenicolor;de topinambour ou de crustacé cuit;douce
+Russula amoenolens;de topinambour cuit ou spermatique à la coupe;très âcre
+Russula anatina;subnulle;douce
+Russula anthracina;un peu fruitée, acidulée;douceâtre mais âcre dans les lames
+Russula anthracina V carneifolia;forte de poire mûre;douce mais âcre dans les lames
+Russula aquosa;faible, un peu fruitée;douce, un peu âcre dans les lames
+Russula atrorubens;de bonbon anglais, de coco;très âcre
+Russula aurea;faible;douce
+Russula aurora;faible, un peu acidulée;douce
+Russula badia;de bois de cèdre, parfois faible;d'abord douce, puis extrêmement âcre après 30 secondes
+Russula cessans;faible;douce, piquante dans les lames
+Russula chloroides;fruitée forte, peu agréable, de hareng (selon Marchand);douce mais âcre dans les lames
+Russula claroflava;fruitée ou de miel;douce
+Russula consobrina;faible;âcre
+Russula cuprea;± fruitée;âcre
+Russula cutefracta;nulle;douce
+Russula cyanoxantha;faible;douce
+Russula decipiens;subnulle ou un peu fruitée;± âcre
+Russula delica;fruitée, complexe, parfois de poisson;douce, mais faiblement âcre dans les lames
+Russula densifolia;subnulle;un peu piquante dans les lames, douce ailleurs
+Russula faginea;de crustacés;douce
+Russula farinipes;fruitée;très âcre
+Russula firmula;de pomme;âcre
+Russula flavispora;complexe, nauséeuse, ± fruitée;très âcre, brûlante dans les lames
+Russula foetens;forte, nauséeuse avec quelques nuances fruitées discrètes;très âcre
+Russula galochroa;subnulle;douce, ± âcre dans les lames
+Russula grisea;faible;douce mais piquante dans les lames
+Russula heterophylla;faible;douce
+Russula heterophylla V chlora;faible;douce
+Russula illota;forte d'amande amère, mais ± nauséeuse;âcre
+Russula insignis;fruitée au début;douce
+Russula integra;subnulle;douce, de noisette
+Russula integra V oreas;faible, agréable ou ± fruitée;douce, mais piquante dans les lames
+Russula ionochlora;faible, un peu acidulée;douce mais âcre dans les lames
+Russula langei;faible;douce
+Russula laurocerasi;forte d'amande amère, ± nauséeuse \en arrière\;très âcre
+Russula lilacea;faible, un peu fruitée;douce
+Russula lundellii;faible, fruitée acidulée, de fermentation...;plutôt âcre ou amarescente
+Russula luteotacta;faible, fruitée ou de coco (selon Romagnesi);âcre
+Russula maculata;fruitée, acidulée ou de bois de crayon;subdouce mais un peu âcre dans les lames
+Russula medullata;faible;douce, parfois piquante dans les lames
+Russula mesospora;fruitée, ± de pomme;âcre
+Russula mustelina;faible;douce
+Russula nauseosa;faible;douce, parfois faiblement âcre
+Russula nigricans;un peu fruitée;douceâtre mais âcre dans les lames
+Russula ochroleuca;faible;plutôt âcre ou subdouce
+Russula pallidospora;fruitée (à la coupe);douceâtre, mais un peu amère dans les lames
+Russula parazurea;faible;douce, un peu piquante dans les lames sur le tard
+Russula pectinatoides;nauséeuse, caoutchoutée ou de compote de pomme selon Marchand;peu agréable, voire un peu piquante à la fin ou amère (?)
+Russula pseudointegra;fruitée - mentholée;amarescente à ± piquante
+Russula pseudoraoultii;faible, un peu fruitée;âcre
+Russula puellaris;faible;douce
+Russula risigallina;nulle ou de parfum de rose, d'abricot lorsqu'elle est altérée;douce
+Russula sororia;spermatique et ± fruitée;lentement âcre
+Russula stenotricha;faible;douceâtre mais piquante dans les lames
+Russula subfoetens;nauséeuse avec quelques composantes fruitées;lentement piquante, âcre dans les lames
+Russula turci;d'iodoforme, partout mais plus nette à la base du stipe;douce
+Russula versicolor;faible;douce, un peu âcre dans les lames
+Russula vesca;nulle;douce, de noisette
+Russula vinosa;faible;douce
+Russula violeipes;faible, un peu de crustacé cuit ou de topinambour;douce
+Russula violeipes F citrina;faible;douce
+Russula virescens;faible;douce, de noisette
+Sarcodon glaucopus;fortement farineuse;douceâtre ou faiblement âcre
+Sarcodon imbricatus;un peu épicée;douce ou un peu amarescente
+Strobilomyces strobilaceus;prononcée;douce, rappelant la noix
+Strobilurus esculentus;faible mais agréable;douce
+Strobilurus stephanocystis;faible;douce
+Suillus bellinii;fruitée;douce
+Suillus bovinus;faible, acidulée;douceâtre ou un peu acidulée
+Suillus collinitus;fruitée;douce
+Suillus flavidus;faible, fruitée acidulée;douce
+Suillus granulatus;agréable, épicée;douceâtre, un peu acidulée
+Suillus granulatus F marchandii;agréable;douceâtre
+Suillus grevillei;un peu fruitée;douce
+Suillus luteus;fruitée;douceâtre, un peu acidulée
+Suillus placidus;nulle;douce
+Suillus plorans;un peu fruitée;douceâtre, un peu acidulée
+Suillus sibiricus;subnulle, à peine fruitée;acidulée
+Suillus tridentinus;faible, un peu fruitée;douceâtre
+Suillus variegatus;forte de scléroderme;douce
+Suillus viscidus;faible, fruitée;douceâtre
+Tricholoma acerbum;nulle ou banale;amarescente ou âpre, styptique (rappelant la \pomme sauvage
+Tricholoma album;complexe, agréable, de farine fraîche mêlée de fruit, de jacinthe;âcre ou amère
+Tricholoma album V thalliophilum;rappelant la fleur de sureau, puis un terreuse à la fin;âcre
+Tricholoma apium;céleri, fénugrec;douce, rappelant l'odeur
+Tricholoma arvernense;désagréable, un peu farineuse;faiblement amarescente
+Tricholoma aurantium;forte de farine, de concombre ou de pastèque;amère
+Tricholoma auratum;fongique;douce de noisette
+Tricholoma basirubens;farino-spermatique, désagréable, voire écoeurante;rappelant l'odeur
+Tricholoma bresadolianum;un peu herbacée ou terreuse;amère
+Tricholoma cingulatum;farineuse faible, plus nette à la coupe;douce, rappelant l'odeur
+Tricholoma columbetta;nulle;douce
+Tricholoma equestre;faible mais agréable;douce
+Tricholoma fracticum;fongique un peu farineuse;amère
+Tricholoma fucatum;farineuse faible;rappelant l'odeur
+Tricholoma fucatum V subglobisporum;forte de farine ou de concombre;rappelant l'odeur
+Tricholoma fulvum;farineuse forte;amarescente
+Tricholoma imbricatum;fongique;amarescente
+Tricholoma inocybeoides;farine rance, assez désagréable sur les spécimens âgés;peu agréable, terreuse
+Tricholoma joachimii;faible, plutôt agréable;fongique faible, non amère
+Tricholoma josserandii;désagréable de farine rance, de chicorée;désagréable, rappelant l'odeur
+Tricholoma myomyces;fongique faible ou un peu herbacée;subnulle ou fongique
+Tricholoma pardinum;désagréable, farino-spermatique;douce
+Tricholoma pessundatum;farineuse ou de concombre assez forte;rappelant l'odeur
+Tricholoma populinum;forte, farineuse ou de concombre;rappelant l'odeur
+Tricholoma portentosum;farineuse ou de coquillage frais (huître);rappelant l'odeur
+Tricholoma psammopus;subnulle;amarescente
+Tricholoma pseudoalbum;désagréable d'insecticide ou terreuse;amère et âcre
+Tricholoma pseudonictitans;subnulle;amarescente
+Tricholoma ramentaceum;subnulle;farineuse, faiblement amarescente
+Tricholoma robustum;un peu herbacée ou un peu farineuse;douceâtre ou un peu farineuse
+Tricholoma saponaceum;plus ou moins désagréable de savon de Marseille;douce, légèrement amarescente
+Tricholoma saponaceum F ardosiacum;dite de savon de Marseille;douceâtre, un peu amarescente
+Tricholoma scalpturatum;farine fraîche;rappelant l'odeur
+Tricholoma sejunctum;faible;un peu amarescente ou un peu âpre, plutôt désagréable
+Tricholoma sulfurescens;de fruit trop mûr;un peu acerbe, âcre
+Tricholoma triste;subnulle;un peu herbacée
+Tricholoma umbonatum;faible, un peu farineuse;amarescente
+Tricholoma vaccinum;herbacée ou un peu terreuse;plutôt amère, désagréable
+Tricholoma virgatum;subnulle, voire un peu raphanoïde;saveur âcre
+Tricholoma viridifucatum;fongique faible;un peu farineuse
+Tubaria furfuracea;fongique;fongique faible
+Tuber uncinatum;agréable;agréable
+Tylopilus felleus;faible;amère
+Urnula craterium;un peu terreuse;subnulle
+Volvariella gloiocephala;subnulle ou raphanoïde (radis);radis
+Volvariella surrecta;subnulle ou aromatique;douce
+Xerocomus armeniacus V venosipes;nulle;nulle
+Xerocomus badius;faible;douce
+Xerocomus chrysenteron;rappelant le scléroderme ou un peu fruitée;douce
+Xerocomus lanatus;nulle;douce
+Xerocomus parasiticus;absente;douce
+Xerocomus porosporus;plus ou moins fruitée ou acidulée;assez douce, faiblement acidulée
+Xerocomus rubellus;rappelant le scléroderme;douce
+Xerocomus subtomentosus;presque nulle ou faiblement fruitée;douce

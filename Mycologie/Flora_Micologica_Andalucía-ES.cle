@@ -1,0 +1,1688 @@
+ µm 
+titre$Flora Micológica de Andalucía : Clave PRINCIPAL/ tempo
+com$ adapt GF 15/04/2019
+1,0$ source :  http://www.juntadeandalucia.es/medioambiente/site/portalweb/menuitem.7e1cf46ddf59bb227a9ebe205510e1ca/?vgnextoid=93a395ddf1d38610VgnVCM100000341de50aRCRD&vgnextchannel=4b2fa7aaaf4f4310VgnVCM2000000624e50aRCRD
+1,0$
+
+
+
+1,cs1 $ Hongos con fase plasmodial mucilaginosa., esporas que al germinar producen amebas $$s" Clave A" (Myxomycota)
+rem$$s" Clave A"
+1,2 $ Hongos sin fase plasmodial mucilaginosa., esporas que al germinar producen hifas filamentosas
+2,cs2$ Hongos hipogeos o semihipogeos, generalmente globosos $$s" Clave B  Hongos Hipogeos o Semihipogeos
+2,3 $ Hongos no hipogeos de forma variada
+3,4 $ Esporas producidas en ascas (Ascomycota)
+rem$$s" (Ascomycota)"
+3,8 $ Esporas producidas en basidios (Basidiomycota)
+rem$$s" (Basidiomycota)"
+4,cs3 $ Ascas dispuestas en peritecios o pseudotecios globosos, erumpentes o no $$s" Clave C Ascomycetes con Peritecios o Pseudotecios
+4,5 $ Ascas dispuestas en clávulas, histerotecios, mitras o apotecios., rara vez erumpentes
+5,cs4 $ Ascoma claviforme, con pie y clávula o cabeza diferenciada $$s" Clave D Ascomycetes Claviformes
+5,6 $ Ascoma de otro modo
+6,cs5 $ Ascoma dispuesto en un histerotecio $$s" Clave E   Ascomycetes con Histerotecios
+6,7 $ Ascoma de otro modo
+7,cs6 $ Ascoma con pie o sin él, con la parte fértil dispuesta en un apotecio., rara vez erumpente en madera o restos vegetales $$s" Clave F Ascomycetes con Apotecios
+7,cs7$ Ascoma estipitado con parte fértil dispuesta en una mitra., no erumpente $$s" Clave G  Ascomycetes con Mitra
+8,cs8 $ Basidios tabicados al menos en parte o con forma de Y, basidiomas con frecuencia gelatinosos (Heterobasidiomycetes) $$s" Clave H Heterobasidiomycetes
+8,9 $ Basidios no tabicados., basidiomas rara vez gelatinosos
+9,cs9 $ Basidioma ausente al ser parásito de otros hongos o bien presente y cupuliforme (cifeloide) con himenio liso o algo plegado $$s" Clave I  Hongos Cupuliformes (Cifeloides) o Parásitos de Hongos
+9,10 $ Basidioma patente no cupuliforme (cifeloide)
+10,cs10 $ Basidios encerrados en el basidioma durante buena parte del desarrollo del hongo., generalmente con gleba y con esporas de dispersión pasiva (Gasteromycetes p.p.) $$s" Clave J  Gasteromycetes no Hipogeos
+10,11 $ Basidios en contacto con el exterior o solo encerrados inicialmente en su desarrollo., esporas de dispersión activa
+11,cs11 $ Basidioma sin píleo y con himenóforo liso o aculeado., con porte claviforme o ramificado, en este caso con aspecto de coral o coliflor con ramas cilindricas o aplanadas $$s" Clave K Basidiomycetes Clavarioides
+11,12 $ Basidioma de otro modo, pileado o no
+12,13 $ Himenóforo formado por láminas verdaderas individualizadas bajo un píleo., contexto carnoso y frágil o rara vez coriáceo
+12,14 $ Himenóforo de otro modo., contexto leñoso, suberoso, coriáceo o carnoso
+13,cs12 $ Basidioma con pie $$s" Clave L  Hongos Agaricoides con Pie
+13,cs13 $ Basidioma sin pie o con pie muy reducido $$s" Clave M Hongos laminados no estipitados
+14,cs14 $ Hongo pileado con el himenóforo formado por poros y tubos blandos $$s" Clave N Hongos Boletoide
+14,15 $ Sin los caracteres anteriores juntos
+15,cs15 $ Himenóforo con poros separados por tabiques, ocasionalmente laberintiformes o laminares que se bifurcan ;o ramifican puntualmente (Poriales s.l.) $$s" Clave Ñ Poriales s.l.
+15,16 $ Himenóforo de otro modo
+16,cs16$ Hongo pileado con el himenóforo aculeado o irpicoide $$s" Clave O Hongos Pileados y Aculeados
+16,17 $ Sin los caracteres anteriores juntos
+17,cs17 $ Basidioma con pie y píleo., himenio liso, con pseudoláminas o nervios $$s" Clave P Hongos Cantarelloides o con Pie e Himenio liso
+17,cs18 $ Basidioma resupinado o pileado y sin pie., himenio variado $$s" Clave Q Hongos Corticiáceos
+
+
+CS1,0 $  Clave A Myxomycota (Mixogastria)"
+rem $ rem Clave A Myxomycota (Mixogastria);;;;;;
+1,0 $ Esporas desarrolladas en el ápice de un pedúnculo procedente de una matriz mucosa, expuestas al exterior. Esporoforo sin peridio ni capilicio $ Ceratiomyxa
+1,2 $ Esporas desarrolladas en el interior de esporotecas. Esporóforo con peridio más o menos desarrollado, con o sin capilicio;;
+2,3 $ Con capilicio;;
+2,6 $ Sin capilicio, con o sin pseudocapilicio (Liceales, Echinostelium p.p.);;
+3,4 $ Fase asimiladora variada., esporas de color variado que germinan por rotura de su pared. Esporóforo a veces con columela o depósitos calcareos;;
+3,13 $ Fase asimiladora de tipo afanoplasmodio, solo visible cuando está fructificando., esporas de color pardo violáceo que germinan mediante un poro. Esporóforo con columela y sin depósitos calcáreos o bien sólo en la base (Stemonitales);;
+4,5 $ Esporas en masa de colores claros. Esporóforo rara vez con depositos de calcio, fase asimiladora de tipo fane-roplasmodio o de otro tipo;;
+4,22 $ Esporas en masa negras, pardas oscuras o violáceas. Esporóforo con depósitos calcáreos en peridio (y frecuentemente en capilicio), fase asimiladora de tipo faneroplasmodio (Physarales);;
+5,33 $ Con columela generalmente, esporoforos estipitados de hasta 0,5 mm de altura, capilicio liso, fase asimiladora de tipo protoplasmodio, peridio fugaz, a veces queda al menos como un collar (Echinosteliales p.p.);;
+5,34 $ Sin columela, esporoforo y capilicio variado, fase asimiladora variada, peridio persistente al menos en la base (Trichiales);;
+6,0 $ Esporóforos estipitados de hasta 0,4 mm de altura;$ Echinostelium p.p.
+6,7 $ Esporóforos no estipitados, o estipitados y de más de 0,4 mm de altura;;
+7,0 $ Peridio evanescente, quedando un retículo que encierra las esporas;$ Cribraria
+7,8 $ Peridio nunca persiste como una red;;
+8,0 $ Esporocarpos agregados formando un pseudoetalio de color naranja a rosa o rojo;$ Tubulifera
+8,9 $ Esporocarpo diferente;;
+9,10 $ Sin pseudocapilicio;;
+9,11 $ Con pseudocapilicio;;
+10,0 $ Esporóforos de 0,5(-1) mm, esporocárpicos, alguna vez plasmodiocárpicos., ornamentacion esporal uniforme;Licea Licea
+10,0 $ Esporóforos de más de 1 mm de largo, plasmodiocárpico., ornamentación esporal localizada en un área concreta;Reticularia p.p. Reticularia p.p.
+11,0 $ Esporóforo en etalio globoso o subgloboso., pseudocapilicio tubular ramificado;$ Lycogala
+11,12 $ Esporóforo en pseudoetalio o etalio aplanados o pulvinado., pseudocapilicio variado;;
+12,0 $ Peridio en mosaico, formado por placas poligonales., pseudocapilicio filiforme péndulo de las placas del peridio. Esporoforo en pseudoetalio;Dictydiaethalium+B88 Dictydiaethalium+B88
+12,0 $ Peridio sin placas poligonales., pseudocapilicio membranoso. Esporóforo en etalio;$ Reticularia p.p.
+13,0 $ Esporóforo con depositos calcareos en la base y pie;$ Diachea
+13,14 $ Esporóforo sin depositos calcareos;;
+14,0 $ Columela que termina en un disco del que pende el capilicio;$ Enerthenema
+14,15 $ Columela sin disco apical del que pende el capilicio;;
+15,16 $ Peridio persistente, al menos parcialmente, en forma de collar;;
+15,18 $ Peridio evanescente;;
+16,0 $ Pie formado por fibras paralelas, columela que llega hasta el medio del esporocarpo ramificandose y disminuyendo su grosor hacia la periferia;Collaria Collaria
+16,17 $ Sin los caracteres anteriores juntos;;
+17,0 $ Pie hueco, peridio no iridiscente en general;$ Macbrideola
+17,0 $ Pie fibroso, peridio con frecuencia iridiscente;$ Lamproderma
+18,0 $ Capilicio ramificado dicotòmicamente, sin anastomosis., esporocarpo globoso;$ Paradiacheopsis
+18,19 $ Capilicio formando una red, con anastomosis., esporocarpo cilindrico o globoso;;
+19,0 $ Esporóforos en pseudoetalio., esporocarpos cilindricos sésiles o subsésiles unidos por la parte media o basal, sin red superficial;Symphytocarpus Symphytocarpus
+19,20 $ Esporóforos individuales, esporocárpicos, con o sin red superficial;;
+20,21 $ Esporocarpo cilindrico., capilicio con una red superficial., pie hueco o fibroso;;
+20,0 $ Esporocarpo esférico o cortamente cilindrico., capilicio sin red en la superficie (excepto C. ellae)., pie fibroso con fibras entrelazadas;Comatricha Comatricha
+21,0 $ Red superficial completa., pie hueco;$ Stemonitis
+21,0 $ Red superficial fragmentada., pie fibroso;$ Stemonitopsis
+22,23 $ Capilicio sin depósitos calcáreos;;
+22,26 $ Capilicio con depósitos calcáreos;;
+23,0 $ Peridio con pequeños depósitos aglutinados calcáreos amorfos o irregulares., esporóforo esporangiado o plasmodiocárpico ;Diderma Diderma
+23,24 $ Peridio con cristales estrellados dispersos de carbonato cálcico o formando cubiertas, escamas o placas cristalinas., esporóforo variado;;
+24,25 $ Peridio con cristales estrellados que no forman escamas o placas delimitadas;;
+24,0 $ Peridio con placas o escamas cristalinas;$ Lepidoderma p.p.
+25,0 $ Esporóforo esporangiado o plasmodiocárpico;$ Didymium
+25,0 $ Esporóforo en etalio;$ Mucilago
+26,0 $ Esporóforo en etalio;$ Fuligo
+26,27 $ Esporóforo esporangiado o plasmodiocárpico;;
+27,0 $ Esporóforo gregario, ovoide, sésil o con un corto pedúnculo., peridio liso y brillante, inicialmente amarillo, después naranja y finalmente pardo, con apertura apical irregular ;Leocarpus Leocarpus
+27,28 $ Sin los caracteres anteriores juntos;;
+28,29 $ Capilicio formado por túbulos rellenos de calcio, rara vez con zonas sin rellenar;;
+28,30 $ Capilicio con calcio en los nódulos de la red o dispuesto en placas transversales;;
+29,0 $ Capilicio formado por una red de túbulos;$ Badhamia
+29,0 $ Capilicio formado por túbulos columnares, ocasionalmente bifurcados, pero que no forman una red;Badhamiopsis Badhamiopsis
+30,31 $ Capilicio con calcio en los nódulos de la red, esporóforo de tipo esporocarpo o plasmodiocarpo;;
+30,0 $ Capilicio con calcio en placas transversales a los elementos de un plasmodiocarpo reticulado;$ Willkommlangea
+31,0 $ Esporóforo con dehiscencia mediante un opérculo circular, quedando la parte basal en forma de copa;Craterium Craterium
+31,32 $ Esporóforo con dehiscencia irregular o lobada;;
+32,0 $ Esporóforo de tipo plasmodiocarpo., peridio con placas o escamas cristalinas., esporas en púrpura; masa de color pardo $Lepidoderma p.p.
+32,0 $ Sin los caracteres anteriores juntos., esporóforo a veces estipitado;$ Physarum
+33,0 $ Sin capilicio o rudimentario, muy pálido o incoloro, filamentoso o ramificado, en ocasiones con un elemento diferencial en el ápice del estipe, globoso o elipsoide;Echinostelium p.p. Echinostelium p.p.
+33,0 $ Con capilicio ramificado de color oscuro o pardo oliváceo, sin el mencionado elemento diferencial;$ Clastoderma
+34,35 $ Capilicio macizo;;
+34,36 $ Capilicio hueco, a modo de tubos;;
+35,0 $ Capilicio con elementos rectos, ramificados o fasciculados frecuentemente unidos al peridio;$ Dianema
+35,0 $ Capilicio con elementos largos y generalmente sin ramificar, poco unido al peridio;$ Calomyxa
+36,37 $ Capilicio con bandeo espiralado;;
+36,41 $ Capilicio con verrugas, crestas, anillos o retículos;;
+37,0 $ Bandeo espiralado tenue, fragmentado o casi liso en algunas zonas;$ Oligonema
+37,38 $ Bandeo espiralado patente, no fragmentado;;
+38,0 $ Capilicio deshilachado en los extremos;$ Prototrichia
+38,39 $ Capilicio atenuado en los extremos;;
+39,0 $ Esporocarpo con peridio grueso., capilicio pardo rojizo o naranja;$ Metatrichia
+39,40 $ Esporocarpo con peridio delgado de apertura variada., capilicio amarillento;;
+40,0 $ Capilicio poco ramificado, con terminaciones libres frecuentes;$ Trichia
+40,0 $ Capilicio ramificado en red, con terminaciones libres ocasionales;$ Hemitrichia
+41,0 $ Capilicio poco ramificado, con terminaciones libres frecuentes., esporóforos sésiles;$ Perichaena
+41,0 $ Capilicio ramificado en red, con terminaciones libres ocasionales., esporóforos generalmente estipitados y con un peridio que perdura a modo de copa;Arcyria Arcyria
+
+
+CS2,0 $  Clave B
+
+
+comme rerouver russula ?
+
+
+1,24 $ Saut direct à l'entité 24 clé B (Hongos Hipogeos o Semihipogeos)  : (cause BUG possible , 24 sans antécédent)) :
+
+1,2 $ Hongo que produce zigosporas o clamidosporas
+1,3 $ Esporas producidas por basidios o ascas
+
+2,0 $ Hongo endomicorrícico productor de clamidosporas $ Glomus $s" (Glomeromycota)
+2,0 $ Hongo saprobio o ectomicorrizógeno, productor de zigosporas $Endogone $s" (Zygomycota)
+3,4 $Esporas producidas en ascas $$s"(Ascomycota) 
+3,0 $Esporas producidas en basidios $ (Basidiomycota) $s" (Basidiomycota)
+4,5 $ Ascoma abierto en estrella, con lóbulos, semihipogeo
+4,7 $ Ascoma compacto en la madurez o con pequeñas cámaras, hipogeo
+5,0 $ Ascas no amiloides $ Geopora p.p.
+5,6 $ Ascas amiloides
+6,0 $ Ascoma sin pseudoestipe, con himenóforo violáceo o pardusco de hasta i2(-i6) cm de diámetro, en bosques de coníferas;Sarcosphaera$ Sarcosphaera
+6,0 $ Ascoma con pseudoestipe e himenóforo pardo de hasta 6-7 cm de diámetro, en playas arenosas $Peziza p.p.
+7,0 $ Ascoma con peridio grueso., interior hueco inicialmente y compacto en la madurez al madurar las esporas que rellenan la cámara con un polvo negro;Elaphomyces$ Elaphomyces
+7,8 $ Sin los caracteres anteriores juntos
+8,9 $ Interior con una gleba simple que al replegarse origina 1-4 cámaras en general
+8,11 $ Interior compacto o hueco con numerosas cámaras y circunvoluciones
+9,0 $ Esporas lisas, gleba sin epitecio $ Geopora p.p.
+9,10 $ Esporas ornamentadas, gleba con epitecio
+10,0 $ Esporas equinuladas., peridio giboso de color isabelino a ocre pálido $ Genabea
+10,0 $ Esporas verrugosas o espinosas., peridio giboso o no, de color pardo a negruzco $ Genea p.p.
+11,12 $ Gleba madura con espacios huecos irregulares entre numerosas circunvoluciones a modo de laberinto
+11,17 $ Gleba madura compacta o con circunvoluciones que no dejan espacios huecos....
+12,13 $ Esporas lisas, sin epitecio
+12,14 $ Esporas ornamentadas, epitecio variado
+13,0 $ Ascas ovoides o citriformes $ Balsamia
+13,0 $ Ascas cilindricas $ Geopora p.p.
+14,15 $ Peridio con la superficie lisa
+14,16 $ Peridio con verrugas o papilas, de color variado
+15,0 $ Peridio de color rojo o anaranjado en fresco., asociado generalmente a coniferas $ Hydnotrya
+15,0 $ Peridio de color blanco., asociado a Eucalyptus $ Reddellomyces
+16,0 $ Himenio con epitecio., peridio pardo o negruzco., ascas cilindricas $ Genea p.p.
+16,0 $ Himenio sin epitecio., peridio rojizo., ascas piriformes $ Calongea
+17,18 $ Esporas con ornamentación suave en la madurez
+17,20 $ Esporas con ornamentación muy patente
+18,0 $ Peridio verrucoso., esporas con verrugas diminutas $ Picoa
+18,19 $ Peridio liso., esporas con crestas o verrugas tubulares cortas
+19,0 $ Esporas de Lm > 40 µm con crestas irregulares al madurar $ Fischerula
+19,0 $ Esporas de Lm < 25 µm con verrugas tubulares cortas $ Choiromyces
+20,0 $ Ascos con 2-4 esporas con dos tipos de ornamentación simultáneamente, reticulada o espinosa., peridio liso;Delastria$ Delastria
+20,21 $ Sin los caracteres anteriores juntos
+21,22 $ Peridio verrucoso, a veces con placas piramidales
+21,23 $ Peridio liso o lanoso
+22,0 $ Peridio grueso con una depresión marcada., esporas espinosas $ Pachyphloeus
+22,0 $ Peridio variado, sin depresión., esporas espinosas o reticuladas $ Tuber p.p.
+23,0 $ Esporas globosas $ Terfezia
+23,0 $ Esporas elipsoides, si son subglobosas entonces con esporas ornamentadas por un retículo poligonal;Tuber p.p.$ Tuber p.p.
+rem $ 23,24$ $ BUG ?
+24,25 $ Esporas ornamentadas, a veces de modo poco conspicuo
+24,37 $ Esporas completamente lisas, aunque el perisporio puede dar apariencia de rugoso o reticulado en superficie
+25,26 $ Esporas amiloides
+25,28 $ Esporas no amiloides
+26,0 $ Esporas asimétricas, con placa suprahilar., basidioma con porte que recuerda a una Russula sin abrir;Macowanites$ Macowanites
+26,27 $ Esporas simétricas, sin placa suprahilar., basidioma globoso
+27,0 $ Trama mixta con elementos filamentosos y esféricos en grupos $ Russula p.p. (Gymnomyces)
+27,0 $ Trama homogénea o con elementos inflados escasos y dispersos $ Lactarius p.p. (Zelleromyces)
+28,0 $ Bajo Eucalyptus., gleba laberíntica no compacta y rosada, esporas espinosas $ Hydnangium
+28,29 $ Sin los caracteres anteriores juntos
+29,0 $ Esporas estriadas longitudinalmente $ Gautieria
+29,30 $ Esporas no estriadas
+30,0 $ Esporas de Lm < 5 µm ., gleba homogénea pulverulenta., peridio blanco pruinoso $ Gastrosporium
+30,31 $ Sin los caracteres anteriores
+31,32 $ Esporas fuertemente espinosas
+31,33 $ Esporas verrugosas
+32,0 $ Esporas de Lm > 10 µm ., gleba blanda., fructifica bajo quercíneas $ Octaviania
+32,0 $ Esporas de Lm < 7 µm , gleba compacta., fructifica bajo coniferas $ Sclerogaster
+33,0 $ Esporas subglobosas $ Wakefieldia
+33,34 $ Esporas oblongas, de fusiformes a elipsoides
+34,35 $ Fructifica bajo Eucalyptus
+34,36 $ No fructifica bajo Eucalyptus
+35,0 $ Basidiomas envueltos por una matriz esponjosa de micelio blanco y humus, separables de la gleba;Chondrogaster$ Chondrogaster
+35,0 $ Basidiomas no envueltos en matriz., peridio liso de color blanco $ Descomyces
+36,0 $ Gleba gelatinosa con columela., esporas naviculares $ Hysterangium p.p.
+36,0 $ Gleba no gelatinosa, columela rara vez presente., esporas elipsoides $ Hymenogaster p.p.
+37,0 $ Basidiomas envueltos por una matriz esponjosa de micelio blanco y humus, separables de la gleba;Chondrogaster$ Chondrogaster
+37,38 $ Basidiomas no envueltos en matriz separable de la gleba
+38,0 $ Gleba compacta con cámaras negras gelatinizadas $ Melanogaster
+38,39 $ Gleba diferente
+39,0 $ Bajo Pinus., gleba esponjosa con cámaras pequeñas de color verde oliváceo a pard líndricas a naviculares; usco., esporas de oblongo-ci-$Rhizopogon
+39,40 $ Sin los caracteres anteriores juntos
+40,41 $ Gleba gelatinosa con columela., esporas naviculares, oblongas
+40,0 $ Gleba no gelatinosa, columela rara vez presente., esporas elipsoides $ Hymenogaster p.p.
+41,0 $ Con pie diferenciado, fructificación piriforme con peridio grueso $ Phallogaster
+41,0 $ Sin pie diferenciado, fructificación subglobosa de peridio fino $ Hysterangium p.p.
+
+
+
+CS3,0  Clave C
+
+com$ Clave C Ascomycetes con Peritecios o Pseudotecios 
+1,2 $ Hongo parásito que crece sobre animales o sobre hongos vivos;;
+1,4 $ Hongo no parásito de animales ni hongos, ocasionalmente de plantas o sobre restos de hongos pirenomicetos;;
+2,0 $ Ascoma no claviforme que se desarrolla en el himenio de otros hongos;$ Hypomyces
+2,3 $ Ascoma claviforme con cabeza estromática que crece sobre hongos hipogeos (Elaphomyces), larvas o crisálidas de insectos;;
+3,0 $ Cabeza estromática globosa o elipsoide bien diferenciada con peritecios semiinmersos en el estroma, esporas de 4-7 x 1-2 µm ;Ophiocordyceps Ophiocordyceps
+3,0 $ Cabeza estromática oblonga o claviforme con peritecios patentes, esporas de 2,5-5 x 0,7-1 µm ;$ Cordyceps
+4,0 $ Ascoma claviforme., crece sobre tallos de gramíneas o de ortigas, esporas filiformes;$ Acrospermum
+4,5 $ Sin los caracteres anteriores juntos;;
+5,6 $ Esporas no septadas;;
+5,20 $ Esporas con 1 o más septos;;
+6,7 $ Esporas con fisura longitudinal, recta o sinuosa;;
+6,13 $ Esporas sin fisura longitudinal;;
+7,0 $ Peritecio simple y papilado, gregario;$ Rosellinia
+7,8 $ Peritecios o pseudotecios reunidos en un complejo estromático, papilados o no;;
+8,9 $ Estroma claviforme, filiforme, ramificado o con porte de apotecio;;
+8,10 $ Estroma pulvinado o globoso;;
+9,0 $ Estroma con aspecto de apotecio., hábitat en estiércol de caballo;$ Poronia
+9,0 $ Estroma claviforme o filiforme, a veces ramificado., hábitat diferente;$ Xylaria
+10,0 $ Estroma globoso con capas de tejido concéntricas diferenciadas al corte;$ Daldinia
+10,11 $ Estroma pulvinado o globoso sin capas concéntricas en sección;;
+11,0 $ Estroma negro erumpente y confluente, ocupando varios cm o dm de extensión, de 1-2 mm de grosor., esporas con Wm > 7,5 µm ;Biscogniauxia Biscogniauxia
+11,12 $ Sin los caracteres anteriores juntos;;
+12,0 $ Una capa de estroma rodea cada peritecio de modo individual;$ Annulohypoxylon
+12,0 $ Sin capa de estroma individualizada por cada peritecio;$ Hypoxylon
+13,0 $ Estroma blando, gelatinoso;$ Trichoderma
+13,14 $ Estroma ausente o presente y duro, generalmente negro;;
+14,15$ Peritecios libres o agregados superficiales o semiinmersos, no incluidos en un estroma;; BUG  => 15 ou 16 ???
+14,16 $ Peritecios inmersos en un estroma o tejido estromático bajo la superficie del substrato;; BUG  => 15 ou 16 ???
+15,0 $ Peritecio espinoso, cubierto de pelos con pared gruesa., ascas con 8 esporas;$ Echinosphaeria
+15,0 $ Peritecio no espinoso, ocasionalmente agregados., ascas multiespóricas;$ Coronophora
+16,0 $ Ascoma inmerso en la madera con peritecios con una zona estromática negra bajo ellos., esporas alantoides $Cryptosphaeria
+16,17 $ Ascoma superficial o semiinmerso, con frecuencia erumpente o con estroma negro conspicuo., esporas de forma variada;;
+17,0 $ Ascas multiespóricas;$ Diatrypella
+17,18 $ Ascas con 8 esporas;;
+18,0 $ Esporas de color pardo oscuro;$ Nemania
+18,19 $ Esporas hialinas;;
+19,0 $ Fructificación estromática pulvinada o discoide, negra., con peritecios inmersos no papilados o solo débilmente;Diatrype Diatrype
+19,0 $ Fructificación estromática a modo de costra, negro superficialmente aunque interiormente puede ser de otro color., con peritecios papilados;Eutypa Eutypa
+20,21 $ Esporas con 1 solo septo transversal;;
+20,30 $ Espora con 2 o más septos transversales y/o longitudinales;;
+21,0 $ Septo transversal subapical;Dothidella Dothidella
+21,22 $ Septo transversal medio que divide la espora en dos partes iguales;;
+22,0 $ Peritecios negros superficiales con aspecto muriforme, gregarios;Bertia Bertia
+22,23 $ Sin los caracteres anteriores juntos;;
+23,0 $ Peritecios negros inmersos en la madera;Plagiostoma (Cryptodiaporthe) Plagiostoma (Cryptodiaporthe)
+23,24 $ Peritecios de color vivo, rojo, amarillo o naranja, generalmente superficiales, sobre madera o sobre otros hongos estromáticos (Nectria s.l.);;
+24,0 $ Con paráfisis en peritecios y perifisis en el ostiolo apical;Thyronectria Thyronectria
+24,25 $ Sin paráfisis o perifisis;;
+25,0 $ Habitat en madera. Peritecios rojos agrupados, en general dispuestos en un estroma erumpente y no colapsados en seco, rara vez papilados., pared del peritecio con 2-3 capas diferenciadas, esporas lisas o algo ornamentadas;Neonectria Neonectria
+25,26 $ Sin los caracteres anteriores juntos;;
+26,0 $ Peritecios no agregados de color amarillo o naranja;Hydropisphaera Hydropisphaera
+26,27 $ Peritecios agregados o dispersos, de color rojo;;
+27,0 $ Habitat en madera., peritecios agrupados localmente o dispersos;Nectria Nectria
+27,28 $ Hábitat sobre viejos pirenomicetos., peritecios no agrupados entre sí;;
+28,0 $ Peritecios con disco apical aplastado., esporas lisas;Stylonectria Stylonectria
+28,29 $ Sin los caracteres anteriores juntos;;
+29,0 $ Peritecios con papila., esporas con Lm < 11 µm ;Dialonectria Dialonectria
+29,0 $ Peritecios con o sin papila., esporas con Lm > 11 µm ;Cosmospora Cosmospora
+30,31 $ Esporas con septos longitudinales situados entre los transversales, dando a la espora un aspecto muriforme, pardas;;
+30,34 $ Esporas solo con septos transversales, hialinas o pardas;;
+31,0 $ Esporas asimétricas., ascoma globoso con la papila apical deprimida;Chaetoplea Chaetoplea
+31,32 $ Sin los caracteres anteriores juntos;;
+32,33 $ Pseudotecios confluentes, de globosos a turbinados y situados sobre un estroma o subículo basal, inmersos en la madera o algo erumpentes., ascas cilíndricas con 4-8 esporas simétricas;;
+32,0 $ Pseudotecios dispersos o gregarios, superficiales o erumpentes, globosos a obpiriformes, no estromáticos., ascas cilíndricas o claviformes, algo estipitadas, con 2-8 esporas, simétricas o no;Teichospora Teichospora
+33,0 $ Ascocarpos en número mayor de 5 y no unidos basalmente, con peridio no o apenas engrosado basalmente;Camarosporium Camarosporium
+33,0 $ Sin los caracteres anteriores juntos;Cucurbitaria Cucurbitaria
+34,0 $ Asca monotunicada., peritecio globoso incluido en un estroma, de color negro con tonos violetas o azules., espora hialina con 2 a 5 septos;Gibberella Gibberella
+34,35 $ Sin los caracteres anteriores juntos;;
+35,0 $ Asca monotunicada., espora parda con l septos., peritecio con setas ; Lasiosphaeris Lasiosphaeris
+35,36 $ Asca bitunicada o monotunicada., espora de hialina a parda con 3 - 7 septos., peritecio sin setas 36;;
+36,0 $ Asca monotunicada., peritecios piriformes., espora hialina o amarillenta con 37 septos ;Gaeumannomyces Gaeumannomyces
+36,0 $ Asca bitunicada., pseudotecios ovoides o globosos., esporas con 3-5 septos, pardas o amarillas;Phaeosphaeria Phaeosphaeria
+
+
+CS4,0  Clave D
+1,0 $ Ascoma de color negro con la superficie pubescente debido a la presencia de setas o pelos $ Trichoglossum
+1,2 $ Ascoma negro o de otro color, con la supeficie lisa, sin pelos 
+2,0 $ Esporas pardas vermiformes con 7-15 septos., ascoma negro o pardo oscuro $ Geoglossum
+2,3 $ Esporas hialinas, con o sin septos, vermifornes o no., ascoma rara vez con tonos negros 
+3,4 $ Pie blanco, clávula o cabeza con tonos naranjas o amarillos 
+3,5 $ Pie nunca blanco, clávula o cabeza con tonos verdes o negro purpúreos 
+4,0 $ Cabeza flabeliforme, aplanada., en el humus de los bosques $ Spathularia
+4,0 $ Clávula cilíndrica o globosa., en restos vegetales sumergidos o en turberas $ Mitrula
+5,0 $ Clávula y pie de color negro o pardo purpúreo $ Thuemenidium
+5,6 $ Clávula o cabeza con tonos verdes u oliváceos 
+6,0 $ Clávula cilíndrica que ocupa 1/3 o más de la fructificación, pie concolor $ Microglossum
+6,0 $ Cabeza redondeada y con los márgenes involutos en el extremo de un pie amarillo $ Leotia
+
+CS5,0  Clave E
+
+1,0$ Histerotecio que en condiciones de humedad adquiere porte de apotecio con un disco rojizo $Rhytidhysteron 
+1,2 $ Histerotecio negro o concolor a la superficie, diferente ;
+2,3 $ Esporas hialinas con 1 septo transversal más o menos centrado 
+2,4 $ Esporas diferentes ;
+3,0 $ Esporas con Lm < 8 µm $ Anteaglonium
+3,0 $ Esporas con Lm > 8 µm $ Glonium
+4,5 $ Esporas muriformes, con septos transversales y longitudinales 
+4,6 $ Esporas no muriformes, sólo con septos transversales 
+5,0 $ Esporas pardas de Lm > 30 µm $ Hysterographium
+5,0 $ Esporas hialinas o amarillentas de Lm < 30 µm $ Gloniopsis
+6,0 $ Histerotecio turbinado y aplanado, en forma de hoja de hacha $ Glyphium
+6,7 $ Histerotecio diferente 
+7,0 $ Esporas pardas $ Hysterium
+7,8 $ Esporas hialinas 
+8,0 $ Esporas con 3-9 septos., ascas bitunicadas $ Gloniella
+8,0 $ Esporas no septadas, claviformes., ascas con pared simple $ Lophodermella
+
+CS6,0  Clave F
+rem $ Clave fF Ascomycetes con ApoteciosAscomycetes con Apotecios ;;;(Si en su desarrollo al inicio son hipogeos o semihipogeos ir a clave B);;;
+1,28$  saut direct à l'entité 28 clé F ( Ascomycetes con ApoteciosAscomycetes con Apotecios)   ( cause BUG possible , 28 sans antécédent)
+1,2 $ Apotecio pulvinado o urceolado erumpente y no gelatinoso que se abre al exterior por desgarro del tejido vegetal dejando visible el himenio totalmente o bien a través de una fisura o poro., a veces con valvas de tejido vegetal o pruína en los márgenes;;
+1,5 $ Apotecio no erumpente o, si erumpente, entonces con carne gelatinosa o con apotecio discoide o cupulifor-me., sin valvas;;
+2,0 $ Esporas oblongas no septadas., ascas no amiloides;$ Propolis
+2,3 $ Esporas filiformes, septadas., ascas amiloides o no;;
+3,0 $ Ascas amiloides., esporas multiseptadas., apotecio urceolado;$ Stictis
+3,4 $ Ascas no amiloides., esporas con 2-9 septos., apotecio variado;;
+4,0 $ Esporas con 0-2 septos., apotecio pulvinado que abre en superficie con 2 valvas;$ Cyclaneusma
+4,0 $ Esporas con 7-9 septos., apotecio urceolado con margen pruinoso;$ Naemacyclus
+5,6 $ Apotecio erumpente;;
+5,12 $ Apotecio superficial o no claramente erumpente;;
+6,7 $ Esporas septadas;;
+6,10 $ Esporas no septadas;;
+7,8 $ Esporas con 1 septo;;
+7,9 $ Esporas multiseptadas;;
+8,0 $ Esporas pardas., himenio rojo o naranja rojizo;$ Rhytidhysteron
+8,0 $ Esporas hialinas, himenio de gris a gris oliváceo o pardusco;$ Pyrenopeziza
+9,0 $ Ascas bitunicadas., apotecio discoide de color negro;$ Patellaria
+9,0 $ Ascas monotunicadas., apotecio cupuliforme de color pardo oscuro (cf Durella);$ Ascocalyx
+10,11 $ Apotecio discoide sin carne gelatinosa., esporas hialinas o pardas;;
+10,0 $ Apotecio de globoso a turbinado algo discoide, con carne gelatinosa., esporas pardas;$ Bulgaria
+11,0 $ Esporas hialinas., ascas no amiloides., crece en madera de coníferas;$ Cenangium
+11,0 $ Esporas pardas en la madurez., ascas amiloides., en planifolios;$ Velutarina
+12,0 $ Asca bitunicada., apotecio discoide de color negro., esporas con 7-10 septos transversales;$ Patellaria
+12,13 $ Sin los caracteres anteriores juntos;;
+13,14 $ Ascas operculadas., esporas ornamentadas o lisas, no septadas;;
+13,66 $ Ascas no operculadas., esporas lisas, a veces septadas transversalmente;;
+14,15 $ Ascas amiloides, al menos apicalmente;;
+14,21 $ Ascas no amiloides;;
+15,16 $ Ascas que sobresalen de la superficie del himenio., esporas pardas o púrpuras;;
+15,17 $ Ascas que no destacan de la superficie himenial., esporas hialinas o coloreadas;;
+16,0 $ Esporas agrupadas;$ Saccobolus
+16,0 $ Esporas individualizadas;$ Ascobolus
+17,0 $ Esporas esféricas., crece en suelo quemado;$ Plicaria
+17,18 $ ';Esporas elipsoides., puede o no crecer en suelo quemado;;18
+18,19 $ Excípulo ectal embebido en un gel;;
+18,20 $ Excípulo ectal no embebido en un gel;;
+19,0 $ Esporas lisas., ascoma con el disco ocre a pardo rojizo;$ Adelphella
+19,0 $ Esporas lisas o algo granulares., ascoma con el disco lila a negruzco;$ Pachyella
+20,0 $ Apotecios de más de 2 mm de diámetro de color variado;$ Peziza
+20,0 $ Apotecios de hasta 2 mm de diámetro, naranjas o asalmonados;$ Iodophanus
+21,22 $ Apotecios de color intenso rojo o naranja con la superficie externa sin pelos patentes., con esporas lisas., crecen sobre ramas muertas en invierno o primavera;;
+21,24 $ Sin los caracteres anteriores juntos;;
+22,0 $ Sobre ramas de planifolios., apotecios rojos de más de 1 cm de diámetro;$ Sarcoscypha
+22,23 $ En ramas de coníferas., apotecios naranjas o rojizos de hasta 1 cm de diámetro;;
+23,0 $ Ascas con engrosamiento apical., apotecio estipitado., esporas anchamente elipsoides;$ Pseudopithyella
+23,0 $ Ascas sin engrosamiento apical., apotecio sésil., esporas esféricas;$ Pithya
+24,25 $ Apotecio con disco y receptáculo cupuliforme completamente negros de 0,5-3 cm de diámetro, con esporas esféricas lisas o elipsoides con estrías transversales;;
+24,26 $ Sin los caracteres anteriores juntos;;
+25,0 $ Esporas elipsoides con estrías transversales., pseudopie que se prolonga en rizoides., crecimiento en restos de Eucalyptus;Plectania Plectania
+25,0 $ Esporas esféricas lisas., apotecio sésil sin rizoides., crecimiento en el suelo;$ Pseudoplectania
+26,0 $ Ascas que sobresalen de la superficie del himenio al madurar., apotecio pulvinado y fimícola de hasta 3 mm de diámetro., esporas sin ornamentación;Coprotus Coprotus
+26,27 $ Sin los caracteres anteriores juntos;;
+27,38 $ Esporas esféricas;;
+27,34 $ Esporas elipsoides, ovoides o fusiformes;;
+
+
+rem$27,28$ BUG
+
+28,0 $ Receptáculo con pelos pardos y septados internamente, agudos;$ Scutellinia p.p.
+28,29 $ Receptáculo sin pelos o con éstos de otro tipo;;
+29,30 $ Apotecio de color lila intenso a violeta pardusco o negruzco;;
+29,31 $ Apotecio de otro color;;
+30,0 $ Esporas lisas., apotecio cupuliforme;$ Smardaea
+30,0 $ Esporas con reticulo incompleto o crestas., apotecio pulvinado;Marcelleina Marcelleina
+31,0 $ Apotecio cupuliforme con tonos verde azulados en el receptáculo que contrastan con el himenio naranja de 2-4 cm de diámetro;Caloscypha Caloscypha
+31,32 $ Apotecio pulvinado o cupuliforme no verdoso y de hasta 0,3 cm de diámetro;;
+32,0 $ Esporas lisas;Pulvinula Pulvinula
+32,33 $ Esporas ornamentadas con un retículo o con espinas;;
+33,0 $ Sobre musgos o junto a ellos., sin pelos marginales en el excípulo;Lamprospora Lamprospora
+33,0 $ Sin asociación con musgos, con pelos pardos marginales en el excípulo;Ramsbottomia Ramsbottomia
+34,35 $ Esporas fusiformes., ascoma sésil con rizoides en la parte inferior o creciendo sobre un fino subículo;;
+34,36 $ Sin los caracteres anteriores juntos;;
+35,0 $ De hasta 0,3 cm de diámetro, de color naranja, sésil, espora lisa;Byssonectria Byssonectria
+35,0 $ De 2-10 cm de diámetro, de color pardo rojizo con margen blanco, parte inferior con rizoides ramificados que se fijan al substrato, espora ornamentada;Rhizina Rhizina
+36,37 $ Apotecios de tamaño mediano o grande, de más de 2 cm de diámetro o más de 1 cm de altura, con frecuencia con una sección de más de 1 mm de grosor;;
+36,45 $ Apotecios de tamaño pequeño, de menos de 2 cm de diámetro o menos de 1,5 cm de altura, con frecuencia con una sección inferior a 1 mm de grosor;;
+37,38 $ Esporas ornamentadas con verrugas o retículo;;
+37,42 $ Esporas lisas;;
+38,0 $ Apotecio sesil, receptáculo con pelos pardos (lupa);Humaria Humaria
+38,39 $ Apotecio sésil o estipitado sin pelos o con ellos pero no pardos;;
+39,40 $ Himenio de color vivo, naranja o amarillo;;
+39,41 $ Himenio de color apagado, pardo, gris o negruzco;;
+40,0 $ Apotecio naranja, sésil;Aleuria Aleuria
+40,0 $ Apotecio amarillo a amarillo anaranjado, estipitado;Sowerbyella Sowerbyella
+41,0 $ Apotecio urceolado o cupuliforme, estipitado., esporas verrugosas no apiculadas., exclusivamente bajo Cedrus;Neournula Neournula
+41,0 $ Apotecio discoide, no estipitado., esporas verrugosas o reticuladas, a veces apiculadas., no en Cedrus;Discina Discina
+42,0 $ Apotecio cupuliforme y excéntrico con una fisura vertical en un lado del receptáculo cuyos bordes se pliegan hacia el interior;Otidea Otidea
+42,43 $ Apotecio cupuliforme o discoide sin fisura vertical;;
+43,0 $ Apotecio discoide o cupuliforme, pardo de hasta 20 cm con el disco venoso o replegado radialmente;Disciotis Disciotis
+43,44 $ Apotecio cupuliforme, pardo o no, sin pliegues radiales en el disco;;
+44,0 $ Apotecios estipitados o pseudoestipitados, pardos, grises o negros, a veces con tomento grisáceo o costillas en el receptáculo y/o pie, margen liso;Helvella p.p. Helvella p.p.
+44,0 $ Apotecios estipitados de color crema o amarillo pardusco, con receptáculo sin costillas, finamente tomentoso con margen dentado;Tarzetta p.p. Tarzetta p.p.
+45,46 $ Receptáculo sin pelos, rara vez con prolongaciones hifoides en el margen., con la superficie lisa o finamente tomentosa;;
+45,49 $ Receptáculo provisto de pelos adpresos o proyectados hacia el exterior;;
+46,0 $ Himenio de color pardo o amarillo ocráceo., ascoma cupuliforme con margen dentado., no crece en zonas quemadas;Tarzetta p.p. Tarzetta p.p.
+46,47 $ Himenio naranja, rosa o rojo, discoide., ascoma pulvinado o cupuliforme con margen dentado o no., a veces en zonas quemadas;;
+47,0 $ Apotecios pulvinados de 1-2 mm que crecen gregarios sobre un subículo miceliar blanco en áreas quemadas;Pyronema Pyronema
+47,48 $ Sin los caracteres anteriores juntos;;
+48,0 $ Apotecios cupuliformes, sésiles o estipitados, de color naranja pálido a pardo con margen blanquecino, de 0,5-2 cm de diámetro;Geopyxis Geopyxis
+48,0 $ Apotecios discoides o cupuliformes, sésiles, de color naranja vivo o rojizo con margen concolor o blanquecino, de hasta 1 cm de diámetro;Octospora; ;$ Octospora
+49,50 $ Apotecios con el himenio de color blanco grisáceo, gris, pardo u ocre;;
+49,55 $ Apotecios con el himenio de color amarillo, naranja, rosa o rojo;;
+50,51 $ Receptáculo con pelos adpresos, aplicados hacia el receptáculo, no patentes., espora lisa;;
+50,52 $ Pelos patentes que se proyectan al exterior., espora lisa u ornamentada;;
+51,0 $ Sobre excrementos;Pseudombrophila Pseudombrophila
+51,0 $ En el suelo, con briófitos;Leucoscypha p.p. (Sepultariella) Leucoscypha p.p. (Sepultariella)
+52,0 $ Pelos bifurcados basalmente;Trichophaeopsis Trichophaeopsis
+52,53 $ Pelos no bifurcados basalmente;;
+53,0 $ Apotecios cupuliformes de más de 1 cm y con esporas verrugosas;Humaria Humaria
+53,54 $ Sin los caracteres anteriores juntos;;
+54,0 $ Esporas no gutuladas, lisa o finamente ornamentadas con gránulos o estrías., pelos flexuosos de pared moderada;Tricharina p.p. Tricharina p.p.
+54,0 $ Esporas gutuladas, lisas o finamente granulares., con pelos rígidos de pared gruesa;Trichophaea Trichophaea
+55,56 $ Receptáculo con pelos pardos o pardo amarillentos;;
+55,61 $ Receptáculo con pelos hialinos o algo amarillentos;;
+56,57 $ Pelos romos y gruesos de 8-20 µm en base y cerca del ápice;;
+56,59 $ Pelos agudos, generalmente más delgados en el ápice., si el ápice es romo, se ensancha el pelo hacia la base;;
+57,0 $ Esporas reticuladas;Melastiza; ;$ Melastiza
+57,58 $ Esporas lisas o sublisas;;
+58,0 $ Paráfisis cilíndricos., crece en zonas quemadas;Anthracobia Anthracobia
+58,0 $ Paráfisis capitados., no crece en zonas quemadas;Pseudaleuria Pseudaleuria
+59,0 $ Pelos pardos que proceden del excípulo medular, radicantes., con esporas ornamentadas;Scutellinia p.p. Scutellinia p.p.
+59,60 $ Pelos pardos o pardo amarillentos, radicantes o no, que proceden del excípulo ectal o de las células marginales., con esporas ornamentadas o lisas;;
+60,0 $ Apotecio con pelos no radicantes ni estrellados que crece en suelo quemado;Tricharina p.p. Tricharina p.p.
+60,0 $ Apotecio con pelos generalmente radicantes, a veces estrellados, que crecen en estiércol o en el suelo no quemado;Cheilymenia p.p. Cheilymenia p.p.
+61,62 $ Apotecio naranja con pelos hifoides, flexuosos y hialinos dispuestos al menos en la zona marginal., esporas no estriadas;;
+61,64 $ Apotecio amarillo, naranja o rojizo con pelos rígidos de pared gruesa, hialinos o amarillentos o bien en el caso de pelos hifoides las esporas son estriadas;;
+62,0 $ Apotecio cupuliforme de hasta 3 mm de diámetro., crece sobre hepáticas como Riccia o Lunularia;Leucoscypha p.p. Leucoscypha p.p.
+62,63 $ Sin los caracteres anteriores juntos;;
+63,0 $ Sobre musgos., con esporas verrugosas o, si son lisas, el apotecio entonces es menor de 4 mm de diámetro;Neottiella Neottiella
+63,0 $ Sobre el suelo desnudo., con esporas lisas., apotecio de 0,4-l,5 cm;Pustularia Pustularia
+64,0 $ Pelos no septados., esporas lisas., apotecios de menos de 1 mm de diámetro;Lasiobolus Lasiobolus
+64,65 $ Pelos septados., esporas lisas u ornamentadas., apotecios de tamaño variable;;
+65,0 $ Apotecio de hasta 0,4 mm de diámetro, esporas verrugosas sin contenido amarillento refringente en un medio con azul de lactofenol;Luciotrichus Luciotrichus
+65,0 $ Apotecio de hasta 12 mm de diámetro, esporas lisas u ornamentadas con contenido amarillo refringente en azul de lactofenol;Cheilymenia p.p. (cf. Neottiella hetieri) Cheilymenia p.p. (cf. Neottiella hetieri)
+66,67 $ Apotecios estipitados que se desarrollan sobre un tejido estromático o un esclerocio;;
+66,75 $ Apotecios, estipitados o no, que no se desarrollan en esclerocios o estromas;;
+67,0 $ Apotecio con pelos pardos muy patentes;Torrendiella Torrendiella
+67,68 $ Apotecio sin pelos;;
+68,69 $ Esclerocio o estroma bien formado., especies parásitas de plantas., con esporas no septadas;;
+68,74 $ Tejido estromático poco delimitado., especies saprobias., con esporas septadas en la madurez;;
+69,70 $ Apotecio que crece sobre un estroma o tejido estromatico;;
+69,71 $ Apotecio que crece sobre un esclerocio;;
+70,0 $ Estroma negro, formado en frutos de Rosaceae o Ericaceae;Monilinia Monilinia
+70,0 $ Tejido estromático negruzco., en frutos de Fagaceae o Cydonia, hojas de Pistacia o Cistaceae,escamas de Abies o amentos de Salicaceae o Betulaceae;Ciboria Ciboria
+71,72 $ Esclerocios lenticulares o cilíndricos., esporas elipsoides o alantoides;;
+7,73 $ l';Esclerocios tuberoides., esporas elipsoides;;
+72,0 $ Esclerocio lenticular., asociado a dicotiledoneas., esporas elipsoides;Botryotinia Botryotinia
+72,0 $ Esclerocio cilíndrico., asociado a monocotiledoneas (Juncaceae, Cyperaceae)., esporas alantoides o elipsoides;Myriosclerotinia Myriosclerotinia
+73,0 $ En Ranunculaceae., excípulo ectal con células embebidas en una matriz gelatinosa., apotecio de 1-3 cm de diámetro;Dumontinia Dumontinia
+73,0 $ En numerosas familias de plantas., excípulo ectal sin matriz gelatinosa., apotecio de hasta 1 cm de diámetro;Sclerotinia Sclerotinia
+74,0 $ Crece sobre los erizos de Castanea., excípulo ectal no gelatinizado;Lanzia;$ Lanzia
+74,0 $ Crece en ramitas, hojas o bellotas de Quercus o bien en ramas de Pinus., excípulo ectal parcialmente gelatinizado;Rutstroemia Rutstroemia
+75,76 $ Receptáculo cubierto de pelos vistosos y patentes que se proyectan fuera de la superficie, al menos en el margen;;
+75,89 $ Receptáculo sin pelos o con pelos hifoides dispersos, o bien derivados de células terminales que no se proyectan respecto al receptáculo;;
+76,77 $ Esporas no septadas o con 1 septo en la madurez;;
+76,88 $ Esporas con más de 2 septos;;
+77,78 $ Pelos lisos., ascas con poro amiloide;;
+77,82 $ Pelos rugosos o con granulación completa o parcial., ascas de poro amiloide o no;;
+78,0 $ Esporas vermiformes, algo sigmoides;Hyalinia Hyalinia
+78,79 $ Esporas de elipsoides a fusoides;;
+79,80 $ Pelos huecos, sin contenido refringente o vidrioso;;
+79,81 $ Pelos macizos o con contenido refringente al menos en el ápice
+80,0 $ Pelos pardos., esporas con 1 septo o no septadas;$ Trichopezizella
+80,0 $ Pelos hialinos., esporas no septadas;$ Hyaloscypha
+81,0 $ Pelos macizos no septados, refringentes o vidriosos, sin tonos púrpuras en Melzer;$ Hyalopeziza
+81,0 $ Pelos huecos y septados, refringentes en el último elemento, con tonos purpuras con Melzer;Olla Olla
+82,0 $ Pelos con al menos el último elemento liso;$ Dasyscyphella
+82,83 $ Pelos completamente granulares o rugosos
+83,0 $ Pelos cilíndricos de pared delgada, rematados con frecuencia por cristales., receptáculo de color blanco con el disco naranja;Capitotricha Capitotricha
+83,84 $ Sin los caracteres anteriores juntos;;
+84,0 $ Pelos cortos de hasta 45 µm , rizados o curvados en el ápice, lisos en la base, con 1-2 septos;$ Cistella
+84,85 $ Sin los caracteres anteriores juntos;;
+85,0 $ En madera de coníferas., apotecio reviviscente;$ Lachnellula
+85,86 $ En madera de planifolios., apotecio no reviviscente;;
+86,0 $ Paráfisis lanceolados;$ Lachnum
+86,87 $ Paráfisis cilíndricos;;
+87,0 $ Esporas no septadas., disco amarillo con receptáculo pardusco;$ Neodasyscypha
+87,0 $ Esporas con 1 septo en la madurez., coloración variada;$ Lasiobelonium
+88,0 $ Ascas sin poro amiloide., esporas fusoides con hasta 15 septos., pelos limitados al margen del receptáculo., crece en madera de coníferas;Ascocalyx Ascocalyx
+88,0 $ Ascas con poro amiloide., esporas aciculares o vermiformes con 1-7 septos., pelos en toda la superficie externa., crece en madera de planifolios;Arachnopeziza Arachnopeziza
+89,90 $ Apotecio discoide o turbinado de carne gelatinosa, a veces traslúcida en fresco;;
+89,94 $ Apotecio opaco en fresco, de carne no gelatinosa;;
+90,91 $ Apotecio discoide o pulvinado con carne traslúcida de hasta 2 mm de diámetro., ascas con;;poro no amiloide
+90,93$ Apotecio discoide o turbinado, no traslúcido, de más de 4 mm de diámetro., ascas con poro amiloide
+91,0 $ Esporas cilíndricas a fusiformes con 5-15 septos;$ Claussenomyces
+91,92 $ Esporas de forma variada, sin septos;;
+92,0 $ Ascas con uncínulo basal., elementos del himenio difíciles de separar;$ Hyalorbilia
+92,0 $ Ascas sin uncínulo basal., elementos del himenio fácilmente separables;$ Orbilia
+93,0 $ Apotecio discoide de color rosa a purpura., esporas hialinas con 1-3 septos;$ Ascocoryne
+93,0 $ Apotecio turbinado de color pardo negruzco a negro., esporas parduscas sin septos;$ Bulgaria
+94,95 $ Apotecio sesil o brevemente estipitado, con el disco de blanco a amarillo y receptáculo glabro concolor., esporas hialinas de elipsoides a fusiformes, asca con poro suave o claramente amiloide., excípulo ectal más o menos gelatinizado;;
+94,96 $ Sin los caracteres anteriores juntos;;
+95,0 $ Apotecios blanquecinos sésiles., asca con anillo apical de paredes paralelas, suavemente amiloides, paráfisis multigutulados;Bisporella Bisporella
+95,0 $ Apotecios blanquecinos o amarillos, sésiles o brevemente estipitados, asca con anillo apical turbinado, con paredes formando una V vistas de perfil, claramente amiloides, paráfisis con gútulas alargadas;Calycina Calycina
+96,97 $ Ascas sin poro amiloide;;
+96,99 $ Ascas con poro amiloide;;
+97,0 $ Esporas con 3-4 septos, de cilíndricas a subfusoides., receptáculo glabro y subestipitado;$ Durella
+97,98 $ Esporas no septadas, de elipsoides a fusoides., con o sin receptáculo glabro;;
+98,0 $ Apotecio estipitado, glabro, con disco convexo que crece en madera sumergida en cursos de agua$ Cudoniella
+98,0 $ Apotecio discoide, receptáculo granular con disco variable que crece en madera no sumergida;Cenangium Cenangium
+99,0 $ Apotecios estipitados de color verde intenso en disco y receptáculo;$ Chlorociboria
+99,100 $ Apotecios estipitados o sésiles de otro color;;
+100,101 $ Esporas con 3 septos., apotecio sésil o subsésil;;
+100,103 $ Esporas no septadas o con 1 septo., apotecio estipitado o sésil;;
+101,0 $ Crece sobre estromas de pirenomicetos., apotecio pulvinado blanco;$ Polydesmia
+101,102 $ Crece en tallos u hojas., apotecio discoide o cupuliforme, blanco o negruzco;;
+102,0 $ En tallos de Dactylisglomerata., apotecio negruzco;$ Chondroderris
+102,0 $ En hojas de Quercus ilex., apotecio blanco;$ Calycellina p.p.
+103,104 $ Esporas parduscas en la madurez., apotécio sésil o subsésil;;
+103,105 $ Esporas siempre hialinas., apotecio sésil o estipitado;;
+104,0 $ En ramas de planifolios., receptáculo granular ocre con disco oliváceo;$ Velutarina
+104,0 $ En suelo bajo Eucalyptus., apotecio amarillo y glabro;$ Phaeohelotium p.p.
+105,106 $ Apotecio discoide y sésil con receptáculo pardusco y disco grisáceo, ocasionalmente con subículo araneoso., esporas fusoides o cilíndricas;;
+105,107 $ Sin los caracteres anteriores juntos;;
+106,0 $ Sobre hojas de Quercus ilex, esporas de 9-12 x 1-2,5 Hm;$ Pyrenopeziza
+106,0 $ Sin los caracteres anteriores juntos;$ Mollisia
+107,0 $ Excípulo ectal con hifas de pared gruesa, en parte embebido en una matriz gelatinosa., r liso o denticulado margen del apotecio;$ Crocicreas
+107,108 $ Excípulo ectal de pared delgada, no embebido en una matriz gelatinosa., margen del apotecio liso;;
+108,0 $ Apotecio sésil o subsésil de color blanco con el receptáculo glabro o pubescente debido a hojas de planifolios o en piñas de Alnus glutinosa pelos hifoides., sobre;$ Calycellina p.p.
+108,109 $ Apotécio sésil o estipitado, glabro, de color variado y sobre substratos muy variados como hojas, tallos, piñas, frutos o madera;;
+109,0 $ Excípulo ectal con base de textura angular, a veces sobre restos de Tamarix;$ Phaeohelotium p.p.
+109,0 $ Excípulo ectal con base de textura prismática, no en Tamarix;$ Hymenoscyphus
+
+
+CS7,0  Clave G
+1,0 $ Mitra formada por alveolos separados por costillas;$ Morchella
+1,2 $ Mitra cerebriforme, en forma de dedal, cabeza, o de silla de montar a caballo;;
+2,3 $ Mitra en el cuarto superior, en forma de dedal o cabeza, a veces rugosa;;
+2,7 $ Mitra cerebriforme o en forma de silla de montar a caballo;;
+3,0 $ Ascoma de color negro con superficie cubierta de pelos;$ Trichoglossum
+3,4 $ Ascoma de otro color, sin pelos;;
+4,0 $ Ascoma que fructifica parcialmente sumergido, mitra de color naranja o amarillo y pie blanquecino y liso;Mitrula Mitrula
+4,5 $ Ascoma diferente;;
+5,0 $ Mitra flabeliforme amarilla, pie blanco;$ Spathularia
+5,6 $ Mitra globosa o en forma de dedal, verde oliváceo o parda., pie de otro color;;
+6,0 $ Cabeza globosa con tonos verde oliváceos y márgenes involutos;$ Leotia
+6,0 $ Mitra en forma de dedal, márgenes no involutos, de tonos ocres o pardos;$ Verpa
+7,0$;Mitra cerebriforme$Gyromitra p.p
+7,8$';Mitra en forma de silla de montar a caballo, con 2-3 lóbulos
+
+8,0 $ Esporas anchamente elípticas con Wm > 9;$ Helvella p.p
+8,0 $ Esporas elípticas con Wm < 9 $ Gyromitra p.p.
+
+CS8,0  Clave H
+
+1,2 $ Basidio en forma de Y
+1,4 $ Basidio de otro modo
+2,0 $ Basidioma en forma de cuerno o ramificado;Calocera $ Calocera
+2,3 $ Basidioma pulvinado, cupuliforme, turbinado o discoide
+3,0 $ Basidioma estipitado con una cabeza fértil naranja y gelatinosa sobre un pie fibroso, mate y amarillento., con hifas no fibuladas;Ditiola $ Ditiola
+3,0 $ Basidioma gelatinoso, pulvinada o discoide con himenio anfígeno., hifas con o sin fíbulas;Dacrymyces $ Dacrymyces
+4,5 $ Basidios con septos transversales o con (proto-) esterigmas septados en la base.
+4,8 $ Basidios con septos longitudinales o algo oblicuos 
+5,0$ ;Basidio cilíndrico con (proto-) esterigmas ovoides septados en su inserción., basidioma resupinado de color violeta a gris claro$Tulasnella
+5,6 $ Basidio con aspecto de peine, con hasta 4 septos transversales., basidioma resupinado o no, de color variado
+6,0 $ Basidio formado a partir de una teliospora., basidioma gregario sobre ramas vivas de Juniperus, en forma de cuerno amarillo anaranjado;Gymnosporangium $ Gymnosporangium
+6,7 $ Basidio formado a partir de hifas generativas., basidioma diferente 
+
+7,0$;Basidioma pileado o cupuliforme de textura gelatinosa., no asociada a cochinillas $Auricularia
+7,0$ Basidioma resupinado no gelatinoso que recubre individuos de cochinillas $ Septobasidium
+8,0 $ Sin fructificación, parásito que crece sobre hongos o líquenes $ Tremella p.p.
+8,9 $ Fructificación visible, de distinto tipo
+9,0 $ Basidioma ramificado no gelatinoso., basidios claviformes con septos longitudinales incompletos en el ápice;Tremellodendropsis $ Tremellodendropsis
+9,10 $ Basidioma no ramificado, gelatinoso o no., basidios con septos completos
+10,0 $ Basidioma petaloide o en forma de lengua, gelatinosa con un pseudopie excéntrico, de color rojo rosado a naranja y de hasta 10 cm de largo;Guepinia $ Guepinia
+10,11 $ Basidioma diferente 
+11,0$ Basidioma corticioide y pileado, coriáceo, con el himenio liso o algo aculeado$Eichleriella
+11,12 $ Basidioma sin píleo diferenciado, generalmente gelatinoso
+12,13 $ Basidioma lobulado, cerebriforme o pulviniforme., gelatinoso
+12,15 $ Basidioma efuso, resupinado., gelatinoso o algo coriáceo
+13,0 $ Basidioma pulvinado hialino con gránulos cristalinos en su interior $ Myxarium
+13,14 $ Sin los caracteres anteriores juntos
+14,0 $ Esporas estrechamente elipsoides, fusiformes o alantoides $ Exidia
+14,0 $ Esporas de esféricas a anchamente elipsoides $ Tremella p.p.
+15,0 $ Basidios con involucros basales derivados de basidios anteriores., sin hifidios ramificados en el himenio., gleo-cistidios con contenido dorado;Basidiodendron $ Basidiodendron
+15,16 $ Basidios sin involucros basales derivados de basidios anteriores., con hifidios ramificados en el himenio., sin gleocistidios
+16,0 $ Hifas sin fíbulas., crece en el suelo $ Sebacina
+16,17 $ Hifas fibuladas., no crece en suelo
+17,0 $ Con cistidios cilíndricos y fasciculados de pared gruesa $ Heterochaetella
+17,18 $ Sin cistidios o ni cilíndricos ni de pared gruesa
+18,0 $ Basidios no pedunculados., esporas alantoides., hifas frecuentemente mineralizadas $ Exidiopsis
+18,0 $ Basidios pedunculados., esporas elipsoides., hifas no mineralizadas $ Stypella
+
+CS9,0  Clave I
+
+1,0 $ Basidioma ausente como tal, parasito de otros hongos a los que causa un crecimiento anormal a modo de tumor o con aspecto cerebriforme $ Syzygospora
+1,2 $ Basidioma cupuliforme o tubular, urceolada o discoide y que recuerda a un apotecio unido dorsalmente al substrato., con himenio liso o levemente rugoso
+2,0 $ Basidioma tubular, en grupos numerosos $ Henningsomyces
+2,3 $ Basidioma cupuliforme, urceolada o discoide, gregaria o cespitosa
+3,4 $ Basidioma cespitoso densamente agrupado., cúpula urceolada y sésil
+3,6 $ Basidioma gregario o aislado., cúpula urceolada o no, pedunculada o sésil
+4,0 $ Con pseudocistidios incrustados amarillos o parduscos $ Campylomyces
+4,5 $ Con hifidios no incrustados hialinos
+5,0 $ Esporas subcilíndricas., pelos con ápice hinchado y con cristales $ Merismodes
+5,0 $ Esporas globosas., cúpula sin pelos, con hifas externas lisas $ Resupinatus p.p. (Stigmatolemma)
+6,0 $ Esporas pardas y subglobosas, finamente verrugosas $ Chromocyphella
+6,7 $ Esporas hialinas, lisas 
+7,8$ Basidioma con pelos ornamentados con cristales o granulaciones
+7,9$;Basidioma sin pelos o con éstos no ornamentados
+
+8,0 $ Pelos con cristales aciculares o rómbicos patentes, en una especie con ápice agudo o filiforme sin cristales., basidios con 2 o 4 esterigmas$ Flagelloscypha
+8,0 $ Pelos con cristales granulares o finamente aciculares, ápice romo, tan ancho como en la base y con cristales., basidios con (2-)4 esterigmas$ Lachnella
+9,0 $ Cúpula claramente pedunculada, hifas terminales nodulosas $ Calyptella
+9,10 $ Cúpula no pedunculada, hifas terminales diferentes
+10,0 $ Hifas no fibuladas $ Arrhenia p.p.
+10,11 $ Hifas fibuladas
+11,0 $ Esporas cilíndricas., basidioma de hasta 15 mm de diámetro con la ., gruesa con septos secundarios superficie tomentosa, con pelos de pared $Schizophyllump.p. (Auriculariopsis)
+11,12 $ Esporas globosas o lacrimoides., basidioma de 1-3 mm de diámetro, glabro
+12,0 $ Esporas de 7-8 x 6-8 µm $ Glabrocyphella
+12,13 $ Esporas más pequeñas
+13,0 $ Esporas de 5-5,5 x 4-5 µm , en madera, de color pardo a gris $ Resupinatus p.p.
+13,0 $ Esporas de 5-7 x 4,5-5,5 µm µm , muscícola, de color blanco $ Rimbachia
+
+CS10,0  Clave J
+
+1,2 $ Basidioma que recuerda a un hongo agaricoide, con pie más o menos desarrollado y píleo, pero con láminas en general poco individualizadas o formadas, con frecuencia anastomosadas y ramificadas entre sí;;
+1,7$ Basidioma sin láminas pero con himenio en una gleba definida, a veces forman cámaras
+2,3 $ Pie con volva o estructura volviforme., en zonas áridas;;
+2,4 $ Pie sin volva., en prados, dunas costeras o bosques;;
+3,0 $ Pie macizo, láminas comprimidas y ramificadas entre si, el píleo cubre las láminas., esporas con Lm < 7 µm ;Agaricus p.p. (Gyrophragmium) Agaricus p.p. (Gyrophragmium)
+3,0 $ Pie hueco, láminas separadas entre si, el píleo cubre la zona central de las láminas., esporas con Lm > 11 µm ;Montagnea Montagnea
+4,0 $ Carne con esferocistos., esporas amiloides ornamentadas;Macowanites Macowanites
+4,5 $ Carne sin esferocistos., esporas no amiloides, ornamentadas o lisas;;
+5,0 $ Basidioma esbelto con un píleo estrechamente cónico o fusiforme, replegado sobre el pie y de hasta 5 mm de diámetro;Galeropsis Galeropsis
+5,6 $ Sin los caracteres anteriores juntos;;
+6,0 $ Esporas lisas oliváceas., píleo más o menos escamoso de hasta 8 x 5 cm, de color blanco a ocre, apuntado en el centro., crece en prados;Chlorophyllum p.p. Chlorophyllum p.p.
+6,0 $ Esporas ornamentadas parduscas., píleo liso de hasta 3 cm de diámetro, pardo o cobrizo, convexo., crece bajo Eucalyptus;Setchelliogaster Setchelliogaster
+7,8 $ Gleba gelatinosa de color verde oliváceo con olor a carroña o a guayaba;;
+7,14 $ Gleba no gelatinosa con olor diferente;;
+8,9 $ Basidioma que emerge de una volva., con cabeza, retículo o brazos, ocasionalmente con pie o pseudopie diferenciado;;
+8,0 $ Basidioma piriforme que se resquebraja para exponer la gleba;Phallogaster Phallogaster
+9,10 $ Basidioma estipitado, con un pie esponjoso y hueco., gleba en el ápice o en un receptáculo con alveolos;;
+9,11 $ Basidioma estipitado o sésil., receptáculo reticulado o con brazos dispuestos sobre un pie;;
+10,0 $ Receptáculo apical con alveolos sobre el que se sitúa la gleba;Phallus Phallus
+10,0 $ Gleba situada directamente sobre el ápice del pie;Mutinus Mutinus
+11,0 $ Basidioma estipitado con 5-8 brazos que se abren al madurar;Lysurus Lysurus
+11,12 $ Basidioma con un receptáculo reticulado, al menos en parte;;
+12,13 $ Retículo completo y amplio;;
+12,0 $ Reticulo pequeño y limitado a la zona superior, suspendido por 4-8 brazos;Colus Colus
+13,0 $ Retículo de rojo a rosa anaranjado que no se desprende de la volva;Clathrus Clathrus
+13,0 $ Retículo blanco que se desprende de la volva al madurar;Ileodictyon Ileodictyon
+14,0 $ Basidioma frágil con volva, pie y cabeza fértil con gleba blanca compartimentada en cámaras, no pulverulenta;Amanita p.p. (Torrendia) Amanita p.p. (Torrendia)
+14,15 $ Sin los caracteres anteriores juntos;;
+15,16 $ Basidioma coriáceo o leñoso con pie y cabeza fértil diferenciada;;
+15,19 $ Basidioma no leñoso diferente, estrellado, globoso, piriforme o cupuliforme;;
+16,17 $ Peridio que se desintegra exponiendo así la gleba;;
+16,18 $ Peridio que se abre en estrella o se perfora para exponer la gleba;;
+17,0 $ Gleba con eláteres., pie robusto y escamoso con volva basal;Battarrea Battarrea
+17,0 $ Gleba sin eláteres., pie continuo con el peridio, sin volva basal;Phellorinia Phellorinia
+18,0 $ Peridio que se desgarra y abre de forma estrellada;Schizostoma Schizostoma
+18,0 $ Peridio que se abre por un poro;Tulostoma Tulostoma
+19,20 $ Fructificación con gleba compartimentada en peridiolos situados en un receptáculo cupuliforme;;
+19,21 $ Fructificación estrellada o subglobosa con gleba única;;
+20,0 $ Receptáculo amarillo o naranja con epifragma formado por hifas espinosas;Crucibulum Crucibulum
+20,0 $ Receptáculo pardo, gris o negruzco con epifragma formado por hifas no espinosas;Cyathus Cyathus
+21,0 $ Gleba expulsada de modo violento., basidioma estrellado de color naranja y de hasta 2 mm de diámetro tras la expulsión de la gleba;Sphaerobolus Sphaerobolus
+21,22 $ Gleba que permanece en la fructificación., basidioma estrellado o no, de más de 5 mm de diámetro;;
+22,0 $ Basidioma globoso con peridio grueso y duro., dehiscencia por desgarro apical, en forma de estrella o irregular., gleba de color violeta o gris púrpura, sin capilicio;Scleroderma Scleroderma
+22,23 $ Sin los caracteres anteriores juntos;;
+23,0 $ Endoperidio grueso, coriáceo, de hasta 4 mm de grosor, que se abre en estrella., capilicio espinoso;Mycenastrum Mycenastrum
+23,24 $ Endoperidio fino, membranoso o papiráceo que no se abre en estrella, aunque el exoperidio en ocasiones puede hacerlo de ese modo., capilicio no espinoso o ausente;;
+24,25 $ Basidioma estrellado en la madurez por dehiscencia del exoperidio que expone un endoperidio globoso perforado o rara vez con la gleba expuesta en su totalidad por desintegración del endoperidio;;
+24,27 $ Basidioma subgloboso o piriforme que se abre mediante un poro o bien por desgarro o desintegración del peridio;;
+25,26 $ Endoperidio con poro apical único o rara vez con gleba expuesta sin endoperidio.;;
+25,0 $ Endoperidio con numerosos poros;Myriostoma Myriostoma
+26,0 $ Gleba con columela;Geastrum Geastrum
+26,0 $ Gleba sin columela;Astraeus Astraeus
+27,28 $ Gleba con pseudoperidiolos o compartimentada en grupos compactos;;
+27,29 $ Gleba homogénea;;
+28,0 $ Gleba con pseudoperidiolos patentes que se desintegran al madurar;Pisolithus Pisolithus
+28,0 $ Gleba compartimentada, formando grupos compactos de esporas;Arachnion Arachnion
+29,0 $ Capilicio sinuoso que se fragmenta en los septos., exoperidio a modo de casquete apical que posiciona al revés la fructificación cuando madura, con el poro basal hacia arriba para dispersar las esporas;Disciseda Disciseda
+29,30 $ Capilicio y fructificación diferente;;
+30,31 $ Dehiscencia por desintegración generalizada del endoperidio;;
+30,32 $ Dehiscencia por apertura de un poro o por desgarro apical irregular;;
+31,0 $ Capilicio sin septos;Lycoperdon p.p. (Handkea) Lycoperdon p.p. (Handkea)
+31,0 $ Capilicio septado;Calvatia Calvatia
+32,33 $ Sin subgleba o bien reducida y compacta;;
+32,34 $ Con subgleba celular patente;;
+33,0 $ Espora con pedicelo de menos de 2 micras de largo, sin subgleba, capilicio de tipo Lycoperdon con poros de hasta 0,5 µm ;Lycoperdon p.p. Lycoperdon p.p.
+33,0 $ Sin los caracteres anteriores juntos;Bovista Bovista
+34,35 $ Con diafragma o pseudodiafragma que divide gleba y subgleba., capilicio con extremos atenuados o poco desarrollado y con paracapilicio;;
+34,0 $ Sin diafragma, capilicio sin extremos atenuados;Lycoperdon p.p. Lycoperdon p.p.
+35,0 $ Pseudodiafragma., dehiscencia por desgarro apical., capilicio con extremos atenuados;Bovistella Bovistella
+35,0 $ Diafragma patente., dehiscencia por un poro apical., capilicio ausente o poco desarrollado y con paracapilicio;Vascellum Vascellum
+
+CS11,0  Clave K
+1,2 $ Basidioma ramificado;;
+1,10 $ Basidioma claviforme o subulado;;
+2,3 $ Ramas con acúleos;;
+2,4 $ Ramas lisas;;
+3,0 $ Ramas bien definidas., basidioma con aspecto de coral;$ Hericium p.p.
+3,0 $ Ramas aplanadas, flabeladas, con frecuencia laciniadas., basidioma con aspecto de coliflor;$ Hydnopolyporus
+4,0 $ Esporas pardas, tuberculadas o espinosas;$ Thelephora p.p.
+4,5 $ Esporas amarillas o hialinas, verrugosas, espinosas o lisas;;
+5,0 $ Ramas flabeliformes y planas con apice laminar y ondulado., basidioma con aspecto de coliflor que crece en madera o raíces enterradas;Sparassis Sparassis
+5,6 $ Ramas de sección cilindrica., basidioma coraloide en madera o en suelo;;
+6,0 $ Esporas ornamentadas de color naranja o amarillo en masa., hifas con septos ampuliformes presentes;Ramaria Ramaria
+6,7 $ Esporas lisas u ornamentadas de color blanco en masa., hifas sin septos ampuliformes;;
+7,0 $ Basidios bispóricos con esterigmas corniculados., esporas globosas y lisas;$ Clavulina
+7,8 $ Basidios tetraspóricos presentes., esporas globosas o de otra forma, lisas o no;;
+8,0 $ Hifas esqueléticas presentes;$ Pterula p.p.
+8,9 $ Sin hifas esqueléticas;;
+9,0 $ Esporas finamente aculeadas;$ Ramariopsis
+9,0 $ Esporas lisas;$ Clavulinopsis p.p.
+10,0 $ Hifas esqueléticas presentes;$ Pterula p.p.
+10,11 $ Sin hifas esqueléticas;; 
+11,0$;Basidioma robusto que torna verde con sales de hierro., hifas con septos ampuliformes presentes;Clavariadelphus;; Clavariadelphus
+11,12 $ Basidioma delicado sin reacción con sales de hierro., hifas sin septos ampuliformes;;
+12,0 $ Esclerocio presente, o si ausente entonces lignícola o foliicola;$ Typhula
+12,13 $ Sin esclerocio, terrestre;;
+13,0 $ Hifas no fibuladas, ocasionalmente basidios fibulados., ocasionalmente septos secundarios;Clavaria Clavaria
+13,0 $ Hifas y basidios fibulados., sin septos secundarios;$ Clavulinopsis p.p.
+
+
+
+CS12,0  Clave L
+
+com$ Hongos Agaricoides con PieClave L Hongos Agaricoides con Pie(Las referencias de colores para la esporada son orientativas, ya que pueden variar en función dela humedad o de la densidad de la esporada y de la temperatura de color de la pantalla., de todosmodos se han repetido algunos géneros para facilitar la identificación).
+1,2 $ Carne granular, contexto con células esféricas
+1,4 $ Carne fibrosa, contexto sin células esféricas
+2,3 $ Basidioma que rezuma látex al corte
+2,0 $ Basidioma que no rezuma látex al corte $ Russula
+3,0 $ Píleo con superficie seca no zonada, con pelos densos de pared gruesa $ Lactifluus
+3,0 $ Píleo zonado y/o viscoso $ Lactarius
+4,5 $ Esporada blanca o blanquecina de tonos variados muy pálidos
+4,104 $ Esporada de color saturado, generalmente pardo, ferruginoso, negro o rosa;;
+5,6 $ Láminas libres o separadas del pie por un collarium
+5,19 $ Láminas de otro modo
+6,0 $ Láminas separadas del pie por un collarium $ Marasmius p.p.
+6,7 $ Láminas libres sin collarium
+7,0 $ Píleo viscoso., pie sin volva y viscoso al menos en la zona infraanular en tiempo húmedo., esporas ovoides o subglobosas, lisas o finamente verrugosas y parcialmente dextrinoides $ Limacella
+7,8 $ Sin los caracteres anteriores juntos
+8,9 $ Esporas dextrinoides., con anillo persistente o fugaz, o con zona anular delimitada bajo la cual
+8,14 $ Esporas amiloides o sin reacción con Melzer., con o sin anillo
+9,10 $ Anillo persistente membranoso, con frecuencia doble., píleo de más de 5 cm de diámetro y de color blanco, no sedoso, con escamas y placas parduscas patentes., pie cebrado o liso., con hifas terminales agrupadas., esporas con poro germinativo
+9,11 $ Sin los caracteres anteriores juntos
+10,0 $ Carne que enrojece al corte., pie liso $ Chlorophyllum p.p.
+10,0 $ Carne inmutable., pie cebrado o liso $ Macrolepiota
+11,12 $ Hifas con fibulas presentes en mayor o menor grado., espora sin poro germinativo
+11,13 $ Hifas sin fibulas., espora con o sin poro germinativo
+12,0 $ Velo formado por elementos globosos concatenados que forman escamas piramidales $ Echinoderma
+12,0 $ Velo formado por elementos cilíndricos, fusiformes o claviformes., en general se disponen en escamas concéntricas, más densas hacia el interior $ Lepiota
+13,0 $ Basidioma carnoso y robusto por lo general., píleo con margen no estriado., algunas especies enrojecen o tornan verdes en láminas con vapor de amoniaco $ Leucoagaricus
+13,0 $ Basidioma delgado por lo general., píleo con margen parcialmente estriado., sin reacción con amoniaco en láminas $ Leucocoprinus
+14,15 $ Píleo granular debido a la presencia de esferocistos en pileipellis
+14,17 $ Píleo no granular
+15,0 $ Esporas amiloides $ Cystoderma
+15,16 $ Esporas no amiloides
+16,0 $ Fructificación naranja o pardo vinosa., anillo envainante $ Cystodermella
+16,0 $ Fructificación blanquecina., anillo no envainante $ Cystolepiota
+17,0 $ Sin volva., anillo envainante con frecuente condensación de gotas en la parte inferior., pileipellis de tipo himenodermis., esporas no amiloides$ Chamaemyces
+17,18 $ Con volva o al menos restos del velo a modo de escamas o verrugas en la base del pie., anillo no envainante., pileipellis diferente., esporas amiloides o no amiloides
+18,0 $ Basidioma saprobio con pie radicante y volva escamosa., esporas amiloides $ Aspidella
+18,0 $ Basidioma micorrizógeno con pie diferente., esporas amiloides o no amiloides $ Amanita p.p.
+19,20 $ Esporas amiloides
+19,35 $ Esporas dextrinoides o no amiloides
+20,21 $ Esporas verrugosas o finamente verrucosas
+20,24 $ Esporas lisas
+21,0 $ Pie excéntrico, láminas con arista aserrada o crenulada., esporas finamente verrucosas$ Lentinellus p.p.
+21,22 $ Sin los caracteres anteriores juntos
+22,0 $ Láminas persistentes al roce., hifas sin fíbulas., generalmente con cistidios urticiformes, lageniformes o fusiformes, rara vez ausentes$ Melanoleuca
+22,23 $ Láminas que se desprenden con facilidad al roce., hifas fibuladas., sin cistidios
+23,0 $ Láminas rosadas $ Pseudoclitopilus
+23,0 $ Láminas blancas $ Leucopaxillus
+24,0 $ Hifas sin fibulas., píleo embudado y láminas decurrentes $ Pseudoclitocybe
+24,25 $ Hifas con fibulas presentes en mayor o menor grado., porte variado
+25,0 $ Con anillo y escamas amarillas en píleo y zona infraanular $ Floccularia
+25,26 $ Sin anillo ni escamas amarillas
+26,0 $ Lignícola., superficie del píleo sedosa o rimosa con pelos finos dispuestos radialmente., trama no amiloide., láminas emarginadas o sublibres$ Leucoinocybe
+26,27 $ Sin los caracteres anteriores juntos
+27,0 $ Fructificación robusta y blanca, tricolomatoide o clitociboide, de más de 10 cm de diámetro., láminas que se desprenden con facilidad al roce$ Aspropaxillus
+27,28 $ Fructificación de hasta 5 cm., láminas variadas
+28,0 $ Fructificación onfalinoide con píleo de 1-5 cm de diámetro., pileipellis sin elementos diverticulados, trama no dextrinoide., sin cistidios$ Pseudoomphalina
+28,29 $ Sin los caracteres anteriores juntos
+29,0 $ Fructificación micenoide y blanca, algo traslúcida, con láminas reducidas o que no llegan en ocasiones al margen del píleo, sin cistidios$ Delicatula
+29,30 $ Sin los caracteres anteriores juntos
+30,31 $ Contexto del pie con sistema de hifas sarcodimítico
+30,33 $ Contexto del pie con sistema de hifas monomítico
+31,0 $ Crece sobre piñas., porte colibioide $ Baeospora
+31,32 $ Crece en madera o en humus., porte onfalinoide o micenoide
+32,0 $ Porte onfalinoide., pie con tomento basal pardo o anaranjado $ Xeromphalina
+32,0 $ Porte micenoide., pie con tomento basal blanco o sin tomento $ Mycopan
+33,0 $ Pileipellis himeniforme., pie glutinoso $ Roridomyces
+33,34 $ Pileipellis no himeniforme., pie seco o glutinoso
+34,0 $ Porte onfalinoide., crecimiento en areas quemadas., pileipellis de tipo ixocutis con elementos lisos$ Myxomphalia
+34,0 $ Porte micenoide a onfalinoide., hábitat diferente., pileipellis variada $ Mycena p.p.
+35,36 $ Crece sobre viejos carpóforos de hongos
+35,38 $ Hábitat diferente
+36,0 $ Pie con numerosas proyecciones capituladas y patentes $ Dendrocollybia
+36,37 $ Pie liso
+37,0 $ Con esclerocios, o si no los tiene entonces con la base del pie estrigosa y blanca., sin clamidosporas$ Collybia
+37,0 $ Sin esclerocios, pie no estrigoso; con clamidosporas producidas en el pileo o en las laminas $ Asterophora
+38,39 $ Esporas verrugosas o espinosas
+38,44 $ Esporas lisas
+39,40 $ Basidioma de tamaño medio a grande, carnoso., de porte tricolomoide o clitociboide con la superficie del píleo glabra
+39,42 $ Basidioma de pequeño tamaño, delicado., de porte micenoide en general y con la superficie del píleo glabra o afieltrada
+40,0 $ Con restos de velo a modo de anillo rudimentario., con basidios siderófilos., fructificación blanca$ Tricholomella
+40,41 $ Sin anillo., basidios no siderófilos., fructificación de color variado
+41,0 $ Píleo infundibuliforme de color naranja, esporada blanca $ Paralepista
+41,0 $ Píleo de otro modo, esporada pálidamente coloreada $ Lepista p.p.
+42,0 $ Superficie del píleo afieltrada, sobre todo al secar., fructificación naranja, violeta o rosada con láminas gruesas., esporas espinosas$ Laccaria
+42,43 $ Superficie del píleo lisa., fructificación pardusca., esporas verrugosas
+43,0 $ Esporas finamente verrugosas., pileipellis de tipo cutis o ixocutis con hifas cilíndricas$ Gamundia
+43,0 $ Esporas con verrugas gruesas., pileipellis con hifas nodulosas o ramificadas y entrelazadas $ Mycenella
+44,45 $ Láminas relativamente gruesas y espaciadas, decurrentes o más o menos libres, con arista entera y con frecuencia con tacto graso., con carne frágil., esporas elipsoides o subglobosas y no dextrinoides., sin anillo cor-tiniforme en la juventud (Hygrohoraceae)
+44,51$ Sin los caracteres anteriores juntos 
+45,0 $ Pileipellis himeniforme no gelificada $ Camarophyllopsis
+45,46 $ Pileipellis cuticular o tricodérmica, con frecuencia gelificada
+46,0 $ Hifas no fibuladas $ Chrysomphalina
+46,47 $ Hifas fibuladas
+47,48 $ Basidioma saprobio, mediano o pequeño con aspecto céreo y de colores vivos, generalmente higrófano, píleo seco o mucilaginoso., trama en las láminas paralela
+47,49 $ Sin los caracteres mencionados juntos
+48,0 $ Basidioma de color verde $ Gliophorus
+48,0 $ Basidioma de color rojo, naranja o amarillo $ Hygrocybe
+49,50 $ Basidioma saprobio., trama de las láminas paralela o irregular
+49,0 $ Basidioma micorrizógeno., trama de las láminas divergente $ Hygrophorus
+50,0 $ Píleo algo viscoso y de color pardo., carne que enrojece y con olor nitroso., trama de las láminas paralela$ Neohygrocybe
+50,0 $ Píleo seco, de color pardo, albaricoque pálido o blanco., cane inmutable sin olor nitroso., trama de las láminas irregular$ Cuphophyllus
+51,0 $ Pie excéntrico., láminas decurrentes blanquecinas y margen del píleo involuto., crece sobre restos de umbelíferas$ Pleurotus p.p.
+51,52 $ l';Sin los caracteres mencionados juntos
+52,53 $ Pie con anillo membranoso o fibroso y cortiniforme
+52,55 $ Pie sin anillo
+53,0 $ Con anillo cortiniforme en la juventud., láminas decurrentes $ Cleistocybe
+53,54 $ Con anillo membranoso., láminas adnatas o escotadas
+54,0 $ Sobre madera viva o muerta, raíces o restos leñosos., rizomorfos negros., superficie del píleo con escamas piramidales en el centro$ Armillaria p.p.
+54,0 $ Micorrizógeno, en suelo., sin rizomorfos o de color blanco., superficie del píleo sin escamas o con escamas no piramidales$ Tricholoma p.p.
+55,56 $ Láminas bifurcadas o anastomosadas., no rudimentarias., porte clitociboide
+55,57 $ Láminas no bifurcadas., si anastomosadas entonces rudimentarias., porte variado
+56,0 $ Esporas no dextrinoides., hifas no fibuladas., láminas blancas $ Cantharellopsis
+56,0 $ Esporas dextrinoides., hifas fibuladas., láminas naranjas $ Hygrophoropsis
+57,58 $ Pileipellis himeniforme
+57,64 $ Pileipellis de cuticular a tricodérmica
+58,0 $ Basidioma colibioide que crece sobre piñas., hifas no fibuladas $ Strobilurus
+58,59 $ Basidioma que no crece sobre piñas., hifas fibuladas al menos en parte
+59,0 $ Basidios siderófilos., basidioma carnoso tricolomoide con láminas amarillas $ Calocybe p.p.
+59,60 $ Basidios no siderófilos., basidioma variado con láminas no amarillas
+60,61 $Basidioma colibioide con pie muy largo y radicante., píleo más o menos viscoso o, si seco, entonces con pie tomentoso
+60,63 $ o';Basidioma diferente
+61,0 $ l;Pie tomentoso con pelos pardos y píleo seco $ Xerula
+61,62 $ Pie no tomentoso y píleo más o menos viscoso
+62,0 $ Láminas gruesas y espaciadas, subdecurrentes $ Laccariopsis
+62,0 $ Láminas diferentes, escotadas o emarginadas $ Hymenopellis
+63,0 $ Basidioma carnoso de porte tricolomoide., láminas bien formadas y numerosas., elementos de la pellis piriformes y lisos., esporas en parte dextrinoides$ Dermoloma
+63,0 $ Basidioma no carnoso de porte colibioide o micenoide., láminas generalmente espaciadas, a veces escasas y rudimentarias., elementos de la pellis a veces diverticulados o espinosos., esporas no dextrinoides$ Marasmius p.p.
+64,0 $ Sobre madera., basidioma carnoso y clitociboide de color blanco., pileipellis con elementos ramificados o no-dulosos y entrelazados., esporas ovoides o subglobosas$ Ossicaulis
+64,65 $ Sin los caracteres mencionados juntos
+65,66 $ Basidios siderófilos
+65,70 $ Basidios no siderófilos
+66,0 $ Crece sobre madera de planifolios $ Hypsizygus
+66,67 $ No crece en madera
+67,0 $ Basidioma con carne escasa, colibioide, con láminas grisáceas y mechones blancos sobre la parte alta del pie., con frecuencia en zonas quemadas$ Tephrocybe (Lyophyllum p.p.)
+67,68 $ Sin los caracteres mencionados juntos., con porte colibioide o tricolomoide
+68,0 $ Basidioma de color blanco y crecimiento connato, con carne cartilaginosa$ Leucocybe p.p.
+68,69 $ Sin los caracteres anteriores juntos
+69,0 $ Basidioma con carne ennegreciente o con carne cartilaginosa-elástica o con crecimiento en grupos fascicu-lados o con porte colibioide., de color pardo o gris$ Lyophyllum
+69,0 $ Basidioma que ni ennegrece, ni crece en grandes grupos fasciculados ni tiene carne elástica., con porte trico-lomoide y de color blanco, amarillo o rosado$ Calocybe p.p.
+70,71 $ Basidioma carnoso clitociboide u onfalinoide con láminas decurrentes y no ascendentes., no crece sobre madera., píleo generalmente deprimido o embudado., pileipellis sin elementos diverticulados
+70,81 $ Sin los caracteres mencionados juntos
+71,72 $ Basidioma carnoso de tamaño medio o grande., generalmente con píleo mayor de 2 cm de diámetro o si inferior entonces con la trama de las láminas paralela., margen del píleo en general no estriado por transparencia (Clitocybe s.l.)
+71,77 $ Basidioma pequeño., píleo de hasta 2(-3,5) cm de diámetro., margen del píleo con frecuencia estriado por transparencia
+72,0 $ Base del pie bulbosa., píleo no deprimido y con un mamelón central$ Ampulloclitocybe
+72,73 $ Sin los caracteres mencionados juntos
+73,0 $ Pileipellis con fisalidas, olor que recuerda al de un gallinero$ Singerocybe
+73,74 $ Pileipellis sin fisálidas, olor diferente
+74,0 $ Pie con rizoides basales conspicuos, especie vernal$ Rhizocybe
+74,75 $ Pie sin rizoides basales, especies otoñales o vernales
+75,0 $ Esporas subfusoides, láminas grisáceas, especie calcícola;Atractosporocybe $ Atractosporocybe
+75,76 $ Sin los caracteres mencionados juntos
+76,0 $ Espora con la pared cianófila que suele formar tétradas y se colapsa con facilidad., micelio que reduce nitratos$ Clitocybe p.p. (cf. Leucocybe candicans)
+76,0 $ Espora con pared cianófoba que no suele formar tétradas ni se colapsa con facilidad., el micelio no es capaz de reducir el nitrato$ Infundibulicybe
+77,0 $ Hifas no fibuladas., especies liquenizadas$ Lichenomphalia
+77,78 $ Hifas fibuladas al menos en parte., especies no liquenizadas, con frecuencia muscícolas
+78,0 $ Con caulo-, pleuro-, queilo- y píleocistidios conspicuos$ Rickenella
+78,79 $ Sin cistidios o solo con queilocistidios
+79,0 $ Con queilocistidios lageniformes., fructificación rosa o naranja$ Contumyces
+79,80 $ Sin cistidios o con células marginales poco diferenciadas., fructificación grisácea, pardusca o naranja
+80,0 $ Basidioma con tonos pardos o naranjas., láminas bien desarrolladas., hifas fibuladas$ Omphalina
+80,0 $ Basidioma con tonos grisáceos., láminas a veces rudimentarias., hifas fibuladas o no fibuladas$ Arrhenia p.p.
+81,0 $ Porte colibioide con píleo y pie provistos de largos pelos de pared gruesa, setiformes y dextrinoides$ Crinipellis
+81,82 $ Basidioma variable con píleo sin pelos setiformes
+82,83 $ Porte de micenoide a omfalinoide con un píleo de hasta 2 cm de diámetro, con pie frágil., pileipellis con elementos diverticulados, sin olor desagradable de col podrida
+82,86 $ Sin los caracteres mencionados juntos
+83,0 $ Trama dextrinoide$ Mycena p.p.
+83,84 $ Trama no dextrinoide
+84,0 $ Píleo de color blanco puro, algo traslúcido., láminas desarrolladas o rudimentarias y escasas$ Hemimycena p.p
+84,85 $ Píleo de color rojo, naranja, pardusco, amarillo o marfil., láminas bien desarrolladas
+85,0 $ Píleo de tonos parduscos o blanco parduscos., queilocistidios claviformes o cilíndricos, a veces flexuosos y/o nodulosos $ Phloeomana
+85,0 $ Píleo de color rojo, naranja, amarillo o marfil., queilocistidios fusiformes$ Atheniella
+86,0 $ Porte colibioide con tonos oliváceos., hifas no fibuladas., en las preparaciones acuosas al microscopio hay gránulos de pigmentación parda (necropigmento) en diferentes estructuras como esporas, basidios o hifas y que tornan a rojo o lila en presencia de KOH$ Callistosporium
+86,87 $ Sin los caracteres mencionados juntos
+87,88 $ Crecimiento en humus o en el suelo
+87,92 $ Crecimiento sobre madera
+88,0 $ Porte micenoide de color blanco puro$ Hemimycena p.p.
+88,89 $ Porte tricolomoide, colibioide o clitociboide., de color variado
+89,90 $ Basidioma carnoso, de porte tricolomoide o clitociboide
+89,91 $ Basidioma poco carnoso, de porte colibioide
+90,0 $ Píleo convexo, a veces mamelonado y generalmente con fibrillas radiales, finamente escamoso o tomentoso., láminas escotadas., pileipellis generalmente con hifas no fibuladas$ Tricholoma p.p
+90,0 $ Píleo con frecuencia deprimido y sin fibrillas radiales ni escamas., láminas de adnatas a decurrentes., pileipellis con hifas fibuladas$ Clitocybe p.p..
+91,0 $ Esporada en general de color blanco rosado., esporas parcialmente dextrinoides., pileipellis cuticular$ Rhodocollybia
+9,0 $ l';Esporada blanca., esporas no dextrinoides., pileipellis cuticular o formada por hifas ramificadas, dendroides y entretejidas$ Gymnopus p.p.
+92,0 $ Fructificación no carnosa de tamaño pequeño a mediano, con píleo blanco y pie coriáceo, más oscuro hacia la base., con láminas adnatas o decurrentes, frecuentemente espaciadas y nerviadas., pileipellis con elementos diverticulados$ Marasmiellus p.p.
+92,93 $ Sin los caracteres mencionados juntos
+93,0 $ Píleo pardo de 5-11 cm de diámetro, pie blanco con rizomorfos gruesos., trama del pie sarcodimítica$ Megacollybia
+93,94 $ Sin los caracteres mencionados juntos
+94,95 $ Basidioma con píleo carnoso, de porte tricolomoide o clitociboide
+94,100 $ Basidioma con píleo poco carnoso y pie largo, de porte colibioide o micenoide
+95,96 $ En madera de planifolios
+95,99 $ En madera de coníferas
+96,0 $ Carne coriácea., sistema de hifas dimítico., arista aserrada$ Lentinus p.p.
+96,97 $ Carne fibrosa., sistema de hifas monomítico., arista entera
+97,0 $ Basidioma naranja de porte clitociboide., pie excéntrico y láminas decurrentes$ Omphalotus
+97,98 $ Basidioma ocre, asalmonado o blanco con porte clitociboide o tricolomoide., pie central y láminas decurrentes, adnatas o escotadas
+98,0 $ Basidioma gregario o fasciculado., de color blanco y porte clitociboide., píleo liso$ Clitocybe p.p.
+98,0 $ Basidioma fasciculado en grupos muy numerosos., de color ocre o asalmonado y de porte tricolomoide., píleo finamente escamoso$ Armillaria p.p.
+99,0 $ Píleo finamente escamoso con escamitas de color púrpura o rosa violáceo., láminas escotadas., carne fibrosa., sistema de hifas monomítico$ Tricholomopsis
+99,0 $ Píleo sin escamas purpúreas., láminas adnatas o decurrentes por un diente., carne coriácea., sistema de hifas dimítico$ Neolentinus
+100,0 $ Porte micenoide., pie con diminutos gránulos negros $ Hydropus
+100,101$;Porte colibioide., pie tomentoso o liso, sin gránulos negros
+101,0 $ Basidioma de color blanco puro., gleocistidios e hifas secretoras presentes $ Lactocollybia
+101,102$;Basidioma de otro color., gleocistidios ausentes
+102,0 $ Pie enteramente tomentoso y píleo mucilaginoso $ Flammulina
+102,103 $ Pie glabro, ocasionalmente tomentoso en la base, píleo seco o untuoso
+103,0 $ En grupos numerosos y fasciculados sobre madera de coníferas $ Connopus
+103,0 $ Gregario o en grupos fasciculados sobre madera de planifolios$ Gymnopus p.p..
+104,105 $ Esporada de color rosa o pardo rosada
+104,117 $ Esporada de otro color
+105,106 $ Pie con volva membranosa
+105,107 $ Pie sin volva membranosa 
+106,0 $ Superficie del píleo viscosa $ Volvopluteus
+106,0 $ Superficie del píleo seca, fibrosa $ Volvariella
+107,0$Esporas angulosas y lisas$Entoloma
+107,108$';Esporas no angulosas, ornamentadas o lisas
+108,109 $ Esporas ornamentadas con verrugas, espinas o costillas, a veces tenues
+108,116 $ Esporas lisas
+109,0 $ Esporas con costillas longitudinales $ Clitopilus
+109,110 $ Esporas (sub-) verrugosas o espinosas
+110,111 $ Hifas no fibuladas
+110,113 $ Hifas con fíbulas
+111,0 $ Esporas con ornamentación patente en vista polar $ Rhodocybe
+111,112 $ Esporas subverrugosas o sublisas en vista polar
+112,0 $ Esporas de pared delgada, de menos de 0,5 µm , sin cistidios $ Clitocella
+112,0 $ Esporas de pared gruesa > 0,5 µm , con queilocistidios $ Clitopilopsis
+113,0 $ Sobre madera., píleo con cutícula de textura elástica y pliegues $ Rhodotus
+113,114 $ En suelo o humus., píleo diferente
+114,0 $ Esporas rugosas o subcrestadas, algo angulosas., láminas adnatas o decurrentes por un diente., fructificación de color naranja o amarillo pardusco$ Rhodophana
+114,115 $ Sin los caracteres mencionados juntos
+115,0 $ Esporas finamente espinosas o verruculosas., esporada rosa pálido., píleo ocasionalmente blanquecino y sin mechones en el margen., láminas adnatas o escotadas, rara vez subdcurrentes$ Lepista p.p.
+115,0 $ Esporas con verrugas o acúleos patentes., esporada rosa pardusco., píleo blanquecino y ocasionalmente con mechones en el margen., láminas subdecurrentes$ Ripartites
+116,0 $ En el suelo., láminas adnatas o escotadas., esporas en parte dextrinoides., hifas fibuladas$ Rhodocollybia
+116,0 $ En madera., láminas libres., esporas no dextrinoides., hifas con o sin fíbulas $ Pluteus
+117,118 $ Esporada de color negro a negro oliváceo o negro violaceo
+117,135 $ Esporada de color ocre, pardo, ferruginoso, anaranjado, purpúreo, beige o gris violáceo
+118,119 $ Láminas relativamente gruesas, decurrentes, a veces bifurcadas., esporas lisas sin poro germinativo
+118,120 $ Láminas relativamente delgadas y no decurrentes ni bifurcadas., esporas lisas o verrugosas, con o sin poro germinativo
+119,0 $ Superficie del píleo seca o poco gelificada., carne del píleo y de las láminas amarillenta o con tonos asalmonados$ Chroogomphus
+119,0 $ Superficie del píleo glutinosa., carne blanca$ Gomphidius
+120,121 $ Con crisocistidios
+120,124 $ Sin crisocistidios
+121,122 $ Con anillo y generalmente con restos de velo en zona infraanular., píleo de convexo a semiesférico., láminas no jaspeadas
+121,123 $ Con o sin anillo, sin restos de velo., píleo campanulado u ovoide., láminas jaspeadas
+122,0 $ En suelo, humus, rara vez en madera, micelio con acantocitos formados por terminaciones hifales dendroides incrustadas con cristales aciculares$ Stropharia
+122,0 $ Coprófilo, micelio con asterocistidios formados por proyecciones hifales cortas y capitadas con cristales$ Protostropharia
+123,0 $ Anillo ascendente sobre el pie, esporas de más de 15 µm de largo$ Anellaria
+123,0 $ Pie sin anillo, esporas de menos de 15 µm de largo$ Panaeolus p.p.
+124,125 $ Esporas verrugosas
+124,127 $ Esporas lisas
+125,0 $ Basidioma lignícola con láminas delicuescentes $ Coprinopsis p.p.
+125,126 $ Basidioma diferente
+126,0 $ Con fíbulas abundantes., esporas con Lm < 11 µm $ Lacrymaria
+126,0 $ Fíbulas raras., esporas de Lm > 13 µm $ Panaeolina
+127,128 $ Láminas adnatas, emarginadas o decurrentes por un diente y no delicuescentes., píleo con el margen no surcado y ocasionalmente con velo, sin setas pardas en pileipellis
+127,132 $ Láminas libres, sublibres o emarginadas, a veces delicuescentes., píleo con el margen surcado o acanalado, al menos por transparencia, y frecuentemente con velo, alguna vez con setas pardas en pileipellis
+128,0 $ Láminas jaspeadas, negras o gris negruzcas., pie completamente pruinoso., esporas con pared moderada$ Panaeolus p.p.
+128,129 $ Láminas no jaspeadas, pardas o gris pardusco., pie pruinoso en zona apical., esporas de pared delgada
+129,0 $ Pileipellis con hifas globosas, piriformes o claviformes$ Psathyrella p.p.
+129,130 $ Pileipellis de tipo cutis o ixocutis
+130,131 $ Con escamas evidentes en píleo y zona infraanular
+130,0 $ Sin escamas en píleo o zona infraanular$ Coprinopsis p.p.
+131,0 $ Basidioma carnoso con pie de 6-15 mm de diámetro, láminas con arista blanca que exuda gotas blanquecinas$ Hemistropharia
+131,0 $ Basidioma esbelto con pie de 4-8 mm de diámetro, láminas sin exudado de gotas blanquecinas$ Leratiomyces
+132,0 $ Velo ausente., especies frágiles., sin caulocistidios, rara vez con setas pardas en la pileipellis$ Parasola
+132,133 $ Velo presente en forma de gránulos, placas o escamas sobre el píleo o en su margen., especies frágiles o robustas., con o sin caulocistidios, sin setas pardas en pileipellis
+133,0 $ Especies robustas con anillo y escamas en un píleo de más de 2 cm de diámetro antes de abrirse., láminas rosadas en estadios iniciales, delicuescentes., hifas no fibuladas o con pseudofíbulas dispersas., sin pleurocistidios$ Coprinus
+133,134 $ Sin los caracteres mencionados juntos
+134,0 $ Velo con frecuencia en forma de escamas lanosas y efímeras o por amplias placas membranosas., pileipellis cuticular sin píleocistidios., láminas siempre delicuescentes., base del pie sin mechones anaranjados$ Coprinopsis p.p.
+134,0 $ Velo diferente, con frecuencia granular y formado por células globulares., pileipellis de tipo himenidermis o cistodermis, ocasionalmente con píleocistidios., láminas delicuescentes o no delicuescentes., base del pie con frecuencia con mechones anaranjados$ Coprinellus
+135,136 $ Esporas verrugosas, verruculosas o con contorno irregular noduloso o estrelladas
+135,145 $ Esporas lisas con contorno uniforme
+136,0 $ Píleo con velo granular formado por elementos globosos., láminas rojas y libres$ Melanophyllum
+136,137 $ Píleo sin velo granular formado por elementos globosos., láminas de color variado, adnatas, escotadas o emarginadas, rara vez decurrentes por un diente.
+137,138$;Esporas con verrugas y poro germinativo patente., pileipellis de tipo himenidermis., himenio con pseudoparáfisis
+137,139$Sin los caracteres mencionados juntos
+138,0 $ Con fíbulas abundantes., esporas con Lm < 11 µm $ Lacrymaria
+138,0 $ Fíbulas raras., esporas de Lm > 13 µm $ Panaeolina
+139,0 $ Esporas gibosas, estrelladas o nodulosas., generalmente con queilocistidios metuloides., pie inicialmente con cortina$ Inocybe p.p
+139,140 $ Esporas de contorno regular, ornamentadas., sin queilocistidios o éstos no metuloides., pie con o sin cortina
+140,0 $ Basidioma saprobio, micenoide, con el margen y píleo higrófano, con frecuencia estriado por transparencia y con tonos pardos, amarillos o naranjas., pie con anillo o restos de velo a modo de mechones o pruína en zona infraanular, con queilo- y caulocistidios., esporas dextrinoides$ Galerina p.p.
+140,141 $ Sin los caracteres mencionados juntos
+141,142 $ Sobre madera
+141,143 $ En el suelo
+142,0 $ Basidioma con el píleo amarillo o naranja dorado., carne que en presencia de KOH torna negra., con o sin anillo o restos de cortina en el pie$ Gymnopilus
+142,0 $ Basidioma con píleo blanco a ocre., carne que no reacciona con KOH., con anillo membranoso en el pie$ Hebeloma p.p.
+143,0 $ Basidioma con cortina persistente y bien visible en la madurez o rara vez con anillo., rara vez con cistidios bien diferenciados, aunque en la arista de las láminas puede haber células terminales poco diferenciadas$ Cortinarius
+143,144 $ Fructificación sin cortina o con ésta ocasionalmente visible en los primordios pero que desaparece al madurar., con queilocistidios y ocasionalmente pleurocistidios, píleocistidios o caulocistidios
+144,0 $ Basidioma micenoide de zonas húmedas o turberas, bajo Alnus, Salix o Betula, no en restos quemados., queilocistidios claviformes obtusos, lageniformes o capitulados y con cuello., sin cortina en el pie$ Alnicola
+144,0 $ Basidioma colibioide o tricolomoide que crece en todo tipo de bosques, a veces en restos quemados., queilocistidios con frecuencia cilíndricos y capitulados., cortina visible en primordios pero no siempre evidente y desaparece en adultos sin dejar rastro$ Hebeloma p.p.
+145,0 $ Basidioma carnoso con pie provisto de anillo membranoso., láminas libres que tornan primero rosas y finalmente pardas al madurar., hifas no fibuladas$ Agaricus p.p.
+145,146 $ Sin los caracteres mencionados juntos
+146,147 $ Láminas con anastomosis, bifurcaciones o formando poros en la proximidad del pie
+146,149 $ Láminas sencillas sin bifurcaciones ni anastomosis
+147,0 $;Saprobio y lignícola., pie velutino y pardo negruzco, excéntrico$ Tapinella p.p.
+147,148 $ Micorrizógeno y terrícola., pie no velutino, pardusco, central o excéntrico
+148,0 $ Láminas decurrentes que pardean por presión., hifas fibuladas., esporas elipsoides $Paxillus 
+148,0 $ Láminas adnatas o decurrentes inmutables., hifas no fibuladas., esporas subcilíndricas$ Phylloporus
+
+149,150 $ Lignícolas y con cistidios particulares: o metuloides rematados por cristales vistosos o bien con depósitos no cristalinos que tornan de color verde azulado con amoniaco
+149,151 $ No lignícola o, de serlo, sin cistidios o de otro tipo
+150,0 $ Píleo y pie con escamas pigmentadas., con queilocistidios que tienen depósitos no cristalinos de color verde azulados con amoniaco$ Cystoagaricus
+150,0 $ Píleo sin velo ni escamas, pie fibriloso., con cistidios metuloides rematados por cristales vistosos$ Homophron
+151,152 $ Esporada pardo oscuro, pardo oliváceo oscuro, gris violáceo o pardo púrpura., esporas generalmente con poro germinativo patente | || || || |
+151,162 $ Esporada ocre, beige, pardo anaranjada o pardo ferruginoso., esporas con o sin poro germinativo nn
+152,153 $ Sin crisocistidios
+152,159 $ Con crisocistidios
+153,0 $ Píleo y zona infraanular del pie escamosos., láminas con tonos lilacinos en la juventud y grisáceas al madurar, sin exudados$ Leratiomyces
+153,154 $ Sin los caracteres anteriores juntos
+154,155 $ Píleo graso o lubricado debido a una pileipellis de tipo ixocutis
+154,157 $ Píleo seco o, si subviscido, con pileipellis no gelificada
+155,0 $ Basidioma lignícola de más de 2 cm de diámetro., láminas escotadas o adnatas, de color gris lilacino en la juventud, con arista blanca que exuda gotas blanquecinas$ Hemistropharia
+155,156 $ Basidioma lignícola o no, de hasta 2 cm de diámetro., láminas adnatas diferentes
+156,0 $ Carne que azulea al roce o con la edad., ocasionalmente con restos de velo en margen del píleo o zona anular., láminas pardas a pardo gris o purpúreo., hifas fibuladas., esporas ovales o elipsoides de pared gruesa$ Psilocybe
+156,0 $ Carne que no azulea., velo presente como anillo o mechones en zona anular y margen del píleo., láminas pardas a negruzcas., hifas con o sin fíbulas., esporas de contorno oval, elipsoide o hexagonal de pared fina o gruesa$ Deconica p.p.
+157,158 $ Pileipellis de tipo himenidermis o cistodermis., himenio con pseudoparáfisis., esporas de pared delgada., generalmente en suelo, rara vez en madera
+157,0 $ Pileipellis cuticular., himenio sin pseudoparáfisis., esporas de pared moderada o gruesa., en madera de Pinus $ Flammula(esporas delgadas, en humus o madera,;cf. Coprinopsis melanthina)
+158,0 $ Pileipellis con setas pardas de hasta 350 µm de largo, sin velo$ Parasola p.p.
+158,0 $ Pileipellis sin setas y con velo, al menos en estadios juveniles$ Psathyrella p.p.
+159,0 $ Cutícula seca., pileipellis con subcutis formada por células infladas, sin velo o poco desarollado$ Hypholoma
+159,160 $ Cutícula seca o viscida, pileipellis con subcutis generalmente sin células infladas, velo desarrollado como anillo o escamas en pie o píleo frecuente
+160 ,161$Con anillo o pie graso o lubricado., píleo amarillo, verde, rojizo o pardo con finos restos de velo., en suelo, estiércol, humus o rara vez en madera., micelio con acantocitos o asterocistidios
+160,0 $ Con anillo fugaz o sin anillo., píleo amarillo, ocre, pardo, naranja, ferruginoso u oliváceo, liso o escamoso., generalmente en madera, alguna vez en suelo., micelio sin acantocitos$ Pholiota p.p.
+161,0 $ En suelo, humus, rara vez en madera, micelio con acantocitos formados por terminaciones hifales dendroides incrustadas con cristales aciculares$ Stropharia
+161,0 $ Coprófilo, micelio con asterocistidios formados por proyecciones hifales cortas y capitadas con cristales$ Protostropharia
+
+162,0$Basidioma micenoide, pardo e higrófano, con píleocistidios y queilocistidios lanceolados de más de 60 µm de largo$Macrocystidia
+162,163 $ Sin los caracteres mencionados juntos
+163,0 $ Basidioma lignícola, colibioide, sin anillo, de color pardo oliváceo con píleo finamente granular y no escamoso., esporas elipsoides y algo curvadas de pared gruesa sin poro germinativo$ Simocybe p.p.
+163,164 $ Sin los caracteres mencionados juntos
+164,165 $ Pileipellis himeniforme o con esferocistos superficiales
+164,170 $ Pileipellis cuticular o subtricodermis 
+165,0 $ Pileipellis formada por esferocistos con pigmento incrustante., esporas citriformes o elipsoides de pared delgada y sin poro germinativo$ Flammulaster
+165,166 $ Pileipellis himeniforme sin pigmento incrustante., esporas de forma variada, con frecuencia con pared gruesa y poro germinativo patente
+166,0 $ Basidioma delicado y esbelto con píleo viscoso, campanulado y con margen surcado., hifas no fibuladas$ Bolbitius
+166,167 $ Basidioma delicado o robusto con píleo seco o rara vez graso, sin margen surcado., hifas fibuladas o no
+167,168 $ Basidioma carnoso o de tamaño medio con píleo convexo., con o sin pleurocistidios., cistidios no lecitiformes, ocasionalmente subcapitados con cuello gradual
+167,169 $ Basidioma frágil, no carnoso, de tamaño pequeño con píleo cónico o convexo., sin pleurocistidios., queilocistidios frecuentemente lecitiformes
+168,0 $ Basidioma robusto con anillo membranoso amplio, esporas sin poro o germinativo o con éste rudimentario$ Cyclocybe
+168,0 $ Basidioma de tamaño medio o pequeño sin anillo membranoso, esporas con poro germinativo$ Agrocybe
+169,0 $ Queilocistidios lecitiformes., pie sin anillo., ocasionalmente coprófilo$ Conocybe
+169,0 $ Queilocistidios subcilíndricos, claviformes, utriformes, lageniformes o capitados con cuello gradual., pie ocasionalmente con anillo., no coprófilo$ Pholiotina
+170,0 $ Basidioma lignícola con píleo de hasta 1,5 cm de diámetro., píleo y pie estrigoso, pileipellis con hifas incrustadas con pigmento pardo$ Phaeomarasmius
+170,171 $ Sin los caracteres mencionados juntos
+171,172 $ Esporas con poro germinativo patente y pared gruesa
+171,175 $ Esporas sin poro germinativo o con poro poco evidente, de pared delgada o gruesa
+172,173 $ Sin crisocistidios
+172,174 $ Con crisocistidios
+173,0 $ Con escamas en el píleo, crece sobre madera, humus o carbón$ Pholiota p.p.
+173,0 $ Sin escamas en el píleo, sobre tocones de Pinus$ Flammula
+174,0 $ Píleo generalmente viscoso., velo presente como anillo o escamas en el pie y/o píleo., pileipellis con subcutis generalmente sin células infladas$ Pholiota p.p.
+174,0 $ Píleo seco., sin velo o poco desarrollado, como restos de escamas en margen del píleo o anillo., pileipellis con subcutis de células infladas$ Hypholoma
+175,0 $ Pie con cortina en estadíos iniciales., píleo seco, radialmente fibroso, lacerado o rimoso., queilocistidios lisos y vesiculosos o bien metuloides y con cristales apicales $ Inocybe p.p.
+175,176 $ Sin los caracteres mencionados juntos
+176,0 $ Pie con anillo membranoso más o menos patente y píleo viscoso (ixocutis)., láminas adnatas o decurrentes por un diente$ Meottomyces
+176,177 $ Sin los caracteres mencionados juntos
+177,0 $ Píleo viscoso y con escamas cerca del margen, de más de 3 cm de diámetro $ Pholiota p.p.
+177,178 $ Sin los caracteres mencionados juntos
+178,0 $ Pileipellis con hifas incrustadas., esporas no dextrinoides., hifas fibuladas., sin caulocistidios $ Tubaria
+178,0 $ Pileipellis sin hifas incrustadas o sólo puntualmente., esporas dextrinoides., hifas fibuladas o no fibuladas., con o sin caulocistidios $ Galerina p.p.
+
+CS13,0  Clave M
+
+com$ Clave M Hongos laminados no estipitados, pleurotoides o con pie reducido $
+1,0 $ Láminas bífidas, arista partida a lo largo en dos y replegada $ Schizophyllum p.p.
+1,2 $ Láminas con arista no partida longitudinalmente en dos
+2,3 $ Esporas poligonales o estriadas longitudinalmente, de color rosa en masa
+2,4 $ Esporas diferentes, esporada rosada o de otro color
+3,0 $ Esporas poligonales $ Entoloma p.p.
+3,0 $ Esporas estriadas longitudinalmente $ Clitopilus p.p.
+4,5 $ Carne o trama gelatinosa, o con un estrato gelatinoso en el píleo
+4,7 $ Carne no gelatinosa o sin estrato gelatinoso
+5,0 $ Estrato gelatinoso patente al corte., píleo de más de 2 cm de diámetro., pie ausente, excéntrico, o lateral., con cistidios metuloides $ Hohenbuehelia
+5,6 $ Carne o pileipellis gelatinosa, estrato no patente., píleo de hasta 2 cm de diámetro., pie ausente, inserción dorsal o lateral., sin cistidios o no metuloides
+6,0 $ Contexto gelatinoso., láminas intervenadas y anastomosadas., queilocistidios capitados y diverticulados basalmente., sobre tallos de gramíneas, con frecuencia en zonas costeras $ Campanella
+6,0 $ Trama gelatinosa., láminas no intervenadas., sin cistidios., en la zona inferior de la madera caída al suelo $ Resupinatus p.p.
+7,8 $ Esporas ocres o pardas en masa
+7,12 $ Esporas blanca, crema o rosada
+8,0 $ Láminas sinuosas y anostomosadas, sin queilocistidios $ Tapinella
+8,9 $ Láminas rectas no anostomosadas, con queilocistidios
+9,0 $ Esporas sin poro apical, ornamentadas o lisas., esporada pardusca., hifas con o sin fíbulas $ Crepidotus
+9,10 $ Esporas con poro apical más o menos evidente, lisas., esporada parda, pardo rojiza o pardo violácea., hifas fibuladas presentes
+10,0 $ Esporas con pared gruesa y poro apical pequeño; basidios con 2 o 4 esterigmas; láminas pardas; pie o píleo en ocasiones con tonos oliváceos $Simocybe p.p.
+10,11 $ Sin los caracteres anteriores juntos
+11,0 $ Láminas y esporada con tonos pardo violáceos $ Deconica p.p.
+11,0 $ Láminas y esporada con tonos pardo ferruginosos $ Pleuroflammula
+12,0 $ Basidioma con láminas naranjas., esporas rosadas en masa., crece generalmente sobre troncos de coníferas $ Phyllotopsis
+12,13 $ Láminas blancas, ocre claro o crema., esporada crema o blanca., ecología variada
+13,0 $ Basidioma con pie lateral y carne fibrosa., píleo de hasta 30 cm de diámetro de color gris o pardo, con margen involuto y láminas decurrentes., sobre madera de planifolios., basidios no siderófilos $ Pleurotus p.p.
+13,14 $ Sin los caracteres anteriores juntos
+14,15 $ Basidioma de mediano a robusto, generalmente mayor de 2 cm de diámetro, y relativamente flexible, coriáceo o leñoso
+14,19 $ Basidioma de 0,3- 2 cm., con carne frágil, fibrosa
+15,16 $ Esporas amiloides
+15,17 $ Esporas no amiloides
+16,0 $ Espora finamente equinulada., arista de la lámina aserrada $ Lentinellus p.p.
+16,0 $ Espora lisa., arista de la lámina entera $ Panellus
+17,0 $ Píleo de color blanquecino a ocre, con frecuencia con manchas elipsoides más oscuras., basidios siderófilos $ Hypsizygus
+17,18 $ Píleo diferente., basidios no siderófilos
+18,0 $ Sobre tronco de Quercus., píleo y pie estrigoso desde el inicio $ Lentinus p.p.
+18,0 $ En madera de Populus, Betula o Quercus., píleo y pie al principio liso o finamente tomentoso, luego escamoso o fibriloso, pero no estrigoso $ Panus
+19,0 $ Sobre madera., láminas escasas y gruesas $ Marasmiellus p.p.
+19,0 $ En suelo., láminas delgadas y numerosas $ Arrhenia p.p.
+
+CS14,0  Clave N
+com$ Clave N Hongos Boletoides $
+1,2 $ Fructificación lignícola
+1,3 $ Fructificación terrícola
+2,0 $ Pie reducido o ausente., superficie del píleo blanda, gelatinosa y rojiza., tubos individualizados., parásito sobre Quercus o Castanea;Fistulina $ Fistulina
+2,0 $ Pie presente., superficie no gelatinosa, amarilla o pardusca., tubos no individuales., saprobio sobre Pinus;Buchwaldoboletus $ Buchwaldoboletus
+3,0 $ Píleo y pie escamosos de color gris., carne que torna de rojo a naranja intenso y luego ennegrece., esporas claramente reticuladas;Strobilomyces $ Strobilomyces
+3,4 $ Píleo y pie diferentes., carne inmutable o con otros cambios de color., esporas lisas o con ornamentación estriada o muy finamente verrugosa
+4,0 $ Pie cavernoso., poros blancos;Gyroporus $ Gyroporus
+4,5 $ Pie macizo., poros blancos o de otro color
+5,0 $ Tubos decurrentes., crece bajo Alnusglutinosa., esporas elipsoides;Gyrodon $ Gyrodon
+5,6 $ Sin los caracteres anteriores juntos
+6,0 $ Poros compuestos, especies asociadas a Pinus., superficie del píleo glutinosa o, si no glutinosa, entonces con leve azuleamiento en poros y pie liso;Suillus $ Suillus
+6,7 $ Poros simples, asociados o no a Pinus., superficie del píleo seca o algo glutinosa.
+7,8 $ Carne e himenóforo inmutables o bien ocasionalmente torna rosado, violáceo y/o ennegrece
+7,15 $ Carne o himenóforo azuleantes al corte o roce, aunque sea levemente o parcialmente
+8,9 $ Carne inmutable., pie liso, reticulado o con granulos finos
+8,14 $ Carne que torna rosada y ocasionalmente ennegrece posteriormente., pie escabroso o con granulos gruesos de relieve hasta 0,7 mm
+9,0 $ Poros blancos, al menos en estadios juveniles, pie reticulado;Boletus $ Boletus
+9,10 $ Poros amarillos, naranja parduscos, rosados o vinosos, pie reticulado o no
+10,0 $ Poros naranja parduscos, rosados o vinosos., base del pie con tomento amarillo vivo., especie de pequeño porte;Chalciporus $ Chalciporus
+10,11 $ Sin los caracteres anteriores juntos
+11,0 $ Píleo pardo, pie no reticulado cuya base tiene olor a yodo o fenol., cutícula del píleo violeta con vapor de amoniaco;Hemileccinum $ Hemileccinum
+11,12 $ Sin los caracteres anteriores juntos
+12,0 $ Pie reticulado amarillo vivo, contexto amarillo, píleo rojo carmín a purpúreo;Butyriboletus p.p. $ Butyriboletus p.p.
+12,13 $ Sin los caracteres anteriores juntos
+13,0 $ Micelio basal de color amarillo vivo, píleo de superficie seca, carne de color blanco bajo la cutícula del píleo;Xerocomus p.p. $ Xerocomus p.p.
+13,0 $ Micelio basal no amarillo vivo, píleo de superficie viscida o seca, carne con tonos rosas o naranja parduscos bajo la cutícula del píleo;Aureoboletus $ Aureoboletus
+14,0 $ Poros amarillos, carne con pigmentación amarilla, bajo Cistus o Ouercus. Pileipellis con elementos cortamente catenulados esféricos, al menos en parte;Leccinellum $ Leccinellum
+14,0 $ Poros blancos o grises, carne blanca, bajo Populus o Ouercus. Pileipellis sin elementos esféricos;Leccinum $ Leccinum
+15,16 $ Pie no reticulado, fibriloso, granular o liso
+15,28 $ Pie reticulado o con retículo parcial formado por granulaciones
+16,17 $ Poros de color naranja a rojo
+16,19 $ Poros amarillos o blanquecinos
+17,0 $ Hifas del contexto de la base del pie amiloides $Suillellus p.p.
+17,18 $ Hifas del contexto de la base del pie no amiloides
+18,0 $ Pie con gránulos rojos, en bosque de coníferas o planifolios;Neoboletus $ Neoboletus
+18,0 $ Pie amarillo, en bosques de planifolios;Rubroboletus p.p. $ Rubroboletus p.p.
+19,0 $ Esporas truncadas o finamente estriadas longitudinalmente;Xerocomellus p.p. $ Xerocomellus p.p.
+19,20 $ Esporas lisas y no truncadas
+20,0 $ Poros amarillo pálido o blanquecinos, cutícula parda y viscosa con la humedad debido a una ixotricodermis;Imleria $ Imleria
+20,21 $ Sin los caracteres anteriores juntos
+21,22 $ Himenóforo delgado, tubos de 1/3-1/5 del contexto del píleo en el centro del mismo., basidioma de porte medio a grande, con píleo de color pardo, pardo rojizo, púrpura o rojo., carne amarilla, al menos en la base del pie
+21,23 $ Himenoforo con tubos más largos respecto al contexto. Basidioma de porte medio a pequeño, píleo y carne de color variado
+22,0 $ Basidioma de tonos púrpuras o rojos;Baorangia $ Baorangia
+22,0 $ Basidioma de tonos pardos;Lanmaoa $ Lanmaoa
+23,0 $ Píleo de color rosa, crema rosado a rosa pálido. Carne rosada en píleo y amarilla en pie. Pie ocasionalmente con pseudoanillo granular en el tercio superior;Pulchroboletus $ Pulchroboletus
+23,24 $ Píleo pardo, naranja, amarillo o rojo., sin carne rosada. Pie sin pseudoanillo y carne blanca, ocre o amarilla
+24,0 $ Carne amarilla de azuleamiento indigo negruzco muy intenso e inmediato al corte o roce. Himenóforo adnato o deprimido en torno al pie. Píleo pardo o amarillo oliváceo;Cyanoboletus $ Cyanoboletus
+24,25 $ Sin los caracteres anteriores juntos
+25,0 $ Pie ahusado con base inmutable de carne naranja o amarillo cromo., píleo de color rojo, naranja rosado o naranja rojizo., elementos de la pileipellis lisos o solo finamente incrustados con placas congófilas;Rheubarbariboletus $ Rheubarbariboletus
+25,26 $ Pie diferente., píleo de color pardo, beige, rojo o pardo rojizo., en el caso de ser rojo la pileipellis tiene incrustaciones en placas congofilas
+26,0 $ Pileipellis tricodermica no incrustada., pie con la base no rojiza;Xerocomus $ Xerocomus
+26,27 $ Pileipelis de tipo empalizada y con pigmento incrustante., al menos la superficie del pie rojiza en la base
+27,0 $ Contexto del pie rojo o amarillo sin punteado rojo, esporas con Em > 2,5 $Xerocomellus p.p.
+27,0 $ Contexto del pie amarillo con punteado rojo, esporas con Em < 2,5 $Hortiboletus
+28,29 $ Poros amarillos
+28,34 $ Poros rojos o naranja rojizos
+29,0 $ Reticulo amarillo en fondo concolor, base del pie generalmente con tonos rosados que también se ven en su carne, azuleamiento en himenóforo y/o en la carne del píleo. Carne no amarga sin olor a fruta pasada;Butyriboletus $ Butyriboletus
+29,30 $ Sin los caracteres anteriores juntos
+30,0 $ Basidioma carnoso con sabor amargo., píleo de color blanco grisáceo, gris a pardo claro;Caloboletus $ Caloboletus
+30,31 $ Basidioma de porte medio o robusto sin sabor amargo., píleo de color variable
+31,0 $ Pie con retículo rosado., píleo de color rosa grisáceo a rosa purpúreo;Rubroboletus p.p. $ Rubroboletus p.p.
+31,32 $ Pie con retículo y píleo de otros colores
+32,0 $ Porte Xerocomoide, con pie cilíndrico de 2(-2,5) cm de anchura., píleo pardo ocre, oliváceo oscuro a cobrizo con fibrillas pardo negruzcas. Pie reticulado o costillado con pseudoanillo en el tercio inferior;Alessioporus $ Alessioporus
+32,33 $ Sin los caracteres anteriores juntos
+33,0 $ Carne con azuleamiento débil, localizado y/o lento., pileipellis con elementos sin incrustaciones, olor fúngico no particular;Xerocomus $ Xerocomus
+33,0 $ Carne con azuleamiento intenso, generalizado y/o inmediato., pileipellis con elementos finamente incrustados., a veces olor de compota o de fruta pasada;Cupreoboletus $ Cupreoboletus
+34,0 $ Píleo rojizo, poros de color rojo a naranja que exudan gotitas en la juventud., suele crecer fasciculado, en bosques térmicos de Quercus;Exsudoboletus $ Exsudoboletus
+34,35 $ Sin los caracteres anteriores juntos
+35,0 $ Hifas del contexto de la base del pie amiloides., píleo de pardo amarillento a pardo, en bosques de coníferas o de planifolios;Suillellus p.p. $ Suillellus p.p.
+35,36 $ Hifas del contexto de la base del pie no amiloides., píleo variable en color., en bosques de planifolios
+36,0 $ Azuleamiento débil o suave, con tonos claros., píleo inicialmente blanquecino, luego gris o rosa púrpura, pie obeso., retículo rosa o rojo $Rubroboletus 
+36,0 $ Azuleamiento intenso e instantáneo con tonos oscuros o negruzcos., píleo y pie variables;Imperator $ Imperator
+
+
+
+CS15,0  Clave Ñ Poriales s.l. 
+
+rem $ Clave Ñ Poriales s.l. $
+1,2 $ Hongos con pie claramente diferenciado
+1,9 $ Hongos sin pie o con un pseudopie o base común
+2,0 $ Fructificación pardo rojiza con aspecto lacado, píleo reniforme lateral., esporas verrugosas con exosporio $ Ganoderma p.p.
+2,3 $ Fructificación diferente, pie central o excéntrico., esporas sin exosporio
+3,4 $ Sistema de hifas monomítico
+3,6 $ Sistema de hifas dimítico
+4,0 $ Esporas tuberculadas., píleo con tonos negruzcos $ Boletopsis
+4,5 $ Esporas lisas., píleo con tonos amarillos, ocres o anaranjados 
+
+
+5,0$;Píleo de hasta 4 cm de diámetro., poros con tendencia irpicoide$Sistotrema p.p.
+5,0$ Píleo de más de 4 cm de diámetro., poros no irpicoides$Scutiger
+6,0 $ Contexto pardo que torna negro con KOH., hifas generativas no fibuladas $ Coltricia
+6,7$ Contexto blanco o crema que no cambia con KOH., hifas generativas fibuladas 
+7,0$;Fructificación con alguno de los caracteres siguientes: parásito sobre gramíneas, o con base negruzca, o con píleo muy carnoso, o con esclerocio$Polyporus 
+7,8$ Sin los caracteres mencionados
+8,0 $ Píleo flabelado o dimidiado, pie ausente, lateral y corto $ Neofavolus
+8,0 $ Píleo circular, con pie central bien desarrollado $ Lentinus p.p. (Polyporellus)
+9,10 $ Contexto pardo que torna negro con KOH., hifas generativas sin fíbulas., frecuentemente con setas pardas de pared gruesa
+9,22 $ Sin los caracteres anteriores juntos
+10,11$ Sistema de hifas dimítico o pseudodimítico 
+10,17$';Sistema de hifas monomític
+11,0$;Sobre Pinus, poros con tendencia a formar un himenóforo laberintiforme., con setas himeniales Porodaedalea
+11,12$ Sobre coníferas o planifolios, poros normales., con o sin setas himeniales
+12,0 $ Esporas dextrinoides, hialinas, de pared gruesa, globosas o subglobosas, cianófilas $ Fomitiporia
+12,13 $ Esporas no dextrinoides, de forma, color grosor y cianofilia variable 
+13,0 $ En Lonicera, esporas de color pardo amarillento $ Tropicoporus
+13,14 $ En otros substratos, esporas hialinas o amarillentas
+14,0 $ Con setas himeniales e hifales, hifas generativas con cristales $ Fuscoporia p.p.
+14,15 $ Con setas himeniales o no, sin setas hifales, hifas generativas sin cristales
+15,0 $ Setas himeniales procedentes de la trama, esporas hialinas que tornan amarillentas al madurar $ Phellinopsis
+15,16 $ Setas himeniales verdaderas y esporas hialinas o bien sin setas himeniales y esporas coloreadas
+16,0 $ Píleo generalmente verdoso por presencia de algas y musgos, esporas hialinas, setas himeniales de 25-45 x 5-10 $ Fuscoporia p.p. 
+16,0 $ Sin los caracteres anteriores juntos $ Phellinusil
+17,0$Fructificación con una base o pseudopie definido$Onnia
+17,18$Fructificación sin una base o pseudopie definido
+18,19 $ Sin setas himeniales
+18,20 $ Con setas himeniales, escasas o frecuentes
+19,0 $ Basidioma poco carnoso en planifolios, al corte con una linea negra entre tomento y contexto $Phylloporia 
+19,0 $ Basidioma carnoso sobre Tamarix, sin linea negra al corte $ Inocutis
+20,0 $ En planifolios, en grupos imbricados., esporas amarillentas de pared gruesa, algo dextrinoides., con setas hi-meniales parcialmente ganchudas $ Xanthoporia
+20,21 $ Sin los caracteres anteriores juntos
+21,0 $ Esporas hialinas claramente dextrinoides $ Pseudoinonotus
+21,0 $ l';Esporas coloreadas no dextrinoides $ Inonotus
+22,0 $ Esporas verrugosas con exosporio., hifas generativas fibuladas $ Ganoderma p.p.
+22,23 $ Esporas ornamentadas o lisas sin exosporio., hifas generativas fibuladas o no
+23,24 $ Basidioma dimidiado., himenóforo formado por tabiques que recuerdan a las láminas de un agarical pero que se bifurcan ocasionalmente o bien forman un laberinto
+23,29 $ Basidioma dimidiado, resupinado o con una base común o pseudopie., himenóforo completamente poroide o en parte laberintiforme o irpicoide
+24,0 $ Sistema de hifas monomítico., en corteza de Juniperus $ Lenzitopsis
+24,25 $ Sistema de hifas dimítico o trimítico., ecología variada
+25,26 $ Himenóforo laminar
+25,28 $ Himenóforo laberintiforme
+26,0 $ Contexto blanquecino., espora elipsoide $ Lenzites
+26,27 $ Contexto de pardo a pardo rojizo., espora cilíndrica o alantoide
+27,0 $ Contexto pardo rojizo., espora alantoide $ Daedaleopsis p.p.
+27,0 $ Contexto pardo canela., espora cilíndrica $ Gloeophyllum p.p.
+28,0 $ Basidioma robusto de hasta 20 cm de proyección sobre el substrato., contexto homogéneo., himenóforo blanquecino $ Daedalea
+28,0 $ Basidioma mediano de hasta 4 cm de proyección sobre el substrato., carne con una linea negra entre tomento y contexto., himenóforo gris $ Cerrena
+29,30 $ Himenóforo con poros irregulares, en buena parte laberintiformes o irpicoides
+29,35 $ Himenóforo con poros regulares, redondos o poligonales., rara vez irpicoide si crece verticalmente
+30,31 $ Basidiomas con una base común y píleo flabelado, a veces agregados en rosetas o con aspecto de coliflor
+30,32 $ Basidioma diferente
+31,0 $ Margen crenado o lobado., hifas fibuladas., gleocistidios presentes $ Abortiporus
+31,0 $ Margen laciniado., hifas no fibuladas., sin gleocistidios $ Hydnopolyporus
+32,0 $ Basidioma resupinado $ Schizopora
+32,33 $ Basidioma pileado
+33,0 $ Himenóforo violáceo $ Trichaptum p.p.
+33,34 $ Himenóforo gris o pardo, sin tonos violáceos
+34,0 $ Esporas elipsoides., contexto con una capa negra bajo el tomento $ Cerrena
+34,0 $ Esporas cilíndricas, algo alantoides., contexto homogeneo $ Trametopsis
+35,0 $ Poros poligonales de 1-3 mm de anchura., píleo dimidiado negro $ Daedaleopsis p.p.
+35,36 $ Sin los caracteres anteriores juntos
+36,37 $ Esporas o hifas amiloides o dextrinoides
+36,41 $ Esporas e hifas sin reacción con Melzer
+37,0 $ Esporas equinuladas., hifas esqueléticas dextrinoides $ Heterobasidion
+37,38 $ Esporas lisas., hifas esqueléticas presentes o no, con o sin reacción con Melzer
+38,39 $ Esporas dextrinoides o amiloides., hifas esqueléticas ausentes o no amiloides
+38,0 $ Esporas sin reacción al Melzer., hifas esqueléticas amiloides $ Antrodia p.p.
+39,0 $ Esporas amiloides $ Anomoloma
+39,40 $ Esporas dextrinoides
+40,0 $ Esporas truncadas en el ápice., sistema de hifas di- o trimítico $ Perenniporia
+40,0 $ Esporas no truncadas en el ápice., sistema de hifas monomítico $ Parmastomyces
+41,0 $ Himenóforo gelatinoso en fresco, esporas de alantoides a cilíndricas con W= o,l-i,8 µm ., sistema de hifas monomitico $ Gloeoporus
+41,42 $ Sin los caracteres anteriores juntos
+42,43 $ Hifas generativas y basidios no fibulados
+42,51 $ Hifas generativas y basidios fibulados
+43,0 $ Cistidios presentes e incrustados apicalmente $ Oxyporus
+43,44 $ Cistidios ausentes., a veces cistidiolos no incrustados
+44,45 $ Basidioma resupinado
+44,47 $ Basidioma pileado
+45,0 $ Esporas alantoides o cilíndricas $ Ceriporia
+45,46 $ Esporas subglobosas, ovoides o elipsoides
+46,0 $ Poros de color blanco a amarillento, inmutables $ Byssoporia
+46,0 $ Poros con tonos naranjas o rosados, ocasionalmente enrojecen al roce o corte $ Physisporinus
+47,0 $ Sistema de hifas dimítico., fructificación de color amarillo vivo $ Laetiporus
+47,48 $ Sistema de hifas monomítico., fructificación de otro color
+48,0 $ Contexto de color pardo a pardo leonado., gleocistidios presentes $ Phaeolus
+48,49 $ Contexto de color blanco a ocre pálido o rosado., sin gleocistidios
+49,0 $ Esporas alantoides., poros y superficie de píleo de rosa a ocre rojizo $ Leptoporus
+49,50 $ Esporas elipsoides, ovoides o subglobosas., poros o superficie de píleo variados
+50,0 $ Basidioma anual con varios píleos imbricados., poros blanquecinos o crema que se manchan de pardo al roce $ Meripilus
+50,0 $ Basidioma plurianual robusto., poros rosados $ Rigidoporus
+51,0$;Esporas equinuladas., basidioma resupinado$Trechispora p.p.
+51,52$';Esporas lisas., basidioma resupinado o pileado
+52,53 $ Sistema de hifas monomítico
+52,62 $ Sistema de hifas dimítico o trimítico
+53,54 $ Basidioma anual, carnoso, con contexto de color ocre rosado a naranja y que torna a lila con KOH
+53,55 $ Sin los caracteres anteriores juntos
+54,0 $ Basidioma resupinado, sobre madera de coníferas $ Erastia
+54,0 $ Basidioma pileado, sobre madera de planifolios $ Hapalopilus
+55,56 $ Basidioma resupinado
+55,59 $ Basidioma pileado
+56,0 $ Basidios con 6(-8) esterigmas $ Sistotrema p.p.
+56,57 $ Basidios con (2-)4 esterigmas
+57,0 $ Superficie poroide y contexto de rosa a salmón., esporas cilíndricas $ Rhodonia
+57,58 $ Superficie y contexto blanco o pálido., esporas variadas en forma
+58,0 $ Esporas cilíndricas y alantoides o cistidios con cristalización apical., podredumbre parda $ Postia p.p. (cf. Antrodia mappa)
+58,0 $ Esporas diferentes y cistidios ausentes o sin cristales., podredumbre blanca $ Ceriporiopsis
+59,0 $ Poros de color gris., con estrato negro entre los tubos y el contexto $ Bjerkandera
+59,60 $ Poros de color blanco., sin el mencionado estrato negro
+60,0 $ Contexto con dos estratos diferenciados., esporas de 6-9 x 4,5-6(-7) µm de pared gruesa $ Spongipellis p.p.
+60,61 $ Sin los caracteres anteriores juntos
+61,0 $ Con cistidios de pared gruesa y coronados por cristales $ Climacocystis
+61,0 $ Sin cistidios o con cistidios de pared delgada, con o sin cristales $ Postia p.p.
+62,63 $ Contexto pardo, ocre, naranja o rojo., fructificación pileada o efuso refleja
+62,68 $ Contexto de color blanco, isabelino, pálido., fructificación pileada o resupinada
+63,0 $ Contexto de color rojo o naranja $ Pycnoporus
+63,64 $ Contexto de color ocre o pardo
+64,0 $ Basidioma ungulado, leñoso y plurianual $ Fomes
+64,65 $ Basidioma dimidiado, carnoso o coriáceo y anual
+65,0 $ Basidioma carnoso., sistema de hifas dimítico., sobre coníferas $ Ischnoderma
+65,66 $ Basidioma coriáceo., sistema de hifas di- o trimítico., en coníferas o planifolios
+66,0 $ Contexto separado del tomento superficial por una linea negra., disepimento con dendrohifidios $ Datronia
+66,67 $ Contexto sin linea negra., disepimento sin dendrohifidios
+67,0 $ Sistema de hifas dimítico., espora de Lm < 10 µm < $ Gloeophyllum p.p.
+67,0 $ Sistema de hifas trimítico., espora de Lm > 10 µm $ Funalia
+68,0 $ Basidioma fasciculado y pileado que confluye en una base común formando rosetas, píleo flabelado y carnoso $ Grifola
+68,69 $ Basidioma resupinado o pileado diferente., contexto leñoso o coriáceo
+69,0 $ Basidioma ungulado con cutícula papirácea blanca., sobre Betula $ Piptoporus
+69,70 $ Basidioma sin cutícula papirácea., sobre coníferas o planifolios
+70,0 $ Sistema de hifas dimítico con hifas conectivas., esporas cilíndricas $ Dichomitus
+70,71 $ Sistema de hifas dimítico con hifas esqueléticas o trimítico., esporas cilíndricas, elipsoides o alantoides
+71,0 $ Basidioma pileado plurianual y leñoso con superficie de aspecto lacado de color pardo rojizo $ Fomitopsis
+71,72 $ Basidioma resupinado o pileado sin superficie lacada
+72,73 $ Basidioma con hifas generativas frecuentemente incrustadas con cristales., esporas oblongas y alantoides, alguna vez cilíndricas
+72,74 $ Basidioma con hifas generativas no incrustadas o rara vez y de modo disperso., esporas de forma variada
+73,0 $ Estructura hifal densa en la trama que destaca respecto al subiculo., disepimentos con cristales pequeños $ Skeletocutis
+73,0 $ Estructura hifal laxa en la trama que no destaca respecto al subiculo., disepimentos sin cristales, cristales en la trama o subículo en estrella, robustos y escasos $ Sidera
+74,0 $ Basidioma pileado., sistema de hifas trimítico., carne al corte con frecuencia con una linea negra entre tomento y contexto $ Trametes
+74,75 $ Sin los caracteres anteriores juntos
+75,0 $ Basidioma pileado., sistema de hifas trimítico, tubos y contextos con tonos ocres pálidos $ Funalia p.p.
+75,76 $ Sin los caracteres anteriores juntos
+76,0 $ Basidioma resupinado o pileado., sistema de hifas di- o trimítico., esporas con Lm < 4 µm , no alantoides $Antrodiella 
+76,77 $ Basidioma resupinado o efuso reflejo., sistema de hifas dimítico., esporas con Lm > 4 µm , a veces alantoides
+77,0 $ Trama dimitica, esporas elipsoides a subcilíndricas con L< l µm con pared gruesa o algo engrosada, hifas generativas de grosor regular $ Fibroporia
+77,0 $ Sin los caracteres anteriores juntos $ Antrodia p.p.
+
+CS16,0  Clave O Hongos Pileados y Aculeados 
+
+com$ Clave O Hongos Pileados y Aculeados $
+1,2 $ Basidioma con pie claramente definido
+1,8 $ Basidioma sin pie o reducido como prolongación del píleo
+2,0 $ Píleo reniforme con pie excéntrico y tomentoso., crece sobre piñas $ Auriscalpium
+2,3 $ Píleo y ecologia diferente
+3,4 $ Esporas lisas
+3,5 $ Esporas ornamentadas
+4,0 $ Acúleos cónicos subulados $ Hydnum
+4,0 $ Acúleos irregulares, irpicoides $ Sistotrema p.p.
+5,6 $ Esporas espinosas., hialinas o amarillo oliváceas., acúleos blancos o verde oliváceos al madurar
+5,7 $ Esporas tuberculadas, pardas., acúleos pardos en la madurez 
+6,0 $ Esporas hialinas y globosas., acúleos blancos en la madurez., contexto coriáceo y heterogéneo, con núcleo diferenciado en el pie $ Phellodon
+6,0 $ Esporas amarillo oliváceas, subfusiformes., acúleos verde oliváceos en la madurez., contexto carnoso homogéneo $ Beenakia
+7,0$ Contexto coriáceo, con anillos de crecimiento al corte$Hydnellum
+7,0$Contexto carnoso homogéneo$Sarcodon
+8,0 $ Basidioma globoso de color blanco o pajizo con el píleo estrigoso o lanoso, con acúleos subulados y largos de 2,5-5 cm $ Hericium p.p.
+8,9 $ Sin los caracteres anteriores juntos
+9,0 $ Acúleos subulados, cónicos., basidioma carnoso $ Climacodon
+9,10 $ Acúleos irregulares, irpicoides., basidioma suberoso o coriáceo y delgado
+10,0 $ Acúleos de color violáceo $ Trichaptum
+10,11 $ Acúleos de color blanco, ocre o anaranjado 
+11,12 $ Himenio sin pseudocistidios., contexto monomítico 
+11,13 $ Himenio con pseudocistidios incrustados de pared gruesa., contexto dimítico
+12,0 $ Hifas con fíbulas., contexto suberoso $ Spongipellis p.p.
+12,0 $ Hifas sin fíbulas., contexto coriáceo y delgado $ Hydnopolyporus
+13,0 $ Hifas generativas con fíbulas $ Steccherinum p.p.
+13,0 $ Hifas generativas sin fíbulas $ Irpex
+
+CS17,0  Clave P Hongos Cantarelloides o con Pie e Himenio liso 
+rem $ Clave P Hongos Cantarelloides o con Pie e Himenio liso $
+1,0 $ Pie hueco en la madurez $ Craterellus
+1,2 $ Pie macizo en la madurez
+2,3 $ Himenóforo formado por pliegues o pseudoláminas
+2,5 $ Himenóforo liso o levemente rugoso
+3,0 $ Con cistidios metuloides incrustados., hábitat en zonas quemadas $ Faerberia
+3,4 $ Sin cistidios., hábitat diferente
+4,0 $ En suelo de bosques., píleo de más de 1 cm de diámetro, carne fibrosa $ Cantharellus
+4,0 $ Sobre musgos., píleo de menos de 1 cm de diámetro, carne elástica y algo gelatinosa $ Arrhenia p.p.
+5,0 $ Esporas tuberculadas o espinosas, pardas $ Thelephora p.p.
+5,6 $ Esporas lisas, hialinas
+6,0 $ Hifas fibuladas., contexto dimítico con hifas esqueléticas., gleocistidios presentes., pie poco definido Podoscypha
+6,7 $ Hifas no fibuladas., contexto monomítico., sin gleocistidios, pie definido
+7,0 $ Con pseudocistidios $ Cotylidia
+7,0 $ Sin cistidios $ Stereopsis
+
+CS18,0  Clave Q
+rem$ Clave Q Hongos Corticiáceos $
+1,2 $ Asterosetas o setas pardas de pared gruesa presentes
+1,4 $ Asterosetas o setas pardas de pared gruesa ausentes., ocasionalmente con dendrofisis pardas de pared gruesa
+2,3 $ Con setas subuladas, fusiformes o ventricosas
+2,0 $ Con asterosetas $ Asterostroma
+3,0 $ Setas incrustadas con cristales o bien basidioma con línea negra bajo el tomento y esporas cilíndricas a sub-alantoides de W= 1-2 µm $ Pseudochaete
+3,0 $ Setas no incrustadas., si hay línea negra bajo el tomento las esporas son elipsoides de W=2-b µm $ Hymenochaete
+4,0 $ Hifas generativas en parte con septos ampuliformes., esporas generalmente espinosas., basidioma liso u odon-tioide y resupinado $ Trechispora
+4,5 $ Sin los caracteres anteriores juntos
+5,0 $ Basidioma resupinado, algodonoso o aracnoide-bisoide., hifas ramificadas en ángulo recto., basidios con 6-8 esterigmas $ Botryobasidium
+5,6 $ Sin los caracteres anteriores juntos
+6,7 $ Esporas ornamentadas con espinas o verrugas, en mayor o menor grado, al observarlas en reactivo de Melzer
+6,24 $ Esporas lisas en Melzer
+7,8 $ Esporas amiloides., con gleocistidios
+7,13 $ Esporas no amiloides o dextrinoides., con o sin gleocistidios
+8,0 $ Hifas generativas no fibuladas., con acantofisis $ Aleurodiscus
+8,9 $ Hifas generativas fibuladas., sin acantofisis
+9,0 $ Basidioma odontioide con pseudocistidios incrustados de pared gruesa $ Gloeodontia
+9,10 $ Basidioma con himenóforo liso., sin pseudocistidios
+10,0 $ Esporas globosas., basidioma resupinado $ Boidinia
+10,11 $ Esporas de elipsoides a subcilíndricas., basidioma resupinado o pileado
+11,0 $ Esporas equinuladas de Lm < 5 µm $ Laxitextum
+11,12 $ Esporas verrugosas de Lm > 5 µm 
+12,0 $ Basidioma orbicular o subpileado., gleocistidios moniliformes., esporas con Lm > 15 µm $ Aleurocystidiellum
+12,0 $ Basidioma resupinado., gleocistidios no moniliformes., esporas con Lm < 8 µm $ Gloeocystidiellum
+13,0 $ Esporas subglobosas y amarillas, ornamentadas con numerosas proyecciones de hasta 2,5 µm de longitud., hifas con ramificación en ángulo recto $ Botryohypochnus
+13,14 $ Sin los caracteres anteriores juntos
+14,15 $ Esporas coloreadas., pardas o azuladas en KOH
+14,17 $ Esporas hialinas o poco coloreadas en KOH
+15,0 $ Basidioma resupinado odontioide de color azul intenso o verde., esporas azuladas en KOH $ Amaurodon
+15,16 $ Basidioma no odontioide ni azulado., esporas pardas en KOH
+16,0 $ Basidioma efuso-reflejo o pileado y flabeliforme con himenio liso o algo rugoso., esporas espinosas $ Thelephora p.p.
+16,0 $ Basidioma resupinado, con frecuencia tomentoso., esporas espinosas o tuberculadas $ Tomentella
+17,18 $ Con pleurobasidios., basidioma de aspecto céreo
+17,19 $ Sin pleurobasidios., basidioma no céreo
+18,0 $ Sin cistidios., esporas verrugosas $ Phlebiella
+18,0 $ Con cistidios., esporas verrugosas o estriadas $ Xenasma
+19,0 $ Basidios con gránulos cianófilos., esporas equinuladas cianófilas $ Lindtneria
+19,20 $ Basidios sin gránulos cianófilos., esporas verrugosas o espinosas, cianófilas o no
+20,21 $ Basidios fibulados en la base
+20,23 $ Basidios sin fibulas en la base
+21,0 $ Sin cistidios $ Radulomyces p.p.
+21,22 $;Con cistidios
+22,0 $ Esporas cianófilas de pared gruesa., con leptocistidios $ Hypochnicium p.p.
+22,0 $ Esporas no cianófilas de pared delgada., con liocistidios $ Litschauerella
+23,0 $ Esporas espinosas $ Tomentellopsis
+23,0 $ Esporas con tubérculos bifurcados $ Pseudotomentella
+24,25 $ Sistema de hifas dimítico, con dicohifas o hifas conectivas dextrinoides de pared gruesa
+24,26 $ Sistema de hifas monomitico o dimítico, sin dicohifas o hifas conectivas
+25,0 $ Sin dicohifas, dendrofisis formadas por las hifas conectivas., hifas generativas con fíbulas o sin ellas., esporas ocasionalmente amiloides $Scytinostroma 
+25,0 $ Dicohifas presentes., hifas generativas sin fíbulas., esporas no amiloides $ Vararia
+26,27 $ Esporas amiloides
+26,41 $ Esporas no amiloides o dextrinoides
+27,28 $ Sistema de hifas dimítico, al menos en rizomorfos
+27,29 $ Sistema de hifas monomítico o pseudodimitico
+28,0 $ Basidioma efuso reflejo a pileado; hifas generativas sin fíbulas; con pseudocistidios (esqueletocistidios) y a veces acantocistidios $Stereum
+28,0 $ Basidioma resupinado., hifas generativas con fíbulas., con gleocistidios $ Scytinostromella
+29,0 $ Basidioma formado por acúleos blancos y gregarios $ Mucronella
+29,30 $ Basidioma resupinado o efuso reflejo con himenóforo liso o tuberculado
+30,31 $ Hifas no fibuladas
+30,35 $ Hifas con fíbulas
+31,0 $ Basidioma efuso reflejo o resupinado., con acantocistidios., ocasionalmente con pseudocistidios o gleocistidios $ Xylobolus
+31,32 $ Basidioma resupinado., sin acantocistidios., ocasionalmente con gleocistidios
+32,33 $ Sin cistidios
+32,34 $ Con gleocistidios
+33,0 $ Himenóforo de color lila., hifas ramificadas en ángulo recto $ Hypochnella
+33,0 $ Himenóforo de color blanco rosado a crema., hifas no ramificadas en ángulo rectc $ Amylocorticium p.p.
+34,0 $ Gleocistidios vesiculares hialinos SA- de 50-85 x 8,5-20 µm $ Vesiculomyces
+34,0 $ Gleocistidios cilíndricos refringentes SA+ de hasta 150 x 8 µm $ Gloiothele
+35,0 $ Con pleurobasidios., esporas de alantoides a reniformes., sin cistidios $ Amyloxenasma
+35,36 $ Sin pleurobasidios., esporas elipsoides, cilíndricas o alantoides., con o sin cistidios
+36,37 $ Con lamprocistidios, acantocistidios o gleocistidios
+36,39 $ Sin cistidios o con leptocistidios
+37,0 $ Con lamprocistidios $ Amylostereum
+37,38 $ Con gleocistidios o acantocistidios
+38,0 $ Con acantocistidios y gleocistidios $ Acanthophysellum
+38,0 $ Solo con gleocistidios $ Megalocystidium
+39,0 $ Basidios pedicelados., esporas de elipsoides a cilíndricas., sin cistidios $ Melzericium
+39,40 $ Sin los caracteres anteriores juntos
+40,0 $ Esporas elipsoides de pared gruesa $ Amylocorticiellum
+40,0 $ Esporas elipsoides o alantoides de pared delgada $ Amylocorticium p.p.
+41,42 $ Esporas pardas o pardo amarillentas de pared gruesa, con frecuencia dextrinoides
+41,44 $ Esporas diferentes
+42,0 $ Basidioma liso o tuberculado $ Coniophora
+42,43 $ Basidioma merulioide
+43,0 $ Sistema de hifas dimítico., esporas con Lm > 8 µm $ Serpula
+43,0 $ Sistema de hifas monomítico., esporas con Lm < 8 µm $ Leucogyrophana
+44,45 $ Hifas generativas no fibuladas
+44,59 $ Hifas generativas fibuladas
+45,0 $ Basidioma irpicoide y efuso reflejo., sistema de hifas dimítico con pseudocistidios incrustados de pared gruesa $ Irpex
+45,46 $ Basidioma diferente., sistema de hifas monomítico sin cistidios o con éstos de otro modo
+46,47 $ Esporas que producen esporas secundarias por repetición
+46,49 $ Esporas que no producen esporas secundarias
+47,0 $ Con leptocistidios tubulares $ Oliveonia
+47,48 $ Sin cistidios
+48,0 $ Basidios de elipsoides a oblongos., esporas citriformes $ Thanatephorus
+48,0 $ Basidios subglobosos., esporas elipsoides $ Ceratobasidium
+49,50 $ Basidios urniformes con (4-)6-8 esterigmas
+49,51 $ Basidios diferentes
+50,0 $ Hifas de contenido oleoso., sin cistidios., esporas de pared delgada $ Sistotrema p.p.
+50,0 $ Hifas sin contenido oleoso, con gleocistidios., esporas de pared gruesa $ Sistotremella
+51,0 $ Basidioma merulioide., resupinada o efuso refleja $ Byssomerulius
+51,52 $ Basidioma resupinado no merulioide
+52,0 $ Con pleurobasidios $ Aphanobasidium p.p.
+52,53 $ Sin pleurobasidios
+53,0 $ Esporas de pared gruesa, de elipsoides a globosas., sin cistidios $ Piloderma
+53,54 $ Sin los caracteres anteriores juntos
+54,0 $ Basidioma a modo de película fina y lisa poco adherida al substrato., sin cistidios o con leptocistidios $ Athelia p.p.
+54,55 $ Sin los caracteres anteriores juntos
+55,56 $ Con lamprocistidios incrustados., himenóforo traslúcido céreo o subcéreo
+55,57 $ Sin los caracteres anteriores juntos
+56,0 $ Subículo bien desarrollado., esporas de elipsoides a subcilíndricas con Wm > 2,5 µm $ Phlebiopsis
+56,0 $ Subículo poco desarrollado., esporas subalantoides de Wm < 2,5 µm $ Scopuloides
+57,0 $ Basidioma grandinioide con hifas terminales ornamentadas con cristales., sin cistidios $ Hyphodermella
+57,58 $ Basidioma liso., con o sin cistidios
+58,0 $ Sin cistidios, esporas subglobosas de 7-9 x 6-8 µm $ Membranomyces
+58,0 $ Con cistidios o sin ellos, esporas diferentes $ Phanerochaete
+59,60 $ Con liocistidios más o menos amiloides y radicantes., basidioma resupinado con himenóforo velutino
+59,61 $ Sin liocistidios., basidioma variado
+60,0 $ Liocistidios multiradicantes cónicos cubiertos por hifas dendroides $ Tubulicium
+60,0 $ Liocistidios biradicantes subulados o capitados, no cubiertos por hifas $ Tubulicrinis
+61,62 $ Con pleurobasidios., sin cistidios
+61,63 $ Sin pleurobasidios., con o sin cistidios
+62,0 $ Esporas elipsoides u ovoides $ Uncobasidium
+62,0 $ Esporas subfusiformes o amigdaliformes $ Aphanobasidium p.p.
+63,64 $ Basidios con 6-8 esterigmas
+63,65 $ Basidios con 2-4 esterigmas
+64,0 $ Basidios urniformes., hifas con inclusiones oleíferas $ Sistotrema p.p.
+64,0 $ Basidios claviformes o tubulares., hifas hialinas $ Sistotremastrum
+65,66 $ Basidioma resupinado a modo de película fina, más o menos lisa y poco adherida al substrato (atelioide)., sin cistidios o con leptocistidios
+65,70 $ Sin los caracteres anteriores juntos
+66,0 $ Hifas finamente ornamentadas., leptocistidios hifoides $ Amphinema
+66,67 $ Hifas no ornamentadas., con o sin leptocistidios
+67,0 $ Con leptocistidios $ Atheloderma
+67,68 $ Sin cistidios
+68,0 $ Basidios pedicelados $ Athelopsis
+68,69 $ Basidios no pedicelados
+69,0 $ Esporas con Wm > 2,5 µm $ Athelia p.p.
+69,0 $ Esporas con Wm < 2,5 µm $ Leptosporomyces
+70,0 $ Basidioma resupinado con acúleos de 5-10 mm de largo., subículo con hifas de pared gruesa., sin cistidios $ Sarcodontia
+70,71 $ Basidioma diferente o acúleos menores., subiculo variado., con o sin cistidios
+71,0 $ Pseudocistidios no septados de pared delgada., esporas alantoides., himenóforo odontioide $ Hyphodontia p.p. (Alutaceodontia)
+71,72 $ Sin los caracteres anteriores juntos
+72,73 $ Con dendrohifidios
+72,81 $ Sin dendrohifidios
+73,0 $ Dendrohifidios pardos, generalmente de pared gruesa., con lamprocistidios $ Peniophora p.p. (Dendrophora)
+73,74 $ Dendrohifidios hialinos, generalmente de pared delgada., con o sin lamprocistidios
+74,0 $ Basidioma de color azul intenso $ Terana
+74,75 $ Basidioma de otro color
+75,76 $ Contexto con numerosos cristales amorfos que dificultan la observación de las hifas., sin cistidios o con leptocistidios sin cristalización
+75,0 $ Contexto sin cristales o con cristales dispersos., con gleocistidios y ocasionalmente lamprocistidios $ Peniophora p.p.
+76,0 $ Con leptocistidios moniliformes $ Hyphoderma p.p.
+76,77 $ Sin cistidios o con leptocistidios no moniliformes
+77,78 $ Basidioma resupinado y decorticante o con aspecto de costra calcárea blanca y orbicular con margen bien delimitado., ocasionalmente con leptocistidios., esporas alantoides o elipsoides
+77,80 $ Basidioma resupinado o efuso reflejo no decorticante, con frecuencia con tonos rosas, asalmonados o liláceos., sin cistidios., esporas ovoides o elipsoides
+78,0 $ Esporas cianófilas., fructificación en general decorticante y con aspecto céreo $ Vuilleminia
+78,79 $ Esporas no cianófilas., fructificación con aspecto de costra calcárea blanca y orbicular con margen bien delimitado
+79,0 $ Esporas elipsoides $ Dendrothele
+79,0 $ Esporas alantoides $ Dendrominia
+80,0 $ Probasidios de pared gruesa., esporada rosada., basidioma resupinado y orbicular $ Corticium
+80,0 $ Probasidios de pared delgada., esporada blanca., basidioma resupinado o efuso reflejo $ Dendrocorticium
+81,82 $ Sistema de hifas dimítico, trimítico o pseudodimítico debido a la presencia de pseudocistidios de pared gruesa o de hifas esqueletizadas
+81,89 $ Sistema de hifas monomítico
+82,0 $ Sistema de hifas parcialmente trimítico, con hifas conectivas en el micelio que invade el substrato., basidioma aculeado $ Phlebia p.p. (Mycoaciella)
+82,83 $ Sistema de hifas dimítico o pseudodimítico., basidioma variado
+83,84 $ Himenóforo odontioide o aculeado
+83,85 $ Himenóforo liso o tuberculado
+84,0 $ Pseudocistidios incrustados., basidioma resupinado o efuso reflejo $ Steccherinum
+84,0 $ Hifas esqueletizadas con cristales dispersos en placa $ Fibrodontia
+85,0 $ Sistema de hifas pseudodimítico sin hifas esqueléticas verdaderas y con pseudocistidios., himenóforo liso o tuberculado $ Hyphodontia p.p. (Kneiffiella)
+85,86 $ Sistema de hifas dimítico con hifas esqueléticas, con pseudocistidios o leptocistidios., himenóforo liso
+86,0 $ Sin pseudocistidios, con leptocistidios cilíndricos $ Fibricium
+86,87 $ Con pseudocistidios, con o sin leptocistidios
+87,0 $ Pseudocistidios y leptocistidios hialinos., esporas alantoides., fructificación resupinada $ Dacryobolus p.p.
+87,88 $ Pseudocistidios o leptocistidios pardos., esporas elipsoides o cilíndricas., fructificación resupinada o efuso refleja
+88,0 $ Esporas con Lm < l,s µm , hialinas $ Porostereum
+88,0 $ Esporas con Lm > 8,5 µm , hialinas o amarillentas $ Veluticeps
+89,90 $ Basidios urniformes, suburniformes o con al menos una constricción media
+89,93 $ Basidios diferentes
+90,0 $ Hifas con inclusiones oleíferas., con gleocistidios., esporas subcilíndricas $ Sistotrema p.p.
+90,91 $ Hifas hialinas., sin gleocistidios., esporas variadas
+91,0 $ Sin cistidios., esporas alantoides $ Galzinia
+91,92 $ Con o sin cistidios., esporas no alantoides
+92,0 $ Sin cistidios o rara vez presentes y constreñidos., hifidios o terminaciones hifales capitadas, fusiformes o subuladas, con frecuencia con cristalización., esporas con Lm < 7,5 $ Hyphodontia p.p. (Xylodon)
+92,0 $ Con leptocistidios, rara vez sin cistidios y entonces con hifidios filiformes dispersos., esporas con Lm > 7 $ Hyphoderma p.p.
+93,0 $ Esporas sigmoides., cistidios subulados con cristales rectangulares dispersos $ Subulicystidium
+93,94 $ Esporas no sigmoides., cistidios diferentes o ausentes
+94,0 $ Con pseudocistidios septados y leptocistidios., himenóforo odontioide con gotas resinosas en los ápices $ Dacryobolus p.p.
+94,95 $ Sin pseudocistidios, con o sin leptocistidios., himenóforo sin gotas
+95,0 $ Con cistidios cilíndricos de más de 80 µm de largo y de pared gruesa, delgada en el ápice., himenóforo liso, pruinoso, amarillento o pardusco $ Crustoderma
+95,96 $ Cistidios diferentes o ausentes., himenóforo variado
+96,0 $ Cistidios ventricosos y capitulados con cristales., esporas elipsoides $ Hyphodontia p.p. (Lyomyces)
+96,97 $ Cistidios diferentes o ausentes., esporas variadas
+97,98 $ Esporas de pared gruesa y cianófila
+97,101 $ Esporas sin ambas cualidades simultáneamente
+98,99 $ Con cistidios
+98,100 $ Sin cistidios
+99,0 $ Con leptocistidios cilíndricos., hifas con cristales estrellados $ Lagarobasidium
+99,0 $ Con lamprocistidios., hifas sin cristales estrellados $ Bulbillomyces
+100,0 $ Basidios con granulos cianófilos., esporas con Lm < 7 $ Cristinia
+100,0 $ Basidios sin gránulos cianófilos., esporas con Lm > 8 $ Hypochnicium p.p.
+101,102 $ Sin cistidios
+101,109 $ Con cistidios o cistidiolos
+102,0 $ Hifas cortas, hinchadas e isodiamétricas $ Brevicellicium
+102,103 $ Hifas diferentes
+103,0 $ Con esporas globosas e hifidios incrustados $ Globulicium
+103,104 $ Esporas no globosas e hifidios no incrustados
+104,105 $ Esporas alantoides o cilíndricas., himenóforo aculeado, merulioide o liso., basidioma resupinado o efuso reflejo
+104,106 $ Esporas elipsoides, amigdaloides, ovoides o subcilíndricas., himenóforo raduloide, merulioide o liso., basidioma resupinado
+105,0 $ Himenóforo liso, basidioma resupinado $ Cabalodontia p.p.
+105,0 $ Himenóforo aculeado o merulioide, basidioma resupinado o efuso reflejo $ Phlebia p.p. (Merulius, Mycoacia)
+106,0 $ Esporas de anchamente elipsoides a ovoides con Wm > 6 µm y pared raduloide o liso engrosada no cianófila., himenóforo $ Radulomyces p.p.
+106,107 $ Esporas diferentes con pared delgada., himenóforo merulioide, tuberculado o liso.
+107,108 $ Basidioma subgelatinoso o céreo, liso o tuberculado., con hifas inmersas en una matriz gelatinosa que dificulta ;la observación., esporas elipsoides o subcilíndricas.
+107,0 $ Basidioma subcéreo, liso o merulioide con subículo membranoso., hifas distinguibles sin dificultad., esporas amigdaliformes o elipsoides $ Ceraceomyces p.p.
+108,0 $ Esporas elipsoides, himenóforo liso, hifas subiculares incrustadas, Wm> 2,5 µm $ Cabalodontia p.p.
+108,0 $ Sin los caracteres anteriores juntos $ Phlebia p.p.
+109,0 $ Con halocistidios y cistidios fusoides o subulados rematados en un cristal estrellado $ Resinicium
+109,110 $ Con otro tipo de cistidios
+110,111 $ Con septocistidios
+110,112 $ Sin septocistidios
+111,0 $ Con lagenocistidios., hifas del subículo cianófilas y algo amiloides $ Hyphodontia p.p.
+111,0 $ Sin lagenocistidios., hifas del subículo diferentes $ Ceraceomyces p.p.
+112,113 $ Con lamprocistidios*., fructificación resupinada
+112,117 $ Sin lamprocistidios., fructificación resupinada o efuso refleja
+113,114 $ Basidioma odontioide o liso, subgelatinoso o céreo., con hifas embebidas en una matriz gelatinosa., sin gleocistidios
+113,115 $ Sin los caracteres anteriores juntos
+114,0 $ Lamprocistidios cónicos de pared gruesa y con cristalizaciones., himenóforo odontioide $ Cabalodontia p.p.
+114,0 $ Lamprocistidios subulados de pared poco engrosada y sin cristales., himenóforo liso $ Phlebia p.p.
+115,0 $ Himenóforo gris, violáceo, naranja, rosado o pardo., sin estefanocistidios., esporada de rosada a rojiza $ Peniophora p.p.
+115,116 $ Himenóforo de color blanco a blanco ocráceo., con o sin estefanocistidios., esporada diferente
+116,0 $ Sin gleocistidios., ocasionalmente con estefanocistidios $ Peniophorella p.p.
+116,0 $ Con gleocistidios., sin estefanocistidios $ Metulodontia
+117,0 $ Basidioma efuso reflejo o pileado con himenóforo violáceo., leptocistidios fusiformes $ Chondrostereum
+117,118 $ Sin los caracteres anteriores juntos
+118,0 $ Basidios cilíndricos o estrechamente claviformes., leptocistidios fusiformes., esporas Wm>B,s frecuentemente unidas en grupos de 2 o 4 $ Cylindrobasidium
+118,119 $ Sin los caracteres anteriores juntos
+119,0 $ Con estefanocistidios y/o con leptocistidios fusiformes lisos o ventricosos y capitulados con cristales apicales., himenoforo liso o tuberculado., hifas no dispuestas en una matriz gelatinosa;Peniophorella p.p. $ Peniophorella p.p.
+119,120 $ Con leptocistidios o cistidiolos de forma variada., himenóforo liso, tuberculado, meruliode o aculeado y de aspecto céreo o subgelatinoso en fresco., hifas dispuestas en una matriz gelatinosa
+120,0 $ Himenóforo liso o tuberculado, esporas subalantoides con Wm < 2,5 y leptocistidios fusiformes lisos $ Cabalodontia p.p.
+120,0 $ Sin los caracteres anteriores juntos $ Phlebia p.p.
+

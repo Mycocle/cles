@@ -1,0 +1,417 @@
+titre = Réactifs
+commentaire = tiré en partie su CD 'monde des champignons de N Vanvooren
+format=TABLE; ; ; ; ; ; 
+Titre§essai traitement detableau ; ; ; ; ; ; 
+CHAMP=NCOMPLET;NOM réactif;ZONE;COULEUR;RAPIDITÉ
+Agaricus augustus;Acide sulfurique;revêtement;rouge;rapide
+Agaricus bitorquis;Aniline;chair;lie de vin;lente (30 mn)
+Agaricus lanipes;Acide sulfurique;base du pied;jaune;
+Agaricus lanipes;Acide sulfurique;sous revêtement;rosâtre;
+Agaricus lanipes;Réaction de Schäffer;;positive;
+Agaricus spissicaulis;Réaction de Schäffer;;Positive;
+Agaricus spissicaulis;Acide sulfurique;revêtement;Jaune;rapide
+Agaricus squamulifer;Réaction de Schäffer;nulle;;
+Agaricus squamulifer;Phénol;revêtement;brun rougeâtre;
+Agaricus squamulifer;Soude 10%;chair;jaunâtre;rapide
+Agaricus subperonatus;Acide sulfurique;sous revêtement;rosâtre;
+Agaricus xanthoderma;Aniline;chair, revêtement;jaune orangé;rapide
+Agaricus xanthoderma;Soude 10%;chair, revêtement;jaune orangé;rapide
+Albatrellus cristatus;Acide sulfurique;chair ou tubes;brun bistre, puis noirâtre;
+Albatrellus subrubescens;Potasse 10%;chair;jaune;rapide
+Albatrellus subrubescens;Acide sulfurique;chair;rouge-brunâtre;lente
+Amanita citrina;TL4;partout;jaune vif;
+Amanita citrina;Acide sulfurique;lames;brun olive;
+Amanita citrina F alba;TL4;partout;jaune vif;
+Amanita crocea;Phénol;chair;rouge vineux;
+Amanita echinocephala;Phénol;chair;brun-rouge;très lent
+Amanita echinocephala;Gaiac;flocons et verrues du s;bleu;rapide
+Amanita fulva;Phénol;chair;brun chocolat;rapide
+Amanita gracilior;Phénol;chair;brun-rougeâtre;très lent (1 heur
+Amanita pantherina;Phénol;chair;pourpre, puis brun chocolat;rapide
+Amanita pantherina V abietum;Sulfate de fer;chair;gris-vert, puis rose, enfin bru;assez rapide
+Amanita phalloides;Acide sulfurique;lames;lilas à violet pâle;
+Amanita rubescens;Phénolaniline;chair;rouge;rapide
+Amanita spissa;Phénol;chair;rougeâtre brun;normale
+Amanita spissa;Acide sulfurique;chair;pourpre;rapide
+Amanita strobiliformis;Phénol;chair;faiblement brun-rouge;très lent
+Amanita verna;Potasse 10%;partout;jaune d'or;rapide
+Amanita verna;Formol;chair;violet;rapide
+Amanita virosa;Potasse 10%;revêtement;jaune vif;très rapide
+Boletus appendiculatus;Potasse 10%;revêtement;brun rouge;rapide
+Boletus depilatus;Ammoniaque;chapeau;violet;
+Boletus dupainii;Sulfate de fer;pores;verdâtre;
+Boletus edulis;Ammoniaque;chair;rose lila;
+Boletus fechtneri;Acide sulfurique;chair;brun orangé;
+Boletus legaliae;Iode;chapeau;verdâtre pâle;
+Boletus legaliae;Soude 10%;chair du chapeau;jaune vif;rapide
+Boletus legaliae;Iode;pied;bleu noirâtre;rapide
+Boletus legaliae;Acide sulfurique;revêtement;brun rouge sombre;rapide
+Boletus luridus;Iode;chapeau;bleu noir;rapide
+Boletus queletii;Iode;chapeau;bleu terne;rapide
+Boletus queletii;Potasse 10%;chair;brun orangé;
+Boletus rhodopurpureus;Acide sulfurique;chapeau;rougeâtre;
+Boletus satanas;Potasse 10%;chair;rosâtre;
+Boletus subappendiculatus;Potasse 10%;revêtement;rouge vif;rapide
+Cantharellus ianthinoxanthus;Potasse 10%;revêtement;brun rougeâtre;
+Cantharellus ianthinoxanthus;Sulfate de fer;chair;bleu vert;
+Cantharellus ianthinoxanthus;TL4;chair;bleuâtre pâle;
+Cantharellus melanoxeros;TL4;chair;gris jaunâtre;
+Cantharellus melanoxeros;Sulfate de fer;chair;bleu vert;
+Cantharellus melanoxeros;Potasse 10%;revêtement;brun gris olivâtre;
+Clitocybe costata;Soude 10%;chapeau;brunâtre faible;
+Clitocybe dealbalta;Gaiac;chair;bleu;
+Clitocybe dealbalta;Acide sulfurique;lames;brun rougeâtre;
+Clitocybe geotropa;Gaiac;chair;vert-bleu foncé;lent
+Clitopilus prunulus;Gaiac;chair;sans réaction;
+Cortinarius allutus;Soude 10%;revêtement;brun;
+Cortinarius allutus;Soude 10%;chair;jaunâtre;
+Cortinarius allutus;TL4;chair;nul;
+Cortinarius allutus;SulfoFormol;chair;bleu-vert;
+Cortinarius arcuatorum;Soude 10%;chair;rouge;
+Cortinarius argenteolilacinus;Soude 10%;chair;rosâtre;
+Cortinarius argenteolilacinus;Soude 10%;revêtement;brun gris;
+Cortinarius argenteolilacinus;TL4;revêtement;à peine jaune;
+Cortinarius atrovirens;Soude 10%;chair;oilve sombre;
+Cortinarius atrovirens;Soude 10%;revêtement;noir;
+Cortinarius aurilicis;Soude 10%;revêtement;verte;
+Cortinarius balteatus;Gaiac;chair;bleu-vert;
+Cortinarius balteatus;Soude 10%;chair;jaune brunâtre;
+Cortinarius balteatus;Phénol;chair;vineux;
+Cortinarius balteatus;Phénolaniline;chair;ocre vert;
+Cortinarius bolaris;Soude 10%;chair;jaune;
+Cortinarius bulbosus;Soude 10%;chair;brun obscur;
+Cortinarius bulliardii;Potasse 10%;chair;violet noir;immédiate
+Cortinarius caerulescens;Potasse 10%;chair;jaune ou nulle;
+Cortinarius caesiocortinatus;Potasse 10%;chair;rose;
+Cortinarius caesiocyaneus;Potasse 10%;chair;brun;
+Cortinarius caesiocyaneus;Potasse 10%;cuticule;brun rouge;
+Cortinarius caesiopallescens;Soude 10%;cuticule;brun orangé;
+Cortinarius callisteus;Sulfate de fer;chair;verte;
+Cortinarius callisteus;Phénolaniline;revêtement;pourpre;
+Cortinarius callisteus;Soude 10%;chair;pourpre;
+Cortinarius callisteus;Soude 10%;revêtement;pourpre;
+Cortinarius calochrous;TL4;chair;jaune verdâtre;
+Cortinarius calochrous;Soude 10%;revêtement;brun rouge;
+Cortinarius calochrous;Soude 10%;chair;jaune pâle;
+Cortinarius calochrous V coniferar;Soude 10%;chair;brun rouge;
+Cortinarius cedretorum;Soude 10%;chair du bulbe;brun rouge;
+Cortinarius cedretorum;Soude 10%;revêtement;brun rouge;
+Cortinarius cinnamomeus;Soude 10%;chair du pied;rouge;
+Cortinarius citrinus;Potasse 10%;chair;brun vert;intense
+Cortinarius claroflavus;Soude 10%;marge;verdâtre;
+Cortinarius claroflavus;TL4;marge;gris vert;
+Cortinarius claroflavus;Soude 10%;chair;jaune puis rouge sang;assez rapide
+Cortinarius collinitus;Phénolaniline;chair;rouge;lente
+Cortinarius cotoneus;Phénolaniline;revêtement;rouge vineux;lente
+Cortinarius cotoneus;Soude 10%;revêtement;rougeâtre intense;
+Cortinarius cotoneus;Soude 10%;chair;jaune olive;
+Cortinarius croceocaeruleus;Potasse 10%;chair;chamois lilacin;
+Cortinarius croceocaeruleus;Acide sulfurique;chair;jaunâtre;
+Cortinarius cumatilis;Soude 10%;revêtement;brun violet;
+Cortinarius cumatilis;Gaiac;revêtement;bleu vert intense;
+Cortinarius dibaphus;Soude 10%;chair;rouge;
+Cortinarius dionysae;Soude 10%;chair;brunâtre orangé;
+Cortinarius diosmus;Soude 10%;chair;brun;
+Cortinarius duracinus;Soude 10%;chair;brun sombre;
+Cortinarius elatior;Phénolaniline;chair;rouge;lente
+Cortinarius elegantior;Soude 10%;revêtement;brun rouge;
+Cortinarius elegantissimus;Soude 10%;chair;brun rouge;
+Cortinarius eufulmineus;Soude 10%;revêtement;brun pourpre;
+Cortinarius fluryi;Phénolaniline;chair;rose carmin;
+Cortinarius fulvoochrascens;Phénol;chair;rouge vineux;
+Cortinarius fulvoochrascens;Soude 10%;chair;brunâtre;
+Cortinarius guttatus;Soude 10%;brun profond;brun profond;
+Cortinarius helvolus;Phénolaniline;chair;rouge;
+Cortinarius herculeus;Soude 10%;chair;jaune citrin;
+Cortinarius hercynicus;Potasse 10%;chair;rouge sang;
+Cortinarius herpeticus;Potasse 10%;chair;rouge;
+Cortinarius hillieri;Gaiac;revêtement;bleu faible;
+Cortinarius hillieri;Potasse 10%;chair;brun bistre;
+Cortinarius infractus F obscurocya;Soude 10%;chair;gris bleu à bai brun;
+Cortinarius infractus F obscurocya;Gaiac;chair;bleu vert;
+Cortinarius infractus F obscurocya;TL4;chair;jaune de chrome;
+Cortinarius infractus V olivellus;Soude 10%;chair;gris bleu;
+Cortinarius infractus V olivellus;TL4;chair;jaune;
+Cortinarius infractus V olivellus;Gaiac;chair;bleu vert;
+Cortinarius infrastemmatus;Sulfate de fer;chair;vert;
+Cortinarius infrastemmatus;TL4;chair;bai;
+Cortinarius intermedius;Soude 10%;marge;bleu vert;
+Cortinarius intermedius;SulfoFormol;marge;orangé pâle;
+Cortinarius intermedius;Soude 10%;centre;noir violacé;
+Cortinarius intermedius;Soude 10%;chair;rose orangé;
+Cortinarius josserandii;Soude 10%;chair;noir violacé;
+Cortinarius lanigeroides;Soude 10%;chair et cuticule;noirâtre;
+Cortinarius lanigeroides;Phénol;chair;grisâtre;
+Cortinarius largodelibutus;Phénolaniline;chair;brunâtre;
+Cortinarius largodelibutus;Phénol;chair;violet pâle;
+Cortinarius largodelibutus;Acide acétique;;;
+Cortinarius largus;Soude 10%;chair;jaune;
+Cortinarius largus;Acide acétique;chair;bleu intense;
+Cortinarius leproleptopus;Gaiac;chair;bleu;assez lent
+Cortinarius leubae;Phénolaniline;chair;rouge griotte;
+Cortinarius lignicola;Soude 10%;chair de la base;chamois;
+Cortinarius lignicola;Soude 10%;chair du chapeau;olive;
+Cortinarius lignicola;Soude 10%;cuticule;rouge pourpre;
+Cortinarius meinhardii;Soude 10%;chair;brunâtre;
+Cortinarius meinhardii;Soude 10%;cuticule;rouge;
+Cortinarius moenne-loccozii;Soude 10%;cuticule;bistre orangé;
+Cortinarius mucifloides;Soude 10%;chair;brun;
+Cortinarius mucifloides;Phénolaniline;chair;rouge;
+Cortinarius mucosoamarissimus;TL4;revêtement;rouge très foncé;
+Cortinarius mucosoamarissimus;Potasse 10%;revêtement;rouge très foncé;
+Cortinarius nanceiensis;Potasse 10%;chair;olive puis rougeâtrep;
+Cortinarius nanceiensis;Potasse 10%;jaune du chapeau;olive;
+Cortinarius nanceiensis;Potasse 10%;brun roux du chap;rouge brun;
+Cortinarius odorifer;Acide acétique;cuticule;pourpre noir;
+Cortinarius odorifer;Soude 10%;chair;rouge brunâtre;
+Cortinarius oenochelis;Potasse 10%;cuticule;bistre noir;
+Cortinarius oenochelis;Potasse 10%;chair;brunâtre;
+Cortinarius orellanus;Soude 10%;cuticule;rouge pourpre;
+Cortinarius palustris;Soude 10%;cuticule;noir;
+Cortinarius parvus;Soude 10%;cuticule;brun rouge;
+Cortinarius percomis;Sulfate de fer;chair;verdâtre;
+Cortinarius percomis;Soude 10%;chair;brun à pourpre;
+Cortinarius percomium;Potasse 10%;cuticule;olive;
+Cortinarius percomium;Potasse 10%;chair du disque;rosâtre;
+Cortinarius percomium;Potasse 10%;chair du bulbe;groseille;
+Cortinarius phoeniceus;Soude 10%;cuticule;noir;
+Cortinarius phoeniceus;Soude 10%;chair;pourpre;
+Cortinarius poecilopus;Soude 10%;chair;beun noir;
+Cortinarius prasinocyaneus;Soude 10%;chair;rouge violacé;
+Cortinarius pseudocyanites;Phénolaniline;chair;rougeâtre;
+Cortinarius pseudosulfureus;Soude 10%;cuticule;brun sombre;
+Cortinarius pseudosulfureus;Soude 10%;chair;olive grisâtre;
+Cortinarius purpurascens;TL4;chair;violet;très rapide
+Cortinarius purpurascens V larguso;TL4;chair;violet;très vite
+Cortinarius regis-romae;Soude 10%;chair;rouge pourpre;
+Cortinarius rubicundulus;Formol;chair;jaune citron;
+Cortinarius rufo-olivaceus;Soude 10%;chair;olive puis vineux;
+Cortinarius safranopes;Soude 10%;chair;violet;
+Cortinarius sanguineus;Soude 10%;chair;pourpre noir;
+Cortinarius scaurus;TL4;chair;violet;
+Cortinarius semisanguineus;Soude 10%;chair;sépia;
+Cortinarius semisanguineus;Acide acétique;cuticule;pourpre noir;
+Cortinarius sodagnitus;Potasse 10%;cuticule;rouge;
+Cortinarius splendens;Potasse 10%;chair;brun olivacé;
+Cortinarius suaveolens;Soude 10%;cuticule;brun rouge;
+Cortinarius subtortus;Phénolaniline;chair;jaune;
+Cortinarius subtortus;TL4;moelle du stipe;vert-bleu;
+Cortinarius subtortus;Soude 10%;chair;brun rouge;
+Cortinarius subvalidus;Potasse 10%;chair;roux orangé;
+Cortinarius subvirentophyllus;Potasse 10%;chair;brun;
+Cortinarius terpsichores V calospo;Potasse 10%;chair;± jaune;
+Cortinarius tophaceus;Potasse 10%;chair du bulbe;brun rouge sombre;
+Cortinarius torvus;Potasse 10%;chair;noirâtre;
+Cortinarius triumphans;Potasse 10%;chair;jaune de chrome;
+Cortinarius triumphans;Potasse 10%;cuticule;orange;
+Cortinarius uliginosus;Soude 10%;chair;carmin;
+Cortinarius uliginosus;Acide acétique;lames;rouges foncé;
+Cortinarius urbicus;Soude 10%;chair;gris sépia;
+Cortinarius variecolor;Soude 10%;chair;jaune;
+Cortinarius variiformis;Potasse 10%;chair;jaune sale;
+Cortinarius varius;Potasse 10%;chair;jaune d'or;
+Cortinarius violaceus;Potasse 10%;chair;rouge sang;
+Cortinarius xanthophyllus;Soude 10%;chair;rouge;
+Cortinarius xanthophyllus;Soude 10%;cuticule;grenat;
+Cryptodiscus pallidus;Iode;hyménium;bleu;assez rapide
+Hemipholiota populnea;Potasse 10%;chair;jaune;
+Hemipholiota populnea;Sulfate de fer;chair;nulle;
+Hericium coralloides;Réactif de Melzer (Io;chair;bleuâtre;
+Hericium erinaceum;Réactif de Melzer (Io;chair;bleuâtre;
+Hydnellum auratile;Soude 10%;chair;vert olive;très rapide
+Leccinum avellaneum;Sulfate de fer;chair;vert olivâtre;
+Leccinum avellaneum;Formol;chair;nul ou rose pâle;lent
+Leccinum brunneogriseolum;Sulfate de fer;chair;olivâtre à ± gris;
+Leccinum brunneogriseolum;Formol;chair;rosâtre;assez lent
+Leccinum carpini;Sulfate de fer;chair;vert;
+Leccinum carpini;Formol;chair;rouge brique sombre;
+Leccinum crocipodium;Sulfate de fer;chair;verdâtre à vert olivâtre;
+Leccinum crocipodium;Formol;chair;rouge brique;
+Leccinum duriusculum;Sulfate de fer;chair;vert ± sombre;
+Leccinum duriusculum;Formol;chair;rose;
+Leccinum holopus;Formol;chair;rose;lent
+Leccinum holopus;Sulfate de fer;chair;verdâtre;
+Leccinum lepidum;Sulfate de fer;chair;vert bleu;
+Leccinum lepidum;Formol;chair;corail;
+Leccinum quercinum;Sulfate de fer;chair;vert à vert-bleuâtre terne;
+Leccinum quercinum;Formol;chair;rouge orangé vineux;
+Leccinum variicolor;Sulfate de fer;chair;verdâtre à vert olivacé;
+Leccinum variicolor;Formol;chair;rosé;
+Leccinum versipelle;Sulfate de fer;chair;vert à vert-jaune;
+Leccinum versipelle;Formol;chair;rosâtre à saumon;
+Lepista inversa;Soude 10%;chair;jaune;très rapide
+Leucopaxillus tricolor;Gaiac;chair du pied (base);bleu-vert;
+Leucopaxillus tricolor;Potasse 10%;revêtement;sépia;
+Leucopaxillus tricolor;Réactif de Melzer (Io;chair;brun;
+Phellodon niger;Soude 10%;chair;vert olive;très rapide
+Pholiota alnicola;Potasse 10%;chair;orangé;
+Pholiota alnicola;Sulfate de fer;chair;vert;
+Pholiota astragalina;Potasse 10%;chair;orangé;rapide
+Pholiota aurivella;Sulfate de fer;chair;vert;
+Pholiota flammans;Sulfate de fer;chair;verdâtre;
+Pholiota lenta;Sulfate de fer;chair;vert;
+Pholiota lenta;Ammoniaque;chair;jaune;très rapide
+Pholiota squarrosa;Sulfate de fer;chair;verdâtre;
+Ramaria aurea;Sulfate de fer;rameaux;bleu vert;
+Ramaria aurea;Sulfate de fer;haut du tronc;rouge carmin;
+Ramaria bataillei;Gaiac;chair;bleu sombre;
+Ramaria curta;Potasse 10%;rameaux;brun;
+Ramaria fennica V fumigata;Potasse 10%;rameaux;brun rouge;immédiat
+Ramaria fennica V griseolilacina;Potasse 10%;rameaux;brun rouge;
+Ramaria flavescens;Ammoniaque;rameaux;brun à brun violet;
+Ramaria formosa;Gaiac;chair;rougeâtre;
+Ramaria formosa;Sulfate de fer;chair;vert bleuâtre;
+Ramaria largentii;Sulfate de fer;tronc;rouge;
+Ramaria largentii;Phénol;rameaux;brun violacé;
+Ramaria largentii;Ammoniaque;rameaux;brun orangé;
+Ramaria sanguinea;Gaiac;chair;brun vineux;
+Ramaria sanguinea;Acide sulfurique;chair;jaune verdâtre;
+Ramaria stricta;Gaiac;rameaux;bleu vif;
+Ramaria stricta;Sulfate de fer;rameaux;vert ardoise;
+Russula acetolens;Gaiac;chair;bleu pâle;lente
+Russula acetolens;Sulfate de fer;chair;rosâtre;
+Russula acrifolia;Gaiac;chair;bleu vif;rapide
+Russula acrifolia;Sulfate de fer;chair;gris verdâtre;
+Russula adulterina;Gaiac;chair;bleu;très rapide
+Russula adusta;Formol;chair;rose orangé;
+Russula adusta;Gaiac;chair;bleu vert;
+Russula adusta;Sulfate de fer;chair;rosâtre puis vert-de-gris;
+Russula aeruginea;Sulfate de fer;chair;jaune orangé pâle puis gris ros;
+Russula albonigra;Sulfate de fer;chair;rougeâtre à rose carné;
+Russula amara;Sulfate de fer;chair;orangé;
+Russula amara;Gaiac;chair;bleuâtre;lente
+Russula amara;Sulfovanilline;stipe;rouge groseille;rapide mais fugit
+Russula amethystina;Phénol;chair;brun chocolat;
+Russula amethystina;Gaiac;chair;bleuâtre pâle;
+Russula amoena;Phénol;chair;violet vineux;
+Russula amoenicolor;Sulfate de fer;chair;orangé pâle;
+Russula amoenicolor;Gaiac;chair;bleuâtre;lente
+Russula amoenicolor;Phénol;chair;brun vineux;lente
+Russula amoenolens;Formol;stipe;rose pâle;lente
+Russula amoenolens;Gaiac;chair;bleu vif;rapide
+Russula anatina;Gaiac;chair;bleuâtre;assez rapide
+Russula anatina;Sulfate de fer;chair;rose brunâtre pâle;lente
+Russula anthracina;Sulfate de fer;chair;à peine verdâtre ou nul;
+Russula anthracina V carneifolia;Sulfate de fer;chair;rosâtre;
+Russula aquosa;Gaiac;chair;bleu pâle;lente
+Russula aquosa;Sulfate de fer;chair;brun pâle;lente
+Russula aquosa;Sulfovanilline;chair;pourpre vif;rapide
+Russula atrorubens;Sulfate de fer;chair;orange pâle;
+Russula atrorubens;Gaiac;chair;bleu vif;très rapide
+Russula aurea;Phénol;chair;brun chocolat;
+Russula aurora;Gaiac;chair;bleuâtre;lente
+Russula badia;Gaiac;chair;bleu;lente
+Russula cessans;Gaiac;chair;bleu;rapide
+Russula cessans;Sulfate de fer;chair;rose orangé pâle;lente
+Russula chloroides;Sulfate de fer;chair;rougeâtre faible;
+Russula consobrina;Sulfate de fer;chair;gris rosé pâle;
+Russula consobrina;Phénol;chair;brun chocolat;
+Russula cutefracta;Sulfate de fer;chair;nulle;
+Russula cyanoxantha;Sulfate de fer;chair;subnulle;
+Russula delica;Sulfate de fer;chair;rose orangé pâle;lente
+Russula densifolia;Sulfate de fer;chair;rose puis vert;
+Russula densifolia;Gaiac;chair;bleu vif;rapide
+Russula faginea;Sulfate de fer;chair;vert foncé;très rapide
+Russula faginea;Gaiac;chair;bleu;lente
+Russula farinipes;Gaiac;chair;subnulle;très lente
+Russula firmula;Gaiac;chair;bleuâtre;lente
+Russula firmula;Sulfate de fer;chair;rougeâtre terne;
+Russula flavispora;Gaiac;chair;bleu;rapide
+Russula flavispora;Sulfate de fer;chair;rosâtre;
+Russula foetens;Potasse 10%;chair blanche;crème ou nulle;
+Russula foetens;Potasse 10%;chair du stipe;rougeâtre;
+Russula galochroa;Gaiac;chair;bleu;rapide
+Russula galochroa;Sulfate de fer;chair;brun rose pâle;
+Russula grisea;Sulfate de fer;chair;rose orangé;rapide
+Russula heterophylla;Gaiac;chair;bleu vif;très rapide
+Russula heterophylla;Sulfate de fer;chair du pied;rose orangé;très rapide
+Russula heterophylla V chlora;Sulfate de fer;chair du pied;rose orangé;
+Russula illota;Potasse 10%;chair;subnulle;
+Russula insignis;Ammoniaque;base du stipe;rouge orangé;
+Russula insignis;Potasse 10%;base du stipe;rouge orangé;
+Russula integra;Phénol;chair;brun chocolat;
+Russula integra V oreas;Phénol;chair;brun chocolat;
+Russula integra V oreas;Gaiac;chair;bleuâtre;lente
+Russula ionochlora;Gaiac;chair;bleu clair;rapide
+Russula ionochlora;Sulfate de fer;chair;rose grisâtre;
+Russula langei;Sulfate de fer;chair;verdâtre;assez rapide
+Russula laurocerasi;Potasse 10%;chair;subnulle;
+Russula laurocerasi;Gaiac;chair;bleu;rapide
+Russula lilacea;Gaiac;chair;bleu;lente
+Russula lilacea;Sulfate de fer;chair;rose rougeâtre pâle;
+Russula lundellii;Sulfate de fer;chair;jaune orangé;rapide
+Russula luteotacta;Gaiac;chair;bleu vif;très rapide
+Russula luteotacta;Sulfate de fer;chair;orangé sale;
+Russula maculata;Gaiac;chair;bleu;lente
+Russula medullata;Sulfate de fer;chair;rose orangé pâle;
+Russula medullata;Gaiac;chair;bleu pâle;lente
+Russula mustelina;Gaiac;chair;bleu;rapide
+Russula mustelina;Phénol;chair;brun rouge;
+Russula mustelina;Sulfate de fer;chair;orangé brunâtre;très rapide
+Russula nauseosa;Sulfate de fer;chair;rosâtre;
+Russula nauseosa;Gaiac;chair;bleu;assez rapide
+Russula nigricans;Sulfate de fer;chair;vert sombre;
+Russula ochroleuca;Gaiac;chair;bleu;rapide
+Russula ochroleuca;Sulfate de fer;chair;orange pâle;
+Russula pallidospora;Sulfate de fer;chair;rose orangé pâle;
+Russula pallidospora;Gaiac;chair;bleuâtre;
+Russula pallidospora;Phénol;chair;brun lilacin;
+Russula parazurea;Gaiac;chair;bleu pâle;lente
+Russula parazurea;Sulfate de fer;chair;rose brunâtre sale;rapide
+Russula pectinatoides;Gaiac;chair;bleu;
+Russula pseudointegra;Gaiac;chair;bleuâtre pâle;très lente
+Russula pseudointegra;Sulfate de fer;chair;ocracé pâle;
+Russula pseudoraoultii;Sulfate de fer;chair;orangé;
+Russula pseudoraoultii;Gaiac;chair; ++;
+Russula pseudoraoultii;fer;chair;ocre rosé ou rose saumon;
+Russula pseudoraoultii;métol;chair;purpurin; ++;
+Russula pseudoraoultii;Dagron;chair;violet; +++;
+Russula pseudoraoultii;NaOH;chair ou stipe;jaune ;
+Russula pseudoraoultii;Phenolaniline;chair;0;
+Russula pseudoraoultii;Formol;chair;0
+Russula puellaris;Gaiac;chair;bleu;rapide
+Russula sororia;Gaiac;chair;vaguement bleuâtre;
+Russula stenotricha;Sulfate de fer;chair;rose orangé;
+Russula subfoetens;Gaiac;chair;bleu;rapide
+Russula subfoetens;Potasse 10%;chair blanche;jaune de chrome;très rapide
+Russula turci;Gaiac;chair;bleu pâle;lente
+Russula turci;Phénol;chair;brun chocolat;
+Russula versicolor;Gaiac;chair;bleu;
+Russula vesca;Sulfate de fer;chair;rose orangé;très rapide
+Russula vesca;Gaiac;chair;bleu;très rapide
+Russula vinosa;Gaiac;chair;bleu pâle;lente
+Russula vinosa;Sulfate de fer;chair;rosâtre;
+Russula vinosa;Phénol;chair;brun chocolat;
+Russula violeipes;Gaiac;chair;bleu vert pâle;assez lente
+Russula violeipes;Phénol;chair;brun chocolat;assez lente
+Russula virescens;Sulfate de fer;chair;rose orangé à brun rosâtre;
+Russula virescens;Gaiac;chair;bleu clair;
+Stictis radiata;Iode;hyménium;bleu intense;rapide
+Suillus granulatus;Ammoniaque;pores;rose orangé vif;très rapide
+Suillus plorans;Ammoniaque;chair;rosâtre;
+Tricholoma acerbum;Gaiac;chair;violacé;
+Tricholoma album V thalliophilum;TL4;chair;verdâtre;lent
+Tricholoma arvernense;TL4;chair;brunâtre pâle;lent
+Tricholoma atrosquamosum;Formol;chair;légèrement rosé;
+Tricholoma auratum;Ammoniaque;chair du chapeau;rosé pâle;
+Tricholoma equestre;Ammoniaque;chair;rosé à orangé;rapide
+Tricholoma inamoenum;TL4;chair;vert;
+Tricholoma pardinum;TL4;chair;violet lilacin;
+Tricholoma pseudoalbum;TL4;chair;vert;
+Tricholoma pseudoalbum;SulfoFormol;chair;vert;
+Tricholoma pseudoalbum;Gaiac;chair;bleuâtre;lent
+Tricholoma saponaceum;TL4;chair;violet;
+Tricholoma sulfurescens;TL4;chair;rosâtre à orangé;
+Tricholoma sulphureum;Sulfate de fer;chair;vert;
+Xerocomus badius;Potasse 10%;chair, revêtement;rouge;
+Xerocomus chrysenteron;Ammoniaque;chair;sans réaction;
+Xerocomus ferrugineus;Ammoniaque;chair;bleu-vert;rapide
+Xerocomus lanatus;Ammoniaque;chapeau;vert;rapide
+Xerocomus rubellus;Potasse 10%;chair;jaune orangé brunâtre;
+Xerocomus rubellus;Formol;chair;bleu de Prusse;
+Xerocomus rubellus;Sulfate de fer;chair;gris olivacé;
+Xerocomus subtomentosus;Potasse 10%;chair;jaune indien;
+Xerocomus subtomentosus;Sulfate de fer;chair;gris olivacé;
+Xerocomus subtomentosus;Ammoniaque;chair;rouge;
+
+

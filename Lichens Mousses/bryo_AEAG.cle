@@ -1,0 +1,11 @@
+titre$Bryophytes : Clé préliminaire pour l’identification du groupe 
+com$ cf "Les bryophytes aquatiques et supra aquatiques" Agence de l'Eau Adour-Garonne  / adapt aout 08
+rem$ CLE D’IDENTIFICATION DES BRYOPHYTES AQUATIQUES (et supra aquatiques)  pour la mise en œuvre de l'Indice Biologique Macrophytique en Rivière (I.B.M.R.) 
+rem$ accompagnée d’un REPERTOIRE DES PRINCIPALES ESPECES et d’un GLOSSAIRE ILLUSTRE
+
+1,0 $ A - Plante formant un thalle (sorte de lame verte)plus ou moins lobé : $ HEPATIQUE A THALLE $f"bryo_AEAG_hepatiques_thalle.cle"
+1,2 $ B - Plante présentant un axe feuillé, ramifié ou non
+2,0 $ A - Plante présentant des feuilles insérées sur deuxrangs latéraux et pouvant présenter en face ventrale(face sur laquelle sont insérés les rhizoïdes) unetroisième rangée de petites feuilles de forme différente(amphigastres) ; feuilles ne présentant pas denervure $ HEPATIQUE A FEUILLE$f"bryo_AEAG_hepatiques_feuilles.cle"
+2,3 $ B - Plante présentant des feuilles insérées sur plus dedeux rangs tout autour de la tige, pouvant néanmoinsêtre aplatie dorso-ventralement (et donner l’illusionde feuilles insérées sur deux rangs), ou feuilles inséréeseffectivement sur deux rangs et dans ce cas, présentantune structure particulière à 3 lames et unenervure (voir Fissidentaceae); feuilles présentant unenervure ou non …
+3,0 $ A - Plante présentant à son apex une touffe depetits rameaux serrés (capitulum) et sur le reste dela plante des rameaux verticillés, pendants ou plusou moins redressés ; limbe foliaire constitué de cellulesgrandes et hyalines (hyalocystes) intercaléespar des cellules plus étroites et colorées (chlorocystes)$ SPHAIGNE $ f"bryo_AEAG_sphaignes.cle"
+3,0 $ B - Plante présentant une organisation différente;limbe foliaire constitué d’un seul type de cellulessans alternance avec un autre type cellulaire maisdont le pourtour peut comporter des cellules de formesdifférentes $ MOUSSE $ f"bryo_AEAG_mousses.cle"

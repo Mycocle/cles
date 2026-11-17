@@ -1,0 +1,117 @@
+titre $ Tomentella- key of european species 
+com$ adapt GF avril 2013
+clé préalable
+
+1,10$ références
+1,0 $ a. Sporen blau-violett in KOH, Fruchtkörper frisch mit blauen Farben, trocken gelbgrünlich $ Amaurodon
+1,2 $ b. Sporen nicht blau in KOH
+2,0 $ a. Hymenophor glatt, Hyphen ohne Schnallen, Sporen farblos bis blassbräunlich, regelmäßig rundlich bis elliptisch, bis 7,5 µm, Sporen nicht bifurkat $ Tomentellopsis
+2,3 $ b. mit anderen Merkmalkombinationen
+3,4$a.Sporenstacheln bifurkat (doppelhöckrig oder gegabelt)
+3,cs1 $ b. Sporenstacheln nicht bifurkat $$s" Tomentella"
+4,0 $ a. Hymenophor glatt $ Pseudotomentella
+4,cs1 $ b. Hymenophor warzig bis hydnoid $$s" Tomentella"
+10,0$"Tomentella und verwandte Gattungen" Copyright © 2004-2013 by Frank Dämmrich   http://www.tomentella.de . 
+
+cs1,0$ Tomentella
+1,cs2 $ Hyphae clamped $$s"Hyphae clamped"
+1,cs3 $ Clamps absent or occasionally present $$s"Clamps absent or occasionally present"
+
+
+
+cs2,0$
+1,2 $ a.Cystidia present
+1,8 $ b.Cystidia absent
+2,0 $ a.Cystidia hyphoid 55-95 x 3-4 µm, growing from subiculum and rhizomorphs hymenophore hazel- brown to olive-brown, smooth to granulose margin byssoid with brownish dimitic rhizomorphs spores irregular, 8,5-10 µm $ Tomentella atroarenicolor Nikol. 1970
+2,3 $ b.Cystidia acuminate, capitate or clavate
+3,4 $ a.Cystidia acuminate (basally widened, rarely hyphoid)
+3,5 $ b.Cystidia capitate
+3,6 $ c.Cystidia clavate
+4,0 $ a.Hymenophore hazel- brown, granulose cystidia somewhat distended base and tapering towards the slightly expanded apices often apical encrusted with brown deposits some spores reddish brown in KOH $ Tomentella subtestacea (Bourd. & Galz.)Svrcek 1958
+4,0 $ b.Hymenophore greyish- green, smooth to granulose, mucedinoid cystidia apical slightly incrusted $ Tomentella galzinii Bourd. 1924
+5,0 $ a.Cystidia pale brownish to greenish basidiocarps separable, dimitic rhizomorphs present hymenophore yellowish- brown to olive- brown $ Tomentella pilosa (Burt)Bourd. & Galz. 1924
+5,0 $ b.Cystidia hyaline basidiocarps adherent, without rhizomorphs hymenophore greyish- green to olive- brown $ Tomentella viridula (Bourd.& Galz.)Svrcek 1958
+6,0 $ a.Basidiocarps separable, rhizomorphs present hymenophore greyish- brown to hazel- brown, smooth subicular hyphae brownish, thickwalled $ Tomentella muricata (Ellis & Everh.)Wakef. 1962
+6,7 $ b.Basidiocarps adherent, rhizomorphs absent subicular hyphae hyaline and thinwalled
+7,0 $ a.Spores irregular, partly lobed $ Tomentella clavigera Litsch. in Svrcek 1960
+7,0 $ b.Spores regular globose to ellipsoid subiculum thin to absent subhymenial hyphae partly short celled and inflated $ Tomentella subclavigera Litsch. 1933
+8,9 $ a.Spores up to 7 µm (without echinuli)
+8,14 $ b.Spores larger 7 µm (without echinuli)
+9,0 $ a.Spores small tubercular, globose 5-6 µm hymenophore ferruginous- brown, smooth to hydnoid margin byssoid, dimitic rhizomorphs $ Tomentella calcicola (Bourd. & Galz.)M.J.Larsen 1967
+9,10 $ b.Spores echinulate
+10,0 $ a.Basidia to 25 µm long, spores globose 4,5-5,5 µm hymenophore brownish, smooth subicular hyphae thin- to thickwalled $ Tomentella griseoumbrina Litsch. apud Lundell & Nannf. 1936
+10,11 $ b.Basidia longer 30 µm, spores larger 5,5 µm
+11,12 $ a.Subicular hyphae thinwalled, hyaline to pale brownish
+11,0 $ b.Subicular hyphae thickwalled, brown, incrusted, up to 6 µm wide, hymenophore greyish- brown to dark brown, granulose spores partly irregular globose $ Tomentella neobourdotii M.J Larsen 1968
+12,0 $ a.Subiculum white hymenophore pale brownish to greyish- brownish, smooth to granulose spores globose to subglobose $ Tomentella cinerascens (Karst.)Hoehn. & Litsch. 1906
+12,13 $ b.Subiculum brownish to ferruginous- brown, spores irregular
+13,0 $ a.Basidia and hyphae strong cyanescent (hyphae and basidia bluish- green to bluish- black in KOH) hymenophore blackish- brown rhizomorphs distinct, margin and subiculum ferruginous- yellowish $ Tomentella botryoides (Schw.)Bourd. & Galz. 1924
+13,0 $ b.Basidia and hyphae not cyanescent, rhizomorphs absent hymenophore brownish, margin and subiculum same- coloured $ Tomentella sp. FD 7548
+14,15 $ a.Spore ornaments bifurcate
+14,16 $ b.Spore ornaments not bifurcate
+15,0 $ a.Hymenophore hydnoid, ferruginous- brown margin and subiculum same- coloured rhizomorphs dimitic spores brownish, subglobose 7-8 µm $ Tomentella crinalis (Fr.)M.J.Larsen 1967
+15,0 $ b.Hymenophore smooth, tubercular or hydnoid, greyish- brown margin byssoid, subiculum darker than hymenophore rhizomorphs monomitic spores subglobose, partly irregular, 8-10 µm $ Tomentella italica (Sacc.)M.J.Larsen 1967
+16,0 $ a.Immaturity basidia vesicular to 20 µm wide, mature basidia up to 85 µm long hymenophore smooth, fawn basidiocarps compact spores irregular subglobose, 7-9,5 µm $ Tomentella terrestris (Berk. & Broome)M.J.Larsen 1974
+16,17 $ b.Not with this combination of characters( not : Immaturity basidia vesicular to 20 µm wide, mature basidia up to 85 µm long hymenophore smooth, fawn basidiocarps compact spores irregular subglobose)
+17,18 $ a.Spores subglobose or ellipsoid with regular outline
+17,27 $ b.Spores with irregular outline, often lobed
+18,19 $ a.Spores ellipsoid (lateral view)
+18,20 $ b.Spores subglobose (lateral view)
+19,0 $ a.Subicular hyphae hyaline, thinwalled subhymenial hyphae short celled and inflated spores 7- 9(10) µm long $ Tomentella ellisii (Sacc.)Jülich & Stalpers 1980
+19,0 $ b.Subicular hyphae brown, thickwalled subhymenial hyphae not short celled and inflated spores 8-12 µm long, partly irregular $ Tomentella atramentaria Rostr. 1894
+20,21 $ a.Subicular hyphae thinwalled
+20,22 $ b.Subicular hyphae thickwalled
+21,0 $ a.Hymenophore greyish- brown, tubercular, spores 8-11 µm basidiocarps separable, rhizomorphs present subiculum white, margin yellow to white $ Tomentella asperula (P.Karst.)Hoehn. & Litsch. 1906
+21,0 $ b.Hymenophore pale brown to brick, spores 7- 8,5 µm $ (forms of T.coerulea 32a. and T.lateritia 32b. with more regular spores)
+22,23 $ a.Spores yellowish
+22,25 $ b.Spores brown
+23,0 $ a.Spores ornaments bifurcate, hymenophor ferruginous- brown, apiculus not amyloid $ Tomentella sp. FD 8792
+23,24 $ b.Spores ornaments not bifurcate
+24,0 $ a.Hymenophor ferruginous- brown, apiculus amyloid $ Tomentella bryophila (Pers.)M.J.Larsen 1974
+24,0 $ b.Hymenophor olivaceus greenish, apiculus not amyloid Tomentella viridescens (Bres. & Torr.)Bourd. & Galz. 1928 $
+25,26 $ a.Spores subglobose to ellipsoid, 7,5 - 9, 5 µm, partly irregular, echinuli up to 1,5 µm
+25,0 $ b.Spores globose to subglobose, 8,5 - 11 µm, pines up to 2,5 µm $ Tomentella stuposa (Link)Stalpers 1984
+26,0 $ a.Subicular hyphae incrusted $ Tomentella lapida (Pers.)Stalpers 1984
+26,0 $ b.Subicular hyphae not incruted $ Tomentella alpina Peintner & Dämmrich 2011
+27,0 $ a.Spores long echinulate up to 2,5 µm, hymenophore smooth, fawn to rosy- buff, basidiocarps adherent, subiculum brownish margin byssoid to fimbriat, rhizomorphs present $ Tomentella testaceogilva Bourd. & Galz. 1924(similar is Tomentella rhodophaea Hoehn.& Litsch [echinuli up to 1,5 µm, subiculum whitish], probably two different Taxa)
+27,0,n $ similar is Tomentella rhodophaea Hoehn.& Litsch [echinuli up to 1,5 µm, subiculum whitish], probably two different Taxa
+27,28 $ b.Not with the above combination of characters (not : Spores long echinulate up to 2,5 µm, hymenophore smooth, fawn to rosy- buff, basidiocarps adherent, subiculum brownish margin byssoid to fimbriat, rhizomorphs present)
+28,29 $ a.Subhymenial hyphae to 8 (10) µm wide, partly short celled and inflated
+28,32 $ b.Subhymenial hyphae to 5,5 µm wide, regular
+29,30 $ a.Spores yellowish
+29,31 $ b.Spores brown
+30,0 $ b.Hymenophore ferruginous- brown $ Tomentella ferruginella Bourd. & Galz. 1924
+30,0 $ a.Hymenophore bright- green to olive-brown, smooth to tubercular $ Tomentella olivascens (Berk. & Curtis)Bourd. & Galz. 1928 (in Europe found not yet)
+31,0 $ a.Spores rough tubercular- echinulate, 8-12 µm warts often bifurcate, mostly spores with oiltrops hyphae to 7 µm wide, margin often fimbriat, partly rhizomorphs present $ Thelephora terrestris f. resupinata Donk 1933(Syn.: Tomentella radiosa (Karst.)Rick 1934) common
+31,0,n $ (Syn.: Tomentella radiosa (Karst.)Rick 1934) common 
+31,0 $ b.Spores long echinulate, 7-9 µm, echinuli not bifurcate hyphae to 10 µm wide, inflated up to 15 µm wide margin undetermined, rhizomorphs absent $ Tomentella sublilacina (Ellis & Holway)Wakef. 1962common
+31,0,n $ common
+32,33 $ a.Subiculum partly thin, rhizomorphs rare, basidia partly with reddish contents (examines in distilled water!) hymenial with amber- tinted adhering material, solving in KOH and partly cyanescent
+32,34 $ b.Subiculum and rhizomorphs distinct basidia not reddish in distilled water
+33,0 $ a.Hymenophore pale to dark brownish $ Tomentella coerulea (Bres.)Hoehn. & Litsch. 1907
+33,0 $ b.Hymenophore brick subiculum thin, often absent $ Tomentella lateritia Pat. 1894
+34,0 $ a.Basidia and hyphae cyanescent (hyphae and basidia partly bluish- green in KOH) hymenophore ferruginous- brown to olive- brown, granulose margin partly yellowish, rhizomorphs dimitic $ Tomentella ferruginea (Pers.)Pat. 1887(Remarks: If hymenophore blackish- brown view Tomentella botryoides 13a.)
+34,0,n $ If hymenophore blackish- brown view Tomentella botryoides 13a.) 
+ 
+34,35 $ b.Basidia and hyphae not cyanescent
+35,0 $ a.Hymenophore pale brownish with greenish or reddish tints, granulose, margin byssoid, ferruginous- brown, rhizomorphs monomitic or rarely dimitic $ Tomentella punicea (Alb. & Schw. : Fr.)Schroeter in Cohn 1889
+35,0 $ b.Hymenophore ferruginous- reddish to chestnut-brown, smooth to tubercular, margin ferruginous- reddish, rhizomorphs dimitic $ Tomentella umbrinospora M.J.Larsen 1968
+
+cs3,0$Clamps absent or occasionally present
+
+36,37 $ a.Spore ornaments bifurcate
+36,38 $ b.Spore ornaments not bifurcate
+37,0 $ a.Hymenophore tubercular to hydnoid, cinnamon brown spores slightly globose with short bifurcate ornaments, 6-8 µm cystidia like yellowish to brown tramal hyphae present $ Tomentella fibrosa (Berk. & Curtis)Köljalg 1995
+37,0 $ b.Hymenophore smooth $ (cf. Pseudotomentella!)
+38,39 $ a.Spores brown
+38,0 $ b.Spores hyaline $ (cf. Tomentellopsis!)
+39,40 $ a.Occasionally clamps present
+39,41 $ b.All hyphae simple septate
+40,0 $ a.Clamps present only at subicular hyphae or absent, spores regular globose, 7-9 µm, echinuli up to 3 µm $ Tomentella spinosispora Cizek 2004
+40,0 $ b.Subicular hyphae and subhymenial hyphae occasionally clamps present spores regular to irregular ellipsoid, 8-12 µm long, echinuli up to 1,5 µm $ Tomentella cinereoumbrina (Bres.)Stalpers 1993
+41,0 $ a.Basidiocarps thick, crustose, margin usually byssoid to fimbriate, mostly on soil $ Tomentella fuscocinerea (Pers.: Fr.)Donk 1933(=Thelephora fuscocinerea Pers.: Fr.)
+41,0,n $(=Thelephora fuscocinerea Pers.: Fr.) 
+
+41,42 $ b.Basidiocarps thin, tomentelloid, mostly on wood
+42,0 $ a.Echinuli up to 2,5 µm, spores irregular ellipsoid to globose basidiocarps mucedinoid $ Tomentella badia (Link)Stalpers 1975 (if spores regular globose view 40a.)
+42,0 $ b.Echinuli up to 1,5 µm, spores regular ellipsoid $ Tomentella cf. brunneofirma M.J.Larsen 1967

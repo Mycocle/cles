@@ -1,0 +1,551 @@
+5.5 µm
+
+titre$Mushrooms Growing on Other Mushrooms
+com$adapt GF sept 2015
+rem$LANGUE$Anglais
+ 
+
+1,2$ Growing on Cup shaped fungi and other ascomycetes 
+1,2,n$ Notes this includes Gyromitra, Helvella, Humaria, Lasiosphaeria, Leotia (Jelly Babies), Morchella (Morels), Sclerotina, and on some insect fungi Beauveria, Hirsutella, Isaria, and Paecilomyces, Colpoma, Nectria - NOT ON EARTH  TOUNGUES or FALSE TRUFFLES
+1,3 $ Growing on Earth Tongues
+ 
+1,cs2 $ Growing on Polypores
+
+1,cs3 $ Growing on Stereum 
+1,cs3 ,n$ _ includes Stereum hirsutum, Stereum ostrea, Stereum sanguinolentum, and Stereum subtomentosum
+rem$ 1,6 $ Growing on Peniophora sp. (A crust Fungi) and is jelly like
+1,30 $ Growing on Peniophora sp. (A crust Fungi) and is jelly like
+
+rem$ 1,0$ 
+j'ai un pb de decalage sinon !!!!!!!!!!!!! seulement sur win 7 !!! réglé avec dernière version
+1,7$ Growing on Boletes and Bolete Like fungi 
+1,7,n$ _ includes Austroboletus, Boletus, Gyroporus, Strobilomyces, Suillus, Tylopilus etc..
+1,8$ Growing on Tooth Fungi
+1,8,n$ _ includes Steccherinum adustum = Mycorrhaphium adustum
+
+1,9 $ Growing on Gilled Mushrooms 
+1,9 ,n$ Notes such as Agaricus, Amanita, Armillaria, Clitocybe, Collybia, Coprinus, Crepidotus, Entoloma, Gymnopus, Lactarius, Leptonia, Marasmius, Mycena, Nolanea, Pholiota, Pleurotus, Pouzarella, Russula, and Tubaria
+
+1,cs9 $ Growing on Slime Molds Myxomycetes) 
+1,cs9,n$ Notes such as Didymium, Fuligo, Hemitrichia, Lindbladia, Metatrichia, Stemonitis, and Trichia
+
+1,cs11 $ Growing on rotting fungi that are often unidentifiable since they are rotting or rotted and decayed and often blackened from the decay $ See A-I BelowCs11££********Fin cs11Cs12££
+
+1,cs12 $ Growing on Chanterelles ( Cantharellus sp.)
+
+1,13$ Growing on Coral Fungi
+1,13,n$ such as clavulina cinerea and clavulina cristata
+
+1,cs14 $ Growing on Puffballs or Growing on Scleroderma ( False Puffballs or Earth Balls)
+
+1,cs15 $ Growing on Elaphomices or other false truffles
+1,cs15 ,n$ _False truffles are usually buried.
+
+1,cs16 $ Growing on Jelly Fungi such as Exidia and Dacryomyces
+
+1,cs17$ Growing on Carbon and crusty looking fungi 
+1,cs17,n$ such as Bertia, Bytryosphaeria, Cucurbitaria, Diatrypella, Diatrype, Hymenochaete, Hypoxylon, Valsa, and Xylaria
+
+1,cs18 $ Growing on a mushroom that can not be seen, all we can see is a Squamanita 
+1,cs18,n $ Hosts are such fungi as Cystoderma, Galerina, Hebeloma mesophaeum, Inocybe oblectabilis
+
+ajouter ********** 
+1,0$ Growing on mushrooms that can not be seen. voir Squamanita odorata
+
+
+1,19 $ Growing on the Splash Cup - Cyathus striatus a type of Birds nest Fungi
+1,20 $ Growing on Aleurodiscus there are several species
+1,21 $ Growing on the Xylobolus sp. Such as Ceramic Parchment
+
+1,21 ,n $ including both Xylobolus frustulatus and Xylobolus subpileatus
+
+1,0$
+1,0$ Source : Trail Key to Mushrooms Growing on Other Mushrooms By John Plischke
+
+
+2,0 $ Growing on Humaria hemisphaerica. It is yellowish becoming tannish and powder like $ Hypomyces stephanomatis
+2,0 ,n $ Asci 65-100 X 4.5-7 µm . Its ascospores are 9-12 X 2.5-4 µm . Its anamorph is Stephanoma strigosum and is common unlike the rare teleomorph. It is white to whitish, can be cottony. Conidia 10-15.5X3.5-5.5. Aleuriocondia 12-20. NA and Europe
+2,0 $ Growing on Leotia lubrica-Yellow Jelly Babies. It is white to whitish at the beginning to buff then turning greenish or blue-green then darker to almost black $ Hypomyces leotiicola
+2,0 ,n $ The simple like perithecia are closely spaced and touching. Asci 60-100 X 4-6 µm . Ascospores 7-10 X 2.5-4 µm . The Anamorph is Sepedonium leotiarum. Conidia 12-17 X 2.5- 4.5 µm , Aleurioconidia 17-25 wide. Conidiophores are 40-60 µm in length***ajout***ccs180££  a faire************Fin ccs180
+
+2,cs180$ Growing on insect fungi
+
+2,0 $ Growing on Helvella, It starts off as a white to whitish mold then turning pinkish then brownish $ Hypomyces cervinigenus
+2,0 ,n $ Further details have really complicated the issues of what Helvella we have where and what different species of Hypomyces grow on them. Some of these issues will be discussed on the next page.It can cover the entire host mushroom. For a more accurate macroscopic ID look for the pinkish and brownish colored stages. The ascospores 14-24 X 2-5 µm . Asci 100-140 X 2-5 µm . Species infected include Helvella lacunosa, Helvella griseoalba, and Helvella macropus. Its anamorph is Mycogone cervina and is more commonly encountered, its aleurospores are 13-18 and conidia are 10-24 X 3.5-5 µm .
+2,0 $ Growing on Helvella lacunosa, often the host is unrecognizable and rotten, all that is sometimes seen is this small tannish brown colored gilled mushroom $ Clitocybe sclerotoidea
+2,0 ,n $ The Parasitic Clitocybe old name was= Tricholoma sclerotoideum. Its cap is 3/8 to 1 inches wide. It has a sclerotium that can vary in size but large enough to easily notice. The Clitocybe spores are 7-10 X 3-3.S µm . "
+2,0 $ Growing on Lasiosphaeria ovina $ Krieglsteinera lasiosphaeriae
+2,0 ,n $ It looks like tiny transparent hairs that have roundish balls on the outer end. It typically grows in quantity in the Lasiosphaeria but is very small and often a hand lens is needed to see them in detail. Typically a number grow on each Lasiosphaeria growing all over it and typically covering multiple hosts.
+2,0 $ Growing on Morels (Morchella) $ Hypomyces cervinigenus
+2,0 ,n $ It starts off as a white to whitish mold then turning pinkish then brownish. It can cover the entire host mushroom. For a more accurate macroscopic ID make sure the pink or brownish colored stages are present. The ascospores 14-24 X 2-5 µm . Asci 100-140 X 2-5 µm . Its anamorph is Mycogone cervina and is more commonly encountered, its aleurospores are 13-18 and conidia are 10-24 X 3.5-5 µm . See photo on page 24 where this is on Helvella.
+
+2,0 $ Growing on Gyromitra $ Sphaeronaemella helvellae
+2,0 ,n $ Only Gyromitra species affected are Gyromitra infula and Gyromitra ambigua. It makes the host look deformed a little, discolored and weakened. The ascispores are 8-10.5 X 3-4.5 µm . Asci have 8 spores. They are 14-26 X 10-16 µm . Conidia 7-15 X 3-4.5 µm .
+2,0 $ Growing on Sclerotina sclerotiorum $ Bionectria compactiuscula
+2,0 ,n $ It is yellowish orange to orangish colored and roundish ball in shape. It is typically sunken in the top center. It grows in groups.///It is 8 spored and the asci are 50-60 X 6-8 µm . Ascospores 8-12 X2.5- 4 µm . Conidia 4.5-8.5 X 1.5-3 µm . Its anamorph is Clonostachys compactiuscula./// _ Sclerotina sclerotiorum is just one of the things that this Bionectria grows on including many and more often non fungal things such as soil and dead bark. Also near pyrenomycetes./// _ Sclerotina sclerotiorum starts out looking like a whitish colored cottony mold that casuse plant rot. It produces blackish colored seed looking seed looking areas after the plant typically dies.
+2,0 $ Growing on some ascomycetes but also on non-fungal things such as dead bark. It is yellowish orange o orangish colored and resemble tiny roundish balls that are often darker colored in the top center $ Bionectria ochroleuca
+2,0 ,n $ Asci are 50-58 X 6.5X7.5 µm . Ascospores 9-11 X 2.5-4 µm . Conidia 4.5-6 X 2-3.5 µm .///_: its anamorph Clonostachys rosea can also grow on myxos.
+2,0 $ Growing in the spore bearing layer but not on top of Ascocoryne sarcoides $ Syzygospora sorana
+2,0 ,n $ The spores are 7.5-10 X 6-8.5 µm .
+2,0 $ Growing on the greyish pink to yellowish green colored discomycete Colpoma juniper which resembles a scab cut into a branches bark. The attacker is jelly like and off white and transulent $ Tremella karstenii= Tremella juniperina. 
+2,0 ,n $ Spores of the attacker are globe like or almost so and are 4-6 µm .
+2,0 $ Growing on Nectria cinnabarina, called the Coral Spot Fungi. Its fruiting body is up to ,3mm. In eastern North America growing on Beech - Fagus grandifolia, and in Europe on Littleleaf Linden - Tilia cordata wide $ Nitschkia parasitans var. mijuskovicii
+2,0 ,n $ Nectria cinnabarina anamorph is Tubercularia vulgaris. The Nitschkia asci are 35-65 X 5-10 µm . They have 8 spores. Ascospores are 5-11 X 2-3 µm .
+2,0 $ Growing on Nectria coccinea and Nectria coccinea var. faginata. That causes the beech disease on the trees and on Nectria galligena on cankers of Betula - Birch. Looks like large irregular shaped orange colored patches on the bark what are made up of orangish colored somewhat roundish balls that can sometimes be powdery $ Nematogonum ferrugineum= Gonatorrhodiella highlei 
+2,0 ,n $ This fungi imperfecti has Conidia 14-18 X 9-1 l µm .
+2,0 $ Growing on Pyrenomycetes $ Nitschkia brevispina
+2,0 ,n $ Ascospores 9-15X3-4
+
+
+3,cs31$ Growing on the Earth Tongue both Geoglossum sp. and Trichoglossum sp. Covering the host or at least part of it starting with the head and turning it whitish 
+3,0 ,n $ The NA Anamorph is Papulaspora Candida, which is what, is most commonly found and it resembles a circle with petals around it like a flower. In NA the Conidia 10-18 X 3- 5 µm and Papulospores 18-28 µm . Conidiophores 40-1 OO µm in length.
+
+rem$ 4,cs2 $ Growing on polypores $ See A-S Below cs2
+rem$ 5,cs3 $ Growing on Stereum $ " See A-F Below
+
+rem$ 6,0 $ Jelly like, growing on Peniophora sp. A crust Fungi $ Tremella mesenterica=Tremella lutescens 
+rem$ 6,0 ,n $ -The Witches Butter. It is faint yellowish to yellowish orange colored. Jelly like. Spores 9-18 X 8-12 µm . Typically on hardwood. A favorite host is Peniophora aurantiaca.
+
+7,0 $ Growing on Tylopilus rubrubrunneus $ Hypomyces melanocarpus 
+7,0 ,n $  Really deforms the cap and deforms the stalk somewhat. The Ascospores 28-36 X 7.5-10 µm . The anamorph is a Sepedonium.
+7,0 $ Growing on Suillus pictus = Suillus Spraguei, it is whitish becoming yellowish or olive brown in color $ Hypomyces completus
+7,0 ,n $  Asci 175-210 X 5-7 µm . Ascospores 25-36 X 5-9 µm . It also occasionally grows on other Boletales but this is the most common and easiest host witch to ID it on. It can cover all the outer parts of the host Suillus. Anamorph Sepedonium brunneum, the imperfect, which is a lot more common of the 2. It is white and cotton like and not firm as above then becoming a hot chocolate powder colored brown and it is then powdery. Conidi a 15-24 X 5.5- 8 µm . The aleurioconidia 17-23 and round to roundish.
+
+7,0$ It is white to whitish becoming yellowish or darker. Growing on many types of boletes but often the host Bolete is unidentifiable. A microscope will also be needed to make the final ID$ Hypomyces chrysospermus 
+7,0 ,n $  Also reported on Paxillus and Rhizopogon. Grows on Boletaceae. Commonly called Golden Hypomyces it has 3 forms first the whitish and chalk like Verticillium) stage then turning yellowish Anamorph- Sepedonium chrysospermum where it is very powder like, then orange to reddish brown when it finally becomes pimpled. The final stage is very rare. The entire host mushroom eventually gets attacked. Asci 100-160 X 6.5-9 µm . Ascospores 14-22 X 4-6 µm . Really like Xerocomus. The conidia are 7-22 X 3-10 µm . Aleurioconidia 12-22 round to roundish: I was told The Hypomyces 3-4 µm . in CA on xerocomus-type boletes includes four species - two each in the H. microspermus and H.chrysospermus clades. They may be published by UC Riverside people in the next couple years.. Micro : Compare with Hypomyces microspermus. Macroscopic ID is not possible. The spore size must be checked.H. microspermus has spores that are 10-14 X 3-4 _
+7,0 $ Also growing on at least several species of boletes. The perithecia pimples are buff to orangish to orangish brown colored or also having reddish tones. Basically the attacker is white to whitish at first turning buff to brown in color with age $ Hypomyces boletiphagus 
+7,0 ,n $  Asci 65-95 X 4-5 µm . Ascospores 8-14 X 2.5-4 µm . Hosts include Austroboletus, Gyroporus castaneus, Strobilomyces etc. It is uncommon. KOH makes yellowish to reddish. Its anamorph is Sepedonium sp. which is buff to light brown colored. Conidia 7-16 X 2-5 µm . Aleurioconidia 22-30 µm 
+7,0 $ Growing on boletes white to buff or yellow or yellowish brown. The pimple like perithecia, are buff, amber or brown. It can cover all parts of the host $ Hypomyces chlorinigenus 
+7,0 ,n $  Asci 70-90 X 3-5 µm . Ascospores 7.5-12 X 2-4 µm ///Hosts can include the anamorph is Sepedonium chlorinum which starts off white and cotton like but becomes yellowish. Conidia 7-14 X 2.5- 6 µm . Aleurioconidia 30-45 X 15-20 µm .
+7,0 $ It is white to whitish becoming yellowish. The pimples are yellow to orange or red or brown. The ascospores also turn purple in KOH. A microscope will also be needed to make the final ID $ Hypomyces inicrospermus 
+7,0 ,n $  Asci 110-120 X 4-6 µm . Its ascospores are 8-14 X 3-4 µm .///It grows on many types of boletes including Boletus badius and Xerocomus. All parts of the host can become attacked. The perithecia pimples turn purple in KOH. The anamorph is Sepedonium microspermuni It is cottony and white to yellowish colored. Conidia 8-15 X 3-6 µm . Its aleuriocondia are 9-15 µm and round to roundish.Compare with Hypomyces chrysospermus. Macroscopic ID is not possible. The spore size must be checked. Hypomyces chrysospermus has spores that are 14-22 X 4- 6 µm ._: I was told The Hypomyces in CA on xerocomus-type boletes includes four species - two each in the H. microspermus and H. chrysospermus clades. They may be published by UC Riverside people in the next couple years.
+
+8,0 $ Growing on a tooth fungi Steccherinum adustum = Mycorrhaphium adustum. It is typically found when orangish colored and peritecia pimpled looking but can occasionally be whitish then reddish when mature $ Hypomyces aurantius 
+8,0,n$  Also grows on Polypores such as Trametes. It can cover the pores or teeth or the entire host fungi. When finding it on Steccherinum I typically see it only covering the teeth and have to turn the mushroom over to spot it. It turns reddish purple to purplish with a drop of KOH. Asci 100-160 X 6-7 µm . Ascospores 20-25 µm x 4-6 µm . The white colored anamorph is Cladobotryum varium. Conidia 10-20 X 6-8 µm .Hypomyces subiculosus looks similar but grows in the southern North America and not northern. Its ascospores differ by being 1416 X 4-6 µm .
+
+9,0 $ Growing on Agaricus. It is whitish colored and makes the Agaricus develop deformed. It is most commonly identified on 9,0 Agaricus bisporus in mushroom farms but can grow on other types of mushrooms. Commonly called the Wet BubbleDisease $ Mycogone perniciosa =Hypomyces perniciosus. 
+9,0 ,n $  Aleuriospores 10.5-15 X 2.5-3.5 µm . Others include Coprinus, Pluteus, and Panaeolus.
+9,0 $ Suspected to be growing on or affecting Agaricus bisporus mycelium in commercial mushroom farms $ Clitopilus passeckerianus
+9,0 ,n $ _ there are a couple Clitopilus that are suspected of doing this. They have pinkish colored spore prints.
+9,0 $ Growing on Agaricus bistorus caps causing spotting $ Aphanocladiuin album
+9,0 ,n $ Not this is not the only Agaricus cap spot. Microscopy is needed for the correct ID
+9,cs4 $ Growing on Amanita $ See A-D Below
+
+
+9,0 $ Growing on Armillaria or at least attacking it $ Entoloma abortivum 
+9,0 ,n $ In the top photo the Aborted Entoloma is in the middle.The Armillaria on the left and Entoloma on the right. The Aborted ones are on the bottom in the bottom photo.
+9,0 $ Growing on Clitocybe sp especially Clitocybe nebularis, typically deforming the host some, has gills and a large sack at the base of the stalk $ Volvariella surrecta
+9,0 ,n $ Its cap is 1-3 inches wide. The gills are whitish turning pinkish as the spores mature. Its smooth spores 5-7.5 X 3-6.5 µm It has been also been reported on Tricholoma.
+9,0 $ Growing on Coprinus comatus $ Psathyrella epimyces
+9,0 ,n $ When the Shaggy Mane gets attack it typically is deformed. The Parasitic Psathyrella has spores that are 7-9.5 X 4-5 µm . Its cap is y2 to 2 VA inches wide. It spore print has a lot of black.
+9,0 $ Growing on Crepidotus $ Hypomyces tremellicola= Nectriopsis tremellicola.
+9,0 ,n $  This make the host turn whitish and its whitish. Its pimples are tannish to orangish brown. Sometimes we can not determine the host it is so deformed Asci 60-75 X 4-5 µm . Ascispores 7-14 X 3-4 µm . The white colored and cotton like anamorph is Verticillium sp. or like. Conidia 5-9 X 2- 3 µm .
+ 
+9,cs5$ Growing on Gymnopus dryophila or Gymnopus butyracea was Collybia appearing like a jellylike mass one the mushrooms $ See A,B,C,D Below
+9,0 ,n $ _ of the 3 Confirmed Species, in box below, that occur in North America, they can not be told apart with out a microscope. _ this Genus was called Christansena in many field guides.
+
+9,0 $ Growing on Gymnopus subnudus $ Hypocrea avellanea
+9,0 ,n $ It can grow on the cap, gills and stem. It is brownish and has pimples-the perithecia. Asci 55-90 X 3-5 µm . Has 16 Distal part-ascospores 2-4 X 2-3.5 µm , proximal part-ascospores 2.5-5 X 2-3.5 µm . Conidia 3-9 X 1.5-5 µm . At first it has a white colored Verticillium stage
+9,cs6 $ Growing on Lactarius $ See A-F BelowIci cs6  *********
+
+
+9,0 $ Growing on older Lepista nuda = Clitocybe nuda the Blewit $ Harziella capitata
+9,0 ,n $ current name is Lepisticola capitata/// A thin whitish soft moldy covering on gills or at least places on the gills. Perhaps others grow on the Blewit but this is the only thing I could find. In the US and France and Germany.
+9,0 $ Growing on Leptonia, Entoloma, & Pouzarella $ Hypomyces porphyreus
+9,0 ,n $ Can cover the entire host. The peritheica pimples when they develop are reddish brown. Asci 120-190 X 4-5 µm . Ascospores 20-30 X 3.5-5.0 µm . Most commonly reported on Leptonia strigoissima.
+9,cs7 $ Growing on Marasmius pallidocephalus, it is jelly like and covers the entire cap of the host deforming it and making it unrecognizable. Stalk not affected. There are 3 species that can not be told apart without a microscope since they all look the same 
+
+9,0 $ Growing on small Marasmioid looking gilled fungi. It can be yellowish in color and grow on both the cap and stalk $ Neobarya agaricicola
+9,0 ,n $ Asci 140-350 X 3.5-6 µm . Conidia 6-9 X 3-4.5 µm .
+9,10 $ Growing on Mycena appearing as hairs at least covering the cap : Spinellus sp.
+9,10 ,n $ This mushroom has the common name of Bad Hair Day Fungus. It typically is encountered on the Bleeding Mycena - Mycena haematopus but also other Mycena species and even some other gilled species. See below for additional microscopic Key. Macroscopically we can not continue. Only 3 Species from North America. See box below for NA.Other Species include Spinellus sphaerosporus spores globe shaped approx. l0 µm Spinellus gigasporus 12-15 X 50-60 µm .
+
+*********************3 cas particuliers***********vu
+--------------------------
+9,0 $ Growing on Paxillus (Tapinella) the photo below is of Paxillus involutus. $ This mushroom is the same as attackes Boletes so use the bolete part of the key to get the ED.
+9,0 $ Growing on Pholiota, brownish in color $ Hypomyces succineus
+9,0 ,n $ Its perithecia pimples are buff to brownish but the area around them is whitish to light buff Asci 100-135 X 5-6 µm . Ascospores 14-20 X 3.5-5 µm . The anamorph is Verticillium succineum. It is white to cream. Conidia 6.5-15 X 3-4.5 µm .
+9,0 $ Growing on Pleurotus ostreatus, the Oyster Mushroom - a yellowish colored slime mold $ Physarum polycephalum
+9,0 ,n $ It can also grow on other mushrooms such as Polyporus badius and also non mushroom areas. Its spores are globe like and 9-1 l µm .
+9,cs8 $ Growing on Russula $ See A-B Below
+
+9,0 $ Growing on the gills of Tubaria furfuraceae and distorting them, other parts are not affected. A whitish colored mold $ Nectriopsis tubariicola
+9,0 ,n $ The Ascospores are 12-16 X 3-4 µm . The anamorph may be Verticillum.
+9,0 $ Although not technically growing on a gilled mushroom this fungi often attacks inoculated Shiitake (Lentinula edodes) logs but can also grow on fallen rotting logs or bark. It is reddish brown to brownish when mature $ Hypocrea pachybasioides
+9,0 ,n $ Its asci are 70-100 X 4-6.5 µm . Distal part ascospores 3-4.5 X 2.5- 4.5 µm . Proximal part ascospores 3.5-5.5 X 2.5-3.5 µm Conidia 2-4 X l-3 µm . Its anamorph is Trichoderma polysporum.
+9,0 $ Although not technically growing on a gilled mushroom this fungi often attacks inoculated Shiitake (Lentinula edodes) logs that have or had Shiitake on them. They can also grow on Hypoxylon truncatum and Hypoxylon rubiginosum in other locations without the Shiitake. The attackers are black colored $ Nitschkia confertula
+9,0 ,n $ Asci 32-40 X 5-7 µm . Ascospores 7-9 X 3.5-5 µm .
+
+ 10,0$ with spindle shaped spores 30-60 µm long.$ Spinellus fusiger
+ 10,0$ with ovoid spores 20-30 µm long. $ Spinellus chalybeus
+ 10,0$ with limnoform (lemon shaped) spores 20-40 µm long$ Spinellus macrosporus
+10,0$ Other Species include : /// Spinellus sphaerosporus spores globe shaped approx. 10 µm///Spinellus gigasporus 12-15 X 50-60 µm.///Spinellus arvernensis 18-39 X 60-80 µm
+ micro :
+
+rem$ 10,cs9$ Growing on slime molds $ See A-G Below
+rem$ 11,cs11 $ Growing on rotting fungi that are often unidentifiable since they are rotting or rotted and decayed and often blackened from the decay $ See A-I BelowCs11££********Fin cs11Cs12££
+rem$ 12,cs12$ ********************$ cs12*c
+
+
+13,0 $ Growing on Coral Mushrooms. I have only found it on 2 species Clavulina cristata and Clavulina cinerea $ Helminthosphaeria clavariarum
+13,0 ,n $ It is grayish turning darker to black. Typically it starts at the base of the coral mushroom and the parasite works up and can eventually cover the entire host. Its ascospores are 11-16X5- 7.5 µm . Its old name was Spadicioides clavariae. The anamorph is Diplococcium clavariarum. Conidia 13-28 X 6-9 µm .
+
+rem$ 14,cs14$ 
+
+rem$ 15,cs15 $ Growing on False Truffles - Elaphomyces $ See A,B,C Below
+
+rem$ 16,cs16$ *************$  cs16*********
+
+
+rem$ 17,cs17$ Growing on carbon looking Fungi 
+ajout a faire********************
+
+cs17 ??
+
+rem$  18,cs25 $ Growing on a mushroom that can not be seen, all we can see is a Squamanita 
+
+
+19,0 $ Growing on the Splash cup Cyathus striatus forming a whitish becoming beige colored thick ring around it $ Hypocrea latizonata
+19,0 ,n $ The pimples are orangish. There is no known anamorph. Distal part Ascospores 3.5-4 X 3-3.5 µm . Proximal part ascospores 3.5-4.5 X 2-3 µm . It is eastern North America in range.
+
+20,0 $ Growing on Aleurodiscus amorphus, jelly like and creamy white in color, sometimes with pinkish tones, the tree the host fungi grows on is spruce or balsam fir $ Tremella simplex
+20,0 ,n $ Basidiospores 7-9 diam. Conidia 4-7 X 2.5-5 µm ._: It may also grow on A. thujae. The Parasite grows in North America and Europe.
+20,0 $ Growing on the crust Acanthophysellum lividocoeruleum= Corticium lividocoeruleum = Aleurodiscus lividocoeruleus $ Tremella subencephala
+20,0 ,n $ Spores 6 X 4 µm . It is also reported on Aleurodiscus lividocoeruleus.
+20,0 $ Growing on Aleurodiscus grantii $ Tremella mycetophiloides
+20,0 ,n $ _ : It may also grow on A. simplex.
+
+21,0 $ Growing on the Xylobolus frustulatus common name Ceramic Parchment and Xylobolus subpileatus $ Hypomyces xyloboli
+21,0 ,n $ Its perithecia pimples are brownish colored, KOH has no reaction on them. Asci 110-126 X 5-6 µm . Ascospores 15-18 X 3.5-4.5 µm . Do not confuse with the typically orange colored Hypomyces aurantius which has been reported on Xylobolus subpileatus. Anamorph Cladobotryum sp. is gray-green colored. Conidia 8-14 X 5-6 µm .……………………………………….
+
+
+30,0$ Jelly like, growing on Peniophora sp. A crust Fungi $ Tremella mesenterica=Tremella lutescens 
+30,0 ,n $ -The Witches Butter. It is faint yellowish to yellowish orange colored. Jelly like. Spores 9-18 X 8-12 µm . Typically on hardwood. A favorite host is Peniophora aurantiaca.
+
+
+
+
+
+
+
+
+
+
+
+----------------------------------
+
+
+part-ascospores
+cs31,0$ Growing on the Earth Tongue
+
+1,0$ Growing in North America.$ Hypomyces papulasporae var. americanus
+1,0,n $   Asci 75-125 X 4-5.5 µm . Ascospores 13-17X2.5 4 µm , Asci 75-130 X 4-5.5 µm .
+1,0$ Growing in Europe$ Hypomyces papulasporae var.papulasporae 
+1,0,n $    Papulaspores not as large as American collections but the conidia are larger
+
+
+
+cs2,0$ Growing on Polypores 
+1,0$  Growing on the pore surface of Fomes fomentarius. It is whitish to cream in color often with pinkish tones. Its pores are often angular and 5-7 per mm.. $ Junghuhnia nitida 
+1,0,n $    It is occasionally found growing on the fomes but typically without a fungal host just on wood. Its spores are 2-4.5 X 2-3 µm .
+1,0$  Growing on Ganoderma, Fomes and Rigidoporus such as R. lineatus and R. microporus, looking fan shaped like a Chinese folding fan or like a upside down umbrella variable. $ Sporophagomyces chrysostomus Hypomyces chrysostomus. 
+1,0,n $    It can be whitish to creamy yellow or with pinkish and can be fuzzy or more solid. It often can be peeled off its host. Asci 80-100 X 5-6 µm . Ascospores 9.5-15 X 3-4 µm . Its anamorph is Acremonium lindtneri. Conidia 10-25 X 25 µm . _: There is only one other species in this genus Sporophagomyces lanceolatus which looks similar but its ascospores are 30-36 X 35 µm , only on Rigidoporus and in Puerto Rico, and perhaps S. moellerianus./// sometimes they grow on themselves.
+1,0$  Growing on Ganoderma and Laetiporus but also others, with yellowish in color, yellowish orange and yellowish brown, and pimpled resembling Hypocrea americana $ Hypocrea pulvinata 
+1,0,n $    Asci 60-95 X 35.5 µm . Its distal part-ascospores are 3.5-5-1,0 x 2.5-4 µm , proximal part ascospores 3.5-5 X 2.5-4 µm .
+1,0$  Growing on The Birch Polypore - Piptoporus betulinus where it is typically found but also on Fomitopsis pinicola and others but less commonly encountered on these hosts. Yellowish in color sometimes also having orange or off brown tones in addition, and typically found on the pores $ Hypocrea americana 
+1,0,n $    was Hypocrea citrina var. americana this mushrooms name changed when it became its own species. Asci 50-100 X 3.5 6 µm . Its distal part-ascospores are 2.5-4 X 3-4.5 µm , proximal part-ascospores 2.5-4 X 3-4 5 µm and are almost the same length and width.
+1,0$ Growing on various polypores turning them reddish, hosts include the Birch Polypore - Piptoporus betulinus, it is a very small .2-.5mm creamy to blackish, cup shaped asco$ Hyphodiscus hymeniophilus
+1,0,n $    The ascospores are 5.5-8.5 X 2.5-3.5 µm . Its anamorph is Catenulifera rhodogena. Conidia 2.5-5 X 1.5-2.5 µm .
+1,0$  Growing on the underside of older Trametes versicolor and Trichaptum biforme. The 2 forms with look like either small black pimples on the pores or small black hair look at the tubes $ Ascocodinaea polyporicola 
+1,0,n $    The loupe will often be needed to see them. It is 8 spored. Ascospores 12.5-16 X 5-6.5 µm . The anamorph stage is the one that looks like hairs but are really the conidiophores. Although the photo below by Noah Siegel is growing on Fomes fomentarius we are not certain what it is but you can see hairs
+1,0$  Growing on Trametes versicolor and others but most common on it, buff around the pimples which are orangish, reddish orange, salmon-brown, or peach colored $ Hypomyces polyporinus 
+1,0,n $    Turns reddish with KOH drop on surface. Other hosts include Polyporus sp., Trametes pubescens and the Wood Ear Auricularia auricula. Asci 94120 X 4-5.5 µm . Ascospores 15 22 X 3-4 µm . The buff colored anamorph is Cladobotryum clavisporum but it is just buff colored. Conidia 20-30 µm X 7-9 µm .
+1,0$  Growing on Trichaptum, a hand lens is often needed to see the black colored stalked heads that grow on top of some of them $ Phaeocalicium polyporaeum 
+1,0,n $    The black hairs resemble matchsticks hence the common name Match Stick Fungi They are about 1/16 inch tall. The Violet Tooth Polypore Trichaptum biforme is a favorite host, but also on T. abietinum. It is fairly commonly collected on T biforme
+1,0$  Growing on Trichaptum looks whitish around the buff to yellowish colored occasionally a light brownish color, perithecia pimples and whitish and more fuzzy and threadlike elsewhere $ Hypomyces sibirinae 
+ 1,0,n $    a southeastern US Species. Also on Polyporus sp. Asci 110-130 X 4.5-6.5 µm . Ascospores 14-20 X 3.5-4.5 µm . Anamorph Cladobotryum hughesii. Conidia 10-30 X 3.5-6 µm .
+1,0$  Growing on and covering both the upper and lower surface of Tyromyces/Oligoporus, not jelly like $ Hypocrea pallida 
+1,0,n $    It also grows on other mushrooms but easiest to ID on the host above. It looks orangish colored but can be white in places it can also be light yellowish. The perithecia are orange and turn reddish with a drop of KOH. Asci 5.4-6.2 X 2.5-3 µm . Distal part ascospores 2.5-3 X 2-2.5 µm , proximal part-ascospores 3.0-3.5 X 2.0-2.5 µm . Conidia 25.5 X l2 µm . Its anamorph is believed to be Gliocladium penicillioides. Page 44
+1,0$  Growing in Tyromyces lacteus = Oligoporus lacteus, or Postia caesia- It is jelly like look inside the tube area, a scope may be needed $ Tremella polyporina 
+1,0,n $    Spores globe shaped to almost globe shaped 4.5-6 X 5-6 µm . Conidia 4-6 X 2-3 µm .
+1,0$  Growing on polypores, typically found when orange colored, has perithecia pimpled looking, turns reddish purple to purplish with a drop of KOH. Hosts include Stereum and Trametes versicolor $ Hyponiyces aurantius
+1,0,n $    It can cover the pores or entire host mushroom. Asci 100-160 X 6-7 µm . Ascospores 20-25 µm x 4-6 µm . The white colored anamorph is Cladobotryum varium. Hosts include Trametes versicolor. Conidia 10-20 X 6-8 µm .  _: Hypoinyces subiculosus looks similar but grows in the southern North America and not northern. Its ascospores differ by being 1416 X 4-6 µm .  Page 45
+1,0$  Growing on polypores, white to whitish or cream or buff to peach in color and can have yellowish tones and can have smaller whitish splotches, and crusty on polypores it does not turn reddish with KOH drop on its surface $ Hypomyces mycophilus
+1,0,n $    In this the teleomorph state it is basically found on polypores such as Trametes versicolor but occasionally others, there are only 5 collections of the teleomorph so it is rare. The perithecia pimples are orangish to peach colored or with brownish tones. Asci 140-150 X 4-6 µm . Ascospores 1624 X 5-6.5 µm . _ also grows on Stereum. The anamorph is Cladobotryum polypori, which is buff in color and looks like cotton. Conidia 1424 X 7.5-10 µm . The anamorph also grows on other species including gilled mushrooms, tooth fungi, polypores and Stereum etc. Chlamydospores 20-30 X 1826 µm . ALSO _ the key for this one could use some work since it is not listed in this key on its other hosts
+1,0$  Growing on polypores especially the Hemlock Varnish Shelf - Ganoderma tsuagae. It is greenish to blackish green. Also reported to be a dark brown but I have never seen it this color. It is roundish $ Hypocrea lixii 
+1,0,n $    Asci 60-70 X 4-5 µm . Distal part ascospores 4-4.5 X 4 µm . Proximal part Ascospores aprox 4.5 X 3.5-4 µm . Condia 2.5-3.5 X 2.5 3.0 µm . On wood, plant, leaves, soil and fungi but my favorite place is on Ganoderma tsugae. The Conidia are 2.5-3.5 X 2.5 3.0 µm . The more commonly found anamorph is Trichoderma harzianum.
+1,0$  Growing on Bjerkandera - such as the Smoke Polypore $ Melanospora lagenaria 
+1,0,n $    Its spores are limoniform. Often growing on the spore producing side. Spores 12-21 X 7-14 µm .
+1,0$ . Growing on polypores typically on the pored area. It resembles tiny orange colored balls that can have a beak in the center that can be other colors $ Hydropisphaera peziza= Nectria peziza 
+1,0,n $    _ it can also grow on rotted wood and bark as well as dung and others. Its spores have 2 oil drops with a line between them. The asci are 8 spored. Asci 60-76 X 8-10 µm . Ascospores 10-14 X 57 µm . Page 48
+1,0$  A unknown Grifóla Mold ???$ 
+1,0$  It is whitish becoming buff the pimples are faintly yellow to off pinkish to reddish with brown tones $ Hypomyces tegillum 
+1,0,n $    Asci 130-140 X 510 µm . Ascospores 30-40 X 5-9 µm . Conidia 1.6-4-6 X 8-14 µm . It has chlamydospores.
+1,0$  So far only know to grow only on a single species of polypore, Antrodia infirma which occurs on pine. It is the only species that occurs on polypores $ Syzygospora lapponica 
+1,0,n $    It was described from Finland European species. _ they grow inside the basidiocarps of the Antrodia. Spores 57 X 1.5-2 µm 
+1,0$  Growing on the pores of certain types of polypores such as Skeletocutis such as S. nivea where it is most commonly reported and perhaps Bjerkandera and Trametes. Its pimples are yellowish to amber but sometimes with olive or brown tones. Then whitish around them $ Protocrea farinosa 
+1,0,n $    Old name was Hypocrea farinosa. Its asci are 55-80 X 3-4.5 µm . It has 16 part spores. Has a Gliocladium anamorph. _: It appears that there are 3 species of them that grow on Skeletocutis with one undescribed one being from NA and the other undescribed one being from Europe. H. decipiens is similar but does not grow on Skeletocutis
+
+
+
+cs3,0$ Growing on Stereum
+rem$ Cs3££$ 
+1,0$  Not Jelly like and growing on the underside of Stereum. It is pimpled and they are yellowish to orangish or orangish brown and whitish to buff around the pimples. May need a loupe to see the pimples better $ Hypomyces sympodiophorus 
+1,0,n $    It prefers Stereum ostrea, Stereum subtomentosum Stereum hirsutum as hosts. Asci 94-132 X 4-5.5 µm . Ascospores 13-18 X 3-4.5 µm , its anamorph Cladobotryum uniseptatum is whitish colored only and whose conidia 10-17 X 5-8 µm . Chlamydospores 20-48 X 7-14 µm .
+1,0$  Not Jelly like and growing on the underside of Stereum sp It is pimpled and they are yellowish to gold. May need a loupe to see the pimples. Since the pimple colors can be close to the mushroom above a microscope can be helpful $ Sphaerostilbella aureonitens 
+1,0,n $    Asci 70-110 X 35 µm . Ascospores 7-12 X 2-3 µm . The whitish Anamorph is Gliocladium penicillioides. Conidia 2.5-5 X l2 µm . Hypomyces sympodiophorus and Sphaerostilbella aureonitens, see above, look similar use a scope Page 51
+1,0$  The perithecia pimples are black colored, growing on the underside of Stereum ostrea and Stereum hirsutum $ Ascocodinaea stereicola 
+1,0,n $    The pimples have black colored hair like growths use a scope or hand lens. Asci 60-100 X 6-9 µm . 8 spored. Ascospores 10-13 X 4.5-6 µm . The anamorph Codinaea sp. looks like grayish black to black colored hair like growths but the pimples are not present. Conidiophores 30-100 X 2.5-6.5 µm 
+1,0$  Jelly like and growing on or beside Stereum, It is yellowish orange colored and $ Tremella aurantia 
+1,0,n $    Spores 6-10 X 6-8 µm . It likes Stereum hirsutum
+1,0$  Jelly like growing on or beside Stereum sp. It is brownish to reddish brown colored $ Tremella foliacea 
+1,0,n $    The Jelly leaf is parasitic on Stereum mycelium Spores 7.5 12 X 6-9 µm . It is found with deciduous wood.  Page 53
+1,0$  Jelly like and growing on or beside Stereum sanguinolentum. It is white to creamy often developing yellowish, pinkish or light brownish tones $ Tremella encephala 
+1,0,n $    The inside is whiter colored when sliced in half The outer part is jelly like while the center interior is more firm and not jelly like. Grows on fallen conifer wood. Spores 6-11 X 6.5-9 µm .
+1,0$  Growing on Stereum but also others such as Phanaerochaete and Hyphoderma, resembeling a very tiny black colored ball with numerous hairs that are about ¥2. its thickness coming out like spines from all around the ball. Its spores have 3 pill lines going across it $ Helminthosphaeria corticiorum 
+1,0,n $    Its asci are 85-130 X 5.5-9 µm . Ascospores are 13-17 X 5 6.5 µm . Reported only from Corticiaceae. Reported From North America and Europe and others.
+
+
+cs4,0$ 
+1,0$  Growing on Amanita and typically covering the entire amanita typically not allowing the cap to expand and deforming them. It is whitish turning buff then pinkish but with age can develop yellow or brown tones. $ Hypomyces hyalinus 
+1,0,n $    It is solid and firm much more so than the host. Species infected include Amanita mbescens the perhaps most common host but also Amanita amerimuscaria nom. prov, and other amanitas. The Asci 105-130 X 4-6 µm . Ascospores arel322 X 4.5-6.5 µm . There is no known anamorph.
+1,0$  Growing on/in Amanita not deforming as above but turning its flesh yellowish and sometimes discoloring the gills $ Amanita Yellowing Syndrome  
+1,0,n $      Species affected include Amanita subsolitaria and other members of the Lepidella. The Yellowing Syndrome is yet to be named. _ there is also an Amanita Reddening Syndrome of amanitas where parts turn pinkish to reddish. It is unknown if it has an anamorph. It is not certain if the syndromes are fungal or bacteria or exactly what is the cause or causes
+1,0$ Growing on Amanita appearing as yellowish but ageing grayish colored hairs covering at least the cap of the host $ Syzygites megalocarpus
+1,0,n $    It can also grow on Lactarius, russula, puffballs and boletes as well as many other species over 50 plus. Common name troll doll fungi. They have zygospores that are round to roundish in the center with resembeling a cattle horn coming out at 2 opposite ends, 535 µm .
+1,0$  Growing on Amanita and typically covering the entire amanita and allowing the cap to at least expand some. The cap is not very firm as in Hypomyces hyalinus. It is pinkish colored $ Mycogone rosea   
+ 1,0,n $     It's conidia that are 8-30 X 3-6.5 µm . It grows on different mushrooms but I most commonly see it on Amanita but also reported on Inocybe, Tricholoma, etc.  Fin cs4 
+
+Cs5,0$ 
+1,0$  Growing on either the cap or also stalk lacks clamp connections (only one in key), also only one in key with 2 tips at the top of the basidium that hold the basidiospores the rest have 4 tips $ Syzygospora effibbulata 
+1,0,n $    Its basidiospores are 5.5-10 X 1.5-2.5 µm . Basidia 30-55 X 57
+1,0$  Growing on either the cap or also stalk has clamp connections and has the narrowest wide basidiospores of the ones in this key that have the clamp connections. The basidiospores are only 1.5-2 µm wide. Other species here that have the clamp, basidiospores are at least 3 µm wide $ Syzygospora mycetophila 
+ 1,0,n $    Its basidiospores are 6-8 X 1.5-2 µm . Basidia 45-80 X 6-8
+1,0$  Growing on either the cap or also stalk has clamp connections, basidiospores 3-4.5 µm wide $ Syzygospora tumefaciens
+1,0,n $     Its basidiospores are 6-8.5 X 3-4.5 µm . Basidia 40-80X7-18
+1,0$  Growing only in the gills and yet to be reported from North America unlike the other 3 species in this key. Also the basidia are much longer than any others listed here and are 36-54 X 14-17. Basidiospores are 9-13.5 X 4-6 µm , has clamp connections $ Syzygospora norvegica
+
+
+
+Cs6,0$ Growing on Lactarius
+1,0$  Typically found in an orange to reddish colored stage, and typically covering entire host. Under the loop it looks pimpled $ Hypomyces
+1,0$  Typically found in an orange to reddish colored stage, and typically covering entire host. Under the loop it looks pimpled $ Ilyponiyces lactifluonim 
+1,0,n $    The Lobster Mushroom can start off whitish but is seldom found in this color. Typically it is found orangish colored but age's reddish and can then get purplish tones. For a more accurate macroscopic ID look for the orange stage, since several lookalikes share the white stage but do not turn orange or red. Asci 200-260 X 6 lO µm . The Ascospores are 3548 X 4.5-8 µm . Also Grows on Russula. It is unknown if it has an anamorph. KOH makes the pimple purple. Edible and Choice
+1,0$  White to whitish occasionally buff covering the gills and at least some of the stalk but often not the entire host stalk. Basically a white lobster mushroom that stays white $ Hypomyces macrosporus
+1,0,n$ A drop of KOH will not make it turn red or purple. This species is a good edible. Asci 200-270 X 7.5-10 µm . The ascospores are 3242 X 5-7 µm . It is not known if it has an anamorph. This mushroom can not typically be told apart from Hypomyces banningiae macroscopically but Hypomyces macrospores ascospores differ by having a line through the center of them like a pill.
+
+1,0$  ) Typically white to whitish colored but turning yellowish colored then buff with age and drying. Growing on the underside of the caps covering the gills. The gills become fused together forming a solid mass. Typically the caps and lower stalks are not affected. Affected mushrooms seem much harder than their unaffected counterparts $ Hypomyces lateritius =Byssonectria lateritia macrosporus 
+1,0,n$  = Peckiella lateritia. Asci 90-155 X 4 8 µm . Its Ascospores are 16-28 X 3 5-6 µm . Hosts include Lactarius uvidus, Lactarius camphoratus and other Lactarius. The perithecia pimples turn yellowish with KOH. The suspected anamorph is Acremonium tulasnei but it can be found before the pimples are formed. It also differs by being cottony and the mushroom is less firm then. Conidia 57 X 4.5-6.5 µm . Compare to Hypomyces lithuanicus = H. torminosus that can have a more cinnamony color and its pimples turn reddish with KOH
+1,0$  ) Typically irregularly spider web like to cottony covering the gills. Whitish colored $ Hypomyces ochraceus or the Anamorph 
+1,0,n$ see more below to tell the 2 apart
+
+1,0$ Hypomyces armeniacus. Hosts can include both Russula and Lactarius and Clitocybe clavipes. The teleomorph Hypomyces ochraceous that is vary rarely found and his the pimple look, it is typically when found fallen on soil or debris after the mushroom disappears or has almost gone, but where the remains would be, it is beige with white sometimes orangish pimples. Asci 170-180 X 6-8 µm . Ascospores are 32-40 X 5-8 µm . Conidia 10-25 X 6-14 µm . The anamorph is the more common of them and is Cladobotrum verticillatum is what we typically find on the host mushrooms.
+
+1,0$  Typically a solid whitish or white to buff covering over the hosts gills. Make sure to compare with Hypomyces macrosporus but this is different microscopically. It is not cobweb like $ Hypomyces banningiae 
+1,0,n$ Grows in the East. Asci 210-320 X 6-9 µm . The ascospores are 30-42 X 57 µm . A drop of KOH will not make it turn red or purple. There is no known anamorph. One of the reported hosts in Lactarius piperatus. This mushroom is uncommon to rare. Hypomyces banningiae This mushroom can not typically be told apart from IT. macrosporus but Hypomyces macrospores ascospores differ by having a line through the center of them like a pill.
+1,0$  Growing on Lactarius camphoratus $ Hypomyces camphorati
+1,0,n$  The name needs to be checked to see if is valid.
+
+Cs7,0$ Growing on Marasmius pallidocephalus
+1,0$  Has 2 tips at the top of the basidium that hold the basidiospores, does not have clamp connections, basidiospores 6-8 X 3-4 µm $ Syzygospora marasmoidea
+1,0$  Has 4 tips at the top of the basidium that hold the basidiospores, has clamp connections, basidiospores 5.5-7.5 X3.5-4.5 µm $ Syzygospora solida
+1,0$  Has 4 tips at the top of the basidium that hold the basidiospores, does not have clamp connections, basidiospores 6- 8 X 3-4 µm . $ Syzygospora subsolida
+
+cs8,0$ Growing on Russula
+1,0$  Typically found in an orange to reddish colored stage, and typically covering entire host. Under the loop it looks pimpled $ Hypomyces lactifluorum 
+1,0,n$  The Lobster Mushroom can start off whitish but is seldom found in this color. Typically it is found orangish colored but age's reddish and can then get purplish tones. For a more accurate macroscopic ID look for the orange stage, since several lookalikes share the white stage but do not turn orange or red. The Asci 200-260 X 6-10 µm . Ascospores are 3548 X 4.5-8 µm . Also Grows on Lactarius. Common hosts include Russula brevipes. It is unknown if it has an anamorph. KOH makes the pimple purple. Edible and Choice
+1,0$  Typically found in the greenish form covering the gills and upper stalk on Russula. It starts off white then turns yellow but vary rarely encountered in these 2 color forms, then finally greenish when mature and as typically encountered $ Hypomyces luteovirens 
+1,0,n$ The Yellow Green Hypomyces typically grow on Russula sp but vary rarely can be found on Lactarius. =Byssonectria luteovirens and =Hypomyces virdis. Asci 160-200 X 5-8 µm . The Ascospores are 2836 X 4.5-6 µm . It is unknown if it has an anamorph
+
+cs9,0$ Growing on slime molds
+1,0$  Resembling tiny stalks with roundish heads that are whitish in color. They grow on slimemolds. It appears that it could be possible that it only grows on certain species of slime molds while its lookalike may only grow on other different species of slime molds $ Polycephalomyces tomentosus 
+1,0,n$  The species it attacks appear to include Hemitrichia serpula, Trichia, Metatrichia, and perhaps others. It is the Anamorph. The Telemorph is Byssostilbe stilbigera Stilbella ovalispora. Asci 100-200 X 5-9 µm . 8 spored. Ascospores 100-225 X 1.5-2.5 µm . Cuboidal part spores 12 X2-2.5 µm . Conidia can have have several shapes and sizes. 
+1,0$  Resembling above but Growing on different myxo hosts $ Stibella byssiseda 
+1,0,n$  Some of the literature mentions that the base of the stalk of Stibella byssiseda is not covered with waited cells but Polycephalomyces tomentosus has them. Siefert mentions Polycephalomyces on Trichiaceae while this Stibella grows on Cribraria sp., Didymium farinaceum, Fuligo septica and Lindbladia effuse. It is white to whitish colored. Its conidia are 4-6 X 1.5 2.5 µm . In both NA and Europe as well as other places.
+1,0$  on Stemonitis. Common on Cultivated Agaricus - $ Verticillium fungicola 
+1,0,n$ Called Dry Bubble Disease. It is whitish to creamy colored sometimes with some yellowish tones. Conidia 4 10Xl3 µm . The telemorph is unknown. Causes brown spots on cultivated Agaricus. 
+1,0$  Growing on Fuligo septica the Scrambled Egg Slime also called the Dog Vomit Slime only. It is a dull violet to violet colored and is very easily overlooked $ Nectriopsis violacea 
+1,0,n$ The perithecia pimples are violet to purplish, and they have hairs growing around the perithecia pores. It is whitish to purplish around them. Asci 50-60 X 35 µm . Ascospores are 7-8 X 2.5 3 µm . The whitish colored anamorph is Acremonium fungicola. Conidia 7-10 X 2-3 µm .
+1,0$  Growing on Fuligo septica the Scrambled Egg Slime and others, some Arcyria, Cribraria, Diachea, Diderma, Didymium, Fuligo, Lycogala, Mucilago, Physarum, Stemonitis, and Trichia. It is whitish with whitish mycelium $ Nectriopsis candicans
+1,0,n$  Asci 40-57 X 35 µm . Ascospores are 5.5-7 X 2-3 µm . They are 8 spored. Conidia 7-10 X 3-4 µm . They have colored fuzzy hairs growing around the perithecia pores The Anamorph is Acremonium sp.
+1,0$  Growing on Fuligo septica the Scrambled Egg Slime and others, the perithecia pimples are white to yellowish and its mycelium is white $ Nectriopsis exigua 
+1,0,n$ Asci 40-50 X 2.5-6 µm . It has 8 spores. The Ascospores are 4.5-6 X 2-3 µm . Also grows on Arcyria ciñera, Arcyria nutans, Stemonitis sp. Including Stemonitis fusca The Anamorph is Verticillium rexianum. Conidia 5-8 X 2-3 µm .
+1,0$  When all else fails Melanospora zamiae that is typically reported on rotting plant material can grow on a Myxo and other types of fungi and has been found on the Scrambled Egg Slime - Fuligo septica. Perithecia yellowish to yellowish brown. Asci are 8 spored. Ascospores brown colored and lemon shaped 15.5- 25 X ll-19 µm . $ Melanospora zamiae 
+
+rem$ Ici Cs9££ ****Other non illustrated or keyed - growing on slime mold species 
+1,0$ Other non illustrated or keyed - growing on slime mold species///1. Acrodontium myxomyceticola///2. Aphanocladium album///3. Clonostachys rosea = Gliocladium roseum///4. Dendryphiella infuscans///5. Gliocladium album///6. Hansfordia sp///7. Hormiactis alba///8. Hyalodendron sp///9. Mariannaea elegans///10. Nectriopsis hirsuta4///(13.)Nectriopsis oropensoides=Nectria oropensoides Also more commonly on bark and stereum. Ambercolored dots surrounded by whitish. Asci 44-58 X 4.5-6 µm. Ascospores 5-7 X 2.5-3.5um. Conidia 2.5-3.5 X 1.5-3 µm.///11. Nectriopsis sporangiicola///12. Olpitrichum macrosporum///13. Paecilomyces penicillatus///14. Pleurothecium recurvatum///15. Rhynchonectria longispora///16. Sarocladium bacillisporum =Acremonium bacillisporum///17. Sesquicillium microsporum///18. Simplicillium lamellicola = Verticillium lamellicola///19. Sporothrix pallida = Calcarisporium pallidum///20. Stilbella byssiseda = Stilbella orbicularis///21. Verticillium chlamydosporium var. catenulatum = Verticillium catenulatum///22. Verticillium insectorum///23. Verticillium lindauianum
+
+cs10 ??????
+Cs11,0$ ££ ***********************$ 
+1,0$  Growing on rotting fungi, cap covered with brownish powder, 3/8 to 7/8 inch wide when mature. Its gills are whitish colored $ Asterophora lycoperdoides =Nyctalis asterophora. 
+1,0,n$ No tubers. Only one in group with a powder covered cap. Common name is Powder Cap. Growing on both Russula and Lactarius especially likes Russula nigricans. Basidiospores 36 X 24 µm . Also has Chlamydospores 12-21 X 10-21 µm .
+1,0$  Growing on rotting fungi, cap not powder covered and V4 to 5/8 inch wide, it is grayish brown colored and has gills and a stalk $ Asterophora parasitica =Nyctalis parasitica. 
+1,0,n$ No tubers. Growing on both Russula and Lactarius. Russula foetens, R. nigrescens, and R. densifolia are a few of the more common hosts. Basidiospores 5-6 X 3-4 µm . Chlamydospores 12-18 X 9-10 µm .
+1,0$  Growing on rotted fungi, cap 3/8 or less wide. No hidden tubers dig in rotting mushroom to check for a lack of them $ Collybia cirrhata 
+1,0,n$ Spores 5-6 X 2-3 µm . Its spore print is white.
+1,0$  Growing on rotted fungi, cap 3/8 or less wide. Has yellowish to light orangish colored hidden tubers that are roundish in shape, dig in rotting mushroom to check for them $ Collybia cookie 
+1,0,n$ It has attached gills and a stalk. Its spore print is white. Spores 4.5-6 X 3-3.5 µm .
+1,0$  Growing on rotted fungi, cap 3/8 or less wide. Has reddish brown colored hidden tubers that are somewhat oval to apple seed like in shape, dig in rotting mushroom to check for them $ Collybia tuberosa 
+ 1,0,n$ It has attached gills and a stalk. Its spore print is white. Spores 4-6 X3-3.5 µm . The Cheilocystidia are 18-32 µm in length.
+1,0$  Growing occasionally on Rotting mushrooms but also often not and on other things like moss and leaves etc. This does not key out well but is noted here $ Tephrocybe tylicolor =Lyophyllum tricolor.
+1,0,n$  Its cap is lA to 3A inches wide and often can have brown tones. It also has gills and a stalk. Spores 5.5-8 X 4.5-6 µm .
+1,0$  Also growing on rotted fungi, cap 3/16 to 1 inch wide. Its gills are whitish then developing grayish tones then becoming brownish. It has a stalk. It does not have any sclerotinum $ Rhodocybe olympiana= Collybia olympiana. 
+1,0,n$ Its spores are 6-7 X 4.5-5 µm . 
+1,0$  Growing on rotted fungi, stem getting tiny branches on it, only one listed here that gets the branches $ Dendrocollybia racemosa 
+1,0,n$ Another gilled mushroom, with the hidden tubersscleroti µm that should be searched for in the rotted host mushrooms remains, Western =Collybia racemosa. What we call the branches is the asexual state or anamorph that is sometimes called Tilachlidiopsis racemosa. Spores 4-5.5 X 2-2.5 µm . In Western North America.
+1,0$  Growing on rotted fungi that typically can not be identified because they have already become decomposed $ Hypomyces rosellus 
+1,0,n$  It is rose pink or red colored. A drop of KOH makes it turn purple. Asci 140-160 X 57 µm . The ascospores 20-35 x 3.5-7 µm . Its anamorph is Cladobotryum dendroides. Conidia 18-34 X 7-1 l µm . _ there is also a undescribed species that looks very similar. Fin cs11
+
+
+Cs12,0$ Growing on Chanterelles Cantharellus sp
+1,0$  Growing on Cantharellus subalbidus, C. cibarius, has a cap and a stalk that is off centered with the stalk beingclosest to the host fungi. Its whitish gills turn pinkish with age and it has a pinkish spore print $ Claudopus parasiticus = Entoloma parasiticum 
+1,0,n$ Current name/// It Europe it has been reported on Polyporus squamosus. Also reported from Trametes versicolor and Coltricia. Spores 9.5 13.5 X 8-1 l µm . _ Its cap is reportedly white and it also differs from 12B below in that this mushroom does not have cheilocystidia.
+1,0$  if different than 12A and not the same species $  Entoloma pseudoparasiticum 
+1,0,n$ Growing on Cantharellus cibarius and Craterellus lutescens _ Its cap is brownish and it is reported to have Cheilocystidia.
+1,0$  A third species growing on Chanterelles but on variety roseocanus in Eastern Canada that has a white cap and has Cheilocystidia $ Entoloma subdepluens 
+1,0,n$ nom prov. = Claudopus subdepluens nom prov.
+
+Fin Cs12££
+
+cs13 ????
+
+
+suite 17 !!!!!!!!!!!!!!
+
+
+rem$ Cs14,0$ 
+cs17,0$ 
+1,0$  Growing on Xylaria such as but not including Dead Mans Fingers, the pimple looking perithecia are yellowish to yellowish orange colored “not red” and it is whitish and fuzzy around them and in other areas $ Neobarya xylariicola 
+1,0,n$  Asci 155-250 X 4-6 µm It has 8 spores per asci. Its ascospores are around 90-150 X 1.5-2 µm . Its anamorph is Calcarisporium sp. Whos conidia are 3.5-13 X 2.0-4.5 µm . In our area in the continental U.S. and Canada a look alike Neobarya lutea does not occur in the continental U.S., it is more southern. It also grows on old Xylaria but it has yellow colored pimples and ascospores are thinner 90-120 X 1.0-1.5 µm . Asci 180-250 X 3.5 5.5 µm .
+1,0$  Growing on Bertia moriformis but also on Cucurbitaria. The pimple like perithecia are greenish when fresh. Typically growing in groups $ Neobarya parasitica 
+1,0,n$  Asci 100-150 X 5-9 µm . The ascospores are 150-200 X 3-4 µm . There are 8 in the tube. Its anamorph is unnamed.
+1,0$  Tiny and reddish in color perhaps with some orange tones on a few of them $ Cosmospora sp. 
+1,0,n$  see descriptions and comments below The anamorph of Cosmospora can be needed for ID especially for the bottom row of 3. Top row of 3 much easier to ID
+
+suite  ex cs16
+
+
+ajout a faire ici ******************
+
+
+1,0$  Growing on or with Hypoxylon archeri or its mycelium . It is whitish and gelatinous and found on wood $ Tremella fuciformis 
+1,0,n$  Spores 7-14 X 5-9 µm . It is an excellent edible mushroom and is delicious cooked and topped with canned cherries in syrup.
+1,0$  Growing on Hypoxylon rubiginosum often yellowish with orangish tones. When young it can be oranhish when cut or briuse orangish after time. When mature it becomes greenish at places or developes greenish tones and has dark colored pimples. When mature ones are cut in half they have yellow to creamy colored inside.but right next to the skin are little blackish roundish balls that the pimples go down into $ Thuemenella cubispora 
+1,0,n$  Asci 60-65 X 5-5.5 µm . Spores 5.5-7 X 3-4 µm . There are 8 spores per asci. On fallen Maple and Boxelder logs are the place to look. Its ana1,0,n$ morph is Nodulisporium sp.
+1,0$  With gills Growing on Hymenochaete tabacina $ Clitopilus daamsii 
+1,0,n$  the Hymenochaete is occasionally an alternate host for this Clitopilus. Clitopilus daamsii spores are pinkish and 7-12 X 5 7 µm .
+1,0$  Without gills, an asco growing on Hymenochaete tabacina $ Hypocreopsis lichenoides 
+1,0,n$  Looks like a mass of many lobes to multiple finger looking. Somewhat like a hand griping onto the wood. Often on Salix but other trees. Ascospores are 20-30 X 6-9 µm . Its anamorph is Stromatocrea cerebriformis
+1,0$  Without Gills and asco growing on Hymenochaete corrugata $ Hypocreopsis rhododendri 
+1,0,n$ Brownish orange in color. Looks like a mass of many lobes to multiple finger looking. Its pimples are darker colored. Often on Hazel. Asci 80-100 X 7-11. Ascospores 12-17 X 12 14 µm . There are 8 spores per Ascus and they are hyaline
+1,0$  Without Gills growing on Hymenochaete sp and others. It is irregulary roundish, reddish to reddish brown $ Hypocrea ceramica 
+1,0,n$  Distal part ascospores 4-5.5 X 3-4 µm . Proximal part ascospores 4-5.5 X 3-4 µm . Conidia 3-4 X 2.5-3 µm . Its ascospores are greenish colored. _ it also grows more commonly on old rotting fallen wood, more so than the resupinate basidiomycetes./// An extreamly similar looking species Hypocrea estonica also grows on Hymenochaete.
+1,0$  Growing on carbon looking fungi the Yellow Cushion Hypocrea - Hypocrea chromosperma. Here in the US it was incorrectly called by the European name Hypocrea gelatinosa. It is irregulary rounded and somewhat cushion shaped. About 1/8 inch in both height and width and yellowish cream colored with green tones at places and gets covered with little bumps all over it $ Hypocrea chromosperma 
+1,0,n$  It also grows on rotted wood. Asci 80-100 X 5-6 µm . Distal part ascospores 4-4.5 X 4.4.5. Proximal Part ascospores 4-4.5 X 3.5 4 µm . Conidiophores 7-14.5 X 2.5-3.5 µm . Conidia 4-6.5 X 3.5 4 µm . Its anamorph is Trichoderma chromospermum///NOTE: Hypocrea strictipilosa grows on ascos and basidios as well as wood and looks very similar. Its Asci are 90-100 X 5-7 µm. Distal part ascospores differ by being large 5-5.5 X 4.5- 5um. Proximal part ascospores are also larger 5.5-6.5 X 4.5- 5.5um. Conidia 4.5-5 X 3.5-4um. Its anamorph is Trichoderma strictiple
+1,0$  grows on ascos and basidios as well as wood and looks very similar. Its Asci are 90-100 X 5-7 µm . Distal part ascospores differ by being large 5-5.5 X 4.5- 5 µm . Proximal part ascospores are also larger 5.5-6.5 X 4.5- 5.5 µm . Conidia 4.5-5 X 3.5-4 µm . Its anamorph is Trichoderma strictiple$ Hypocrea strictipilosa 
+1,0$  Growing on fungi in Hymenochaetaceae but also rotting fallen wood. Its an off yellowish color with orangish perithea. Around 1 cm wide when mature. Almost resembeling a crust $ Hypocrea cinereoflava 
+1,0,n$   The asci are 55-80 X 35.5 µm . Distal Part ascospores 2.5-4.5 X 2-3.5 µm . Proximal part ascospores 2.5-4.5 X 2-3 µm . Conidia 2 4.5 X 1.5 2 µm . Its anamorph is Stibella flavipes.
+1,0$  Growing on what is thought to be A Diatrype sp. and is shiny and reddish in color. Spores 3-4 X3- 4 µm $ Hypocrea scutellaeformis
+1,0$  Growing on Phanerochaete sordida, Growing on the spore producing area on the surface $ Syzygospora pallida 
+1,0,n$   Basidiospores 7-9 X 4.5-6 5 µm . A hand lens may be needed to help spot it. _ European.
+1,0$  Growing on the crusty mushroom Leucogyrophana mollis = Amylocorticiellum molle $ Syzygospora mycophage 
+1,0,n$   It is light salmon colored. Basidiaspores 5.5-8.5 X 4.5-7 µm . European.
+1,0$  Jelly like Growing on Diaporthe Diatrypales) it is somewhat clear colored but becoming brownish with age or getting purplish tones $ Tremella globispora 
+1,0,n$   Spores 5-8 X 6-9 µm . This parasite shrivels up and typically can not be spotted in hot dry weather. There can be numerous ones on a branch.
+1,0$  Growing on black pyrenomycetes that grow on wood such as Cucurbitaria berberidis. It is olive green to or becomming black and jelly like and l-6mm in diameter and M to 3mm tall $ Tremella exigua 
+1,0,n$  Spores 8-12 X 7.5-11 µm .
+1,0$  Growing on typically black colored Diatrype, Diaporthe, and Eutypa. It is jelly like and 4/16 to 3/8 inches. It is smooth soon becoming wrinkled and brain looking. It can be buff to grayish to brownish with age. $ Tremella indecorata 
+1,0,n$   Spores 8-15 X 8-12.5 µm .
+1,0$  Growing on a off whitish and sometimes pored, crust fungi that is often found on fallen branches etc. The fungi being attacked is Trechispora microspora $ Tremella invasa 
+1,0,n$  Its spores are 3-4 X 2.5-3 µm .
+1,0$  Growing on corticioid basidio's that are resupinate. Resembling tiny black balls. $ Helminthosphaeria hyphodermiae 
+1,0,n$   Asci 60-100 X 5-10 µm . Ascospores 9-12 X 4-6 µm . Found in Europe and Russia.
+1,0$  Growing on corticioid basidio's that are resupinate. Resembling tiny black balls. Affected mushrooms include Grandina, Hyphoderma, Sterelaes $ Helminthosphaeria odontiae 
+1,0,n$  Asci 90-120 X 5-9 µm . Ascospores 7-11 X 3.5-6.5 µm . Found in Europe.
+1,0$  Growing on a small black carbony looking ball that has protrusions called Peroneutypa heteracantha that Resembles a mini clump of Dead Mans Fingers- Xylaria. The host fungi is embedded in the wood. Often on various tree branches but sometimes growing on the above host fungi $ Nitschkia grevillei 
+1,0,n$   Ascospores 6-9 X 1.5-2.5 µm .
+1,0$  Growing on pyrenomycetes that are often black and crusty. It is whitish and disc to cup shaped. It is very small and fuzzy $ Polydesmi pruinosa
+1,0,n$   Found in North America and Europe. Asci 78-110 X 8-10.5 µm . ///Its spores are 14-21 x 3.5-5 µm .
+1,0$  Growing on Diatrype stigma and Diatrype albopruinosa $ Nitschkia collapsa 
+1,0,n$  The Nitschkia spores are 12-18 X 4-6 µm . On numerous trees.
+
+
+
+cs14,0$ ££
+1,0$  Growing on Puffballs but resembling hairs or fuzz $ Syzygites megalocarpus 
+1,0,n$   _ see image and description of it in the growing on Amanita section growing on an alternative host
+1,0$  Growing on Puffballs and many other things including non fungal such as being a plant pathogen. It is often orangish brown $ Epicoccum nigrum = E. purpurascens 
+1,0,n$   Its conidia are 15-25 µm in diameter.
+1,0$  Growing on Scleroderma, attackers cap is 3/4 to 3 inches wide. Its pores are yellowish developing olive tones then becoming more brown $ Pseudoboletus parasiticus  =Boletus parasiticus. 
+1,0,n$  A Bolete with pores Most often seen on Scleroderma citrinum./// Spores 12-19 X 3.5-5.5 µm .
+
+
+cs15,0$ Growing on False Truffles - Elaphomyces..
+
+1,0$  Head about twice as tall as wide $ Elaphocordyceps ophioglossoides =Cordyceps ophioglossoides
+1,0,n$   the Gold Thread Cordyceps. Asci 280-450 X 5-7 has 8 spores. Spores 2-4.5 X 1.5-2 µm .
+1,0$ Head roundish and height and width of head similar in size, head not shiny but this shiny feature may not be accurate $ Elaphocordyceps capitata =Cordyceps capitata,
+1,0,n$   = C. canadens for spore differences see C below. E. capitata has Asci 350-540 X 10-12 µm . its ascospores separate at the joints and become part spores. Host fungi include Elaphomyces granulatus and Elaphomyces cervinus.
+1,0$  Head roundish and height and width of head similar in size, head shiny but this shiny feature may not be accurate $ Elaphocordyceps longisegmentis =Cordyceps longisegmentis
+1,0,n$   Its asci no more that 440 µm in length and are 10-15 µm in width.///Elaphocordyceps longisegmentis spores 30-64 X 35 µm 
+ 
+
+cs16,0$ Growing on Jelly fungi
+
+1,0$ Growing on Jelly fungi and coving them almost entirely to entirely. Found on the Black Jelly Roll Exidia glandulosa and other Exidia sp.$ Hypocrea sulphurea
+1,0,n$ Its host Exidia grows on wood. It is yellowish and sheet like. When fresh it raised and irregular in appearance, it is much thinner when dried out. Find it typically on fallen logs where the host grows. Also on Exidia nucleata. Its pimples can become more orange with age. Asci 90-120 X 5-7 µm. Distal part- ascospores 5-6.5 X 5-7 µm, Proximal part-ascospores 5-7 X 4-5um. The anamorph is Trichoderma sp.
+
+
+ 1,0$ Growing on or in Dacryomyces$ Tremella obscura
+1,0,n$ Its spores are 3-4 X 2.5-3 µm. Photo is on D. variisporus.
+
+
+
+
+cs180,0$ Growing on insect fungi
+1,0$  Growing on insect fungi such as Beauveria, Hirsutella, Isaria, and Paecilomyces and resembling brown to black hairs growing out from the insect attacker $ Syspastospora parasitica 
+1,0,n$  The hairs are swollen at the very base. Asci 22-34 X 6.5 X 5 µm . Ascospores brownish 4.5-9 X 2-3.5 µm . Other species that grow on the fungi that grow on insects include:
+1,0$  Growing on the Cordyceps or Hirsutella that occur on insects or just the insect. It is whitish at first but develops orangish to brownish tones $ Polycephalomyces ramosus
+1,0,n$   It can be branched. Conidia have 2 types. 2-3 X 1-2 µm and 3-4.5 X 1.5-2 µm . Occurs in North America, Europe and elsewhere.
+1,0$  Growing with out branches on Cordyceps and Hirsutella, but branched with multiple heads on the branches when occurring on larva that is burned. It is whitish to white or with yellowish tones $ Polycephalomyces fomosus 
+1,0,n$  Conidia 1.5-3 X 1-1.5 µm 
+
+
+cs18,0$ 
+
+1,0$ Cap orangish brown to orangish buff especially the scaly areas, the cap is 1 - 2 1/4 inches wide. Its gills are whitish. Eastern$ Squamanita umbonata
+1,0,n$  Often called the Knobbed Amanita. Spores 6-9 X 3.5-5.5 .the host is an unseen Inocybe oblectabilis
+
+de 1 : ... Growing on mushrooms that can not be seen........18B
+
+
+
+1,0$ B: Cap 3/8 to 1 % inches wide and purplish, at base of stalk it is very swollen and bulb like but really a buff colored tuber at the base, Only one in this key that smells like grapes, Mushroom Western$ Squamanita odorata
+1,0,n$  Spores 6.5-9 X 4-6 µm. The host is Hebeloma mesophaeum.
+
+1,0$ Cap purplish does not have a very swollen distinctive looking bulb like at base of stalk, Gills white but turning purplish when mature, only one in this key that has spores that are over 9 µm in length-some others get up to 9 but this one are 9-10.5 µm long. $ Squamanita paradoxa
+1,0,n$  Spores 9-10.5 X 4.5-6 µm. The host that it is growing from is an unseen Cystoderma often Cystoderma amianthinum
+
+1,0$ Cap purplish and scaly looking, base of stalk swollen but not tuber looking or appearing roundish, no grape odor, spores 9 µm or smaller in length and not roundish. Mushroom Western.$ Squamanita pearsonii
+1,0,n$  7-9.5 X 4-5.5 µm. The host is thought to be fungi. Its gills are whitish colored.
+
+1,0$ Cap with grayish and purplish tones, the base of stalk is only slightly swollen, spores are almost round and the only one in the key that appear this way 5-7 X 5-6.5 µm. Mushroom Western$ Squamanita contortipes
+1,0,n$  Spores 5-7.5 X 5-7 round or roundish, The host is an unseen Galerina. Its spore print is whitish colored.
+
+1,0$  Cap 3/8 to % inches wide. It is grayish with purplish tones. The host fungi is Kuehneromyces mutabilis$ Squamanita fimbriata
+1,0,n$  Spores 5.5-7 X 4-5 µm.
+
+1,0$  The host fungi is Phaeolepiota aurea$ Squamanita phaelepioticola
+
+1,0$  The host fungi is Amanita$ Squamanita schreieri
+1,0,n$  Spores 5-7 X 4-5 µm. 
+
+1,0$  Cap 5/8 to almost 2 inches wide. It is whitish becoming reddish brown with age. Look in conifer woods. Growing on Agarics that can not be IDed $ Rhodocybe stangliana
+1,0,n$  Rhodocybe has pinkish spores - Was Squamanita. Spores 5-7 X 3.5-5 µm. It has pinkish in its spore print.
+
+
+
+
+rem$ cs80,0$ 
+rem$ 1,0 $ Growing on a tooth fungi Steccherinum adustum = Mycorrhaphium adustum. It is typically found when orangish colored and peritecia pimpled looking but can occasionally be whitish then reddish when mature $ Hypomyces aurantius 
+rem$ 1,0 ,n $  Also grows on Polypores such as Trametes. It can cover the pores or teeth or the entire host fungi. When finding it on Steccherinum I typically see it only covering the teeth and have to turn the mushroom over to spot it. It turns reddish purple to purplish with a drop of KOH. Asci 100-160 X 6-7 µm . Ascospores 20-25 µm x 4-6 µm . The white colored anamorph is Cladobotryum varium. Conidia 10-20 X 6-8 µm .Hypomyces subiculosus looks similar but grows in the southern North America and not northern. Its ascospores differ by being 1416 X 4-6 µm .

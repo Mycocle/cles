@@ -1,0 +1,846 @@
+MYCOCLE 00210760719050612C5D12
+ clé exploitable par Mycoclé 2.04
+Mycoclé 2.06  Key 14. Pileus conical to convex, often papillate, thin-fleshed, glabrous; lamellae adnate to adnexed; without cystidia, spores not cuboid or cruciform (Nolanea p.p.).
+  Corrigée avec l'accord de Machiel Noordeloos, adaptée par GF mars 08 / liste alphabetique
+REM$LANGUE$Détection automatique
+7614091791113151719212325272931333538404244464850525457596163656769717375777981838587899193959799101103105107109111113115117119121123125127129131133135137139141143145147149152154156158160162164166169171173175177179181183185187189191193195197199201203205207209211213215217219221223225227229231233235237239241243246248250252254256258260262264266268270273275277279281283285287290292294296298300302304306308310312315317319321323325327329331333335337339341343345347349351353355357359361363365367369372374376378380382384386388390392394396398400402404406408410412414416418420422424426428430432434436438440442444446448450452454456458460462464466468470472474476478480482484486488490492494496498500502504506508510512514517519521523525528531533535537539541543545547549551553555557559561563565567569571573575577579581583585587589591593595597599601603605607609611613616618620622624626628630632634636638640642644646648650652654656658660662664667669671673675677679681683685687689691693695697699701703705707709711713715717719721723725727729731733735737739741743745747749752754756758760762765767769771773775777779781783785788790792794796798800803805807809811813815817819821823825827829831833835837839
+0s"Claudopus sect. Claudopus" Fruitbodies small with reduced, eccentric or lateral stipe, which sometimes lacks entirely (crepidotoid, pI. la) 011113150Key 117
+0 Fruitbodies different, usually with a well-developed, centrally inserted stipe0112131602
+0 0113131700
+0 0114131800
+0 0115131900
+0 Inspirée de la clé Noordeloos FE_5a 0116132000
+0 Pileus and/or stipe tinged blue or violaceous0227142303
+0 Fruitbodies differently coloured0228142405
+0s"most of the blue Leptonia and a few other taxa-1" Pileus and stipe with blue or violaceous colour 037915250 Key 226
+0 Pileus or stipe with blue or violaceous colour03710152604
+0 s"most of the blue Leptonia and a few other taxa-2" Lamella edge darker than sides; all species with cheilocystidia 04101116270 Key 3 73
+0 s"most of the blue Leptonia and a few other taxa-3" Lamella edge concolorous with sides; cheilocystidia present or not 04101216280 Key 4 81
+0s"species with pink cap" Pileus pink 0581317290 Key 5119
+0 Pileus with other colour05814173006
+0s"sect. Turfosa" Spores very small (ranging from 6-8 (-9) µm long and very thin-walled and many-angled in side view, often distinctly staining in cotton-blue (cyanophilous), pl. Ila. 06141518310 Key 6132
+0 Spores different, not cyanophilous061416183207
+0s" Pseudonolanea (arctic-alpine species only)" Species from alpine or arctic environments, usually associated with either dwarf Salix, Dryas or Polygonum viviparum; habit usually small, tricholomatoid or mycenoid, rarely collybioid or omphalioid and trama of pileus made up of short elements, 40-100 µm long (Pseudonolanea) 07161719330 Key 7140
+0 Species from other habitat and with different habit and structure of pileitrama071618193408
+0 Pileus convex to applanate, often with deflexed or involute margin with depressed to infundibuliform centre; lamellae adnate-emarginate to decurrent (habit collybioid, clitocyboid or omphalinoid)081819203509
+0 Pileus conical or convex, expanding to plano-convex, usually with umbo; lamellae adnexed to adnate, often emarginate (habit mycenoid or tricholomatoid, pl. I c, e, f)0818202036010
+0 Pileus smooth, glabrous 09192121370 Key 8152
+0s"most Leptonia without blue colour, Undata and other omphalioid species with incrusting pigment" Pileus fibrillose, tomentose, squamulose, pruinose or wrinkled 09192221380 Key 9180
+0 Spores cuboid or cruciform (pl. Il b, c) 010202322390 Key 10252
+0 Spores not cuboid or cruciform01020242240011
+0 Fruitbodies mycenoid, very pale cream-colored to almost white, with conical, only slightly expanding pileus, which is either not hygrophanous or slightly hygrophanous and not or hardly translucently striate; lamellae almost free; stipe long, rigid, sometimes rooting; clamp-connections absent 011242523410 Key 11257
+0 With other combination of characters01124262342012
+0 Pileus glabrous; pileipellis a cutis or ixocutis of relatively narrow elements, 2-10 µm wide01226272443013
+0 Pileus pruinose, radially fibrillose, wrinkled, rugulose or squamulose, usually not or indistinctly hygrophanous; pileipellis at least in part a trichoderm, hymeniderm or callliderm01226282444015
+0s"Entoloma" . Habit tricholomatoid, rarely mycenoid; pileus conical to planoconvex with umbo; usually relatively fleshy; lamellae adnate-emarginate; stipe fibrous; trama of pileus and lamellae made up of chains of short elements, about 40-100 µm long 013272925450 Key 12258
+0 Habit mycenoid with relatively thin-fleshed pileus; trama of pileus and lamellae usually made up of long, fusiform elements, 150-300 (-400) µm long01327302546014
+0s"Nolanea-1" Cheilocystidia present 014303126470 Key 13300
+0s"Nolanea-2" Cheilocystidia absent 014303226480 Key 14325
+0s"Pouzarella	" . Fruitbodies mycenoid with strongly radially fibrillose, hairy or finely squamulose pileus, reminiscent a species of Inocybe with relatively dark lamellae; pigment incrusting, sometimes also intracellular, and clamp-connections absent (pl. I f) 015283327490 Key 15373
+0 Fruitbodies tricholomatoid or mycenoid with pruinose, rimulose, rugulose, venose, fibrillose, or squamulose pileus, usually with intracellular pigment, rarely with incrusting pigment, but stipe without stiff hairs, and clamp-connections present01528342750016
+0s"Trichopilus" ilocystidia at least a certain percentage per lamella edge, distinctly capitate 016343528510 Key 16384
+0s"Inocephalus" Cheilocystidia, if present, different 016343628520 Key 17391
+0 0-1037115500
+0 Smell distinct, like garlic or fishy0171382956018
+0 Smell indistinct or farinaceous0171392957019
+0 Smell of garlic; fruitbodies white; clamp-connections absent 018384030580 E. alliodorum 328. 0
+0 Smell of fish, reminiscent of Macrocystidia cucumis; fruitbodies grey; clamp-connections present 018384130590 E. catalaensis 329. 0
+0 Fruitbodies with capitate pileo- and caulocystidia; spores rather large and broad, 7.5-10(-11.5) x 9.5-13 (-15) µm 019394231600 E. jahnii 326. 0
+0 Fruitbodies without capitate pileo- and caulocystidia; spores different01939433161020
+0 Fruitbodies white02043443262021
+0 Fruitbodies colored02043453263022
+0 Lamellae distant; spores 4-6 angled; clamp-connections absent 021444633640 E. albotomentosum 324. 0
+0 Lamellae moderately crowded; spores 6-8 angled; clamp-connections present 021444733650 E. exiguum 327. 0
+0 Clamp-connections present; cheilocystidia absent02245483466023
+0 Clamp-connections absent; cheilocystidia present02245493467024
+0 Spores 5.5-8 µm wide; terricolous or on dead plant remains 023485035680 E. byssisedum 320. 0
+0 Spores 8-10.5 (-11) µm wide; parasitic on other fungi 023485135690 E. parasiticum 323. 0
+0 Parasitic on Cantharellus 024495236700 E. pseudoparasiticum 324. 0
+0 Not parasitic on Cantherellus02449533671025
+0 On compost in houseplants; stipe usually well developed, often central in young stages ; cheilocystidia absent 025535437720 E. ollare 325. 0
+0 On rotten wood in the wild; cheilocystidia present 025535537730 E. depluens 321. 0
+00-2056107600
+0 Pileus smooth, glabrous; pileipellis a cutis or ixocutis of narrow, up to 10 µm wide, cylindrical hyphae0269573878027
+0 Pileus not glabrous, but fibrillose, tomentose, squamulose or rugulose, at least at centre ; pileipellis in such places with elements > 10 µm wide.0269583879030
+0 Fruitbodies tricholomatoid with a fleshy, not translucently striate pileus02757593980029
+0 Fruitbodies smaller, collybioid with a thin-fleshed, often translucently striate pileus02757603981028
+0 Pileus predominantly brown with violaceous tinge 028606140820 E. caeruleopolitum 49. 0
+0 Pileus blue, concolorous with stipe 028606240830 E. reae 50. 0
+0 Fruitbodies robust; stipe in the middle (5-) 8-25 mm; lamellae crowded, up to 40 entire lamellae; in grasslands on calcareous soil 029596341840 E. bloxamii 3. 0
+0 Fruitbodies less robust; stipe in the middle 2-9 mm broad; lamellae less crowded, about 25 entire lamellae present; in forest on acid soil 029596441850 E. nitidum 4. 0
+0 Lamella edge blue-black or brown, of serrulatum-type (pl. I g)03058654286031
+0 Lamella edge concolorous with sides or brown, but not of serrulatum-type03058664287036
+0 Pileus and stipe soon showing distinct olivaceous tinges 031656743880 E. querquedula 219. 0
+0 Pileus and stipe without olivaceous tinge03165684389032
+0 Pileus deeply translucently striate, squamulose at centre only 032686944900 E. gomerense 224. 0
+0 Pileus not translucently striate, entirely tomentose or squamulose03268704491033
+0 Lamellae staining blue when bruised; inner part of stipe with green tinge 033707145920 E. chalybescens 244. 0
+0 Lamellae not staining blue when bruised03370724593034
+0 Pileus and stipe blue; stipe polished or covered with fine fibrils03472734694035
+0 Pileus and stipe violaceous; stipe coarsely fibrillose 034727446950 E. violaceoserrulatum 225. 0
+0 Lamella edge blue-black; spores 9.0-12 x 6.5-8.0 µm, Q = 1.2-1.6 035737547960 E. serrulatum 217. 0
+0 Lamella edge brown; spores (10-) 11-11,9-13 (-14) x (6,25-) 6,5-7-7,5 (-8) µm, Q = 1,4-1,9 035737647970 E. brunneoserrulatum 223. 0
+0 Lamellae blue or violaceous when young or with a violaceous-pink lamella edge03666774898037
+0 Lamellae without blue or violaceous tinge03666784899045
+0 Fruitbodies, inclusive of lamellae, deep violaceous; lamellae with brown edge; on wood, particularly of Alnus 0377779491000 E. euchroum 19740
+0 Fruitbodies different, not, or rarely on wood037778049101038
+0 Fruitbodies omphalioid with a violaceous-brown colour, inclusive lamellae 0388081501020 E. violaceoparkensis 311. 0
+0 Fruitbodies collybioid, blue038808250103039
+0 Clamp-connections present 0398283511040 E. lepidissimum 209. 0
+0 Clamp-connections absent039828451105040
+0 Pileus violaceous-pinkish, strongly contrasting with the steel-blue stipe; lamellae edge lilaceous-pink or concolorous with sides 0408485521060 E. ursulae 253. 0
+0 Pileus differently coloured often more or less with the same colour as the stipe; lamella edge never lilaceous-pink040848652107041
+0 Besides blue also green tinges present, at least in the stipe041868753108042
+0 Pileus and stipe blue041868853109043
+0 Stipe with distinct greenish tinges; pileus blackish blue at first, but gradually becoming brown-violaceous 0428789541100 E. violaceoviride 275. 0
+0 Pileus and stipe with green-yellow tinges mixed with blue; base of stipe often with sulphur yellow mycelium 0428790541110 E. cyaneoviridescens 231. 0
+0 Blue tinge ephemerous, quickly disappearing, then fruitbodies brown to pale brown ; stipe rather pale yellowish grey or yellow 0438891551120 E. mutabilipes 266. 0
+0 Blue tinges persistent in mature fruitbodies043889255113044
+0 Cheilocystidia present; stipe base without orange-yellow mycelium 0449293561140 E. chalybaeum 229. 0
+0 Cheilocystidia absent; stipe base often with orange-yellow mycelium 0449294561150 E. cruentatum 230. 0
+0 Clamp-connections present045789557116046
+0 Clamp-connections absent045789657117054
+0 Pileus colour different from stipe046959758118047
+0 Pileus and stipe with the same blue or violaceous-grey colour046959858119050
+0 Spores with many, rather weak angles047979959120048
+0 Spores with 5-7 (-9) pronounced angles0479710059121049
+0 Pileus grey-brown with blue spots near margin when young only 04899101601220 E. tjallingiorum 199. 0
+0 Pileus brown with lilac or violaceous tinge at centre, towards margin a tender pinkish ochre 04899102601230 E. austriacum 201. 0
+0 .Stipe lilaceous-blue or steel blue; adpressed fibrillose; pigment intracellular in pileipellis 049100103611240 E. dichroum 198. 0
+0 Stipe pale violaceous with darker violaceous fibrillose covering; pigment both intracellular and incrusting in pileipellis 049100104611250 E. allochroum 202.0
+0 Spores isodiametrical, small, up to 9 µm in diam.0509810562126051
+0 Spores heterodiametrical0509810662127052
+0 Pileus deeply translucently striate 051105107631280 E. klofacianum 214. 0
+0 Pileus not translucently striate 051105108631290 E. alcedicolor 11. 0
+0 Stipe polished; spores 6.5-8.5 x 5.5-6.0 µm 052106109641300 E. coelestinum 208. 0
+0 Stipe covered with blue granules05210611064131053
+0 Spores 7.5-9.0 µm wide, 6-7-angled 053110111651320 E. cedretorum 212. 0
+0 Spores 6.0-7.0 µm wide, many-angled to nodulose 053110112651330 E. chytrophilum 216. 0
+0 Pileus translucently striate when moist and fresh0549611366134055
+0 Pileus opaque, not translucently striate0549611466135056
+0 Pileus rather pale beige-brown with blackish-blue squamules; stipe beige with steel blue tinge; cheilocystidia present 055113115671360 E. caesiellum 234. 0
+0 Pileus very dark violet-blue; stipe dark blue; cheilocystidia absent 055113116671370 E. pseudocoelestinum 233. 0
+0 Cheilocystidia with yellow granulose content; pileus and stipe purely sky-blue 056114117681380 E. uranochroum 294. 0
+0 Cheilocystidia different or absent; pileus and stipe differently coloured05611411868139057
+0 Cheilocystidia very long, up to 125 µm, lamellae beige-brown to grey-brown; pileus blue¬violaceous to brown violaceous, zonate 057118119691400 E. violaceozonatum 203. 0
+0 Cheilocystidia, if present, distinctly shorter; lamellae white or pale; pileus differently coloured and/or not zonate05711812069141058
+0 Spores 11.5-15 µm long05812012170142059
+0 Spores at most up to 12.5 µm long05812012270143060
+0 Fruitbodies very small, pileus up to 10 mm, deeply translucently striate, finely squamulose at centre only; lamella edge sterile 059121123711440 E. cyanulum 232. 0
+0 Fruitbodies larger, pileus up to 40 mm, very dark blue almost black, not translucently striate; lamella edge heterogeneous with scattered cheilocystidia 059121124711450 E. aethiops 240. 0
+0 Pileus rather pale brown with faint blue tinge at margin only when young, entirely covered in fine greyish squamules; stipe faintly blue when young 060122125721460 E. mediterraneense 271. 0
+0 Pileus and stipe darker and with more pronounced blue or violaceous tinge06012212672147061
+0 Stipe glabrous polished06112612773148062
+0 Stipe covered with fibrils, which may agglutinate in small flocks or squamules06112612873149066
+0 Cheilocystidia abundant, lamella edge sterile 062127129741500 E. caeruleum 238. 0
+0 Cheilocystidia absent or scattered among the basidia06212713074151063
+0 Pileus strongly radially fibrillose-virgate with rows of minute grey squamules on aviolaceous-brown background 063130131751520 E. ianthinomeleagris 254. 0
+0 Pileus differently coloured and ornamented06313013275153064
+0 Pileus very dark blackish blue, and remaining so 064132133761540 E. melanochroum 241. 0
+0 Pileus blue or blue-violaceous often changing to more brownish tinges with age06413213476155065
+0 Pileus 10-30 mm broad, often conical to campanulate with small papilla 065134135771560 E. lepiotosme 263. 0
+0 Pileus 20-70 mm broad, umbilicate 065134136771570 E. viiduense 237. 0
+0 Pileus and stipe violaceous to violaceous-black 06612813778158067
+0 Pileus and stipe blue06612813878159070
+0 Cheilocystidia absent06713713979160068
+0 Cheilocystidia present06713714079161069
+0 .Fruitbodies small, pileus 14-18 mm broad, spores 6.5-8.0 (-8.5) x 5.5-7.0 (-7.5) µm . 068139141801620 E. pachydermum 158.0
+0 Fruitbodies larger; pileus up to 75 mm broad; spores 9.5-14 x 7-10 µm 068139142801630 E. nigroviolaceum 239. 0
+0 Spores 8.5-9.5 (-10) x (6.0-) 6.5-7.6 µm 069140143811640 E. alvarense 245. 0
+0 Spores 9.0-11.5 (-12.5) x 6.0-8.0 (-9.0) µm 069140144811650 E. mougeotii 236. 0
+0 Lamella edge fertile; cystidia absent 070138145821660 E. atrocoeruleum 242. 0
+0 Lamella edge sterile with abundant cheilocystidia07013814682167071
+0 Pileus and stipe deep blackish blue, remaining so with age with strongly contrasting white lamellae 071146147831680 E. corvinum 235. 0
+0 Pileus initially blackish blue, soon fading to grey-brown with blue or lilac tinge07114614883169072
+0 Stipe strongly fibrillose with blackish blue fibrils on glaucous blue background 072148149841700 E. armoricanum 243. 0
+0 Stipe ultramarine to blue-black, fading with age, never with glaucous tinges, often only sparsely innately striate 072148150841710 E. caeruleum 238. 0
+00-30151917400
+0 Lamella edge of serrulatum-type with blue-black pigment0731115285175074
+0 Lamella edge a hymeniform layer of cheilocystidia with intracellular pigment0731115385176077
+0 Pileus pink or flesh-coloured07415215486177075
+0 Pileus yellow or brown07415215586178076
+0 Pileus pink; stipe often two-coloured with pink upper part and blue lower part 075154156871790 E. catalaunicum 249. 0
+0 Pileus flesh-coloured beige; stipe steel grey at first, but soon concolorous with pileus ... 075154157871800 E. carneogriseum 220. 0
+0 Pileus rather pure yellow 076155158881810 E. xanthoserrulatum 226. 0
+0 Pileus brown 076155159881820 E. caesiocinctum 218. 0
+0 Stipe fibrillose to flocculose 077153160891830 E. coeruleoflocculosum 258. 0
+0 Stipe glabrous, polished07715316189184078
+0 Pileus rather pale yellow- or reddish-brown, deeply translucently striate07816116290185079
+0 Pileus dark (sepia) brown to almost black, not translucently striate or at margin only; stipe deep blue to dark steel blue and retaining its colour07816116390186080
+0 Pileus pale brown with distinct dark central spot; stipe pale blue or with glaucous-greentinges; cheilocystidia long, septate 079162164911870 E. exile 293. 0
+0 Pileus pale to moderately dark reddish brown; stipe pale steel-blue, soon turning brown; cheilocystidia not septate 079162165911880 E. caliginosum 279. 0
+0 Spores (9-) 10-11.5 (-14) x 6-9 µm, Q = 1.2-1.9, distinctly heterodiametrical; lamellae always without blue tinge 080163166921890 E. poliopus 268. 0
+0 Spores 7.5-11 x 7-8 µm, Q = 1.05-1.4, subisodiametrical to heterodiametrical, 4-6angled in side view; lamellae often with blue tinge 080163167921900 E. broesarpensis 265. 0
+00-40168819300
+0 Pileus only with blue or violaceous tinges0811216993194082
+0 Stipe only with blue or violaceous tinges .0811217093195086
+0 Pileus dark grey-violaceous with carmine red centre 082169171941960 E. prunicolor 246. 0
+0 Pileus differently coloured08216917294197083
+0 Pileus smooth, glabrous, violaceous-brown 083172173951980 E. violaceovernum 95. 0
+0 Pileus either finely pruinose-velvety or fibrillose-squamulose08317217495199084
+0 Pileus bright blue, pruinose-velvety; stipe white 084174175962000 E. jennyi 177. 0
+0 Pileus grey-violaceous; stipe coloured08417417696201085
+0 Pileus strongly radially fibrillose-virgate with rows of minute grey squamules on a violaceous-brown background; cheilocystidia absent 085176177972020 E. ianthinomeleagris 254. 0
+0 Pileus grey-violaceous, fibrillose; cheilocystidia present, mucronate 085176178972030 E. carbonicola 159. 0
+0 Clamp-connections present; pileipellis often a cutis with transitions to trichoderm in the squamules, made up of septate hyphae with cylindrical to narrowly clavate terminal elements; pigment intracellular, frequently also incrusting08617017998204087
+0 Clamp-connections absent; pileipellis a cutis or a trichoderm of inflated elements with intracellular pigment; incrusting pigment very rarely also present in deeper layer of pileipellis08617018098205097
+0 Stipe glabrous, polished08717918199206088
+0 Stipe fibrillose to squamulose08717918299207090
+0 Spores isodiametrical088181183100208089
+0 Spores heterodiametrical 0881811841002090 E. insidiosum 211. 0
+0 Spores 8-10 (-11) x 6-8 µm; pileus dark brown from the start 0891831851012100 E. juniperinum 210. 0
+0 Spores 7.5-9.0 x (6.0-) 6.5-8.5 µm; pileus distinctly blue when young 0891831861012110 E. klofacianum 214. 0
+0 Pileus pink, pale ochraceous or lilaceous-pink090182187102212091
+0 Pileus yellow-brown, brown or grey-brown090182188102213093
+0 Pileus pale ochre then with faint grey or lilac tinge; pigment intracellular and incrusting 0911871891032140 E. alnetorum 200. 0
+0 Pileus pink or pinkish-lilac091187190103215092
+0 Fruitbodies very small; pileus up to 10 mm, pink 0921901911042160 E. lidbergii 215. 0
+0 Fruitbodies larger; pileus up to 40 mm, pinkish lilac 0921901921042170 E. callichroum 205. 0
+0 Stipe silvery fibrillose-striate093188193105218094
+0 Stipe squamulose with darker fibrillose squamules093188194105219095
+0 Smell none, terricolous 0941931951062200 E. lampropus 206. 0
+0 Smell farinaceous; on Fagus wood 0941931961062210 E. placidum 207. 0
+0 Spores large, up to 16 µm long 0951941971072220 E. wynnei 204. 0
+0 Spores definitely shorter095194198107223096
+0 Stipe violaceous-fibrillose; spores pronouncedly angled with 5-6 angles, relatively thick-walled 0961981991082240 E. allochroum 202. 0
+0 Stipe blue fibrillose to squamulose; spores less distinctly angled, often thin-walled 0961982001082250 E. tjallingiorum 199. 0
+0 Lamella edge sterile or heterogeneous; cheilocystidia present097180201109226098
+0 Lamella edge fertile; cheilocystidia absent0971802021092270109
+0 Lamellae tinged blue when young, then grey, spores very irregularly shaped from iso to heterodiametrical 0982012031102280 E. broesarpensis 265. 0
+0 Lamellae without blue tinge when young; spores more regularly shaped098201204110229099
+0 Stipe blue-green when young, then pale olivaceous to greenish, finally almost white; pileus beige-grey with porphyraceous tinge 0992042051112300 E. griseoviridulum 227. 0
+0 Stipe without olivaceous or green tinges0992042061112310100
+0 Cheilocystidia very large, much longer than basidia, rostrate or often ending in a small capitulum, which often is mucronate 01002062071122320 E. rhynchocystidiatum 293. 0
+0 Cheilocystidia different01002062081122330101
+0 Spores small, less than 10 µm long01012082091132340102
+0 Spores longer than 10 µm01012082101132350104
+0 Pileus light brown with darker centre (calotte); stipe very pale blue-grey; in Mediterranean vegetation 01022092111142360 E. mediterraneense 271. 0
+0 Pileus darker coloured; in other habitats01022092121142370103
+0 Pileus rather dark greyish brown to very dark sepia, not translucently striate or at margin only; stipe usually deep blue 01032122131152380 E. poliopus 268. 0
+0 Pileus porphyry brown, deeply translucently striate; stipe steel grey with faint blue tinge 01032122141152390 E. porphyrogriseum 270. 0
+0 Pileus pale beige with darker brown, minutely squamulose centre (calotte), deeply translucently striate 01042102151162400 E. mutabilipes 266. 0
+0 Pileus more intensely coloured yellow brown, brown or grey-brown01042102161162410105
+0 Stipe bicoloured: brown above, blue below; spores 7-10 µm broad, many-angled almost nodulose 01052162171172420 E. glaucobasis 269. 0
+0 Stipe uniformly coloured; spores more regularly angled and less broad01052162181172430106
+0 Stipe fibrillose-flocculose all over 01062182191182440 E. coeruleoflocculosum 258. 0
+0 Stipe polished01062182201182450107
+0 Pileus warm reddish brown (fulvous), contrasting with delicate violaceous stipe 01072202211192460 E. fulvoviolaceum 272. 0
+0 Pileus and stipe differently coloured01072202221192470108
+0 Pileus moderately dark yellow brown, deeply translucently striate; cheilocystidia broadly clavate 01082222231202480 E. sodale 267. 0
+0 Pileus dark brown, sepia to blackish brown, indistinctly striate; cheilocystidia subcylindrical to narrowly clavate 01082222241202490 E. poliopus 268. 0
+0 Stipe fibrillose striate, floccose, pruinose or squamulose01092022251212500110
+0 Stipe polished01092022261212510112
+0 Pileus light brown; stipe pale blue-grey, densely silvery striate 01102252271222520 E. griseocyaneum 257. 0
+0 Pileus and stipe darker coloured01102252281222530111
+0 Stipe finely pruinose all over; pileus up to 30 mm, convex to piano-convex 01112282291232540 E. viaregale 259. 0
+0 Stipe fibrillose-striate; pileus up to 65 mm, truncate conical to convex 01112282301232550 E. anatinum 255. 0
+0 Pileus grey or grey-brown, densely radially fibrillose to virgate with radial rows of small squamules 01122262311242560 E. ianthinomeleagris 253. 0
+0 Pileus dark brown, not virgate01122262321242570113
+0 Pileus dark brown, not translucently striate or at margin only01132322331252580114
+0 Pileus moderately dark brown to pale brown; distinctly translucently striate01132322341252590115
+0 Pileus squamulose all over; stipe predominantly grey with only a slight blue tinge; spores 10-12.5 x 6.5-9.0 µm 01142332351262600 E. scabrosum 256. 0
+0 Pileus squamulose at centre only; stipe blue; spores 9-11 x 6-8 µm 01142332361262610 E. lepiotosme 263. 0
+0 Spores isodiametrical 01152342371272620 E. allospermum 264. 0
+0 Spores heterodiametrical01152342381272630116
+0 Spores shorter than 10 µm01162382391282640117
+0 Spores longer than 10 µm01162382401282650118
+0 Pileus pale yellow-brown with darker centre; lamellae adnate; stipe deep blue to sky-blue or violaceous-blue 01172392411292660 E. lividocyanulum 261. 0
+0 Pileus pinkish to pinkish brown; lamellae deeply decurrent; stipe blue 01172392421292670 E. incarnatofuscescens 306. 0
+0 Pileus minutely squamulose all over; stipe deep blue; basidia 4-spored 01182402431302680 E. asprellum 260. 0
+0 Pileus squamulose at centre only; stipe violaceous-grey; basidia mixed 2- and 4- spored 01182402441302690 E. huijsmanii 262. 0
+00-50245727500
+0 Habit tricholomatoid or mycenoid; pileus convex, often with umbo; pileipellis an (ixo)cutis; clamp-connections present0119132461312760120
+0 Habit collybioid or omphalinoid; pileus convex with slightly to distinctly depressed center, not entirely glabrous but fibrillose, tomentose or squamulose, at least at center; pileipellis a cutis with transitions to a trichoderm; clamp-connections present or absent0119132471312770123
+0 Fruitbodies mycenoid, small; pileus 15-25 mm broad, pink to pinkish brown; stipe 25-30x 1-2 mm, yellow, polished 01202462481322780 E. verecundum 126. 0
+0 Fruitbodies tricholomatoid and larger; stipe at least 6 mm wide, white, fibrillose, not polished01202462491322790121
+0 Flesh firm; pileus not hygrophanous, not translucently striate, pink to deep reddish pink, cheilocystidia absent; spores small, isodiametrical, 6,5-8 µm long 01212492501332800 E. rubellum 5. 0
+0 Flesh fibrous, brittle; pileus hygrophanous, translucently striate at margin, pale pink01212492511332810122
+0 Spores (7.5-) 8.5-11.5 (-12.0) x 6.0-7.5 µm, irregularly many-angled; cheilocystidia absent 01222512521342820 E. roseoalbum 20. 0
+0 Spores 8.5-10 x 6.0-7.5 µm, 5-7 angled; cheilocystidia present 01222512531342830 E. noordeloosii 22. 0
+0 Stipe tinged blue01232472541352840124
+0 Stipe without blue tinges01232472551352850125
+0 Lamella edge of serrulatum-type, blue pigmented or not (p1.1 g) 01242542561362860 E. catalaunicum 249. 0
+0 Lamella edge different, not blue pigmented 01242542571362870 E. cyanulum var. roseolum 232. 0
+0 Pileus pinkish lilaceous or pinkish-violaceous01252552581372880126
+0 Pileus without lilaceous or violaceous tinges01252552591372890127
+0 Stipe concolorous with pileus, albeit sometimes paler; polished; cheilocystidia absent .. 01262582601382900 E. ianthinum 250. 0
+0 Stipe white, fibrillose; cheilocystidia lageniform to lecithiform 01262582611382910 E. lilacinoroseum 160. 0
+0 Pileus pink mixed with gray; stipe gray, polished 01272592621392920 E. roseotinctum 252. 0
+0 Pileus pink to pinkish red, or with ochre tinges; stipe never gray01272592631392930128
+0 Pileus when fresh with distinct pink-lilaceous tinges, turning uniformly ochraceous under influence of daylight, entirely tomentose, not translucently striate; stipe yellow to yellow- ochre, fibrillose-striate 01282632641402940 E. queletii 288. 0
+0 . Pileus more purely pink, usually translucently striate, glabrous or minutely granulose to squamulose, particularly at center, fibrillose or glabrous towards margin; stipe pink, glabrous and polished or with innate concolorous fibrils or small squamules 1101282632651402950129
+0 Clamp-connections present; pileus practically glabrous; pileipellis a cutis of relatively narrow hyphae 01292652661412960 E. ritae 196. 0
+0 Clamp-connections absent; pileus squamulose to granulose, at least at center; pileipellisa cutis with transitions to a trichoderm of relatively wide elements01292652671412970130
+0 Lamella edge of serrulatum type, lilac-pink; cheilocystidia with intracellular pigment; stipe slightly squamulose-fibrillose in upper part 01302672681422980 E. callirhodon 222. 0
+0 Lamella edge concolorous with sides; stipe polished01302672691422990131
+0 Lamella edge entirely sterile with septate cheilocystidia with clavate to globose elements; spores in average longer than 10 µm 01312692701433000 E. reinwaldii 251. 0
+0 Lamella edge heterogeneous to sterile; cheilocystidia clavate to subcylindrical, not septate; spores in average shorter than 10 µm 01312692711433010 E. roseum 248. 0
+00-60272630900
+0 Habit omphalioid with white to cream-colored umbilicate pileus and deeply decurrent lamellae 0132152731443100 E. cancrinellum 75. 0
+0 Habit and colour different0132152741443110133
+0 Fruitbodies growing on wood; pileus sordid brown, micaceous, not translucently striate 01332742751453120 E. pluteisimilis 74. 0
+0 Fruitbodies growing on soil; pileus not micaceous01332742761453130134
+0 Habit tricholomatoid with umbonate, fleshy pileus; lamellae adnate-deeply emarginate .01342762771463140135
+0 Habit collybioid with convex, slightly depressed pileus; lamellae broadly adnate often with decurrent tooth; stipe polished or with scattered fibrils01342762781463150138
+0 Fruitbodies rather pale colored 01352772791473160 compare E. prunuloides 10
+0 Fruitbodies with +/- dark colour01352772801473170136
+0 Lamellae thick, distant 01362802811483180 E. turbidum var. pachylamellatum 71. 0
+0 Lamellae normally thick, moderately distant01362802821483190137
+0 Stipe white; smell none 01372822831493200 E. turbidum 71. 0
+0 Stipe tinged brown; smell farinaceous 01372822841493210 E. pseudoturbidum 73. 0
+0 Stipe yellow 01382782851503220 E. vinaceum var. vinaceum 72a. 0
+0 Stipe grey or violaceous01382782861503230139
+0 Stipe grey 01392862871513240 E. vinaceum var. fumosipes 72b. 0
+0 Stipe tinged violaceous 01392862881513250 E. vinaceum var. violeipes 72c. 0
+00-70289532800
+0 Cheilocystidia present0140172901523290141
+0 Cheilocystidia absent0140172911523300143
+0 Basidia exclusively 2-spored 01412902921533310 E. bicorne 62. 0
+0 Basidia 4-spored, at least in majority01412902931533320142
+0 Surface of pileus finely rimose; pigment exclusively incrusting 01422932941543330 E. rimulosum 61. 0
+0 Surface of pileus smooth; pigment incrusting and intracellular 01422932951543340 E. svalbardense 56. 0
+0 Smell or taste strong, like rotten fish or cabbage or like ripe apples01432912961553350144
+0 Smell and taste indistinct or farinaceous01432912971553360145
+0 Pileus convex; smell and especially taste strong of rotten cabbage 01442962981563370 E. olidum 10. 0
+0 Pileus with depressed centre; smell of ripe apples 01442962991563380 E. melenosmum 47. 0
+0 Pigment intracellular01452973001573390146
+0 Pigment incrusting or a combination of incrusting and intracellular pigment01452973011573400147
+0 Pileus yellow brown to medium brown; lamellae greyish pink 01463003021583410 E. subsepiaceum 60. 0
+0 Pileus dark brown to almost black; lamellae white then pink 01463003031583420 E. alpicola 59. 0
+0 Pigment incrusting only01473013041593430148
+0 Pigment incrusting and intracellular01473013051593440151
+0 Spores heterodiametrical, Q = 1.15-1.5 01483043061603450 E. anthracinellum 63. 0
+0 Spores isodiametrical, Q = 1.0-1.201483043071603460149
+0 Pileus moderately dark brown; lamellae white then pink; stipe white to greyish 01493073081613470 E. subarcticum 57. 0
+0 Pileus dark grey brown to black; lamellae grey-brown; stipe grey-brown01493073091613480150
+0 Fruitbodies fairly robust with thick, fusiform stipe 01503093101623490 E. atrosericeum var. fusipes 53b. 0
+0 Fruitbodies small with cylindrical stipe 01503093111623500 E. atrosericeum var. atrosericeum 53a. 0
+0 Pileus 30-40 mm broad, usually distinctly umbonate; lamellae adnexed to adnate; incrusting pigment dominant in suprapellis; intracellular pigment mostly present in subpellis 01513053121633510 E. bipellis 54. 0
+0 Pileus 15-30 mm broad, usually depressed; lamellae adnate to decurrent; incrusting pigment usually in lower part of pileipellis and upper pileitrama 01513053131633520 E. borgenii 55. 0
+00-80314435600
+0 Spores cuboid (pl. II b)0152213151643570153
+0 Spores otherwise0152213161643580154
+0 Fruitbodies reminiscent of Omphalina galericolor, in scanty mossy vegetation on sandy soil 01533153171653590 E. galericolor 315. 0
+0 Fruitbodies collybioid with slightly depressed pileus, often with a small umbo within the depression; among Cistus in the Mediterranean 01533153181653600 E. cistophilum 48. 0
+0 Pileus white01543163191663610155
+0 Pileus pigmented01543163201663620157
+0 Pileus and stipe with capitate cystidia; clamp-connections absent 01553193211673630 E. cephalotrichum 195. 0
+0 Pileus and stipe without capitate cystidia; clamp-connections present 01553193221673640156
+0 Spores 8-11.5 x 6-8 µm, 6-10 angular; pileus 15-30 mm 01563223231683650 E. olorinum 193. 0
+0 Spores 7-10 x 5.5-7.0 µm; pileus up to 10 mm 01563223241683660 E. percandidum 194. 0
+0 Stipe smooth, polished or innately ribbed, not covered with fibrils01573203251693670158
+0 Stipe slightly to distinctly fibrillose striate, or fibrillose flocculose01573203261693680173
+0 Pigment intracellular only01583253271703690159
+0 Pigment incrusting, sometimes in addition with intracellular pigment01583253281703700167
+0 Basidia exclusively 2-spored 01593273291713710 E. bisporigerum 44. 0
+0 Basidia, at least in majority, 4-spored 01593273301713720160
+0 Smell strong, of ripe apples; stipe polished or substriate with scattered fibrils 01603303311723730 E. melenosmum 47. 0
+0 Smell different01603303321723740161
+0 Cheilocystidia present01613323331733750162
+0 Cheilocystidia absent01613323341733760163
+0 Smell strong, unpleasant. reminiscent of burnt rubber or burnt meat; spores 5-7 angular, 9-11.5 % 7-9.5 µm 01623333351743770 E. nausiosme 51. 0
+0 Smell absent or farinaceous: spores 5-9 angled, 7.5-12.5 x 5.5-8.5 (-9) µm 01623333361743780 E. fridolfingense 52. 0
+0 Spores (sub-isodiametrical. Q = 1.0-1.2 01633343371753790 E. politum 42. 0
+0 Spores heterodiametrical, Q > 1.301633343381753800164
+0 Spores 8-9 x 5.5-6.5 µm 01643383391763810 E. engadinum .45. 0
+0 ch larger Spores mu01643383401763820165
+0 Whole fruitbody very dark almost black, pileus not translucently striate; in alpine and arctic dwarf-shrub vegetations 01653403411773830 E. anthracinum 46. 0
+0 Pileus dark red-brown or grey-brown; stipe paler, in forest or grasslands of lower altitudes and latitudes01653403421773840166
+0 Spores 7.5-12.5 x 6.5-9.5 (-10) Nm, Qav = 1.3-1.4; smell farinaceous; pileus dark red- brown, translucently striate at margin; lamellae and stipe paler; in damp places in mixed deciduous forests 01663423431783850 E. caccabus 43. 0
+0 Spores (9-) 10-16 (-18) x 6-9, Qav > 1,5; smell none; in grassland 01663423441783860 E. sarcitum 319. 0
+0 Pileus pale brown to pale yellow brown01673283451793870168
+0 Pileus medium dark brown to blackish brown01673283461793880170
+0 Cheilocystidia present 01683453471803890 E. rhodocylix 336. 0
+0 Cheilocystidia absent01683453481803900169
+0 Fruitbodies omphalioid with decurrent lamellae; smell of iodine; in open spots with scanty vegetation 01693483491813910 E. iodiolens 337. 0
+0 Fruitbodies with broadly adnate-subdecurrent lamellae; cheilocystidia absent; smell nitrous; in damp deciduous forest 01693483501813920 E. pemitrosum 310. 0
+0 Pileus distinctly hygrophanous, deeply translucently striate01703463511823930171
+0 Pileus not hygrophanous, not translucently striate 01703463521823940 E. subpusillum 334. 0
+0 Pileipellis a cutis of narrow. cylindrical hyphae, 2-5 µm wide; pigment strongly incrusting and in addition also intracellular: among Cistus in Mediterranean vegetation 01713513531833950 E. philocistus 64. 0
+0 Pileipellis a cutis of much wider hyphae. at least up to 15 µm wide: in other vegetation .01713513541833960172
+0 Pileipellis made up of up to 25 µm broad inflated elements with intracellular pigment; hyphae in lower layers of pileipellis minutely incrusted; clamp-connections present 01723543551843970 E. parkensis 309. 0
+0 Pileipellis a cutis of up to 15 µm wide hyphae with incrusted walls, in addition some intracellular pigment present; clamp-connections absent 01723543561843980 E. nigellum 335. 0
+0 Smell strong, like ripe apples; stipe substriate 01733263571853990 E. melenosmum 47. 0
+0 Smell none or different; stipe fibrillose striate or fibrillose-squamulose01733263581854000174
+0 Fruitbodies rather robust and fleshy, reminiscent a large species of Clitocybe or Clitopifus01743583591864010175
+0 Fruitbodies thin-fleshed, clitocyboid or omphalioid01743583601864020176
+0 Spores isodiametrical; clamp-connections absent 01753593611874030 E. costatum 76. 0
+0 Spores heterodiametrical; clamp-connections present 01753593621874040 E. turbidatum 77. 0
+0 Cheilocystidia absent01763603631884050177
+0 Cheilocystidia present01763603641884060179
+0 Smell nitrous; stipe white, strongly silvery striate 01773633651894070 E. rhodopolium var. pseudopolitum 17c. 0
+0 Smell none or farinaceous; stipe coloured under striation01773633661894080178
+0 Pileus 5-20 mm broad; lamellae distant, deeply decurrent; stipe innately fibrillose striate 01783663671904090 E. rusticoides 338. 0
+0 Pileus 15-60 mm broad; lamellae crowded, adnate with only a short decurrent tooth; stipe strongly silvery striate 01783663681904100 E. sericeoides 78. 0
+0 Spores isodiametrical, 7-9 µm long; cheilocystidia cylindrical; pileus and stipe dull brown 01793643691914110 E. riedheimensis 80. 0
+0 Spores heterodiametrical, 10-12.5 µm long; cheilocystidia capitate; pileus and stipe pale brown 01793643701914120 E. moliniophilum 315. 0
+00-90371341500
+0 Fruitbodies white0180223721924160181
+0 Fruitbodies pigmented0180223731924170184
+0 Stipe always centrally inserted; clamp-connections present01813723741934180182
+0 Stipe centrally inserted in young stage, soon more or less eccentric, clamp-connections absent01813723751934190183
+0 Cheilocystidia present; stipe innately fibrillose or polished, without well-differentiated caulocystidia 01823743761944200 E. sericellum 192. 0
+0 Cheilocystidia absent; stipe minutely pruinose with cylindrical to coralloid cystidia 01823743771944210 E. rugosum 342. 0
+0 Spores 9-12,5 x 6-8 µm, 4-6 angled; on rotten grasses and sedges in marshy places 01833753781954220 E. albotomentosum 324. 0
+0 Spores 8.5-13 x 6-9 µm, with up to 7-8 angles; in compost of house-plants indoors .... 01833753791954230 E. ollare 325. 0
+0 Pileus very pale cream- or flesh coloured or very pale greyish brown and radially fibrillose with distinct zonate pattern, clamp-connections present01843733801964240185
+0 Pileus darker and or not zonated; clamp-connections present or absent01843733811964250187
+0 Cheilocystidia present 01853803821974260 E. cettoi 314. 0
+0 Cheilocystidia absent01853803831974270186
+0 Spores 9-12.5 x 6.9 (-10) µm, irregularly many-angled nodulose in outline 01863833841984280 E. neglectum 317. 0
+0 Spores 9.5-11 x 7-8 µm, regularly 5-7-angled in outline 01863833851984290 E. pallens 318. 0
+0 Stipe with very distinct yellow-green, green or deep olivaceous tinge 01873813861994300 E. incanum 247. 0
+0 Stipe with other colour, at most with slight green hue01873813871994310188
+0 Lamella edge darker coloured than sides with pigmented cheilocystidia01883873882004320189
+0 Lamella edge concolorous with sides, without pigmented cheilocystidia01883873892004330199
+0 Lamella edge of serrulatum type, blue-black (pl. I g)01893883902014340190
+0 Lamella edge different, brown01893883912014350191
+0 Pileus and stipe yellow; terricolous 01903903922024360 E. xanthoserrulatum 226. 0
+0 Pileus and stipe dark brown; on rotten wood 01903903932024370 E. linkii 221. 0
+0 Cheilocystidia up to 110 µm long, lageniform with acute apex; clamp-connections present 01913913942034380 E. indutoides 295. 0
+0 Cheilocystidia shorter, cylindrical to clavate; clamp-connections absent01913913952034390192
+0 Pileus pale beige-ochraceous 01923953962044400 E. ochromicaceum 281. 0
+0 Pileus more intensely coloured01923953972044410193
+0 Pileus yellow to fulvous01933973982054420194
+0 Pileus reddish brown to dark grey brown01933973992054430195
+0 Lamellae yellow; spores up to 15 µm long 01943984002064440 E. xanthochroum 285. 0
+0 Lamellae white then pink; spores 10-13 µm 01943984012064450 E. sphagnorum 286. 0
+0 Pileus not translucently striate, dark grey-brown with or without reddish tinge; lamellae and stipe base slowly turning red when bruised; in grassland 01953994022074460 E. turci 290. 0
+0 Pileus translucently striate, yellow-brown or red-brown; no part staining red when bruised01953994032074470196
+0 Pileus warm red-brown; among Sphagnum in peat-bogs 01964034042084480 E. caliginosum 279. 0
+0 Pileus yellow-brown to grey-brown01964034052084490197
+0 Pileus entirely squamulose; among Sphagnum in peat-bogs 01974054062094500 E. atromarginatum 278. 0
+0 Pileus squamulose in centre only01974054072094510198
+0 Pileus pale yellow to yellow brown with well-delimited darker centre, frequently with glaucous tinges, also on the stipe; spores 5-7-angled in outline 01984074082104520 E. exile 273. 0
+0 Pileus dull yellow to yellow-brown, sometimes with grey tinge; without well-delimited dark centre 01984074092104530 E. longistriatum 277. 0
+0 Pileus convex with slightly to distinctly depressed centre and more or less deflexed margin; lamellae adnate-emarginate, sometimes with a decurrent tooth; pigment intracellular (+/- collybioid, pl. I d)01993894102114540200
+0 Pileus with (deeply) depressed to infundibuliform centre and with decurrent lamellae and/or pigment distinctly membranal-incrusting (pl. I b)01993894112114550233
+0 Spores cuboid (pl. II b) 02004104122124560 E. percuboideum 164. 0
+0 Spores 5- or more angled02004104132124570201
+0 Clamp-connections absent02014134142134580202
+0 Clamp-connections present02014134152134590217
+0 Stipe with glaucous-green tinges02024144162144600203
+0 Stipe without such tinges02024144172144610204
+0 Cheilocystidia absent 02034164182154620 E. chloropolium 274. 0
+0 Cheilocystidia present 02034164192154630 E. exile 273. 0
+0 Pileus and stipe deep reddish-wine-coloured 02044174202164640 E. rufocarneum 287. 0
+0 Pileus and stipe differently colored02044174212164650205
+0 Fruitbodies ochre, yellow or reddish yellow02054214222174660206
+0 Fruitbodies dull yellow, yellow-brown, greyish brown or dark greyish brown02054214232174670209
+0 Pileus beige-ochraceous or ochraceous02064224242184680207
+0 Pileus yellow to yellow-red 02064224252184690 E. formosum 284. 0
+0 Stipe polished; pileus not translucently striate, minutely granulose-micaceous 02074244262194700 E. ochromicaceum 281. 0
+0 Stipe fibrillose-floccose; pileus fibrillose-squamulose02074244272194710208
+0 Pileus ochraceous 02084274282204720 E. kervernii 289. 0
+0 Pileus when fresh with distinct reddish-violaceous tinges; dull ochre when exposed or old 02084274292204730 E. queletii 288. 0
+0 Pileus distinctly translucently striate, more or less hygrophanous02094234302214740210
+0 Pileus not translucently striate, not or hardly hygrophanous02094234312214750212
+0 Spores in average shorter than 10 µm 02104304322224760 E. longistriatum var. microsporum 277c. 0
+0 Spores in average longer than 10 µm02104304332224770211
+0 Lamellae white then pink; stipe yellow brown 02114334342234780 E. longistriatum var. sarcitulum 277b. 0
+0 Lamellae yellowish then sordid pink; stipe with greyish tone 02114334352234790 E. longistriatum var. longistriatum 277a. 0
+0 Stipe polished02124314362244800213
+0 Stipe fibrillose02124314372244810216
+0 Cheilocystidia absent 02134364382254820 E. leochromus 280a. 0
+0 Cheilocystidia present02134364392254830214
+0 Smell strong, aromatical, similar to that of Hebeloma sacchariolens; pileus pale to medium dark greyish brown 02144394402264840 E. odoratum 283. 0
+0 Smell absent or different; pileus fairly dark greyish brown02144394412264850215
+0 .Spores 10-12 x 7-8 µm; base of stipe usually turning red when handled (sometimes first 24 hours after collecting!) 02154414422274860 E. turci 290. 0
+0 Spores 8.5-10 x 6.5-7.0 µm; base of stipe not staining reddish 02154414432274870 E. pseudoturci 291. 0
+0 Pileus porphyry-brown or purplish-grey; cheilocystidia abundant 02164374442284880 E. porphyrogriseum 270. 0
+0 Pileus sordid grey-brown or yellowish grey; cheilocystidia absent 02164374452284890 E. scabropelle 292. 0
+0 Cheilocystidia present and well differentiated, much larger than the basidia02174154462294900218
+0 Cheilocystidia absent or, if present, cylindrical to clavate and not protruding very much from hymenium02174154472294910226
+0 Pleurocystidia present02184464482304920219
+0 Pleurocystidia absent02184464492304930220
+0 Cheilo- and pleurocystidia tapering towards apex 02194484502314940 E. indutoides var. pleurocystidiatum 295b. 0
+0 Cheilo- and pleurocystidia with rounded, often capitate apex 02194484512314950 E. insolitum 313. 0
+0 Stipe polished02204494522324960221
+0 Stipe weakly to distinctly fibrillose-striate or flocculose02204494532324970222
+0 Pileus strongly radially fibrillose, pale grey with ochraceous tinge 02214524542334980 E. calaminare 297. 0
+0 Pileus glabrous except for the finely squamulose centre; moderately dark brown 02214524552334990 E. cocles 296. 0
+0 Spores well under 10 µm long02224534562345000223
+0 Spores definitely longer than 10 µm02224534572345010224
+0 Pileus not hygrophanous, minutely rugulose all over; pileipellis a hymeniderm of clavate to sphaero pedunculate elements, up to 22 µm wide 02234564582355020 E. moguntinum 302. 0
+0 Pileus hygrophanous, radially fibrillose; pileipellis a trichoderm of slender clavate terminal elements up to 15 µm wide 02234564592355030 E. riofriense 303. 0
+0 Pileus yellow-brown with distinct olivaceous tinge 02244574602365040 E. indutoides var. indutoides 295a. 0
+0 Pileus with dark brown, chocolate brown or grey-brown tinges02244574612365050225
+0 Smell indistinct 02254614622375060 E. indutoides var. griseorubidum f. griseorubidum 295c. 0
+0 Smell strong, reminiscent of burnt meat 02254614632375070 E. indutoides var. griseorubidum f. anserolens 295d. 0
+0 Cheilocystidia present02264474642385080227
+0 Cheilocystidia absent02264474652385090228
+0 Pileus and stipe with distinct olivaceous tinge; cheilocystidia narrow, clavate, up to 10 µm wide 02274644662395100 E. olivaceotinctum 304. 0
+0 Pileus and stipe yellowish or ochraceous; cheilocystidia broadly clavate, up to 20 µm wide 02274644672395110 E. weholtii 305. 0
+0 Stipe fibrillose striate02284654682405120229
+0 Stipe polished02284654692405130231
+0 Pileus translucently striate; spores (9-) 10-11 (-12) x 7-8 (-9) µm, heterodiametrical .. 02294684702415140 E. griseoxanthopus 298. 0
+0 Pileus not translucently striate; spores subisodiametrical02294684712415150230
+0 Pileus grey-brown; lamellae sordid greyish pink; adnate-emarginate with decurrent tooth; spores 7.5-10 x 5.5-7.5 (-9) µm 02304714722425160 E. sordidolamellatum 301. 0
+0 Pileus porphyry-brown; lamellae white then pink, sometimes with blue tinge; (sub)decurrent; spores 8.5-10.5 x 6.5-9.0 µm 02304714732425170 E. beyeri 213. 0
+0 Stipe vivid yellow with white basal mycelium; smell none 02314694742435180 E. politoflavipes 300. 0
+0 Stipe grey-brown; smell farinaceous02314694752435190232
+0 Spores 9.0-16 (-18) µm long 02324754762445200 E. sarcitum 319. 0
+0 Spores 8.0-10 (-11) µm long 02324754772445210 E. farinasprellum 299. 0
+0 Spores cuboid 02334114782455220 E. galericolor 316. 0
+0 Spores 5- or more angled02334114792455230234
+0 Pileus with a distinct concentric zonation02344794802465240235
+0 Pileus different02344794812465250237
+0 Pileus pale 02354804822475260 E. cettoi 314. 0
+0 Pileus dark brown02354804832475270236
+0 Cheilocystidia absent; spores 7.5-10 x 6.0-8.0 µm 02364834842485280 E. undatum 330. 0
+0 Lamella edge entirely sterile with cylindrical to clavate cheilocystidia, often in chains; lamellae deeply decurrent; smell indistinct; spores 9.0-14 x 6-8 µm 02364834852485290 E. enderlei 81. 0
+0 Cheilocystidia absent02374814862495300238
+0 Cheilocystidia present02374814872495310244
+0 Pileus fibrillose; pigment incrusting and intracellular02384864882505320239
+0 Pileus slightly rugulose, tomentose or squamulose at least at centre; pigment incrusting02384864892505330240
+0 Habit omphalioid; pileus 10-20 mm, fibrillose-rimose; spores 8.5-11.5 x 7.0-8.5 µm .... 02394884902515340 E. brunneostanneum 312. 0
+0 Habit reminiscent a Lactarius species; pileus 15-35 mm, finely fibrillose all over; spores 7.5-9.0 x 7.5-8.5 µm 02394884912515350 E. lactarioides 70. 0
+0 Spores very small, 6.5-7.5 x 5.0-6.5 µm; lamellae hardly decurrent . 02404894922525360 E. chelone 340. 0
+0 Spores larger02404894932525370241
+0 Pileus with only slightly depressed centre; lamellae adnate-emarginate with decurrent tooth02414934942535380242
+0 Pileus depressed to infundibuliform; lamellae decurrent02414934952535390243
+0 Pileus opaque, not translucently striate, entirely tomentose-felted to minutely squamulose under lens 02424944962545400 E. korhoneni 332. 0
+0 Pileus translucently striate; finely rugulose with micaceous-aeriferous patches 02424944972545410 E. depressum 333. 0
+0 Pileus woolly-tomentose, pinkish brown; clamp-connections present 02434954982555420 E. lanicum 331. 0
+0 Pileus floccose-squamulose, very dark brown; clamp-connections absent 02434954992555430 E. flocculosum 341. 0
+0 Cheilocystidia capitate 02444875002565440 E. moliniophilum 315. 0
+0 Cheilocystidia different02444875012565450245
+0 Pleurocystidia present 02455015022575460 E. insolitum 314. 0
+0 Pleurocystidia absent02455015032575470246
+0 Habit collybioid; pileus caramel-colored ochraceous, almost glabrous except for a finely squamulose centre (calotte); spores 11-12 (-13) x 7.5-9.5 µm 02465035042585480 E. rosemariae 282. 0
+0 Habit omphalioid; pileus differently colored02465035052585490247
+0 Lamella edge entirely sterile with dense bundles of cheilocystidia; spores large, 9-14 µm long 02475055062595500 E. enderlei 81. 0
+0 Lamella edge usually heterogeneous; cheilocystidia scattered among basidia; spores smaller02475055072595510248
+0 Spores 8.5-10.5 x 5.5-6.5 µm; Q = 1.35-2.0, smell of almonds 02485075082605520 E. amygdalinum 308. 0
+0 Spores less strongly heterodiametrical; smell farinaceous, rancid or absent02485075092605530249
+0 Spores isodiametrical; Q = 1.0-1.202495095102615540250
+0 Spores heterodiametrical, Q = 1.2-1.502495095112615550251
+0 Cheilocystidia clavate to subglobose, often in chains, colourless or incrusted 02505105122625560 E. phaeocyathus 339. 0
+0 Cheilocystidia cylindrical to clavate or lageniform, never incrusted 02505105132625570 E. pseudosericeoides 79. 0
+0 Smell not very distinct; pileus pale brown, 9-11 mm broad; stipe grey-brown 02515115142635580 E. hausknechtii 307. 0
+0 Smell strongly rancid-farinaceous; pileus dark brown, 20-40 mm broad; stipe pale brown-grey or reddish grey 02515115152635590 E. rancidodorum 175. 0
+00-100516256200
+0 Spores cuboid 0252235172645630' erreur corrigée253
+0 Spores cruciform0252235182645640255
+0 Stipe smooth, polished, without caulocystidia 02535175192655650 E. rhombisporum var. rhombisporum 162a. 0
+0 Stipe not smooth, but pruinose-fibrous entirely or in upper half with caulocystidia02535175202655660254
+0 Pigment intracellular; cystidia lageniform to tibiiform 02545205212665670 E. rhombisporum var. floccipes 162b. 0
+0 Pigment parietal; cystidia fusiform 02545205222665680 E. prismatospermum 163. 0
+0 Pigment intracellular and in addition also incrusting 02555185232675690 E. conferendum var. incrustatum 161c. 0
+0 Pigment intracellular02555185242675700256
+0 Fruitbodies robust; stipe up to 7 mm thick; in grassland and in humus 02565245252685710 E. conferendum var. conferendum 161a. 0
+0 Fruitbodies tiny; stipe up to 1.5 mm thick, often on rotten wood 02565245262685720 E. conferendum var. pusillum 161c. 0
+00-110527157600
+0 Pileus up to 63 mm broad, stipe 75-100 x 5.5-9.5 mm, not rooting; cheilocystidia absent 0257255282695770 E. eximium 69. 0
+0 Pileus 15-35 mm broad; stipe 22-45 x 4-7 mm, rooting; cheilocystidia present 0257255292695780 E. pallideradicatum 68. 0
+00-120530058100
+0 Pileus distinctly pigmented0258295312705820259
+0 Pileus white0258295322705830297
+0 Lamella edge, and often also sides, with large fusiform cystidia; pileus opaque, not translucently striate; hymenium often with dark pigmented necrobasidia 02595315332715840 E. excentricum 82. 0
+0 Cystidia, if present, different; necrobasidia never present02595315342715850260
+0 Species appearing in spring under Rosaceae (Crataegus, Prunus, Malus and others) or Ulmus02605345352725860261
+0 Species normally appearing in summer and autumn, not associated with Rosaceae or Ulmus02605345362725870265
+0 .Pileus usually rather pale cream-colored, greyish or brownish and strongly satiny micaceous shiny, not translucently striate, often expanding already when still partly underground; spores large, 10-12 (-14) x 10-12 µm, isodiametrical and many-angled in outline; often associated with Ulmus (see comments) 02615355372735880 E. saundersii 16. 0
+0 Pileus either darker or, when pale, then never strongly satiny-micaceous and with smaller, more heterodiametrical spores02615355382735890262
+0 Pileus moderately dark to dark brown, yellow-brown or grey-brown02625385392745900263
+0 Pileus pallid, cream-colored or pale greyish (compare E. niphoides)02625385402745910264
+0 Stipe quickly becoming hollow, fibrous, pileus relatively thin-fleshed, distinctly translucently striate, under Ulmus 02635395412755920 E. aprile 13. 0
+0 Stipe usually not hollow, with relatively firm flesh and distinct cortex, pileus indistinctly translucently striate; under Rosaceae 02635395422755930 E. clypeatum 12. 0
+0 Pileus distinctly hygrophanous; flesh and surface never staining reddish or orange when bruised 02645405432765940 E. clypeatum f. pallidogriseum 12b. 0
+0 Pileus indistinctly hygrophanous; flesh and surface often staining orange or reddish when bruised 02645405442765950 E. sepium 15. 0
+0 Pileus when moist not or hardly hygrophanous, not translucently striate, often with a micaceous sheen at centre02655365452775960266
+0 Pileus when moist distinctly hygrophanous, often slightly to distinctly translucently striate at outermost margin, glabrous02655365462775970276
+0 Pileus and stipe with green-olivaceous tinges 02665455472785980 E. viridans 6. 0
+0 Pileus differently colored02665455482785990267
+0 Lamellae yellow then salmon-pink 02675485492796000 E. sinuatum 7. 0
+0 Lamellae white, grey or greyish-brown when young02675485502796010268
+0 Fruitbodies staining yellow-orange when bruised; cheilocystidia present 02685505512806020 E. moserianum 8. 0
+0 Fruitbodies not staining yellow-orange when bruised; without cheilocystidia02685505522806030269
+0 Pileus dark mouse-grey, sepia or grey-brown02695525532816040271
+0 Pileus pale brown to moderately dark yellow-brown02695525542816050270
+0 Spores small, 6.5-8 (-9) x 6.5-8.0 µm; in grassland 02705545552826060 E. prunuloides var. obscurum 1. 0
+0 Spores larger; in forest 02705545562826070 E. lividoalbum 34. 0
+0 Stipe porphyry brown with yellow base 02715535572836080 E. luteobasis 9. 0
+0 Stipe white to grey02715535582836090272
+0 Smell strong of rotten cabbage; pileus grey-brown with yellow-brown marginal zone; in sub arctic tundra 02725585592846100 E. olidum 10. 0
+0 Smell farinaceous or indistinct; in other habitat02725585602846110273
+0 Spores up to 10 µm long, isodiametrical, 5-angled in side-view02735605612856120274
+0 Spores larger, up to 9-12 (-14) µm long, heterodiametrical, 6-7 angled in side-view ....02735605622856130275
+0 Fruitbodies relatively small, pileus 30-70 mm broad, creamy-white to brown; in grassland 02745615632866140 E. prunuloides 1. 0
+0 Fruitbodies more robust, pileus up to 100 mm broad; mouse-grey with slightly ochre tinge; in forest 02745615642866150 E. myochroum 2. 0
+0 Lamellae dark grey with pink tinge; pileus bronze-brown to red-brown, entirely covered with a greyish bloom; stipe base tinged yellow 02755625652876160 E. griseopruinatum 36. 0
+0 . Lamellae sordid ochraceous or greyish-beige; pileus dark brown to umber brown, often with water-spots, and with slight aeriferous-pruinose centre; stipe base sometimes with violaceous-reddish tinges near base 02755625662876170 E. singulare 37. 0
+0 Species confined to the alpine or arctic environment, often associated with dwarf Salix or Polygonum viviparum 02765465672886180 see Key 7 : Pseudonolanea0
+0 Species of lower altitudes / latitudes02765465682886190277
+0 Basal half of stipe with very distinct reddish tinge 02775685692896200 E. rubrobasis 23. 0
+0 Stipe without reddish tinges02775685702896210278
+0 Cheilocystidia present02785705712906220279
+0 Cheilocystidia absent02785705722906230281
+0 Cheilocystidia filiform-subcylindrical to coralloid, narrow, up to 10 µm wide02795715732916240280
+0 Cheilocystidia clavate, 10-30 µm wide 02795715742916250 E. inusitatum 29. 0
+0 Pileus dark red-brown to reddish brown; flesh compact; smell strongly farinaceous- rancid; pigment intracellular 02805735752926260 E. kallioi 40. 0
+0 Pileus pale brown with yellow or pinkish tinge, strongly hygrophanous and pallescent to almost white; fruitbodies very brittle; smell indistinct; pigment intracellular and incrusting 02805735762926270 E. noordeioosii 22. 0
+0 Spores heterodiametrical, many-angled to nodulose in outline (pl. Il d); pileus very dark red-brown, often with fibrillose patches near margin; in dead and living Sphagnum 02815725772936280 E. sphagneti 41. 0
+0 Spores isodiametrical to heterodiametrical, never many-angled to nodulose in outline; pileus without fibrillose patches near margin, in other habitat02815725782936290282
+0 Smell strongly of rotten cabbage and habit reminiscent of Collybia butyracea with dark brown, hardly hygrophanous pileus and greasy surface, which may eventually become radially wrinkled 02825785792946300 E. brassicolens 38. 0
+0 Smell and habit different02825785802946310283
+0 Pigment intracellular, very obvious in pileipellis and or subpellis and without any incrusting pigments02835805812956320284
+0 Pigment either incrusting, or hardly visible intracellular and in the wall of the hyphae (parietal), or a mixture of both intracellular and incrusting pigment02835805822956330288
+0 Lamellae tinged grey-brown; stipe coloured02845815832966340285
+0 Lamellae white then pink; stipe white02845815842966350287
+0 Whole fruitbody fairly robust with compact flesh; pileus grey brown with reddish or chocolate-brown tinges at centre; lamellae not transversely veined 02855835852976360 E. griseoluridum 35. 0
+0 Fruitbodies smaller and with brittle flesh02855835862976370286
+0 fruitbody very brittle, relatively thin-fleshed; lamellae often transversely veined; stipe distinctly paler than pileus; in deciduous forest on heavy, loamy soil in lowland areas 02865865872986380 E. transvenosum 39. 0
+0 Whole fruitbody very dark brown-grey, less brittle; lamellae never transversely veined; in subalpine Alnus viridis stands in the Alps 02865865882986390 E. alnobetuiae 58. 0
+0 Fruitbodies single; pileus yellow brown to grey-brown, regularly shaped 02875845892996400 E. lividoalbum 34. 0
+0 Fruitbodies growing in clusters; pileus dark sepia-brown, often very irregularly shaped with strongly lobed margin 02875845902996410 E. difforme 24. 0
+0 Pileus pale brown, pale yellow-brown to rather light brown with only slight grey tinge; fruitbodies usually relatively thin-fleshed and brittle02885825913006420289
+0 Pileus dark red-brown, grey-brown or blackish brown; fruitbodies either robust with firm flesh, or small and thin-fleshed02885825923006430292
+0 Pigment minutely incrusting the hyphae of pileipellis and/or upper pileitrama (use oil- immersion), sometimes with additional pale intracellular pigment02895915933016440290
+0 Pigment pale, intracellular (observe in salt solution for plasmolysis) and/or staining the walls of the hyphae pale yellow-brown (parietal)02895915943016450291
+0 Pileus yellow to yellow-brown, without grey tinges; smell none or weakly farinaceous ... 02905935953026460 E. majaloides 26. 0
+0 Pileus yellow brown mixed with grey, especially at centre; smell when fresh distinctly nitrous, but soon changing to farinaceous 02905935963026470 E. sericatum 25. 0
+0 smell none or nitrous; pileus yellow-brown to brown, often slightly depressed at centre, sometimes with a low umbo, or with a low umbo within a depressed centre 02915945973036480 E. rhodopolium 17. 0
+0 Smell farinaceous; pileus pale brown mixed with grey, very quickly pallescent to almost white 02915945983036490 E. pseudoexcentricum 21. 0
+0 Robust species; pileus 40-100 mm broad; stipe at least 5 mm thick in middle part02925925993046500293
+0 Small species; pileus 10-30 (-50) mm broad; stipe 3-5 mm thick in middle part02925926003046510295
+0 Lamellae white to pale grey then pink; spores sub-heterodiametrical, Qav < 1.2; in deciduous forests 02935996013056520 E. myrmecophilum 30. 0
+0 Lamellae grey then greyish pink02935996023056530294
+0 Pileus entirely rugulose; lamellae grey, only late with slightly pink tinge; spores subisodiametrical, Qav = 1.2; in deciduous forest (Castanea sativa) 02946026033066540 E. griseorugulosum 33. 0
+0 Pileus glabrous; lamellae grey then distinctly pinkish grey; spores heterodiametrical, Qav = 1.3; in coniferous forest 02946026043066550 E. venosum 31. 0
+0 Pileus very dark brown almost black; not translucently striate; lamellae dark grey then pinkish grey; pigment coarsely incrusting and intracellular 02956006053076560 E. gerriae 32. 0
+0 Pileus pale to moderately dark brown, usually slightly to distinctly translucently striate; lamellae white to pale grey then pink; pigment minutely incrusting or intracellular02956006063076570296
+0 Pileus grey-brown, translucently striate at margin only; stipe with greyish tinge; pileipellis with minutely incrusting pigment 02966066073086580 E. sordidulum 27. 0
+0 Pileus reddish brown, deeply translucently striate; stipe white; pileipellis with minutely incrusting pigment and intracellular pigment 02966066083086590 E. subradiatum 28. 0
+0 Fruitbodies appearing in spring under Rosaceae 02975326093096600 E. niphoides 14. 0
+0 Fruitbodies appearing in late summer and autumn in other habitats02975326103096610298
+0 Cheilocystidia present; stipe base bulbous 02986106113106620 E. leucocarpum 19. 0
+0 Cheilocystidia absent; stipe base equal or tapering02986106123106630299
+0 Spores distinctly heterodiametrical, 9-12.5 (-13.5) x 7.5-10 µm; in forest 02996126133116640 E. speculum 18. 0
+0 Spores isodiametrical, 6.5-8.0 (-9.0) x 6.5-8 µm; in grassland 02996126143116650 E. prunuloides 1. 0
+00-130615-166800
+0 Fruitbodies with olivaceous tinges0300316163126690301
+0 Fruitbodies without olivaceous tinges0300316173126700302
+0 Lamellae with olivaceous tinge; cheilocystidia much longer than basidia; pigment intracellular and parietal 03016166183136710 E. chlorophyllum 136. 0
+0 Pileus and stipe with olivaceous tinges; cheilocystidia about same length as basidia; pigment incrusting 03016166193136720 E. olivaceohebes 86. 0
+0 Spores isodiametrical 03026176203146730 E. occultipigmentatum var. cystidiatum 120b. 0
+0 Spores heterodiametrical03026176213146740303
+0 Cheilocystidia very broadly clavate, globose or sphaeropedunculate03036216223156750304
+0 Cheilocystidia different03036216233156760305
+0 Pigment intracellular; clamp-connections absent 03046226243166770 E. globuliferum 132. 0
+0 Pigment incrusting; clamp-connections present 03046226253166780 E. sphaerocystis 126. 0
+0 Stipe glabrous, polished03056236263176790306
+0 Stipe fibrillose striate03056236273176800312
+0 Fruitbodies very dark brown almost black; pileus hardly striate; flesh rather tough, cartilaginous; pigment coarsely incrusting 03066266283186810 E. kerocarpus 91. 0
+0 Fruitbodies different03066266293186820307
+0 Pigment minutely incrusting; clamp-connections absent03076296303196830308
+0 Pigment intracellular; clamp-connections present03076296313196840309
+0 Cheilocystidia with a very broad basal part and long, moliniform neck 03086306323206850 E. amicorum 145. 0
+0 Cheilocystidia subcylindrical to sublageniform 03086306333206860 E. tenellum 104. 0
+0 Spores relatively small, 7.0-8.5 (-9.0) x 5.5-6.5 µm; on dung 03096316343216870 E. coprophilum 133. 0
+0 Spores larger and habitat different03096316353216880310
+0 Spores large, 10-14 (-16) x 7-11 µm; cheilocystidia abundant, 50-150 µm long 03106356363226890 E. velenovskyi 127. 0
+0 Spores and cheilocystidia smaller03106356373226900311
+0 Spores 4-6 angled in side-view; cheilocystidia 45-70 x 8-22 x 3-6 µm, lageniform to tibiiform, abundant 03116376383236910 E. pratulense 128. 0
+0 Spores 5-7 angled in side-view; cheilocystidia 30-80 x 4-11 µm, clavate to capitate .... 03116376393236920 E. langei 129. 0
+0 Lamellae dark brown with pink tinge; cheilocystidia tibiiform like in Conocybe species ..03126276403246930313
+0 Lamellae white then (brownish) pink; cheilocystidia different03126276413246940314
+0 Pileus very dark brown almost black 03136406423256950 E. inutile 172. 0
+0 Pileus ochraceous 03136406433256960 E. conocybecystis 191. 0
+0 Pigment intracellular03146416443266970315
+0 Pigment incrusting03146416453266980318
+0 Fruitbodies grey-brown, small: pileus 10-25 mm broad; stipe 1-2.5 mm wide03156446463276990316
+0 Fruitbodies larger with yellow-brown or red-brown colour; pileus 20-70 mm broad; stipe 3-7 (-10) mm wide03156446473277000317
+0 Pileus dark grey-brown, not hygrophanous, not translucently striate; stipe grey; spores 9-10.5 x 6-7.5 µm, Qav = 1.4-1.5; alpine 03166466483287010 E. magnaltitudinis 130. 0
+0 Pileus pale grey-brown, hygrophanous, translucently striate; stipe pale grey; spores 9-10 x 7.5-8.5 µm, Qav = 1,2-1,3, lower altitudes 03166466493287020 E. cryptocystidiatum 131. 0
+0 Pileus translucently striate; spores in average 10-11 x 7.5-8 µm; smell farinaceous 03176476503297030 E. testaceum var. testaceum 121a. 0
+0 Pileus not translucently striate; spores in average 11.5-12.5 x 8.5-9.5 µm; smell none 03176476513297040 E. testaceum var. bavaricum 121 b. 0
+0 Smell strong, like Hebeloma sacchariolens 03186456523307050 E. sacchariolens 109. 0
+0 Smell none or farinaceous03186456533307060319
+0 Pileipellis a cutis with transitions to a trichoderm of slightly swollen elements; pigment both incrusting and intracellular in form of agglutinated, bright yellow-brown granules or clots; clamp-connections absent 03196536543317070 E. kristiansenii 143. 0
+0 Pileipellis a cutis of narrow hyphae; pigment incrusting, and, if additional intracellular is present, then not in form of agglutinated granules or clots; clamp-connections present, rarely absent03196536553317080320
+0 Lamella edge entirely sterile03206556563327090321
+0 Lamella edge heterogeneous03206556573327100323
+0 Spores less than 8 µm wide 03216566583337110 E. hebes 85. 0
+0 Spores more than 8 µm wide03216566593337120322
+0 Fruitbodies robust with stipe much longer than diameter of pileus; in spring in coniferous forest, particularly in central and southern Europe; in the lowland of Western Europe also in autumn in deciduous forest 03226596603347130 E. hirtipes 83. 0
+0 Fruitbodies smaller and stipe about as long as diameter of pileus; in grasslands 03226596613347140 E. kuehnerianum 84. 0
+0 Spores small, 8.5-9.5 x 6.9-8.0 µm 03236576623357150 E. malenconii 87. 0
+0 Spores larger, up to 11 (-12.5) µm long03236576633357160324
+0 Pileus red-brown; spores 9.0-12.5 x 7.0-9.5 µm, 5-6-angled, sometimes almost rhomboid; smell strong, like rotten mushrooms; clamp-connections absent 03246636643367170 E. palmense 88. 0
+0 Pileus grey-brown; spores 8.5-11 x 7-8 µm, 5-7 angled in side-view, never rhomboid; smell farinaceous; clamp-connections present 03246636653367180 E. tibiicystidiatum 111. 0
+00-140666-272400
+0 Pileus and stipe very dark brown to blackish brown; lamellae almost free, dark red- brown; trama of lamellae and pileus made up of short, inflated elements 0325326673377250 E. atroenigmaticum 65. 0
+0 Fruitbodies different; trama composed of long, fusiform elements0325326683377260326
+0 Basidia 2-spored03266686693387270327
+0 Basidia, at least in majority, 4-spored (OR if  E.cuspidiferum : generally 2-spored, rarely 4-spored)03266686703387280328
+0 Stipe strongly silvery fibrillose; smell indistinct or weakly farinaceous; pileus up to 40-50 mm broad, stipe up to 90 mm long 03276696713397290 E. cetraturn 113. 0
+0 Stipe polished; smell farinaceous-rancid; pileus up to 20 mm broad; stipe up to 25 mm long 03276696723397300 E. farinogustus 114. 0
+0 Spores remarkably many-angled to nodulose (pl. Il d), heterodiametrical03286706733407310329
+0 Spores normally 5-7-angled in outline, not nodulose03286706743407320333
+0 Clamp-connections absent; pigment in pileipellis incrusting and intracellular in form of agglutinated bright yellow-brown granules or clots 03296736753417330 E. cuniculorum 140. 0
+0 Clamp-connections present; pigment intracellular03296736763417340330
+0 Pileus blackish brown03306766773427350331
+0 Pileus reddish brown or pale yellow- or grey-brown03306766783427360332
+0 Pileus conical to convex, with small umbo; spores 10-12.5 x 7-9 µm 03316776793437370 E. triste 171. 0
+0 Pileus convex, soon applanate; spores 7.5-11 (-12) x 6-7 (-8) µm 03316776803437380 E. undulatosporum 173. 0
+0 Fruitbodies resembling Entoloma conferendum with medium yellow-brown pileus; stipe fibrillose striate 03326786813447390 E. pseudoconferendum 122. 0
+0 Fruitbodies different; pileus greyish brown; stipe (almost) polished 03326786823447400 E. winterhoffii 174. 0
+0 Spores isodiametrical; Qav =1.0-1.203336746833457410334
+0 Spores heterodiametrical; Qav > 1.203336746843457420344
+0 Pigment intracellular, hardly visible03346836853467430335
+0 Pigment incrusting, sometimes in addition also intracellular03346836863467440336
+0 Pileus minute, 3.5-5 mm broad, dark brown 03356856873477450 E. pusillulum 123. 0
+0 Pileus larger, reddish brown 03356856883477460 E. occultipigmentatum var. occultipigmentatum 120a. 0
+0 Clamp-connections absent; spores very small, 6.5-8 µm in diameter and rounded- angular 03366866893487470 E. defibulatum 138. 0
+0 Clamp-connections present; spores more pronouncedly angular03366866903487480337
+0 Pileus rather pale brown, very pale and strongly aeriferous-fibrillose when dry03376906913497490338
+0 Pileus dark brown, red-brown or grey-brown to almost black03376906923497500339
+0 Lamellae well-developed 03386916933507510 E. nitens 100. 0
+0 Lamellae reduced, vein-like, sometimes not reaching the margin of the pileus 03386916943507520 E. reginae 101. 0
+0 Stipe polished; preferably in humus of damp deciduous forests, rarely also in grassland 03396926953517530 E. juncinum 99. 0
+0 Stipe slightly to distinctly fibrillose-striate; in grassland03396926963517540340
+0 Fruitbodies stout, mycenoid, pileus conical to convex with pronounced umbo; stipe 2-3 times as long as diameter of pileus, 40-130 x 2,5-5 mm; smell indistinct or slightly spermatic 03406966973527550 E. atlanticum 98. 0
+0 Fruitbodies less robust and stipe about 1-1.5 times as long as diameter of pileus; smell farinaceous-rancid03406966983527560341
+0 Pileus distinctly translucently striate when moist03416986993537570342
+0 Pileus indistinctly or not translucently striate when moist03416987003537580343
+0 Pileitrama made up of short, inflated elements, 20-70 x 10-25 µm; pileus grey-brown; spores subisodiametrical, 8.5-10 x 7.0-8.5 µm, Qav = 1.2; 6-7-angled in side-view 03426997013547590 E. valdeumbonatum 67. 0
+0 Pileitrama made up of long, fusiform elements, at least up to 200 µm long; pileus red- brown, often fairly dark; stipe dark brown, innately to silvery fibrillose; spores 7.0-10.5 x 6.5-9.6 µm; Qav = 1.1, 5-, rarely 6-angled in side-view 03426997023547600 E. sericeum var. sericeum 106. 0
+0 Pilei- and hymenophoral trama made up of short, subcylindrical elements, 15-90 µm long; pileus surface glabrous, somewhat micaceous 03437007033557610 E. vindobonense 66. 0
+0 Pilei- and hymenophoral trama made up of long, fusiform elements, at least 200 µm long; pileus often with a hoary-subzonate covering 03437007043557620 E. sericeum var. cinereoopacum 107. 0
+0 Pigment intracellular03446847053567630345
+0 Pigment incrusting, sometimes in addition also intracellular03446847063567640355
+0 Pileus with olivaceous or green tinges03457057073577650346
+0 Pileus without olivaceous or green tinges03457057083577660348
+0 Stipe with olivaceous tinges; clamp-connections absent; smell absent 03467077093587670 E. olivaceostipitatum 135. 0
+0 Stipe reddish brown, grey-brown or yellowish; clamp-connections present, at least in hymenium; smell strong, aromatical or absent03467077103587680347
+0 Pileus dark olivaceous-brown; stipe reddish brown; on rotten wood 03477107113597690 E. ambrosium (see comments under E. pleopodium) 0
+0 Pileus yellow-olivaceous; stipe yellow to grey-brown; terricolous 03477107123597700 E. pleopodium 134. 0
+0 Spores 5-7 µm wide03487087133607710349
+0 Spores 7-10 µm wide03487087143607720350
+0 Smell nitrous 03497137153617730 E. infula var. chlorinosum 124b. 0
+0 Smell none 03497137163617740 E. solstitiale 125. 0
+0 Stipe polished 03507147173627750 E. triste 171. 0
+0 Stipe fibrillose or fibrillose-striate03507147183627760351
+0 Spores 8.5-10 µm long, Qav = 1.25, in meadows and grassland 03517187193637770 353
+0 Spores 10-12 µm long; Qav = 1.4, in woods03517187203637780352
+0 Pileus light brown with ochraceous tinge and dark brown centre and striation, translucently striate up to centre; lamellae grey then with pink tinge, broadly ventricose, often thick 03527207213647790 E. ventricosum 116. 0
+0 Pileus light reddish brown with grey-brown striation up to centre; lamellae pale then pink without grey or brown tinges; thin 03527207223647800 E. calthionis 115. 0
+0 Pileus dark brown with contrasting yellow umbo; stipe pruinose in upper part 03537197233657810 E. cuneatum 117. 0
+0 Pileus uniformly colored03537197243657820354
+0 Fruitbodies very pale brown; stipe entirely pruinose to tomentose ... 03547247253667830 E. lanuginosipes 119. 0
+0 Pileus dark yellow-brown or red-brown; stipe pale to moderately dark brown, densely silvery striate, pruinose at apex only 03547247263667840 E. pallescens 118. 0
+0 Clamp-connections absent; pileipellis with minutely to coarsely incrusted hyphae, and in addition intracellular pigment, which often is present in form of small, agglutinated yellow-brown clots (pl. Ill d, e) (sect. Fernandae)03557067273677850356
+0 Clamp-connections present; pigmentation different03557067283677860359
+0 Stipe distinctly silvery striate03567277293687870357
+0 Stipe smooth, polished03567277303687880358
+0 Pileus grey-brown with yellow or reddish tinges, pallescent to pale grey-brown; lamellae white then pink; flesh very brittle 03577297313697890 E. acidophilum 141. 0
+0 Pileus very dark grey-brown, only slightly pallescent on drying; lamellae sordid pink; flesh relatively tough 03577297323697900 E. argenteostriatum 142. 0
+0 Stipe greyish to grey-brown; pileus either smooth and translucently striate or not or weakly translucently striate and somewhat felted at centre 03587307333707910 E. fernandae 137. 0
+0 Stipe yellow; pileus always smooth, deeply translucently striate and glabrous 03587307343707920 E. xanthocaulon 139. 0
+0 Smell strong, aromatic, reminiscent the smell of Hebeloma sacchariolens03597287353717930360
+0 Smell none or farinaceous-rancid03597287363717940361
+0 Pileus up to 55 mm broad, translucently striate at margin up to half the radius; stipe 30-90 x 2-8 mm 03607357373727950 E. ameides var. ameides 108a. 0
+0 Pileus 17-28 mm broad, translucently striate up to centre; stipe 13-20 x 1.7-2 mm 03607357383727960 E. ameides var. tenue 108b. 0
+0 Pileus and stipe beige to light brown, often with darker spot at centre of pileus, strongly translucently striate; smell indistinct03617367393737970362
+0 Pileus and stipe moderately dark to dark brown, sepia or almost black; smell none or distinctly farinaceous-rancid03617367403737980364
+0 Apex of stipe with capitate caulocystidia 03627397413747990 E. favrei 103. 0
+0 Apex of stipe with cylindrical to clavate, never capitate caulocystidia03627397423748000363
+0 Pileus up to 30 mm; stipe up to 7 x 0.5-2 mm; pileus blunt or slightly depressed at centre; lamellae purely white then pink; spores 8-11 (-11.5) x 6.5-8.5 µm; in black humus of deciduous forest 03637427433758020 E. minutum 102. 0
+0 Very small species: pileus up to 10 mm; stipe up to 20 x 1 m; pileus with pronounced papilla; lamellae pale grey then sordid pink; spores 7.5-9.5 -10.5) x 6-8 (-8.5) µm; in wet grassland and marshy places 03637427443758040 E. pygmaeopapillatum 1050
+0 Spores in outline shortly heterodiametrical to subisodiametrical, Qav ranging between 1.2-1.303647407453768060365
+0 Spores in outline definitely heterodiametrical, Qav 1.3 or more03647407463768070368
+0 Spores very weakly rounded-angular 03657457473778080 E. ortonii 96. 0
+0 Spores pronouncedly angular03657457483778090366
+0 Smell raphanoid; caulocystidia capitate; in Sphagnum, 2-Spored, rarely 4-spored 03667487493788100 E. cuspidiferum 97. 7500
+0 Dans son courrier du 19/3/08, M.Noordeloos m'a précisé que dans sa monographie de 1981 il écrivait "basidia 2- and rarely 4-spored" ; dans la monographie de 1992 il a été écrit "4-spored" par erreur ; qu'en fait, les basides 2-sporiques sont toujours en majorité, mais qu'il a aussi observé des collections parfaitement 4-sporiques.03667487503788110N0
+0 Smell farinaceous-rancid or inconspicuous; caulocystidia, if present, not capitate, in other habitat03667487513788120367
+0 Stipe strongly silvery striate; smell indistinct to slightly spermatic-herbaceous 03677517523798130 E. atlanticum 98. 0
+0 Stipe sparsely fibrillose striate; smell strongly farinaceous-rancid 03677517533798140 E. lucidum 92. 0
+0 Lamellae thick and distant, very dark brown already in young stages 03687467543808150 E. clandestinum 90. 0
+0 Lamellae normally thin and moderately distant to crowded, less dark brown03687467553808160369
+0 Spores small, in average less than 10.5 µm long03697557563818170370
+0 Spores larger, in average longer than 10.5 µm03697557573818180372
+0 Pileus moderately dark yellow- to reddish brown; lamellae purely white then pink; stipe polished 03707567583828190 E. infula var. infula 124a. 0
+0 Pileus dark brown, sepia or blackish brown03707567593828200371
+0 Pileus yellow-brown to red-brown, already when moist with loose fibrils becoming lustrous on drying; pileipellis with incrusting pigment; subpellis not very well differentiated; in autumn in grassland 03717597603838210 E. sericeonitens 93. 0
+0 . Pileus dark grey-brown or sepia brown to almost black; glabrous; pileipellis with incrusting and intracellular pigment; in spring in or near coniferous forests and also in peat-bogs among Sphagnum 94. E. proterum03717597613838220372
+0 Appearing in spring in or near coniferous forest; stipe fibrillose striate, at apex with capitate caulocystidia; pileus dark brown almost black; smell none 03727617623848230 E. vernum 110. 0
+0 Appearing in summer and autumn in grassland; stipe polished or almost so; pileus reddish brown; smell usually distinctly farinaceous 03727617633848240 E. papillatum 89. 0
+00-150764-382700
+0 Pileus with olivaceous-green or olivaceous-yellow colour; stipe grey, silvery striate, with white or red strigose hairs at base 0373337653858280 E. versatile 154. 0
+0 Pileus without olivaceous-green or olivaceous-yellow tinges0373337663858290374
+0 Cheilocystidia broadly fusiform to lageniform with long, narrow, tapering neck; pigment incrusting and intracellular03747667673868300375
+0 Cheilocystidia, if present, cylindrical to clavate with rounded apex, often in chains and incrusted03747667683868310376
+0 Pileus mouse-grey densely fibrillose-hairy, often with fibrillose patches of what may be remnants of veil at margin, glabrescent with age 03757677693878320 E. araneosum 155. 0
+0 Pileus blue-grey with reddish tinge at centre 03757677703878330 E. indutum 156. 0
+0 Smell strong, fetid 03767687713888340 E. foetidum 153. 0
+0 Smell indistinct or farinaceous03767687723888350377
+0 Pileus and stipe with long fusiform hairs03777727733898360378
+0 Pileus and stipe with incrusted, not setiform hairs03777727743898370379
+0 Pileus and stipe reddish brown; hairs on pileus and stipe red, thick-walled 03787737753908380 E. strigosissimum 146. 0
+0 Pileus and stipe blackish brown; hairs on pileus and stipe brown, thin-walled 03787737763908390 E. atrofissuratum 157. 0
+0 Spores longer than 15 µm03797747773918400380
+0 Spores shorter than 15 µm03797747783918410381
+0 Pileus conical-parabolical, hardly expanding; lamellae often not distinctly exposed to the air (+1- secotoid); cheilocystidia absent; spores very broad, (10-) 12-16 µm 03807777793928420 E. pseudodysthales 149. 0
+0 Pileus conical, but expanding with age; lamellae always distinctly exposed to the air; cheilocystidia present. Spores (7.5-) 8-10.5 (-11) µm broad 03807777803928430 E. dysthales 147. 0
+0 Spores thin-walled, relatively weakly angled in side-view03817787813938440382
+0 Spores thick-walled and pronouncedly angled03817787823938450383
+0 Pileus and stipe with red-brown or reddish yellow squamules on grey-brown background; stipe with incrusted hairs; spores 10-13 x 7-9 µm 03827817833948460 E. pulvereum 152. 0
+0 Pileus grey-brown with slightly paler fibrillose to weakly squamulose covering; stipe with weakly incrusted to smooth hairs 03827817843948470 E. romagnesii 151. 0
+0 Pileus and stipe dark grey-brown to almost black; stipe hairs septate, coarsely incrusted; spores 10.5-13.5 (-15) x 7-8 (-9) µm 03837827853958480 E. dysthaloides 148. 0
+0 Pileus and stipe mouse-grey; stipe hairs not or uniseptate, smooth or weakly incrusted 03837827863958490 E. hirtum 150. 0
+00-160787-485200
+0 Pileus ochraceous, when young also with violaceous tinge, especially at margin; cheilocystidia tibiiform like in may Conocybe species; clamp-connections absent 0384357883968530 E. conocybecystis 191. 0
+0 Pileus brown, gray-brown, red-brown, porphyry-brown or blackish brown; clamp- connections present, or exceptionally absent0384357893968540385
+0 Pileus remarkably coarsely radially fibrillose-virgate, with dark red-brown to grey-brown fibrils in radially fascicles, showing the paler flesh in-between; cheilocystidia often with a mucronate capitulum; clamp-connections absent 03857897903978550 E. scabiosum 190. 0
+0 Pileus more regularly radially fibrillose, not virgate and showing the flesh between the fibrils; capitulum of cheilocystidia usually not mucronate; clamp-connections present03857897913978560386
+0 Fruitbodies small, mycenoid, pileus 5-30 mm broad, very dark brown almost black; lamellae dark grey-pink 03867917923988570 E. inutile 172. 0
+0 Fruitbodies larger; pileus 20-70 mm broad or larger, brown, gray-brown, red-brown, porphyry-brown03867917933988580387
+0 .Pileus hygrophanous, rather finely radially fibrillose, often somewhat micaceous-shiny; becoming more distinctly radially fibrillose on drying; cheilocystidia in majority clavate with rounded apex or lageniform, but always mixed with distinctly capitate ones; smell strongly farinaceous 503877937943998590388
+0 Pileus not hygrophanous, always distinctly radially fibrillose, felted or squamulose; smell indistinct; cheilocystidia in majority capitate03877937953998600389
+0 Lamella edge brown 03887947964008610 E. fuscomarginatum 188. 0
+0 Lamella edge concolorous with sides 03887947974008620 E. elodes 187. 0
+0 Pileus and stipe with a nice reddish-porphyry brown colour; lamellae pale then pink; cheilocystidia often with a moliniform neck and rounded capitulum 03897957984018630 E. porphyrophaeum 189. 0
+0 Pileus and stipe brown to grey-brown; neck of cheilocystidia rarely moliniform03897957994018640390
+0 Pileus felted, rarely squamulose; lamellae dark grey-brown then dark red-brown with concolorous or slightly paler edge; stipe densely covered with brownish longitudinal fibrils on paler background 03907998004028650 E. jubatum 185. 0
+0 Pileus minutely squamulose to squarrose with fine pointed squamules; lamellae white or pale grey then sordid grey with white, fimbriate edge; stipe silvery striate 03907998014028660 E. fuscotomentosum 186. 0
+00-170802-586900
+0 Fruitbodies white 0391368034038700 E. albogranulosum 178. 0
+0 Fruitbodies colored0391368044038710392
+0 Pileus minutely pruinose, rugulose or veined03928048054048720393
+0 Pileus radially fibrillose, squamulose or squarrose03928048064048730398
+0 Fruitbodies tricholomatoid03938058074058740394
+0 Fruitbodies more slender, pileus rimose like Pluteus phlebophorus03938058084058750396
+0 Pileus pale brown, finely rimose-craqued all over, reminiscent a species of Dermoloma; pileipellis a calliderm 03948078094068760 E. henrici 176. 0
+0 Pileus dark grey-brown or red-brown, either covered with a pruinose bloom or rugulose all over; pileipellis a cutis with transitions to a trichoderm of narrow hyphae03948078104068770395
+0 Pileus radially rugulose; pigment intracellular in pileipellis and upper trama, in addition also minutely incrusting the narrow hyphae of subpellis 03958108114078780 E. griseorugulosum 33. 0
+0 Pileus entirely covered with a greyish pruinose bloom; pigment intracellular 03958108124078790 E. griseopruinatum 36. 0
+0 Spores small, 6.5-10 x 5.5-7.5 µm; pileus 6-12 mm broad, distinctly translucently striate up to half the radius 03968088134088800 E. phlebodermum 179. 0
+0 Spores larger, pileus 25-50 mm broad, not translucently striate03968088144088810397
+0 Lamella edge brown with pigmented cheilocystidia 03978148154098820 E. pluteidermum 180. 0
+0 Lamella edge concolorous with sides 03978148164098830 E. kitsii 165. 0
+0 Cheilocystidia present and prominent, either very large and protruding strongly from hymenium, or clavate mucronate03988068174108840399
+0 Cheilocystidia absent or sparse, often inconspicuous, resembling young basidia, or subcylindrical03988068184108850400
+0 Cheilocystidia mucronate; pileus felted or squamulose; grey with purplish tinge; stipe grey, squamulose 03998178194118860 E. carbonicola 159. 0
+0 Cheilocystidia lageniform; pileus strongly radially fibrillose; stipe fibrillose-striate 03998178204118870 E. canosericeum 144. 0
+0 Spores many-angled, nodulose04008188214128880401
+0 Spores regularly 5-7-angled, not nodulose04008188224128890404
+0 Fruitbodies thin-fleshed, more or less like a Mycena, usually in late summer and autumn04018218234138900402
+0 Fruitbodies fleshy, tricholomatoid or like a robust Mycena; smell and taste farinaceous, often appearing in spring and early summer 04018218244138910 E. plebejum 166. 0
+0 Pigment minutely incrusting; pileus pale to moderately dark grey-brown, radially fibrillose to minutely squamulose; stipe yellow-brown, much paler than pileus, densely fibrillose-striate 04028238254148920 E. hispidulum 181. 0
+0 Pigment intracellular; pileus and stipe with about the same dark brown to brown-grey colour; pileus glabrous except for the finely rugulose to tomentose centre; stipe more or less polished04028238264148930403
+0 Fruitbodies rather compact with stipe length about equal to diameter of pileus; in grassland and heath-like vegetation on nutrient-poor soil 04038268274158940 E. undulatosporum 173. 0
+0 Fruitbodies long-stemmed, mycenoid; in humus of damp deciduous forest 04038268284158950 E. triste 171. 0
+0 Spores 8-12 x 7-9 µm, 5-7-angled in side-view with pronounced angles; fruitbodies rather robust: pileus 20-80 mm broad, stipe 20-70 x 3-10 mm; smell none, taste unpleasant, not farinaceous; in autumn 04048228294168960 E. plebeioides 168. 0
+0 Spores smaller; fruitbodies less robust, more Mycena-like04048228304168970405
+0 Stipe polished; spores fairly small, (6.5-) 7.0-8.5 x 6.0-7.0 µm, subisodiametrical, 5-6 angled 04058308314178980 E. brunneoflocculosum 170. 0
+0 Stipe fibrillose striate and spores larger, or 6-9 angled04058308324178990406
+0 Pileipellis with intracellular pigment04068328334189000407
+0 Pileipellis with incrusted pigment04068328344189010408
+0 Pileus dark brown, almost black; stipe whitish to pale cream-colored, silvery striate; in spring and autumn 04078338354199020 E. opacum 167. 0
+0 Pileus dark brown; stipe grey-brown, hardly striate or polished; in autumn 04078338364199030 E. resutum 169. 0
+0 Pileus hygrophanous, translucently striate up to half the radius 04088348374209040 E. sanvitalense 182. 0
+0 Pileus not or weakly hygrophanous, not translucently striate04088348384209050409
+0 Pileus rather pale grey-brown, adpressed felted-tomentose; pigment incrusting and intracellular 04098388394219060 E. vezzenaense 184. 0
+0 Pileus mouse-grey, finely squamulose all over; pigment incrusting 04098388404219070 E. terreum 183. 0

@@ -1,0 +1,116 @@
+titre = Genres ;;;;;;;;;;;;;;;;;;;;
+commentaire = http://shnvc.e-monsite.com/pages/mycologie/outils-determination.html;;;;;;;;;;;;;;;;;;;;
+Auteur : Eric Michon
+
+champ=GENRE OU FAMILLE;HYMENIUM Type;Hymenium insertion;Hyménium toucher;SILHOUETTE;SPOREE;CHAIR;CHAIR 2;STIPE haut;STIPE bas;MODE
+AGARICUS;Lames;Libres;;;Pourpre à noir;Fibreuse;;Anneau;;Terricole
+AMANITA;Lames;Libres;;Tricholomoïde;Blanc à crème;Fibreuse;;Anneau;Volve;Terricole
+AMANITOPSIS;Lames;Libres;;Tricholomoïde;Blanc à crème;Fibreuse;;;Volve;Terricole
+ANELLARIA;Lames;Libres;Déliquescentes;;Pourpre à noir;Fibreuse;;Anneau;;Fimicole
+ANTHURUS;Gléba enfermée;;;Etoile;;;;;;Terricole
+AURICULARIA;Lisse;;Cartilagineux;;;;;;;Lignicole
+BANKERACEAE;Aiguillons;Décurrentes;;Toupie;;Coriace;;;;Terricole
+BJERKANDERA;Pores;;;;;Coriace;;Absent;Absent;Lignicole
+BOLBITIUS;Lames;Libres;;Mycenoïde;Ocre à rouille;Fibreuse;;;;Fumicole
+BOLETALES;Tubes;;;;Jaune;Fibreuse;;;;Terricole
+BOLETUS;Tubes;;;;Jaune;Fibreuse;;;;Terricole
+BUCHWALDOBOLETUS;Tubes;;;;;Fibreuse;;;;Lignicole
+CALOCERA;Lisse;;;Arbuscule;Jaune;Cireuse;;;;Lignicole
+CANTHARELLACEAE;Plis;;;;;;;;;Terricole
+CERATIOMYXA;Aiguillons mous;;;;Blanc à crème;Fragile;;;;Lignicole
+CHROOGOMPHUS;Lames;Décurrentes;;Clitocybioïde;Pourpre à noir;Fibreuse;;;;Terricole
+CLATHRUS;Gléba enfermée;;;Etoile;;;;;;Terricole
+CLAVARIACEAE;Lisse;;;Arbuscule;Jaune;;;;;Terricole
+CLAVARIACEAE;Lisse;;;Choux fleur;Jaune;;;;;Terricole
+CLITOCYBE;Lames;Décurrentes;;Clitocybioïde;Blanc à crème;Fibreuse;;;;Terricole
+CLITOPILUS;Lames;Décurrentes;;Clitocybioïde;Rose;Fibreuse;;;;Lignicole
+CLITOPILUS;Lames;Décurrentes;;Clitocybioïde;Rose;Fibreuse;;;;Terricole
+COLLYBIA;Lames;Adnées;;Collybioïde;Blanc à crème;Cartilagineuse;;;;Terricole
+CONIOPHORA;Lisse;;;;;;;;;Lignicole
+COPELANDIA;Lames;;;;Pourpre à noir;Fibreuse;;;;Fumicole
+COPRINUS;Lames;Libres;Déliquescentes;;Pourpre à noir;Fibreuse;;;;Fumicole
+CORTICIALES;Lisse;;;Plat;;;;;;Lignicole
+CORTINARIUS;Lames;Adnées;;;Ocre à rouille;Fibreuse;;;Cortine;Terricole
+CREPIDOTUS;Lames;;;Pleurotoïde;Ocre à rouille;;;Latéral ou nul;Latéral ou nul;Lignicole
+CYSTODERMA;Lames;Adnées;;;Blanc à crème;Fibreuse;;Anneau;;Terricole
+DISCIOTIS;Veiné;;;Coupe;Blanc à crème;Fragile;;;;Terricole
+ENTOLOMA;Lames;échancrées;;Tricholomoïde;Rose;Fibreuse;;;;Terricole
+FISTULINA;Tubes;;;;;;;Latéral ou nul;;Lignicole
+GANODERMA;Pores;;;;Genre;Coriace;;;;Lignicole
+GEASTER;Enfermé;;;Etoile 2 envelloppes;;;;;;Terricole
+GEOGLOSSUM;Lisse;;;Langue;Pourpre à noir;Coriace;;;;Terricole
+GOMPHIDIUS;Lames;Décurrentes;;Clitocybioïde;Pourpre à noir;Fibreuse;;;;Terricole
+GOMPHUS;Plis;;;Toupie;;Fibreuse;;;;Terricole
+GYMNOPILUS;Lames;;;;Ocre à rouille;Fibreuse;;Anneau;Cortine;Lignicole
+HEBELOMA;Lames;échancrées;;;Ocre à rouille;Fibreuse;;;;Terricole
+HELOTIALES;Lisse;;;Coupe;;;;;;Lignicole
+HELVELLA;Lisse;;;Chapeaux lobés;Blanc à crème;Fragile;;;;Terricole
+HELVELLA;Lisse;;;Coupe;Blanc à crème;;;;;Terricole
+HYDNUM;Aiguillons;;;;;Tendre;;;;Terricole
+HYDROPUS;Lames;Adnées;;Collybioïde;Rose;Fibreuse;Latex;;;Terricole
+HYDROPUS;Lames;Adnées;;Collybioïde;Rose;Fibreuse;;;;Terricole
+HYGROPHOROPSIS;Lames;Décurrentes;;Clitocybioïde;Blanc à crème;Fibreuse;;;;Terricole
+HYGROPHORUS;Lames;Adnées;Cireuses;Chapeau sur thalle;Blanc à crème;Fibreuse;;;;Terricole
+HYGROPHORUS;Lames;Décurrentes;Cireuses;Chapeau sur thalle;Blanc à crème;Fibreuse;;;;Terricole
+HYGROPHORUS;Lames;Libres;Cireuses;Chapeau sur thalle;Blanc à crème;Fibreuse;;;;Terricole
+HYMENOCHAETE;Pores;;;;;Colorée;;;;Lignicole
+HYMENOGASTER;Enfermé;;;Hypogé;Pourpre à noir;;;;;Terricole
+HYPHOLOMA;Lames;échancrées;;;Pourpre à noir;Fibreuse;;;Cortine;Lignicole
+INOCYBE;Lames;Adnées;;;Ocre à rouille;Fibreuse;;;Cortine;Terricole
+LACCARIA;Lames;Adnées;;;Blanc à crème;Fibreuse;;;;Terricole
+LACTARIUS;Lames;;;;Blanc à crème;Grenue;Latex;;;Terricole
+LEOTIA;Lisse;;;Chapeau sur thalle;;Gélatineuse;;;;Terricole
+LEPIOTA;Lames;Libres;;Tricholomoïde;Blanc à crème;Fibreuse;;Anneau;;Terricole
+LEPISTA;Lames;échancrées;détachables;Tricholomoïde;crème à rose;Fibreuse;;;;Terricole
+LEUCOCORTINARIUS;Lames;;;Tricholomoïde;Blanc à crème;Fibreuse;;;Cortine;Terricole
+LIMACELLA;Lames;Libres;;Tricholomoïde;Blanc à crème;Fibreuse;;Anneau;;Terricole
+LYCOPERDON;Enfermé;;;Globuleux;Ocre à rouille;Tendre;;;;Terricole
+MARASMIELLUS;Lames;;;Collybioïde;Blanc à crème;Fibreuse;;;;Lignicole
+MARASMIUS;Lames;Adnées;;Collybioïde;Blanc à crème;Fibreuse;;;;Lignicole
+MARASMIUS;Lames;Adnées;;Collybioïde;Blanc à crème;Fibreuse;;;;Terricole
+MORCHELLACEAE;Alvéolé;;;;;Fragile;;;;Terricole
+MORCHELLACEAE;Veiné;;;;Blanc à crème;Fragile;;;;Terricole
+MUTINUS;Gléba enfermée;;Gélatineuse;Sur thalle;;;;;;Terricole
+MYCENA;Lames;;;Mycenoïde;Blanc à crème;Fragile;Latex;;;Lignicole
+MYCENA;Lames;;;Mycenoïde;Blanc à crème;Fragile;;;;Terricole
+MYXOMYCETES;Enfermé;;;Plasmode;Blanc à crème;Fragile;;;;Lignicole
+MYXOMYCETES;Enfermé;;;Plasmode;Pourpre à noir;Visqueuse;;;;Lignicole
+NIDULARIACEAE;Enfermé;;;Nid d'oiseaux;;Coriace;;;;
+OMPHALOTUS;Lames;Décurrentes;;;Blanc à crème;Fibreuse;;;;Lignicole
+PANAEOLUS;Lames;Libres;;;Pourpre à noir;Fibreuse;;;;Fumicole
+PAXILLUS;Lames;Décurrentes;;Clitocybioïde;Ocre à rouille;Fibreuse;;;;
+PEZIZA;Lisse;;;Coupe;Blanc à crème;Fragile;;;;Terricole
+PHAEOCOLLYBIA;Lames;;;Collybioïde;Ocre à rouille;Cartilagineuse;;;;Terricole
+PHALLUS;Gléba enfermée;;Gélatineuse;Sur thalle;;;;;;Terricole
+PHOLIOTA;Lames;;;;Ocre à rouille;Fibreuse;;Anneau;;Terricole
+PHOLIOTINA;Lames;;;;Ocre à rouille;Fibreuse;;Anneau;;Terricole
+PLEUROTUS;Lames;Décurrentes;;Pleurotoïde;Blanc à crème;Fibreuse;;Latéral ou nul;Latéral ou nul;Lignicole
+PLEUROTUS;Lames;Décurrentes;;Pleurotoïde;Blanc à crème;Fibreuse;;Latéral ou nul;Latéral ou nul;Terricole
+PLUTEUS;Lames;Libres;;Tricholomoïde;Rose;Fibreuse;;;;Lignicole
+POLYPORUS;Pores;;;;;Elastique;;;;Lignicole
+PSATHYRELLA;Lames;Libres;;Chapeau plat;Pourpre à noir;Fibreuse;;;;Fumicole
+PSATHYRELLA;Lames;Libres;;Chapeau plat;Pourpre à noir;Fibreuse;;;;Terricole
+PSEUDOHYDNUM;Aiguillons mous;;;;Blanc à crème;Gélatineuse;;;;Lignicole
+PSILOCYBE;Lames;;;;Pourpre à noir;Fibreuse;;;;Fumicole
+PYRENOMYCETES;Enfermé;Dans ostioles;;;;;;;;Lignicole
+RHODOCYBE;Lames;;;;Rose;Fibreuse;;;;Terricole
+RHODOTUS;Lames;;;;Rose;Fibreuse;;;;Lignicole
+ROZITES;Lames;Adnées;;;Ocre à rouille;Fibreuse;;Anneau;;Terricole
+RUSSULA;Lames;Adnées;;;Blanc à crème;Grenue;;;;Terricole
+RUSSULA Plorantes;Lames;Décurrentes;;;Blanc à crème;Grenue;;;;Terricole
+SCUTIGER;Pores;;;;;;;;;Terricole
+SCLERODERMA;Enfermé;;;Globuleux;Ocre à rouille;Coriace;;;;Lignicole
+SPARASSIS;Lisse;;;Choux fleur;;;;;;Lignicole
+STEREUM;Lisse;;;Chapeaux imbriqués;;Coriace;;;;Lignicole
+STROPHARIA;Lames;;;;Pourpre à noir;Fibreuse;;Anneau;;Terricole
+TELEPHORA;Lisse;;;Etalée;;Coriace;;;;Terricole
+TELEPHORA;Lisse;;;Réfléchis;;;;;;Terricole
+TRAMETES;Pores;;;;;Coriace;;;;Lignicole
+TREMELLA;Lisse;;Gélatineuse;;;;;;;Lignicole
+TRICHOLOMA;Lames;échancrées;;Tricholomoïde;Blanc à crème;Fibreuse;;;;Terricole
+TRICHOLOMOPSIS;Lames;échancrées;;Tricholomoïde;Blanc à crème;Fibreuse;;;;Lignicole
+TUBARIA;Lames;Décurrentes;;;Ocre à rouille;Fibreuse;;;;Fumicole
+TUBARIA;Lames;Décurrentes;;;Ocre à rouille;Fibreuse;;;;Lignicole
+TUBER;Enfermé;;;Hypogé;Pourpre à noir;;;;;Terricole
+TULOSTOMA;Enfermé;;;Chapeau sur thalle;;Fibreuse;;;;Terricole
+VOLVARIA;Lames;Libres;;;Rose;Fibreuse;;;Volve;

@@ -1,0 +1,80 @@
+Titre$  P H O L I O T I N A   MOSER  K.K.F
+Com$ Traduction J.L. Savignoni, adapté par Paul Bertéa 05-10-2013
+1,0$ Retour au Kit $$f"Pholiotina_kit.cle"
+1,0$
+1,2 $ Chapeau sans voile discernable
+1,9 $ Carpophore avec un voile se présentant ou bien comme un anneau ou bien à la marge (appendiculée ou ourlée) du chapeau
+
+2,0 $ Sur fumier. $ Pholiotina coprophila (Kühn.) Sing.
+2,0,N$ Chapeau légèrement visqueux, d'abord platement conique, puis convexe, ocre argilacé pâle, 1-2 cm. Lamelles brun jaune rouille. Stipe blanc, un peu feutré-villeux, 2-4 cm x 1-2 mm. ///Spores 11-14 x 7-7,2 µm./// - FRIC 52c, Ct 905
+2,3 $ Ne poussant pas sur du fumier
+
+3,4 $ Stipe ± strié
+3,5 $ Stipe non strié
+
+4,0 $ Chapeau ocre brunâtre, 3-4 cm, campanulé à platement convexe, à peine strié. $ Pholiotina striaepes (Cke) Mos.
+4,0,N$ Stipe blanc, strié, d'égale épaisseur, 5-8 cm x 3-4 mm. ///Spores 7-9 x 4-5 µm. ///Pelouses des parcs, forêts de feuillus./// - Cke 502 (478), Lge 150 F ///(= Conocybe pygmaeoaffinis ss. Lge., Kühn. & Romagn.) 
+4,0 $ Chapeau blanc-pâle, puis ocracé particulièrement au disque, ocre miel dans la vieillesse, 2-5 cm. $ Pholiotina pygmaeoaffinis (Fr.) Sing.
+4,0,N$ Lamelles ocre pâle, puis brunâtre rouille. Stipe blanc, ± strié, pruineux, 4-6 cm. ///Spores 8,5-10 (12) x 5-5,5 µm. ///Stations avec de l'herbe et de la mousse ///(= Conocybe friesii Lundell)
+
+5,0 $ Chapeau bleu vert, vert, sommet presque noirâtre, puis gris vert, marge fauve, 1-2 cm. $ Pholiotina aeruginosa (Romagn.) n. c.
+5,0,N$ Stipe 2,5-5 cm x 1,5-2 mm, blanc, base bulbeuse. ///Spores 8,5-11,5 x 5-6 µm. ///Dans l'humus des feuilles./// - BSMF 84, 1968.///(= Conocybe aeruginosa Romagn. in BSMF 84, 368, 1968) 
+5,6 $ Chapeau sans teintes vertes
+
+6,7 $ Stipe parfois avec des teintes bleuâtres ou verdâtres ou spores finement verruqueuses
+6,8 $ Stipe sans teintes bleuâtres ou verdâtres et spores lisses
+
+7,0 $ Stipe verdâtre ou bleuâtre vieux ou au frottement (surtout à la base), autrement blanc argenté ou gris blanc, 1-3,5 cm x 1-1,5 mm. $ Pholiotina cyanopus (Atk.) Sing.
+7,0,N$ Chapeau 0,3-2,5 cm, obtusément conique à hémisphérique, strié, ocre à brun. ///Spores 7-10 x 4-5 µm. ///Pelouses 
+7,0 $ Stipe blanc argenté, rarement légèrement bleuâtre, 4-8,5 cm x 2-4 (6) mm. $ Pholiotina subverrucispora (Veselsky & Watl.)
+7,0,N$///= P. dasypus sec Hausknecht (2009), Conocybe-Galerina:597/// ///Chapeau 1,5-4 cm, visqueux, hygrophane, marron puis brun doré à isabelle. ///Spores 8,5- 11,5 (13,5) x (3,5) 5-6,8 (7,5) µm, finement verruqueuses si observées dans des bases. ///Forêts, sur sol nu, sur charbonnières 
+
+8,0 $ Chapeau obtusément conique à plat, strié, brun ocre clair à foncé, avec de la pruine blanchâtre (petites gouttelettes sous la loupe!). $ Pholiotina mairei (Kühn.) Sing.
+8,0,N$ Lamelles ocre. Stipe 1-3 cm x 0,7-1 mm, ± cylindrique ou faiblement bulbeux. ///Spores 7-8 x 3,7-4,7 µm. Cystides 4-7 µm de largeur. ///Dans l'herbe des forêts de feuillus./// - Lge 130 G 
+8,0 $ Chapeau hémisphérique, campanulé à obtusément conique, strié sur ± la moitié du rayon, ocre, jusqu'à brun noisette à l'état humide. $ Pholiotina aberrans (Kühn.) Sing.
+8,0,N$ Stipe claviforme, 1-2,5 cm x 1-1,5 mm, blanc et pruineux. ///Spores 7,5-9,5 x 4-5 µm. Cystides ventrues, 7-10 µm de largeur. ///Endroits brûlés 
+
+9,10 $ Stipe avec un anneau nettement membraneux (mais parfois caduc)
+9,15 $ Stipe sans anneau ou anneau incomplet et fugace. Marge du chapeau appendiculée ou ourlée par le voile dans la jeunesse
+
+10,11 $ Spores ayant moins de 10 µm de longueur
+10,14 $ Spores dépassant 10 µm de longueur 
+10,14,N$ ===>voir aussi Pholiotina filaris
+
+11,0 $ Chapeau 0,5-2 cm, campanulé, hémisphérique, ocre à jaunâtre terne. $ Pholiotina filaris (Fr.) Sing.
+11,0,N$ Stipe 1-4 cm x 0,5-1,5 mm, crème-blanchâtre, un peu strié, à anneau strié et peu persistant. ///Basides bi- à tétrasporiques. Cheilocystides lagéniformes, partie ventrue peu discontinue./// - Lge 106 C & C1 
+11,12 $ Chapeau plus grand, 1-3 (4) cm de diamètre
+
+12,0 $ Spores sans pore germinatif, 8-10 x 4,5-5,5 µm. $ Pholiotina aporos (Kits v. W.) Clç.
+12,0,N$ Chapeau 1-4 cm, hémisphérique ou campanulé, puis étalé, strié, brun fauve à marge brune, brun ocre. Stipe 2-6 cm x 1,5-4 mm, anneau plissé-strié (fig. 102). Lamelles brun ocre. ///Forêts de feuillus ou de conifères, stations dégagées, coupes de bois; commun par endroits. De mars à mai./// - Lge 106 A & A1 ///(= Pholiotina togularis ss. Lge = Pholiotina blattaria ss. Mos. 1958-67)
+12,13 $ Spores avec un pore germinatif
+
+13,0 $ Chapeau 1-3 cm, convexe, souvent avec un mamelon obtus, brun rougeâtre, marge striée à l'état humide, hygrophane, brun ocre quand sec. $ Pholiotina arrhenii (Fr.) Sing.
+13,0,N$ Stipe fortement strié en dessus de l'anneau. ///Spores 7-9,5 x 5-5,4 µm, avec un pore peu net. Cheilocystides filiformes à lagéniformes (var. hadrocystis K. v. W.: cystides plus largement fusiformes à légèrement capitées). ///Forêts de feuillus ou de conifères, stations herbeuses, places à bois. En automne ///(= Pholiotina blattaria ss. Ricken, Kühner) 
+13,0 $ Chapeau 1-3 cm, convexe, brun noisette à ocre fauve, ocre pâle quand sec, à disque souvent ridé dans la vieillesse. $ Pholiotina intermedia (A. H. Smith) Sing.
+13,0,N$ Stipe 1-5 cm x 1,5-3 mm, avec un anneau jaunâtre et à face supère striée. ///Spores 6-8 x 4-4,5 µm. Cheilocystides capitées. ///Sur bois pourri, humus ///(= Pholiotina septentrionalis A. H. Smith) 
+
+14,0 $ Chapeau 1,5-2 (4) cm, oviforme, hémisphérique, obtusément conique, légèrement strié à l'état humide, très hygrophane, se décolorant entièrement pour devenir ocre pâle. $ Pholiotina teneroides (Lge.) Sing.
+14,0,N$ Anneau ± plissé, blanc à blanchâtre (fig. 103). Basides bisporiques. ///Spores 10-12,5 x 5,3-6,5 µm. Cheilocystides presque rondes, claviformes à utriformes. ///(= Pholiotina percincta Orton = Ph. blattaria ss. Orton = Ph. togularis ss. Mos.) 
+14,0 $ Chapeau 1-2 (4) cm, brun ocre foncé, brun jaune foncé, quand sec jaune, jaune pâle. $ Pholiotina blattaria (Fr.) Fay. (ss. Kits v. W.)
+14,0,N$ Stipe 4-7 cm x 1-1,5 mm. ///Spores 10-12,5 x 5-6,5 µm. Cheilocystides ± lagéniformes à partie ventrue nettement discontinue par rapport au reste. Basides tétrasporiques./// - Ri 56-5, Bres. 687 ///(= Pholiotina vexans Orton = Pholiotina togularis ss. Ricken) 
+
+15,0 $ Stipe et chair blancs. $ Pholiotina subnuda (Kühn.) Sing.
+15,0,N$ Chapeau 1,5-4 cm, brun jaune. Voile reconnaissable seulement dans la prime jeunesse sous la forme de fibrilles à la marge du chapeau. ///Spores 8,5-10 x 4,5-5,7 µm 
+15,16 $ Stipe et chair, tout au moins sur les vieux exemplaires, brunâtres
+
+16,0 $ Chapeau, ocre miel ou ocre jaunâtre quand sec, appendiculé par le voile, 1-2 cm. Stipe 2,5-4 cm x 1,5-3 mm, ocre brunâtre; brun gris vers le bas. Lamelles rouille.///Spores 6-9 x 3,5-5 µm. Cystides capitées $ Pholiotina brunnea (Lge. & Kühn. ex Watl.) Sing.
+16,17 $ Chapeau en général plus clair [que ± marron], brun ocre à ocre rougeâtre. Cystides non capitées .
+
+17,0 $ Voile formant dans la partie inférieure du stipe une zone annulaire très fugace, floconneuse, incomplète. $ Pholiotina peronata (Kühn. & Mre.) Sing.
+17,0,N$ Chapeau ocre foncé, fortement hygrophane, 1-3 cm. ///Spores 7-9 x 4,2-5,5 µm 
+17,18 $ Voile formé seulement par des flocons à la marge piléique, parfois fugace
+
+18,0 $ Voile très robuste, ourlant toute la marge du chapeau, blanc, feutré-villeux (fig. 101). $ Pholiotina vestita (Fr. ap. Quél.) Sing.
+18,0,N$ Chapeau 1-2 (3) cm, conique, campanulé à convexe, ± longuement strié, ocre rougeâtre, brun ocre. ///Spores 6-8,5 x 4-5 µm. ///Forêts de feuillus, buissons, à l'ombre des plantes./// - Lge 129 F 
+18,19 $ Voile visible à la marge du chapeau sous la forme de squamules ou de lambeaux ± isolés, modérément persistant à fugace
+
+19,0 $ Dentelures du voile bien prononcées et relativement persistantes. $ Pholiotina appendiculata (Lge. ex Kühn.) Sing.
+19,0,N$ Chapeau ocre miel clair, jaune miel, ± strié, 1-2,5 cm. ///Spores 7-8 x 4-5 µm (fm. macrospora: 12-13 x 6-7 µm). ///Stations herbeuses, bords de chemins, coupes de bois./// - Lge 129 A 
+19,0 $ Dentelures du voile très fugaces (souvent seulement visibles à la loupe). $ Pholiotina exannulata (Kühn. & Watl.)
+19,0,N$ Chapeau devenant souvent bicolore en séchant, 1-3 cm, strié jusqu'à la moitié du rayon. ///Spores 7-11 x 4-5,5 µm 

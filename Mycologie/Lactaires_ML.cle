@@ -1,0 +1,487 @@
+Titre$Clé des Lactaires de Marcel Lecomte
+com$tiré de http://www.champignons-passion.be/main.htm / adapté GF octobre 2008
+
+Rem$Clé des Sous-Genres : Les Sous-Genres sont eux mêmes divisés en Sections et Sous-Sections.
+Clé des Sections : elle est inspirée de Marcel BON, p.337 de « Champignons d’Europe occidentale », chez Arthaud et de Régis COURTECUISSE, p.69 de « Guide des CHAMPIGNONS DE France et d’Europe », chez Delachaux & Niestlé.
+1,2$revêtement généralement lisse, parfois fibrilleux ou laineux ou à marge +/- barbue, lubrifié ou visqueux$$s"Sg LACTARIUS"
+"LACTARIUS " rem s "LACTARIUS "
+1,13$revêtement d’aspect mat, souvent cabossé à ridé crispé, au moins au disque, fréquemment tomenteux à subvelouté$$s"RHYSOCYBE"
+rem$1,cs22$espèces à lait blanc, immuable ou jaunissant ; chapeau lisse, glabre ou furfuracé. TRICHOLOMOIDEI ( SCROBICULINI BARBATINI)$$s"Sg TRICHOLOMOIDEI "
+1,cs50$abréviations auteurs ( voir aussi http://www.champignons-passion.be/preambule.htm#ss02)
+rem Sous-Genre LACTARIUS
+2,cs7$lait rouge, orangé (ou bleu verdâtre) ; sous ou près de conifères divers (pin, sapin, épicéa)$$s" DAPETES"
+2,7$lait blanc
+2,14$lait peu abondant ou séreux, presque limpide parfois ; espèces petites ou peu charnues, à revêtement ridulé ou cabossé
+7,8$lait immuable, jaunissant ou verdissant
+7,13$lait rosissant ou roussissant ; cuticule mate ou ridulée
+7,13$lait blanc, cuticule mate ou veloutée ridulée
+7,cs25$lait virant au mauve vineux ou lilacin violet à l'air$$s" UVIDI"
+8,9$espèces peu visqueuses à très visqueuses
+8,11$espèces sèches
+9,10$couleurs gaies ou pâles ; chapeau zoné ou à marge barbue
+9,cs10$espèces fortement visqueuses et (ou) à couleurs sombres ou ternes$$s" GLUTINOSI (*)"
+9,0,n$chez les GLUTINOSI un des caractères de subdivision du genre est basé sur « chair ne se colorant ni en rose rouge ni en violet vif au contact de l’air ». Mais, comme pourraient le laisser croire certains ouvrages classiques, cette particularité n’est pas d’une rigueur absolue. Par exemple : après quelques heures d’exposition à l’air, la chair de necator (= turpis) devient gris rougeâtre à gris violacé sale ; certains exsiccata de vietus ont la chair teintée de purpurin améthyste léger au dos des lames ; quelques Zonarii, dont la chair passe pour immuable, effectuent un virage de couleur… (K. & R. p.483,(1).
+10,cs28$chapeau glabre et zoné$$s" ZONARII (*)"
+10,0,n$chez les ZONARII un des caractères de subdivision du genre est basé sur « chair ne se colorant ni en rose rouge ni en violet vif au contact de l’air ». Mais, comme pourraient le laisser croire certains ouvrages classiques, cette particularité n’est pas d’une rigueur absolue. Par exemple : après quelques heures d’exposition à l’air, la chair de necator (= turpis) devient gris rougeâtre à gris violacé sale ; certains exsiccata de vietus ont la chair teintée de purpurin améthyste léger au dos des lames ; quelques Zonarii, dont la chair passe pour immuable, effectuent un virage de couleur… (K. & R. p.483,(1).
+10,cs22$chapeau à marge barbue ou laineuse$$s"TRICHOLOMOIDEI (*)"
+10,0,n$chez les TRICHOLOMOIDEI un des caractères de subdivision du genre est basé sur « chair ne se colorant ni en rose rouge ni en violet vif au contact de l’air ». Mais, comme pourraient le laisser croire certains ouvrages classiques, cette particularité n’est pas d’une rigueur absolue. Par exemple : après quelques heures d’exposition à l’air, la chair de necator (= turpis) devient gris rougeâtre à gris violacé sale ; certains exsiccata de vietus ont la chair teintée de purpurin améthyste léger au dos des lames ; quelques Zonarii, dont la chair passe pour immuable, effectuent un virage de couleur… (K. & R. p.483,(1).
+11,cs4$espèces +/- robustes et (ou) revêtement +/- velouté (sec à feutré, tomenteux ou laineux…) ; lait blanc ou lait +/- aqueux ou peu abondant$$s"COLORATI"
+11,cs1$revêtement mat ou ruguleux, velouté ou craquelé ; espèces plutôt robustes à lait blanc, parfois verdissant, souvent abondant ; couleurs blanchâtres ou rosâtres /espèces souvent assez grosses, blanches ou très pâles, à chair ferme$$s"ALBATI"
+11,12$revêtement glabre banal, ni franchement mat ni franchement visqueux, à couleurs autour des brun rougeâtre à rosé ou orangé 
+12,cs19$lait immuable à l'air, mais jaunissant parfois très lentement sur le mouchoir : 5 à 15 minutes$$s" SUBDULCES"
+12,0$lait jaunissant rapidement sur le mouchoir (moins d'une minute)$TABIDI (**)
+12,0,n$Chez certaines espèces, dont L. tabidus notamment, le lait est parfois très peu abondant (par temps sec) ou très dilué (sur des exemplaires imbus), et il ne jaunit pas sur le mouchoir ! Nous avons constaté que si on laisse sécher la zone de test et puis qu'on soumet le mouchoir (papier ou tissu) à l'action de la potasse (à 10 %), la tache séchée devient orange vif immédiat (cette coloration est cependant fugace, car elle disparaît en quelques minutes) !
+rem 'Cs2,0$Sous-Genre RHYSOCYBE
+13,0$grosses espèces à couleurs orangées ou rougeâtres ; odeur de topinambour et lait +/- roussissant à l'air ou sur la chair$VOLEMI
+13,0$espèces moyennes, robustes, à couleurs blanchâtre, café au lait à brun +/- bistré ou noirâtre ; lait rosissant ou à roussissement un peu carotte sur la chair ; odeur faible ou nulle$FULIGINOSI (= PLINTHOGALI)
+13,cs14$espèces moyennes à lait blanc$$s" ICHORATI"
+14,cs16$lait séreux, parfois limpide ; odeurs fortes (souvent de chicorée, de punaise des bois, de lierre froissé....)$$s" OLENTES"
+14,cs15$lait peu abondant ; odeurs faibles ; marge striée$$s"OBSCURATI"
+....................................................
+ALBATI PIPERATINI VELUTINI Clé de la section des ALBATI (Bat.) Singer :
+espèces souvent assez grosses, blanches ou très pâles, à chair ferme
+cs1,0$La Sous-section des PIPERATINI (Fr.) Konrad
+1,cs2$lames très serrées$$s"ss PIPERATINI"
+1,cs3$lames plutôr espacées$$s"ss VELUTINI"
+
+CS2,0$La Sous-section des PIPERATINI (Fr.) Konrad	
+1,2$lait immuable à la potasse ; lames très serrées
+1,3$lait jaune pâle à orange vif à la potasse ; lames serrées de manière variable
+2,0$chapeau blanc, taché de rouille ; chair blanche ; lait très âcre ; lames verdissant parfois dans la vieillesse ; espèce précoce$piperatus
+2,0,n$piperatus est commun partout en Europe, sous feuillus et parfois sous épicéas.
+2,0$chapeau infundibiliforme, comme glacé, micacé ; chair et lait verdissants$spurius
+2,0,n$spurius a une chair verdissante à l’air et insensible à la potasse ; on le trouve sous feuillus et pessières du Jura. Selon Marchand, c’est un intermédiaire entre pergamenus et piperatus. Mais M.T. Basso le considère comme un « nomen nudum », estimant que si on croit à des intermédiaires (ce qui n’est pas son cas personnel), il faut publier une nouvelle espèce ou valider le taxon qui est proposé.
+3,0$chapeau 10 à 15 cm, légèrement rugueux, à cuticule pruineuse gardant les empreintes des doigts ; lames adnées, horizontales à pentues, peu serrées ; chair vite vert-de-gris ; pied allongé, taché de brun roux dans la partie inférieure ; réaction vive et rapide en bleu foncé du formol sur la chair$pergamenus
+3,0,n$pergamenus a une cuticule pruineuse gardant les empreintes des doigts ; il a le pied taché de brun roux dans la partie inférieure ; il est beaucoup moins répandu que piperatus et pousse sous feuillus (Quercus, Fagus, Carpinus ) sur sol calcaire. Pour Lange, "il s’agit d’une simple variété de piperatus, plus commune que le type, auquel elle est reliée par des intermédiaires », K. & R. p.483,(3). Pour MTB, ce serait un synonyme de glaucescens
+3,0$Chapeau 5-6 à 8 cm, lisse, comme glacé, micacé ; lames arquées, subdécurrentes, très serrées, de couleur crème chair ; chair blanche lentement vert jaunâtre à grisâtre olive ; réaction diffuse et lente en violet puis bleu du formol sur la chair$glaucescens
+3,0,n$glaucescens a des lames très serrées, de couleur crème chair, tachées de vert grisâtre olive par le lait, en séchant… Il est certain qu’une série d’intermédiaires relient piperatus et pergamenus, et glaucescens représente un jalon plus repérable que d’autres. En accordant la priorité à l’un ou l’autre caractère, certains auteurs le considèrent comme un petit piperatus ou un petit pergamenus. Mais il est plus vraisemblable d’en faire une bonne espèce, à mi-chemin entre les deux.
+3,0$Chapeau blanc convexe et déprimé, lames très serrées ; chair grisonnante dans les blessures$eburneus
+3,0,n$eburneus est une espèce peu fréquente des forêts mixtes de l’étage collinéen, en Bohême. Pour MTB, c’est un synonyme de glaucescens.
+……………
+cs3,0$La Sous-section des VELUTINI Bat.
+1,0$uniquement sous Populus ; grosse espèce à chapeau grisâtre, difforme, visqueux ; lames lilacines et chair verdâtre en séchant$populinus
+1,0,n$MTB pense que populinus serait simplement une forme aberrante de controversus .
+1,0$chapeau jusqu'à 25 cm de diamètre, blanchâtre à cernes et taches rose vineux ; lames rose vif ; surtout sous Populus, parfois Salix repens$controversus (*)
+1,0,n$controversus a la cuticule séparable par moitié ; les lames très serrées sont très fourchues.
+1,2$lames blanches
+1,10$autres espèces 
+2,0$grosse espèce (jusqu'à 25 cm) à chapeau blanc ; lames espacées, étroites, +/- fourchues, cassantes ; surtout feuillus ; lait immuable à la potasse ; chair très âcre ; le lait est DOUX s'il est isolé.$vellereus (*)
+2,0,n$vellereus a un chapeau doux au toucher comme une peau de chamois, très tomenteux ; le pied court et épais a une pointe qui casse presque toujours dans le sol, de manière très caractéristique… Il pousse souvent en ligne, par 5 à 10 individus, surtout sous feuillus et parfois sous Picea… En pourrissant, il héberge souvent A. lycoperdoides & A. parasitica … Blum en distingue de nombreuses variétés. 
+2,5$variétés et tests HOH
+2,0$espèce moyenne (+/- 15 cm) à chapeau blanc ; lames très espacées, étroites, fourchues anastomosées contre le pied ; surtout feuillus ; lait jaune d'or à la potasse ; chair très âcre ; le lait est BRULANT s'il est isolé.$bertillonii
+2,0,n$bertillonii var. queletii a un lait qui jaunit spontanément ; lames et chair prennent une tonalité orangée. L.bertillonii var. boudieri a des lames décurrentes, +/- brunissantes.
+2,0$espèce plus petite (environ 10 cm) à chapeau lobé, blanc grisâtre à brun sale ; lames espacées, brunissant au froissement ; surtout feuillus thermophiles (Quercus) ; odeur faible de crustacés.$luteolus (*)
+2,0,n$brunneoviolascens ressemble à luteolus, avec des tons brun violacé et une odeur désagréable ; surtout sous charmes thermophiles ; pour MTB, c’est une variété de luteolus , simplement.
+
+5,6$ne réagit pas à KOH
+5,7$lait virant au jaune à la potasse
+6,0$chapeau brun orangé au centre, avec des lames très étroites.$vellereus var.fuscescens
+6,0$lait blanc qui devient rose violacé en séchant sur les lames.$vellereus var. hometii 
+6,0$odeur pélargoniée.$vellereus var. odorans 
+6,0$très velouté, à chair brunissante à la coupe.$vellereus var. velutinus
+6,0,n$MTB le synonymise avec vellereus var. vellereus
+7,0$lames bien espacées, anastomosées près du pied… HCVV & MTB viennent de la synonymiser avec bertillonii (Neuhoff ex J. Schaefer) Bon$vellereus var. bertillonii 
+7,0$lames presque serrées, brunes à la fin.$vellereus var. boudieri
+7,0$remarquable par son lait très âcre, jaunissant en 3 à 4 minutes, même sur une lame de verre.$vellereus var. queletii 
+
+ 10,0$ressemble à luteolus, avec des tons brun violacé et une odeur désagréable ; surtout sous charmes thermophiles$brunneoviolascens 
+ 10,0,n$pour MTB, c’est une variété de luteolus , simplement.
+ 10,0$espèce méditerranéenne, ressemble à vellereus, mais est très déprimé en entonnoir, avec un pied fortement pruineux ponctué de châtain roux.$castanopus
+ 10,0$espèce d’Amérique du Nord qui, selon Neuhoff, servirait d’ intermédiaire entre les Piperatini et les Velutini.$deceptivus
+ 10,0$taille moyenne, espèce dense, massive, rigide, à lames très épaisses, quasi alvéolées à l’insertion$luteolus
+ 10,0$espèce d’Europe centrale, à lames subadnées, verdissantes comme la chair qui jaunit d’abord assez vivement$moravicus 
+10,0$ressemble fortement à vellereus, en plus petit ; extrêmement dur, avec un chapeau velouté pubescent, brunissant et un lait quasi doux (très tardivement un peu âcre) ; jaunissement tardif du chapeau…$albivellus
+10,0,n$HCVV et MTB les ont d’ailleurs synonymisés en 1998 & 1999..$albivellus
+
+________________________________________________________________________
+
+COLORATI RUFINI COLORATINI
+cs4,0$Clé de la section des COLORATI Bat. (= Floccosi Kühn.) : espèces à lait blanc, immuable ; chapeau feutré, parfois pelucheux ou granuleux, non visqueux ni lubrifié
+1,cs5$lait blanc$$s'ss RUFINI "
+1,cs6$lait +/- aqueux ou peu abondant$$s"ss COLORATINI"
+……………………
+cs5,0$	La Sous-section des RUFINI Sing. (= Griseini Sing.)
+1,2$chapeau roux vif ; espèce acidophile (sous Pinus et Betula)
+1,0$chapeau jaune ; sous Alnus viridis, parfois Betula , en montagne ; en troupe nombreuse$alpinus
+1,5$autre espèce
+1,0$très petite espèce (1 à 2 cm de diamètre); chapeau gris à beige gris pâle$lepidotus
+2,0$chapeau mamelonné, non zoné, feutré (parfois guttulé et inégal), à petit mamelon central (pas toujours); lames serrées et pied svelte de couleur pâle$rufus
+2,0$chapeau sans mamelon$var. exumbonatus
+5,0$très proche d’alpinus, et pousse sous Pinus mugo et parfois Salix reticulata en ZA inférieure ; chapeau, de 2 à 5 cm, jaune citrin à centre ocracé.cité dans FMDS juillet 1998 ; 150.18 et dans dans FMDS juillet 1980, 78.17$luteus Blytt
+5,0,n$Pour MTB, il pourrait être un synonyme de salicis-herbaceae
+
+
+cs6,0$La Sous-section des COLORATINI (Bat.) Sing.
+
+1,0$chapeau jusqu'à 15 cm, fauve à beige grisâtre, feutré ; forte odeur de chicorée en séchant ; sous conifères hygrophiles, parfois Betula ; lait parfaitement limpide$helvus (*)
+1,0,n$helvus est le seul lactaire qui présente un lait totalement limpide dont les gouttes, loin de s’oxyder ou de masquer les lames, jouent le rôle d’une loupe et les grossissent par transparence.
+1,2$caractères différents
+1,5$autres espèces
+2,0$chapeau jusqu'à 10 cm, pruineux micacé, brun foncé à ton violet ; odeur de coco et de cannelle ; sous conifères mêlés de Betula$fuscus (*)
+2,0,n$fuscus présente quasi toujours un petit mamelon persistant ou affaissé, dans la dépression centrale du chapeau, qui offre une cuticule fibrilleuse voire même squamuleuse (Rolland) … HCVV & MTB considèrent que fuscus est un synonyme de mammosus
+2,0$chapeau jusqu'à 5 cm, micacé, grisâtre sur fond rose ; odeur de noix de coco ; acido-hygrophile, sous Betula ; calcifuge$glyciosmus
+2,0$assez semblable au précédent, mais plus grand (jusqu'à 12 cm) ; chapeau brun grisâtre mamelonné ; sous Pinus et dans zones à Betula$mammosus (*)
+2,0,n$il règne à propos de mammosus une confusion durable ; selon la diagnose de Fries (voir Marchand, p.248), cette espèce qui fréquente le bord des chemins dans les pinèdes, ne coïncide pas avec les précédentes ; on se demande même si on l’a encore retrouvée depuis Fries… HCVV le citent comme commun en Scandinavie, en association avec Pinus ou Betula
+2,3$odeur faible ou différente
+3,0$chapeau jusqu'à 8 cm, feutré, rose pourpré à vineux lilacin soutenu ; lames peu serrées à reflet ocre orange ; odeur faible de chicorée ; sous Alnus & Carex, ruisseaux forestiers et marais ; en masses cespiteuses ; surface cuticulaire au plus finement craquelée rivuleuse$lilacinus
+3,0$chapeau environ 5 cm, mamelonné, à squamules récurvées et à marge cannelée, rose à lilas violet ; lames peu serrées à reflets rose lilas, anastomosées près du stipe ; hygrophile ; sous Betula et parfois conifères ; non cespiteux ; espèce grêle ; surface cuticulaire écailleuse (loupe)$spinosulus (*)
+3,0,n$spinosulus a été placé dans la sous-section Coloratini par beaucoup d’auteurs modernes, mais les caractères microscopiques infirment cette situation ; Neuhoff (1956) et HCVV préfèrent le placer à côté de mairei (section Tricholomoidei, sous-section Barbatini), car les caractères microscopiques sont très semblables… (voir HCVV p. 164 & 166). Il pousse sous Betula et sous Alnus, est parfois agrémenté d’un mamelon aigu et a le chapeau orné de squamules récurvées de couleur lilas vineux, surtout à la périphérie, qui justifient son nom.
+5,0$disparu des flores modernes ; son auteur le dit petit, poussant sous Populus tremula, à chapeau pâlissant et soyeux, à lames pâles. Fries le dit inodore, mais on sait que son odorat était déficient… K. & R. p.483, (14) et p. 477.$impolitus Fries 
+5,0$de couleur ocre orangé, à chapeau tomenteux-squamuleux orné d’une papille centrale, sans zonation, toujours sec, ne dépasse pas 5 cm de diamètre ; il fréquente Alnus viridis et Betula nana en montagne… malgré une sporée blanche, les lames se colorent remarquablement, quasi comme le chapeau… La nomenclature est compliquée à son niveau car une synonymie sans doute abusive et mal établie lui attribue au moins six noms différents.$kuehneri
+5,0,n$Pour MTB, c’est un synonyme d’ alpinus
+
+
+_____________________________________
+
+DAPETES SANGUIFLUINI DELICIOSINI
+cs7,0$Clé de la section des DAPETES : Pour les abbréviations, voir le bouton "AVERTISSEMENT AU LECTEUR" !
+1,cs8$lait vineux ou +/- bleu d’emblée$$s"ss SANGUIFLUINI"
+ 1,cs9$lait orangé, immuable ou rougissant$$s"ss DELICIOSINI"
+
+
+cs8,0$	La Sous-section des SANGUIFLUINI
+1,3$lait bleu d'emblée
+1,2$lait vineux d'emblée, sous pins (Pinus) ; saveur amère ou un peu âcre
+1,0$en forêt méditerranéenne, sous Cistus albidus.$cyanopus Basso
+2,0$chapeau assez sombre (rougeâtre violacé givré) à marge pruineuse ; stipe très pruineux de blanc, à scrobicules brun violacé ; odeur +/- fruitée ; méridional. Cerne rougeâtre ou rouge à la base des lames ; pied " plâtré " de blanc ; lames rose vineux.$vinosus
+2,0$chapeau orangé rougeâtre, +/- givré ; pied scrobiculé de rouge vineux, blanchâtre jeune, comme " plâtré " ; en Belgique, en situation abritée thermophile ; sols calcaires exclusivement ; lames lilacines à brun vineux.$sanguifluus
+3,0$lait bleu verdâtre seulement dans le chapeau$hemicyaneus
+3,0,n$hemicyaneus : M.T. Basso en fait quieticolor var. hemicyaneus (Romagn.) Basso comb. et stat.nov./quieticolor Romagnesi & hemicyaneus Romagnesi ont été synonymisés par HCVV... les auteurs considèrent que les différences notées par Romagnesi, notamment au niveau du goût, sont trop variables pour être déterminantes ; en outre, il n’y a aucune différence microscopique… la priorité a été accordée à « quieticolor ». Attention ! les scrobicules présents ou non sur le stipe, ne constituent pas un caractère sûr (observation personnelle réalisée sur plusieurs spécimens en expositions ou sur le terrain).
+3,0$lait bleu verdâtre dans le chapeau et le stipe$indigo (non européen)
+3,0,n$M.T.Basso considère qu’ indigo est une bonne espèce présentant beaucoup de caractères la séparant de cyanopus, mais, jusqu’à présent, elle considère que c’est une espèce non-européenne car les récoltes mentionnées en Italie sont douteuses, n’ayant pu être vérifiées.
+REMARQUES :
+les SANGUIFLUINI viennent de s’enrichir d’une nouvelle espèce : cyanopus Basso dont la diagnose a été établie par Maria Teresa BASSO ; cyanopus pousse dans la forêt méditerranéenne, sous Cistus albidus. 
+
+
+
+cs9,0$La Sous-section des DELICIOSINI
+
+1,2$lait et chair orangés immuables
+1,3$lait orangé changeant de couleur à l'air
+2,0$espèce robuste à marge souvent lobée ; chair non ou peu verdissante, sous pins (Pinus), neutro-calcicole ; pied souvent nettement scrobiculé$deliciosus
+2,0,n$ATTENTION ! en règle générale, se méfier des scrobicules censés se trouver sur le pied de certaines espèces, car leur présence est très variable et ne constitue pas du tout un caractère déterminant.
+2,0$lait orangé rougissant lentement ; chair pâlissante puis virant au vineux$deliciosus var. rubescens
+2,0,n$pour HCVV, la f. rubescens Schmidt de deliciosus fait partie de la variation spécifique normale et a été synonymisée avec le type.
+2,0$chapeau plus régulier ; couleurs plus ternes, vers gris brunâtre ; sous pins (Pinus), acidophile ; pied et chapeau souvent gris verdâtre$quieticolor
+2,0,n$quieticolor Romagnesi & hemicyaneus Romagnesi ont été synonymisés (« The Genus Lactarius », p. 144, année 1998). Attention ! ordinairement, le pied est dit « non scrobiculé », mais parfois il l’est nettement… (observations personnelles). Pour ces mêmes auteurs, quieticolor a également absorbé la var. semisanguinascens Bon
+2,0$mêmes caractères mais lait rougissant lentement (lie-de-vin) en quelques minutes$quieticolor var. semisanguinascens
+3,4$sous épicéas (Picea abies) exclusivement ; chair et lait orangés puis rougissant lentement pour verdir abondamment ensuite
+3,0$sous sapin (Abies alba) ; chair et lait orangés +/- brun rouge après quelques minutes ; odeur +/- savonneuse ; saveur amère ; quelques scrobicules sur le stipe$salmonicolor (*)
+3,0,n$chez salmonicolor Heim & Leclair, les scrobicules du pied ne sont pas constants ; quand ils existent en +/- grande quantité, ils sont allongés ; mais chez nombre d’exemplaires, le pied est lisse… Le chapeau orange clair est très uniforme et les teintes verdâtres n’apparaissent que chez les exemplaires très jeunes ou très vieux.
+3,0$sous pins (Pinus sylvestris) calcicoles ; chair orangée puis vineuse en moins de 5 minutes et verte le lendemain ; pied non scrobiculé$semisanguifluus
+3,0$sous pins (Pinus sylvestris) en terrain acide, avec bouleaux et molinies ; chapeau bleu rose et pied orange saumon, à contraste caractéristique ; pied creux, bien scrobiculé ; en montagne$sanguineo-virescens
+3,0,n$la diagnose et la description de sanguineo-virescens se trouvent dans FMDS, avril 1989 ; 113 : 21-22, de même qu’une planche couleur. Henri ROMAGNESI, dans FMDS janvier 1990 ; 116 : 35, conteste ce nouveau taxon et l’assimile à L. pinastris Romagn. décrit dans SMF, I, 96 (3) : 308 (1980). R. FILLION, dans son droit de réponse lui présente toute une série d’arguments différenciant nettement les deux taxons.
+4,0$champignon indifférent à la nature du sol s'il est en présence de son hôte ; il est inféodé à l' épicéa (Picea abies) ; odeur fruitée ou de carotte ; pied très souvent cerné de blanc au sommet, mais ce caractère n'est pas constant$deterrimus (*)
+4,0,n$fennoscandicus & deterrimus sont les deux seules espèces de la section Dapetes qui sont inféodées à l’épicea commun (Picea abies). 
+4,0$champignon nordique (Suède et Finlande) à chapeau nettement zoné et à teinte lilacine$fennoscandicus (*)
+4,0,n$fennoscandicus & deterrimus sont les deux seules espèces de la section Dapetes qui sont inféodées à l’épicea commun (Picea abies). 
+
+
+_____________________________________
+
+GLUTINOSI GLUTINOSINI PYROGALINI
+cs10,0$Section des GLUTINOSI Quélet (= Limacini Fr.) : espèces à lait subimmuable ; à marge glabre (sans poils), à revêtement visqueux ou lubrifié 
+http://www.champignons-passion.be/cleGlutinosi.htm#ss02
+1,cs11$lait immuable, même en séchant$$s"ss PYROGALINI"
+1,cs12$espèces peu visqueuses ; lait blanc séchant en perles verdâtres, grisâtres ou brunâtres$$s"ss VIETINI"
+1,cs13$espèces souvent très visqueuses ; lait blanc séchant en perles verdâtres, grisâtres ou brunâtres$$s"ss GLUTINOSINI"
+
+cs11,0$La Sous-section des GLUTINOSINI
+1,2$chapeau très visqueux
+1,3$chapeau moyennement visqueux
+2,0$chapeau vaguement zoné ou taché guttulé vers le bord, brun rouge, à reflets olivacés ; lames blanches ne se tachant pas de macules brunes ; inféodé à Fagus$blennius
+2,5$formes de blennius
+rem$$2,0,n$la forme virescens de blennius a le chapeau verdâtre et est un peu moins robuste ; la viscosité est souvent plus épaisse, se fige et brille comme du vernis ; par endroits, elle peut être plus courante que le type… Elle a été ramenée dernièrement au type par HCVV, qui considèrent qu’elle fait partie des limites de la variabilité spécifique. La forme albidopallens Lange de blennius correspond à des spécimens très clairs, d’un blanc sale, discrètement zonés, plus inféodés à Carpinus (Neuhoff l’identifie à fluens…)… HCVV et MTB font de même dans leur ouvrage et ramènent cette forme dans les limites de fluens
+2,0$chapeau brillant, sublisse, non zoné, beige rosé à lilacin, couvert d'une épaisse couche glutineuse ; odeur fruitée ; lait mentholé ; sous conifères (Abies) +/- humides en régions montagneuses$albocarneus (*)
+2,0 ,n$albocarneus est le plus gluant des lactaires ; même le pied est recouvert d’une épaisse couche de gélin ; la var. glutinovirens a été créée par Blum pour désigner des spécimens inféodés à Betula et présentant un chapeau olivâtre comme celui de blennius
+3,0$chapeau flexueux, ridulé, zoné, brun roux terne à cernes brun vert sombre ; lait très abondant ; les lames se tachent de macules brunes ; sous Fagus et Carpinus$fluens
+3,0$chapeau ocre lilas, beige rouge à brun vineux, souvent décoloré et très ample ; pied vite creux, gonflé d'eau ; lait abondant ; sous Picea mêlés de Betula, lieux marécageux$trivialis 
+
+
+3,0,n$chez trivialis, se méfier de descriptions catégoriques qui annoncent un chapeau « jamais » zoné et un pied « jamais » scrobiculé, car l’observation de nombreux spécimens indique le contraire et la variabilité de ces critères.
+3,0$espèce typiquement boréale. Très proche macroscopiquement de trivialis, mais son lait blanc est immuable au KOH, et il vire simplement au crème pâle à l’air ; les différences microscopiques sont évidentes$utilis 
+3,0,n$Moser a voulu le synonymiser avec fascinans, mais HCVV doutent fortement que ces deux espèces soient identiques au sens de Fries 
+3,0$dans les frênaies (Fraxinus) à Carex pendula, mais aussi sous merisier, thuya, sur terrain nettement moins humide ; il ressemble à trivialis, en plus petit ; il évoque aussi quietus par sa tonalité générale brun rougeâtre ; le lait, quasi doux au goûter, devient vite très âcre$fraxineus
+5,0$chapeau verdâtre et est un peu moins robuste ; la viscosité est souvent plus épaisse, se fige et brille comme du vernis ; par endroits, elle peut être plus courante que le type… Elle a été ramenée dernièrement au type par HCVV, qui considèrent qu’elle fait partie des limites de la variabilité spécifique.$blennius f. virescens
+5,0$spécimens très clairs, d’un blanc sale, discrètement zonés, plus inféodés à Carpinus$blennius f. albidopallens Lange 
+5,0,n$Neuhoff l’identifie à fluens…HCVV et MTB font de même dans leur ouvrage et ramènent cette forme dans les limites de fluens
+
+
+………………………………………………………………………………
+cs12,0$La Sous-section des PYROGALINI Sing.
+
+1,2$chapeau non zoné
+1,3$chapeau plutôt zoné
+2,0$lames très espacées et fortement interveinées ; inféodé à Corylus ; il existe des formes de passage vers circellatus$pyrogalus (*)
+2,4$lames normalement espacées
+3,6$tonalité générale rose ou violetée (peu évident par rapport au suivant)
+3,7$chapeau brillant ; tonalité chocolat pourpré ou brun jaunâtre (peu évident par rapport au précédent) ; sous conifères, surtout pessières humides et gramineuses
+3,8$tonalité beige grisâtre
+4,0$petite espèce (3,5 cm) de la zone alpine ou arctique, sous Salix herbacea surtout$nanus
+4,0$petite espèce inféodée à Betula ; chapeau visqueux blanc ou ivoirin, sali au centre, à lames très serrées$argillascens
+4,5$autre écologie ; espèces moyennes à assez robustes 5
+5,0$sous Fagus, dans régions calcaires ; chapeau crème rose pâle (attention à la confusion avec musteus…)$pallidus (*)
+5,0$même écologie ; chapeau rouge ocre à rouge cuivre, à lames quasi concolores$pallidus var. rubellus
+5,0$sous conifères hygrophiles ( souvent Pinus sylvestris), avec mousses et lichens (Cladonia) ; espèce montagnarde ; chapeau variant de beige pâle à ocre orangé et roux terne$musteus (*)
+5,0$en forêts humides, dans les mousses en lisières ; chapeau brun ocre cuir, souvent marbré ; odeur fruitée$fascinans
+5,0$en bétulaie-pessière marécageuse d'altitude : seul biotope connu en 2003, la tourbière de PRAUBERT, près d'EVIAN, 890 m d'altitude ; ressemble fortement à trivialis, avec dominante ocre orangé$helodes (*)
+6,0$sous feuillus ; chapeau étroitement zoné vers la marge ; lames espacées ; saveur brûlante ; chair ferme ; chapeau souvent bosselé ; pied court$roseozonatus (*)
+6,0$sous Pinus mêlés de Betula, avec mousses et graminées, parfois Populus ; chapeau irrégulièrement lobé, à peine zoné ; lames peu serrées à assez larges ; ton général rosâtre à brunâtre violacé ; pied dur$flexuosus
+7,0$chapeau brillant, veinulé ou ridulé par vagues +/- concentriques ; lames crème jaune ; odeur aromatique de cire ; âcre ; sous Picea$hysginus (*)
+7,0,n$curtus présente des risques de confusion avec rufus au niveau de la couleur ; le mamelon pointu peut souvent faire la différence, mais l’élément séparateur essentiel réside au niveau de l’odeur : écoeurante de scléroderme chez rufus et faible agréable chez curtus ; MTB le synonymise avec hysginus
+7,0$espèce des forêts nordiques à Betula, Salix & Picea, avec lames quasi blanches, espacées ; saveur douce$hysginoides
+8,0$inféodé à Carpinus ; lait âcre ; chapeau bien zoné ; lames serrées, non interveinées, de tonalité jaunâtre ou à reflets orangés$circellatus 
+8,0,n$circellatus est une espèce qui présente nombre de formes pouvant entraîner des confusions faciles avec blennius, vietus ou flexuosus…
+8,10$variétés de circellatus ...
+rem$Neuhoff sépare une var. alpicola à chapeau brun rouge, teinté d’olive vers le bord et zoné de brun olive sombre ; les lames ressemblent à celles de pyrogalus quant à la couleur et l’espacement ; le pied olive ochracé roux présente un sommet blanc et poudré ; sous l’action de la potasse, la cuticule rougit et le lait reste immuable. Velenovsky quant à lui, décrit une var. polyzonus, thermophile et calcicole, à chapeau pâle, ocre brunâtre et très zoné. HCVV considèrent que la description de Fries ouvrait la voie à diverses interprétations, et pour éviter des confusions de nomenclature, ils ont choisi de suivre l’interprétation de Neuhoff (1956).
+8,0$sous Betula nana & B. pubescens, en zone alpine et Scandinavie ; chapeau gris brun foncé, souvent nettement zoné$subcircellatus
+ 10,0$chapeau brun rouge, teinté d’olive vers le bord et zoné de brun olive sombre ; les lames ressemblent à celles de pyrogalus quant à la couleur et l’espacement ; le pied olive ochracé roux présente un sommet blanc et poudré ; sous l’action de la potasse, la cuticule rougit et le lait reste immuable$circellatus var. alpicola Neuhoff
+ 10,0$thermophile et calcicole, à chapeau pâle, ocre brunâtre et très zoné.$circellatus var. polyzonus Velenovsky 
+10,0,n$HCVV considèrent que la description de Fries ouvrait la voie à diverses interprétations, et pour éviter des confusions de nomenclature, ils ont choisi de suivre l’interprétation de Neuhoff (1956).
+
+
+cs13,0$La Sous-section des VIETINI (Konr.) Sing.
+1,0$grosse espèce olive mastic, sale (comme saupoudrée de suie) à marge fibrilleuse ; associée à Picea & Betula$necator 
+1,0,n$necator possède une fo. ochroleucoides décrite par M. BON, qui a le chapeau jaune ocracé, un peu olivacé… HCVV (1998) rendent la priorité à plumbeus (Bull. : Fr.) Gray car, selon les auteurs, les deux planches présentées par Bulliard pour justifier necator correspondent à d’autres espèces. MTB, de son côté (1999), rend la priorité à turpis
+1,0$espèce petite à moyenne, à ton plutôt rosé, gris lilas pâle ou beige violeté ; prédilection pour les bouleaux hygrophiles, mais aussi sous Quercus sur sol plus sec$vietus
+rem$1,0,n$syringinus est très semblable à vietus, mais il pousse en Suède et en Tchéquie, dans des forêts mélangées. L. umbrinus a les lames qui se tachent de gris au froissement ; le chapeau non zoné est d’un brun d’ombre ou ombre olivacé, absolument sec, floculeux-rivuleux ; selon Ricken il s’agit d’ailleurs d’une espèce nettement plus grosse (jusqu'à 10 cm)… K. & R. p.483, (13). La fo. constans Lange de vietus est une forme plus foncée, plus volumineuse, à stipe plus trapu. Les lamelles restent immuables aux endroits froissés… K. & R. p.476
+1,0$chapeau petit, plutôt gris brun ; lames grisâtres ; inféodé à Betula ; sur terrains acides, à Sphagnum$pilatii
+1,2$autres espèces ...
+2,0$très semblable à vietus, mais il pousse en Suède et en Tchéquie, dans des forêts mélangées$syringinus
+2,0$lames qui se tachent de gris au froissement ; le chapeau non zoné est d’un brun d’ombre ou ombre olivacé, absolument sec, floculeux-rivuleux$umbrinus
+2,0,n$selon Ricken il s’agit d’ailleurs d’une espèce nettement plus grosse (jusqu'à 10 cm)… K. & R. p.483, (13). 
+2,0$plus foncée que vietus, plus volumineuse, à stipe plus trapu. Les lamelles restent immuables aux endroits froissés… K. & R. p.476$vietus fo. constans Lange
+
+___________________________
+cs14,0$Clé de la section des ICHORATI (Neuhoff) Bon : espèces à lait blanc...
+1,0$saveur âcre amère$tithymalinus
+1,2$saveur douce, amarescente au plus
+2,0$odeur pélargoniée ; couleurs ternes ; sous feuillus$iners
+2,0,n$selon Marchand, iners est un synonyme de rubrocinctus ; Kühner avait pensé à une espèce nouvelle en 1953 suite à certaines réactions chimiques, mais son taxon est tombé en synonymie suite à des tests de Romagnesi, Neuhoff, Reid & Marchand… HCVV le synonymisent également.
+2,3$odeur faible acidulée, de lessive, de buanderie, de punaise des bois, de " quietus "…
+3,0$chapeau ridulé, brun rouge orangé, plus ocre jaune au bord (marge plus claire) ; sous feuillus$ichoratus
+3,0,n$selon Neuhoff, l’ ichoratus de Romagnesi serait rubrocinctus ; par contre, Hora admet cet ichoratus, mais à titre de « nomen confusum », et lui substitue le binôme L. subsericeus ; Romagnesi convient que son ichoratus n’est pas celui de Fries. MTB considère que c’est un synonyme de volemus. 
+3,0$chapeau viscidule à sec, ridé à crispé, brun rouge ; cerne rouge sur le pied sous les lames, mais parfois absent ; lames se salissant au froissement ; lait d'abord doux puis très âcre ; surtout sous Fagus ; calcicole$rubrocinctus (*)
+3,0,n$Blum fait état d’une récolte groupée de 50 rubrocinctus : la cuticule de certains était lisse, celle d’autres était rugueuse ou pourvue de rides manifestes… ; Blum étend même la variabilité de l’espèce « au brunissement des lames et à l’anneau du pied »… ; « rugueux » ne doit donc pas être pris sensu stricto… Fries décrit le stipe de son rubrocinctus comme pâle, ceint au sommet, sous les lames, d’une zone rouge qui permet de le distinguer parmi tous les lactaires. Lange fait remarquer que si cette zone existe +/- sur la plupart des exemplaires, elle n’est pas t
+______________________
+OBSCURATI
+cs15,0$Clé de la section des OBSCURATI Bataille (= Striatini Heim) : espèces graciles (chapeau de 3 cm à peine), à marge striée...
+1,2$chapeau en entonnoir papillé
+1,3$chapeau déprimé, hygrophane ; sous Alnus, en altitude ou non ; hygrophile
+2,0$+/- rivuleux concentriquement, roux vif à orange rose ; lames peu serrées, rosâtres ; sous Betula et Alnus, parfois sur Sphagnum$omphaliformis
+2,0$plus sombre ou obscur au disque ; ridulé radialement et non rivuleux ; stipe très court ; inféodé à Alnus$cyathuliformis
+3,0$espèce de la zone subalpine à alpine, poussant sous Alnus viridis ; couleur brun roux assez foncé uniforme, sans zone olivâtre ou plus claire$obscuratus var. subalpinus
+3,0$chapeau mamelonné, olive foncé au centre et brun orange au bord puis beige blanc au sec ; très variable avec l'âge$obscuratus
+3,0,n$pour HCVV, le taxon obscuratus regroupe clethrophilus Romagnesi et la var. radiatus (Lange ex Romagn.) Romagn. d’obscuratus ; selon eux, la microscopie et l’examen des holotypes n’ont révélé aucune différence. la forme alnobetulae de radiatus est décrite par M. Bon dans FMDS, juillet 1998, 150.21 ; c’est un champignon montagneux des aulnes verts
+3,4$sans mamelon olive, ni en altitude, ni sous Alnus viridis
+4,0$à marge longuement striée$obscuratus var. radiatus
+4,0,n$pour MTB, radiatus est un synonyme de obscuratus var.radiatus.
+4,0$chapeau brun roux foncé ; lames roux sombre épaisses et espacées ; marge striolée par transparence$clethrophilus
+________________________
+
+cs16,0$Clé de la section des OLENTES (Bat.) : espèces à lait séreux ou peu abondant.
+1,cs17$microscopiques...$$s"ss CAMPHORATINI"
+1,cs18$microscopiques...$$s"ss SERIFLUINI"
+
+cs17,0$La Sous-section des CAMPHORATINI (= Olentini Singer)
+1,0$chapeau (6 cm) brun rouge à brun vineux foncé ; idem pour lames et pied (creux) ; odeur de quietus puis très forte de chicorée en séchant$camphoratus
+1,0,n$camphoratus var. serifluus est mentionné dans la liste de l’herbarium de Meise… Mais il est synonymisé maintenant, par MTB, avec serifluus (De Cand. : Fr.) Fr.
+1,0$chapeau (4 cm) ridé cabossé, brun orangé souvent taché de rouille ; marge souvent cannelée ou crénelée ; odeur de punaise ou de feuilles de lierre ; surtout sous Fagus et précoce$cremor
+1,0$petite espèce (3,5 cm) granuleux rugueux, brun orangé foncé en vieillissant lames orangées ; odeur de punaise ou de feuilles de lierre ; sous Fagus ; connu actuellement de 4 stations au Danemark.$rostratus
+1,0,n$pour MTB, rostratus est un synonyme de cremor
+
+cs18,0$La Sous-section des SERIFLUINI
+
+1,0$ornières et terre nue humide ; sous feuillus ; petite taille ; chapeau brun bistre à marge cannelée (caractère rarement mais parfois absent) et cuticule pustuleuse ; lames nettement orangées, et de plus en plus en vieillissant.$subumbonatus
+1,0$en zone méditerranéenne sous Quercus ilex (chêne vert ou yeuse) mêlés de Pinus ou en bordure atlantique, sous Pinus ; pied très dur ; odeur de subdulcis ; tous les exemplaires que j'ai rencontrés jusqu'à présent avaient le pied strigueux...$atlanticus
+1,0$en zone méditerranéenne sous Quercus ilex, parfois directement au contact de l'écorce, en touffes, avec pied hirsute (strigueux) sur un tiers ; chapeau brun chair clair$atlanticus fo. Strigipes
+1,0,n$atlanticus fo.strigipes est un synonyme d’ atlanticus, pour MTB
+1,2$autres caractères écologiques
+2,0$petite espèce (5 cm de diamètre maximum, et souvent moins) ; chapeau lisse brunâtre à dominante couleur miel ; lait très séreux, quasi comme de l'eau ; odeur faible de feuille de lierre ou de punaise$serifluus
+2,0$chapeau ridulé, irrégulier, brun rouge ; pied nettement brun rouge (comme fulvissimus) ; lait abondant ; lames beige chair clair ; odeur forte de punaise ; tendance hygrophile ; sous Quercus$cimicarius
+2,0,n$pour HCVV & MTB, cimicarius Batsch est un synonyme de camphoratus.
+
+_______________________________
+
+SUBDULCES MITISSIMI SUBDULCINI
+cs19,0$Clé de la section des SUBDULCES (Bat.) (= Russulares Fr.) : espèces à lait blanc, immuable ou jaunissant ; chapeau lisse, glabre ou furfuracé.
+1,cs20$couleurs orangées, rousses ou fauve roussâtre, vives$$s" MITISSIMI"
+1,cs21$couleurs moins vives$$s"SUBDULCINI"
+
+cs20,0$La Sous-section des MITISSIMI (Neuhoff) Bon
+
+1,2$chapeau orange vif à délavé jaunâtre
+1,3$chapeau fauve rougeâtre à rouge orangé
+2,0$chapeau lisse, à dominante orangée ; lames serrées ; pied concolore ; odeur caoutchoutée ; inféodé à l'épicéa, en altitude (moyenne montagne)$aurantiofulvus (*)
+2,0,n$nous nous rangeons à l'avis de Pierre-Arthur MOREAU, qui différencie aurantiacus de aurantiofulvus, simplement sur base de leur écologie et de l'altitude.
+2,0$chapeau orange plus pâle à jaunâtre délavé ; pied long, rougeâtre en bas ; odeur de quietus ; pousse dans les chênaies -hêtraies argilo-calcaires de plaine$aurantiacus (*)
+2,0$très semblable au précédent, mais avec lait jaunissant rapidement ; c'et une espèce nordique ou de la zone subalpine, poussant sous Betula$duplicatus (*)
+2,0,n$MTB et HCVV sont d'avis exactement contraire quant à la priorité de lapponicus sur duplicatus ; duplicatus est une espèce très proche de aurantiacus, qui est seulement connue des régions nordiques, boréales ou alpines ; elle pousse dans les sites à Betula sur sol calcaire ; son lait est jaunissant. M.T. Basso a rendu la priorité à lapponicus Harmaja qui avait été synonymisé avec duplicatus, par HCVV.
+2,0$très semblable à duplicatus , mais avec lait blanc à blanc aqueux, ne jaunissant pas ; odeur de quietus ; c'et une espèce nordique ou de la zone subalpine, poussant sous les saules nains$lanceolatus (*)
+2,0,n$lanceolatus et duplicatus sont des espèces typiquement nordiques, mais à rechercher dans la zone subalpine française, sous saules nains . lanceolatus est une espèce très proche d’ aurantiacus, qui est seulement connue des régions très nordiques ; elle est inféodée à des saules nains (Salix nana).
+2,0$chapeau orange moyen, à marge fine, à minuscule papille ; inodore et lait doux ; surtout sous feuillus$mitissimus (*)
+2,0,n$HCVV synonymisent mitissimus et aurantiofulvus avec aurantiacus, en lui donnant la priorité, sensu lato… Cependant, selon Marchand, ces 3 espèces peuvent se séparer avec exactitude en examinant les spores ; pour le mycologue de terrain, l’habitat, la saveur du lait et l’odeur de la chair peuvent fournir une base d’orientation. MTB syno-nymise aurantiofulvus avec aurantiacus
+3,0$lames peu serrées, crème jaune, interveinées ; pied ridulé ou cannelé sous les lames, brun rouge en bas ; odeur de Lepiota cristata ; sous feuillus ; le lait semble immuable, mais jaunit sur le mouchoir après 10-15 minutes, en marquant au moins un cerne très évident (observation (Paul PIROT)$fulvissimus (*)
+3,0,n$fulvissimus (couleurs chaudes tirant vers le roux intense, odeur forte diversément interprétée, lames interveinées) peut être confondu à première vue avec ichoratus (roux tirant vers l’orangé, avec bordure périphérique pâle contrastée ; odeur faible, lames non interveinées). Pour HCVV, fulvissimus regroupe subsericatus Kühner & Romagnesi ex Bon, subsericatus var. pseudofulvissimus Bon & britannicus Reid… Cela semble évident pour les auteurs qui ne fournissent pas d’explications pour cette synonymie de masse, qui par contre, arrangerait bien les déterminateurs, si elle est réelle.
+3,0$chapeau lisse à velouté ; pied cannelé sous les lames, roux vif en bas ; odeur acidulée faible ; sous Picea surtout ; lait jaunissant sur mouchoir en quelques minutes$subsericatus
+3,0,n$pour MTB, subsericatus est synonyme de britannicus fo. britannicus ; tandis que subsericatus var. pseudofulvissimus devient britannicus fo. pseudofulvissimus (Bon) Basso comb. et stat. nov.
+3,0$plus orangé à marge pâle ; odeur acidulée de caoutchouc ; sous Carpinus en terrain argilo-calcaire$subsericatus var. pseudofulvissimus
+3,0$associé à Fagus, avec saveur douce et odeur faible ; Grande Bretagne et côte atlantique$britannicus
+3,0,n$il semblerait que l’orthographe « brittanicus » reprise dans RC ne soit pas correcte ; HCVV et MTB l’écrivent « britannicus ».
+
+cs21,0$La Sous-section des SUBDULCINI (Bat.) Singer
+1,2$lait jaunissant
+1,3$lait jaunissant seulement sur un mouchoir
+1,4$lait immuable
+1,8$autre espèce
+2,0$chapeau ocre abricot ou jaune orangé, micacé, scrobiculé de jaune ; sous feuillus$chrysorrheus
+2,0,n$la fo. immutabilis de R. Maire désigne un chrysorrheus à lait immuable
+2,0$chapeau infundibiliforme, jaune pâle chamois, à marge visqueuse couverte de longs poils (1 cm)$cilicioides (*)
+2,0,n$cilicioides est représenté dans Philips, p.79 ; selon son auteur, c’est une espèce rare, intermédiaire entre torminosus et necator, à chapeau incarnat et à pied pâle, qui viendrait dans les bois de pins en plaine… Il a un lait blanc qui présente les mêmes réactions que celui de chrysorrheus ; le chapeau varie entre 10 & 20 cm. Pour MTB, il y a erreur d’interprétation
+2,0$espèce méditerranéenne, poussant sous Quercus ilex$mediterraneensis
+3,0$odeur de géranium ; chapeau à mamelon +/- aigu, de couleur à dominante rose ; en stations sèches$decipiens
+3,0,n$rubescens se situe très près de decipiens au point que Neuhoff en fait un synonyme ; mais le microscope met en évidence certaines disparités (hyphes de l’épicutis plus grêles chez rubescens ; spores plus petites et plus rondes, hérissées d’épines mais avec peu de crêtes ; voir Marchand p. 114 & 253). Pour MTB (1999), c’est un synonyme de decipiens
+
+3,0$très semblable au précédent, mais de taille plus petite et sans mamelon, à couleur dominante orange ; odeur de Pelargonium$rubescens (*)
+3,0,n$rubescens se situe très près de decipiens au point que Neuhoff en fait un synonyme ; mais le microscope met en évidence certaines disparités (hyphes de l’épicutis plus grêles chez rubescens ; spores plus petites et plus rondes, hérissées d’épines mais avec peu de crêtes ; voir Marchand p. 114 & 253). Pour MTB (1999), c’est un synonyme de decipiens
+3,0$odeur faible à nulle ; sous conifères humides ; sur Sphagnum et sous Picea ; petite taille ; souvent grégaire$sphagneti
+4,0$odeur de lessive, de buanderie, de linge mouillé ; associé à Quercus robur & Q. sessile, et est présent partout où pousse son hôte$quietus
+4,0$odeur de caoutchouc ; inféodé à Fagus$subdulcis
+4,5$odeur nulle
+5,0$sous feuillus$hradecensis
+5,0,n$en ce qui concerne hradecensis, mentionné en p.69 par Régis COURTECUISSE, celui- ci nous a adressé les renseignements suivants : il s’agit d’une espèce de Z. SCHAFER, 1948, qui tourne autour de subdulcis. Elle n’est pas clairement définie actuellement et il vaut mieux l’oublier, dans l’état actuel de nos connaissances (voir M.T. BASSO : 505)… voir aussi la clé de Marcel BON, Documents Mycologiques, 1980 : 58 – 10a.
+5,0$sous Pinus$mollis
+5,0,n$mollis est également cité dans la clé de Marcel BON, Documents Mycologiques, 1980 : 58 – 10b.
+8,0$nouvelle espèce décrite par M.T. BASSO ; elle pousse sous Quercus ilex, en zone méditerranéenne et terrain calcaire$mediterraneensis 
+
+__________________
+	
+TRICHOLOMOIDEI SCROBICULINI BARBATINI
+cs22,0$Clé de la section des TRICHOLOMOIDEI Fries (= Torminosi KOnrad & Maublanc = Barbati Quélet) :
+espèces à marge pubescente, barbue ou laineuse.
+1,cs23$lait blanc à l'émersion, mais jaunissant (chair jaunissante)$$s"ss SCROBICULINI"
+1,cs24$lait blanc et chair non jaunissants$$s"ss BARBATINI"
+
+cs23,0$La Sous-section des SCROBICULINI H. & Smith emend.
+1,2$chapeau blanc ou très pâle
+1,3$chapeau coloré de jaune, brun roux ou ocre
+2,0$grande taille et aspect trapu ; acidophile, sous Pinus & Betula, silicicole ; marge incurvée, ondulée ; pied très vite creux$resimus
+2,0$sous feuillus calcicoles ; chapeau plus crème jaune sale ; stipe court ; lames serrées$echinosporus
+3,0$pied non scrobiculé ; marge densément poilue et sèche (veloutée) ; pseudoarmille +/- hirsute$citriolens
+3,4$pied +/- scrobiculé au moins en bas
+4,5$de grande taille (chapeau jusqu'à 20 cm)
+4,6$de taille moyenne (chapeau jusqu'à 13 cm)
+5,0$sous Picea abies, en montagne ; chair blanc jaune ; pied ferme à scrobicules bien marqués ; cuticule séparable à demi ; pied souvent genouillé et vite creux$scrobiculatus
+5,0$ubiquiste des lieux herbeux humides, à tendance calcicole et nordique, ou en moyenne montagne ; chair à zones grisâtres ; marge densément poilue, mais peu barbue laineuse, glutineuse ; lames blanches, puis rosées (comme controversus)$aquizonatus
+6,0$pied finement et densément scrobiculé ; chapeau jaune ocre à brun, avec petits scrobicules à la marge ; serait ubiquiste, calciphile ; nette préférence pour Abies alba en moyenne montagne ; sans faire appel au microscope, la confusion nous paraît facile avec scrobiculatus, mais ce dernier a des pleurocystides de 50 à 60 µm, tandis que pour intermedius, on mesure 100 à 120 µm.$intermedius
+6,7$pied uniquement scrobiculé en bas
+7,0$chapeau jaune pâle ; sous Picea abies en milieu humide calcicole ; espèce nordique$leonis
+7,0$chapeau jaune verdâtre avec encoche triangulaire caractéristique ; sous Picea calciphile en milieu marécageux ; espèce nordique$olivinus
+7,0$chapeau en entonnoir ; marge garnie de mèches gélatineuses ; sous Picea abies ; calciphile, en milieu marécageux ; espèce nordique$auriolla
+7,0$chapeau jaune chrome à marge garnie de mèches formant des cannelures radiales avec l'âge ; lames fourchues ou anastomosées ; sous Picea acidophiles en forêt humide ; espèce nordique ou très rare en moyenne montagne$tuomikoskii 
+7,0,n$tuomikoskii est acidophile et vit étroitement avec Sphagnum girgensohnii et Hylocomium splendens ; cette espèce est nordique, mais on peut la rencontrer occasionnellement en moyenne montagne : un biotope existe dans la région de Vallandry (France)
+
+cs24,0$La Sous-section des BARBATINI Quélet espèces à marge barbue ou laineuse, à lait et chair non jaunissants...
+1,2$chapeau blanc, rose, ochracé, rougeâtre briqueté
+1,3$chapeau roussâtre, fauve
+2,0$espèce petite : chapeau 5 cm ; surtout sous Betula nana, en montagne et Scandinavie$favrei
+2,0,n$HCVV & MTB invalident favrei Jahn 1982 et donnent la priorité à scoticus Berk. & Broome, 1879
+2,4$espèce moyenne à robuste
+3,0$chapeau laineux feutré jusqu'à 6 cm, d'aspect toujours sale ; maquis de Cistus monspeliensis ou chênes méditerranéens acidophiles, en colonies ; pied très court$tesquorum (*)
+3,5$chapeau jusqu'à 12 cm, fibrillo- laineux, à barbes réunies en mèchules, hérissées en désordre à la périphérie
+4,0$chapeau jusqu'à 12 cm, zoné de rouge brique à marge longtemps enroulée et très barbue laineuse ; inféodé à Betula$torminosus
+4,0$chapeau jusqu'à 10 cm à marge moins laineuse, à dominante blanche et vague zonation rosée ocre ; sous bouleaux hygrophiles ; affectionne les pelouses et les zones herbeuses$pubescens (*)
+4,0$forme ocre rose orangé, faisant la transition entre les 2 précédents ; inféodée à Betula$aurantioochraceus
+4,0$chapeau jusqu'à 7 cm, à marge enroulée barbue laineuse sur 2 ou 3 mm seulement ; cuticule blanchâtre à rose très pâle ; pas de zonation$blumii (*)
+4,0,n$Blum avait nommé ce lactaire albus en 1976 ; mais ce binôme se trouvait antidaté par Velenovsky depuis 1920 ; aussi, Bon a-t-il proposé blumii à sa place, en 1979… HCVV & MTB synonymisent blumii avec pubescens
+4,0$chapeau de 5-6 cm, zoné de saumon ; lames blanches peu serrées ; stipe souvent ceint de rosâtre en haut ; pied très court$torminosulus (*)
+5,0$odeur fruitée à écoeurante ; sous feuillus (surtout Quercus) calcicoles thermophiles ; toison rude et très brunissante lui conférant un aspect hirsute$mairei (*)
+5,0,n$aurantioochraceus est synonymisé avec mairei par MTB. Le type de mairei provient d’une forêt de Quercus faginea, aux environs d’ Azrou (1.400 m d’alt.) dans le Moyen-Atlas marocain.
+5,0$forme plus petite et plus zonée, à odeur plus fine ; moins calcicole$mairei var. zonatus
+_______________________________
+cs25,0$Clé de la section des UVIDI (Konrad) Bon 
+
+1,cs26$chapeau de couleur blanchâtre à jaune ocracé ou grisâtre$$s"ss ASPIDEINI"
+1,cs27$chapeau de couleur lilacine ou violacée à brunâtre, parfois très pâle$$s"ss UVIDINI"
+
+cs26,0$La Sous-section des ASPIDEINI Singer 
+
+1,0$grande espèce jaune ocre (jusqu' à 15cm) à marge barbue laineuse ; sous Betula avec Sphagnum ou Picea ; avec Betula nana en zone arctique ; calcifuge ; pied scrobiculé ; forte odeur$repraesentaneus...
+1,2$espèce moins grande
+1,5$autres espèces
+2,3$zone alpine (sous dryades, saules nains…) ; de teinte jaune
+2,0$zone alpine (sous saules nains…) ; de teinte blanche ; pied très court$groenlandicus...
+2,4$autre écologie (feuillus argilo- calcaires) ; généralement de teinte jaune sauf aspideus qui est plus blanchâtre
+3,0$taille moyenne (jusqu'à 9cm) ; avec Dryas octopetala L. ; calcicole. Aspect robuste ; chapeau quasi blanc, à marge courtement barbue laineuse$dryadophilus...
+3,0,n$pour HCVV, dryadophilus var. saliceticola est un synonyme de dryadophilus ; MTB réserve son avis et attend une étude plus approfondie sur du matériel frais. / dryadophilus est le correspondant de repraesentaneus en zone alpine
+3,0$petite taille (max. 5cm) ; sous saules nains (Salix herbacea, S. retusa, S. reticulata) ; couleur jaune ocre vif ; chair ni très mince ni très fragile$salicis-herbaceae...
+3,0$encore plus petit (3 à 5cm), plus pâle que le précédent ; couleur jaune citron pâle, plus pâle que le précédent ; sur calcaire ; odeur pélargoniée fruitée ; chair mince et fragile$salicis-reticulatae (*)
+4,0$taille moyenne (max. 12cm), de couleur jaune à jaune pâle ; lait violet vineux à chocolat violacé sur la chair et les lames ; sous feuillus argilo-calcaires en plaine ; pied glabre ; cuticule et pied visqueux ; non mycorhizique de Salix caprea$flavidus (*)
+
+4,0$petite taille (max. 6cm) ; hygrophile : sous Alnus & Salix en montagne (ou zone à catactère montagneux) ; dans l'herbe ou sol nu ; sommet du pied d'aspect nervuré. Cuticule collante, jaunâtre à blanchâtre ; pied quasi sec. Mycorhizique du Saule Marsault (Salix caprea)$aspideus (*)
+4,0,n$il existe un problème au niveau du changement de couleur du lait de flavidus et aspideus : Grospelier, Marchand & Bon annoncent un lait immuable quand il est isolé chez flavidus et virant au violet chez aspideus ; les observations personnelles de HCVV indiquent exactement le contraire. Suite à des observations personnelles, ces deux espèces nous paraissent bien proches, hormis l'écologie... 
+
+le véritable aspideoides Laursen & Ammirati, américain, a été trouvé en Alaska sous divers saules nains.
+5,0$correspondant de repraesentaneus en zone alpine$dryadophilus 
+5,0$pousse avec Betula, en zone boréale ; le chapeau est d’un jaune chrome beaucoup plus vif et le lait est immuable isolé ; immuable au KOH.$flavidus ss.Korhonen
+5,0$se distingue par un lait très rare et une chair immuable ; le chapeau est jaune pâle et le champignon ressemble à une russule du groupe citrina ;$salicis-herbaceae Kühner var. immutabilis Kühner
+5,0,n$nous le considérons comme le correspondant de flavidus en zone alpine
+5,0$est le correspondant d’aspideus en zone arctique et alpine, sous des communautés de Salix$salicis-reticulatae
+
+
+
+cs27,0$La Sous-section des UVIDINI Konrad
+
+1,2$chapeau foncé
+rem$$s" bug" 1,1 => 1,2
+1,3$chapeau pâle
+2,0$sous feuillus (Quercus & Carpinus) en stations calcaires, sèches ou peu humides ; zonation très foncée et très nette sur chapeau qui est +/- sec ou sec$violascens (*)
+2,0$sous cistes (Cistus monspeliensis) en maquis acides ; petite taille (2 à 6 cm)$cistophilus
+2,0$zone alpine (avec saules nains… les champignons font de l'ombre aux saules !) ; de teinte brun violeté ; odeur de bois de cèdre ; chapeau mamelonné ; cuticule visqueuse ou brillante$robertianus
+2,0,n$robertianus est +/- brun violet, à chapeau mamelonné, à marge +/- costulée ou crénelée et odeur remarquable de bois de cèdre (comme Cortinarius violaceus). Il a été décrit par M. Bon, en 1985 (Bull. Féd. Mycol. Dauphiné-Savoie 25 (97) : 24, 1985 ; HCVV donnent la priorité à brunneoviolaceus en 1998 et MTB rétablit robertianus en 1999.
+C'est le luridus de la zone alpine.
+
+3,0$lait devenant violet profond ; chapeau terne ou sale ; les parties blessées prennent toujours une teinte aubergine et la surface du pied se macule$luridus
+3,4$lait devenant violet améthyste moyen 
+4,0$espèce de grande taille (jusqu'à 10 cm) à chapeau zébré de lignes plus foncées ; fréquente forêts humides voire marécages ; très visqueux ; la surface du pied ne se macule pas ; pied très long$uvidus (*) 
+4,0,n$uvidus et violascens ne sont pas toujours faciles à séparer ; la microscopie permet une différenciation sans réserves, sur du matériel frais : la cuticule du premier contient un pigment granulaire brun abondant et intra-cellulaire ; chez le second, cette granulation brune est moins dense et surtout extra-cellulaire. )./ la fo. alpigenes d’uvidus est citée dans FMDS, juillet 1998 ; 150:17 ; elle est associée à Salix herbacea / la var. farinipes d’uvidus est citée dans FMDS, juillet 1998 ; 150:18 ; elle a le stipe grisâtre et subvelouté.
+4,5$variétés de uvidus ...
+
+4,0$espèce de petite taille (max. 4 cm), à marge enroulée ; en zone alpine sous Salix$pseudouvidus (*)
+4,0,n$de visu, robertianus et pseudouvidus sont très semblables, mais le microscope indique des différences marquantes… (taille et ornementation des spores notamment… ; voir HCVV p. 88 & 90 ; Basso p. 200 & 207
+5,0$de couleur blanchâtre$uvidus var. pallidus
+5,0$élancé, très pâle, chapeau blanc pur, sous Salix, terrains fangeux ou tourbeux$uvidus var. candidulus
+
+____________________________________
+
+cs28,0$Clé de la section des ZONARII Quélet emend. K. & R. (= Insulsini Sing.) :
+marge glabre ; lait blanc, immuable ; zonation piléique +/- remarquable ; chapeau glabre, un peu visqueux, de couleurs jaunâtres à roussâtres ou orangées ; sporée blanche. 
+
+1,2$zonation marginale et couleur pâle
+1,3$zonation nettement marquée couvrant tout le chapeau
+2,0$stipe très court restant plein et trapu ; lames espacées, crispées, anastomosées ; espèce des feuillus, surtout Quercus$acerrimus (*)
+2,0,n$acerrimus présente un pied qui peut être lisse ou scrobiculé… chez evosmus, il est toujours lisse… acerrimus est aussi l’espèce qui possède les plus grosses spores du genre (10-15 x 8-11 µ).
+2,0$lames et pied normaux ; odeur de pomme coupée ; sous feuillus (Quercus & Populus) et parfois conifères ; chair non rosissante à l'air ; cystides rares et peu apparentes (Romagnesi)$evosmus (*)
+2,0,n$evosmus dégage une odeur remarquable par son intensité mais variable selon les auteurs quant à sa nature : fruitée acide, de bolet (Kühner), compote de pommes (Romagnesi), pomme fraîche (Bon), poire cuite, mêlée de pélargonium, parfois fétide (Blum), agréable de pomme coupée (Marchand)… à chacun de se forger une opinion ! Lorsque les zones du chapeau s’effacent et disparaissent, on pourrait le confondre, selon Blum, avec Russula delica.
+2,0$semblable au précédent ; odeur faible ; connu d'abord de Slovénie, dans les hêtraies acidophiles$illyricus (*)
+2,0,n$illyricus Piltaver : Andreas GMINDER l’a récolté en 1999 à Einsiedeln (Suisse, 25 km de Zürich), surtout sous Castanea sativa. Il l’a également rencontré à 20 km au Sud de Stuttgart (Allemagne) dans un groupement chêne – charme – hêtre, sur sol argileux. Il indique aussi que lors des JEC (Journées Européenes des Cortinaires) de 1999, ll était régulièrement confondu avec Lactarius pallidus, L. fascinans ou L. utilis. / Voici une description compilant les observations de Andreas GMINDER et PAM (Pierre-Arthur MOREAU) : cette espèce ressemble à pallidus, mais est d’allure plus grêle et plus mince, avec des lames remarquablement plus étroites, anastomosées près du pied (comme fraxineus ou spinosulus ). Le revêtement est très finement fibrillo-squamuleux, presque spinuleux quand il est jeune. Il est plus grand que spinosulus et affiche de 5 à 9 cm de diamètre ; il ne porte pas de traces de rose. Les spores sont petites et finement réticulées.
+2,0$sous Quercus ; chapeau nettement zoné mais tout-à-fait lisse à la marge piléique ; pied très scrobiculé$maliodorus...
+2,0,n$maliodorus pourrait être synonymisé avec illyricus, selon MTB, mais ce taxon demande à être revu avec du matériel frais.
+3,0$chapeau relativement pâle (jaune ocre) ; chair rosissante à l'air ; cuticule séparable par moitié ; sous chênes calcicoles en plaine ; cystides nombreuses et parfaitement évidentes$zonarius (*)
+3,0,n$zonarius est orné d’une douzaine de zones denses et apparentes ; le pied est trapu et caverneux ; préférence marquée pour Quercus sur sol argilo-calcaire… HCVV & MTB ont rapproché la fo. scrobipes (Kühner & Romagnesi) Bon du type, et considèrent qu’elle reste dans les limites de variabilité de l’espèce
+3,0$idem mais à pied scrobiculé (densément gravé de fossettes jaune clair, sur fond blanc) et marge pubescente$zonarius var. scrobipes...
+3,4$chapeau de couleur plus vive ou plus sombre (orangé vif à fauve)
+4,0$lait et chair doux, saveur amère ; odeur mélangée de quietus et de mandarine ; pied et chapeau concolores ; inféodé aux mélèzes (Larix), plutôt en montagne$porninsis...
+4,0$lait très âcre ; couleurs vives (roux orangé) ; sous conifères ; tendance montagneuse$bresadolanus (*)
+4,0,n$bresadolianus pour Marchand & M.T. Basso et bresadolanus pour Courtecuisse…. Qui a raison ? Comme ce champignon a été dédié à BRESADOLA, je pencherais plutôt pour la seconde version… Sa cuticule est séparable sur un tiers et est marquée d’une dizaine de zones concentriques +/- nettes… HCVV & MTB ont synonymisé ce taxon avec zonarioides ; Pierre-Arthur MOREAU, qui nous l'a fait découvrir dans la région de VALLANDRY (Alpes françaises), est du même avis.
+4,0$chair virant en zones sombres et taches verdâtres (aux endroits où le lait sèche) ; inféodé à Picea, en montagne$zonarioides
+
+Autre REMARQUES :
+•	insulsus est représenté dans Phillips à la page 80 ; mais, selon HCVV, il doit être considéré comme « nomen dubium » ; dans son sens original, il devait vraisemblablement correspondre à zonarioides ; mais depuis, ce nom d’insulsus a été attribué à nombre d’autres espèces du groupe par Blum, Heinemann, Kühner & Romagnesi, Lange, Lundell & Nannfeldt, Moser, Neuhoff & Phillips, ce qui lui fait perdre tout son sens et justifie le « nomen dubium ».
+___________________________
+
+
+
+cs50,0$. AUTEURS :
+
+1,0$FMDS Fédération Mycologique Dauphiné -Savoie./ FMS Société Mycologique de France./HCVV HEILMANN-CLAUSEN& al. / K.& R. KUHNER et ROMAGNESI / MB Marcel BON / Mcd André MARCHAND / MTB Maria Teresa BASSO./ RC Régis COURTECUISSE$_Auteurs

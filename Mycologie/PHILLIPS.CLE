@@ -1,0 +1,108 @@
+
+Titre$ Clé simplifiée inspirée de l'ouvrage de phillip
+
+1,CS1$  Champignons à lamelles, à pied central et spores blanches, creme ou jaunâtres
+1,CS2$  Champignons à lamelles, pied central, spores roses
+1,CS3$  Champignons à lamelles, pied central et spores ocre à brun rouille
+1,CS4$  Champignons à lamelles, pied central et spores brun-pourpre à noir
+
+
+CS1,1$ CLÉ A  Champignons à lamelles, à pied central et spores blanches, creme ou jaunâtres
+1,0$ Avec une volve (ou restes de volve) à la base du pied $ Amanita 
+1,2$ Sans volve   
+
+2,0$ Pied avec anneau$ (a) Lepiota (la plupart) et apparentés
+2,0$ Pied avec anneau , chapeau tres visqueux 		$ Oudemansiella mucida
+2,0$ Pied avec anneau, Généralement en touffes		$ Armillaria mellea
+2,0$ Pied avec anneau , *****		$ Tricholoma cingulatum
+2,3$ Pied sans anneau
+
+3,0$ Endommagé, sécrète du lait , Gros à moyens $  Lactarius 
+3,0$ Endommagé, sécrète du lait , Petits à pied gracile $  Mycena (en partie) $f"mycene.cle"
+3,4$ Ne sécrétant pas de lait 
+
+4,0$ Chapeau et pied cassants, friables, moyens à gros 	$ Russula 
+4,5$ Ni cassants ni friables
+5,0$ Poussant sur les restes d'autres champignons $ Asterophora
+5,0$ Poussant sur les restes d'autres champignons $ Collybia tuberosa
+5,6$ Ne poussant pas sur des restes de  champignons        
+
+6,0$ Petits ( moins de 3 cm)  Sur les cônes de pin  $ Pseudohiatula et Baeospora 
+6,0$ Petits ( moins de 3 cm) Lames décurrentes $ Omphalina 
+6,0$ Petits ( moins de 3 cm) Chapeau conique, pied long et gracile $ Mycena $f"mycene.cle"
+6,0$ Petits ( moins de 3 cm)  allure lepiote $ Lepiota (en  partie)
+6,7$ Plus gros ( plus de 3 cm)
+7,0$ Lames décurrentes , épaisses, cireuses $ Hygrocybe et Hygrophorus
+7,0$ Lames décurrentes , réduites à de faibles rides $ Cantharellus 
+7,0$ Lames décurrentes  très émoussées, fourchues $ Hygrophoropsis aurantiaca
+7,0$ Lames décurrentes  minces, serrées $ Clitopilus Prunulus
+7,8$ Lames non décurrentes
+8 ,0$ Base longuement radicante	$ Oudemansiella radicata 
+8,9$ Sans base radicante
+9,0$ Pied cartilagineux		$ Collybia et proches 
+9,10$ Pied non cartilagineux		
+10,0$ Lames épaisses, cireuses		$ Hygrocybe (en partie) 
+10,11$ Lames non épaisses, cireuses
+11,0$ Poussant en touffes, pied soudé à la base $ Armillaria tabescens
+11,0$ en touffes, pied soudé à la base $ Flammulina velutipes
+11,0$ en touffes, pied soudé à la base $  Lyophyllum (en partie)
+11,0$ Pas en touffes  $ Tricholoma et proches  et Leucocortinarius bulbiger 
+
+CS2,1$  CLÉ B Champignons à lamelles, pied central, spores roses
+
+1,0$ Pourvu d'une volve à la base du pied	$ Volvariella 
+1,2$ Sans volve	
+2,0$ Lames décurrentes		$ Clitopilus 
+2,3$ Lames non décurrentes			
+3,0$Poussant sur le bois, Cuticule du chapeau épaisse, caoutchouteuse    $  Rhodotus
+3,0$Poussant sur le bois, Petit, bleu $  Leptonia euchroa
+3,0$Poussant sur le bois  $ Pluteus
+
+3,4$ Ne poussant pas sur le bois  
+
+4,0$ Lames mûres rose saumon , libres 	$  Pluteus 
+4,0$ Lames mûres rose saumon , soudées 	$ Entoloma et proches $f"entolome.cle"
+4,0$ Lames mûres non roses 	$ Lepista 
+
+CS3,1$ CLÉ C Champignons à lamelles, pied central et spores ocre à brun rouille
+
+1,2$ Spores ocre terne à brun, jamais brun rouille 
+1,3$ Spores rouille		
+2,0$ Pied avec un anneau et une base radicante $ Hebeloma radicosum
+2,0$ Pied avec un anneau sans base radicante  $ Agrocybe
+2,0$ Pied avec un anneau avec sphaigne $ Pholiota myosotis
+2,0$ Pied sans anneau, Chapeau fibreux, soyeux ou squameux, souvent conique $ Inocybe
+2,0$ Pied sans anneau, Chapeau souvent gluant $ Hebeloma
+3,0$ Pied très long mince, chapeau conique $Bolbitius vitellinus
+3,0$ Pied très long, mince, chapeau conique $ Conocybe
+3,0$ Pied très long, mince, chapeau conique $ Galerina (en partie)
+3,4$ Pied plus court, plus robuste 
+4,0$ Marge du chapeau enroulée, lames décurrentes	 $ Paxillus involutus
+4,5$ Marge du chapeau non enroulée, lames non décurrentes
+5,0$  sur le bois, les débris, le sol brûlé $ Galerina (en partie)
+5,0$  sur le bois, les débris, le sol brûlé $ Gymnopilus
+5,0$  sur le bois, les débris, le sol brûlé $  Pholiota
+5,6$  Ni sur bois, débris, ou sol brûlé
+6,0$ Types moyens à gros (ch. + de 3 cm de diam.) $ Rozites caperatus
+
+6,0$ Types moyens à gros (ch. + de 3 cm de diam.) $ Cortinarius (la pll.)
+6,0$ Petits (en général, chapeau de - de 3 cm de diam ) $  Naucoria et proches
+6,0$ Petits (en général, chapeau de - de 3 cm de diam ) $  Cortinarius (quelques-uns)
+
+CS4,1$ CLE D Champignons à lamelles, pied central et spores brun-pourpre à noir
+
+1,0$  Chapeau déliquescent  $  Coprinus (la plupart)
+1,0$  Chapeau déliquescent  Lames  larmoyantes  $ Lacrymaria
+1,2$ Non déliquescent
+
+2,0$ Chapeau et pied très cassants/fragiles  $ Psathyrella
+2,3$ Pas très cassants/fragiles
+3,0$ Lames tachetées, chapeau lisse	$ Panaeolus 
+3,4$ Lames non tachetées		
+
+4,0$ Lames très décurrentes  $ Gomphidius et Chroogomphus 
+4,5$Lames pas très décurrentes 
+5,0$ Avec un anneau persistant, lames libres  $ Agaricus 
+5,6$ Sans anneau persistant mais parfois des restes de voile sur le pied, lames adnées
+6,0$  Spores noirâtres 	 $ Lacrymaria et Coprinus
+6,0$  Spores brun-pourpre $ Hypholoma , Stropharia et proches 

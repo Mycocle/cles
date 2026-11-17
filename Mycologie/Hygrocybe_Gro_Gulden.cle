@@ -1,0 +1,35 @@
+titre $ Key to the species of Hygrocybe - Gro Gulden
+com$ Gro Gulden A preliminary guide to the macromycetes in the Finse area / GF 2011
+1,15$Genus Hygrocybe (Fr.) P. Kumm
+1,cs1$Species easy to recognise in the field:
+
+1,0 $ Flesh blackening, pileus ± acutely conic, red to orange, more rarely yellow $ H. conica
+1,2 $ Flesh not blackening, pileus convex to depressed
+2,0 $ Fruitbody extremely sticky, lamellae edge viscid, smell of burnt rubber $ H. laeta
+2,3 $ Different (not sticky etc.)
+3,4 $ Fruitbody with red shades
+3,5 $ Fruitbody without red shades
+4,0 $ Pileus bluntly conic to convex, smooth, ± viscid and shiny, red to orange, taste acrid (aftertaste) $ H. salicis-herbaceae
+4,0 $ Pileus convex-depressed, minutely scurfy (lens!), dry, matt, red to orange red, taste mild $ H. biminiata
+5,0 $ Lamellae adnate to shortly decurrent, pileus clear yellow $ H. ceracea
+5,6 $ Lamellae deeply decurrent, pileus yellow or otherwise coloured
+6,0 $ Pileus fleshy, 2-8 cm wide, pale yellow to apricot-yellow, not translucently striate $ H. pratensis
+6,7 $ Pileus thin-fleshed to membranous, 1-4 cm wide, mostly translucently striate when moist, variously
+7,0 $ Pileus whitish $ H. virginea
+7,8 $ Pileus with yellow, lilac or greyish colours
+8,0 $ Pileus grey with ± violet tinge, 2.5-4 cm wide, stipe white $ H. lacmus
+8,9 $ Pileus and stipe yellow or ± lilac
+9,0 $ Fruitbody lemon yellow, lilac shades absent $ H. citrinopallida
+9,0 $ Fruitbody deeper yellow and with ± lilac shades $ H. lilacina
+15,0$The fruitbodies are generally vividly coloured (yellow, lilac, orange or red) or whitish (H. virginea). Hygrocybe species are not supposed to be ectomycorrhizal. Most of the species found at Finse typically grow in acid ericaceous- or in lichens heaths, while some grow in grasslands and meadows – a more characteristic biotope for Hygrocybe species. ///The species belong in the three different subgenera, viz., Cuphophyllus Donk, Pseudohygrocybe Bon and Hygrocybe as circumscribed by Boertmann (1995) and Bon (1990). ///Hygrocybe citrinopallida, H. lilacina, H. biminiata, and H. salicis-herbaceae are restricted to, or more common in, arctic-alpine than in boreal-temperate regions
+
+
+
+cs1,0$
+
+1,0$– blackening flesh	$H. conica 
+1,0$–  orange-yellow to peach-coloured, dry, chanterelloid	$H. pratensis 
+1,0$– a small, white Hygrocybe	$H. virginea 
+1,0$– sticky, ochre to orange-brown, with viscid lamella edge	$H. laeta 
+1,0$– orange red, somewhat viscid, acrid (after)taste	$H. salicis-herbaceae 
+

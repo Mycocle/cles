@@ -1,0 +1,15 @@
+
+Rem -->COPRINUS SUBSECTION MICACEI
+Rem -->KEY TO THE SPECIES
+1,5$ type . 
+
+1,2 $ . Stipe smooth, caulocystidia absent; spores ellipsoid or ovoid.
+1,3 $ . Stipe pruinose, caulocystidia present; spores ovoid or mitriform.
+2,0 $ Pileus rather pale ochre-brown $ C. truncorum
+2,0 $ Pileus usually real ochre-brown, rust $ C. saccharinus
+3,0 $ Pleurocystidia abundant, oblong; spores ovoid $ C. pallidissimus
+3,4 $ . Pleurocystidia absent or very scarce and then only near lamellae-edge; spores ovoid or (sub)mitriform.
+4,0 $ Veil dark pinkish brown; spores ovoid or submitriform $ C. rufopruinatus
+4,0 $ Veil pale, whitish, cream or ochre; spores distinctly mitriform $ C. micaceus
+
+5,0$ Basidiocarps medium-sized, somewhat fleshy, pale ochre, rust or cinnamon; stipe 3-10 mm wide; veil made up of very small, scattered, granular flocks, not covering entire pileus when young, microscopically of (sub)globose, hyalin, thin-walled cells, not in chains; pileus subglobose to ovoid, only tardily expanding to campanulate (subsect. Micacei (Fr.) Uljé & Noordel.).$type micacei

@@ -1,0 +1,32 @@
+Titre$ Clé Otidea .fr .traduite de Ascomyceti d´Italia
+com$ adaptation et traduction de JC Verpeau / conversion GF sept 08
+privée
+1,cs1$ Hyménophore de couleur claire : jaune ou jaunâtre ; jaune-rougeâtre-orangé, ochracé, tout au plus brunâtre clair.$
+1,cs2$ Hyménophore de couleur plus sombre : brun avec des tons orange ou fauves ou olivâtres.
+
+
+Cs1,0$
+1,2 $ Paraphyses droites, de la longueur des asques ou à peine plus grandes
+1,3 $ Paraphyses à sommet courbé, en principe plus longues que les asques
+2,0 $ Apothécie cupulée ; hyménophore régulier et concave, jaune citron ou jaune soufre avec des tons ochracés ; spores 10-11x5-6 µm et paraphyses cylindriques. $ Otidea cantharella
+2,0 $ Apothécie cupulée ; hyménophore veiné, ochracé brunâtre ou couleur  chamois ; spores 11-12x5-6 µm et paraphyses monoliformes $ Otidea phlebophora
+3,0 $ Apothécie irrégulièrement cupulée-otidoïde, l'intérieur jaune-rougeâtre avec de légers reflets orangés ; spores 10-11,5x5,5 µm. $ Otidea onotica
+3,0,n $Apothèce 3-5 cm de hauteur, auriculoïde; face externe veloutée,  orange foncé; pied court, pubescent, blanc jaunâtre; habitat : sur sol riche des forêts de feuillus; été-automne.
+3,4 $ Apothécie d'une autre couleur et spores plus grandes ; plus ou moins otidoïde
+4,0 $ Spores 13-15x6-6,5 µm; hyménophore ochracé-brunâtre $ Otidea leporina 
+4,0,n $Apothèce 1-2,5 cm de hauteur, auriculoïde à spatulé; face externe glabre, concolore à l'hyménophore; pied court, incrusté de débris; habitat : parmi les mousses des forêts de conifères; automne.
+4,0 $ Spores 15-17 x6-7  µm; hyménophore jaunâtre-brunâtre $ Otidea grandis
+
+Cs2,0$
+1,0 $ Extérieur de l'apothécie ostensiblement rugueux ; hyménophore brun olivâtre ; Spores 15x6 µm $ Otidea bufonia
+1,2 $ Extérieur de l'apothécie toujours lisse ou pruineuse
+2,0 $ Spores 9-10 x 5-6 µm ; Hyménophore alutacé avec reflets rose-vineux ; superficie externe brunâtre $ Otidea microspora
+2,3 $ Spores plus grandes
+3,0 $ Spores 12-15x4,5-5 µm; Hyménophore brun plus ou moins clair $ Otidea alutacea
+3,0,n $Apothèce 1-3 cm de hauteur, 2-4 cm de diam., à côtés verticaux fendus souvent étroitement enroulés; face externe glabre, concolore à l'hyménophore; habitat : sur sol riche des forêts de feuillus, souvent au bord des chemins; été-automne.
+3,4 $ Spores plus grandes
+4,0 $ Spores 15-16x6 µm; Hyménophore brun. Carpophore, dès le début, profondément cupulé, enfin fissuré de haut en bas $ Otidea umbrina
+4,0,n $Apothèce 2-2,5 cm de hauteur, 2-4 cm de diam.; face externe glabre; habitat : solitaire ou densément grégaire dans les forêts de feuillus et conifères; automne.
+4,5 $ Spores plus grandes, couleurs diverses mais carpophore non profondément cupulé au début…
+5,0 $ Spores 18-20x9-10,5 µm ; apothécie typiquement otidoïde, hyménophore brun noisette avec reflets orangés $ Otidea propinquata
+5,0 $ Spores 17-19x10-12 µm ; apothécie de cupulée à otidoïde avec hyménophore brun sombre, parfois veinée au fond. $ Otidea cochleata

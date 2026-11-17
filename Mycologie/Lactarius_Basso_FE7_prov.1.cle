@@ -1,0 +1,164 @@
+titre$ Lactarius MT Basso  / temporaire
+com$  adapt GF 2012 etc 
+rem$LANGUE$Italien
+
+1,0$ remarque : cette adaptation au format Cle est en cours de construction///les résultats renvoient à la page de l'ouvrage
+1,0$ Source : Lactarius Fungi Europaei 7 by Basso, M.T.
+1,0$
+
+ µm
+1,cs1 $ Specie con cappello viscido o anche viscoso, glutinoso, oppure se asciutto allora glassato e/o lucido, anche talvolta zonato o guttulato, ma non rugoloso o granuloso ne vellutato, spesso peloso o almeno pubescente al margine, gambo talvolta con guttule o scrobicoli, sapore spesso acre o anche sgradevole e amaro. Epicute tipo ixocute o ixotricoderma con pigmento spesso incrostante a granuli, spore zebrate, sub-reticolate o reticolate $ Piperites pag. 64$s"Piperites"
+1,2 $ Specie con cappello asciutto
+2,4 $ Cappello granuloso o anche grinzoso, opaco o con aspetto grasso
+2,5 $ Cappello vellutato, opaco anche con L'umido, non igrofano
+2,3 $ Non con questi caratteri
+3,cs4 $ Cappello liscio con aspetto grasso ed appena lucido con L'umido oppure finemente squamuloso, con colori vivaci, ± brillanti, latice bianco immutabile o talvolta ingiallente, sapore generalmente non acre. Epicute tipo cute con tendenza a tricoderma allora con pigmento membranario extracellulare liscio o a granuli ; tricoderma talvolta debolmente gelificata, o mista, anche con elementi ingrossati nella subcute, spore da crestate a sub-reticolate o reticolate $ Russularia pag. 456 $s"Russularia"
+4,cs3 $ Specie con cappello bianco, carnoso c sodo, lamelle bianche e fitte, sapore acre  Epicute tipo cute o tendente a mista, con sferociti nella subcute, spore con ornamentazioni poco marcate, sottili e difficoltose da osservare, cistidi sub-cilindrici $ Lactarius pag. 722$s"Lactarius"
+4,cs11 $ Cappello nelle tonalità del bruno, da fulvo-ocraceo lino a bruno-rossastro o bruno scuro, latice acquoso o bianco, talvolta lentamente c/o debolmente ingiallente, alcune specie con odore sgradevole, sapore non acre. Epicute tipo pseudo parenchimatico, anche con qualche terminate sub-cilindrico o subclaviforme, spore subglobose da verrucose a crestato-subreticolate oppure ellittiche subreticolate, cistidi talvolta assenti, presenti solo cellule marginali $ Rhysocybella pag. 563$s"Rhysocybella"
+5,cs5 $ Specie con colori bianchi o araneio-rossastri, grandi e carnose, latice bianco immutabile o che vira al bruno anche con sfumature lilacina. Epicute tipo tricoderma o palizzata con ife a pareti spesse, talvolta con sferociti nella subcute, spore con ornamentazioni poco marcate, difficoltose da osservare, cistidi non acuminati $ Lactifluus pag. 691$s"Lactifluus"
+5,cs6 $ Specie nei toni del bruno, da camoscio a grigio-bruno fino a bruno-nerastro, latice bianco che vira al rosa, rosa-rossastro, mattone Epicute tipo virescens o raremente imeniderma, spore generalmente con ornamentazioni formate da alte creste anche alate, assenti veri cistidi, presenti solo peli marginali $ Plinthogalus pag. 637$s"Plinthogalus )"
+
+cs1,0$ piperites
+
+1,0$ Specie dal colore scuro : nero-olivaceo, bruno-olivaceo, con reazione porpora al KOH $ Atroviridi pag. 66
+1,2$ Non con questi caratteri
+2,3$ Latice all'inizio bianco
+2,cs10$ Latice all'inizio coloralo, arancio, rosso vinoso o anche in parie blu, cappello colore arancio, arancio-rossastro, zonato e/o guttulato, con aspetto glassato, spesso inverdente, sapore non acre, generalmente associate a conifere.///Epicute tipo ixotricoderma, filo lamellare sterile, spore ellittiche da crestate a subreticolate $ Dapetes pag. 251$s"Dapetes"
+3,4$ Latice bianco immutabile o che vira al giallo
+3,5$ Latice che vira ad altri colori
+4,cs14$ Cuticola liscia, glabra o solo debolmente pubescente al margine, colore da biancastro a ocraceo-arancio, con zonature e guttule ± evidenti, sapore acre o sgradevole, habitat generalmente latifoglie. Epicute tipo ixocute, spore crestate o talvolta crestato-subreticolate $ Zonarii pag. 315
+4,0$ Cuticola con aspetto bambagioso e con peli più o meno lunghi, talvolta limitati al margine, anche riuniti a ciuffi, agglutinali, o con squamule irsute, colore biancastro, rosa, ocraceo e giallo, sapore acre, habitat betulle e conifere quindi distribuzione nordica, o quercia e cisto in area mediterranea.///Epicute tipo ixocute-ixotricoderma, con ife riunite a grandi fasci, spore subreticolate o reticolate $ Piperites pag. 371
+5,cs16$ Latice che vira al lilla-violaceo, cappello viscido, raramente zonato, talvolta con margine pubescente o tomentoso, colori lividi, grigio-bruno- violacei o gialli.///Epicute tipo ixocute-ixotricoderma, pigmento ben evidente, sia extracellulare che intracellulare a granuli, spore ellittiche da crestate a subreticolate $ Uvidi  pag. 186 $s"Sottosezione Uvidi"
+5,0$ Latice che essicca sulle lamelle in gocce grigio-brune, grigio-verdognole, cuticola glutinosa o viscida, glabra, talvolta zonata, colori smorti, grigi, bruni, verdognoli o anche pallidi.///Epicute tipo ixocute-ixotricoderma, anche fortemente gelificato, generalmente con pigmento extracellulare incrostante a granuli anche piuttosto grandi, spore zebrate o subreticolate $ Glutinosi  pag. 75
+
+
+cs3,0$Lactarius pag. 722
+1,0$ Latice bianco immutabile anche con KOH, crema-giallognolo essiccato sulle lamelle, cappello con cuticola bucherellata e rugolosa concentricamente verso il bordo, pilcipellis senza dermatocisti, con un sottile strato di ife filamentose 10-40 |µm, spore subreticolate $. L. piperatus
+1,0$ Latice bianco, giallo-arancio con KOH, verdognolo essiccato sulle lamelle, cappello con cuticola liscia, pileipellis spesso con dermatocistidi, strato di ife filamentose 60-100  µm, spore verrucoso-crestate $. L. glaucescens
+
+
+cs4,0$Russularia pag. 456
+1,2$ Specie con odore intenso e spesso sgradevole
+1,0$ Specie senza odori particolari, piccole, colori da fulvo-rossastri a bruni, margine striato, latice scarso talvolta anche ingiallente ± lentamente, habitat in luoghi umidi e ombrosi, generalmente ontano, cuticola asciutta e finemente granulosa (lente !), igrofana, epicute tipo pseudoparenchimatico, spore largamente ellittiche subreticolate, solo in una specie verrucose $ Rhysocybella pag. 608
+2,0$ Specie con veri cistidi, cuticola marcatamente rugoso-grinzosa, odore di scleroderma o L. cristata, specie piuttosto robuste e carnose, latice bianco un po' acquoso, immutabile o lentamente ingiallente isolato, epicute di tipo misto con sferociti ed elementi imeniformi frammisti, subcute con sferociti, spore verrucose o verrucoso-crestate $ Ichorati pag. 564
+2,0$ Specie senza veri cistidi, con cellule marginali o peli, cuticola più o meno granulosa o un po' grinzosa, specie poco carnose di taglia piuttosto piccola, odore intenso di cimice o di cicoria tostata, foglie di edera, epicute di tipo pseudoparenchimatico talvolta con qualche terminale sub-cilindrico, spore subglobose, subreticolate $ Olentes pag. 580
+
+cs5,0$Lactifluus pag. 691
+
+1,0$ Cappello bianco, biancastro o appena giallognolo, latice marcatamente imbrunente, spore verrucose, macrocistidi a guisa di peli a pareti spesse e capitolati $. L. luteolus
+1,2$ Cappello arancio, fulvo
+2,0$ Macrocistidi presenti, spore subglobose reticolate con creste spesse, reazione verde con FeS04, lamelle fitte macchiate di bruno sulle lesioni, odore intenso e sgradevole di aringhe $. L. volemus
+2,0$ Macrocistidi assenti, spore oblunghe reticolate con creste sottili, reazione rosa con FeS04, lamelle spaziate crema-biancastre, poco imbrunenti, odore leggero e gradevole $. L. Rugatus
+
+
+cs6,0$Plinthogalus pag. 637
+
+1,0$ Latice che vira rapidamente al rosa corallo anche isolato dalla carne, cappello viscido o lucido, con colore caffellatte-biancastro non uniforme, carne con sapore acre, spore con creste piuttosto alte ed arrotondate, habitat latifoglie $. L. acris
+1,2$ Latice che vira al rosa più o meno intenso e con tempi variabili, ma immutabile isolato
+2,3$ Specie associate a conifere, con colorazione pileica bruno-fuligginea, bruno-nerastra di cappello e gambo, viraggio della carne lento e debole, al rosa-ruggine non uniforme, se habitat conifere ma colori meno scuri vedere L. fuliginosus
+2,4$ Specie associate a latifoglie, con colorazione pileica nei toni del bruno più meno scuro ma non fuliggineo-nerastri
+3,0$ Cappello marcatamente rugoloso-grinzoso, spesso papillato, portamento slanciato, non molto carnoso, lamelle bianche che segnano la decorrenza sul gambo, epicute tipo pseudoparenchimatico-imeniderma, con terminali di varie forme e dimensioni, pigmento citoplasmatico e vacuolare $. L. lignyotus
+3,0$ Cappello liscio, carnoso, sodo, portamento piuttosto tozzo, lamelle adnate o appena subdecorrenti, epicute tipo virescens, con terminali a guisa di peli che hanno un pigmento vacuolare bruno-nerastro addensato alla sommità $. L. picinus
+4,5$ Cappello uniformemente colorato, da bruno-camoscio a bruno scuro, anche rugoloso o crenulato al margine
+4,8$ Cappello da caffelatte a bruno-grigiognolo non uniforme, con macchie biancastre o crema-ocracee, o anche interamente bianco
+5,0$ Cappello con evidente rugolosità radiale, di colore camoscio-ocraceo, gambo biancastro o camoscio pallido, lamelle fitte, carne acre che vira rapidamente al rosa intenso, spore con creste alate alte fino a 3  µm , avvolgenti ma non intersecanti $. L. pterosporus
+5,6$ Cappello non rugoloso o solo debolmente al disco con l'età, di colore più scuro
+6,0$ Viraggio della carne piuttosto rapido ed intenso, spore reticolate con creste alte fino 0,8  µm , sapore acre, cappello bruno e gambo concolore, lamelle ocracee un po' spaziate, latifoglie ma talvolta anche in conifera $. L. fuliginosus
+6,7$ Viraggio della carne debole e lento, non uniforme, spore con creste alte fino a 2  µm 
+7,0$ Spore reticolate, cappello non o solo debolmente crenulato al margine, sapore debolmente acre $. L. romagnesii
+7,0$ Spore crestate o appena subreticolate, margine profondamente crenulato, sapore amarescente $. L. ruginosus
+8,0$ Sapore mite, odore di cocco, cappello colore camoscio-brunastro, nocciola- brunastro a macchie biancastre o crema-ocracee, spore subreticolate, creste fino 2,5 (µm, habitat latifoglie, soprattutto faggio $. L. subruginosus
+8,9$ Sapore acre
+9,0$ Cappello bruno-grigiognolo, spesso a macchie crema-biancastre, non rugoloso, gambo bianco, spore crestate, fino a quasi subreticolate, creste alte fino 1,5  µm $. L. azonites fo. azonites
+9,0$ Cappello e gambo bianchi $. L. azonites fo. virgineus
+
+------------
+cs7,0$ Atroviridi pag. 66
+
+
+
+cs10,0$ dapetes  deliciosini
+
+1,2 $ Habitat Pinus sp.
+1,4 $ Habitat Abies alba o Picea abies
+2,3 $ Latice arancio immutabile
+2,0 $ Latice arancio poi rossastro (5-10 min.), cappello viscido, arancio macchiato di verdastro, zonato al margine, habitat pino su suolo calcareo, spore crestate $. L. semisanguifluus
+3,0 $ Cappello da arancio ad arancio-rossastro, spore crestate $. L. deliciosus
+3,0 $ Cappello grigio-bruno-violaceo, spore reticolate $. L. quieticolor
+4,5 $ Cappello non zonato o solo limitatamente al margine
+4,0 $ Cappello marcatamente zonato, grigio-violaceo, latice arancio poi rossastro, sotto Picea abies, pleurocistidi molto rari, spore subreticolate $. L. fennoscandicus
+5,0 $ Cappello arancio-salmone, non inverdente, viscido, sotto Abies alba $. L. salmonicolor
+5,0 $ Cappello arancio, fortemente inverdente, poco viscido, zonatura marginale, sotto Picea abies $. L. deterrimus
+
+cs11,0$Sottogenere Rhysocybella
+1,2$ Specie con odore intenso e spesso sgradevole
+1,0$ Specie senza odori particolari, piccole, colori da fulvo-rossastri a bruni, margine striato, latice scarso talvolta anche ingiallente ± lentamente, habitat in luoghi umidi e ombrosi, generalmente ontano, cuticola asciutta e finemente granulosa (lente !), igrofana, epicute tipo pseudoparenchimatico, spore largamente ellittiche subreticolate, solo in una specie verrucose $ Rhysocybella pag. 608
+2,cs12$ Specie con veri cistidi, cuticola marcatamente rugoloso-grinzosa, odore di scleroderma o L. cristata, specie piuttosto robuste e carnose, latice bianco un po' acquoso, immutabile o lentamente ingiallente isolato, epicute di tipo misto con sferociti ed elementi imeniformi frammisti, subcute con sferociti, spore verrucose o verrucoso-crestate $ Ichorati pag. 564
+2,0$ Specie senza veri cistidi, con cellule marginali o peli, cuticola più o meno granulosa o un po' grinzosa, specie poco carnose di taglia piuttosto piccola, odore intenso di cimice o di cicoria tostata, foglie di edera, epicute di tipo pseudoparenchimatico talvolta con qualche terminale subcilindrico, spore subglobose, subreticolate $ Olentes pag. 580
+
+
+
+cs12,0$ Ichorati pag. 564
+ichorati
+
+1,0$ Latice bianco immutabile, cappello ocraceo-fulvastro, fulvo, fulvo- rossastro pallido, presto impallidente e con macchie color ruggine, gambo con zona anulare rossastra all'attaccatura delle lamelle, epicute mista- pseudoparenchimatica con pigmento citoplasmatico, spore crestate $. L. rubrocinctus
+1,2$ Latice ± lentamente ingiallente isolato
+2,0$ Cappello bruno-fulvo, fulvo-arancio scuro, anche bruno rossastro, gambo non cerchiato di rosso alla sommità, epicute di tipo misto- pseudoparenchimatico, con pigmento membranario liscio e a spirale, spore verrucose o solo con rare creste brevi $. L. britannicus fo. britannicus
+2,0$ Cappello con colore più brillante, latice ingiallente ± lentamente, cuticola di tipo pseudoparenchimatico (subcute) e tendente a tricoderma-mista spore verrucoso-crestate $. L. britannicus fo. pseudofulvissimus
+---------
+ 
+
+cs14,0$ sections zonarii 
+1,2$ Specie dal cappello glabro, asciutto e glassato 0 appena viscido con lI'umido, con zonature, guttule 0 scrobicoli, ocraceo-giallognolo, giallognolo-aranciato, fulvo-rosato, latice bianco che vira anche isolato al giallo-solforino 0 giallo-ocraceo, pileipellis tipo ixocute poco gelificata$Sottosezione Croceini
+1,cs15$ Specie dal cappello più 0 meno viscido, zonate. colare da bianco, crema-giallognolo a fulvoarancio, latice bianco immutabile 0 grigio-verdognolo quando essicca sulle lamelle, pileipellis da ixocute ad ixotricoderma $Sottosezione Zonarii
+
+SOTTOSEZIONE CROCEINI
+2,0$Cappello 4-8 cm, fulvo-arancio, fulvo-rosato, arancio-rosato, glassato, con zonature e/o guttule scure, latice e carne bianchi rna rapidamente giallosolforino, epicute tipo ixocute senza dermatocistidi, spore 6-8 x 5-6,5  µm  $. L. chrysorrheus 
+2,0$ Cappello 5-12 cm, crema-giallognolo, ocraceo-giallognolo, con scrobicoli particolarmente al margine, viraggio di latice e carne crema-giallognolo, giallognolo-ocraceo meno rapido ed intenso, epicute tipo ixocute con derrnatocistidi, spore 9,5-12,5 x (7,5) 8-9,5 $. L. mediterraneensis
+--------
+
+cs15,0$Sottosezione Zonarii p 331
+1,2 $ Cappello da giallognolo a arancio, zonato
+1,5 $ Cappello bianco 0 almeno al margine, crema, crema-ocracco, debolmente  e/o solo marginal mente zonato
+2,3 $ Lamelle crema, crema-giallognole non anastomosate, basidi tetrasporici,  spore circa 8-9,5 x 6,5-7,5  µm 
+2,0 $ Lamelle crema-rosate anastomosate al gambo, basidi bisporici, spore  grandi, 10-14,5 x 8,5-11 µm , habitat quercia e carpino $. L. acerrimus
+3,0 $ Habitat larice, odore di buccia di mandarino, cappello fulvo-arancio, arancio-rossastro, sapore mite $. L. porninsis
+3,4 $ Habitat differente, odore fruitato banale
+4,0 $ Habitat latifoglie, generalmente quercia, 8-9 x 6,2-7,5  µm , caulocute tipo cute $. L. zonarius
+4,0 $ Habitat Picea 0 Abies, spore 8-10 x 6,3-8  µm , caulocute tipo ixocute $. L. zonarioides
+5,6 $ Lamelle bianche 0 crema
+5,0 $ Lamelle rosa, cappello bianco, con zonature marginali e con chiazze rosavinacee  particolarmente al centro, spore piccole, 5,5-6 (7,5) x 4-5 (5,5)  µm ,  caulocute tipo tricoderrna, habitat latifoglie, particolarmente castagno e pioppo $. L. controversus
+6,0 $ Cappello carnoso e sodo, piano-convesso, crema-avorio verso il bordo, al disco  da biancastro a crema-ocraceo, arancio-ocraceo, non uniforme, con margine e  chiazze biancastri, lamelle bianche, rosa-grigiognole sulle lesioni, spore 7,2-9 x  6-6,5  µm  crestato-subreticolate, epicute tipo ixocute, habitat pioppo e quercia $. L. evosmus
+6,0 $ Cappello poco carnoso ed elastico, imbutiforme, giallognolo-ocraceo  pallido, crema-ocracco uniforme, lamelle grigiognole nelle lesioni, spore 68  x 5-6,5 (7)  µm , con reticolo geometrico, epicute tipo ixocuteixotricoderrna,  habitat faggio, quercia, castagno $. L. illyricus
+
+
+----------------
+cs16,0$UVIDI p 187
+SOTTOSEZIONI  
+1,cs17$Specie con colorazione pileica nei toni del bruno, grigio e violaceo Sottosezione Uvidini $$s"Sottosezione Uvidini"
+1,cs18$Specie con colorazione pileica da crema-biancastro, a giallo-cromo Sottosezione Aspideini$$s"Sottosezione Aspideini  "
+
+cs17,0$UVIDINI p 187 
+1,2 $ Pigrnento extracellulare incrostante a granuli
+1,3 $ Pigmento intracellulare vacuolare
+2,0 $ Cappello con zonature piuttosto marcate e scure, grigio-bruno-lilaceo,  viraggio di latice e carne al violaceo scuro, spore aculeato-crestata,  ornamentazioni fino a 1,5  µm , epicute tipo ixotricoderma, spessore 90-250   µm , caulocute tipo cute, habitat latifoglie, suolo calcareo $. L. violascens
+2,0 $ Cappello non zonate, crema-grigiastro livido a bruno-violaceo, talvolta con  macchi crema-ocracee al centro, viraggio di carne e latice al violaceo,  grandi spore reticolate, ornamentazioni fino 0,5  µm , epicute tipo ixocuteixotricoderrna,  spessore 160-220  µm , habitat mediterraneo, sotto cisto $. L. cistophilus
+3,4 $ Specie di taglia piccola, habitat artico-alpino
+3,5 $ Specie di taglia media, habitat differente
+4,0 $ Cappello crema-grigiognolo, nocciola, viraggio di latice e carne al lilacinoviolaceo  pallido, spore crestato-subreticolate anche con fini connettivi,  ornamentazioni fino 1  µm , epicute tipo ixotricoderma, spessore 150-300  µm  $. L. pseudouvidus
+4,0 $ Cappello bruno-grigio-rossastro, bruno-violacco, grigio-bruno-violaceo,  spesso con papilla acuta, cuticola viscida ed anche viscosa con I'umido,  viraggio di carne e latice al violaceo, porpora-violaceo, spore  subreticolate, ornamentazioni fino 0,6  µm , epicute tipo ixocuteixotricoderrna, spessore 60-1 00  µm   $. L. robertianus
+5,0 $ Cappello non zonate, colore pallido, crema-lilacino, lilacino-giallognolo  livido, glutinoso, viraggio di latice e carne al lilacino, spore crestate senza  fini connettivi, ornamentazioni fino 0,8  µm , epicute tipo ixotricoderma,  spessore 300-500  µm , habitat Picea e Betula $. L. uvidus
+5,0 $ Cappello con guttule scure, disposte sia concentricamente che  irregolarmente, colore crema-grigiastro, anche argenteo, sfumato di  violaceo, viraggio di carne e latice al porpora-violaceo scuro, spore  crestato-reticolate, ornamentazioni fino a I  µm , epicute tipo ixocute-ixotricoderma,  spessore 70-160  µm , habitat latifoglie $. L. luridus
+
+
+
+cs18,0$ SOTTOSEZIONE ASPIDEINI
+1,2 $ Specie di taglia piccola, poco carnose, cappello non zonato, non 0 solo  tal volta leggermente pubescenti al margine, colori nei toni biancastro-giallognoli  non brillanti, viraggio lento, lilacino 0 lilacino violaceo  pallido, habitat sotto salici
+1,3 $ Non con questi caratteri
+2,0 $ Habitat luoghi umidi con salici (non salici nani), cappello biancastro-giallognolo,  lamelle fitte crema-gialline, spore con reticolo incompleto 7,5-9  x 6,2-7 (-8,2), epicute tipo ixocute-ixotricoderma, caulocute tipo ixocute $. L. aspideus
+2,0 $ Habitat zona artico-alpina, con Salix herbacea, cappello giallognolo-ocraceo,  portamento da piccola russula, lamelle ± spaziate, cremabiancastre,  crema-giallognole, spore crestato-subreticolate 8,5-9,8 x 6,5811m,  epicute tipo ixocute, caulocute tipo cute $. L. salicisherbaceae
+2,0 $ Habitat zona artico-alpina, con Salix reticulata, cappello crema-giallino,  anche solforino, lamelle fitte, crema con toni rosati, spore crestate 9,511  x 8-9,5  µm , epicute e caulocute tipo ixocute $. L. salicis-reticulatae
+3,0 $ Margine del cappello nudo 0 solo leggermente pubescente nel giovane,  taglia media, cappello ± zonato 0 guttulato, colore giallognolo, ocraceo-giallognolo,  con guttule di colore pili scuro, viraggio al violaceo scuro,  violaceo-nerastro, epicute tipo ixotricoderma, spore crestate 8-10,5 x 68   µm , ornamentazioni fino 1,5  µm  $. L. flavidus
+3,4 $ Cappello, 0 anche solo il margine, tomentoso 0 lanoso
+4,0 $ Cappello con peli anche riuniti a ciuffi e agglutinati, taglia grande, colore giallocromo,  giallo-miele, gambo concolore con evidenti scrobicoli discolori,  lamelle crema, crema-ocracee, viraggio lilla-violaceo scuro, epicute tipo  ixocute-ixotricoderma con ife fascicolate con pigmento extracellulare a fini  granuli, caulocute tipo ixotricoderma, habitat Picea, Betula $. L. repraesentaneus
+4,0 $ Cappello liscio con margine tomentoso (fino 2 mm) almeno net giovane,  viscoso-glutinoso, taglia grande, colore crema-biancastro, crema giallognolo,  gambo corto, crema-biancastro, con scrobicoli poco visibili,  concolori, lamelle crema-giallognole poi ocraceo-salmone, viraggio  lilacino-violaceo pallido, epicute tipo ixotricoderma con pigmento  vacuolare, caulocute tipo ixocute, habitat alpino, specialmente Drvas $. L. dryadophilus

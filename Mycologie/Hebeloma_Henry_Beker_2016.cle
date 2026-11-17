@@ -1,0 +1,374 @@
+Titre$ H E B E L O M A   Henry BEKER & All  -  Fungi Europeae 14  -  2016
+Com$   Adaptée par Paul Bertéa 12/2017 - 07/10/2018
+
+1,0 $ Lames de teinte nettement rosée, sporée d'une nuance nettement rougeâtre (Chap. XIII) $ H. porphyrosporum $s"sect. Porphyrospora"
+1,0, N$///La synonymie avec H. sarcophyllum d'Amérique du Nord, n'est pas reconnue contrairement à la plupart des auteurs.///L'odeur très forte évoque les châtaignes grillées (obs. personnelle).
+1,2 $ Lames sans teinte rosée, sporée isabelle, olive brunâtre, ombre à brun sépia ou blanchâtre
+1,0 $ Codes et dessins $$f"Hebeloma_Henry_Beker_2016_Annexe.pdf"
+1,0 $$
+1,0 $  * Clé des sols brûlés $$f"Hebeloma_Henry_Beker_2016_Sols brûlés.cle"
+1,0 $  * Clé des dunes $$f"Hebeloma_Henry_Beker_2016_Dunes.cle"
+1,0 $  * Clé des cistes $$f"Henry Beker_2016_Cistes.cle"
+1,0 $  * Clé des régions alpine et arctique $$f"Hebeloma_Henry_Beker_2016_Alpin et Arctique.cle"
+1,10 $  * Habitats préférentiels
+1,0 $$
+
+2,cs1 $ Basidiomes à odeur agréable de sucre brûlé, "odeur d’Hebeloma sacchariolens" (Chap. XII) $ section Sacchariolentia $s"sect. Sacchariolenta"
+2,3 $ Basidiomes ne présentant pas cette odeur particulière [agréable de sucre brûlé]
+
+3,0 $ Espèces poussant sur sol brûlé. Spores fortement dextrinoïdes, en moyenne <= 10,0 x 6,0 µm et rapport moyen B/M des cheilocystides  >= 1,25 (Chap. XIII) $ H. pseudoamarescens $s"sect. Pseudoamarescens"
+3,4 $ Espèces ne poussant pas sur sol brûlé, ou si sur sol brûlé, alors ne satisfaisant pas aux autres caractères [Spores fortement dextrinoïdes, en moyenne <= 10,0 x 6,0 µm et rapport moyen B/M des cheilocystides >= 1,25]
+ 
+4,cs2 $ Basidiomes avec cortine (parfois persistante, parfois fugace), cheilocystides pour la plupart nettement ventrues (Chap. VII) $ section Hebeloma $s"sect. Hebeloma"
+4,5 $ Basidiomes sans cortine ou, si cortine présente, cheilocystides pour la plupart non ventrues
+
+5,6 $ Basidiomes non radicants, sans anneau membraneux, à chapeau non pruineux si associés aux Cistus. Longueur moyenne des cheilocystides >= 40 µm. Cheilocystides constamment légèrement clavées, clavées-stipitées, clavée-ventrues, ventrues ou un mélange de ces formes
+5,7 $ Basidiomes radicants ou avec un anneau membraneux, ou spores cylindriques, ou à chapeau pruineux si associés aux Cistus, ou cheilocystides plus ou moins cylindriques, ou très irrégulières ou de longueur moyenne < 40 µm
+
+6,cs5 $ La plupart des cheilocystides légèrement clavées ou ventrues, ou au moins 80 lames entières (L) et spores fortement dextrinoïdes (D3 ou D4) $ sections Sinapizantia & Velutipes $s"sect. Sinapizantia & Velutipes"
+6,cs6 $ La plupart des cheilocystides clavées-stipitées ou clavées-ventrues ; si 80 lames entières (L) ou plus, alors spores faiblement dextrinoïdes (max. D2) (Chap. VIII) $ section Denudata $s"sect. Denudata"
+
+7,cs12 $ Basidiomes avec un anneau membraneux ou distinctement radicant ou spores cylindriques ou cheilocystides plus ou moins cylindriques ou extrêmement irrégulières (pas associés aux Cistaceae) (Chap. X) $ sections Duracinus, Myxocybe, Naviculospora, Scabrispora & Syrjense $s"sect. Duracinus, Myxocybe, Naviculospora, Scabrispora & Syrjense"
+7,cs13 $ Basidiomes non radicants ; pas d'anneau membraneux ; spores non cylindriques ; la plupart des cheilocystides nettement clavées-ventrues et soit de moins de <= 40 µm de longueur, soit associés aux Cistaceae (Chap. XI) $ section Theobromina $s"sect. Theobromina"
+
+10,0$ Bords de chemins
+10,0,N$///H. aaenii///H. aestivale///H. capipes///H. celatum///H. crustuliniforme///H. eburneum///H. erebium///H. geminatum///H. helodes///H. hiemale///H. laterinum///H. mesophaeum///H. pseudofragilipes///H. sacchariolens///H. sinapizans///H. subtortum///H. velutipes
+10,0 $ Terrils
+10,0,N$///H. aaenii///H. birrus///H. cavipes///H. cylindrosporum///H. danicum///H. dunense///H. eburneum///H. erbium///H. fragilipes///H. geminatum///H. hiemale///H. ingratum///H. ischnostylum///H. laterinum///H. leucosarx///H. luteicystidiatum///H. lutense///H. mesophaeum///H. nauseosum///H. nigellum///H. odoratissimum///H. pseudofragilipes///H. pusillum///H. sacchariolens///H. salicicola///H. velutipes
+10,0 $ Sphaignes
+10,0,N$///H. hygrophilum///H. incarnatulum///H. leucosarx///Possibles :///H. nigellum///H. pumillum///H. sordescens
+
+
+
+CS1,0 $     Key Fg. - Cle des Hebeloma, section Sacchariolentia
+
+1,2 $ Largeur moyenne des spores <= 7 µm
+1,4 $ Largeur moyenne des spores > 7 µm
+
+2,0 $ Q moyen des spores <= 1,8 ou chapeau nettement de teinte chamois, miel ou brune, au moins au centre $ H. sacchariolens
+2,3 $ Q moyen des spores > 1,8 et chapeau presque uniformément coloré de crème à ivoire
+
+3,0 $ Largeur moyenne des spores >= 6,4 µm ou longueur moyenne des spores > 12 µm $ H. fusisporum
+3,0 $ Largeur moyenne des spores < 6,4 µm et longueur moyenne des spores <= 12 µm $ H. ischnostylum
+
+4,0 $ Chapeau sec, tomenteux ou velouté, se craquelant souvent en fines écailles $ H. odoratissimum
+4,0 $ Chapeau légèrement ou nettement visqueux, entièrement lisse ou seulement un peu velouté vers la marge $ H. nauseosum
+
+CS2,0 $      Key Fb. Cle des Hebeloma, section Hebeloma
+
+1,cs3 $ Espèces alpines ou arctiques, associées aux Salix ou aux Dryas
+1,cs4 $ Espèces ni alpines, ni arctiques, associées à divers hôtes
+
+
+CS3,0 $     KEY H1 - Espèces alpines ou arctiques, associées aux Salix ou aux Dryas
+
+1,5 $ Spores amygdaliformes, dextrinoïdité de type D2 ou D3
+1,2 $ Spores faiblement dextrinoïdes (D0 ou D1), amygdaliformes ou non
+
+2,0 $ Nombre de lames entières (L) < 30 et chapeau feutré, revêtu de poils court et souples $ H. pubescens
+2,3 $ Nombre de lames entières >= 30 ou, si < 30, chapeau avec tout au plus quelques poils à la marge
+
+3,0 $ Longueur moyenne des spores <= 10 µm ou largeur moyenne < 6 µm. Spores ellipsoïdes, rarement amygdaliformes $ H. mesophaeum
+3,0,N$ Synonymes :///H. strophosum///H. mesophaeum var. strophosum///H. caespitosum///H. cinereum///H. repandum///H. bruchetii///H. mesophaeum var. crassipes///H. subcollariatum///H. versipelle ssp. mesophaeum
+3,4 $ Longueur moyenne des spores > 10 µm et largeur moyenne >= 6 µm, ou, si spores plus petites, alors la plupart ellipsoïdes mais nombreuses spores amygdaliformes ; toujours avec Salicaceae
+
+4,0 $ Spores avec une ornementation évidente bien que parfois peu prononcée (O1-O2) et réaction faible mais nette dans le réactif de Melzer (D1) $ H. dunense
+4,0,N$ Synonymes : ///H. collariatum///H. collariatum f. aprile///H. subcaepistosum///H. psmammicola///H. subcaepistosum var. psammicola///H. collariatum f. psammicola///H. aprile///H. xerophyllum///H. claviceps f. nigrescens///H. remyi
+4,0 $ Spores quasi lisses, même à l’immersion (O1) ou absolument non dextrinoïdes (D0) $ H. marginatulum
+4,0,N$ Synonyme///H. polare
+
+5,0 $ Nombre de lames entières (L) >= 40 $ H. oreophilum
+5,6 $ Nombre de lames entières (L) <40
+
+6,0 $ Longueur moyenne des spores >= 15 µm $ H. grandisporum
+6,7 $ Longueur moyenne des spores < 15 µm
+
+7,0 $ Spores nettement papillées ; nombreuses spores limoniformes $ H. fuscatum
+7,8 $ Spores non ou faiblement papillées ; spores rarement limoniformes
+
+8,0 $ Largeur moyenne des spores <= 7,5 µm $ H. nigellum
+8,0,N$ Synonymes:///H. atrobrunneum///H. kuehneri
+8,0 $ Largeur moyenne des spores > 7,5 µm $ H. spetsbergense
+
+
+Cs4,0 $   Key H2 - Espèces ni alpines, ni arctiques, associées à divers hôtes
+
+1,6 $ Spores amygdaliformes et dextrinoïdité de type D2 ou D3
+1,2 $ Spores faiblement dextrinoïdes (D0 ou D1), amygdaliformes ou non
+
+2,0 $ Espèces liées aux Cistaceae, spores amygdaliformes et ellipsoïdes en mélange $ H. cistophilum
+2,3 $ Espèces non liées aux Cistaceae, ou, si liées aux Cistaceae, alors spores non en mélange
+
+3,4 $ Longueur moyenne des spores <= 10 µm ou largeur moyenne < 6 µm et spores rarement amygdaliformes ; espèces associées à divers arbres et arbustes
+3,5 $ Longueur moyenne des spores > 10 µm et largeur moyenne >= 6 µm ou, si spores plus petites, alors nombreuses spores amygdaliformes ; toujours en association avec Salicaceae ou Pinaceae
+
+4,0 $ Spores jaune pâle et souvent ovoïdes, nombre de lames entières (L) >= 50 et diamètre du stipe des basidiomes matures >= 4 mm $ H. subtortum
+4,0,N$ Synonymes :///H. flammuloides///H. flammuloides var. longiventriosopillis///H. malençonii///H. mesophaeum var. lacteum///H. mesophaeum var. ochraceum///H. pallidum///H. pyrophilum///H. pyrophilum var. longiventriosopillis///H. sordidum///H. velatum
+4,0 $ Pas cet ensemble de caractères [Spores jaune pale et souvent ovoïdes, nombre de lames entières (L) >= 50 et diamètre du stipe des basidiomes matures >= 4 mm] $ H. mesophaeum
+4,0,N$Synonymes : ///H. strophosum///H. mesophaeum var. strophosum///H. caespitosum///H. cinereum///H. repandum///H. bruchetii///H. mesophaeum var. crassipes///H. subcollariatum///H. versipelle ssp. mesophaeum
+
+5,0 $ Dans les dunes, diamètre du stipe >= 8 mm et nombre de lames entières (L) > 50 $ H. psammophilum
+5,0,N$ Synonyme :///H. ammophilum
+5,0 $ Pas cet ensemble de caractères [Dans les dunes, diamètre du stipe >= 8 mm et nombre de lames entières (L) > 50] $ H. dunense
+5,0,N$ Synonymes : ///H. collariatum///H. collariatum f. aprile///H. subcaepistosum///H. psmammicola///H. subcaepistosum var. psammicola///H. collariatum f. psammicola///H. aprile///H. xerophyllum///H. claviceps f. nigrescens///H. remyi
+
+6,7 $ Nombre de lames entières (L) >= 40
+6,9 $ Nombre de lames entières (L) < 40
+
+7,0 $ Nombre de lames entières (L) > 45, largeur moyenne de l’apex des cheilocystides <= 5 µm et exsiccata se décolorant presque toujours en brun foncé ou noir $ H. sordescens
+7,8 $ Nombre de lames entières (L) <= 45 ou largeur moyenne de l’apex des cheilocystides > 5 µm ou exsiccata ne se décolorant pas en brun foncé ou noir
+
+8,0 $ Nombre de lames entières (L) <= 50 $ H. clavulipes
+8,0, N$ Synonymes : ///H. candidipes///H. mesophaeum var. macrosporum///H. remyi
+8,0 $ Nombre de lames entières (L) > 50 $ H. monticola
+
+9,0 $ Largeur moyenne des spores >= 7 µm $ H. nigellum
+9,0,N$ Synonymes:///H. atrobrunneum///H. kuehneri
+9,0 $ Largeur moyenne des spores < 7 µm $ H. hygrophilum
+
+
+CS5,0 $    Key Fd. Clé des Hebeloma, sections Sinapizantia & Velutipes
+
+1,2 $ Nombre de lames entières (L) >= 80
+1,3 $ Nombre de lames entières (L) < 80
+
+2,0 $ Largeur moyenne de la base des cheilocystides < 6 µm $ H. bulbiferum
+2,0 $ Largeur moyenne de la base des cheilocystides >= 6 µm $ H. sinapizans
+
+3,0 $ Nombre de lames entières (L) < 35 $ H. subconcolor
+3,4 $ Nombre de lames entières (L) >= 35
+
+4,8 $ Quotient moyen des cheilocystides B/M >= 1,35
+4,5 $ Quotient moyen des cheilocystides B/M < 1,35
+
+5,0 $ Spores P2 ou P3 et non P1 $ H. aestivale
+5,6 $ Spores P0 ou P1
+
+6,0 $ Largeur moyenne de l’apex des cheilocystides <= 6,5 µm $ H. incarnatulum
+6,7 $ Largeur moyenne de l'apex des cheilocystides > 6,5 µm
+
+7,0 $ Indice de sveltesse du basidiome > 10, chapeau distinctement mamelonné et de couleur plutôt sombre, au moins au centre et chez les jeunes sujets : ocre, isabelle, brun-jaune, ombre ou couleur brique $ H. leucosarx
+7,0 $ Pas cet ensemble de caractères [non : Indice de sveltesse du basidiome > 10, chapeau distinctement mamelonné et de couleur plutôt sombre, au moins au centre et chez les jeunes sujets : ocre, isabelle, brun-jaune, ombre ou couleur brique] $ H. velutipes
+
+8,0 $ Récolté à une latitude inferieure à 45° N et quotient moyen des cheilocystides A/M < 1,25 $ H. quercetorum
+8,0 $ Récolté à une latitude supérieure à 45° N et, sur basidiomes matures, largeur du stipe <= 8 mm à mi-hauteur et <= 13 mm à la base $ H. erebium
+8,0 $ Pas cet ensemble de caractères [latitude supérieure à 45° N et, sur basidiomes matures, largeur du stipe <= 8 mm à mi-hauteur et <= 13 mm à la base] $ H. celatum
+
+
+CS6,0 $   Key Fc Clé des Hebeloma, section Denudata
+
+1,cs7 $ Spores O3 ou O4 et D3 ou D4 et P3 $ s-sect. Echinospora $s"s-sect. Echinospora"
+1,2 $ Spores autrement [non : O3 ou O4 et D3 ou D4 et P3]
+
+2,cs8 $ Forme générale des cheilocystides : A/M >= 1,6 et A/B >= 1,45 et B/M < 1,35 $ s-sect. Crustuliniformia $s"s-sect. Crustuliniformia"
+2,3 $ Cheilocystides de forme différente [non : A/M >= 1,6 et A/B >= 1,45 et B/M < 1,35]
+
+3,0 $ Spores O2 et non O3 et nombreuses spores D3 ; en zone alpine/arctique ou subalpine/subarctique $ H. islandicum
+3,0,N$///Hebeloma islandicum est inclus dans cette clé car il peut, au moins par ses caractères microscopiques, être pris pour un membre de cette section.
+3,4 $ Pas cet ensemble de caractères [Spores O2 et non O3 et nombreuses spores D3 ; en zone alpine/arctique ou subalpine/subarctique]
+
+4,0 $ Nombreuses spores O1 ou O2 et nombreuses spores D0 ou D1 et spores non P2, ou si spores P2, alors le chapeau n'est pas jaune ou crème au disque mais présente des tons bruns ou chamois $ H. hiemale $s"s-sect. Hiemalia"
+4,cs11 $ Pas cet ensemble de caractères [Nombreuses spores O1 ou O2 et nombreuses spores D0 ou D1 et spores non P2, ou si spores P2, alors le chapeau n'est pas jaune ou crème au disque mais présente des tons bruns ou chamois] $ s-sect. Clepsydroida $s" s-sect. Clepsydroida"
+
+
+CS7,0 $   Clé des Hebeloma, sous-section Echinospora
+
+1,2 $ Largeur moyenne de l'apex des cheilocystides > 7,5 µm
+1,0 $ Largeur moyenne de l'apex des cheilocystides <= 7,5 µm $ H. rostratum
+
+2,0 $ Longueur moyenne des spores <= 12,5 µm $ H. echinosporum
+2,0 $ Longueur moyenne des spores > 12,5 µm $ H. populinum
+
+
+
+CS8,0 $  Clé des Hebeloma, sous-section Crustuliniformia
+
+1,cs9 $ Espèces alpines ou arctiques, associées aux Salix ou Dryas
+1,cs10 $ Espèces ni alpines, ni arctiques, associées à divers hôtes
+
+
+
+CS9,0 $ Hebeloma sous-section Crustuliniformia - Clé DD1
+
+1,2 $ Nombre de lames entières (L) >= 60 et longueur moyenne des spores < 11 µm
+1,3 $ Nombre de lames entières (L) < 60 ou longueur moyenne des spores >=11 µm
+
+2,0 $ Largeur moyenne de l'apex des cheilocystides > 9 µm $ H. geminatum
+2,0 $ Largeur moyenne de l'apex des cheilocystides >= 8 µm et <= 9 µm $ H. aanenii/H. geminatum
+2,0 $ Largeur moyenne de l'apex des cheilocystides < 8 µm $ H. aanenii
+
+3,0 $ Nombre de lames entières (L) >= 40, longueur des spores >= 11 µm et spores avec une papille distincte $ H. alpinum
+3,4 $ Pas cet ensemble de caractères [Nombre de lames entières (L) >= 40, longueur des spores >= 11 µm et spores avec une papille distincte]
+
+4,0 $ Spores O3 et D2 (jamais D1) $ H. salicicola
+4,5 $ Spores non O3 ou au maximum D1 (jamais D2)
+
+5,0 $ Largeur moyenne de l'apex des cheilocystides < 8,5 µm $ H. aurantioumbrinum
+5,6 $ Largeur moyenne de l’apex des cheilocystides >= 8,5 µm
+
+6,7 $ Quotient moyen des cheilocystides A/B > 1,8
+6,8 $ Quotient moyen des cheilocystides A/B <= 1,8
+
+7,0 $ Spores O1 ou O2, peu ou pas de spores O3 $ H. louiseae
+7,0 $ Nombreuses spores de type O3 $ H. minus
+
+8,0 $ Majorité de spores O1 et longueur moyenne des spores <= 12 µm $ H. perexiguum
+8,0 $ Au moins quelques spores O2 et longueur moyenne des spores > 12 µm $ H. pallidolabiatum
+
+
+CS10,0 $    Hebeloma sous-section Crustuliniformia - Cle DD2
+
+1,2 $ Nombre de lames entières (L) < 60
+1,9 $ Nombre de lames entières (L) >= 60
+
+2,0 $ Largeur moyenne de l'apex des cheilocystides < 8 µm et nombreuses cheilocystides sinuées $ H. lutense
+2,3 $ Largeur moyenne de l’apex des cheilocystides >= 8 µm ou cheilocystides non sinuées
+
+3,4 $ Longueur moyenne des spores < 11 µm
+3,5 $ Longueur moyenne des spores >=11 µm
+
+4,0 $ Cheilocystides sans épaississement constant et distinct de la paroi au sommet $ H. aurantioumbrinum
+4,0 $ Cheilocystides avec épaississement constant et distinct de la paroi au sommet $ H. helodes
+
+5,0 $ Chapeau de couleur presque uniforme et pâle (habituellement 3A2 ou 4A2) et diamètre moyen du stipe à mi-hauteur >= 6 mm $ H. eburneum
+5,0,N$ Synonymes :///H. perpallidum///H. ochroalbidum///H. albocolossum///H. crustuliniforme var. tiliae
+5,6 $ Chapeau nettement bicolore (avec le centre brun) et diamètre moyen du stipe à mi-hauteur <= 7 mm
+
+6,0 $ Nombre de lames entières (L) < 30 et cheilocystides avec une paroi épaisse au sommet apparaissant souvent jaune sous le microscope $ H. luteicystidiatum
+6,7 $ Nombre de lames entières (L) >= 30 ou cheilocystides sans épaississement au sommet
+
+7,0 $ Q moyen du stipe < 12, dextrinoïdité des spores au moins D2 $ H. salicicola
+7,8 $ Q moyen du stipe >= 12 ou nombreuses spores tout au plus D1
+
+8,0 $ Q moyen des spores < 1,9 $ H. minus
+8,0 $ Q moyen des spores >= 1,9 $ H. pusillum
+
+9,10 $ Largeur moyenne des spores >= 6,4 µm, ou longueur moyenne des spores > 10,75 µm et largeur moyenne des spores > 6 µm
+9,11 $ Largeur moyenne des spores < 6,4 µm et longueur moyenne des spores <= 10,75 µm ou largeur moyenne des spores <= 6 µm
+
+10,0 $ Largeur moyenne de l'apex des cheilocystides >= 8 µm $ H. eburneum
+10,0,N$ Synonymes :///H. perpallidum///H. ochroalbidum///H. albocolossum///H. crustuliniforme var. tiliae
+10,0 $ Largeur moyenne de l'apex des cheilocystides < 8 µm $ H. crustuliniforme
+10,0,N$ Synonyme :///H. macrosporum
+
+11,0 $ Largeur moyenne de l'apex des cheilocystides > 9 µm $ H. geminatum
+11,0 $ Largeur moyenne de l'apex des cheilocystides >= 8 µm et <= 9 µm $ H. aanenii/H. geminatum
+11,0 $ Largeur moyenne de l'apex des cheilocystides < 8 µm $ H. aanenii
+
+
+
+CS11,0 $      Clé des Hebeloma, sous-section Clepsydroida
+
+1,2 $ Nombreuses spores D3
+1,8 $ Très peu ou pas de spores D3
+
+2,0 $ Centre du chapeau nettement coloré de rose, de gris rose ou de rose crème, au moins chez les jeunes exemplaires $ H. laetitiae
+2,3 $ Pas de coloration rose sur le chapeau
+
+3,4 $ Largeur moyenne des spores <= 6,5 µm
+3,6 $ Largeur moyenne des spores > 6,5 µm
+
+4,0 $ Chapeau blanc ou blanchâtre, au moins vers l'extérieur, parfois avec du jaune, du jaune chamois ou couleur miel au centre $ H. pseudofragilipes
+4,5 $ Chapeau avec le centre nettement brun, souvent nettement bicolore
+
+5,0 $ Q moyen des spores < 1,85 $ H. limbatum
+5,0 $ Q moyen des spores >= 1,85 $ H. cavipes
+5,0,N$ Syn. : H. litoreum
+
+6,0 $ Largeur moyenne de l'apex des cheilocystides > 8 µm et longueur moyenne des spores > 12,5 µm $ H. ammophilum
+6,7 $ Largeur moyenne de l’apex des cheilocystides <= 8 µm ou longueur moyenne des spores <= 12,5 µm
+
+7,0 $ Nombre de lames entières (L) > 65 et longueur moyenne des spores < 12,5 µm $ H. matritense
+7,0 $ Nombre de lames entières (L) <= 65 ou longueur moyenne des spores >= 12,5 µm $ H. vaccinum
+
+8,9 $ Chapeau blanc ou blanchâtre, au moins vers la marge, parfois avec du jaune, du jaune chamois ou couleur miel au centre
+8,10 $ Chapeau avec le centre nettement brun, souvent nettement bicolore
+
+9,0 $ Quotient moyen des cheilocystides A/B < 1,4 et largeur moyenne de l’apex des cheilocystides < = 6,5 µm et diamètre moyen de la base des cheilocystides > 5 µm	H. pseudofragilipes
+9,0 $ Pas cet ensemble de caractères [Quotient moyen des cheilocystides A/B < 1,4 et largeur moyenne de l’apex des cheilocystides <= 6,5 µm et diamètre moyen de la base des cheilocystides > 5 µm] $ H. fragilipes
+
+10,0 $ Longueur moyenne des spores < 11 µm $ H. ingratum
+10,0 $ Longueur moyenne des spores >= 11 µm $ H. cavipes
+10,0,N$ Syn. : H. litoreum
+
+
+
+CS12,0 $     Key Fe. - Clé des Hebeloma, sections Duracinus, Myxocybe, Naviculospora, Scabrispora & Syrjense
+
+1,0 $ Remarque $
+1,0,N$///Comme les espèces de ces 5 sections ont toutes des cheilocystides de forme similaire, nous les avons regroupé dans une même clé. ///Pour trois de ces sections, nous ne connaissons qu’une seule espèce en Europe.
+1,0 $ Largeur moyenne des spores > 7 µm $ H. duracinoides
+1,2 $ Largeur moyenne des spores <= 7 µm
+
+2,0 $ Spores cylindriques $ H. cylindrosporum
+2,3 $ Spores non cylindriques
+
+3,0 $ Odeur de massepain et anneau membraneux évident $ H. radicosum
+3,4 $ Pas d’odeur de massepain ou absence d’anneau membraneux évident
+
+4,5 $ Spores P3 et longueur moyenne des spores >= 9 µm
+4,6 $ Spores au maximum P2 ou longueur moyenne des spores < 9 µm
+
+5,0 $ Longueur moyenne des spores >= 11 µm $ H. anthracophilum
+5,0 $ Longueur moyenne des spores < 11 µm $ H. birrus
+
+6,0 $ Q moyen des spores > 2,1 $ H. naviculosporum
+6,7 $ Q moyen des spores <= 2,1
+
+7,8 $ Certaines spores O3 et spores au minimum D3
+7,12 $ Spores au maximum O2 ou, si certaines spores O3, alors spores D1 ou D2
+
+8,9 $ Longueur moyenne des spores >= 9,5 µm
+8,10 $ Longueur moyenne des spores < 9,5 µm
+
+9,0 $ Chapeau brun jaunâtre et nombre de lames entières (L) < 65 $ H. danicum
+9,0 $ Chapeau chamois pâle à chamois rosâtre foncé et nombre de lames entières (L) >= 65 $ H. laterinum
+
+10,0 $ Quotient moyen des cheilocystides A/M et B/M tous deux > 1,2 $ H. syrjense
+10,0,N$ Synonyme: H. subsaponaceum
+10,11 $ Quotient moyen des cheilocystides A/M ou B/M <= 1,2
+
+11,0 $ Chapeau de couleur miel et longueur moyenne des spores > 9 µm $ H. melleum
+11,0 $ Chapeau franchement brun et longueur moyenne des spores <= 9 µm $ H. pumilum
+
+12,13 $ Largeur moyenne des spores >= 5,7 µm
+12,15 $ Largeur moyenne des spores < 5,7 µm
+
+13,0 $ Longueur moyenne des spores > 11 µm $ H. islandicum
+13,14 $ Longueur moyenne des spores <= 11 µm
+
+14,0 $ Largeur moyenne de l’apex des cheilocystides > 5,2 µm et largeur basale > 6 µm $ H. catalaunicum
+14,0 $ Largeur moyenne de l’apex des cheilocystides <= 5,2 µm et largeur basale <= 6 µm $ H. lindae
+
+15,0 $ Chapeau chamois argile à chamois rosâtre et nombre de lames entières (L) <= 65 $ H. circinans
+15,0 $ Chapeau ocre, cannelle, isabelle ou brun-orange et nombre de lames entières (L) > 65 $ H. nanum
+
+
+
+CS13,0 $     Key Ff. Clé des Hebeloma, section Theobromina
+
+1,2 $ Largeur moyenne des spores > 5,5 µm
+1,5 $ Largeur moyenne des spores <= 5,5 µm
+
+2,0 $ Largeur moyenne de l'apex des cheilocystides >= 7 µm et espèces associées aux Cistus $ H. plesiocistum
+2,3 $ Largeur moyenne de l’apex des cheilocystides < 7 µm, espèces associées aux Cistus ou non
+
+3,0 $ Q moyen des spores >= 1,9 $ H. griseopruinatum
+3,4 $ Q moyen des spores < 1,9
+
+4,0 $ Espèces associées aux Cistus ; spores n'étant pas à la fois O3 et D4 $ H. erumpens
+4,0 $ Spores O3 et D4, espèces associées ou non aux Cistus $ H. parvicystidiatum
+
+5,0 $ Nombreuses spores O3 et P2 (longueur moyenne des spores < 9,5 µm et Q moyen < 1,75) $ H. syrjense
+5,0,N$ Synonyme: H. subsaponaceum///===> Hebeloma syrjense est inclus dans cette clé car il peut, au moins par ses caractères microscopiques, être pris pour un membre de cette section.
+5,6 $ Très peu ou pas de spores O3 et P2, quelle que soit la taille des spores
+
+6,0 $ Spores O3 et D4 et largeur moyenne > 5,2 µm $ H. parvicystidiatum
+6,7 $ Spores n'ayant pas les 3 caractères ci-dessus [Spores O3 et D4 et largeur moyenne > 5,2 µm]
+
+7,0 $ Espèces associées aux Cistus et quotient moyen des cheilocystides A/M > 1,4 et B/M > 1,25 $ H. alboerumpens
+7,8 $ Pas cet ensemble de caractères
+
+8,0 $ Chapeau brun rougeâtre et Q moyen des spores >= 1,80 $ H. theobrominum
+8,0 $ Chapeau brun jaunâtre et Q moyen des spores < 1,80 $ H. vesterholtii
+

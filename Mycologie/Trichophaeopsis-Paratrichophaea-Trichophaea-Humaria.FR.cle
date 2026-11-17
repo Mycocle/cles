@@ -1,0 +1,41 @@
+titre$Trichophaeopsis, Paratrichophaea, Trichophaea and Humaria 
+com$adapT GF 2019 07 06
+1, 0$Sterbeeckia 23: 9-27 (2003) Revised key to species Trichophaeopsis, Paratrichophaea, Trichophaea and Humaria building after R.J.C. Bronckers (2003)/// 
+EdiT and extended by Peter WelT 2010 (Original in German) 
+1, 0$Traduction H. Aeberhard
+1, 0$
+
+1,15 $ Excipulum éctal en grande partie constitué de rangées verticales de cellules de textura prismatica-angularis, avec des poils bipolaires, (pl. 1, fig. F-G)
+1,2 $ Excipulum éctal sans ces rangées verticales de cellules, sans poils bipolaires
+2,17 $ Spores sans guttules, ecxipulum avec de grandes cellules remarquables (pseudopoils) dans la zone marginale. Poils superficiels à profondement radicants (pl. 1, fig. D )
+2,3 $ Spores guttulées, excipulum sans ces grandes cellules dans la zone marginale, poils superficiels ou peu profondément radicants
+3,4 $ Spores lisses
+3,9 $ Spores ornementées
+4,0 $ Spores étroitement elliptiques à fusiformes $ Trichophaea gregaria (Rehm) Boud.
+4,5 $ Spores elliptiques à largement elliptiques
+5,6 $ Spores plus larges que 10 µm 
+5,7 $ Spores moins de 10 µm de large
+6,0 $ Apothécies brunes, spores moins de 13 µm de large $ Trichophaea contradlcta (Seaver) H.J. Larsen
+6,0 $ Apothécies non brunes, Spores plus larges que 13 µm $Trichophaea woolhopeia (Cooke & W. Phillips) Arnould
+7,0 $ Apothécies de plus de 5 mm de diamètre. Poils marginaux plus longs que 200 µm , spores avec 2 petites guttules polaires $ Trichophaea hemisphaerioides (Mouton) Graddon
+7,8 $ Apothécies de moins de 5 mm de diamètre, poils marginaux moins de 200 µm de long, guttules des spores différentes
+8,0 $ Poils marginaux (sub-) hyalins et plus courts que les poils latéraux, spores avec deux guttules polaires de dimension moyenne à grande $ Trichophaea abundans (P. Karst.) Boud.
+8,0 $ Poils marginaux brun rouge et plus longs que les poils latéraux, spores avec une guttule centrale $ Trichophaea albospadlcea (Grev.) Boud.
+9,0 $ Apothécies de plus de 1 cm de diamètre et profondément cupulées $ Humaria hemisphaerica (Weber: Fr.) Fuckel
+9,10 $ Apothécies de moins de 1 cm de diamètre et moins profondément cupulées à étalés disciformes
+10,0 $ Spores moins de 17 µm de long, ornementation épineuse $ Trichophaea velenovskyi (Vacek) Haeffner & Christan
+10,11 $ Spores plus longues que 17 µm , ornementation différente
+11,0 $ Spores finement verruqueuses (lisses immatures!), étroitement elliptiques à fusiformes $Trichophaea gregaria (Rehm) Boud.
+11,12 $ Spores grossièrement verruqueuses
+12,13 $ Spores plus larges que 13 µm avec de grandes à très grandes tubercules en forme de bulles (dans l'eau)
+12,14 $ Spores moins de 13 µm de large, avec des tubercules petites à grandes
+13,0 $ Spores moins de 26 µm de long et moins de 18 µm de large $ Trichophaea paludosa (Boud.) Boud.var. paludosa
+13,0 $ Spores plus longues que 26 µm et plus larges que 18 µm $ Trichophaea paludosa var. tuberculata (Seaver) Bronckers
+14,0 $ Spores (sub-) fusiformes avec des tubercules moins hauts'et moins larges que 2 µm Sporen $Trichophaea pseudogregaria (Rick) Boud.
+14,0 $ Spores étroitement à largement elliptiques avec des tubercules qui sont plus hauts et plus larges que 2 µm $ Trichophaea livida (Schumach.) Boud.
+15,0 $ Asques à 4 spores $ Trichophaeopsis tetraspora Dissing & M.D. Paulsen
+15,16 $ Asque à 8 spores
+16,0 $ Spores moins de 12 µm de large et sans ornementation $ Trichophaeopsis bicuspis (Boud.) Korf & Erb
+16,0 $ Spores plus larges que 12 µm et ornementées $ Trichophaeopsis latispora J. Moravec
+17,0 $ Asques à 4 spores $ Paratrichophaea michiganensis (Kanouse) Pfister
+17,0 $ Asques à 8 spores $ Paratrichophaea boudieri (Grélet) Bronckers

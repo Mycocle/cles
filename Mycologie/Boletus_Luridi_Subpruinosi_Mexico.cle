@@ -1,0 +1,59 @@
+Titre$ Clave dicotómica para determinar las especies del género Boletus secc. Luridi y Subpruinosi que crecen en México.
+Com$ Adaptée par Paul Bertéa 01-11-2021
+1,CS1 $ Section Luridi $$s "Section Luridi"
+1,CS2 $ Section Subpruinosi $$s "Section Subpruinosi"
+1,0 $
+1,0 $
+1,0 $
+1,0 $
+1,0 $
+1,0 $
+1,0 $
+1,0 $ Source
+1,0,N$///Jesús García-Jiménez, Rolf Singer, Eduardo Estrada, Fortunato Garza-Ocañas & Ricardo Valenzuela, 2013///Revista Mexicana de Biodiversidad:S152-S162///Dos especies nuevas del género Boletus (Boletales: Agaricomycetes) en México
+CS1,0 $ 
+1,2 $ Estípite conspicuamente reticulado en todo o en las 2/3 partes superiores
+1,8 $ Estípite furfuráceo, liso o reticulado, sólo en el ápice
+2,3 $ Píleo de color rojo, rosáceo o blanquecino con tonos rosáceos
+2,6 $ Píleo en diversos tonos de color marrón
+3,4 $ Píleo de color rojo, con la superficie víscida a pegajosa
+3,5 $ Píleo de color rosa o blanquecino con tintes rosados, superficie seca
+4,0 $ Retículo del estípite prominente a alveolado $ B. frostii
+4,0 $ Retículo del estípite ligero, no prominente, ni alveolado $ B. floridanus
+5,0 $ Píleo y estípite de color rosa pálido, poros color rosa a rosáceo anaranjado $ B. michoacanus
+5,0 $ Píleo de color blanquecino con tintes rosados, poros de color rojo-anaranjado a rojo carmín $ B. eastwoodiae
+6,0 $ Estípite de color amarillo y fuertemente reticulado en las 2/3 partes superiores; de color marrón rojizo a rojo púrpura y liso a ligeramente pruinoso hacia la base $ B. luridellus
+6,7 $ Estípite de color amarillo anaranjado con un retículo color rojo a rojo carmín en toda su extensión; de color rojo vináceo en la base
+7,0 $ Píleo ligeramente agrietado a areolado en el centro, de color marrón pálido a marrón grisáceos o marrón oliváceo, poros de color rojo sangre $ B. rhodosanguineus
+7,0 $ Píleo liso a velutinoso, de color marrón vináceo, marrón-anaranjado a marrón-rojizo, poros de color rojo ladrillo $ B. luridus
+8,9 $ Píleo de color rojo, rojo vináceo o rosado
+8,13 $ Píleo de color marrón rojizo, marrón obscuro o marrón vináceo
+9,0 $ Estípite liso o con finas estrías en el ápice, formando un seudoretículo, amarillento hacia el ápice y rojo púrpura hacia la base, poros de color amarillo a anaranjado $ B. rubricitrinus
+9,10 $ Estípite de pruinoso, ligeramente o conspicuamente furfuráceo, poros de color mamey a rojo ladrillo o rojo carmín
+10,0 $ Píleo de color rosa a rosa vináceo, estípite con estrías longitudinales, ligeramente furfuráceo, de color rojo vináceo, con la base $ B. guatemalensis
+10,11 $ Píleo con diversos tonos de color rojo, estípite sin estrías longitudinales
+11,0 $ Estípite pruinoso, de color anaranjado a anaranjado rojizo, con la base rojiza, píleo de color rojo vináceo a rojo, decolora a marrón cuando viejo, poros de color mamey $ B. subluridellus
+11,12 $ Estípite fuertemente furfuráceo, de color anaranjado rojizo a rojo, con furfuraciones de color rojo, píleo rojo intenso a rojo sangre
+12,0 $ Píleo con la superficie víscida, poros de color rojo ladrillo a rojo sangre $ B. dupainii
+12,0 $ Píleo con la superficie seca, poros de color rojo pálido, anaranjado cuando maduro o viejo $ B. paulae
+13,0 $ Píleo de color marrón amarillento con el margen amarillo brillante, estípite amarillo brillante, reticulado en el ápice, con furfuraciones de color anaranjadas hacia la base $ B. fagicola
+13,14 $ Píleo enteramente de color marrón en varios tonos, estípite no reticulado en el ápice
+14,0 $ Estípite con estrías en el ápice y el resto liso, de color marrón rojizo, con la base tomentosa, píleo finamente rimoso, de color marrón, con algunos tonos rosáceos o de color durazno $ B. amygdalinus
+14,15 $ Estípite de ligeramente a fuertemente furfuráceo
+15,0 $ Poros de color marrón anaranjado a marrón rojizo, píleo de color marrón rojizo a marrón obscuro, aterciopelado, ligeramente agrietado, estípite furfuráceo, de color amarillo pálido cuando joven, marrón a rojizo cuando maduro $ B. vermiculosus
+15,16 $ Poros de color rojo ladrillo, píleo de color marrón amarillento, marrón canela, marrón castaño a marrónrojizo
+16,0 $ Estípite con la superficie fuertemente furfurácea, con furfuraciones prominentes y de color anaranjado, amarillo anaranjado y están distribuidas en toda su extensión sobre una superficie de color amarillo pálido, amarillo brillante en el ápice y de color rojo púrpura en su base, base con un tomento basal rojo púrpura a oliváceo $ B. austrinus
+16,17 $ Estípite con la superficie ligeramente furfurácea, furfuraciones no prominentes y de color marrón rojizo
+17,0 $ Estípite de color amarillo brillante al ápice y con tintes rojizos, rojo vináceo en casi toda su extensión, sin tomento $ B. hypocarycinus
+17,0 $ Estípite de color amarillo anaranjado brillante en su mitad superior y de color anaranjado rojizo o rojo púrpura en hacia la parte inferior, y marrón obscuro o negruzco en la base, presenta un tomento basal de color marrón $ B. subvelutipes
+
+
+CS2,0 $
+1,0 $ Píleo de color marrón oliváceo o marrón vináceo, contexto se mancha intensa y rápidamente de azul fuerte al $ B. pulverulentus
+1,2 $ Píleo de color rosa pálido, anaranjado rojizo o rojo, contexto se mancha ligeramente o moderadamente de azul de manera rápida o
+2,0 $ Estípite fuertemente furfuráceo, de color rosa pálido $ B. singeri
+2,3 $ Estípite ligeramente furfuráceo, liso o estriado longitudinalmente, de color rojizo rosáceo o amarillo
+3,0 $ Pileipellis con células globosas de hasta 31 ?m de diámetro $ B. subfraternus
+3,4 $ Pileipellis con células subglobosas, fusiformes a cilíndricas, de 6-13.6 ?m de diámetro
+4,0 $ Píleo de color rosa pálido, poros de 0.3-0.5 mm de diámetro, esporas de pared gruesa, de 10-13.6 (-14.4) × 5-6.4 ?m, pileipellis de células terminales cilíndricas a fusiformes, de 32-80 × 5-11.2 ?m $ B. campestris
+4,0 $ Píleo de color rosa a rojo, poros de 0.5-1.5 mm de diámetro, esporas de pared delgada de 11.2-13.6 × 4.4-5.6 ?m, pileipellis de células terminales elipsoides a cistidioides de ápice subagudo y con finas incrustaciones en su pared, de 26-44 × 8-13.2 $ B. fraternus

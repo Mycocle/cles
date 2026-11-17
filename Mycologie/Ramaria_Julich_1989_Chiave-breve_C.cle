@@ -1,0 +1,48 @@
+MYCOCLE 00210760719050612C5D12
+ clé exploitable par Mycoclé 2.04
+Mycoclé 2.05  Ramaria Julich Chiave breve per specie dimitiche
+ /Adapt gF nov 2013
+REM$LANGUE$Italien 
+64232111111111511116911131517192124262830323436383941
+0 Source0111135010
+0 Définitions0112136015
+0s"Chiave breve per specie dimitiche"Chiave breve per specie dimitiche0113138016
+0s"Chiave breve per specie senza giunti a fibbia"Chiave breve per specie senza giunti a fibbia0114139023
+0 Jülich W - Guida alla determinazione dei funghi isbn=8885013481  vol.2  p 104..11401015221100
+0 Ramariaceae Corner 1970 ///Carpof. eretto, ramificato, da chiaro a scuro. Monomitico nel carpof., in alcune specie dimitico alla base. Ife generative da ialine a giallastre, con o senza giunti a fibbia. Sp. da gialline a brunastre, elliss., ornamentate, non amiloidi.01526271200
+0 Ramaria Holmskj. ex S.F. Gray 1821 /// Sin.: Clavariella P. Karst. 1881; Phaeoclavulina Brinkm. 1897///Carpof. generalm. terricolo, raram. su legno, sempre ramificato, chiaro o scuro. Carne friabile o tenace. Monomitico nel carpof., in alcune specie dimitico alla base del feltro ifale e nei rizomorfi (=subgen. Lentoramaria Corner 1970). Ife generative con o senza giunti a fibbia. Basidi a 2-4 sp. Sp. gialline, ocra o brunastre, elliss., quasi lisce, striate, verrucose o aculeate, con ornamentazione cianofila.///Le».: Corner 1950: 542-637; Corner 1970: 237-283; Marr e Stuntz 1973: 1-232; Petersen 1975: 1-161; Petersen 1981: 1-261.01527271300
+0Chiave breve per specie dimitiche0-108111500
+0 Carpof. terricolo.016392817017
+0 *.Carpof. lignicolo.0163102818019
+0 (1) Ife basali scheletoidi.0179112919018
+0 *.Ife basali con parete leggerm. grossa, ma non scheletoidi. 01791229200 R. suecica0
+0 (2) Terricolo. Sp. 8-10,5x4,5-5,3 µm . 018111330210 R. pseudogracilis 0
+0 *.Spesso lignicolo. Sp. 5-7x3,5-4,5 µm . 018111430220 R. gracilis0
+0 (1) Sp. piccole, 4-7x3-3,5-4 µm .01910153123020
+0 *.Sp. più grandi, ca. 7-10 µm .01910163124021
+0 (4) Specie più frequente. Sp. 5-7x3,5-4,5 µm 020151732250 R. gracilis 0
+0 *.Specie rara, mediterranea. Sp. 4-6x3-3,5 µm . 020151832260 R. bourdotiana0
+0 (4) Rizomorfi rosa in KOH. 021161933270 R. rubella 0
+0 *.Rizomorfi non rosa in KOH.02116203328022
+0 (6) Rizomorfi monomitici. 022202134290 R. apiculata 0
+0 *.Rizomorfi dimitici. 022202234300 R. stricta0
+0Chiave breve per specie senza giunti a fibbia0-2023103200
+0  Carpof. giallo.0234243533024
+0 *. Carpof. con sfumature rosa o viola, o con macchie rosse.0234253534026
+0  (1) Giunti a fibbia completam. assenti.02424263635025
+0 *. Giunti rari, frequenti solo sulla superficie del gambo. 024242736360 R. flava0
+0  (2) Sp. 6-10,8x3,2-5,5 pm. 025262837370 R. lutea 0
+0 *. Sp. 8-15,5x3,5-6 pm. 025262937380 R. subtilis0
+0  (1) Verruche disposte irregolarm. sulla superficie delle spore.0262530383900
+0 *. Verruche disposte in file longitudin. sulla superf delle spore. . 026253138400 R. fagetoru27
+0  (4) Carpof. senza sfumatura viola.02731323941028
+0 *. Carpof. con sfumatura viola. 027313339420 R. pallida0
+0  (5) Carpof. non rossastro al tocco.02832344043029
+0 *. Carpof. rossastro al tocco. 028323540440 R. sanguinea0
+0  (6) Punte dei rami gialline almeno da giovani.02934364145030
+0 *. Punte dei rami color arancione o rosa.02934374146032
+0  (7) Sp, strettam. elliss.03036384247031
+0  (8) Specie frequente. Sp. 8-15x4-6 pm. 031383943480 R. aurea 0
+0 *. Specie rara. Sp. 10-12x4,5-5,5 pm. 031384043490 R. neoformosa0
+0  (7) Sp. 8-11x3,2-4 pm. 032374144500 R. subbotrytis 0
+0 *. Sp. 11-15x3,5-5 pm. 032374244510 R. largentii0

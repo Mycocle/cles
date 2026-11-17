@@ -1,0 +1,61 @@
+titre$Field key for brown Tricholoma of CA
+com$ Douglas Smith /adapt GF 2012
+1,0$ source : Douglas Smith, forum BayAreaMushrooms,Feb 19, 2008
+
+1,2 $ A. Is there a veil present
+1,5 $ B No veil present
+2,3 $ A. Is cap viscid
+2,4 $ B Non-viscid cap
+3,0 $ A. Is veil membranous $ T. focale
+3,0 $ B Fibrous, cortina like veil $ T. fracticum
+4,0 $ A. Is veil membranous $ T. caligatum
+4,0 $ B Fibrous, cortina like veil $ T. vaccinum
+5,6 $ A. Non-viscid cap
+5,8 $ B viscid cap
+6,0 $ A. Stipe 7mm wide or less $ T. aurantio-olivaceum
+Small, with dark brown scabbers on light brown, yellow-brown  background. Easy to confuse with Inocybe.
+
+6,7 $ B Stipe greater than 7 mm wide
+7,0 $ A. Stipe is hollow $ T. vaccinum
+Darker brown tones, stipe with fibrous veil fragments,  although they wear off. Can be confused with Inocybe,  but larger than most.
+
+7,0 $ B Stipe is solid $ T. imbricatum
+Lighter brown tones, stipe lighter, no veil fragments,  although stipe is fibrous. Can be confused with Inocybe,  but larger than most.
+
+8,9 $ A. Is the taste mild, not bitter
+8,13 $ B Is the taste bitter
+9,0 $ A. Is the stipe white $ T. intermedium
+Found in the Sierras in the fall.
+
+9,10 $ B Is the stipe brown, or with many brown spots and tones
+10,0 $ A. Is stipe hollow $ T. nictitans
+Under pines on the coast, with stipe much longer than  size of cap, which is smaller and inrolled. No cystidia  present on gills.
+
+10,11 $ B Stipe is solid
+11,0 $ A. Under Poplar trees, rosy tones in cap $ T. populinum
+Rare in California, found under Popular trees in   central valley, perhaps.
+
+11,12 $ B Under other trees, on coast
+12,0 $ A. Mostly orange tones, squamulose stipe $ T. aurantium
+Found on coast, mostly orange tones, but often with green  tones and spots on cap and stipe, fading in age. Squamulous  stipe, that ends at a hard edge in a ring near the top of  stipe. Cystidia present on gill edge.
+
+12,0 $ B Light orange and rosy tones, smoother stipe $ T. manzanitae
+Found under manzanita and sometimes madrone, sometimes   bitter. Stipe usually with yellow at the apex. Lacking  cystidia on the gills.
+
+13,14 $ A. Found under conifer trees
+13,15 $ B Found under hardwood trees
+14,0 $ A. Are gill faces orange $ T. muricatum
+Found under pines on the coast. Gills quickly turning orange,  and then dev. brown tones and stains in age.
+
+14,0 $ B Gill faces white, but with brown stains $ T. fracticum
+With viscid brown stipe concolorous with cap, which ends in a   hard ring at top of stipe, off-white and non-viscid above ring.  Found under pine trees.
+
+15,0 $ A. Surface of cap is ixotrichodermium $ T. ustale
+Found under oaks, brown with orange tones, similar to others  here, but only one with an ixotrichoderm. Need more photos  to see if there are other features to separate.
+
+15,16 $ B Surface of cap is an ixocutis
+16,0 $ A. Cystidia present on gill edge $ T. dryophilum
+Found under oaks. Starts off-white, and develops brown colors  in streaks on surface, more streaky on stipe than cap.
+
+16,0 $ B No cystidia present on gill edge $ T. manzanitae
+Although usually not bitter, only sometimes bitter. Turning  more brown in age, but usually not streaky, more lightly  orange-rosy than others. Usually with yellow at top of stipe.  Found under manzanita and madrone.

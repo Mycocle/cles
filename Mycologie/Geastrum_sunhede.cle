@@ -1,0 +1,70 @@
+titre $ Key to the European species of Geastrum
+com$ monographie de Stellan sunhede
+rem$LANGUE$Anglais
+
+1,0$ Key based on characteristics of dried fruit bodies unless otherwise stated. Spores and hyphae examined in 2 % KOH./// For reasons of survey ability only  characteristic and well preserved specimens key out. The often very large intraspecific variation is presented in the text.
+1,0$
+1,3 $ Mycelial layer present, either attached to the fibrous layer or remaining as a cup under the expanded fruitbody
+1,2 $ Mycelial layer not present due to peeling off exoperidium hygroscopic; pseudo-parenchymatous layer persistent, with hick-walled hyphal cells
+1,0$ note : Key based on characteristics of dried fruit bodies unless otherwise stated./// Spores and hyphae examined in 2 % KOH./// For reasons of survey ability only  characteristic and well preserved specimens key out.///The often very large intraspecific variation is presented in the text.
+
+2,5 $ Peristome sulcate
+2,28 $ Peristome not sulcate +/- even
+3,4 $ Outer side of the mycelial layer strongly intermixed with debris
+3,21 $ Mycelial layer not encrusting debris, although debris and sand sometimes adherinG.
+4,5 $ Peristome sulcate
+4,12 $ Peristome not sulcate (even or occasionally with a few irregular folds)
+5,6 $ Endoperidial body sessile
+5,7 $ Endoperidial body distinctly stalked (stalk sometimes short)
+6,0 $ Exoperidium not hygroscopic; pseudoparenchymatous layer 2 evanescent with thin-walled hyphal cells; fibrous layer papery $ G. elegans
+6,0 $ Exoperidium strongly hygroscopic; pseudoparenchymatous layer persistent, consisting of thick-walled hyphal cells $ G. kotlabae
+7,8 $ Endoperidium rough due to small warts or ridges
+7,10 $ Endoperidium smooth, with or without a mealy cover of hyphae or a thin pruina of crystalline matter
+8,0 $ Exoperidium not hygroscopic; pseudoparenchymatous layer not very persistent, with thin-walled hyphal cells; endoperidial body 6-43 mm in diam. $ G. berkeleyi
+8,9 $ Exoperidium hygroscopic; pseudoparenchymatous layer persistent, with thick-walled hyphal cells; endoperidial body 4.5-15 mm in diam.
+9,0 $ Denuded inner part of the mycelial layer without longitudinal striae on the rays; spores 68.5 pm; summer-autumn species $ G. campestre
+9,0 $ Denuded inner part of the mycelial layer usually with longitudinal striae on  the rays (cf. fig. 133 b); spores 5-7 pm; fruiting starting in early spring; endemic to Czechoslovakia .. $ G. pouzarii
+10,0 $ Apophysis shaped as a ring-like collar from the base o l endoperidial body $ G. striatum
+10,11 $ No such collar even if dried up pseudoparenchymatous ring may be present around the stalk ..
+11,0 $ Fruitbodies 1-3 (-5) cm in diam.; stalk 1-2 (-3) mm high; endoperidium from the beginning naked or with a faint pruina of crystalline matter: mostly greyish brown to brownish grey $ G. schmidelii
+11,0 $ Fruitbodies (2-) 5-12 cm in diam.; stalk 3.5-13 mm high; endoperidium at first with a cover of thin-walled, clamped hyphae and crystalline matter, finally naked and mostly becoming dark greyish or dark brownish $ G. pectinatum
+12,13 $ Endoperidial body sessile
+12,15 $ Endoperidial body distinctly stalked (stalk sometimes short) .
+13,0 $ Exoperidium not hygroscopic; pseudoparenchymatous layer +/- evanescent. with thin-walled hyphal cells. denuded fibrous laver papery spores 3. 5 - 4.(4.5) µm (cf. G. rufescens, 20) .. $ G. fimbriatum
+13,14 $ Exoperidium hygroscopic; pseudoparenchymatous layer persistent, with thick-walled hyphal cells; spores larger
+14,0 $ Peristome distinctly delimited; spores 5 4 µm $ G. hungaricum
+14,0 $ Peristome indistinctly delimited; spores 5.5-7 µm .. $ G. floriforme
+15,16$ Fruitbody fornicate; mycelial cup remaining in the ground, rays mostly ************** 4 ( ~5)16
+15,17 $ Fruitbody saccate to arched; mycelial layer sometimes remaining as a cup in the ground separated from the rest of the fruitbody; rays 5 or mostly more .
+16,0 $ Peristome distinctly delimited: spores 5-6 µm $ G. quadrifidum
+16,0 $ Peristome indistinctly delimited; spores 4-5 µm $ G. fornicatum
+17,0 $ Endoperidium rough with small warts and ridges; exoperidium hygroscopic; pseudoparenchymatous layer with thick-walled hyphal cells $ G. pseudolimbatum
+17,18 $ Endoperidium not as above but with crystalline matter or with short, protruding hyphal tips; not truly hygroscopic although rays may be bent or incurved towards the endoperidial body; pseudoparenchymatous layer with thin-walled hyphal cells
+18,19 $ Peristome  distinctly delimited
+18,20 $ Peristome indistinctly delimited
+19,0 $ Fruitbody mostly 5-11 cm wide; endoperidial body mostly 10-35 ( 4 0 ) mm in diam.; endoperidium rather dark and dusky like the stalk, at first with a  distinct, pale brownish mealy cover . $ G. coronatum
+19,0 $ Fruitbody 0.8-3 (-4) cm wide; endoperidial body 3-16, mostly 5-10 mm in diam.; endoperidium often rather light-coloured, at first +/- covered with whitish crystalline grains, sometimes dark with no or sparse, crystalline cover; stalk whitish to dark $ G. minimum
+20,0 $ Endoperidium  "short-hirsute" due to protruding hyphae (seen under lens), mostly rather light-coloured. brownish grey to greyish brown: stalk whitish to light beige; fresh pseudoparenchymatous layer turning reddish brown (sometimes also in soaked herbarium specimens); spores 5 4 µm (cf. G.fimbriatum, 13) $ G. rufescens
+20,0 $ Endoperidium at first with a mealy cover which gradually disappears, exposing a smooth dark greyish to almost black surface; stalk dark, brownish grey to blackish; pseudoparenchymatous layer not turning reddish brown $ G. coronatum
+21,0 $ Peristome irregularly plicate, mostly with 5-12 folds $ G. morganii
+21,22 $ Peristome not plicate ..
+22,23 $ Exoperidium not hygroscopic; pseudoparenchymatous layer not very persistent, with thin-walled hyphal cells .
+22,0 $ Exoperidium strongly hygroscopic; pseudoparenchymatous layer very persistent, with thick- walled hyphal cells; peristome well delimited $ G. corollinum
+23,24 $ Fruitbody fornicate or pseudofornicate .
+23,25 $ Fruitbody saccate to  arched
+24,0 $ Fruitbody fornicate; mycelial cup basally attached to the substrate, pliable, not brittle, outer surface felled to tomentose consisting of thick-walled, clamp less hyphae; spores 4.5-5 (-5.5) µm . $ G. weiwitschii
+24,0 $ Fruitbody pseudofornicate; mycelial cup thick, stiff, rather brittle, outer surface not felled or tomentose, consisting of bin-walled, clamped hyphae; spores 4.5-6 µm . $ G. smardae
+25,0 $ Outer surface of mycelial layer felled, consisting of thick-walled, clamp less hyphae; fruitbody mostly saccate . $ G. saccatum
+25,26 $ Outer surface of mycelial layer not felled, consisting of thin-walled, clamped hyphae; fruitbody saccate, planar, or arched .
+26,27 $ Endoperidial body k sessile; mycelial layer not brittle, on the rays often with longitudinal cracks
+26,27 $  Endoperidial body with a short, up to 4 mm high, distinct stalk; mycelial layer thick, stiff, brittle, without longitudinal cracks on the rays, with age peeling off G. smardae
+27,0 $ Fruitbody stout, mostly medium-sized to large, normally with a pseudo-parenchymatous collar, saccate to arched; endoperidial body mostly 15-35 . . (-40) mm m diam. $ G. triplex
+27,0 $ Fruitbody more delicate, strongly reminiscent of G. saccatum, small to medium-sized, normally without a pseudoparenchymatous collar, mostly saccate; endoperidial body 10-15 (-20) mm . $ G. lageniforme
+28,0 $ Endoperidial body stalked; endoperidium rough with small warts and ridges .. $ G. pseudolimbatum
+28,29 $ Endoperidial body sessile; endoperidium not rough .
+29,30 $ Peristome f distinctly delimited
+29,31 $ Peristome indistinctly delimited
+30,0 $ Very small, delicate species; endoperidial body 2-8 mm in diam.; capillitial hyphae up to 4 µm wide; spores 5 4 µm . $ G. Hungaricum
+30,0 $ Small to sized-sized species; endoperidial body mostly 10-20 mm in diam.; capillitial hyphae up to 9 µm wide; spores (4) 4.5-5 (-5.5) µm $ G. corollinum
+31,0 $ Exoperidium hard when dry; pseudoparcnchymatous layer not cracking; endoperidium uneven, not felted; spores 5.5-7 µm $ G. floriforme
+31,0 $ Exoperidium woody-hard when dry ; pseudoparenchymatous layer soon finely cracked; endoperidium uneven, felted; spores 8-1l µm . $ Astraeus hygrometricus (Astraeaceae, Sclerodermatales)

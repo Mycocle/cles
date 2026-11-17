@@ -1,0 +1,378 @@
+titre$Studies in Coprinus - Uljé
+com$Tirée de http://www.homepages.hetnet.nl/~idakees/ / adapt GF mars 08
+
+rem $ KEY TO THE SECTIONS AND SUBSECTIONS
+1,2 $ Pileus without veil, smooth or with setulae and/or setae; $$s"section Pseudocoprinus"
+1,4 $ *. Pileus with veil, without setules or setae.
+
+2,3 $ . Stipe glabrous; pileus glabrous or with scattered, microscopical, long, brown hairs.
+2,cs1$ Stipe and pileus with setulae and/or setae; $ subsect. Setulosi J. Lange
+
+3,cs2 $ Stipe and pileus glabrous; spores with eccentric germ pore; $ subsect. Glabri J. Lange
+3,cs3 $ Stipe glabrous; pileus under microscope with scattered, long brown hairs (> 200 m); spores with central germ pore; $ subsect. Auricomi Sing.(only one species: C. auricomus)
+
+4,8 $ Veil at least in part consisting of (sub)globose elements; $$s" section Veliformes"
+4,5 $ Veil mainly consisting of elongate elements; $ $s"section Coprinus"
+
+5,6 $ . Veil scarce, tightly adhering to surface of pileus and usually difficult to remove; basidiocarps medium to rather large with 4-10 mm wide stipe; pileus white, greyish, grey-brown to ochre brown below veil, if white than pileus with annulus on stipe.
+5,7 $ *. Veil abundant, loosely attached and easy removable from pileus; basidiocarps very small to small, a few medium-sized; stipe 1-4(-6) mm wide; pileus white to greyish below veil, rare brown; never annulus on stipe.
+
+6,cs4 $ Pileus grey or brown; stipe without annulus; veil sparse, only at centre and brown; when veil whitish or silvery grey then spores warty; $ subsect. Atramentarii (Fr.) Konr. & Maubl.
+6,cs5 $ Pileus whitish with cream, ochre or darker brown centre; stipe with annulus on lower half of stipe; veil white; $ subsect. Coprinus Sing.
+
+7, cs6 $ Veil made up of branched, diverculate, thin- or thickwalled hyphae; if elements in chains with distinct end cells then the walls are thickened and yellow-brown; $ subsect. Alachuani Sing.
+7,cs7 $ Veil made up of chains of smooth, thin-walled, filamentous to elongate, sometimes ellipsoid or a few almost globose elements with distinct end cells; $ subsect. Lanatuli J. Lange
+
+8,9 $ . Fruit bodies medium-sized, somewhat fleshy; stipe 3-10 mm thick; pileus usually brown, never pure white; veil present in form of scattered, granulose floccules or small flocculose scales, often (partly) thick-walled and brown-pigmented under microscope; pileus conical or campanulate, long closed, only tardily expanding, never applanate when old, not grooved, without veil at margin when young.
+8,10 $ *. Fruit bodies very small to small, very thin-fleshed; stipe 0.5-3 mm thick; pileus white to grey; veil mealy-powdery, entirely covering the pileus, at centre often woolly-floccose, white, sometimes pale pinkish brown, yellowish or grey; thin-walled, not pigmented or rarely thick-walled, pale yellow-brown in centre of pileus; pileus expanding to become applanate, usually radially grooved and splitting, when young covered in woolly veil at margin.
+
+9,cs8 $ Veil breaking up in small, more persistent flocculose scales, microscopically existing of chains of fusiform, ellipsoid to globose, in part usually thick-walled cells not colouring in KOH or ammonia; $ subsect. Domesticii Sing.
+9,cs9 $ Veil present in scattered, granulose flocks which soon disappear, microscopically existing of a layer of globose, thin-walled cells, slightly colouring pink or lilaceous in KOH or ammonia; $ subsect. Micacei (Fr.) Uljé & Noordel.
+
+10,cs10 $ Elements of veil smooth or with crystals that easily dissolve in HCl; spores without episporium; $ subsect. Nivei Citerin emend.Uljé & Noordel.
+10,cs11 $ Elements of veil with persistent, nipple-shaped warts that do not dissolve in HCl; spores usually with distinct, rarely indistinct or lacking episporium; $ subsect. Narcotici Uljé & Noordel.
+
+cs1,0$
+Rem -->KEY TO THE SPECIES IN SUBSECTION SETULOSI1. Spores smooth
+1,2 $ . Spores smooth
+1,37 $ . Spores warty
+2,3 $ . Basidia 4-spored
+2,33 $ . Basidia 2-spored
+3,4 $ . Spores ellipsoid, ovoid or oblong
+3,32 $ . Spores mitriform or angular, not ellipsoid, ovoid or oblong
+4,5 $ . Pileocystidia with distinctly tapering neck
+4,20 $ . Pileocystidia (sub)cylindrical, with apex more or less thickened or not, but not tapering
+5,6 $ . No velar spherocysts on pileipellis
+5,18 $ . With velar spherocysts on pileipellis
+6,7 $ . Germ pore eccentric (sometimes only slightly)
+6,15 $ . Germ pore central
+7,8 $ . With pleurocystidia
+7,11 $ . Without pleurocystidia
+8,9 $ . On dung
+8,10 $ . Not on dung
+9,0 $ Clamps-connections absent: $ C. congregatus
+9,0 $ Clamps-connections present: $ C. ephemerus
+10,0 $ Av. Q of spores c. 1.25: $ C. eurysporus
+10,0 $ Av. Q of spores c. 1.60: $ C. sp. Uljé 877
+11,12 $ . Cheilocystidia predominantly globose, subglobose, ellipsoid, broadly ellipsoid, ovoid or obovoid
+11,14 $ . Cheilocystidia predominantly lageniform
+12,0 $ On dung. Pileus < 8 mm in diameter: $ C. heterosetulosus
+12,13 $ . Not on dung. Pileus larger
+13,0 $ Pileocystidia < 100 µm. Sclerocystidia absent: $ C. sp. Uljé 1009
+13,0 $ Pileocystidia > 100 µm. Sclerocystidia present: $ C. callinus
+13,0,n $ (compare also C. sclerocystidiosus)
+14,0 $ Av. Q of spores c. 1.25: $ C. eurysporus
+14,0 $ Av. Q of spores c. 1.60: $ C. impatiens
+15,16 $ . On dung and decaying straw. Base of spores rounded
+15,17 $ . Not on dung. Base of spores rounded or obconical
+16,0 $ With pleurocystidia. Breadth of spores 5-6 µm. Pileus c. 20 mm: $ C. stellatus
+16,0 $ Without pleurocystidia. Breadth of spores 4-5 µm. Pileus < 8 mm: $ C. pellucidus
+17,0 $ With cylindrical elements of veil on pileus. Base of spores obconical: $ C. hiascens
+17,0 $ Without cylindrical elements of veil on pileus. Base of spores rounded: $ C. impatiens
+18,0 $ On dung. Pileus brown, < 10 mm: $ C. heptemerus
+18,19 $ . Not on dung. Pileus orange, somewhat larger
+19,0 $ Cheilocystidia in general ellipsoid to globose: $ C. pyrrhanthes
+19,0 $ Cheilocystidia in general lageniform: $ C. dilectus
+20,21 $ . Av. length of spores 10-12 µm
+20,27 $ . Av. length of spores < 10 µm or > 12 µm
+21,0 $ Velar spherocysts present on pileipellis. On dung: $ C. curtus
+21,22 $ . No velar spherocysts on pileipellis. Not on dung
+22,23 $ . No cylindrical veil on pileus
+22,25 $ . Cylindrical veil present on pileus
+23,0 $ Cheilocystidia globose: $ C. plagioporus
+23,0 ,n$ (compare C. subpurpureus and C. fallax)
+23,24 $ . Cheilocystidia at least partly lageniform
+24,0 $ Cheilocystidia lageniform. Av. Q of spores > > 1.80: $ C. subdisseminatus
+24,0 $ Cheilocystidia mixed, ellipsoid to globose and lageniform. Av. Q of spores < 1.80: $ C. subimpatiens
+25,0 $ Spores > 6 µm broad. Cheilocystidia ellipsoid to globose: $ C. velatopruinatus
+25,26 $ . Spores < 6 µm broad. Cheilocystidia lageniform
+26,0 $ Av. Q of spores c. 1.70: $ C. heterothrix
+26,0 $ Av. Q of spores c. 2.00: $ C. sp. Uljé 952
+27,28 $ . Av. length of spores more than 12 µm
+27,30 $ . Av. length of spores less than 10 µm
+28,0 $ Cheilocystidia lageniform: $ C. sp. den Held Jager 1276
+28,29 $ . Cheilocystidia globose or ellipsoid
+29,0 $ Pileus brown. Sclerocystidia numerous: $ C. sclerocystidiosus
+29,0,n $(compare C. callinus)
+29,0 $ Pileus with purple tinges. Sclerocystidia rare: $ C. subpurpureus
+29,0,n $(compare C. plagioporus and C. fallax
+30,0 $ With spherocysts on pileipellis. Pileocystidia up to 200 µm long. Base of spores obconical. Germ pore central: $ C. disseminatus
+30,31 $ . Without spherocysts on pileus. Cylindrical elements of veil present. Pileocystidia < 120 µm
+31,0 $ Germ pore central. Cheilocystidia ellipsoid to globose: $ C. sp. Uljé 926
+31,0 $ Germ pore eccentric. Cheilocystidia lageniform: $ C. heterothrix
+32,0 $ Spores hexagonal (more or less 6-angled) in front view: $ C. marculentus
+32,0 $ Spores mitriform: $ C. angulatus
+33,34 $ . Cheilocystidia globose, subglobose, ellipsoid, broadly ellipsoid, ovoid or obovoid
+33,36 $ . Cheilocystidia lageniform
+34,0 $ Sclerocystidia, pleurocystidia and clamp-connections present. On dung: $ C. sassii
+34,35 $ . No sclerocystidia. No clamps-connections. Pleurocystidia absent or present
+35,0 $ Pleurocystidia absent. On dung or decaying straw: $ C. bisporus
+35,0 $ Pleurocystidia usually present. On sticks, not on dung: $ C. bisporiger
+36,0 $ Germ pore central. Spores broadly cylindrical to ovoid. Av. Q of spores 1.35-1.50: $ C. singularis
+36,0 $ Germ pore eccentric. Spores ellipsoid. Av. Q of spores 1.75-1.80: $ C. amphithallus
+37,0 $ Basidia 2-spored. Cheilocystidia ellipsoid to globose. Pleurocystidia present: $ C. verrucispermus
+37,0 $ Basidia 4-spored. Cheilocystidia lageniform. Pleurocystidia absent: $ C. silvaticus
+
+cs2,0$
+Rem -->KEY TO THE SPECIES IN SUBSECTION GLABRI - (For nomenclature and full descriptions see Uljé & Bas, 1988)
+1,2 $ . Basidiocarps growing on pure dung.
+1,4 $ . Basidiocarps not on dung.
+2,0 $ Pileus < 10 mm when expanded; length of spores < 11 µm: $ C. miser P.Karst.
+2,3 $ . Pileus > 10 mm when expanded; length of spores 10--15 µm.
+3,0 $ Spores ellipsoid with average Q more than 1.4: $ C. megaspermus P.D.Orton.
+3,0 $ Spores heart-shaped with average Q less than 1.4: $ C. schroeteri P.Karst.
+4,0 $ Average breadth of spores < 7.8 µm; spores rounded triangular: $ C. kuehneri Uljé & Bas.________________________________________
+4,5 $ . Average breadth of spores > 7.8 µm; spores on average more than 9 µm broad when rounded triangular.
+5,0 $ Pileus lilaceous when young and fresh; spores 10--13 x 9--11 x 6--8 µm, 5--6 angular; pileipellis and cheilocystidia with oily granules: $ C. lilatinctus Bender & Uljé
+5,6 $ . Pileus without lilaceous tinges; spores on average less than 9 µm broad when 5--6 angular; cheilocystidia without oily granules.
+6,7 $ . Average length of spores < 11 µm.
+6,8 $ . Average length of spores > 11 µm.
+7,0 $ Spores heart-shaped in frontal view with rounded angles: $ C. leiocephalus P.D.Orton
+7,0 $ Spores sub(globose) in frontal view without angles: $ C. galericuliformis Watl.
+8,0 $ Expanded pileus small, up to 13(--17) mm; spores 12--17 x 11.5--16 µm: $ C. hercules Uljé & Bas
+8,9 $ . Expanded pileus up to 30 mm broad; spores less than 14 µm broad.
+9,0 $ Spores 10--14 x 7.5--10 µm, elongate 5--6 angular: $ C. plicatilis (Curt.: Fr.) Fr.
+9,0 $ Spores 10--16 x 9--13 µm, rounded triangular: $ C. schroeteri P.Karst.
+
+cs3,0$ auricomus
+1,0$ subsect. Auricomi Sing :(only one species: $ C. auricomus
+
+cs4,0$
+Rem -->COPRINUS SUBSECTION ATRAMENTARII
+Rem -->Pileus medium-sized, 30-80 x 20-60 mm, ochre-brown, grey-brown or grey, squamulose only at centre, often seemingly smooth. Growing fasciculate, on wood, trunks or wood-chips. Spores < 10 µm long when smooth, if larger then spores warty (subsect. Atramentarii (Fr.) Konr. & Maubl.).
+1,3$ type
+1,0 $ Pileus c. 20-30 mm high, ochraceous, almost smooth; spore breadth 4.5-5.2 µm: $ C. acuminatus
+1,2 $ . Pileus usually larger, orange-brown, grey-brown or grey; spore breadth 5-6 µm
+2,0 $ Pileus grey-brown or grey, veil scarce, adpressed, only at centre: $ C. atramentarius
+2,0 $ Pileus orange-brown, veil more abundant, squamulose, often with reflexed tips: $ C. romagnesianus
+3,0$Pileus medium-sized, 30-80 x 20-60 mm, ochre-brown, grey-brown or grey, squamulose only at centre, often seemingly smooth. Growing fasciculate, on wood, trunks or wood-chips. Spores < 10 µm long when smooth, if larger then spores warty $subsect. Atramentarii (Fr.) Konr. & Maubl.)$s"ss. atramentarii"
+
+cs5,0$
+
+Rem -->COPRINUS SUBSECTION MICACEI
+Rem -->KEY TO THE SPECIES
+
+1,5$ Type
+1,2 $ . Stipe smooth, caulocystidia absent; spores ellipsoid or ovoid.
+1,3 $ . Stipe pruinose, caulocystidia present; spores ovoid or mitriform.
+2,0 $ Pileus rather pale ochre-brown $ C. truncorum
+2,0 $ Pileus usually real ochre-brown, rust $ C. saccharinus
+3,0 $ Pleurocystidia abundant, oblong; spores ovoid $ C. pallidissimus
+3,4 $ . Pleurocystidia absent or very scarce and then only near lamellae-edge; spores ovoid or (sub)mitriform.
+4,0 $ Veil dark pinkish brown; spores ovoid or submitriform $ C. rufopruinatus
+4,0 $ Veil pale, whitish, cream or ochre; spores distinctly mitriform $ C. micaceus
+5,0$ Basidiocarps medium-sized, somewhat fleshy, pale ochre, rust or cinnamon; stipe 3-10 mm wide; veil made up of very small, scattered, granular flocks, not covering entire pileus when young, microscopically of (sub)globose, hyalin, thin-walled cells, not in chains; pileus subglobose to ovoid, only tardily expanding to campanulate$subsect. Micacei (Fr.) Uljé & Noordel.).$s"ss.micacei"
+
+cs6,0$
+
+Rem -->'COPRINUS SUBSECTION ALACHUANI
+1,30$ type
+1,2 $ . Spores smooth, without ornamentation.
+1,28 $ . Spores warty.
+
+2,3 $ . Basidia 4-spored; if spores amygdaloid then never truncate.
+2,0 $ Basidia 2-spored; spores amygdaloid and truncate: $ C. piepenbroekii
+3,4 $ . Average spore length > 10 µm; on dung or soil
+3,9 $ . Average spore length < 10 µm.
+3,20 $ . (if not on dung or soil step 20).
+4,0 $ Elements of veil thick-walled, with ascending terminal elements: $ C. vermiculifer
+4,5 $ . Elements of veil thin-walled; walls < 0.5 µm thick.
+5,6 $ . Breadth of spores < 10 µm.
+5,8 $ . Breadth of spores > 10 µm.
+6,0 $ Not on dung; medium species; veil in patches: $ C. stanglianus
+6,7 $ . On dung; small species; veil hairy.
+7,0 $ Pileus white when young; average spore length > 11 µm: $ C. xenobius
+7,0 $ Pileus yellow when young; average spore length < 11 µm: $ C. luteocephalus
+8,0 $ On dung, growing on sclerotia: $ C. sclerotiorum
+8,0 $ On soil, not on sclerotia: $ C. picaceus
+9,0 $ On dung; spores cylindrical ovoid, rounded rectangular: $ C. filamentifer
+9,10 $ . Not on dung; spores otherwise shaped.
+10,11 $ . Average spore length < 6 µm if veil thin-walled, < 6.5 µm if veil thick-walled.
+10,12 $ . Average spore length > 6 µm if veil thin-walled, > 6.5 µm if veil thick-walled.
+11,0 $ Veil thick-walled; spores globose: $ C. herinkii
+11,0 $ Veil thin-walled; spores the shape of a maize-kernel: $ C. argenteus
+12,13 $ . Elements of veil thin-walled; walls < 0.5 µm thick.
+12,23 $ . Elements of veil thick-walled; walls > 0.5 µm thick in places.
+13,0 $ Large species; pileus 50-100 mm when expanded; base of stipe with dark red-brown rhizomorphs: $ C. strossmayeri
+13,14 $ . Smaller species; pileus 5-40 mm when expanded; no rhizomorphs at base of stipe.
+14,0 $ Spores rounded quadrangular, with apical papilla: $ C. episcopalis
+14,15 $ . Spores subglobose to ellipsoid or ovoid, without apical papilla.
+15,16 $ . Terrestrial, on burned or bare soil, or in lawns.
+15,19 $ . Not terrestrial, not on soil.
+16,17 $ . Average Q of spores > 1.25.
+16,18 $ . Average Q of spores < 1.25.
+17,0 $ Pleurocystidia becoming longer with Q 2.5 and more: $ C. urticicola var. urticicola
+17,0 $ Pleurocystidia up to 55 µm in length with Q c. 2: $ C. fluvialis
+18,0 $ In lawns, often on bare soil; expanded pileus 8-15 mm wide: $ C. epichloeus
+18,0 $ Usually on burned places; expanded pileus 15-30 mm wide: $ C. gonophyllus
+19,20 $ . Average Q of spores < 1.2.
+19,21 $ . Average Q of spores > 1.2.
+20,0 $ Stipe 0.5-2 mm wide; on Phragmites, Juncus, and the like, outdoors: $ C. kubickae
+20,0 $ Stipe 2-6 mm wide; on straw, coconut mattings, rotting textiles and straw containing materials like ceilings in old buildings etc., in Europe usually indoors: $ C. kimurae
+21,0 $ Average Q of spores > 1.55; expanded pileus 10-20 mm wide; spores dark brown $ C. goudensis
+21,22 $ . Average Q of spores < 1.55; expanded pileus 6-15 mm wide; spores pale to medium brown.
+22,0 $ Veil of young pileus dark grey at centre; on dead branches of willow: $ C. urticicola var. salicicola
+22,0 $ Veil of young pileus white, at centre sometimes pale ochraceous; usually on grasses, but also on other vegetable refuse, sometimes on wood: $ C. urticicola var. urticicola
+23,0 $ Veil mixed with long, brown, thick-walled hairs: $ C. spilosporus
+23,24 $ . No long, brown, thick-walled hairs present.
+24,0 $ Walls of velar elements over 2 µm thick in places: $ C. friesii
+24,25 $ . Walls of velar elements up to 1.5(-2) µm thick in places.
+25,0 $ Spores short ovoid or subglobose, lentiform: $ C. phaeosporus
+25,26 $ . Spores broadly ellipsoid, ovoid or slightly rhomboid; not distinctly lentiform.
+26,0 $ Pleurocystidia 20-50 µm wide: $ C. xantholepis
+26,27 $ . Pleurocystidia 10-30 µm wide.
+27,0 $ Veil on pileus dark brown, sepia; excrescences (micr.) often cylindrical with rounded apex: $ C. tigrinellus
+27,0 $ Veil on pileus white or ochre-brown; excrescences (micr.) often tapering with pointed apex: $ C. pseudofriesii
+28,0 $ Spores amygdaloid: $ C. echinosporus
+28,29 $ . Spores ellipsoid, ovoid.
+29,0 $ Basidia 2-spored: $ C. rugosobisporus
+29,0 $ Basidia 4-spored: $ C. phlyctidosporus
+30,0$Basidiocarps very small to medium-sized; expanded pileus 6-60 mm. Pileus with veil made up of weakly to strongly diverticulate, and then often thick-walled elements. Stipe smooth, but in most cases covered with very small velar flocks, especially at base $subsect. Alachuani Sing.$s"alachuani"
+
+ cs7,0$
+Rem -->KEY TO THE SPECIES IN SUBSECTION LANATULI
+1,0 $ Spores with rounded-conical nodules: $ C. calosporus
+1,2 $ . Spores smooth.
+2,3 $ . Basidia 2-spored.
+2,4 $ . Basidia 4-spored.
+3,0 $ On compost or saw-dust; veil without ellipsoid or subglobose elements; average spore breadth > 7.8 µm: $ C. scobicola
+3,0 $ On dung; veil with some ellipsoid or subglobose elements; average spore breadth < 7.8 µm: $ C. bicornis
+4,0 $ Growing on Ammophila arenaria in yellow outer dunes: $ C. ammophilae
+4,5 $ . Habitat otherwise.
+5,0 $ Veil of centre of pileus thick-walled, wall up to 1 µm thick: $ C. pachydermus
+5,6 $ . Veil of centre of pileus thin-walled, wall < 0.5 µm thick.
+6,7 $ . Veil cream, ochre, yellow, orange or orange-red.
+6,9 $ . Veil white, (silvery) grey or grey-brown.
+7,0 $ Pileus with beautiful rust-coloured or orange-red veil, visible at least at base of stipe, soon slimy: $ C. erythrocephalus
+7,8 $ . Veil cream, yellowish or ochre, not slimy.
+8,0 $ Veil cream or pale ochre; spores very broadly fusiform, av. Q < 1.5; on wood, often in wounds of trees; terminal elements of veil up to c. 40 µm wide, not yellowish encrusted: $ C. spelaiophilus
+8,0 $ Veil distinctly yellowish or ochre; spores ellipsoid to ovoid, av. Q > 1.5; on clayey soil, mud or wood-chips; terminal elements of veil up to c. 20(--25) µm wide, strongly yellowish encrusted : $ C. ochraceolanatus
+9,10 $ . Average spore length < 9.2 µm.
+9,13 $ . Average spore length > 9.2 µm.
+10,11 $ . Average spore breadth > 5.8 µm.
+10,12 $ . Average spore breadth < 5.8 µm.
+11,0 $ Medium species; spores with av. Q < 1.3; not on dung; veil with elements of one kind: sausage-shaped in chains: $ C. jonesii
+11,0 $ Small species; spores with av. Q > 1.3; on dung; veil with two kinds of elements: sausage-shaped and diverticulate: $ C. candidolanatus
+12,0 $ On dung or mixed dung; spores with av. Q > 1.6; spores ellipsoid, tending to cylindrical: $ C. pseudoradiatus
+12,0 $ On wood-chips, soil mixed with pieces of wood or vegetable refuse; spores with av. Q < 1.6; spores ellipsoid, tending to rhomboid: $ C. geesterani
+13,14 $ . Average spore length < 10.8 µm.
+13,16 $ . Average spore length > 10.8 µm.
+14,0 $ Veil whitish, cream or pale ochre, in small flocks; spores very broadly fusiform; in wounds of - often living - trees or on stumps: $ C. spelaiophilus
+14,15 $ . Veil whitish or greyish, hairy-floccose; spores ovoid or ellipsoid; on dung, mixed dung or compostheaps.
+15,0 $ Veil with one kind of elements, sausage-shaped in chaines; pileus up to 30 mm when expanded; number of lamellae > 35; spores 8.4--11.8 x 5.8--7.8 µm: $ C. cinereus
+15,0 $ Veil with two kinds of elements; pileus up to 12 mm when expanded; number of lamellae < 30; spores 7.3--10.7 x 4.8--7.2 µm: $ C. candidolanatus
+16,0 $ Average spore breadth > 8.2 µm: $ C. macrocephalus
+16,17 $ . Average spore breadth < 8.2 µm.
+17,0 $ On dung or dung mixed with straw or hay; average spore breadth > 7.8 µm; spores ellipsoid, tending to cylindrical: $ C. radiatus
+17,18 $ . On soil, often mixed with rotten pieces of wood, wood-chips, compostheaps or vegetable refuse; average spore breadth < 7.8 µm; spores ellipsoid.
+18,0 $ Veil on pileus thin, cobwebby, looking silky; average spore breadth < 6.7 µm: $ C. krieglsteineri
+18,19 $ . Veil on pileus abundant, hairy fibrillose; average spore breadth > 6.7 µm.
+19,0 $ Stipe rather firm, upright; usually on wood-chips and vegetable-refuse; less frequent in lawns; stipe wall up to 450 µm thick: $ C. lagopus var. lagopus
+19,0 $ Stipe very fragile, bending down before pileus expands; exclusively in lawns; stipe wall < 250 µm thick: $ C. lagopus var. vacillans
+
+cs8,0$
+Rem -->COPRINUS SUBSECTION DOMESTICI
+Rem -->-->Basidiocarps medium-sized, somewhat fleshy, pale ochre to ochre; stipe 3-10 mm wide; veil covering entire pileus when young, breaking up of small, woolly flocks (in C. bipellis in patches), microscopically of chains of cylindrical, ellipsoid, broadly fusiform or (sub)globose, hyalin, thin-walled and in part thick-walled and yellow-brown cells; terminal cells distinct, cylindrical, ellipsoid, ovoid or fusiform; pileus subglobose to ovoid, only tardily expanding to campanulate (subsect. Domestici Sing.).KEY TO THE SPECIES
+1,5$ Type
+1,0 $ Spores ellipsoid, up to 16 µm long; germ pore eccentric $ C. flocculosus
+1,2 $ . Spores cylindric-ellipsoid, up to 12(-13) µm long; germ pore central.
+2,0 $ Spore length up to 12(-13) µm long $ C. radians
+2,3 $ . Spore length less than 10(-11) µm.
+3,0 $ Veil breaking up in patches (like in Amanita) $ C. bipellis
+3,4 $ . Veil breaking up in small, woolly flocks (up to 2 mm diam.).
+4,0 $ Spore breadth up to 4.5 µm; pileus 25-40 x 20-30 mm before expanding; usually on and around truncs $ C. domesticus
+4,0 $ Spore breadth 4.5-5.5 µm; pileus 20-30 x 15-20 mm before expanding; usually on dead branches $ C. xanthothrix
+5,0$Basidiocarps medium-sized, somewhat fleshy, pale ochre to ochre; stipe 3-10 mm wide; veil covering entire pileus when young, breaking up of small, woolly flocks (in C. bipellis in patches), microscopically of chains of cylindrical, ellipsoid, broadly fusiform or (sub)globose, hyalin, thin-walled and in part thick-walled and yellow-brown cells; terminal cells distinct, cylindrical, ellipsoid, ovoid or fusiform; pileus subglobose to ovoid, only tardily expanding to campanulate $subsect. Domestici Sing.).$s"domestici"
+
+
+cs9,0$
+
+Rem -->COPRINUS SUBSECTION MICACEI
+Rem -->KEY TO THE SPECIES
+1,5$ type . 
+
+1,2 $ . Stipe smooth, caulocystidia absent; spores ellipsoid or ovoid.
+1,3 $ . Stipe pruinose, caulocystidia present; spores ovoid or mitriform.
+2,0 $ Pileus rather pale ochre-brown $ C. truncorum
+2,0 $ Pileus usually real ochre-brown, rust $ C. saccharinus
+3,0 $ Pleurocystidia abundant, oblong; spores ovoid $ C. pallidissimus
+3,4 $ . Pleurocystidia absent or very scarce and then only near lamellae-edge; spores ovoid or (sub)mitriform.
+4,0 $ Veil dark pinkish brown; spores ovoid or submitriform $ C. rufopruinatus
+4,0 $ Veil pale, whitish, cream or ochre; spores distinctly mitriform $ C. micaceus
+5,0$ Basidiocarps medium-sized, somewhat fleshy, pale ochre, rust or cinnamon; stipe 3-10 mm wide; veil made up of very small, scattered, granular flocks, not covering entire pileus when young, microscopically of (sub)globose, hyalin, thin-walled cells, not in chains; pileus subglobose to ovoid, only tardily expanding to campanulate (subsect. Micacei (Fr.) Uljé & Noordel.).$type micacei
+
+cs10,0$
+Rem -->KEY TO THE SPECIES IN SUBSECTION NIVEI
+1,2 $ . Av. length of spores > 12 µm
+1,4 $ . Av. length of spores < 12 µm
+2,0 $ Basidia 2-spored; pileus grey or cream-grey, sometimes white at first: $ C. pachyspermus
+2,3 $ . Basidia 4-spored; pileus white at first
+3,0 $ Spores 10--15 x 6.5--8.5 µm; spores ± 6-angular (hexagonal); pleurocystidia absent or very sparse: $ C. cothurnatus
+3,0 $ Spores 12--19 x 11--15.5 µm; spores ± limoniform; pleurocystidia present: $ C. niveus
+4,5 $ . Spores oval or ellipsoid, sometimes slightly cylindrical
+4,15 $ . Spores differently shaped
+5,0 $ Basidia 2-spored: $ C. bellulus
+5,6 $ . Basidia 4-spored
+6,0 $ Cystidia absent: $ C. cortinatus
+6,7 $ . Cystidia present
+7,8 $ . Both cheilo- en pleurocystidia present
+7,13 $ . Only cheilocystidia present
+8,9 $ . Pileus very small, expanded < 6 mm; average length of spores < 9 µm
+8,11 $ . Pileus larger, 5--25 mm when expanded or av. length of spores > 9 µm
+9,0 $ In lawns, terrestrial, not on dung, young pileus white; spores 7--9.5 x 5--6.5 µm: $ C. idae
+9,10 $ . On dung; pileus grey or white and then breadth of spores < 5 µm
+10,0 $ Young pileus grey; spores 7.5--9.5 x 5--6 µm: $ C. poliomallus
+10,0 $ Young pileus white; spores 6--7.5(--8) x 3.5--4.5(--5) µm: $ C. pseudocortinatus
+11,0 $ Expanded pileus up to 25 mm; av. length of spores < 9 µm; on dung: $ C. utrifer
+11,12 $ . Expanded pileus 5--12 mm; av. length of spores > 9 µm
+12,0 $ On grasses. Cheilocystidia 20--45 x 8--13 µm: $ C. pilosotomentosus
+12,0 $ On wood. Cheilocystidia 50--80 x 20--35 µm: $ C. nemoralis
+13,0 $ Cheilocystidia utriform: $ C. candidatus
+13,14 $ . Cheilocystidia (sub)globose or ellipsoid
+14,0 $ Caulocystidia absent, cheilocystidia without diverticulations in apical part: see discussion under $ C. cortinatus
+14,0 $ Caulocystidia present, with finger-like diverculations at apex; cheilocystidia (sub)globose to ellipsoid, partly also diverculate: $ C. ramosocystidiatus
+15,16 $ . Spores with rounded angles (4--5-angular), 8--10.5 x 8--10 µm; pleurocystidia present
+15,18 $ . Spores differently shaped; breadth of spores < 8 µm or spores limoniform; pleurocystidia present or absent
+16,0 $ Ring present: $ C. ephemeroides
+16,17 $ . Ring absent
+17,0 $ Cheilocystidia in part lageniform. On dung: $ C. cordisporus
+17,0 $ No lageniform cheilocystidia present. On vegetable debris: $ C. patouillardii
+18,19 $ . Pleurocystidia present
+18,20 $ . Pleurocystidia absent
+19,0 $ Breadth of spores 5--6 µm, heart- or pear-shaped: $ C. cardiasporus
+19,0 $ Breadth of spores 7.5--11.5 µm, limoniform: $ C. pseudoniveus
+20,0 $ Veil at centre of pileus dark grey, usually with greenish hue; spores narrowly ovoid or amygdaliform, c. 4--5 µm broad: $ C. coniophorus
+20,0 $ Veil white, often cream-coloured or slightly ochraceous at centre of pileus; spores ± 6-angular in frontal view, c. 5--6 µm broad; with two bumps at each side: $ C. iocularis
+
+cs11,0$
+Rem -->KEY TO THE SPECIES IN SUBSECTION NARCOTICI -
+1,2 $ . Basidia 2- or 3-spored
+1,4 $ . Basidia 4-spored
+2,0 $ Basidia 3-spored: $ C. trisporus
+2,3 $ . Basidia 2-spored
+3,0 $ Base of spores conical; average Q of spores > 1.8; spores breadth 6-7.5 µm: $ C. cinereofloccosus
+3,0 $ Base of spores rounded; average Q of spores < 1.8; spore breadth 7.5-8.5 µm: $ C. saccharomyces
+4,5 $ . On dung or mixed dung
+4,9 $ . Not on dung
+5,6 $ . Spores with rounded base; episporium scarce, often seemingly absent, smooth
+5,8 $ . Spores with conical base; episporium strongly developed, wrinkled
+6,0 $ Smell of raw potatoes or absent; pileus up to 20(-25) mm when expanded; usually growing from sclerotia: $ C. tuberosus
+6,7 $ . Smell strong, (narcotic); pileus up to 12 mm when expanded; never growing from sclerotia
+7,0 $ Spores 6-8 x 3-4.5 µm, cylindrical ellipsoid; pileus usually white, sometimes greyish: $ C. stercoreus
+7,0 $ Spores 7.5-10 x 4.5-6.5 µm; pileus mouse-grey: $ C. foetidellus
+8,0 $ Spores 12-17 x 6-9 µm; often on pure dung (horse): $ C. radicans
+8,0 $ Spores 9-13 x 5-6.5 µm; usually not on pure dung: $ C. narcoticus
+9,0 $ On wood; on moss-covered, horizontal cut surfaces of trunks; smell none or indistinct: $ C. laanii
+9,10 $ . On rotting plants, compost heaps etc
+10,11 $ . Spores with rounded base
+10,12 $ . Spores with conical base
+11,0 $ Average breadth of spores < 6.5 µm; smell of raw potatoes; usually growing from sclerotia; on compost heaps or mixed dung: $ C. tuberosus
+11,0 $ Average breadth of spores > 6.5 µm; smell none or otherwise; never growing from sclerotia; never on dung: $ C. martinii
+12,13 $ . Average breadth of spores > 6.5 µm
+12,14 $ . Average breadth of spores < 6.5 µm
+13,0 $ Episporium smooth, not strongly developed (up to c. 1 µm wide); spore base only slightly conical; smell none; never on dung: $ C. martinii
+13,0 $ Episporium wrinkled, strongly developed (up to c. 2.5 µm wide); spore base distinctly conical; smell strong 'narcotic'; often on dung: $ C. radicans
+14,0 $ Episporium smooth; smell absent or indistinct; average breadth of spores up to 5.5 µm; never on dung: $ C. semitalis
+14,0 $ Episporium wrinkled; smell strongly 'narcotic'; average breadth of spores 5.5 µm and more; sometimes on dung: $ C. narcoticus
+
+

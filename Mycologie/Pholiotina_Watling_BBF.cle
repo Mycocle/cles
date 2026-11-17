@@ -1,0 +1,72 @@
+Titre$ C O N O C Y B E   s.g.  P H O L I O T I N A  -  WATLING 1982
+Com$ British Fungus Flora 3  -  Adaptée par Paul Bertéa 20-10-2013
+1,0$ Retour au Kit $$f"Pholiotina_kit.cle"
+1,0$
+1,2 $ Fruit-body with distinct veil (Figs. 78,79 & 81) either forming a ring (eg. Figs. 207, 208) or marginal floccules (eg. Figs. 195, 199) to the cap; stem always fibrillose silky
+1,14 $ Fruit-body lacking veil; stem pubescent- hoary throughout often becoming smooth (Figs. 76, 77 & 85)
+1,0 $                                                             ************************************
+1,0 $ Figures $$f"Pholiotina_BBF3_fig.pdf"
+
+2,3 $ Velar remnants forming a persistent, moveable or peronate ring, sometimes adhering to vegetation (Figs. 81 & 81a) 
+2,10 $ Velar remnants forming cottony floccules or membranous particles at cap-margin (care must be taken to ensure that a ring was not present on the stem when young and subsequently lost by mishandling, abrasion with vegetation etc.) (Figs. 78 & 79)
+
+3,0 $ Ring loose, frequently broken; spores lacking germ-pore; fruit-body appearing in the spring $ aporos
+3,4 $ Ring persistent not loose or if moveable then spore with distinct, although sometimes only small, germ-pore; fruit-body autumnal
+
+4,0 $ Spores (6.5-)7-8.5(-9.5)/(4-)4.5-5 µm; marginal cystidia lageniform; cap (2-)3-12 mm but rarely more than 7mm diam.; stem slender 0.5-1.5mm broad $ filaris
+4,0,N$ n°48, p. 92 - fig. 221,222/// = P. rugosa sec Hausknecht (2009), Conocybe-Pholitina:641/// = Galera pusilla Quélet/// = Pholiota togularis ss. Konrad & Maublanc, Bresadola/// ICONOGRAPHIE:///Lange 406 C, C1
+4,5 $ Spores generally larger, if of similar size marginal cystidia cylindric; cap usually more than 10 mm, rarely less than 7 mm; stem generally more robust
+
+5,6 $ Basidia 2-spored (Fig. 210)
+5,7 $ Basidia 4-spored (Fig. 75b)
+
+6,0 $ Cap ochraceous cinnamon to sienna persistently conical or conico-campanulate, distinctly striate; ring thick, often rather small, indistinctly striate above; spores 10.5-14/5-6(-7) µm $ blattaria
+6,0,N$ n°47, p. 92 - fig. 213, 214/// = P. teneroides sec Hausknecht (2009), Conocybe-Pholiotina:651
+6,0 $ Cap pale ochraceous with ochre centre then buff or tinged date brown, not striate at margin; ring large, distinctly striate above; spores 10-12/5-6 µm $ percincta
+6,0,N$ n°50, p. 94 - fig. 204, 205, 210, 212/// = P. teneroides sec Hausknecht (2009), Conocybe-Pholiotina:651
+
+7,0 $ Cap ochre (H) or sienna when fresh; marginal cystidia lageniform with long elongate neck (Fig. 203), spores 10-12/5.5-6.5 µm $ vexans
+7,8 $ Cap deep rusty tawny to brick when fresh; if cystidia lageniform then spores 8-10/4.5-5.5(-6) µm
+
+8,0 $ Marginal cystidia lageniform with short neck; spores 8—10/4.5—5.5(—6) µm; cap strongly wrinkled or rugulose $ rugosa
+8,9 $ Marginal cystidia subcapitate or flexuous- cylindric; spores 7-8(-9)/4-4.5(-5) µm; cap smooth or only slightly wrinlded on drying
+
+9,0 $ Marginal cystidia cylindric-flexuose (Fig. 220) $ arrhenii
+9,0 $ Marginal cystidia swollen at apex, subcapitate (Fig. 224) $ hadrocystis
+
+10, 0 $ Cap deep ochre (H) to sienna, slightly striate when fresh; stem white or pale cream discolouring rusty tawny from base up; marginal cystidia ± subcapitate with irregular swollen neck (Fig. 216); spores ellipsoid with small germ-pore. (If orange with saffron margin and cylindric marginal cells see obs. to 56) $ appendiculata
+10,11 $ Cap rusty tawny, brick to bay or if deep ochre to sienna then margin distinctly striate when moist and marginal cystidia lageniform, cylindric with long flexuous neck or ± mixed with clavate cells; spores phaseoliform, distinctly amygdaliform without germ-pore, or ellipsoid
+
+11,12 $ Cap margin and sometimes disc with small fugacious scattered scales of vol; spores ellipsoid, if slightly amygdaliform then with germ-pore; marginal cystidia lageniform (Figs. 202 & 218)
+11,13 $ Cap margin with conspicuous appendiculate veil; spores either distinctly phaseoliform or distinctly amygdaliform; marginal cystidia prominently capitate (Fig. 196) or simply flexuous-cylindric (Fig. 200)
+
+12,0 $ Stem entirely ivory becoming pale ochraceous, silky fibrillose, pruinose-striate at apex sometimes with white patches from veil; veil occasionally on cap-disc; marginal cystidia a mixture of clavate and lageniform cells with neck 3.5-5 fim broad $ exannulata
+12,0 $ Stem white, soon tinged pale ochraceous (F) from fibrillose covering, distinctly floccose at apex; veil restricted to cap- margin; marginal cystidia lagehiform only, with neck 3-4.5 µm broad $ dentatomarginata
+
+13,0 $ Cap rusty tawny to bay with white to pale cream (C) denticles at margin; spores phaseoliform with small germ-pore; marginal cystidia distinctly capitate, skittle-shaped (Fig, 196) $ brunnea
+13,0 $ Cap fulvous or tinged rust, with conspicuous and copious whitish or yellowish cottony veil; spores amygdaliform with or without a hyaline spot at apex; marginal cystidia cylindric or if swollen below then with flexuose neck (if found in spring see §3) (Fig. 200) $ vestita
+
+14,15 $ Cystidia lageniform, lanceolate or utriform, never distinctly capitate (lecythiform) (Figs. 174, 177, 185, 187, 192, 200....)
+14,22 $ Cystidia lecythiform (Figs. 87, 99, 105-107....)
+
+15,0 $ Cap hemispherical, non-striate, viscid; on dung $ coprophila
+15,16 $ Cap campanulate, obtuse-umbonatc or convex, becoming plano-convex, never hemispherical, striate or not when fresh; if viscid then cap distinctly sulcate-striate and amongst herbs, grass or on bare soil
+
+16,0 $ Base of stem becoming dark bluish green or greenish grey with age or on bruising $ cyanopus
+16,17 $ Base of stem remaining white or tinged colour of cap; never bluish green
+
+17,0 $ Cap membranous, soon expanded, becoming plicate-sulcate and often split; marginal cystidia lageniform with long, cylindric head (Fig. 174) $ plicatella
+17,18 $ Cap not rapidly expanding or if expanded with age then neither plicate-sulcate nor splitting; marginal cystidia always lacking long neck
+
+18,0 $ Cap 4-1 Omm, pale ochraceous to pale buff tinged vinaceous buff or clay pink; marginal cystidia lageniform-subulate, very small with slightly swollen base and short neck (Fig. 182) $ mairei
+18,19 $ Cap over 12.5 mm or if small then pale sienna with darker disc and striae, conico-campanulate; marginal cystidia prominent lageniform, utriform or lanceolate
+
+19,0 $ Cap remaining conico-campanulate 4-15 mm broad; marginal cystidia lageniform $ sulcatipes
+19,0,N$/// = Ph. filipes sec Hausknecht (2009), Bolbitius-Pholiotina:578
+19,20 $ Cap convex soon broadly umbonate, expanded-convex greater than 12.5 mm; marginal cystidia utriform or lanceolate, or if lageniform the neck poorly differentiated
+
+20,0 $ Among rushes and sedges in fens and damp woodlands on base-rich soil; marginal cystidia utriform (Fig. 177) $ utriformis
+20,21 $ Under herbaceous plants in woodlands on base-rich soil or in gardens; marginal cystidia lageniform-lanceolate (Figs. 187 & 189)
+
+21,0 $ Marginal cystidia lageniform with poorly differentiated neck and obtuse apex; spores 8.5-10/5-5.5 µm $ pygmaeoaffinis
+21,0,$ Marginal cystidia drawn out into long sharp point (lanceolate); spores 7-8/4-4.5 µm $ striaepes

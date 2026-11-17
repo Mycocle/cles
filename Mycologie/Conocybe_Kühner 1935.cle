@@ -1,0 +1,64 @@
+10-01-2016
+
+1,0 $ RETOUR AU KIT $$f"Conocybe_kit.cle"
+1,0,$
+
+
+1,0 $ Chapeau se fissurant radialement sur le dos des lames (comme celui des Coprins véliformes). $ C. plicatella $s"PLICATELLAE"
+1,2 $ Chapeau strié ou non, mais jamais fendillé radialement au dos des lames.
+
+2,3 $ Cheilocystides terminées par un bouton globuleux porté par un pédoncule (parfois très court) grêle. $$s"CAPITATAE"
+2,16 $ Cheilocystides à extrémité ± atténuée mais dépourvue de bouton globuleux. $$s"PILIFERAE"
+
+3,7 $ Stipe entièrement revêtu de cystides à bouton et (pratiquement) dépourvu de villosité de filaments grêles. Espèces souvent assez grandes. $$s"FARINOSAE"
+3,4 $ Stipe velouté à la loupe par des filaments grêles (1-3 µm) ± dressés.
+
+4,0 $ Stipe blanc, même en dedans et à la base. $ C. lateritia $s"CANDIDAE"
+4,5 $ Stipe coloré, au moins en dedans et à la base.
+
+5,6 $ Stipe portant jusqu’à sa base de nombreuses cystides à bouton mêlées aux filaments grêles. Espèces à chapeau longuement strié (en temps humide) ocracé à roux brunâtre ; Spores de X 5,5 µm au moins, à pore évident. $$s"MIXTAE"
+5,13 $ Poils à bouton nuls (ou très dispersés) sur le stipe. Espèces souvent petites et frêles $$s"PILOSELLAE"
+
+6,0 $ Stipe très densément villeux (sauf dans la région supérieure abritée par le chapeau qui peut être simplement pruineuse). Chapeau relativement élevé. $ C. pubescens
+6,13 $ Stipe à villosité souvent difficilement visible ; poils à bouton disparaissant fréquemment à quelque distance du sommet du pied. Espèces souvent petites et grêles.
+
+7,0 $ Très petite espèce (D = 5-12 mm. ; H = 7-25 mm. ; d = 0,5- 1 mm.) à chapeau souvent convexe plan ou discoïde, à spores de 5,5-10 x 3-5 µm, parfois ± amygdalaires à sommet subpapillé ou subtilement ponctuées. $ C. laricina
+7,8 $ Espèces plus grandes à spores lisses, de profil elliptique, presque toujours tronquées au sommet par le pore.
+
+8,0 $ Stipe radicant (mais à racine fragile, passant facilement inaperçue) ; spores à silhouette élargie citriforme, parfois subanguleuse ; réaction ammoniacale négative. $ C. antipoda
+8,9 $ Stipe non radicant ; spores non citriformes subanguleuses.
+
+9,10 $ Poils d’arête de petite taille (leur diamètre atteignant au plus 4,5-5 (-5,7) µm à la tête et 10-11 µm au ventre).
+9,12 $ Poils d’arête de grande taille (leur diamètre mesurant au moins (3,5)-4,5-6,5-(7,5) µm. à la tête et leur ventre atteignant assez souvent 13-15 µm. de largeur).
+
+10,0 $ Spores petites (10 X 6 µm au plus) ; espèce ne formant pas de longues aiguilles cristallines dans l’ammoniaque $ C. mesospora
+10,11 $ Espèces ne réunissant pas ces caractères, à spore en général > 10 X 6 µm plus grande.
+
+11,0 $ Stipe blanc crème à base blanche, à chair blanche jusqu’à la base ; réaction ammoniacale négative $ C. leucopoda
+11,0 $ Stipe ± coloré, au moins en dedans et à la base ; des fragments de lames ou de chapeaux écrasés dans l’ammoniaque y forment au bout de quelques minutes ou de quelques heures, de longues aiguilles cristallines $ C. tenera
+
+12,0 $ Champignons de taille moyenne ou grande (D = 16-50 mm, d = 1,5-2,5 mm.), formant d’abondantes aiguilles cristallines en présence d’ammoniaque ; spores de 8,5-14 (-16) µm. $ C. tenera
+12,0 $ Champignons souvent plus petits ou à stipe plus frêle ; réaction ammoniacale faible ou nulle ; spores petites: 8-11,5 µm. $ C. spicula
+
+13,0 $ Chapeau campanulé allongé, elliptique ou cylindrique, ne s'ouvrant pas, tendant tout au plus à s’évaser en bas, ± brunâtre, striolé ou non. $ C. cylindracea
+13,14 $ Chapeau s’ouvrant franchement à maturité.
+
+14,0 $ Chapeau presque jamais strié, même en temps humide, blanc, crème, paille sale, grisâtre ou ocre clair, semblant non hygrophane. Spore de plus de 10 µm. Basides presque toujours bisporiques. $ C. rickeni
+14,15 $ Chapeau toujours strié en temps humide.
+
+15,0 $ Spores petites 5,7-8,7 (-9,7) x 3,5-5 µm à pore souvent peu distinct de profil bien que la paroi soit normalement colorée ; lames serrées (L = 15-36 ; 1 = 3-7) ; chapeau souvent très surbaissé. $ C. pilosella,
+15,0 $ Spores souvent plus grandes et à pore tronqué évident (parfois petites et sans pore distinct mais alors à paroi anormalement mince et très pâle sous le microscope) ; lames moins nombreuses [L = 10-23 ; 1 = 3 (-7)] ; chapeau en général plus élevé. $ C. siliginea
+
+16,17 $ Revêtement piléique présentant, outre les cellules en massue (rondes par dessus), de nombreux poils à extrémité libre saillante, dressée et non cloisonnée. Stipe blanc, blanchâtre ou blanc jaunâtre, parfois grisâtre argenté ou ± bleuissant ou verdoyant.
+16,0 $ Revêtement piléique à dermatocystides nulles ou peu évidentes et très dispersées, mais montrant assez souvent, au-dessus des cellules en massue, des hyphes ± cylindracées, fréquemment cloisonnées, ± couchées et non dressées, qui représentent les restes du voile. Stipe souvent brun, au moins en bas ou en dedans. $
+16,0,N$===> voyez le genre Pholiotina.
+
+17,0 $ Espèce venant sur les bouses ou les crottins, à chapeau (2-3 cm.) opaque, crème ou ocre clair, couvert de poils allongés, cylindriques filiformes, gélifiés, qui le rendent un peu lubrifié ; spores 10-14 x 6-8 µm à pore évident. $ C. coprophila
+17,18 $ Espèces non fimicoles, à dermatocystides moins allongées, ressemblant aux cheilocystides ; spores souvent plus petites.
+
+18,0 $ Grand champignon (D = 3-4 cm. ; d = 2-5 mm) à cheilocystides étroitement fusiformes, progressivement atténuées cuspidées au sommet. $ C. pygmaeo-affinis
+18,19 $ Petites espèces (D 2,5 cm) à chapeau strié en temps humide chez les adultes.
+19,0 $  Cheilocystides de 17-28 X 4,2-7 µm, à bec grêle (1,5-2,2 µm). Spores de 6,5-8,5 x 3,5-5 µm, à pore peu évident, surtout lorsquelles sont vues de profil. $ C. mairei
+19,20 $ Cheilocystides de 7-12 µm de large, à bec moins grêle. Spores de 7-10 x 4-5,7 µm à pore bien net.
+20,0 $ Stipe blanchâtre argenté ou gris argenté avec un reflet verdâtre ou bleuâtre surtout vers la base, soit avec l’âge, soit au froissement. Cheilocystides de 18-38 µm de long. $ C. cyanopoda
+20,0 $ Stipe blanc ou blanc jaunâtre, entièrement poudré. Cheilocystides de 34-50 µm de long. $ C. aberrans

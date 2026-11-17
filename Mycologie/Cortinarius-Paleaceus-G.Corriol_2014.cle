@@ -1,0 +1,74 @@
+Titre$Corriol : Détermination des cortinaires arctico-alpins du groupe Paleaceus
+com$ adaptée  par GF mars 2014 (deux clés imbriquées)
+rem$LANGUE$Français
+
+1,0$ On se reportera au document source : Gilles CORRIOL  Un cortinaire alpin inédit du groupe Paleaceus///Bull. mycol. bot. Dauphiné-Savoie, 212, p.5-13 (2014)
+
+1,0$ Remarques préliminaires :///Il est indiqué la présence avérée dans le massif alpin (A) et le massif pyrénéen (P).///Certaines personnes ne perçoivent pas l’odeur caractéristique des feuilles froissées de Géranium des fleuristes (Pelargonium inquinans × zonale) ; par ailleurs, l’intensité de l’odeur n’est pas la même d’une espèce à l’autre et aussi en fonction de l’état des carpophores.
+
+
+1,0$
+
+1,cs1$ séparation olfactive$$s"clé A, clé olfactive"
+1,cs10$ séparation olfactive difficile $$s"clé B"
+µm ±
+
+cs1,0$
+1,2$ Odeur de Pelargonium ; lames présentant généralement dans la jeunesse une teinte violacée ou pourprée.
+1,8$ Odeur non pélargoniée ou faible ; lames toujours brunes dès le départ, sans teinte violacée ou pourprée.
+2,3$  Mycélium à la base du pied franchement violet.
+2,4$ '. Mycélium blanchâtre ou à teinte non ou peu perceptible.
+3,0$  Chapeau fortement squamuleux ; voile blanc ; spores larges x 6-6,5 µm, à fortes verrues proéminentes [A] $ C. paleiferus var. brachyspermus Lamoure
+3,0$ '. Chapeau faiblement squamuleux ; voile brun pale ; spores plus étroites x 4,5- 5 µm, à verrues moyennes [A, P] $ C. aff. paleiferus Svrcek (sensu Lamoure, Bon, etc.)
+4,0$  Voile blanc, très fortement développé, formant des écailles sur le chapeau et des guirlandes épaisses sur le pied ; spores très larges (x 7-8,5 µm) [A] $ C. alpinopaleaceus ad int.
+4,5$ '. Voile beaucoup moins développé et remarquable ; spores beaucoup plus étroites, ne dépassant pas 6 µm de largeur.
+5,0$ Arête des lames stérile ou presque, à nombreuses cystides courtement articulées.. $ C. denudatus nom inval. (Delannoy& Eyssartier, 2006)
+5,6$ '.Arête des lames fertile, sans cystides ou à quelques polis peu différenciés.
+6,0$ Quotient sporique moyen (longueur/largeur) <1,7;spores 7,8-10 x 5-6 µm[P].. $ C. flexipes var. montanus nom Inval. (Ortega &Esteve Raventós, 2003)
+6,7$ '. Quotient sporique moyen (longueur / largeur) > 1,7.
+7,0$ '. Spores allongées, étroites, mais à apex non aussi aigu, 10-11 x 4,5-5 µm (Q > 2) ; lames initialement violeté-bleuté ; calcicole [A, P] $ C. stenospermus Lamoure
+7,0$ Spores à apex remarquablement étiré aigu,9-10,5 x 4,5-5,5 µm; lames brun purpurin à l'origine ; acidiphlle [A, P] $ C. diasemospermus Lamoure
+8,10$ '. Voile brunâtre pale et terne ; lames brun soutenu et terne, ne contrastant pas avec le reste du basidiome ; spores de largeur moyenne > 5,5 µm.
+8,9$  Voile blanc ; lames de couleur claire ou vive (brun-jaune, brun cannelle), contrastant avec le reste du basidiome ; spores de largeur moyenne < 5,5 µm.
+9,0$  Spores remarquablement cylindriques-étroites, 8-9 x 4-4,5 µm ; voile abondant, mais surtout marginai, appendiculé ; lames de couleur vive [A, P ] $ C. albonigrellus J. Favre
+9,0$ '. Spores ellipsoïdes, plus larges, 7,5-9,5 x 4,5-5,5 µm ; chapeau entièrement pailleté-squamuleux par le voile ; lames initialement pâles mais non vives (gris brun jaunâtre) [A] $ C. hemitrichus f. improcerus J. Favre
+10,0$  Spores de largeur moyenne > 6 µm, assez grossièrement verruqueuses ; voile piléique non fortement développé, donnant un aspect furfuracé [A, P] $ C. rusticellus J. Favre
+10,11$ '. Spores de largeur moyenne < 6 µm, finement verruqueuses ; voile piléique fortement développé, formant des mèches plus ou moins redressées.
+11,0$  Chapeau bassement convexe ; lames espacées (> 20 grandes lames en moyenne) ; voile armilloïde sur la moitié inférieure du pied seulement [A, P] $ C. gausapatus. Favre
+11,0$ Chapeau conico-convexe à pointu ; lames très espacées (< 20 grandes lames en moyenne) ; voile armilloide plus fourni et remontant haut sur le pied [A] $ C. comatus J. Favre
+
+.
+
+cs10,0$
+1,2$  Voile pigmenté, non blanc pur, mais brunâtre pale.
+1,3$ '. Voile blanc.
+2,0$  Spores 8-9 x 4,5-5 µm ; mycélium violet ; odeur pélargoniée $ C. aff. paleiferus Svrcek (sensu Lamoure, Bon, etc.)
+2,cs8$ ' Spores plus grandes ; mycélium blanc ; odeur non pélargoniée $ Aller à 8'ci-dessus.
+3,0$  Spores cylindriques et étroites, inférieures à 4,5 µm de largeur en moyenne ; lames de couleur assez vive ; voile abondant, mais surtout marginal $ C. albonigrellus J. Favre
+3,4$ '. Spores de largeur moyenne > 4,5 µm ; lames de couleur terne.
+4,cs6$ '. Voile piléique plus discret, donnant initialement un aspect feutré à furfuracé $ Allerà6cidessus.
+4,5$  Voile piléique abondant, formant des petites mèches ou écailles bien visibles et persistantes sur toute la surface du chapeau.
+5,0$  Spores grandes et larges, 10,2-11,8 x 7,1-8,5 µm.. $ C. alpinopaleaceusad int.
+5,6$ '. Spores nettement moins grandes, à largeur n'atteignant pas 7 µm.
+6,0$  Spores larges de 4,5-5,5 µm, finement verruqueuses ; lames initialement brun jaune pale ; mycélium blanc ; odeur faible, non pélargoniée $ C. hemitrichus f. improcerus J. Favre
+6,0$  Spores larges de 6-6,5 µm, fortement verruqueuses ; lames initialement violacées ; mycélium violet ; odeur pélargoniée $ C. paleiferus var. brachyspermus lamoure
+
+
+cs6,0$
+6,0$ Quotient sporiquemoyen (longueur/largeur) <1,7;spores 7,8-10 x 5-6 µm[P].. $ C. flexipes var. montanus nom Inval. (Ortega & Esteve Raventós, 2003)
+6,7$ '. Quotlent sporique moyen (longueur / largeur) > 1,7.
+7,0$ '. Spores allongées, étroites, mais à apex non aussi aigu, 10-11 x 4,5-5 µm (Q > 2) ; lames initialement violeté-bleuté ; calcicole [A, P] $ C. stenospermus Lamoure
+7,0$ Spores à apex remarquablement étiré aigu,9-10,5 x 4,5-5,5 µm; lames brun purpurln à l'origine ; acidiphile [A, P] $ C. diasemospermus Lamoure
+
+
+
+cs8,0$
+8,10$ '. Voile brunâtre pale et terne ; lames brun soutenu et terne, ne contrastant pas avec le reste du basidiome ; spores de largeur moyenne > 5,5 µm.
+8,9$  Voile blanc ; lames de couleur claire ou vive (brun-jaune, brun cannelle), contrastant avec le reste du basidiome ; spores de largeur moyenne < 5,5 µm.
+9,0$  Spores remarquablement cylindriques-étroites, 8-9 x 4-4,5 µm ; voile abondant, mais surtout marginai, appendiculé ; lames de couleur vive [A, P] $ C. albonigrellus J. Favre
+9,0$ '. Spores ellipsoïdes, plus larges, 7,5-9,5 x 4,5-5,5 µm ; chapeau entièrement pailleté-squamuleux par le voile ; lames initialement pâles mais non vives (gris brun jaunâtre) [A] $ C. hemitrichus f. improcerus J. Favre
+10,0$  Spores de largeur moyenne > 6 µm, assez grossièrement verruqueuses ; voile piléique non fortement développé, donnant un aspect furfuracé [A, P] $ C. rusticellus J. Favre
+10,11$ '. Spores de largeur moyenne < 6 µm, finement verruqueuses ; voile piléique fortement développé, formant des mèches plus ou moins redressées.
+11,0$  Chapeau bassement convexe ; lames espacées (> 20 grandes lames en moyenne) ; voile armilloïde sur la moitié inférieure du pied seulement [A, P] $ C. gausapatus
+. Favre
+11,0$ Chapeau conico-convexe à pointu ; lames très espacées (< 20 grandes lames en moyenne) ; voile armilloide plus fourni et remontant haut sur le pied [A] $ C. comatus J. Favre

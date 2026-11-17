@@ -1,0 +1,780 @@
+Titre$ Keys to the Genera of the Lichens of British Columbia
+Com$ Trevor Goward, Bruce McCune & Del Meidinger  1994 / Adaptation par Aurélien Paris
+Rem$ Trevor Goward, Bruce McCune & Del Meidinger - The Lichens of British Columbia, Part 1 - Foliose and Squamulose Species, 1994, Ministry of Forests Research Program.
+Rem$ Trevor Goward - The Lichens of British Columbia, Part 2 - Fruticose Species, 1999, Ministry of Forests Research Program.
+
+KEY TO LICHEN GROWTH FORMS
+
+1,0$ 1a : Entirely crustose : crustlike, paintlike, or powdery, attached to the substrate throughout and inseparable from it. $ Leprose and Crustose Lichens (i.e., Dust and Crust Lichens) [not handled].
+1,2$ 1b : Never entirely crustose : consisting at least in part of lobes, stalks, or branches that are either more or less flattened or else clublike, shrublike, or hairlike (Note : all specimens in which the spores produce a blackish or brownish powdery mass/mazaedium key here, regardless of growth form : see KEY B).
+
+2,5$ 2a : Foliose or squamulose : consisting of more or less flattened, dorsiventral lobes that are usually coloured differently above and below. $ Part 1 : Foliose and Squamulose Lichens (i.e., Leaf and Scale Lichens).
+2,3$ 2b : Fruticose : consisting at least in part of cylindrical stalks or branches that are clublike, shrublike, or hairlike ; or if branches somewhat flattened, then coloured alike on all sides. $ Part 2 : Fruticose Lichens.
+
+3,CS1$ 3a : Small to large : longest stalks or branches averaging more than 10 mm long at maturity (Note : orange specimens key here regardless of size, as do all specimens having distinctly hollow branches). $ KEY A : Fruticose Macrolichens.
+3,4$ 3b : Minute : longest stalks or branches averaging less than 10 mm long at maturity (Note : many of the following lichens can be reliably identified only by use of a light microscope).
+
+4,CS2$ 4a : Stalks unbranched to sparsely branched, terminating in sexual fruiting bodies, these globose, conical, or triangular, generally distinctly exceeding the width of the supporting stalk (Note : all specimens key here in which : (1) the stalks are thin and hairlike, and measure less than 0.3 mm tall ; or (2) the spores are contained in distinctly powdery fruiting bodies (check by rubbing) ; or (3) both. $ KEY B : "Calicioid" Lichens (and Others).
+4,CS3$ 4b : Stalks unbranched to copiously branched ; sexual fruiting bodies absent or, if present, then rarely terminal, and never distinctly exceeding the width of the supporting stalk, also never powdery (Note : all specimens key here in which the stalks terminate in powdery soredia). $ KEY C : Fruticose Microlichens (and Others).
+
+5,CS4$ 5a : Thallus nonstratified, internal portions of thallus darkened throughout ; upper surface dark (blackish, dark brownish, or bluish grey) ; thallus often swollen and/or semi-translucent when wet. $ Key D : Nonstratified Foliose and Squamulose Lichens (i.e., Gel Lichens).
+5,6$ 5b : Thallus stratified, internal portions of thallus white or pale ; upper surface pale or dark ; thallus pliant when wet, but never distinctly swollen or semi-translucent.
+
+6,CS5$ 6a : Thallus squamulose : consisting of numerous short, rounded/isodiametric scalelike lobes/squamules, these averaging to at most 8 mm wide, often overlapping. $ Key E : Stratified Squamulose Lichens (i.e., Scale Lichens).
+6,CS6$ 6b : Thallus foliose : consisting of more or less elongate lobes, or if lobes short/isodiametric, then individual lobes averaging to more than 8 mm wide. $ Key F : Stratified Foliose Lichens (i.e., Leaf Lichens).
+
+
+CS1,0$ KEY A : FRUTICOSE MACROLICHENS
+
+1,2$ 1a : Thallus dark over the entire surface : blackish, dark greyish, or dark brownish (including dark reddish brown or greenish brown) ; photobiont variously coloured (check under LM).
+1,19$ 1b : Thallus pale, or at least not at all dark throughout (check sheltered portions of branches) ; primary photobiont strictly medium green (blue-green secondary photobiont present in Pilophorus and Stereocaulon).
+
+2,3$ 2a : Growing over soil, moss, duff, rock, or rarely over exposed logs and at the base of exposed trees (i.e., to within 1 m of the ground).
+2,14$ 2b : Growing over bark or wood of standing trees, usually at 1 m or more above the ground.
+
+3,4$ 3a : Thallus firmly attached to rock, not readily removed ; exposed sites.
+3,5$ 3b : Thallus over soil, moss, or duff, or, if over rock, then loosely attached ; exposure various.
+
+4,0$ 4a : Branches distinctly flattened and lobe-like ; branching sparse ; apothecia, if present, borne at branch tips ; alpine. $ Cornicularia normoerica
+4,0$ 4b : Branches essentially round in cross-section, more or less hairlike ; branching rather copious ; apothecia, if present, borne laterally ; at all elevations, though most common in the subalpine and above. $ Pseudephebe pubescens
+
+5,0$ 5a : Branches distinctly flattened and lobe-like from top to bottom. $ Cetraria islandica and others
+5,6$ 5b : Branches round in cross-section, or at most only partly flattened.
+
+6,7$ 6a : Occurring at treeline and above ; photobiont green (check underhand lens).
+6,11$ 6b : Occurring at lowland to middle forested elevations ; photobiont green or otherwise.
+
+7,8$ 7a : Thallus dark reddish brown (Note : distinctly brittle specimens key here).
+7,10$ 7b : Thallus blackish or brownish, but not at all dark reddish brown.
+
+8,0$ 8a : Thallus prostrate ; pseudocyphellae absent ; cortical cells jigsaw-puzzle-like in surface view (check under LM at 1000x). $ Nodobryoria
+8,9$ 8b : Thallus upright or occasionally decumbent ; pseudocyphellae often present (check main branches) ; cortical cells not at all jigsaw-puzzle-like in surface view.
+
+9,0$ 9a : Thallus upright ; branches short and compact ; pseudocyphellae plane or indented ; medulla KC- ; widespread. $ Coelocaulon
+9,0$ 9b : Thallus upright or decumbent ; branches long and slender ; pseudocyphellae often protruding ; medulla KC+ red ; alpine. $ Bryocaulon divergens
+
+10,0$ 10a : Thallus at least in part distinctly pale at base ; main branches typically bearing distinctly raised pseudocyphellae ; branch tips mostly reflexed ; medulla KC+ red. $ Alectoria nigricans
+10,0$ 10b : Thallus dark at base or at least not distinctly pale ; pseudocyphellae present or absent, but generally not distinctly raised ; branch tips reflexed or not ; medulla KC-. $ Bryoria
+
+11,12$ 11a : Pseudocyphellae present, generally conspicuous ; photobiont green (check under hand lens) ; white medulla present.
+11,13$ 11b : Pseudocyphellae absent ; photobiont bluish green ; white medulla absent, branches accordingly black within.
+
+12,0$ 12a :	Thallus distinctly reddish brown ; branches bearing spine-like projections (see 9a) ; over soil, duff, or rock in open to exposed sites ; widespread ; common. $ Coelocaulon
+12,0$ 12b : Thallus olivaceous grey ; branches lacking spine-like projections ; over friable soil or plant debris in highly exposed sites ; southern ; rare. $ Agrestia hispida
+
+13,0$ 13a : Lobe tips blunt ; photobiont Nostoc : cells lacking a gelatinous sheath, bluish green, less than 7 µm along long axis ; terminal cells globose or at most oval (check under LM at tips of well-developed branches). $ Lempholemma
+13,0$ 13b : Lobe tips distinctly tapering ; photobiont Stigonema : cells enveloped or not by an orangish gelatinous sheath, more than 8 µm along long axis ; terminal cells rectangular or lens-shaped (check under LM at tips of well-developed branches). $ Ephebe
+
+14,15$ 14a : Thallus distinctly reddish brown.
+14,17$ 14b : Thallus brownish, blackish, or greyish, but not at all reddish.
+
+15,0$ 15a :	Thallus dull, lacking pseudocyphellae, bearing short, thornlike side branches ; soredia absent ; cortical cells jigsaw-puzzlelike ; medulla KC- ; mostly east of coast ranges. $ Nodobryoria
+15,16$ 15b : Thallus generally shiny, bearing distinct pseudocyphellae, lacking thorn-like side branches ; soredia present or absent ; cortical cells not at all jigsaw-puzzle-like ; medulla KC- or KC+ red ; distribution various.
+
+16,0$ 16a : Pseudocyphellae dotlike/punctiform, conspicuous ; medulla KC+ red ; hypermaritime. $ Bryocaulon pseudosatoanum
+16,0$ 16b : Pseudocyphellae distinctly elongate, conspicuous or not ; medulla KC- ; distribution various. $ Bryoria
+
+17,0$ 17a : Main stems much paler than branch tips, often in part covered in a woolly tomentum of minute erect hairs ; secondary branches terminating in copious dark "isidia" ; photobiont dark bluish (check under hand lens) ; humid old-growth forests. $ Sticta oroborealis
+17,18$ 17b : Main stems not much paler than branch tips, not at all tomentose ; secondary branches occasionally bearing soredia, but never isidiate ; photobiont medium green ; habitat ecology various.
+
+18,0$ 18a : Terminal branches more or less "dimpled"/foveolate or flattened in cross-section, or both ; soredia absent ; apothecia often present ; apothecial disk blackish. $ Kaernefeltia (see under Cetraria californica and C. merrillii).
+18,0$ 18b : Terminal branches non-foveolate, round in cross-section (see 16b) ; soredia present or absent ; apothecia very rare ; apothecial disk brownish. $ Bryoria
+
+19,20$ 19a : Thallus at least in part yellowish orange or bright medium orange (check sheltered lobes).
+19,22$ 19b : Thallus variously coloured, but not at all orangish.
+
+20,0$ 20a : Consisting of unbranched or sparsely branched strands, these threadlike ; medulla lacking ; very humid sites, including the spray zones of waterfalls. $ Trentepohlia [an alga : not handled]
+20,21$ 20b : Consisting of copiously branched stems, these not at all threadlike ; medulla present, white ; arid to humid localities, but absent from the spray zones of waterfalls.
+
+21,0$ 21a : Sheltered portions of thallus pale grey ; over vertical rock faces sheltered from rain ; apothecia, if present, weakly stalked ; rare, restricted to semi-arid intermontane regions. $ Teloschistes contortuplicatus
+21,0$ 21b : Sheltered portions of thallus yellowish ; over bark or, if over rock, then growing exposed to rain ; apothecia, if present, not at all stalked ; frequent ; widespread, especially in humid intermontane regions. $ Xanthoria candelaria
+
+22,23$ 22a : Thallus more or less hairlike or threadlike throughout (Note : in a few species the main branches may be rather broad and/or flattened, but at least the upper branches are invariably hairlike/threadlike.
+22,28$ 22b : Thallus not at all hairlike or threadlike (Note : specimens in which the upper branches are distinctly angular in cross-section key here).
+
+23,0$ 23a : Branches reinforced by a tough, cartilaginous central cord (readily demonstrated by pulling the thallus lengthwise) ; main branches often bearing numerous more or less perpendicular side branchlets/fibrils ; generally over bark or wood. $ Usnea
+23,24$ 23b : Branches bearing a loose or compact medulla, but not at all reinforced by a central cord ; fibrils absent or at least never numerous ; habitat ecology various.
+
+24,0$ 24a : Extreme branch tips pale green (check under hand lens), at least in part bearing minute fiddlehead-like "hooks", these often minutely sorediate. $ Ramalina thrausta
+24,25$ 24b : Extreme branch tips pale or dark, not at all hooked, lacking soredia and granules.
+
+25,0$ 25a : Thallus containing usnic acid : pale greenish, at least in part ; cortex KC+ yellow (usnic acid present : check pale branches), PD-, K-, or occasionally in part K+ red. $ Alectoria
+25,26$ 25b : Thallus lacking usnic acid : pale yellowish or greyish (at least in part), but never greenish ; cortex either KC+ pink/red, or PD+ yellow, or orange, also K+ pale yellow / bright yellow (rarely K + red).
+
+26,0$ 26a : Tree-dwelling ; thallus long-pendent ; in sheltered sites, mostly at lower elevations ; medulla KC-. $ Bryoria capillaris
+26,27$ 26b : Ground-dwelling or occasionally tree-dwelling ; thallus tufted ; in exposed sites at treeline and above ; medulla KC+ red.
+
+27,0$ 27a : Thallus pale at base, at least in part ; main branches bearing distinct pseudocyphellae, these plane to more often raised ; soredia absent ; branch tips mostly weakly reflexed ; widespread ; common. $ Alectoria nigricans (see 10a)
+27,0$ 27b : Thallus blackened at base ; main branches bearing inconspicuous pseudocyphellae, these plane, narrow ; soredia present or occasionally absent ; branch tips mostly not reflexed ; coastal ; apparently rare. $ Bryoria nadvornikiana
+
+28,29$ 28a : Branches distinctly hollow (check basal portions).
+28,35$ 28b : Branches solid throughout.
+
+29,0$ 29a : Apothecia present at branch tips, black, powdery ; over conifers in exposed sites ; mostly at or near treeline. $ Tholurna dissimilis
+29,30$ 29b : Apothecia absent or, if present, then variously positioned, not at all black or powdery ; habitat ecology and distribution various.
+
+30,31$ 30a : Stalks much branched to intricately branched.
+30,33$ 30b : Stalks unbranched or at most weakly to moderately branched (Note : specimens with distinctly white-frosted/pruinose branch tips key here, regardless of branching).
+
+31,0$ 31a : Cortex lacking : thallus with a dull, soft, appressed-cottony appearance (check under hand lens) ; soredia absent ; basal squamules absent ; over soil, duff, logs, and stumps. $ Cladina
+31,32$ 31b : Cortex present, at least in basal portions of stalks : thallus dull to somewhat shiny, and with a "hard," non-cottony appearance ; soredia present or absent ; basal scales/squamules present or absent ; habitat ecology various.
+
+32,0$ 32a : Over trees and shrubs, rarely also firmly attached to vertical rock ; thallus pale medium greenish, pliant, not bearing squamules ; apothecia, if present, with a pale greenish disk. $ Ramalina 
+32,0$ 32b : Mostly over soil, duff, logs, and stumps, occasionally also over (the basal portions of) trees and shrubs, never firmly attached to rock ; thallus variously coloured (including pale medium greenish), pliant to more often brittle, often bearing squamules ; apothecia, if present, with a brown, red, or rarely flesh-coloured disk, but never pale greenish. $ Cladonia
+
+33,0$ 33a : Stalks generally associated with basal squamules, these also often present laterally over the stalks ; soredia present or absent ; widespread at all elevations. $ Cladonia
+33,34$ 33b : Stalks not at all associated with squamules ; soredia absent ; essentially alpine.
+
+34,0$ 34a : Stalks whitish, pointed-tipped. $ Thamnolia vermicularis
+34,0$ 34b : Stalks yellowish green to brownish or lavender, blunt tipped. $ Dactylina
+
+35,36$ 35a : Apothecia present, distinctly powdery, black.
+35,38$ 35b :Apothecia absent or, if present, then variously coloured (including black), not at all powdery.
+
+36,0$ 36a : Medulla yellow to orange. $ Acroscyphus sphaerophoroides
+36,37$ 36b : Medulla white.
+
+37,0$ 37a : Branches in part flattened, especially toward tips ; apothecia opening downwards ; medulla I- ; hypermaritime. $ Bunodophoron melanocarpum
+37,0$ 37b : Branches round in cross-section from top to bottom, or at least not distinctly flattened ; apothecia opening outwards ; medulla I+ purple ; widespread in humid regions. $ Sphaerophorus
+
+38,0$ 38a : Branches reinforced by a tough, cartilaginous central cord (readily demonstrated by pulling the thallus lengthwise) ; main branches often bearing numerous more or less perpendicular fibrils (see 23a) ; generally over bark or wood. $ Usnea
+38,39$ 38b : Branches filled with a loose or compact medulla, but lacking a reinforcing central cord ; habitat ecology various.
+
+39,0$ 39a : Basal portions of main stems bearing groups of clustered branchlets, these weIl differentiated from the main stems ; branches round in cross-section, or at least not distinctly flattened ; humid regions. $ Sphaerophorus
+39,40$ 39b : Basal portions of main stems not at all associated with clustered branchlets ; branches round in cross-section or more or less distinctly flattened ; distribution various.
+
+40,0$ 40a : Branches upright, appearing inflated more or less throughout (see 34b), filled with a loose, cobwebby medulla ; upper branches often distinctly white-frosted/pruinose ; ground-dwelling ; alpine. $ Dactylina
+40,41$ 40b : Branches upright to more often decumbent to pendent, not at all appearing inflated throughout ; medulla compact ; upper branches not at all pruinose ; habitat ecology and distribution various.
+
+41,42$ 41a : Thallus yellowish or yellowish green (check sheltered branches) ; usnic acid present.
+41,45$ 41b : Thallus variously coloured, including pale whitish green, but not at all yellowish or yellowish green ; usnic acid absent.
+
+42,0$ 42a : Thallus distinctly more yellowish than green ; mostly inland, southern. $ Letharia
+42,43$ 42b : Thallus distinctly more greenish than yellow ; distribution various (Note : distinctly pendulous specimens key here).
+
+43,0$ 43a : Branches rather stiff, or at least not at all flaccid, hard to the touch ; branch tips predominantly green ; cortex not at all black-spotted ; medulla thin, distinctly compact. $ Ramalina (see 32a)
+43,44$ 43b : Branches rather flaccid, rather soft to the touch ; branch tips predominantly black or cortex distinctly black-spotted, or both ; medulla rather thick, loose.
+
+44,0$ 44a : Branch tips predominantly green ; cortex often distinctly black-spotted ; in the herbarium often covered in fine crystalline "hairs" ; restricted to seaside localities. $ [Niebla cephalota]
+44,0$ 44b : Branch tips predominantly black ; cortex generally lacking black spots (Note : specimens infected with lichen parasites may appear black-spotted) ; crystalline hairs absent ; widespread, but absent from seaside localities. $ Evernia
+
+45,46$ 45a : Main stems lumpy, bearing sparse to numerous corticate outgrowths ; cephalodia generally present, these darkish and ball-like ; basal crust often present ; generally over rock or soil.
+45,47$ 45b : Main stems smooth to weakly wrinkled, but not at all lumpy ; cephalodia and basal crust absent ; habitat ecology various.
+
+46,0$ 46a : Stalks bearing distinct rounded to scale-like or fingerlike outgrowths/phyllocladia, these generally well developed ; main stems copiously branched or terminating in plane to weakly convex apothecia, or both ; over soil, duff, or rock. $ Stereocaulon
+46,0$ 46b : Stalks more or less lumpy, but never bearing well developed scale-like or fingerlike outgrowths ; main stems at most sparsely branched or terminating in strongly hemispherical, cylindrical, and/or "triangular" apothecia ; over rock. $ Pilophorus
+
+47,0$ 47a : Thallus variously coloured, but not at all whitish, also not densely colonial ; sparsely branched to copiously branched ; over wood, bark, duff, or rock. $ Go back to entry 41.
+47,48$ 47b : Thallus whitish (check sheltered branches), consisting of more or less densely packed colonies of upright stems, these unbranched or at most sparsely branched ; over soil or duff.
+
+48,0$ 48a : Stems to more than 20 mm long, distinctly longitudinally furrowed, dull, growing in standing water ; humid regions. $ Siphula ceratites
+48,0$ 48b : Stems to less than 20 mm long, not at all longitudinally furrowed, more or less shiny ; exposed sites ; alpine. $ Sphaerophorus fragilis
+
+
+CS2,0$ KEY B : "CALICIOID" LICHENS (AND OTHERS)
+
+Note : As a group, "calicioid" lichens are useful indicators of ecological continuity in forest ecosystems (Tibell 1992). To assist with future studies of old-growth forests, the following keys incorporate all "crustose" members of this group known to occur in British Columbia (i.e., irrespective of growth form).
+
+1,2$ 1a : Fruiting bodies distinctly stalked.
+1,19$ 1b : Fruiting bodies not at all stalked.
+
+2,0$ 2a : Stalks dark, distinctly swollen in middle or upper portions. $ Caliciopsis [non-lichenized fungus : not handled]
+2,3$ 2b : Stalks pale or dark, of uniform thickness from top to bottom, or at least never distinctly swollen in middle or upper portions (Note : specimens with pale stalks key here).
+
+3,4$ 3a : Sexual fruiting bodies (i.e., spore mass) appearing black or greenish black.
+3,14$ 3b : Sexual fruiting bodies appearing brown, or at least not black or greenish black.
+
+4,5$ 4a : Fruiting bodies mazaediate : asci dissolving into a conspicuously powdery spore mass, coming off on the fingers when rubbed.
+4,8$ 4b : Fruiting bodies not mazaediate : asci, if present, persistent, or at least not dissolving into a conspicuously powdery spore mass, not coming off on the fingers when rubbed.
+
+5,6$ 5a : Stalks stout (Note : all specimens with hollow stalks key here).
+5,7$ 5b : Stalks slender, more or less threadlike.
+
+6,0$ 6a : Medulla white ; stalks longitudinally ridged, distinctly hollow ; mostly subalpine. $ Tholurna dissimilis
+6,0$ 6b : Medulla yellow to orange ; stalks not at all longitudinally ridged, never hollow ; distribution various. $ Acroscyphus sphaerophoroides
+
+7,0$ 7a : Spore mass black ; spores 8-16 µm long. $ Calicium
+7,0$ 7b : Spore mass greenish black (check under LM) ; spores 5-8 µm long. $ Microcalicium
+
+8,0$ 8a : Over rock ; stalks robust, at least partly corticate or sorediate. $ Pilophorus
+8,9$ 8b : Over bark, wood, or pitch ; stalks delicate, not at all corticate or sorediate.
+
+9,0$ 9a : Spores (= conidiospores) needle-like to hairlike, to more than 75 µm long ; hypermaritime. $ Szczawinskia tsugae
+9,10$ 9b : Spores (= ascospores) ellipsoid to elongate, but never needle-like or hairlike, to less than 60 µm long ; distribution various.
+
+10,0$ 10a : Spores 4- to multi-celled at maturity ; apothecial rim generally distinctly incurved. $ Stenocybe
+10,11$ 10b : Spores 1- or 2-celled at maturity ; apothecial rim not at all incurved.
+
+11,0$ 11a : Over bark of deciduous trees and shrubs. $ Phaeocalicium
+11,12$ 11b : Over bark or wood of conifers, or over wood of deciduous trees and shrubs.
+
+12,0$ 12a : Spores 2-celled at maturity. $ Chaenothecopsis
+12,13$ 12b : Spores 1-celled at maturity.
+
+13,0$ 13a : Ascus tip rather thin-walled, partially interrupted by an apical "canal" (check at 1000x under LM) ; spores strongly obliquely arranged in the ascus ; on wood or bark of conifers, or on wood of deciduous trees and shrubs. $ Chaenothecopsis
+13,0$ 13b : Ascus tip strongly thickened, lacking a visible canal at 1000x ; spores longitudinally arranged in the ascus, or at least not strongly obliquely arranged ; on wood of conifers. $ Mycocalicium subtile
+
+14,15$ 14a : Fruiting bodies mazaediate : asci present, but dissolving into a conspicuously powdery spore mass, coming off on the fingers when rubbed.
+14,16$ 14b : Fruiting bodies not mazaediate : asci absent or, if present, then not dissolving into a conspicuously powdery spore mass, not coming off on the fingers when rubbed.
+
+15,0$ 15a : Spore mass/mazaedium generally medium brownish or greyish from the first, or at most weakly covered in yellowish or whitish pruina ; stalks occasionally more than 1.5 mm long ; widespread over trees ; common (Note : specimens in which the basal thallus is distinctly powdery, granular, or warty key here, regardless of mazaedial colour). $ Chaenotheca
+15,0$ 15b : Spore mass/mazaedium often bright rusty brown (never medium brown) at maturity, but at least initially covered in dense yellow, violet, or white pruina ; stalks invariably to less than 1.5 mm long ; restricted to the base of trees and tip-up mounds ; rare. $ Sclerophora
+
+16,17$ 16a : Over soil, rock, or duff ; stalks whitish or pale pinkish, stout, often patchy-corticate below, terminating in sexual fruiting bodies (apothecia), these bearing ellipsoid or spindle-like/fusiform spores.
+16,18$ 16b : Over conifer bark ; stalks dark brownish or blackish, slender, not at all corticate, terminating in asexual fruiting structures (conidial heads), these bearing threadlike/filiform conidia.
+
+17,0$ 17a : Apothecial discs distinctly pinkish ; basal thallus PD+ yellow, containing baeomycic acid ; apparently rare. $ Dibaeis
+17,0$ 17b : Apothecial discs brownish, not at all pinkish (the stalks, however, can be pinkish) ; basal thallus PD+ yellow or orange, containing norstictic or stictic acids ; locally common. $ Baeomyces
+
+18,0$ 18a : Stalks to more than 0.8 mm tall at maturity, terminating in a cone-shaped conidial head. $ Microlychnus epicorticis
+18,0$ 18b : Stalks (= hyphophores) to less than 0.3 mm tall at maturity, terminating in a scale-shaped conidial head. $ Gyalideopsis
+
+19,0$ 19a : Spore mass/mazaedium with a dark greenish cast as viewed under hand lens ; spores also greenish under LM. $ Microcalicium disseminatum
+19,20$ 19b : Spore mass appearing blackish under hand lens ; spores colourless/hyaline or brownish under LM (Note : the following crustose species are not handled in the present volume ; they are keyed out below in recognition of their usefulness as indicators of environmental continuity).
+
+20,0$ 20a : Over dung in semi-arid localities ; spores to more than 30 µm long. $ Texosporium sancti-jacobi (Tuck.) Nadv. [not handled]
+20,21$ 20b : Over tree bark or wood (including fence posts) or over rock ; spores to less than 30 µm long.
+
+21,0$ 21a : Over acid rock, coastal ; spores globose. $ Thelomma mammosum (Hepp) A. Massal. [not handled]
+21,22$ 21b : Over bark or wood ; spores more or less elongate.
+
+22,23$ 22a : Spore mass/mazaedium immersed in a distinctly protruding areole (resembling a Chameleon's eye) ; over wood ; spores 22-28 µm long.
+22,24$ 22b : Spore mass immersed in or sessile on a flat to weakly convex areole ; over bark or wood ; spores 13-22 µm long.
+
+23,0$ 23a : Thallus bearing black, well-delimited isidia, these more or less clustered ; medulla I+ dark blue ; widespread. $ Thelomma ocellatum (Korber) Tibell [not handled]
+23,0$ 23b : Thallus lacking isidia ; medulla I- ; coastal. $ Thelomma occidentale (Herre) Tibell [not handled]
+
+24,25$ 24a : Thallus intensely greenish yellow ; inland.
+24,26$ 24b : Thallus greenish to brownish, or at least not at all yellow ; distribution various.
+
+25,0$ 25a : Apothecia immersed in basal thallus ; tissues surrounding spore mass/mazaedium thin throughout ; spores 17-21 µm long. $ Cyphelium tigillare (Ach.) Ach. [not handled]
+25,0$ 25b : Apothecia protruding from basal thallus ; tissues surrounding mazaedium strongly thickened at base ; spores 13-17 µm long. $ Cyphelium pinicola Tibell [not handled]
+
+26,0$ 26a : Apothecia immersed in basal thallus ; largest apothecia to less than 0-4 mm wide ; spores smooth-walled, 18-22 µm long. $ Cyphelium trachylioides (Branth & Rostrup) Erichsen [not handled]
+26,27$ 26b : Apothecia protruding from basal thallus ; largest apothecia to more than 0-4 mm wide ; spores variously ornamented, 13-19 µm long.
+
+27,0$ 27a : Thallus pale medium grey ; largest apothecia to 0.6-2.5 mm wide ; mature spores spirally striate or apparently smooth (check at 1000x under LM). $ Cyphelium inquinans (Sm.) Trevisan [not handled]
+27,0$ 27b : Thallus faintly greenish grey to brownish grey ; largest apothecia to 0-4-0.7 (-1.0) mm wide ; mature spores distinctly and irregularly roughened. $ Cyphelium karelicum (Vainio) Rasanen [not handled]
+
+
+CS3,0$ KEY C : FRUTICOSE MICROLICHENS (AND OTHERS)
+
+1,2$ la : Thallus pale or brightly coloured (check sheltered portions of branches), or at least not dark from top to bottom.
+1,19$ 1b : Thallus dark from top to bottom (including sheltered portions of branches).
+
+2,3$ 2a : Thallus at least in part yellowish.
+2,6$ 2b : Thallus variously coloured, but not at all yellowish.
+
+3,4$ 3a : Over soil or duff ; medulla KC+ yellow to red ; alpine.
+3,5$ 3b : Directly attached to bark or rock ; medulla KC- ; lowlands.
+
+4,0$ 4a : Thallus crustose, but bearing isidia-like outgrowths/verrucae (and hence appearing fruticose), these to less than 4 mm tall, in part terminating in soredia. $ Pertusaria geminipara (Th. Fr.) Brodo [not handled]
+4,0$ 4b : Thallus truly fruticose, stalks to more than 4 mm tall, not at all sorediate. $ Dactylina
+
+5,0$ 5a : Sheltered portions of thallus whitish or pale grey ; over vertical rock faces sheltered from rain ; apothecia, if present, weakly stalked ; rare, restricted to semi-arid intermontane regions. $ Teloschistes contortuplicatus
+5,0$ 5b : Sheltered portions of thallus yellowish ; over bark or rock ; apothecia, if present, essentially unstalked ; frequent ; widespread, especially in humid intermontane regions. $ Xanthoria candelaria
+
+6,7$ 6a : Photobiont a cyanobacterium : dark or at least not grass-green under LM (Note : specimens collected from conifer branches in humid localities key here).
+6,9$ 6b : Photobiont an alga : grass-green under LM.
+
+7,0$ 7a : Medulla present (i.e., thallus white within : check basal portions) ; branches terminating in dark, isidia-like outgrowths ; photobiont Nostoc, cells to 5-7 µm along long axis. $ Sticta oroborealis
+7,8$ 7b : Medulla absent (i.e., thallus dark within) ; branches smoothly tapering to a pointed tip ; photobiont Scytonema, Stigonema, or at least not Nostoc, cells to more than 8 µm along long axis.
+
+8,0$ 8a : Photobiont Scytonema, arranged in roughly parallel rows, branching "false" (i.e., branches arising through terminal growth of photobiont strands) ; thallus dark throughout ; rhizoids absent. $ Polychidium
+8,0$ 8b : Photobiont Stigonema, arranged in an irregular "brickwork" pattern, branching "true" (i.e., branches not arising through terminal growth of photobiont strands) ; thallus dark above, but often somewhat pale in basal portions, often bearing scattered hairlike rhizoids. $ Spilonema sp. 1
+
+9,10$ 9a : Main stems terminating at least in part in apothecia ; tips distinctly black.
+9,12$ 9b : Main stems terminating or not in apothecia ; tips pale or at least not black.
+
+10,0$ 10a : Stems crowded into compact cushions that conceal the point of attachment ; thallus lacking cephalodia ; over vertical rock ; alpine. $ Lecanora pringlei (Tuck.) Lamb [not handled]
+10,11$ 10b : Stems scattered, not at all cushion-forming, clearly revealing point of attachment ; thallus bearing scattered brownish or greyish cephalodia (check basal crust) ; over rock or soil ; distribution various.
+
+11,0$ 11a : Stems bearing a "foliage" of scale-like/squamulose or fingerlike/coralloid phyllocladia ; over rock or soil. $ Stereocaulon
+11,0$ 11b : Stems smooth, lumpy, or sorediate, but not at all bearing squamulose or coralloid phyllocladia ; over rock. $ Pilophorus
+
+12,13$ 12a : Thallus sorediate or apparently so (Note : specimens in which a hard outer cortex is entirely lacking key here).
+12,15$ 12b : Thallus lacking soredia.
+
+13,0$ 13a : Cortex absent : main stems with a "soft," "lumpy" appearance throughout. $ Leprocaulon
+13,14$ 13b : Cortex present : main stems with a "hard," smooth appearance throughout, except terminating in part in powdery soredia.
+
+14,0$ 14a : Cortex KC+ red (flash) ; over soil or moss ; alpine. $ Pertusaria geminipara (Th. Fr.) Brodo [not handled] (see 4a)
+14,0$ 14b : Cortex KC- ; over rock ; lowland regions. $ Stereocaulon pileatum
+
+15,16$ 15a : Thallus brownish, pale greenish, or (in herbarium) becoming pinkish ; fruiting bodies invariably present, frequent (Note : specimens growing firmly attached to rock key here).
+15,18$ 15b : Thallus whitish ; fruiting bodies absent or, if present, very sparse.
+
+16,0$ 16a : Fruiting bodies consisting of tiny dotlike perithecia, these much less than the diameter of the supporting branch ; exposed outcrops ; inland. $ Endocarpon pulvinatum
+16,17$ 16b : Fruiting bodies consisting of large disc-like or hemispherical apothecia, these greater than the diameter of the supporting stalk ; humid regions ; distribution various.
+
+17,0$ 17a : Apothecia brownish. $ Baeomyces
+17,0$ 17b : Apothecia pinkish. $ Dibaeis
+
+18,0$ 18a : Over bark in humid localities ; humid lowlands. $ Loxosporopsis corallifera
+18,0$ 18b : Over soil or duff in somewhat exposed localities ; alpine. $ Pertusaria dactylina (Ach.) Nyl. [not handled]
+
+19,20$ 19a : Medulla present, white, conspicuous (check under hand lens) ; photobiont grass-green under LM (Note : specimens bearing pseudocyphellae key here).
+19,23$ 19b : White medulla absent, or at most very indistinct ; photobiont variously coloured, but never grass-green.
+
+20,21$ 20a : Thallus firmly attached to rock, not readily removed ; pseudocyphellae absent ; alpine.
+20,22$ 20b : Thallus over soil or duff, or at least not firmly attached to rock ; pseudocyphellae generally present ; distribution various.
+
+21,0$ 21a : Branches often attached at more than one point ; branching copious, generally fine, often rather intricate ; apothecia, if present, borne laterally. $ Pseudephebe
+21,0$ 21b : Branches attached exclusively at base ; branching rather sparse, coarse, not at all intricate ; apothecia, if present, borne at branch tips. $ Cornicularia normoerica
+
+22,0$ 22a : Thallus reddish brown ; branches bearing spine-like projections ; over soil, duff, or rock in open to exposed sites ; widespread ; common. $ Coelocaulon aculeatum
+22,0$ 22b : Thallus olivaceous grey ; branches lacking spine-like projections ; over friable soil or plant debris in highly exposed sites ; southern ; rare. $ Agrestia hispida
+
+23,24$ 23a : Growing directly over rock.
+23,38$ 23b : Growing over bark, wood, soil, or duff, but not directly over rock.
+
+24,25$ 24a : Branches gossamer-like, to less than 20 µm wide (check under LM) ; photobiont Trentepohlia or Scytonema ; over humid vertical or recessed rock faces.
+24,27$ 24b : Branches threadlike or broader, to more than 50 µm wide ; photobiont various (including Scytonema, but not Trentepohlia) ; habitat various.
+
+25,0$ 25a : Photobiont Scytonema : distinctly orangish, gelatinous sheath present ; fungal threads/hyphae not readily discernable under LM. $ [Thermutis velutina]
+25,26$ 25b : Photobiont Trentepohlia : not at all orangish, gelatinous sheath absent ; fungal threads readily discernible under LM.
+
+26,0$ 26a : Fungal threads with irregular, non parallel walls (check under LM at 1000x near branch tips). $ Cystocoleus ebeneus
+26,0$ 26b : Fungal threads with straight, parallel walls. $ Racodium rupestre
+
+27,28$ 27a : Hairlike rhizoids copious in basal portions of thallus, distinctly visible under LM, often bluish (Note : specimens having a bluish black lower surface key here).
+27,29$ 27b : Hairlike rhizoids absent or at most inconspicuous, never bluish.
+
+28,0$ 28a : Thallus erect and shrublike throughout ; photobiont cells 15-20 µm along long axis. $ Spilonema revertens
+28,0$ 28b : Thallus at least in part appressed and flattened ; photobiont cells to 10-12 µm along long axis. $ Placynthium
+
+29,30$ 29a : Photobiont 1-celled or arranged in rounded clusters of two or three cells.
+29,32$ 29b : Photobiont at least in part arranged in obvious strands or chains (check near tips of young, well-developed branches).
+
+30,0$ 30a : Among moss over rock ; branching rather loose ; thallus distinctly shiny ; photobiont Nostoc : cells to 5-7 µm along long axis, not at all enveloped in a distinct gelatinous sheath. $ Polychidium muscicola
+30,31$ 30b : Attached directly to rock ; branching compact ; thallus more or less dull ; photobiont Chroococcales : cells to 8-12 (-15) µm along long axis, often enveloped by a distinct gelatinous sheath.
+
+31,0$ 31a : Branches to more than 200 µm wide, terminating in coarse, blunt tips, these in part bearing sunken, porelike apothecia. $ Synalissa symphorea
+31,0$ 31b : Branches to less than 150 µm wide, terminating in tapering, often pointed tips ; apothecia unknown in local material. $ Lichinella stipatula
+
+32,33$ 32a : Photobiont Nostoc : cells mostly to 5-7 µm along long axis, "end cells" globose or at most oval (check in cross-section near tips of well-developed branches).
+32,34$ 32b : Photobiont Scytonema or Stigonema : cells to more than 8 µm along long axis, "end cells" rectangular or lens shaped (check for both characters in long-section at tips of well-developed branches).
+
+33,0$ 33a : Branches dull ; cellular cortex absent ; directly attached to rock. $ Lempholemma fennicum
+33,0$ 33b : Branches shiny ; cellular cortex weIl developed, readily discernible in cross-section (see Figure 5b) ; usually indirectly attached to rock (i.e., over thin soil or plant material). $ Leptogium
+
+34,35$ 34a : Photobiont Scytonema : remaining strandlike throughout ; branching "false" (i.e., branches arising through terminal growth of photobiont strands).
+34,37$ 34b : Photobiont Stigonema : strands soon disassociating into irregular cell clusters ; branching "true" (i.e., branches not arising through terminal growth of photobiont strands).
+
+35,0$ 35a : Branches shiny, often difficult to distinguish from unlichenized algae ; photobiont strands arranged throughout in a single row. $ [Thermutis velutina] (see 25a)
+35,36$ 35b : Branches dull, obviously consisting of photobiont strands embedded in a fungal matrix (check under LM) ; photobiont strands at least partly arranged in two parallel rows (check at tips of well-developed branches).
+
+36,0$ 36a : Collected over acid rock, generally colonizing Parmelia or other rock-dwelling lichens ; main branches bearing numerous side branches ; photobiont strands often in part arranged in three or four parallel rows. $ Lichinodium sirosiphoideum
+36,0$ 36b : Collected over calcium-rich rock, directly attached ; main branches bearing few if any side branches ; photobiont strands mostly arranged in two parallel rows. $ Zahlbrucknerella calcarea
+
+37,0$ 37a : Thallus erect, strongly cushion-forming, generally to less than 5 mm long, attached below by at least some hairlike basal rhizoids (see 28a) (Note : specimens supporting a tiny brownish squamulose lichen with dark bluish margins key here). $ Spilonema revertens
+37,0$ 37b : Thallus prostrate to occasionally in part erect, but not distinctly cushion-forming, to more than 5 mm long, lacking rhizoids. $ Ephebe
+
+38,39$ 38a : Photobiont Nostoc : 1-celled to weakly strandlike, composed entirely of globose to oval cells, these to less than 7 µm along long axis ; over bark, wood, soil, or duff ; distribution various.
+38,41$ 38b : Photobiont Scytonema or at least not Nostoc : strandlike, composed at least in part of rectangular to lens-shaped cells to more than 8 µm along long axis ; over bark ; humid lowland regions.
+
+39,0$ 39a : Thallus greyish, associated with apothecia of Solorina spongiosa ; over soil ; mostly alpine. $ (cephalodia belonging to) Solorina spongiosa
+39,40$ 39b : Thallus brownish ; never associated with Solorina spongiosa ; habitat ecology and distribution various.
+
+40,0$ 40a : Cellular cortex present, distinctly visible in cross-section at 40x in dissecting microscope (see Figure 5b) ; over soil, wood, or bark ; low lands. $ Leptogium
+40,0$ 40b : Cellular cortex absent ; over plant material in exposed sites ; mostly at treeline and above. $ Leciophysma
+
+41,0$ 41a : Photobiont strands arranged mostly in a single row ; branches bluish grey ; over deciduous shrubs. $ Unknown 3
+41,42$ 41b : Photobiont strands arranged mostly in two or more roughly parallel rows ; branches variously coloured (including bluish grey) ; over conifers.
+
+42,0$ 42a : Cellular cortex absent (i.e., cross-walls not evident in surface view under LM) ; branches dull, blackish. $ Lichinodium canadense
+42,43$ 42b : Cellular cortex present (cross-walls evident in surface view under LM) ; branches often somewhat shiny, greyish, bluish, brownish, or occasionally blackish.
+
+43,0$ 43a : Branches neither distinctly constricted nor bearing hairlike rhizoids. $ Polychidium (see 8a)
+43,44$ 43b : Branches distinctly constricted at intervals and/or bearing hair like rhizoids below, these solitary, tufted, or scattered along the length of the branches.
+
+44,0$ 44a : Branches to 0.5 mm long, distinctly constricted at intervals ; rhizoids mostly scattered. $ Unknown 1
+44,0$ 44b : Branches to 2-4 mm long, not at all distinctly constricted ; rhizoids generally in part tufted. $ Unknown 2
+
+
+CS4,0$ KEY D : NONSTRATIFIED (OR APPARENTLY NONSTRATIFIED) FOLIOSE AND SQUAMULOSE LICHENS
+
+"GEL LICHENS"
+
+1,0$ 1a : Lobes minute, usually elongate, averaging to less than 0.5 mm wide ; upper surface medium olive-brown ; over rock. $ Koerberia, Placynthium, Vestergrenopsis (see key to Placynthium)
+1,2$ 1b : Differing in one or more respects from the above : larger, or coloured differently, or over other substrates.
+
+2,0$ 2a : Thallus distinctly umbilicate : attached by a thickened central holdfast ; upper surface blackish ; over rock ; coastal. $ Phylliscum demangeonii
+2,3$ 2b : Thallus not at all umbilicate ; colour, habitat and distribution various.
+
+3,0$ 3a : Thallus permanently submerged in mountain streams ; lower surface veined. $ Hydrothyria venosa
+3,4$ 3b : Thallus not permanently submerged ; lower surface not at all veined.
+
+4,0$ 4a : Thallus a "seaweed," occurring over rock below high tide (intertidal zone) ; numerous dot-like perithecia present ; apothecia absent. $ (Kohlmeyera complicatula, Turgidosculum ulvae)
+4,5$ 4b : Habit and habitat various, but never occurring below high tide ; perithecia absent ; apothecia present or absent.
+
+5,0$ 5a : Over soil in arid inland localities ; apothecia present, sunken below average level of thallus, disc reddish. $ Heppia lutosa
+5,6$ 5b : Habitat and distribution various ; apothecia absent or if present, then not sunken, the disc usually brownish (rarely reddish).
+
+6,0$ 6a : Thallus squamulose : consisting of numerous short, rounded/isodiametric, scalelike lobes, these averaging to at most 0.3 mm wide, often overlapping ; upper surface never black. $ Pannaria, Parmeliella (see key to Pannaria)
+6,7$ 6b : Thallus foliose : consisting of more or less elongate lobes, or if lobes short or rounded/isodiametric, then individual lobes averaging to more than 0.4 mm wide (Note : species having a distinctly black upper surface should key here).
+
+7,8$ 7a : Lower surface more or less evenly covered in dense, white woolly hairs/tomentum.
+7,9$ 7b : Lower surface naked or, if in part hairy, then hairs distributed in localized tufts.
+
+8,0$ 8a : Upper surface naked ; lobe margins and/or isidia bearing minute, erect white hairs. $ Leptochidium albociliatum
+8,0$ 8b : Upper surface naked or sparsely covered in white hairs (i.e., hairs, if present, not confined to lobe margins and/or isidia). $ Leptogium
+
+9,0$ 9a : Cellular cortex present : upper surface often finely wrinkled, usually partly bluish or slate grey, and often somewhat shiny near lobe tips ; thallus thin or at least not distinctly thick and swollen. $ Leptogium
+9,0$ 9b : Cellular cortex absent : upper surface smooth to pustulate (rarely finely wrinkled), olive-green to blackish and with dull lobe tips ; thallus thin or distinctly swollen, especially at the lobe tips. $ Collema, Gonohymenia, (Leciophysma), (Lempholemma) (see key to Collema)
+
+
+CS5,0$ KEY E : STRATIFIED SQUAMULOSE LICHENS
+
+"SCALE LICHENS"
+
+1,2$ 1a : Upper surface bright orange, bright yellow or bright greenish yellow.
+1,5$ 1b : Upper surface not coloured as above.
+
+2,3$ 2a : Soredia and/or isidia present (check lobe tips) ; over bark, wood or rock ; widespread.
+2,4$ 2b : Soredia and isidia absent ; over soil usually in semi-arid climates.
+
+3,0$ 3a : Upper surface bright orange, K+ purple. $ Xanthoria fallax
+3,0$ 3b : Upper surface bright yellowish, never distinctly orange, K-. $ Candelaria concolor
+
+4,0$ 4a : Thallus K+ purple, resting on a white hypothallus (readily seen by carefully scraping away the lobes) ; apothecia uncommon, disc orangish or reddish. $ (Fulgensia bracteata)
+4,0$ 4b : Thallus K- ; hypothallus absent ; apothecia usually abundant, the disc medium brown to dark brownish. $ (Acarospora schleicheri)
+
+5,6$ 5a : Photobiont a grass-green alga ; upper surface pale or dark.
+5,34$ 5b : Photobiont a dark holly-green to greyish blue cyanobacterium ; upper surface generally greyish, bluish, brownish or blackish.
+
+6,7$ 6a : Upper surface bearing scattered immersed perithecia and/or pycnidia, these appearing as tiny brownish or blackish dots or slightly raised "nipples" ; apothecia absent ; over soil or rock.
+6,12$ 6b : Upper surface usually lacking black dots (i.e., perithecia absent) ; apothecia present or absent ; habitat various (Note : all lichens occurring over bark, wood or moss key here).
+
+7,8$ 7a : Over soil (including thin soil over rock) or over moss.
+7,10$ 7b : Growing directly attached to rock.
+
+8,0$ 8a : Lobes raised, attached to substrate at one edge ; lower surface pale, often rather exposed, readily seen from above. $ (Cladonia)
+8,9$ 8b : Lobes appressed, broadly attached to substrate by wefts of threadlike rhizoids that cover much of the lower surface ; lower surface pale or dark, exposed only along margins, if at all.
+
+9,0$ 9a : Lobes strong reddish brown (or pale greyish to brownish grey in some alpine species) ; spores simple, colourless, never intermixed with algal cells. $ Catapyrenium
+9,0$ 9b : Lobes pale or occasionally dark, but never strong reddish brown ; lowland intermontane ; spores multi-celled/muriform, brownish, intermixed with algal cells. $ Endocarpon pusillum
+
+10,0$ 10a : Lobes upright, dark brownish ; pruina absent ; spores muriform. $ Endocarpon pulvinatum
+10,11$ 10b : Lobes appressed, pale brownish to pale greyish ; pruina present or absent ; spores simple or few-celled.
+
+11,0$ 11a : Upper surface distinctly pruinose or, if otherwise, then lower surface dark. $ Dermatocarpon
+11,0$ 11b : Upper surface not at all pruinose ; lower surface pale brownish. $ (Acarospora)
+
+12,0$ 12a : Lobes associated with hollow, upright podetia. $ (Baeomyces, Cladonia)
+12,13$ 12b : Lobes not associated with podetia.
+
+13,14$ 13a : Lobe margins minutely and strongly inrolled, forming a thin, white peripheral rim especially at lobe tips ; upper surface greenish or pale greyish ; apothecia absent ; over moss, lichens or bark in humid climates.
+13,15$ 13b : Lobe margins not minutely and strongly inrolled ; upper surface variously coloured ; apothecia present or absent ; habitat and distribution various (Note : all lichens having soredia over the lower surface key here).
+
+14,0$ 14a : Upper surface sorediate in patches, often bearing faint concentric "growth rings" ; infrequent. $ Normandina pulchella
+14,0$ 14b :	Soredia absent ; upper surface not at all concentrically zoned ; rare. $ (Omphalina)
+
+15,16$ 15a : Growing directly over bark or wood.
+15,18$ 15b : Growing over soil, moss, or rock, never directly over bark or wood.
+
+16,0$ 16a : Upper and lower surface coloured alike, dark brown ; apothecia present, abundant. $ Cetraria sepincola
+16,17$ 16b : Upper and lower surface coloured differently, lower surface pale ; apothecia present or absent.
+
+17,0$ 17a : Lobes mostly less than 1 mm long, often wider than long ; apothecia present or absent ; upper surface C+ red or C-. $ Hypocenomyce, Waynea (see key to Hypocenomyce)
+17,0$ 17b : Lobes mostly to more than 1.5 mm long, generally longer than wide ; apothecia absent ; upper surface C-. $ (Cladonia)
+
+18,19$ 18a : Upper surface with a distinctly greenish (or pale bluish green) cast ; never growing directly over rock (Note : all species having strongly ascending lobes key here).
+18,26$ 18b : Upper surface blackish, whitish, brownish, greyish or pinkish ; occasionally growing directly over rock.
+
+19,0$ 19a : Apothecia present, apothecial rim distinctly "warty" ; over moss or plant debris. $ Psoroma hypnorum
+19,20$ 19b : Apothecia present or absent, apothecial rim not at all warty ; habitat various.
+
+20,0$ 20a : Apothecia present, sunken below average surface of thallus. $ Solorina
+20,21$ 20b : Apothecia absent or, if present, then not at all sunken.
+
+21,22$ 21a : Thallus more or less crustose, attached to substrate almost through out, only the margins elevated and lobe-like.
+21,23$ 21b : Thallus not at all crustose ; lobes elevated above substrate almost throughout.
+
+22,0$ 22a : Apothecia absent ; upper surface often exfoliating in spots ; humid localities. $ (Baeomyces placophyllus)
+22,0$ 22b : Apothecia usually present ; upper surface never exfoliating ; dry, exposed localities. $ (Squamarina cartilaginea)
+
+23,0$ 23a : Lower surface distinctly veined. $ Peltigera venosa
+23,24$ 23b : Lower surface not at all veined.
+
+24,0$ 24a : Lobes averaging to less than 0.4 mm wide ; apothecia absent or, if present, erect and strawberry-shaped/ampulliform. $ Agonimia tristicula
+24,25$ 24b : Lobes averaging to at least 0.8 mm wide (often much wider) ; apothecia absent or if present, hemispherical.
+
+25,0$ 25a : Apothecia present : hemispherical at maturity. $ Psora
+25,0$ 25b : Apothecia absent. $ (Cladonia)
+
+26,0$ 26a : Lobes strongly convex, largely hemispherical ; spores colourless. $ (Toninia)
+26,27$ 26b : Lobes concave or partly convex, but never largely hemispherical ; spores colourless or dark.
+
+27,28$ 27a : Lobes whitish, greyish or blackish.
+27,30$ 27b : Lobes brownish or pinkish.
+
+28,0$ 28a : Lobes blackish ; alpine. $ Umbilicaria lambii
+28,29$ 28b : Lobes whitish or greyish ; restricted to lowland sites.
+
+29,0$ 29a : Lobes averaging to less than 1.5 mm wide, tending to overlap ; medulla C+ red ; coastal. $ (Trapeliopsis wallrothii)
+29,0$ 29b : Lobes averaging to more than 1.5 mm wide, not overlapping ; medulla C- ; inland. $ (Squamarina cartilaginea)
+
+30,0$ 30a : Apothecia present, apothecial rim distinctly "warty" ; lobes strongly appressed throughout, over moss. $ Psoroma hypnorum
+30,31$ 30b : Apothecia present or absent ; apothecial rim smooth, not at all warty ; lobes usually somewhat elevated toward tips ; habitat various.
+
+31,0$ 31a : Lobes intermixed with (sparse) external brownish or blackish cephalodia, these distinctly convoluted above and measuring to 1 mm across ; over acid outcrops in northern alpine localities. $ Psoroma sp. 1
+31,32$ 31b : Cephalodia absent ; habitat and distribution various.
+
+32,0$ 32a : Apothecial disc strongly convex, often hemispherical at maturity ; spores 1-celled ; inland. $ Psora
+32,33$ 32b : Apothecial disc plane or weakly convex ; spores 2-celled at maturity ; distribution various.
+
+33,0$ 33a : Apothecial disc black ; spores brown ; inland. $ (Buellia badia)
+33,0$ 33b : Apothecial disc brownish ; spores colourless ; over seaside rocks. $ (Lecania dudleyi)
+
+34,0$ 34a : Lobes attached by thickened central holdfast/umbilicus ; growing directly over vertical rock in arid climates. $ Peltula euploca
+34,35$ 34b : Lobes variously attached, but umbilicus absent ; habitat various.
+
+35,36$ 35a : True soredia present, originating on undersides of lobes.
+35,38$ 35b : True soredia absent (Note : species having soredia-like isidia or lobules that do not originate on the undersides of the lobes should key here).
+
+36,0$ 36a : Upper surface lacking hairs (Note : a few cobwebby hairs may be present at the lobe tips in Pannaria ahlneri). $ Pannaria
+36,37$ 36b : Upper surface partly bearing hairs, these stiffly erect or appressed-woolly/tomentose.
+
+37,0$ 37a : Hairs stiffly erect. $ Erioderma sorediatum
+37,0$ 37b : Hairs appressed and woolly/tomentose. $ Leioderma sorediatum
+
+38,39$ 38a : Thallus resting on conspicuous black hypothallus ; lobes scalelike ; over bark or rock in humid climates.
+38,40$ 38b : Hypothallus absent or inconspicuous ; lobes scalelike or elongate ; habitat and distribution various.
+
+39,0$ 39a : Over bark or wood (also rarely among moss over rock). $ Parmeliella triptophylla
+39,0$ 39b : Growing directly over rock. $ Placynthium nigrum
+
+40,0$ 40a : Apothecia present, strong reddish, sunken below the average surface of the thallus ; over soil in arid climates. $ Heppia lutosa
+40,41$ 40b : Apothecia present or absent, never strong reddish or sunken ; habitat and distribution various.
+
+41,0$ 41a : Exposed areas of upper surface grey, greyish brown or almost black ; lobe tips and/or "isidia" often soft-corticate and pale-felted ; over wood or bark or, if over moss, then thallus forming a dense mat that completely obscures the substrate ; spores 1-celled (but often containing one or more oil bodies). $ Pannaria
+41,0$ 41b : Exposed areas of upper surface more or less medium brown ; lobe tips and "isidia" hard-corticate, never pale-felted ; over soil, rock or, if over moss, then usually forming loose mats that do not usually completely obscure the substrate ; spores 2-multi-celled. $ Massalongia
+
+
+CS6,0$ KEY F : STRATIFIED FOLIOSE LICHENS
+
+"LEAF LICHENS"
+
+1,2$ 1a : Thallus umbilicate : attached to the substrate by a single, thickened, more or less central holdfast ; over rock.
+1,6$ 1b : Thallus not umbilicate, central holdfast absent ; ecology various.
+
+2,0$ 2a : Photobiont a dark greyish blue cyanobacterium ; restricted to arid inland climates ; rare. $ Peltula euploca
+2,3$ 2b : Photobiont a grass-green alga ; distribution various (Note : specimens in which the photobiont is difficult to assess with a hand lens should key here).
+
+3,0$ 3a : Upper surface distinctly pale greenish ; apothecia also pale ; restricted to arid or dry inland climates. $ Rhizoplaca
+3,4$ 3b : Upper surface pale or dark, but never pale greenish ; apothecia black or absent ; distribution various.
+
+4,0$ 4a : Upper surface bearing scattered immersed perithecia and pycnidia, these appearing from above as tiny brownish or blackish dots ; apothecia and rhizines absent ; medulla C-. $ Dermatocarpon
+4,5$ 4b : Upper surface usually lacking black dots (i.e., perithecia absent) ; apothecia and rhizines present or absent ; medulla C+ red or C-.
+
+5,0$ 5a : Upper surface bearing scattered blisters/pustules, these never united and ridge-like ; spores 1 or 2 per ascus. $ Lasallia pensylvanica
+5,0$ 5b : Upper surface plane or variously wrinkled or ridged, but never bearing scattered pustules ; spores 8 per ascus. $ Umbilicaria
+
+6,7$ 6a : Primary photobiont a dark greenish blue to dark greyish blue cyanobacterium ; upper surface generally dark greyish, bluish or brownish.
+6,18$ 6b : Primary photobiont a grass-green alga ; upper surface pale or dark (Note : all brightly coloured species key here).
+
+7,8$ 7a : Lobes narrow or if proportionately broad, then minute, averaging to less than 2 mm wide, often elongate ; lower surface never bearing veins or pale spots.
+7,10$ 7b : Lobes proportionately broad, often rather large, averaging to more than 3 mm wide, usually short and rounded ; lower surface often veined or sparsely covered in pale spots.
+
+8,0$ 8a : Lower surface and rhizines blue-green (Note : this character is best demonstrated under a light microscope, but can sometimes be checked by scraping away portions of thallus, and examining the [discoloured] substrate below). $ Placynthium
+8,9$ 8b : Lower surface pale, or at least never blue-green.
+
+9,0$ 9a : Lobes averaging to more than 0.5 mm wide ; thallus growing over moss, soil, bark or wood, almost never directly over rock. $ Massalongia, Pannaria, Parmeliella (see key to Pannaria)
+9,0$ 9b : Lobes averaging to less than 0.2 (-0.3) mm wide ; thallus growing directly over rock. $ Koerberia, Placynthium, Vestergrenopsis (see key to Placynthium)
+
+10,0$ 10a : Apothecia located on lower surface. $ Nephroma
+10,11$ 10b : Apothecia located on upper surface, or apothecia absent.
+
+11,12$ 11a : Lower surface veined or sparsely covered in pale spots.
+11,16$ 11b : Lower surface more or less uniform, not at all veined or pale-spotted.
+
+12,0$ 12a : Lower surface at least in part distinctly veined, bearing copious rhizines ; usually ground-dwelling. $ Peltigera
+12,13$ 12b : Lower surface more or less sparsely covered in pale spots, not veined ; rhizines absent or sparse ; habitat various.
+
+13,14$ 13a : Spots averaging to more than 1.5 mm wide.
+13,15$ 13b : Spots minute, averaging to less than 1 mm wide.
+
+14,0$ 14a : Lower surface (except spots) densely covered in minute erect hairs ; spots hard-corticate, often somewhat shiny ; apothecia located primarily over central portions of upper surface. $ Lobaria
+14,0$ 14b : Lower surface cottony, but not at all covered in minute erect hairs ; spots also cottony, dull ; apothecia located at thallus periphery. $ Peltigera
+
+15,0$ 15a : Lower surface cyphellate : spots distinctly sunken and rimmed. $ Sticta
+15,0$ 15b : Lower surface pseudocyphellate : spots plane or raised, not rimmed. $ Pseudocyphellaria
+
+16,0$ 16a : Lower surface either hard-corticate and naked, or densely covered in minute erect hairs ; widespread. $ Nephroma
+16,17$ 16b : Lower surface appressed-cottony, not hard-corticate or densely covered in minute erect hairs ; hypermaritime.
+
+17,0$ 17a : Upper surface bearing minute erect hairs, medulla PD+ orange. $ Erioderma sorediatum
+17,0$ 17b : Upper surface hairless or bearing minute appressed hairs ; medulla PD-. $ Leioderma sorediatum
+
+18,19$ 18a : Upper surface orange or, if yellow-green or grey-green, then lobes tiny, less than 0.5 mm wide.
+18,23$ 18b : Upper surface variously coloured, but never orange ; if yellow-green or grey-green, then lobes larger, averaging to more than 1 mm wide.
+
+19,0$ 19a : Upper surface orange (sometimes yellowish green in shady sites), K+ purplish. $ Xanthoria
+19,20$ 19b : Upper surface yellowish green or grey-green, K-.
+
+20,0$ 20a : Thallus minute ; lobes averaging to 0.1-0.3 mm wide ; isidia and soredia absent ; over moss. $ Agonimia tristicula
+20,21$ 20b : Thallus minute or small ; lobe sometimes averaging to more than 0.3 mm wide ; isidia and/or soredia present ; growing directly over bark or rock.
+
+21,0$ 21a : Isidia and/or soredia present, located mostly along lobe margins and/or lobe tips ; lobes averaging to less than 0.2 mm wide. $ Candelaria concolor
+21,22$ 21b : Isidia absent ; soredia present, located over upper surface (including upper surface of lobe tips) ; lobes averaging to more than 0.4 mm wide.
+
+22,0$ 22a : Over rock ; upper surface generally somewhat shiny throughout ; coastal ; medulla K+ yellow, PD+ orange. $ Xanthoparmelia mougeotii
+22,0$ 22b : Over bark (very rare over rock) ; upper surface generally dull toward thallus centre ; widespread ; medulla K-, PD-. $ Parmeliopsis ambigua
+
+23,24$ 23a : Lobes distinctly hollow in cross-section (readily observed through hand lens).
+23,25$ 23b : Lobes leaflike or partly cylindrical, but never hollow.
+
+24,0$ 24a : Upper surface sparsely perforate, perforations to 2 mm across ; soredia sometimes present around openings ; coastal. $ Menegazzia
+24,0$ 24b : Upper surface not perforate, but lobe tips occasionally perforate ; soredia variously located or soredia absent ; distribution various. $ Hypogymnia
+
+25,26$ 25a : Lobes proportionately broad ; lower surface with an appressed-cottony appearance (check near lobe tips), often bearing darkened veins ; wart-like cephalodia sometimes scattered over upper surface (Note : species with distinctly sunken apothecia key here).
+25,28$ 25b : Lobes broad or narrow ; lower surface hard-corticate to rarely appressed-cottony ; veins absent ; wart-like cephalodia also absent over upper surface.
+
+26,12$ 26a : Lower surface more or less distinctly veined or pale-spotted ; and/or upper surface bearing wart-like cephalodia ; apothecia located near lobe margins.
+26,27$ 26b : Lower surface uniform or weakly veined, not at all pale-spotted ; cephalodia absent over upper surface ; apothecia located over central portions of upper surface, more or less sunken (Note : species with an orange lower surface key here).
+
+27,0$ 27a : Lobes numerous and conspicuously overlapping ; rhizines and apothecia absent. $ (Cladonia)
+27,0$ 27b : Lobes sparse to numerous, but never conspicuously overlapping ; rhizines and apothecia usually present. $ Solorina
+
+28,0$ 28a : Apothecia (if present) located on lower surface ; lobes averaging to more than 15 mm wide ; lower surface strongly woolly-tomentose toward thallus centre ; rhizines absent ; usually ground-dwelling. $ Nephroma
+28,29$ 28b : Apothecia (if present) located over upper surface or along lobe margins ; lobes often averaging to less than 15 mm wide ; lower surface bare or bearing rhizines, but never strongly woolly-tomentose ; ecology various.
+
+29,30$ 29a : Thallus unattached to substrate, and upper surface dark brown ; exposed localities.
+29,31$ 29b : Thallus attached or if unattached (as very rarely), then upper surface not dark brown ; distribution various.
+
+30,0$ 30a : Lower surface partly white-pruinose ; northern B.C. ; alpine. $ Masonhalea richardsonii
+30,0$ 30b : Lower surface not white-pruinose ; southern B.C. ; restricted to arid inland sites at lower elevations. $ Dermatocarpon
+
+31,32$ 31a : Thallus "parmelioid" (i.e., combining at least two of the following characters : upper and lower surfaces obviously unlike in colour ; rhizines abundant over lower surface ; lobes more or less closely appressed) (Note : all species having a white-pruinose upper surface key here).
+31,61$ 31b : Thallus "cetrarioid" (i.e., combining at least two of the following characters : upper and lower surface coloured more or less alike ; rhizines absent or very sparse [marginal cilia, however, may be present in some species] ; lobes loosely attached or semi-erect).
+
+32,33$ 32a : Upper surface distinctly yellowish (including yellowish green), and thallus growing over rock or soil.
+32,34$ 32b : Upper surface coloured otherwise or, if yellowish, then growing over bark or wood.
+
+33,0$ 33a : Upper surface dull throughout ; lower surface also dull, usually weakly white-pruinose ; boreal and alpine localities ; medulla KC+ reddish, UV+. $ Arctoparmelia
+33,0$ 33b :	Upper surface more or less distinctly shiny (check lobe tips) ; lower surface also shiny, never white-pruinose ; widespread, but most common in southern regions of B.C. at lower elevations ; medulla KC-, UV-. $ Xanthoparmelia
+
+34,35$ 34a : Upper surface essentially dark : brownish, olivaceous or blackish.
+34,39$ 34b : Upper surface occasionally brown where exposed, but otherwise pale : whitish, greyish, bluish, greenish or yellow (check sheltered lobes).
+
+35,36$ 35a : Rhizines absent over lower surface (sparse peg-like outgrowths may, however, be present) ; lobes strongly convex throughout ; over acid rock in exposed alpine localities.
+35,37$ 35b : Rhizines present below ; lobes generally weakly convex (rarely strongly convex) throughout ; ecology and distribution various.
+
+36,0$ 36a : Lobes partly semi-erect, sparsely branched, seldom completely obscuring substrate ; cortex K+ yellow (check lobe tips or other pale areas) ; medulla PD+ orangish or PD-. $ Brodoa oroarctica
+36,0$ 36b : Lobes mostly appressed throughout, densely branched, generally completely obscuring substrate ; cortex K- throughout ; medulla PD+ strong yellow or PD-. $ Allantoparmelia
+
+37,0$ 37a : Upper surface medium brown, partly shiny (check lobe tips) ; apothecial discs distinctly brown ; lobes generally averaging to more than 2 mm wide ; spores 1-celled/simple, colourless	. $ Melanelia, Neofuscelia (see key to Melanelia)
+37,38$ 37b : Upper surface medium brown to nearly black, dull throughout ; apothecial discs black or (when pruinose) pale greyish ; lobes generally averaging to less than 2 mm wide ; spores 2-celled, brown.
+
+38,0$ 38a : Upper surface dark greyish (never distinctly brownish), pale-spotted/maculate, K+ yellow (check sheltered lobes) ; lower surface pale ; rhizines unbranched. $ Physcia
+38,49$ 38b : Upper surface brownish or blackish brown, not at all pale-spotted/maculate, K- ; lower surface pale or more often dark ; rhizines branched or unbranched.
+
+39,40$ 39a : Lobes generally averaging to less than 4 mm wide ; rhizines abundant or occasionally absent ; lobe margins ciliate or not.
+39,54$ 39b : Lobes generally averaging to more than 5 mm wide ; rhizines absent or sparse and restricted to thallus centre (lobe margins, however, occasionally ciliate).
+
+40,41$ 40a : Rhizines absent over lower surface (cilia, however, present along lobe margins in Heterodermia) ; lower cortex hard-corticate or not.
+40,44$ 40b : Rhizines present and usually conspicuous over lower surface ; lower cortex hard-corticate.
+
+41,0$ 41a : Lower surface black, regularly pitted with minute black craters (hand lens) ; essentially coastal. $ Cavernularia
+41,42$ 41b : Lower surface pale and smooth or at most wrinkled, never pitted ; distribution various.
+
+42,0$ 42a : Over bark ; lobe margins strongly ciliate. $ Heterodermia
+42,43$ 42b : Over rock or soil ; lobe margins lacking cilia.
+
+43,0$ 43a : Lobes distinctly elongate ; upper surface strongly white pruinose ; restricted to exposed soil in semi-arid intermontane localities. $ (Buellia elegans)
+43,0$ 43b : Lobes short, more or less squamulose ; upper surface at most weakly white-pruinose ; over rock or soil in cool, boreal localities. $ (Baeomyces placophyllus)
+
+44,0$ 44a : Lobes semi-erect at maturity, sorediate, soredia borne partly on downturned lobe tips ; coastal. $ Hypotrachyna
+44,45$ 44b : Lobes appressed or semi-erect at maturity ; lobe tips never both sorediate and downturned ; distribution various.
+
+45,46$ 45a : Lobes averaging to less than 2.5 mm wide ; pseudocyphellae absent.
+45,50$ 45b : Lobes averaging to more than 3 mm wide ; pseudocyphellae sometimes present over upper surface.
+
+46,0$ 46a : Upper surface isidiate, isidia pale ; soredia absent ; lower surface pale throughout ; upper cortex K+ gold. $ Imshaugia aleurites
+46,47$ 46b : Upper surface isidiate or not ; isidia (if present) dark brown or black ; soredia present or absent ; upper cortex K- or K+ yellow.
+
+47,0$ 47a : Upper surface shiny, especially near lobe tips ; soredia present over upper surface ; often over conifers ; medulla KC+ rose (fading), UV+. $ Parmeliopsis
+47,48$ 47b : Upper surface dull near lobe tips ; thallus sorediate or not ; rarely over conifers (except in localities rich in calcium) ; medulla KC-, UV-.
+
+48,0$ 48a : Upper surface pale greyish or rarely dark greyish (never distinctly brownish), often pale-spotted/maculate ; rhizines unbranched ; lower cortex pale ; upper cortex K+ yellow. $ Physcia
+48,49$ 48b : Upper surface partly distinctly brownish at maturity, lacking pale-spotting/maculae ; rhizines unbranched or woolly-branched ; lower cortex dark or occasionally pale ; upper cortex K-.
+
+49,0$ 49a : Rhizines unbranched or only sparsely branched at maturity ; upper surface generally lacking white pruina. $ Phaeophyscia
+49,0$ 49b : Rhizines densely woolly-branched at maturity ; upper surface generally distinctly white-pruinose (check lobe tips). $ Physconia
+
+50,51$ 50a : Soredia and/or isidia present, conspicuous.
+50,52$ 50b : Soredia and isidia absent.
+
+51,0$ 51a : Upper surface isidiate or sorediate, soredia confined to somewhat elongate soralia ; lower surface rhizinate almost to lobe tips ; widespread. $ Parmelia
+51,0$ 51b : Upper surface sorediate, soredia confined to somewhat circular soralia ; isidia absent ; lower surface rhizinate mostly toward the thallus centre ; coastal. $ Punctelia
+
+52,0$ 52a : Upper surface strong yellow, thallus closely appressed throughout ; mostly over whitebark pine. $ Ahtiana sphaerosporella
+52,53$ 52b : Upper surface greyish or only weakly yellowish ; thallus loosely appressed to occasionally semi-erect ; never over whitebark pine.
+
+53,0$ 53a : Over bark or wood ; lower surface distinctly wrinkled ; rhizines sparse. $ Esslingeriana idahoensis
+53,0$ 53b : Over rock ; lower surface more or less smooth ; rhizines rather abundant. $ Parmelia omphalodes
+
+54,55$ 54a : Soredia and isidia absent.
+54,57$ 54b : Soredia and/or isidia present.
+
+55,0$ 55a : Lobes mostly elongate, averaging to 1.5-4 (-6) mm wide ; inland. $ Esslingeriana idahoensis (see 53a)
+55,56$ 55b : Lobes mostly short, averaging to 5-20 mm wide ; distribution various, but most common in humid localities.
+
+56,0$ 56a : Lobe margins bearing flexuous black cilia ; upper surface more or less smooth ; coastal ; medulla K- or K+ yellow. $ Parmotrema
+56,0$ 56b : Lobe margins lacking cilia ; upper surface smooth to strongly ridged ; distribution various ; medulla K-. $ Platismatia
+
+57,0$ 57a : Lobe margins bearing long black cilia ; lower surface lacking rhizines near lobe margins ; upper surface whitish grey, lacking pseudocyphellae ; coastal. $ Parmotrema
+57,58$ 57b : Lobe margins naked ; lower surface rhizinate almost to lobe margins or rhizines sparse or absent ; upper surface whitish grey or yellowish green ; pseudocyphellae present or absent ; distribution various.
+
+58,59$ 58a : Thallus sorediate.
+58,60$ 58b : Thallus strictly isidiate or bearing both isidia and soredia.
+
+59,0$ 59a : Upper surface lacking pseudocyphellae ; soredia borne at least partly on distinctly downturned lobe tips. $ Hypotrachyna
+59,0$ 59b : Upper surface pseudocyphellate ; soredia variously positioned but never associated with distinctly downturned lobe tips. $ Punctelia
+
+60,0$ 60a : Upper surface often blackening when growing in exposed conditions ; over rock ; alpine ; northern ; medulla KC+ reddish, PD+ slowly strong yellow. $ Asahinea scholanderi
+60,0$ 60b : Upper surface brownish when exposed, never blackening ; over bark (rare over rock) ; temperate to boreal ; medulla KC-, PD-. $ Platismatia
+
+61,62$ 61a : Upper surface essentially dark throughout : olive-green, brown or blackish.
+61,63$ 61b : Upper surface occasionally brownish or blackish where exposed, but otherwise mostly pale : yellowish, greyish, pale greenish or pale bluish (check sheltered lobes).
+
+62,0$ 62a : Lower surface broadly white-pruinose ; rhizines absent ; thallus growing unattached to substrate, often ball-like in the dry condition ; northern B.C. ; alpine. $ Masonhalea richardsonii
+62,0$ 62b : Lower surface occasionally bearing small, white, localized pseudocyphellae, but never broadly white-pruinose ; rhizines present or absent ; thallus attached to substrate ; individual thalli never ball-like ; distribution various. $ Cetraria
+
+63,0$ 63a : Lobes narrow, elongate and distinctly swollen (i.e., convex above and below) ; over rock in exposed alpine localities. $ Brodoa oroarctica
+63,64$ 63b : Lobes various but never distinctly swollen ; restricted primarily to lowland localities (Exception : Asahinea scholanderi).
+
+64,65$ 64a : Lower surface more or less white, hard-corticate or partly appressed-cottony (i.e., lower cortex lacking) ; lobes narrow, elongate.
+64,68$ 64b : Lower surface dark or at least not white (Exception : some Platismatia species may occasionally have a white lower surface), never appressed-cottony ; lobes various.
+
+65,66$ 65a : Lobe margins distinctly ciliate.
+65,67$ 65b : Lobe margins lacking cilia.
+
+66,0$ 66a : Lower surface appressed-cottony (i.e., lower cortex absent) ; rhizines, if present, restricted to area of lobe margins ; soredia present or absent. $ Heterodermia (see 42a)
+66,0$ 66b : Lower surface distinctly hard-corticate (rarely in part appressed-cottony), bearing scattered rhizines throughout ; soredia present (check lobe tips). $ Physcia
+
+67,0$ 67a : Soredia present ; upper surface dull, pale yellowish green ; wide spread. $ (Evernia prunastri)
+67,0$ 67b : Soredia absent ; upper surface generally shiny, pale bluish grey to greenish grey ; coastal. $ Platismatia (see 31b)
+
+68,69$ 68a : Upper surface yellowish or yellowish green, never bearing pseudocyphellae ; lower surface more or less coloured alike with upper surface ; medulla white or pale yellow.
+68,70$ 68b : Upper surface coloured differently or, if yellowish, then lower surface partly distinctly blackish ; upper surface pseudocyphellate or not ; medulla white.
+
+69,0$ 69a : Medulla white. $ Cetraria
+69,0$ 69b : Medulla pale yellow. $ Vulpicida
+
+70,0$ 70a : Lobe margins ciliate ; lower surface mostly black. $ Parmotrema
+70,71$ 70b : Lobe margins lacking cilia ; lower surface pale or blackening.
+
+71,0$ 71a : Lobes short and broad, averaging to more than 12 mm wide ; rhizines absent ; over rock and soil ; alpine ; northern. $ Asahinea scholanderi
+71,72$ 71b : Lobes of various proportions, but averaging to less than 10 mm wide ; lower surface rhizinate or not ; over bark (rare over rock) ; temperate and boreal.
+
+72,0$ 72a : Soredia absent : thallus isidiate or not. $ Esslingeriana, Platismatia (see key to Platismatia)
+72,73$ 72b : Soredia present ; thallus isidiate or not.
+
+73,0$ 73a : Lobe margins lacerate ; isidia often intermixed with soredia. $ Platismatia glauca
+73,74$ 73b : Lobe margins even ; isidia absent.
+
+74,0$ 74a : Upper surface yellowish green ; soralia located both over upper surface and along lobe margins ; pseudocyphellae absent over lower surface ; medulla C+ reddish ; widespread. $ Flavopunctelia flaventior
+74,0$ 74b : Upper surface pale bluish grey or greenish grey ; soralia more or less strictly marginal ; pseudocyphellae present over lower surface ; medulla C- ; essentially coastal. $ Cetrelia cetrarioides
+

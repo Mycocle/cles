@@ -1,0 +1,22 @@
+titre$ Lentinus Nordic Macromycetes 2 
+com$ adapt GF Juillet 2013
+rem$ Nord macrom2.1 p 46
+REM$LANGUE$Anglais
+
+1,0$ Cap and stem whitish to ochraceous, velvety-felty, becoming viscid from a brown resinous coating; cap 3-5 cm; gills white to ochraceous, decurrent. Sp 7-10 x 2.5-3 µm ; metuloids present. - On conifers. KM 314, MH III 100, Bres 512. $ L. adhaerens (Alb. & Schw. : Fr.) Fr.
+1,0,n$ (Neolentinus a. (Alb. & Schw. : Fr.) Redhead & Ginns)
+1,2$ cap dry
+2,3$ cap smooth
+2,4$ cap hairy or scaly
+3,0 $ Gills finely dentate. Metuloids absent. Cap 1.5-5(-11) cm, yellow to ochraceous, later whitish, reniform to cupulate; gills white to yellowish, anastomosing; stem very short or absent, central to eccentric; sp-print pale ochraceous; smell strong of aniseed. Sp 7-8 * 3.5-4 µm. - Solitary on trunks of Salix", autumn. D&D 17, M&J I Panus 1. D: EJyl (Silkeborg, Rold Skov). N: 1-2 s r. S: 1-3 r. F: 2-3 V, EH, OP. $ L. suavissimus Fr. (Panus s. (Fr.) Sing.)
+3,0 $ Gills with entire edge. Metuloids numerous, clavate to ventricose. Cap 4-8 cm, infundibuliform or irregularly lobed, wood brown to pale tan, at first faintly purplish lilac; gills reddish to wood brown, anastomosing; stem short, eccentric to lateral, at the base tomentose lilac, then pale tan. Sp 6-7 * 3-3.5 µm (Fig. 2). - Subsolitary or clustered on stumps and branches of deciduous trees; summer or late autumn. D&D 20, Phil 187, R&H 207.D: o. N: 1-4 o-r. S; 1-4 c-o. F; 2-3 n - KiL c-o. $ L. conchatus (Bull.: Fr.) Schroet.
+3,0,n$ (Panus c. (Bull.: Fr.) Fr., L. torulosus (Pers. : Fr.) Lloyd)
+
+4,0 $ Gill edge entire, stem rudimentary. Metuloids numerous. Cap hirsute strigose, 2-5 cm, reniform to infundibuliform, at first vinaceous, later ochraceous, edge incurved; gills at first vinaceous, later ochraceous; stem obconical, central to lateral, hirsute; sp-print ochraceous; taste acrid. Sp 5-6 * 2 µm, - On stumps and branches of Fagus and other deciduous trees; late autumn. MH III 94, Bres 519, C 1122. D:? S: ! $ L. strigosus (Schw.) Fr. (Panus rudis Fr.)
+4,5 $ Gill edge serrate or entire. Metuloids scattered or absent
+5,0 $ On living trees, stumps and construction timber of conifers. Cap 5-15 cm, yellowish white, with large, umber, appressed scales; gills serrate, sinuate to decurrent; stem central to lateral; veil indistinct; smell strong, aromatic. Sp 8-14 x 3-3.5 µm. - Summer to autumn. MLge, R&H 208, D&D 22. D: r. I: SA (Kvisker) on imported wood. N: 1-4 c. S; 1-3 c. F; 2-3 n-InL c-o. $ L. lepideus (Fr. : Fr.) Fr. (Neolentinus l. (Fr. : Fr.) Redhead & Ginns)
+5,6 $ On living or dead deciduous trees, mainly Populus and Salix-, gills strongly decurrent
+6,0 $ Cap and stem with dark brown scales; gill edge serrate; cap 4-8 cm, umbilicate to infundibuliform, whitish with small, fibrous, adhering fuscous black scales; gills white to yellowish; stem central to eccentric, with fine brown scales and a fugacious veil. Sp 8-10 " 2-2.5 µm. - Summer. D&D 21, MH III 95, Ri 26,2. D: Sj (Gentofte, Glasna). S: 1 Sk. $ L. tigrinus (Bull. : Fr.) Fr.
+6,0,n$(Panus t. (Bull. : Fr.) Sing.)
+6,0 $ Cap and stem not dark scaly; gill edge entire or finely denticulate. Cap 5-15 cm, yellowish white, with minute reddish brown scales; gills initially venose, becoming lamellate; stem central to slightly eccentric, felty-scaly; veil absent. Sp 10-14 * 3.5-5 µm, - Mainly on Populus; summer to early autumn. Bres 511, C 693. D: Loll (Hovengeskoven). S: $ L. cyathiformis (Schaeff.) Bres.
+6,0,n$ (L. schaefferi (Weinm.) K‰‰rik, Neolentinus s. (Weinm.) Redhead & Ginns)

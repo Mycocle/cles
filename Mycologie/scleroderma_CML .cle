@@ -1,0 +1,26 @@
+Titre$Sclérodermes de Coccia, Migliozzi & Lavorato
+com$ Trad X, adapt GF oct 09
+
+Clé de détermination des Sclérodermes de Coccia, Migliozzi & Lavorato
+
+1,CS1$ Absence de boucles et spores exclusivement aculées.
+1,CS2$ Présence de boucles et spores pas exclusivement aculées
+
+CS1,0$
+1,0 $ a - Carpophore avec péridium d'épaisseur consistante (= 2 mm) et petit pseudostipe compact presque tout à fait dépourvu de rhizomorphes entrelacés $ Scleroderma cepa Persoon
+1,2 $ b - Carpophore avec péridium de petite épaisseur (0,5-1,2 mm) et pseudostipe formé $ par des rhizomorphes entrelacés et souvent calcifiés
+2,0 $ a - Péridium avec deux couches microscopiques qu'on peut différencier avec la plus intérieure dotée d'hyphes larges (jusqu'à 20 µm) $ Scleroderma flavidum Ell. & Everh.sensu Migliozzi - Coccia 1988 Micol. Ital. XVII (1), Pacioni-Lalli 1981
+2,0,n$sensu Migliozzi - Coccia 1988 Micol. Ital. XVII (1), Pacioni-Lalli 1981
+2,3 $ b - Péridium formé d'hyphes étroites (jusqu'à 9 (10) µm) 
+3,0 $ a - Petites spores (jusqu'à 11(13) µm y compris les aiguillons) $ Scleroderma verrucosum Bull. :  Persoon
+3,0 $ b - Grandes spores (jusqu'à 16 µm compris les aiguillons) $ Scleroderma aerolatum  Ehremberg.
+
+CS2,0$
+1,2 $ a - Carpophore avec pseudostipe compact, plus ou moins développé, constitué par des cellules ellipsoïdales et rhizomorphes entrelacés
+1,3 $ b - Carpophore avec pseudostipe généralement peu développé, constitué par des rhizomorphes à hyphes entrelacées
+2,0 $ a - Spores avec l'omamentation constituée par un réseau parfois interrompu, formé d'aiguillons et de crêtes; espèce rarement  xérophile $ Scleroderma bovista Fries
+2,0 $ b - Spores avec l'ornamentation constituée par un réseau formé exclusivement de crêtes; espèce xérophile et sabulicole $ Scleroderma meridionale Demoulin et MaIençon
+3,0 $ a - Carpophore semi-hypogé, sous conifères, doté de spores avec un réseau complet formé de crêtes et d'aiguillons $ Scleroderma fuscum (Corda) Fischer
+3,4 $ b - Carpophore épigé, doté de spores avec un réseau incomplet
+4,0 $ a - Carpophore de grande taille, à maturité doté d'un péridium sublisse et consistant avec déhiscence typique en étoile $ Scleroderma polyrhizum Persoon
+4,0 $ b - Carpophore de taille moyenne, à maturité doté d'un péridium d'une manière assez apparente, ornementé par des écailles en relief disposées régulièrement, avec déhiscence à travers les crevasses et fractures irrégulières ainsi que casuelles$Scleroderma citrinum Persoon

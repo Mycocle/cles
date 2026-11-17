@@ -1,0 +1,281 @@
+Chiave per la determinazione delle sezioni del genere Lyophyllum
+
+1,2 $ basidiocarpo spiccatamente annerente
+1,3 $ basidiocarpo non annerente, al più un po' imbrunente
+
+2,cs1 $ spore verrucose e basidi in media non più lunghi di 30 µm $ sez. Lyophyllum $s"sez. Lyophyllum"
+2,cs2 $ spore lisce o basidi in media lunghi oltre 30 µm $ sez. Semitalina $s"sez. Semitalina"
+
+3,4 $ ife dei rivestimento pileico con pigmento intraparietale o incrostante
+3,5 $ ife del rivestimento pileico con pigmento vacuolare o intracellulare
+
+4,cs3 $ basidi lunghi oltre 30 µm; basidiocarpi robusti e carnosi, spesso crescenti cespitosi o connati $ sez. Difformia $s "sez. Difformia"
+4,cs4 $ basidi Iunghi mena di 30 µm; basidiocarpi gracili e poco carnosi. con portamento da Mycena o da Collybia $ sez. Tephrophana $s "sez. Tephrophana"
+
+5,cs5 $ rivestimento pileico composto da ife cilindriche parallele; portamento da Tricholoma con taglia robusta e carnosa $ sez. Calocybe $s "sez. Calocybe"
+5,cs6 $ rivestimento pileico composto da ife confusamente erette e sovente clavate; portamento da Collybia, taglia gracile $ sez. Carneoviolacea $s "sez. Carneoviolacea"
+
+
+cs1,0 $     Sez. LYOPHYLLUM
+
+1,0 $ spore 7 ~ 9 x 3,5.4,5 µm, ellissoidali- subfusiformi, con ornamentazione costituita da verruche molto sottili e labili; odore forte, sgradevole; specie robusta dei boschi misti $ L. leucophaeatum
+1,0,N$///È la specie typus deI genere e si riconosce soprattutto per l'odore forte, alquanto sgradevole, e le spore allungate, con ornamentazione sottile e piuttosto labile negli alcali. Secondo i dati a nostra disposizione si tratta di entità abbastanza rara in Italia, dove sembra ristretta aIle regioni settentrionali. ///L. gangraenosum (Fr.) Gulden (1991) potrebbe essere differente per l'habitus da Clitocybe, le lamelle più decorrenti e non viranti al blu prima di annerire e la carne più marcatamente annerente (cfr. BON, 1999) ma, a tutt'oggi, non abbiamo ancora incontrato esemplari riferibili a questo taxon.
+1,0 $ spore 6-8 x 4-5µm. regolarmente ellissoidali, con ornamentazione costituita da aculei ottusi e persistenti; odore poco pronunciato ; specie collybioide dei boschi montani di peccio, non segnalata ancora in Italia $ L. oldae
+
+
+cs2,0 $     Sez. SEMITALINA (Singer) Constglio & Contu, stat. nov.=Lyophyllum sect. Lyophyllum subsect. Semitalini Singer in Sydowia, beih.VII: 7. 1973 (basionimo). Typus: L. semitale (Fr.) Singer.
+
+1,2 $ spore globose  $ subsect. Globisporina $s "subsez. Globisporina"
+1,7 $ spore allungate
+
+2,3 $ con toni viola nelle lamelle e/o nel gambo
+2,4 $ senza toni viola in lamelle e gambo
+
+3,0 $ spore larghe 6-7 µm; lamelle viola ametista intenso e persistente; cappello bruno nocciola pallido; presso latifoglie $ L. violaceifolium
+3,0,N$///Si riconosce agevolmente per il cappello bruno nocciola, le lamelle di un bellissimo viola ametista persistente e le spore sferiche. Finora questa specie è conosciuta solo dalle foreste a Quercus ilex della Sardegna centrale. ///L. cossonianum ha colori più scuri nel cappello, gambo con netti toni viola ametista nel giovane e spore decisamente più piccole, con contorno angoloso. ///L. microsporum, molto simile a L. cossonianum, differisce per i colori molto più scuri, bruno bistro e non bruno nocciola, le lamelle con tinta violetta mena persistente e le spore decisamente più piccole. ///Sia L. cossonianum che L. microsporum, inoltre, preferiscono fruttificare in terreni con componente sabbiosa più accentuata.
+3,0 $ spore larghe 3-4,5 µm; lamelle violette solo nel giovane poi brunastre pallide; cappello grigio-bistro carico; presso conifere costiere $ L. microsporum
+3,0,N$///Qucsta specie è molto simile a L. cossonianum ma ha cappello più scuro, quasi nero, lubrico, carne più nettamente annerente e con odore marcato nonché spore con contomo praticamente liscio, decisamcnte più piccole ///(KÜHNER & ROMAGNSI , 1953, riportano le spore di L. cossonianum come "4,5-6,5 x 3,5-5,5 µm" ///CLEMENÇON , 1982, che ne ha studiato il typus, riporta "3,7-5,2 x 3,0-4,5
+µm" ). ///Le raccolte finora note pravengono dalla Toscana e dalla Sardegna. regioni dove questa specie frequenta i terreni sabbiosi del litorale, specialmente con presenza di Pistacia lentiscus.
+
+4,0 $ lamelle notevolmente viranti al bluastro prima di annerire, piuttosto larghe e spesse; basidiocarpo ocra-brunastro $ L. coerulescens
+4,0,N$///Immediatamente identificabile, già sul terreno, per le lamelle insolitamente larghe e spesse, tendenti a virare nettamente al blu al tocco. ///L.eustygium (Cooke) Clémençon (1982, 1986), originario della Gran Bretagna e non ancora rinvenuto in Italia, differisce per la taglia minore, le lamelle non viranti al bluastro prima di annerire, l'odore più gradevole, sebbene sempre farinoso, e il rivestimento pileico gelatinoso.
+4,5 $ lamelle non viranti al bluastro in modo cosi intenso
+
+5,0 $ basidiocarpi cespitosi; lamelle biancastre; grande specie dei boschi di latifoglie della zona mediterranea $ L. crassipodium
+5,0,N$///Si tratta di un'entità molto rara, tipica delle foreste basiche a Quercus ilex della zona mediterranea, originaria del Nord Africa (Marocco) e ritrovata, in Italia, solo in Sardegna. La taglia molto robusta, la fruttificazione cespitosa, il forte annerimento della carne e le spore globose ne consentono un riconoscimento agevole.///Fra le specie della sezione Difformia, L. decastes, nelle forme intensamente colorate, e L. conglobatum possono prestarsi a confusioni ma si tratta di specie con carne non annerente e gambo mai cosi robusto.
+5,6 $ basidiocarpi non cespitosi e non cosi robusti
+
+6,0 $ basidiocarpo grigio-bistro o grigiastro; lamelle grigio-brune; gambo concolore al cappello $ L. amariusculum
+6,0,N$///Specie tipica dei boschi di latifoglie, frequente su tutto il territorio nazionale, per lungo tempo denominata "Lyophyllum immundum (Berk.) Kühner". ///Clémençon (1982), tuttavia, ha dimostrato che il binomio di Berkeley (1860) è difficilmente applicabile a una Lyophyllaceae, anche perché l'habitat originariamente indicato "on sheep's dung" è poco compatibile con questo genere di Tricholomatales.///Ne agevolano il riconoscimento sul terreno le colorazioni piuttosto cariche, l'annerimento molto pronunciato e la carne con odore forte, poco gradevole.
+6,0 $ basidiocarpo bruno argilla chiaro; lamelle a lungo biancastre; gambo biancastro $ L. paelochroum
+6,0,N$///Entità recentemente distinta da L. amariusculum per le colorazioni più brune che grigie, il sapore mite e alcune peculiarità microscopiche (ife della trama lamellare più sottili, oleifere rare e non frequenti come nella sua simile). Esistono, tuttavia, svariate forme intermedie fra i due taxa come abbiamo potuto accertare dallo studio di alcune raccolte effettuate da G. Consiglio in Emilia Romagna. ///L. helvella (Boud.) Clémençon (1983, 1986), molto più raro e non segnalato in Italia, si separa agevolmente per le dimensioni minori, il rivestimento pileico gelatinoso e i basidi di lunghezza non eccedente i 30 µm.
+
+7,8 $ spore romboidali, angolose o a forma di losanga $ subsez. Goniosporina $s "subsez. Goniosporina"
+7,12 $ spore a contorno regolare, ellissoidali o subfusiformi
+
+
+Subsez. Goniosporina Singer 1943
+8,0 $ spore leggermente angolose o subcruciformi, subglobose; lamelle e gambo con toni viola nel giovane; poco annerente, soprattutto imbrunente 8 $ L. cossanianum
+8,0,N$///Si tratta di un'entità assai rara, tipica della zona mediterranea, dove fruttifica soprattutto in terreni sabbiosi; in Italia è stata rinvenuta, finora, solo in alcune stazioni della Sardegna settentrionale (prov. di Sassari, S. Teresa di Gallura, loc. Rena Majore), sempre in vicinanza di Juniperus sp. pl. ///Si riconosce soprattutto per le sfumature violette delle lamelle e dei gambo nei giovani esemplari e per le piccole spore con profilo talvolta leggermente angoloso. In considerazione di quest'ultima particolarità abbiamo optato per l'inserimento di L. cossonianum nella sottosezione Goniosporina, sebbene la carne di questa specie non sia apprezzabilmente annerente ma, piuttosto, imbrunente. ///Le specie appartenenti al genere Tricholosporum Guzmàn rinvenute in Europa (T. goniospermum
+e T. tetragonosporum, cfr. Contu & Mua, 2000) possiedono spore molto più marcatamente cruciformi e basidi privi di granulazioni siderofile.
+8,9 $ senza toni viola neppure nel giovane; spore allungate
+
+9,0 $ basidiocarpo con toni ocra-brunastri o giallo-bruni, senza sfumature grigie; nei boschi di montagna , soprattutto nelle radure erbose umide $ L. macrosporum
+9,0,N$///Facilmente riconoscibile per le colorazioni non grigiastre, le lamelle larghe e spesse e per la peculiare forma delle spore. ///Poiché non abbiamo mai effettuato raccolte personal i di questa specie, descritta, tuttavia , da Bresadola (1927/ 1933) sulla base di materiale raccolto in Italia, abbiamo riportato una descrizione compilativa, tratta della letteratura . Sempre dalla letteratura risulta che L. macrosporum è specie tipica delle regioni settentrionaii, di improbabile ritrovamento in quelle mediterranee.
+9,10 $ basidiocarpo con toni grigi o bistro
+
+10,0 $ spore a forma strettamente romboidale; basidiocarpo grigio-bruno o bruno-bistro piuttosto scuro; presso latifoglie $ L. infumatum
+10,0,N$///Entità abbastanza frequente nelle foreste di latifoglie, specialmente su fogliame, diffusa su tutte il territorio nazionale. ///L.  amygdalosporum Kalaméés ( Urbonas & al., 1986) ha spore più nettamente amigdaliforrni e di taglia minore, lamelle tendenti al bluastro prima di annerire e habitat in boschi di conife re, nel muschio.
+10,11 $ spore di forma subtriangolare o con una grossa gobba laterale
+
+11,0 $ gambo cilindrico, spesso al più 10 mm; basidiocarpo grigio-bruno chiara ; specie di taglia media $ L. transforme
+11,0,N$///Anche questa specie è frequente nelle foreste di latifoglie di tutto il territorio nazionale. Diversi AA. la dcenominano " Lyophyllum trigonosporum (Bres.) Kühner" ma, ove si accetti la sinonimia fra l' epîteto di Bresadola "trigonosporum" e quello di Britzelmayr "transforme", quest'ultimo ha priorità nomenclaturale. Questa specie è molto simile alla precedente ma ha colorazioni più chiare, prive di toni grigi e spore con profilo più subtriangolare che romboidale.
+11,0 $ gambo clavato- bulboso, spesso 20-40 mm; basidiocarpo grigio cenere pallido; specie di taglia robusta $ L. rhopalopodium
+11,0,N$///Facilmente riconoscibile per le colorazioni grigie cinerognole, il gambo tozzo, con base bulbosa o comunque molto allargata e le spore subtriangolari. Dei due Lyophyllum a spore subromboidali è quello che tende ad assumere la consistenza più carnosa e massiccia. Misconosciuto a lungo e descritto da diversi AA. sotto la combinazione ambigua "Lyophyllum molybdinum", è stato ripreso da Clémençon (1982) per ridefinire in modo tassonomicamente corretto il "Tricholoma molybdinum (Bull.) Ricken" sensu Ricken (1915), palesemente diverso da Agaricus molybdocephalus di Bulliard (1791), illegittimamente ridenominato "Agaricus molybdinus" da Fries, 1821), descritto e illustrato come fungo con gambo non bulboso e carne non annerente. ///A giudicare dai dati in nostro possesso si tratta di specie presente su tutto il territorio nazionale sebbene forse più rara nelle regioni mediterranee.
+
+12,13 $ spore ellissoidali e lamelle gialle $ subsez. Buxeina $s "subsez. Buxeina"
+12,16 $ spore subfusiformi o ellissoidali e lamelle non gialle $ subsez. Semitalina $s "subsez. Semitalina"
+
+
+
+Subsez . Buxeina Singer 1973
+13,14 $ carne arrossante prima di annerire 
+13,15 $ carne non arrossante, più o meno annerente con l'età
+
+14,0 $ intero basidiocarpo da giallo-olivastro a giallo-ocra chiaro; specie di taglia media o piccola $ L. ochraceum
+14,0,N$///Le raccolte finora note provengono dalle regioni settentrionali. Originariamente considerata una varietà di L. favrei R. Haller AAr. & R. Haller Suhr, ne differisce assai bene al punto che, attualmente, viene considerata una specie autonoma. Le colorazioni ocracee, la carne arrossante prima di annerire e le piccole spore ellissoidali ne dovrebbero consentire un riconoscimento agevole
+anche perché, assieme a L. maleolens, è la sola specie di Lyophyllum a carne arrossante presente in Italia. Nell' Atlante Iconografico deI Bollettino deI G.M. Bresadola (1985, pag. 139) sono state pubblicate due iconografie che attestano la non trascurabile variabilità cromatica di questa specie.
+14,0 $ cappello e gambo da blu-viola a viola ametista carico; lamelle giallo limone vivo; specie di taglia robusta $ L. favrei
+14,0,N$///Questa specie ci è nota da raccolte di F. Padovan (Belluno), che è anche l'autore dell'illustrazione proposta. È uno dei più bei Lyophyllum che si possano trovare: il contrasta fra le colorazioni blu-viola di cappello e gambo e quella gialla delle lamelle, la carne spiccatamente arrossante prima di annerire e le piccole spore largamente ellissoidali ne consentono un'identificazione immediata.
+
+15,0 $ presso Accacia ed Eucalyptus; cappello bianco o con sfumature brunastre; carne notevolmente annerente $ L. buxeum
+15,0,N$///La taglia massiccia, la carne fortemente annerente, le lamelle giallo limone vivo e il resta deI basidiocarpo bianco ne consentono una comoda determinazione, agevolata anche dall'ecologia peculiare. Alcuni AA., come ad es. Moser (1986) e Brugaletta (1999), denominano questa specie "Lyophyllum eucalyptium (A. Pearson) M.M. Moser", combinazione fondata su Tricholoma eucalypticum A. Pearson (1951). Questa, tuttavia, è tutt'altra specie, realmente appartenente a Tricholoma (Fr.) Staude e molto simile alle specie europee della sezione Albobrunnea (cfr. Bougher & Syme, 1998). ///L. hypoxanthurn var. occidentale (Bon) Contu & La Rocca (cfr. BON, 1988) possiede pure lamelle gialle con taglio privo di cellule marginali ma le colorazioni pileiche sono più violette, la carne decisamente mena annerente e l'habitat esclusivamente cipressicolo. ///La collocazione di questo taxon fra L. buxeurn e L. hypoxanthurn attesterebbe un alto grado di parentela fra queste due specie.
+15,0 $ presso Cupressus; cappello bianco con evidenti toni lilla o malva; carne quasi immutabile o pochissimo annerente $ L. hypoxanthum
+15,0,N$///Molto simile a L. buxeurn del quale possiede la taglia robusta e carnosa, le lamelle gialle e le picco le spore largamente ellissoidali, ma diverso per la carne annerente in modo decisamente meno spiccato. il cappello con tonalità malva-lilla più o meno acce ntuate a seconda delle raccolte ma nondimeno sempre presenti e l'habitat esclusivo nell 'humus di formazioni a Cupressus sp. pl. oltre che per avere cellule marginali distinte nel taglio lamellare. Bon ( 1988) ha descritto dalla Francia una varietà occidentale differente dal tipo per il taglio lamellare prive di cellule marginali (vedi sopra).
+
+
+Subsez. Semitalina
+16,17 $ lamelle assumenti, al tocco, una tinta diversa da quella originaria, prima di annerire
+16,18 $ lamelle direttamente annerenti al tocco
+
+17,0 $ odore forte, sgradevole, farinoso-spermatico; spore 7,5-8,5 x 4,5-5 µm, ellissoidali; cappello beige-brunastro chiaro $ L. maleolens
+17,0,N$///È di agevole riconoscimento soprattutto per le colorazioni brunastre, le lamelle assumenti un viraggio al fulvo-ruggine prima di annerire, la carne con forte adore farinoso-spermatico e le spore ellissoidali-allungate, di taglia media. ///Le uniche raccolte finora note provengonc dalla Sardegna meridionale
+(prov. di Cagliari).
+17,0 $ odore leggero, gradevole, erbaceo; spore 8-10 x 4-5 µm, lungamente ellissoidali; cappello grigio-bruno cupo $ L. aemiliae
+17,0,N$///Le colorazioni scure, la fruttificazione cespitosa, l'ingiallimento delle lamelle e il profile allungato delle spore ne consentono un riconoseimento relativamente agevole. ///L. semitale, che ha aspctto e portamento similari, differisce per le lamelle non ingiallenti e le spore di profilo più nettamente fusiforme, notevolmente depresse in prossimità dell'apicolo. ///L.  maleollens (vedi sopra) differisce nettamentc per la carne arrossantc al tocco, l' odore forte, farinoso-spermatico e le spore più piccolo, non oltrepassanti 9 µm in lungbezza, sovente con depressione sopra-apicolare; questa specie, inoltre, è presente solo nella zona mediterranea mcntre L. aemiliae sembra tipico di regioni più settentrionali.
+
+18,19 $ spore piccole, non eccedenti i 7 µm in lunghezza
+18,20 $ spore più grandi e facilmente eccedenti i 7 µm in lunghezza
+
+19,0 $ spore 4-5,5 x 2,5-3,5 µm; specie robusta con cappello grigio-bruno piuttosto scuro, interamente coperto da una spessa pruina bianca $ L. tenebrosum
+19,0,N$///Personalmente non abbiamo mai rinvenuto questa rara specie, della quale Cetto (1980/1993) ha fornito una bellissima iconografia. Diversi AA., compreso Bresadola (1927/1933), denominano questa specie "Lyophyllum capniocephalum" (cfr. Kühner & Romagnesi, 1953; Moser, 1986, etc.) ma Clémençon (1982) ha dimostrato che questo è un nome ambiguo.
+19,0 $ spore 5-6 x 2-3 µm; specie di taglia media con cappello da biancastro a grigio-ocra pallido, pruina scarsa o assente $ L. konradianum
+19,0,N$///Specie rara ma nondimeno agevolmente riconoscibile per le colorazioni pallide e le piccole spore allungate. ///L. fragile J. Schäff (1947; v. anche Clémençon, 1986 e Bon, 1999) appartiene allo stesso gruppo ma ha colorazioni più bruno-olivastre, anche nelle lamelle, e odore più marcato. ///Non distante dal punto di vista sistematico è anche L. maas-geesterani Clémençon & Winther. (1992; per un'illustrazione a colori v. W?terhoff, 1993), che si riconosce per la superficie pileica liscia sotto la pruina, le colorazioni più beige-olivastre, le lamelle biancastre, I'odore leggero, le spore "4,7-5,7 (-7) x 2,6-3,3 (-3,8) µm", le cellule marginali cilindriche larghe 3-4 µm e l'habitat su fogliame di latifoglie.
+
+20,0 $ cappello conico, da biancastro a beige-ocra pallido; basidiocarpo con portamento da Collybia $ L. conocephalum
+20,0,N$///Personalmente non abbiamo mai rinvenuto questa rara specie, la cui presenza in Italia è stata recentemente segnalata da Rosssi (1999), che ne ha anche fornito una significativa iconografia colorata. Originariamente descritto da Karsten (1889) come "Collybia conocephala" e successivamente trasferito in Lyophyllum da Clémençon a seguito dello studio di materiale autentico (1981, 1984), L. conocephalum è un taxon dai caratteri intermedi fra quelli dei Lyophyllum della sezione Semitalina, dei quali possiede l'ingrigimento della carne e i basidi robusti e allungati e quelli della sezione Tephrocybe, dei quali possiede la taglia gracile e l'habitus da Collybia.
+20,21 $ cappello non conico, colori più scuri
+
+21,0 $ spore largamente ellissoidali, 6-7,5 x 4,5-5,5 µm; basidiocarpi brunastri, senza toni grigio-bistro $ L. bonii
+21,0,N$///Questa specie è nota, finora, dalle foreste a Quercus suber e Q. ilex della Sardegna meridionale. Ricorda L. transforme ma possiede spore regolarmente ellissoidali, non a forma di losanga. ///L. albidipes Contu, nom. prov. (Contu, 2001) possiede pure spore largamente ellissoidali ma è di taglia assai più gracile, ha carne molto fragile, lamelle non cosi decorrenti e cresce in terreni combusti.
+21,22 $ spore allungate; basidiocarpi con toni grigio-bistro carichi
+
+22,0 $ spore 7-9 x 4-4,5 µm, subfusiformi o fusiformi; basidiocarpi robusti e spesso cespitosi $ L. semitale
+22,0,N$///È una specie comune su tutto il territorio nazionale, seppure abbastanza variabile in taglia e modo di crescita. Fra le entità della sottosezione è quelia che possiede la carne annerente in modo più spiccato e gli exsiecata sono sempre neri come il carbone. Nonostante la grande variabilità macromorfologica si riconosce molto agevolmente, al microscopio, per le spore allungate e di profilo fusiforme. ///Romagnesi (1987) ha descritto di questa specie una var. intermedium, rinvenuta in Francia, presso Cedrus, che si distingue dal tipo per la taglia minore (capp. 20-40 mm di diam. e gambo 35-65 x 2-8 mm) e soprattutto per le spore più piccole, di "7-8 (8,5) x (3,5) 4-5 µm". ///Diversamente da quanta sostenuto da Bon (1999, nota in calce a L. semitale), L. aemiliae non ha nulla a che vedere con L. semitale var. intermedium, entità molto più piccola e gracile - a volte con aspetto da "Tephrocybe"- con lamelle direttamente annerenti, odore deI tutto nullo (non farinoso) e spore decisamente più piccole.
+22,0 $ spore 6-8 x 3,5-4 µm, lungamente ellissoidali; basidiocarpi più gracili e non cespitosi $ L. ignobile
+22,0,N$///Karsten, che lo descrisse per primo come "Agaricus ignobilis" (1876), lo attribui in seguito (1879, 1887) al genere Collybia ed è stato solo negli anni ottanta che Clémençon (1982), dopo aver studiato materiale autentico, ha potuto accertare che si trattava di una Lyophyliaceae. L'aspetto torvo degli esemplari e le spore allungate ne consentono un riconoscimento agevole anche se si tratta di specie tutt'altro che frequente, della quale noi conosciamo due sole raccolte italiane (leg. G. Consiglio).
+
+
+
+
+Cs3,0 $       Sezione DIFFORMIA (Fr.) Kühner 1938
+
+1,2 $ basidiocarpi crescenti in cespi, spesso di numerosi esemplari $ subsez. Difformia $s "subsez. Difformia"
+1,7 $ basidiocarpi gregari ma raramente cespitosi $ subsez. Lanzoniana $s "subsez. Lanzoniana"
+
+Subsez. Difformia
+2,0 $ spore subglobose 5-6 x 3,5-4,5 µm; basidiocarpi bistro-brunastri; soprartutto in luoghi erbosi ma anche nel bosco $ L. subglobisporum
+2,0,N$///Ha l'aspetto e spesso anche le colorazion i di L. decastes ma se ne separa per le spore subglobose a largamente ellissoidali. Il nome "Lyophyllum ovisporum (J.E. Lange) D.A. Reid", sotte il quale que sta specie è stata sovente descritta (cfr. Bon 1999 e bibliografia ivi citata) non puo essere utilizzato perché il taxon "ovisporum" corrisponde, in realtà, a un'entità dei genere Lepista (Fr.) W.G. Sm. (Gulden, 1983; Consiglio & Contu, 2001).
+2,3 $ spore sferiche
+
+3,0 $ basidiocarpi rosa-brunastri con colore molto simile a quello di Rhodocybe gemina $ L. calabrum
+3,0,N$///Caratterizzato dalle colorazioni rosa-brunastre pallide, originali nei Lyophyllum europei con fruttificazione cespitosa. Potrebbe essere confuso con L. carneum (Bull. : Fr.) Kühner & Romagn. (v. infra) che, tuttavia, ha spore allungate e rivestimento pileico con struttura più complessa. ///Secondo quanta comunicatoci da Lavorato, che ha rinvenuto questa specie in Calabria, si tratta di fungo ricercato a scopo alimentare e comunemente consumato nelle zone di crescita.
+3,4 $ basidiocarpi di colore differente
+
+4,0 $ basidiocarpi emergenti da una massa carnosa basale. sovente con gambi ramificati $ L. conglobatum
+4,0,N$///Fra le specie cespitose della sezione si riconosce per il particolare modo di crescita, con i basidiocarpi che fuoriescono da una massa carnosa basale spesso profondamente interrata. Si tratta di una specie piuttosto variabile nelle colorazioni, che possono anche manifestarsi molto cupe, a volte quasi nerastre. ln quest'ultimo casa si tratterebbe di L. fumosum (Pers. : Fr.) P.D. Orton, distinguibile solo per tale carattere.
+4,5 $ basidiocarpi non emergenti da una massa carnosa basale
+
+5,0 $ basidiocarpi di consistenza fragile; cappello grigio-brunastro. senza macule e priva di pruina; nei boschi, su suoli bruciati $  L. decastes
+5,0,N$///Molto diffuse e abbondante su tutte il territorio nazionale, dove puo frequentare gli habitat più vari (macchie e garighe, impiant i frangivento, boschi, etc.) ma sempre facilmente riconoscibilc per la consistenza fragile degli esemplari, che fruttificano cespitosi ma non emergono da una massa carnosa basale comune. ///L. effocatellum (Mauri) Pacioni, ritrovato in diverse regioni dcll'Italia centrale e anche in Sardegna, poco distinto sia macro- che micromorfologicamente, sembra esserne un fenotipo legato ai terreni bruciati. ///Nelle macchie a Cistus sp. pl. della Calabria (leg. C. Lavorato) e della Sardegna (leg. M. Contu) è stata osservata più volte un'entità simile ma di taglia assai minore, con cellule marginali più distinte e rivestimento pileico leggermente gelificato in superficie. Non è ancora chiaro se si tratti di un semplice fenotipo di L. decastes oppure di una specie distinta. Va comunque rilevato che da tempo il complesso di entità fulcranti attorno al binomio "Lyophyllum decastes" è oggetto di approfonditi studi da parte di Moncalvo & al.. (1990, 1992, 1994) e non è improbabile che, in futuro, si arrivi a separare più taxa anche in funzione dell'habitat di sviluppo.
+5,6 $ cappello di consistenza cartilaginosa
+
+6,0 $ cappello a lungo convesso-campanulato, rosso-bruno o castano-brunastro, non pruinoso e non guttulate $ L. loricatum
+6,0,N$///Si riconosce agevolmente per la carne tenace, di consistenza elastico-cartilaginosa, soprattutto nel cappello, le colorazioni castano-brune, le spore sferiche e l'habitat in boschi di latifoglie.///L. littorale, che possiede la stessa consistenza, differisce bene per le colorazioni grigiastre del cappello, che, inoltre, è ornato da numerose macule nerastre e da una copiosa pruina che spesso lo fa apparire zonato e per l'habitat nelle pinete costiere della zona mediterranea, in terreni sabbiosi. ///Fra le specie cespitose della sezione Difformia, L. loricatum è quella che raggiunge la taglia maggiore e la consistenza più carnosa.
+6,0 $ cappello presto appianato. grigio cenere chiara, con macule nerastre, ornato da una spessa pruina bianca; nelle dune sabbiose $ L. littorale
+6,0,N$///Prima facie questa specie puo risultare di difficile posizionamento sistematico anche perche l'habitus e le colorazioni dei basidiocarpi possono evocare una Lepista dei gruppo panaeo!a o addirittura una Melanoleuca. La consistenza cartilaginosa della carne, il modo di crescita cespitoso-connato, la copiosa pruina bianca che ricopre il basidiocarpo, le guttule nerastre presenti sulla superficie pileica. Ie spore subglobose e l' ecologia ne consento no una determinazione non eccessivamente difficoltosa, anche perché l'altra specie della sezione a carne di consistenza cartilaginosa.///L. loricatum ha colorazioni e habitat molt o diversi . Originariamente descritta dalle pinete costière dei dintorni di Cagliari ( Ballero & Contu, 1990), questa specie è sta rinvenuta successivamente in tutta la Sardegna e in diverse localité della Sicilia, sempre in terreni sabbiosi.
+
+Subsez. Lanzoniana Consiglio & Contu, subsect. nov.
+Species sectionis Difformia graciles, haud caespitosae. Typus: L. lanzonii Candusso.
+
+7,0 $ cappello convesso poi spianato, brunastro; lamelle spaziate, larghe e spesse; basidiocarpi con portamento da Dermoloma; in luoghi erbosi $ L. lanzonii
+7,0,N$///L'habitus e i colori di questa specie evocano quelli di qualche Dermoloma ma la micromorfologia è quella di una Lyophyllaceae. L. lanzonii è una specie abbastanza atipica fra quelle europee della sez. Difformia soprattutto per il modo di crescita non cespitoso e la consistenza fragile: per questi motivi abbiamo deciso di inserirlo in una sottosezione a parte, denominata Lanzoniani in onore del collega scomparso G. Lanzoni, cui lo stesso L. lanzonii è stato dedicato.
+7,0 $ cappello conico-campanulato, non divenente piano, castano-bruno poi grigio cenere; lamelle fitte, strette, sottili $ L. inocybeoides
+7,0,N$///Ha l'aspetto di un' Inocybe e, per la sfumatura rosa pallida che tendono ad assumere le lamell e negli escmplari adulti, anche una piccola Rhodocybe. La morfologia dei basidi , tozzi e slanciati, di lunghezza facilmente superante i 30 µm, esclude l'appartenenza alla sezione Tephrocybe e indica che si tratta di un taxon che appartienz alla sezionc Difformia, anche perché la carne non annerisce né al tocco né al taglio. ///L. conocephalum ( P. Karst. ) Clèmençon ha pure cappello con umbone molto appariscente e colorazioni tendenti al grigia stroma possiede spore allungate .
+
+
+
+
+Cs5,0 $    Sez. CALOCYBE (Kühner ex Donk ) Kühner 1980
+
+1,0 $ basidiocarpi fortemente cespitosi, bianchi; lamellc reagenti al viola cupo con FeSO4 $ L. connatum
+1,2 $ basidiocarpi gregari ma non cespitosi; lamelle non reagenti con FeSO4
+
+2,0 $ basidiocarpi interamente bianchi; odore nullo o gradevole, come di Polyporaceae o di Boletus edulis; normalmente non in primavera $ L. albellum
+2,3 $ basidiocarpi colorati; normalmente crescenti in primavera
+
+3,0 $ odore farinoso-aramatico; sapore gradevole; basidiocarpo brunastro o ocra molto pallido $ L. gambosum
+3,0 $ odore viraso, sgradevole; sapore amarognolo-astringente; basidiocarpo bruno-giallastro chiaro $ L. graveolens
+
+
+
+Cs6,0 $     Sez. CARNEOVIOLACEA (Singer ex Bon) Consiglio & Contu, stat. nov.
+= Rugosomyces sect. Carneoviolacei Singer ex Bon in Doc. Mycol. 82: 65, 1991 (basionimo ).
+
+1,2 $ spore allungate, fusiformi o subcilindriche
+1,3 $ spore ellissoidali
+
+2,0 $ spore 5-6 x 2,5-3 µm, ellissoidali-allungate o subfusiformi; cappello bruno cupo, gambo con colore o bruno-fulvo $ L. obscurissimum
+2,0 $ spore 4,5-5,5 x 2-2,5 µm, cappello ocraceo-brunastro chiaro, gambo più pallido $ L. hebelomoides
+
+3,0 $ cappello e gambo viola ametista o viola-bluastri; in boschi di latifoglie e di conifere $ L. ionides
+3,4 $ colori diversi; specie crescenti in luoghi erbosi aperti
+
+4,0 $ normalmente crescente gregario ma raramente anche cespitoso; basidiocarpi rosa carnicino pallido; gambo liscio $ L. carneum
+4,0 $ normalmente crescente cespitoso; cappello e gambo rosa fucsia o lilla-rosa; gambo fibrilloso-striolato $ L. persicolor
+
+
+Cs4,0 $      Sezione TEPHROPHANA (Fr.) Singer 1943
+= Genus Tephrocybe Donk in Nova Hedwigia 5: 284. 1962.
+
+1,2 $ spore ornamentate da verruche o da aculei $ subsez. Ornatisporina $s "subsez. Ornatisporina"
+1,4 $ spore lisce
+
+Subsez. Ornatisporina Singer 1943
+2,0 $ spore ellissoidali 7,0-8.0 x 5.0-6.0 µm: basidiocarpi brunastri poi bianchi; in località erbose, fuori dai boschi $ L. graminicola
+2,3 $ spore globose
+
+3,0 $ spore ornate da bozze simili a quelle di certe Inocybe $ L. gibberosum
+3,0 $ spore con parete leggermenre ondulata e asperulata ma senza bozze $ L. ambustum
+
+4,5 $ spore sferiche $ subsez. Orbisporina $s "subsez. Orbisporina"
+4,6 $ spore ellissoidali o subfusiformi $ subsez. Tephrophana $s "subsez. Tephrophana"
+
+
+Subsez. Orbisporina Singer 1943
+5,0 $ in terreni combusti; carne con odore sgradevole $ L. anthracophilum
+5,0 $ habitat diverso [non terreni combusti]; carne con odore non sgradevole $ L. inodorum
+
+Subsez. Tephrophana (= Ellipsoideosporina Singer 1943)
+6,0 $ basidi in gran maggioranza mono- o bisporici $ L. roberti-salvatoris
+6,7 $ basidi quasi tutti tetrasporici, rari i bisporici
+
+7,0 $ odore forte, gradevole, come di caramelle; basidiocarpo bruno-bistro; nei boschi di conifere $ L. osmophorum
+7,8 $ odore diverso, non come di caramelle; se gradevole, allora basidiocarpi non bruno-bistro
+
+8,0 $ spore ellissoidali-allungate o cilindro-fusiformi, 8-10 x 3,5-4,5 µm; gambo lungo in confronto al diametro pileico $ L. admissum
+8,9 $ spore più piccole e meno allungate
+
+9,10 $ spore solo largamente ellissoidali
+9,11 $ spore ellissoidali-allungate
+
+10,0 $ cappello interamente striato per trasparenza, grigio-brunastro; gambo più pallido; odore nullo o insignificante $ L. striaepileum
+10,0 $ cappello non striato per trasparenza, bruno-bistro; gambo di colore anche più scuro; odore come di farina $ L. fuscipes
+
+11,12 $ spore in gran maggioranza non superanti i 6 µm
+11,19 $ spore in gran maggioranza facilmente superanti i 6 µm
+
+12,13 $ spore 4-5 x 2-3 µm
+12,15 $ spore 5-6 x 3-3,5 µm
+
+13,0 $ odore nullo o insignificante; cappello striato fino al centro; specie di taglia assai gracile $ L. minimisporum
+13,14 $ odore farinoso o sgradevole
+
+14,0 $ cappello non umbonato, fortemente igrofano; specie di taglia da media a quasi robusta $ L. baeospermum
+14,0 $ cappello umbonato, non igrofano; specie di taglia gracile o molto gracile $ L. mephiticum
+
+15,16 $ odore forte, sgradevole
+15,17 $ odore non sgradevole
+
+16,0 $ basidiocarpo fulvo-brunastro; odore forte di farina rancida; specie gracile, con portamento da Collybia $ L. confusum
+16,0 $ basidiocarpo grigio-brunastro, odore forte, complesso, pungente; specie robusta, con portamento da Tricholoma $ L. putidum
+
+17,0 $ cappello di consistenza tipicamente cartilaginosa, non depresso al disco; odore dolciastro leggero, come di Iris $ L. mugonis
+17,18 $ cappello di consistenza normale; odore diverso
+
+18,0 $ odore debole o leggermente farinoso; lamelle decorrenti; superficie pileica pruinosa ma non velata $ L. scobis
+18,0 $ odore forte, dolciastro-nauseante; lamelle non decorrenti; cappello coperto da un tomento araneoso bianco $ L. platypum
+
+19,0 $ in luoghi da tempo bruciati; intero basidiocarpo bruno bistro o quasi nero; odore insignificante $ L. atratum
+19,20 $ altro habitat [non in luoghi da tempo bruciati]
+
+20,0 $ fra muschi e sfagni nelle torbiere di montagna; cappello brunastro, fortemente striato per trasparenza $ L. palustre
+20,21 $ in altro habitat [non fra muschi e sfagni nelle torbiere di montagna]; cappello mai cosi striato
+
+21,22 $ odore farinoso o leggero, gradevole
+21,23 $ odore sgradevole, sovente di farina rancida
+
+22,0 $ gambo notevolmente fibrilloso-striolato; cappello convesso, brunastro; odore farinoso-aromatico $ L. fibrosipes
+22,0 $ gambo non notevolmente fibrilloso-striolato, cappello conico-convesso, grigio-bruno o grigio cenere, odore leggero $ L. miserum
+
+23,24 $ gambo ornato da una abbondante pruina bianca
+23,25 $ gambo senza pruina bianca o cosi solo all'apice
+
+24,0 $ cappello conico-convesso, bruno nocciola con toni olivastri verso il margine; odore farinoso o farinoso-rancido $ L. albofloccosum
+24,0 $ cappello convesso poi espanso, bruno-grigio fuligginoso, senza toni olivastri; odore forte, evocante quello di Macrocystidia cucumis $ L. boudieri
+
+25,0 $ su coni di Pinus, portamento che evoca una piccola Mycena, spore 6-7,5 x 3,5-4 µm, ellissoidali-subfusiformi $ L. mycenoides
+25,26 $ portamento che non evoca una piccola Mycena; spore più grandi
+
+26,0 $ cappello igrofano, grigio-bistro poi cinerognolo, non o poco pruinoso; lamelle fitte, preferenzialmente sotto conifere $ L. coracinum
+26,0 $ cappello non igrofano, grigio-brunastro o grigio cenere, notevolmente pruinoso-glassato; lamelle larghe, preferenzialmente sotto conifere $ L. rancidum

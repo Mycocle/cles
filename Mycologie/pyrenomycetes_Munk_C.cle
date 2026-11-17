@@ -1,0 +1,509 @@
+MYCOCLE 00210760719050612C5D12
+ clé exploitable par Mycoclé 2.04
+Mycoclé 2.05 ANDERS MUNK DANISH PYRENOMYCETES clé générale
+ANDERS MUNK DANSK BOTANISK ARKIV, UDGIVET AF DANSK BOTANISK FORENING Bind 17 N°1/ adapt GF 07/2013
+REM$LANGUE$Anglais
+18622911114161820222426293133353739414345474951535659616365676971737577798183858789919396100102104106108110113116118120122124126128130132134136138141143145148150152154156158160162164166168170172174177180182184186188190192194196198200202204206208210212215217219221223225227230232234236238240242244246248251253255257260262264267270273274276278280282284287289291293295298300303305307309311313315318321323325327329331333335337339342344346348350352354356358361363365367369371373376379381383386388390392394396398401403405407409411413416419420422424426428430433436438440442444446448450452454456458460462464466468471473475477479482485487489491494496498500502
+0s"Allantosporae" Spores ± sausage-shaped, hyaline or slightly coloured, not septate (or with an indistinct median plasmatic separation of the contents).The coloured allantoid spores are often ± flattened. 011113110 Allantosporae2
+0s"Hyalosporae" Spores ellipsoid or fusiform, hyaline, not septate. 011213120 Hyalosporae 23
+0s"" Spores ellipsoid or fusiform, coloured, not septate. - Several Phaeosporae have hyaline appendages (of various morphological value) on the spores. 011313130 Phaeosporae 49
+0s"Hyalodidymae" Spores hyaline, composed of two cells when mature. 011413140 Hyalodidymae 79
+0s"Phaeodidymae" Spores coloured, composed of two cells when mature. 011513150 Phaeodidymae 121
+0s"Hyalophragmae" Spores hyalines, transversally septate, composed of more than two cells. 011613160 Hyalophragmae 144
+0s"Phaeophragmae" Spores coloured, transversally septate, composed of more than two cells. 011713170 Phaeophragmae 171
+0s"Dictyosporae " Spores both transversally and longitudinally septate. 011813180 Dictyosporae 197
+0s"Scolecosporae" Spores very long and thin, often perfectly filiform, hyaline or slightly coloured, generally ± indistinctly transversally septate. Swollen cells may occur 011913190 Scolecosporae 220
+0Allantosporae0-1010112200
+0A. Non-stromatic; ostioles not collectively erumpent02111142303
+0B. Stromatic, or with collectively erumpent ostioles021121424010
+0 Non-stromatic ; ostioles not collectively erumpent0-2013102600
+0 Asci small to very small, springing from bundles of paraphysis-like hyphae03111415270 Calosphaeria p. 2780
+0 Asci not springing from such bundles of hyphae031115152804
+0 Fruit-bodies free, superficial.041516162905
+0 Fruit-bodies ± immersed041517163008
+0 Surface of fruit-bodies coarsely gibbous-rough.051618173106
+0 Surface of fruit-body smooth or hairy 05161917320 Lasiosphaeria p. 1080
+0 Fruit-bodies subcylindric 06182018330 Bertia p. 2930
+0 Fruit-bodies collapsing to cup-shape061821183407
+0 Fruit-bodies densely crowded; no conspicuous hyphae. 07212219350 (Nitschkia)0
+0 Fruit-bodies somewhat gregarious, accompanied by a loose tomentum of black, shining hyphae 07212319360 Calyculosphaeria p. 2940
+0 Asci long-stipitate. 08172420370 Coronophora p. 2890
+0 Asci not stipitate, loosening, rounded below.081725203809
+0 Asci polysporous; on Alnus 09252621390 Ditopella p. 2190
+0 Asci 8-spored; on Quercus 09252721400 Enchnoa p. 2210
+0Stromatic, or with collectively erumpent ostioles0-302894200
+0 Spores ± brownish at maturity01012292243011
+0 Spores perfectly hyaline01012302244018
+0 Spores large, banana-shaped, flattened at the middle, with a group of small oil-drops at each end 011293123450 Leptomassaria p. 1460
+0 Spores not so (not : Spores large, banana-shaped, flattened at the middle, with a group of small oil-drops at each end)01129322346012
+0 Asci polysporous 012323324470 Diatrypella p. 1600
+0 Asci 8-spored01232342448013
+0 Ostioles ± collectively erumpent01334352549014
+0 Ostioles distinctly separately erumpent01334362550015
+0 Stroma small, inconspicuous, with 2-6 fruit-bodies; ostioles inconspicuous 014353726510 Quaternaria p. 1470
+0 Stroma with numerous fruit-bodies; ostioles projecting, often sulcate 014353826520 Eutypella p. 1570
+0 Stroma sharply delimited, disciform or pulvinate 015363927530 Diatrype p. 1650
+0 Stroma widely effuse01536402754016
+0 Stroma permanently covered by the peridermis of the host; ostioles erumpent through the peridermis 016404128550 Cryptosphaeria p. 1520
+0 Stroma widely erumpent, at least at maturity01640422856017
+0 Ostioles flat-pulvinate, circular, sharply separated from the surface of the stroma 017424329570 Diatrype p. 1650
+0 Ostioles projecting or diffusely confluent with the stroma-surface 017424429580 Eutypa p. 1530
+0 Stroma basal with free fruit-bodies01830453059019
+0 Fruit-bodies immersed 01830463060020
+0 No conspicuous hyphae 019454731610 (Nitschkia)0
+0 Fruit-bodies accompanied by a loose, black, shining tomentum 019454831620 Calyculosphaeria p. 2940
+0 Spores more than 35-40 µm long 020464932630 Cryptospora p. 2410
+0 Spores less than 35-40 µm long02046503264021
+0 Asci springing from bundies of paraphysis-like hyphae. 021505133650 Calosphaeria p. 2780
+0 Not so (not : Asci springing from bundies of paraphysis-like hyphae) 1302150523366022
+0 Asci long-stipitate 022525334670 Coronophora p. 2890
+0 Asci not stipitate, loosening, rounded below 022525434680 Valsa p. 2220
+0 Hyalospora0-505577000
+0A. Non-stromatic; ostioles not collectively erumpent0232563571024
+0B. Stromatic, or ostioles collectively erumpent0232573572042
+0 Non-stromatic; ostioles not collectively erumpent0-605867400
+0 Asci 8-spored02456593675025
+0 Asci with more than 8 spores02456603676039
+0 Fruit-bodies with a prominent, conspicuous beak02559613777038
+0 Not so (not : Fruit-bodies with a prominent, conspicuous beak)02559623778026
+0 Fruit-bodies light-coloured02662633879027
+0 Fruit-bodies dark-coloured02662643880028
+0 On dung; spores very large 027636539810 Seliniella p. 2840
+0 Not so (Not : On dung; spores very large)027636639820 Pseudonectria p. 600
+0 Fruit-bodies free or almost so02864674083029
+0 Fruit-bodies immersed02864684084031
+0 On dead leaves or dung; spores subspheric 029676941850 Anixia p. 2820
+0 On rotten wood or on bark02967704186030
+0 Spores ± ellipsoid 030707142870 Trichosphaeria p. 1820
+0 Spores ± cylindric 030707242880 Lasiosphaeria p. 1080
+0 On leaves of Buxus 031687343890 Hyponectria p. 1720
+0 Elsewhere (not On leaves of Buxus)03168744390032
+0 Spores (when mature) with a septum near the proximal end 032747544910 Pseudomassaria p. 1740
+0 Spores permanently 1-celled03274764492033
+0 Fruit-bodies scutate, small 033767745930 (Phacidina, a Discomycete)0
+0 Fruit-bodies rounded03376784594034
+0 Asci bitunicate (thick-walled)03478794695035
+0 Asci unitunicate (thin-walled)03478804696036
+0 Asci basal, parallel 035798147970 Botryosphaeria p. 4680
+0 Asci springing from a parenchymatic column, strongly diverging 035798247980 Columnosphaeria p. 4720
+0 Spores rather large, multiguttulate03680834899037
+0 Spores small, eguttulate or with two terminal oil-drops. 0368084481000Phomatospora p. 1760
+0 Fruit-bodies cylindric; on living leaves o( Astragalus .... 0378385491010 Polystigma p. 1710
+0 Fruit-bodies spheric-papillate, see key to 0378386491020 Physalospora p. 1680
+0 On rotten wood 0386187501030 Endoxyla p. 1950
+0 On leaves 0386188501040 Gnomoniella p. 2130
+0 Fruit-bodies red or yellowish 0396089511050 Nectria p. 400
+0 Fruit-bodies dark-coloured039609051106040
+0 On twigs of Alnus, beneath the peridermis ' 0409091521070 Ditopella p. 2190
+0 On rotten wood040909252108041
+0 Asci apparently 16-spored; fruit-bodies setose 0419293531090 Neorehmia p. 670
+0 Asci  apparently polysporous; fruit-bodies glabrous 0419294531100 Rhamphoria p. 1920
+0Stromatic, or with collectively erumpent ostioles0-7095511200
+0 Fruit-bodies light-coloured; on Hymenomycetes 0425796541130 Hypomyces p. 690
+0 Fruit-bodies light-coloured; on leaves 0425797541140 Polystigma p. 1710
+0 Fruit-bodies light-coloured; on dung 0425798541150 Selinia p. 620
+0 Fruit-bodies dark-coloured042579954116043
+0 On wood or bark0439910055117044
+0 On leaves or herbaceous stems0439910155118046
+0 Stroma large, prominent; asci bitunicate 044100102561190 Botryosphaeria p. 4680
+0 Stroma inconspicuous; asci unitunicate04410010356120045
+0 On bark beneath the peridermis 045103104571210 Cryptosporella p. 2440
+0 On rotten wood; asci apparently 16-spored 045103105571220 Neorehmia p. 670
+0 Asci unitunicate (thin-walled)04610110658123047
+0 Asci bitunicate (thick-walled) 046101107581240 Ascospora p. 3330
+0 Ostioles inconspicuous; on monocotyledonous plants .. 047106108591250 Phyllachora p. 1730
+0 Ostioles long and slender; on dicotyledonous plants ...04710610959126048
+0 On leaves of Corylaceae 048109110601270 Mamiania p. 2180
+0 On herbaceous stems 048109111601280 Diaporthe p. 2520
+0 Phaeosporae0-80112413000
+0A. Non-stromatic; ostioles not collectively erumpent049311361131050
+0B. Stromatic, or ostioles collectively erumpent 049311461132065
+0 A. Non-stromatic; ostioles not collectively erumpent0-90115313400
+0 Asci oval-elliptic; spores in a cluster05011311662135051
+0 Asci subcylindric; spores 1 (-2)-seriate05011311762136052
+0 Fruit-bodies covered with dark-coloured hairs 051116118631370 Chaetomium p. 830
+0 Not so (not Fruit-bodies covered with dark-coloured hairs) 051116119631380 Melanospora p. 790
+0 Fruit-bodies conspicuously hairy05211712064139053
+0 Not so (not Fruit-bodies conspicuously hairy )05211712164140056
+0 Hairs branched ; on paper 053120122651410 Ascotricha p. 860
+0 Not so (not Hairs branched ; on paper)05312012365142054
+0 On Hymenomycetes 054123124661430 Helminthosphaeria p. 890
+0 On wood or dung05412312566144055
+0 Spores appendiculate 055125126671450 Pleurage p. 980
+0 Not so (not Spores appendiculate ) 055125127671460 Coniochaeta p. 890
+0 Spores appendiculate05612112868147057
+0 Not so (not Spores appendiculate )05612112968148060
+0 On leaves or herbaceous stems 057128130691490 Anthostomella p. 1190
+0 On wood or dung05712813169150058
+0 Spores with a germ slit 058131132701510 Rosellinia p. 1260
+0 No germ slit (a germ pore is often present)05813113370152059
+0 Spores originally cylindric, with small, pointed appendages 059133134711530 Bombardia p. 1050
+0 Spores originally ellipsoid-clavate, often with long secondary appendages when mature 059133135711540 Pleurage p. 980
+0 Spores without germ openings, or with a germ slit06012913672155061
+0 Spores with 1 or 3-4 distinct germ pores06012913772156064
+0 On leaves or herbaceous stems 061136138731570 Anthostomella p. 1190
+0 On dung; fruit-bodies small, very light brown 061136139731580 Melanospora p. 790
+0 On wood06113614073159062
+0 Spores light brown, rather large, without a germ slit. . . 062140141741600 Lasiosphaeria p. 1080
+0 Spores with a germ slit, or very small06214014274161063
+0 Fruit-bodies more than 500 µm diam 063142143751620 Rosellinia p. 1260
+0 Fruit-bodies less than 500 µm. diam 063142144751630 Coniochaeta p. 890
+0 Spores with one proximal germ pore 064137145761640 Sordaria p. 950
+0 Spores with 3-4 equatorial, equidistant germ pores . 064137146761650 Amphisphaerella p. 1370
+0 0-10014721670 B. Stromatic, or ostioles collectively erumpent0
+0 fruit-bodies circinate, ostioles collectively erumpent06511414877168066
+0 Ostioles separately erumpent06511414977169067
+0 Spores ellipsoid, dark brown 066148150781700 Lopadostoma p. 1440
+0 Spores slender, oblong-fusiform, flattened, light brown. 066148151781710Leptomassaria p. 1460
+0 Stroma developed as a blackish clypeus06714915279172068
+0 Stroma thicker, prominent above the substratum06714915379173071
+0 On dung 068152154801740 Hypocopra p. 1230
+0 Elsewhere (not On dung )06815215580175069
+0 spores with 3-4 equatorial, equidistant germ pores . 069155156811760 Amphisphaerella p. 1370
+0 Spores with a lateral germ slit, or without distinct germ openings06915515781177070
+0 Ostiole acutely papillate; spores with 3 pseudosepta 070157158821780 Clypeosphaeria p. 1220
+0 Spores not septate 070157159821790 Anthostomella p. 1190
+0 Spores minute, smoky grey 071153160831800 Camarops p. 1490
+0 Spores brown07115316183181072
+0 ores ± allantoid, light brown, without a germ slit 072161162841820 Eutypa p. 1530
+0 Spores ellipsoid07216116384183073
+0 Stroma not stipitate07316316485184074
+0 Stroma stipitate07316316585185078
+0 Stroma generally including one fruit-body 074164166861860 Rosellinia p. 1260
+0 Stroma with several fruit-bodies07416416786187075
+0 Stroma tuberose, concentrically zonate inside 075167168871880 Daldinia p. 1280
+0 Not so (not: Stroma tuberose, concentrically zonate inside)07516716987189076
+0 Conidial layer covered by a fleshy, sterile layer 076169170881900 Nummularia p. 1280
+0 Conidial layer superficial07616917188191077
+0 Stroma large, coaly brittle; fruit-bodies not prominent. 077171172891920 Ustulina p. 1290
+0 Stroma ± tough, or fruit-bodies prominent 077171173891930 Hypoxylon p. 1300
+0 Stroma cup-shaped, stipitate 078165174901940 Poronia p. 1250
+0 Stroma upright, clavate or branched 078165175901950 Xylaria p. 1380
+0 Hyalodidymae0-150176-319800
+0A. Non-stromatic; ostioles not collectively erumpent079417791199080
+0B. Stromatic, or ostioles collectively erumpent0794178912000104
+0Non-stromatic; ostioles not collectively erumpent0-160179-420200
+0 Asci unitunicate (thin-walled)08017718092203081
+0 Asci bitunicate (thick-walled)08017718192204097
+0 Fruit-bodies coloured 08118018293205082
+0 Fruit-bodies black or almost so08118018393206084
+0 Fruit-bodies violaceous; on Myxomycetes 082182184942070 Nectriopsis p. 590
+0 Fruit-bodies reddish or yellowish08218218594208083
+0 Fruit-bodies reddish (in N. ochroleuca ochraceous); paraphyses present 083185186952090 Nectria p. 400
+0 Fruit-bodies brownish or ochraceous; no paraphyses; spores sculptate by longitudinal ridges 083185187952100 Neuronectria p. 560
+0 Fruit-bodies free or almost so; ostiole small08418318896211085
+0 Fruit-bodies immersed, or ostiole long08418318996212091
+0 Fruit-bodies gibbous-rugose, naked08518819097213086
+0 Fruit-bodies smooth or hairy08518819197214087
+0 fruit-bodies subcylindric; no conspicuous mycelium 086190192982150 Bertia p. 2930
+0 Fruit-bodies collapsing to cup-shape, surrounded by black, shining hyphae 086190193982160 Calyculosphaeria p. 2940
+0 Fruit-bodies smooth and glabrous, or with obtuse hairs08719119499217088
+0 Fruit-bodies covered with acute hairs08719119599218089
+0 Fruit-bodies collapsing to cup-shape 0881941961002190 Melanopsamma p. 540
+0 Fruit-bodies pulvinate; spores with a long, proximal appendage 0881941971002200 Loramyces p. 2870
+0 On rotten wood 089195198101221090
+0 On leaves or herbaceous stems 0891951991012220 Niesslia p. 1860
+0 Spores hardly constricted 0901982001022230 Eriosphaeria p. 1850
+0 Spores strongly constricted, disrupting 0901982011022240 Neorchmia p. 670
+0 Ostiole distinctly elongated091189202103225092
+0 Ostiole short, often inconspicuous091189203103226096
+0 On rotten wood 0922022041042270 Lentomita p. 1910
+0 Elsewhere (not On rotten wood )092202205104228093
+0 Spores uniseriate in the ascus 0932052061052290 Sydowiella p. 2040
+0 Spores in a cluster or 2-3-seriate093205207105230094
+0 Ostiole latéral 0942072081062310 Plagiostoma p. 2140
+0 Ostiole central094207209106232095
+0 Ascus with a refractive apical apparatus; porus periphysate 0952092101072330 Gnomonia p. 2090
+0 Ascus without an apical apparatus; porus not periphysate 0952092111072340 Rostrocoronophora p. 2920
+0 Spores equally 2-celled, rounded at the ends 0962032121082350 Paradidymella p. 1780
+0 Spores equally 2-celled, tapering into filiform appendages 0962032131082360 Ceriospora p. 1760
+0 Spores unequally septate, proximal cell small 0962032141082370 Pseudomassaria p. 1740
+0 Fruit-bodies scutate 0971812151092380 (Microthyrium)0
+0 Fruit-bodies rounded097181216109239098
+0 Asci 16-spored; on leaves of Abies 0982162171102400 Sydowia p. 4700
+0 Not so (not : Asci 16-spored; on leaves of Abies )098216218110241099
+0 Papilla laterally flattened 0992182191112420 Lophiosphaera p. 4300
+0 Not so (not : Papilla laterally flattened )0992182201112430100
+0 Fruit-bodies free 01002202211122440 Herpotrichia p. 4060
+0 Fruit-bodies ± immersed01002202221122450101
+0 On wood or in stromata of Pyrenomycetes01012222231132460102
+0 On leaves or herbaceous stems01012222241132470103
+0 Papilla with pointed bristles 01022232251142480 Keissleriella p. 4490
+0 Not so; in stromata of Diaporthe spp 01022232261142490 Pseudotrichia p. 4470
+0 Interascicular tissue distinct 01032242271152500 Didymella p. 3340
+0 Interascicular tissue obsolète 01032242281152510 Mycosphaerella p. 3070
+0B. Stromatic, or ostioles collectively erumpent0-170229-525300
+0 fruit-bodies and stroma coloured; asci unitunicate01041782301162540105
+0 Fruit-bodies and stroma black or almost so01041782311162550110
+0 Stroma basal01052302321172580106
+0 Stroma with ± immersed fruit-bodies01052302331172590108
+0 Fruit-bodies dark violaceous; on Myxomycetes 01062322341182600 Nectriopsis p. 590
+0 Not so (not : Fruit-bodies dark violaceous; on Myxomycetes)01062322351182610107
+0 Spores fusiform; on Hymenomycetes 01072352361192620 Hypomyces p. 690
+0 Spores rounded al the ends 01072352371192630 Nectria p. 400
+0 Spores fusiform; on Hymenomycetes 01082332381202640 Hypomyces p. 690
+0 Not so (not : Spores fusiform; on Hymenomycetes)01082332391202650109
+0 Spores rather large, slightly constricted 01092392401212660 Hypocreopsis p. 610
+0 Spores small, strongly constricted, disrupting 01092392411212670 Hypocrea p. 630
+0 Spores small, strongly constricted, disrupting; on wood. 01102312421222680 Neorehmia p. 670
+0 Not so (not : Spores small, strongly constricted, disrupting; on wood)01102312431222690111
+0 Asci bitunicate (thick-walled)01112432441232700112
+0 Asci unitunicate (thin-walled) 01112432451232710114
+0 Stroma widely erumpent01122442461242720113
+0 Stroma otherwise (Diaporthe-stromata in which the fungus lives) 01122442471242730 Pseudotrichia p. 4470
+0 On twigs of shrubs 01132462481252740 Dothidella p. 4630
+0 On sheaths of Gramineae; stroma linear 01132462491252750 Scirrhia p. 4630
+0 On herbaceous dicotyledons or leaves; stroma isodiametric 01132462501252760 Euryachora p. 4640
+0 Spores l-seriate in the ascus01142452511262770115
+0 Spores 2-seriate or in a cluster01142452521262780116
+0 Spores without appendages 01152512531272790 Sydowiella p. 2040
+0 Spores with filiform appendages, 3 at the middle septum and One at each end 01152512541272800 Caudospora p. 2460
+0 Stroma limited by black zones in the substratum01162522551282810117
+0 Not so (not : Stroma limited by black zones in the substratum)01162522561282820119
+0 On leaves of Fagales01172552571292830118
+0 On branches, twigs, or herbaceous stems; spores equally 2-celled or almost so 01172552581292840 Diaporthe p. 2520
+0 On twigs of Betulus spores unequally 2-celled 01172552591292850 Anisogramma p. 2400
+0 1-3 fruit-bodies in a stroma; on Quercus 01182572601302860 Hypospila p. 2170
+0 Many fruit-bodies in a stroma; on Corylaceae 01182572611302870 Mamiana p. 2180
+0 Asci mainly basal; paraphyses generally observed 01192562621312880 Melanconis p. 235 (cp. also Prothecium)0
+0 Asci loosening, filling the fruit-body in spite of their small size; paraphyses rarely observed01192562631312890120
+0 Disc very strongly developed; perithecia deeply immersed 01202632641322900 Melanconis p. 2350
+0 Disc ± developed; perithecia not so deeply immersed . 01202632651322910 Cryptodiaporthe p. 2480
+0Phaeodidymae0-180266-629500
+0A. Non-stromatic; ostioles not collectively erumpent012152671332960122
+0B. Stromatic, or ostioles collectively erumpent012152681332970135
+0A. Non-stromatic; ostioles not collectively erumpent0-200269-830000
+0 Fruit-bodies red; ascus unitunicate 01222672701343020 Nectria p. 400
+0 Fruit-bodies black or almost so01222672711343030123
+0 On dung01222672721343040124
+0 Elsewhere (not On dung)01232712731353050125
+0 Spores with a lateral germ slit; papilla glabrous 01242722741363060 Delitschia p. 4580
+0 Spores with two terminal, complicated germ pores; papilla setose 01242722751363070 Trichodelitschia p. 4610
+0 Fruit-bodies free or almost so01252732761373080126
+0 Fruit-bodies immersed01252732771373090130
+0 On wood01262762781383100127
+0 On leaves01262762791383110129
+0 Fruit-bodies very small, somewhat setose 01272782801393120 Didymotrichiella p. 4390
+0 Fruit-bodies rather large, glabrous01272782811393130128
+0 Peridium soft 01282812821403140 Amphisphaeria p. 2860
+0 Peridium brittle, carbonaceous 01282812831403150 Kirschsteiniella p. 4100
+0 Fruit-body hemispheric, glabrous 01292792841413160 Stigmatea p. 3020
+0 Fruit-body subspheric, setose 01292792851413170 Coleroa p. 3000
+0 Fruit-body obpyriform ; on Polytrichum 01292792861413180 Lizonia p. 4120
+0 Papilla setose; spores pallid olivaceous; on leaves 01302772871423190 Venturia p. 2960
+0 Papilla glabrous 01302772881423200131
+0 Fruit-bodies more than 500 µm diam., subperidermal on bark 01312882891433210 Massariella p. 4230
+0 Fruit-bodies less than 500  µm  diam01312882901433220132
+0 Spores unequally 2-celled; on Cladium 01322902911443230 Didymopleella p. 3830
+0 Spores approximately equally 2-celled01322902921443240133
+0 Mycelium radiating; on Triglochin 01332922931453250 Leptosphaeria juncaginearum p. 3770
+0 Not so (not : Mycelium radiating; on Triglochin)01332922941453260134
+0 Fruit-bodies very small ; asci saccate 01342942951463270 Monascostroma p. 3820
+0 Fruit-bodies medium-sized; asci ± cylindric 01342942961463280 Didymosphaeria p. 4310
+0 B. Stromatic, or ostioles collectively erumpent0-210297-933100
+0 Stroma fleshy, coloured 01352682981473320 Hypocrea p. 630
+0 Stroma black or almost so01352682991473330136
+0 Stroma superficial, clypeiform01362993001483340137
+0 Stroma basal, with free fruit-bodies01362993011483350139
+0 Stroma 3-dimensional, with immersed fruit-bodies01362993021483360142
+0 Asci cylindric 01373003031493370 Didymosphaeria p. 4310
+0 Asci ± saccate01373003041493380138
+0 Stroma composed of radiating bundles of hyphae; on Triglochin 01383043051503390 Leptosphaeria juncaginearum p. 3770
+0 Stroma otherwise; on living leaves of Geranium 01383043061503400 Stigmatea p. 3020
+0 Fruit-bodies or stroma ± hairy; on leaves01393013071513410140
+0 Fruit-bodies and stroma glabrous; on branches and twigs 01393013081513420 Otthia P 4020
+0 Fruit-bodies medium-sized, hairy01403073091523430141
+0 Fruit-bodies very small; stroma tuberose, hairy; on leaves of Lonicera 01403073101523440 Lasiobotrys p. 3040
+0 Fruit-bodies sparsely gregarious 01413093111533450 Coleroa p. 3000
+0 Fruit-bodies densely gregarious 01413093121533460 Gibbera p. 3030
+0 Stroma pulvinate, widely erumpent; fruit-bodies reduced to loculi in the stroma 01423023131543470 Systremma p. 4650
+0 Stroma immersed01423023141543480143
+0 Asci unitunicate, with a refractive apical apparatus; paraphyses dissolving 01433143151553490 Melanconiella p. 2390
+0 Asci bitunicate; paraphysoid tissue persistent, filaments very thin, branched and anastomosing 01433143161553500 Valsaria p. 4360
+0 Hyalophragmiae0-230317-1135400
+0A. Non-stromatic; ostioles not collectively erumpent014463181563560145
+0B. Stromatic, or ostioles collectively erumpent014463191563570164
+0 A. Non-stromatic; ostioles not collectively erumpent0-240320-1236000
+0 On rotten wood (or on old fungi)01453183211573610146
+0 On (or in) bark of branches and twigs, or on leaves or herbaceous stems01453183221573620153
+0 Fruit-bodies ochraceous or hyaline01463213231583630147
+0 Fruit-bodies black or almost so01463213241583640148
+0 Fruit-bodies ochraceous; asci bitunicate 01473233251593650 Ophionectria p. 4730
+0 fruit-bodies hyaline; asci unitunicate 01473233261593660 Debaryella p. 194 (cp. also Calonectria)0
+0 Spores cylindric (or tapering below) 01483243271603670 Lasiosphaeria p. 1080
+0 Not so (not : Spores cylindric (or tapering below) )01483243281603680149
+0 Fruit-bodies hemispheric, pulvinate; peridium greenish. 01493283291613690 Winterina p. 2840
+0 Fruit-bodies subspheric, ± ostiolate01493283301613700150
+0 Asci unitunicate, truncate above, with a refractive apical apparatus01503303311623710151
+0 Asci bitunicate01503303321623720152
+0 Ostiole papillate 01513313331633730 Zignoëlla p. 1890
+0 Ostiole elongated 01513313341633740 Ceratosphaeria p. 1900
+0 Fruit-bodies almost free; on wood; spores 3-celled 01523323351643750 Melomastia p. 4090
+0 Fruit-bodies ± immersed in stromata of Diaporthe spp.; spores 4-celled 01523323361643760 Pseudotrichia p. 4470
+0 Asci unitunicate01533223371653770154
+0 Asci bitunicate01533223381653780155
+0 Peridium pale; fruit-bodies free 01543373391663790 Calonectria p. 550
+0 Peridium bluish; fruit-bodies free 01543373401663800 Gibberella p. 560
+0 Peridium brownish; fruit-bodies immersed 01543373411663810 Griphosphaeria p. 1800
+0 Fruit-bodies free or almost so01553383421673820156
+0 Fruit-bodies immersed01553383431673830158
+0 Ostiole laterally flattened 01563423441683840 Lophiotrema p. 4290
+0 Not so (not : Ostiole laterally flattened )01563423451683850157
+0 Fruit-bodies middle-sized; mycelium black 01573453461693860 Herpotrichia p. 4060
+0 Fruit-bodies small; mycelium whitish 01573453471693870 Acanthostigma p. 4070
+0 Interascicular tissue distinctly paraphysoid01583433481703880159
+0 Not so (not : Interascicular tissue distinctly paraphysoid)01583433491703890163
+0 fruit-hody simple, papilla neither setose nor reinforced by a conspicuous black tissue 01593483501713900 Leplosphaeria p. 3460
+0 Papilla setose or reinforced by a conspicuous black tissue inside01593483511713910160
+0 On herbaceous stems01603513521723920161
+0 On branches or twigs of trees or shrubs01603513531723930162
+0 Papilla setose 01613523541733940 trichometasphaeria  p. 4430
+0 Not so (not Papilla setose) ; on culms of grasses 01613523551733950 Metasphaeria coccodes p. 4420
+0 Hyper saprophytic in old stromata of Diaporthe spp. 01623533561743960 Pseudotrichia p. 4470
+0 Not so (not : Hyper saprophytic in old stromata of Diaporthe spp.)01623533571743970 Massarina p. 4460
+0 Asci 16-spored; on leaves of Abies 01633493581753980 Sydowia p. 4700
+0 Not so (not: Asci 16-spored; on leaves of Abies)01633493591753990 Sphaerulina p. 3320
+0 B. Stromatic, or ostioles collectively erumpent0-250360-1340300
+0 Stroma basal; peridium bluish 01643193611764050 Gibberella p. 560
+0 Not so (Not : Stroma basal; peridium bluish)01643193621764060165
+0 The stroma appears to belong to a Diaporthe at a closer examination 01653623631774070 Pseudotrichia p. 4470
+0 The stroma belongs to the fungus itself01653623641774080166
+0 Stroma slightly developed, clypeiform 01663643651784090 cp.  Trichometasphaeria and Massarina p. 443-4460
+0 Stroma well developed01663643661784100167
+0 Stroma effuse, limited by a black zone; on herbaceous stems 01673663671794110 Diaporthe p. 2520
+0 Stroma isolate01673663681794120168
+0 On leaves of Quercus 01683683691804130 Hypospila p. 2170
+0 On branches or twigs01683683701804140169
+0 Length of the spore about 20 times the thickness 01693703711814150 Sillia p. 2000
+0 Spores thicker in proportion to length01693703721814160170
+0 Spores subfusiform 01703723731824170 Pseudovalsa p. 2000
+0 Spores broadly rounded at the ends 01703723741824180 Prosthecium p. 2450
+0Phaeophragmiae0-270375-1542200
+0A. Non-stromatic; ostioles not collectively erumpent017173761834230172
+0B. Stromatic, or ostioles collectively erumpent017173771834240189
+0 A. Non-stromatic; ostioles not collectively erumpent0-280378-1642900
+0 Fruit-bodies free or almost so01723763791844300173
+0 Fruit-bodies immersed01723763801844310180
+0 Asci unitunicate, truncate above 01733793811854320 Lasiosphaeria p. 1080
+0 Asci bitunicate (thick-walled)01733793821854330174
+0 On dung 01743823831864340 Sporormia p. 4510
+0 On wood or bark of trees or shrubs01743823841864350175
+0 On herbaceous stems01743823851864360179
+0 Spores 40-65 x 15-20 µm; fruit-bodies crowded in small groups 01753843861874370 Astromassaria p. 4110
+0 Spores smaller01753843871874380176
+0 Fruit-bodies glabrous; no conspicuous hyphal tomentum01763873881884390177
+0 Fruit-bodies hairy or accompanied by a black hyphal tomentum01763873891884400178
+0 Fruit-bodies perfectly free 01773883901894410 Melanomma p. 4080
+0 Fruit-bodies ± immersed 01773883911894420 Trematosphaeria p. 4090
+0 Fruit-bodies medium-sized, seated in a black hyphal tomentum; terminal cells of spore subhyaline 01783893921904430 Chaetosphaeria p. 4040
+0 Fruit-bodies small, setulose; spores pale greenish grey ail through 01783893931904440 Herpotrichiella p. 4380
+0 Spores oblong or fusiform, short-celled 01793853941914450 Leptosphaeria p. 3460
+0 Spores subcylindric-filiform or long-celled 01793853951914460 Ophiobolus p. 3840
+0 Papilla laterally flattened 01803803961924470 Lophiostoma p. 4250
+0 Not so (not:Papilla laterally flattened)01803803971924480181
+0 On dung 01813973981934490 Sporormia p. 4510
+0 On decorticated wood 01813973991934500 Trematosphaeria p. 4090
+0 Elsewhere  (not On decorticated wood)01813974001934510182
+0 In the bark of woody plants01824004011944520183
+0 On leaves or herbaceous stems01824004021944530187
+0 Spores rather small; spore-wall not gelatinous01834014031954540184
+0 Spores large, spore-wall often gelatinous01834014041954550185
+0 Ascus unitunicate; on Hippophaë 01844034051964560 Hymenopleella p. 1810
+0 Ascus bitunicate 01844034061964570 Dendropleella p. 3920
+0 Fruit-bodies widely erumpent in small clusters; on Fagus 01854044071974580 Astromassaria p. 4110
+0 Fruit-bodies permanently immersed01854044081974590186
+0 Epispore punctuate, golden brown till the very maturity. 01864084091984600 Stigmatomassaria p. 4170
+0 Epispore smooth, at first olive-yellow, soon umber brown  01864084101984610Massaria p. 4180
+0 Asci unitunicate (thin-walled) 01874024111994620 Diapleella p. 2080
+0 Asci bitunicate (thick-walled)01874024121994630188
+0 Spores oblong or subfusiform, short-celled 01884124132004640 Leptosphaeria p. 3460
+0 Spores subcylindric-filiform or long-celled 01884124142004650 Ophioholus p. 3840
+0 B. Stromatic, or ostioles collectively erumpent0-290415-1746800
+0 Stroma basal01893774162014690190
+0 Stroma with immersed fruit-bodies01893774172014700192
+0 Stroma small, subperidermal, with small, dense crowds of fruit-bodies; on Fagus 01893774182014710 Astromassaria p. 4110
+0 Stroma represented by a widely extended hyphal subiculum 01904164192024720191
+0 Asci unitunicate, truncate above 01914194202034730 Lasiosphaeria p. 1080
+0 Asci bitunicate (thick-walled) 01914194212034740 Chaetosphaeria p. 4040
+0 Stroma clypeiform 01924174222044750 Clypeosphaeria p. 1220
+0 Not so (not:Stroma clypeiform)01924174232044760193
+0 Stroma linear, on leaf-stalks of Pteridium aquilinum . . . 01934234242054770 Rhopographus p. 4660
+0 Not so (not:Stroma linear, on leaf-stalks of Pteridium aquilinum)01934234252054780194
+0 Asci unitunicate, thin-walled01944254262064790195
+0 Asci bitunicate, thick-walled01944254272064800196
+0 Spores subcylindric or curved-fusiform 01954264282074810 Melogramma p. 1980
+0 Spores broadly oblong 01954264292074820 Pseudovalsa p. 2000
+0 Spores large; spore-wall gelatinous 01964274302084830 Massaria p. 4180
+0 Spores rather small; spore-wall not gelatinous 01964274312084840 Thyridaria p. 4140
+0Dictyosporae0-300432-1848700
+0A. Non-stromatic; ostioles not collectively erumpent 019784332094880198
+0B. Stromatic, or with collectively erumpent ostioles019784342094890215
+0 A. Non-stromatic; ostioles not collectively erumpent0-310435-1949300
+0 Asci unitunicate (thin-walled), truncate above; spores hyaline; on rotten wood 01984334362104940 Rhamphoria p. 1920
+0 Asci bitunicate (thick-walled)01984334372104950199
+0 Epiphytes on living leaves; mycelium black, superficial. 01994374382114960 Capnodium p. 4750
+0 Not so (not:Epiphytes on living leaves; mycelium black, superficial)01994374392114970200
+0 Fruit-bodies free or almost so02004394402124980201
+0 Fruit-bodies immersed02004394412124990209
+0 On wood, or on bark of woody plants02014404422135000202
+0 On leaves or herbaceous stems02014404432135010208
+0 Asci densely fasciculate; spores hyaline; on Rosa 02024424442145020 Pringsheimia p. 4710
+0 Not so (not:Asci densely fasciculate; spores hyaline; on Rosa)02024424452145030203
+0 Fruit-bodies large, pulvinate, widely erumpent; on Sorbus 02034454462155040 Dothiora p. 4690
+0 Not so (not: Fruit-bodies large, pulvinate, widely erumpent; on Sorbus )02034454472155050204
+0 Spores medium-sized,   L golden brown02044474482165060205
+0 Spores small, greenish grey02044474492165070206
+0 Fruit-bodies densely gregarious (or on a  ±  developed basal stroma) 02054484502175080 Cucurbitaria p. 3970
+0 Fruit-bodies scattered or effusely gregarious 02054484512175090 Teichospora p. 3940
+0 Asci 16-spored 02064494522185100 Capronia p. 4400
+0 Asci 8-spored02064494532185110207
+0 Fruit-bodies densely gregarious on old stromata of Pyrenomycetes 02074534542195120 Berlesiella p. 4410
+0 Fruit-bodies inconspicuous, scattered on rotten wood.. 02074534552195130 Dictyotrichiella p. 4400
+0 Interascicular tissue not distinctly paraphysoid; fruit-bodies and spores large 02084434562205140 Pleospora, sect. Pyrenophora p. 3390
+0 Interascicular tissue paraphysoid, or fruit-bodies small. 02084434572205150 Pleospora p. 3370
+0 Asci densely fasciculate; spores hyaline; on Rosa 02094414582215160 Pringsheimia p. 4710
+0 Not so (not:Asci densely fasciculate; spores hyaline; on Rosa)02094414592215170210
+0 Papilla laterally flattened (often difficult to observe!); spores subcylindric; on bark or rotten wood 02104594602225180 Platystomum p. 4250
+0 Not so (not:Papilla laterally flattened (often difficult to observe!); spores subcylindric; on bark or rotten wood)02104594612225190211
+0 On wood, or on bark of woody plants02114614622235200212
+0 Elsewhere (not On wood, or on bark of woody plants)02114614632235210214
+0 Spores very large, spore-wall gelatinous; epispore punctate 02124624642245220 Pleomassaria p. 4160
+0 Not so (not:Spores very large, spore-wall gelatinous; epispore punctate )02124624652245230213
+0 Spores rarely longitudinally septate, chestnut-brown; immersed in twigs of Frangula 02134654662255240 Karstenula p. 3910
+0 Spores always ± longitudinally septate,  ± yellowish brown 02134654672255250 Teichospora p. 3940
+0 Interascicular tissue not distinctly paraphysoid; fruit- bodies and spores large 02144634682265260 Pleospora, sect. Pyrenophora p. 3390
+0 Interascicular tissue paraphysoid, or fruit-bodies small. 02144634692265270 Pleospora p. 3370
+0 B. Stromatic, or with collectively erumpent ostioles0-320470-2053100
+0 Epiphytes on leaves; mycelium black, superficial 02154344712275320 Capnodium p. 4750
+0 Not so (not:Epiphytes on leaves; mycelium black, superficial)02154344722275330216
+0 Stroma pulvinate, widely erumpent; asci in an indefinite locule in the stroma 02164724732285340 Dothiora p. 4690
+0 Not so (not:Stroma pulvinate, widely erumpent; asci in an indefinite locule in the stroma)02164724742285350217
+0 Stroma basal with free fruit-bodies02174744752295360218
+0 Fruit-bodies immersed in the stroma02174744762295370219
+0 Spores medium-sized, yellowish brown 02184754772305380 Cucurbitaria p. 3970
+0 Spores small, greenish grey; on old stromata of Pyrenomycetes 02184754782305390 Berlesiella p. 4410
+0 Stroma indistinctly delimited; spores rarely longitudinally septate 02194764792315400 Karstenula p. 3910
+0Stroma sharply delimited, isolate; spores always with longitudinal septa02194764802315410 Feneslella p. 4120
+0Scolecosporae0-350481-2354400
+0A.  Non-stromatic; ostioles not collectively erumpent022094822325450221
+0B. Stromatic, or with collectively erumpent ostioles022094832325460225
+0 A.  Non-stromatic; ostioles not collectively erumpent0-360484-2454800
+0 Fruit-bodies olive-grey or ochraceous; on old Pyrenomycetes02214824852335490222
+0 Fruit-bodies black02214824862335500223
+0 Fruit-bodies olive-grey; spores filiform; on Bertia or on lichens 02224854872345510 Barya p. 730
+0 Fruit-bodies ochraceous; spores slenderly fusiform 02224854882345520 Ophionectria p. 4730
+0 On rotten wood; spores not very thin 02234864892355530 Lasiosphaeria p. 1080
+0 On leaves or herbaceous stems02234864902355540224
+0 Asci unitunicate (thin-walled); spores perfectly hyaline. 02244904912365550 Linocarpon p. 2070
+0 Asci bitunicate (moderately thick-walled); spores ± coloured 02244904922365560 Ophiobolus p. 3840
+0 B. Stromatic, or with collectively erumpent ostioles0-370493-2555900
+0 Stroma and fruit-bodies whitish or coloured, ± fleshy .02254834942375600226
+0 Stroma black outside02254834952375610229
+0 Fruit-bodies free; on Bertia or on lichens 02264944962385620 Barya p. 730
+0 Fruit-bodies immersed or on other substrata02264944972385630227
+0 Stroma yellowish white, forming a surrounding layer on culms of grasses 02274974982395640 Epichloë p. 750
+0 Stroma stipitate02274974992395650228
+0 Stromata pin-shaped, springing from sclerotia in seeds. 02284995002405660 Claviceps p. 750
+0 Stromata springing directly from fungi or dead insects . 02284995012405670 Cordyceps p. 760
+0 On branches of Corylus 02294955022415680 Sillia p. 2000
+0 On leaves of Salicaceae 02294955032415690 Linospora p. 2160

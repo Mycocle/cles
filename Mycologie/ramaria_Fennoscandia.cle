@@ -1,0 +1,119 @@
+titre$ Key to the species of Ramaria known from Fennoscandia 
+ com$ tirée de http://www.mycokey.com/MycokeyDK/DKkeysPDFs/RamariaKey.pdf / adapt GF avril 08
+
+rem : il faut ajouter les images des spores ...
+1,0$ croquis spores$_ croquis spores$f"ramaria_Fennoscandia_spores.gif"
+1,cs3 $ Spores echinulate; saprobes growing on conifer needles or leaves, rarely on thin branches (fruitbodies often rather tough and thin-fleshed with ±brownish or greenish colours). $ Subgen. Echinoramaria, page 10 $ s"Subgen. Echinoramaria"
+1,2 $ Spores smooth, striate or verrucose; saprobes or mycorrhizal
+2,cs2 $ Rhizomorphs dimitic or fruitbodies growing on wood; saprobes; fruitbodies often rather tough and thin-fleshed. $ Subgen. Lentoramaria, page 8 $s" Subgen. Lentoramaria"
+2,cs1 $ Rhizomorphs, if present, monomitic; mycorrhizal or rarely saprobes, growing on needles or leaves; fruitbodies often soft and ±fleshy. $ Subgen. Ramaria, page 2$s" Subgen. Ramaria"
+
+rem $ Key to the species of Ramaria subgen. Ramaria
+cs1,0$
+1,2 $ Spore ornament of helical stripes. (The R. botrytis group)
+1,3 $ Spore ornament of isolated to ±fused warts or rarely absent
+2,0 $ Branches pinkish-buff (5A3), towards the tops pale flesh pink (7A2); tops ±red (about 9-10C6-7). Fruitbodies to 20x20 cm; clamps present, spores 12-15-18 ??4.5-5.3-6.0 µm,  with helical stripes, Q = 2.8-3.1. $ R. botrytis (Pers.: Fr.) Rick.
+2,0 $ Branches cream, warm buff, pinkish buff to salmon (4-5A3-4,6A2-3), tops pale chrome, lemon chrome, buff yellow to orange yellow (3A3-8, 4A5-7). Fruitbodies to 20 ??20 cm; clamps present, spores 10.7-12.5-15.6 ??3.8-4.5-4.9 µm, smooth or with faint helical stribes, Q = 2.4-3.1. $ R. obtusissima var. incarnata CornerKEY TO THE SPECIES OF RAMARIA KNOWN FROM FENNOSCANDIA
+3,4 $ Stem coral to brownish red (9B8, 9E7-8) in 10-20% KOH; branches of fresh, mature fruitbodies generally ±brown or violet to lilac (the R. fennica group)
+3,7 $ Stem unchangeable or slightly darker in 10-20% KOH; branches pale (whitish, cream to pinkish buff) or intensely coloured (±yellow, orange, salmon or pink)
+4,0 $ Stem and rhizomorphs with numerous, rod-shaped, 10-40 µm long crystals; surface and flesh quickly turning vinaceous when bruised; taste distinctly bitter. Fruitbodies to 11 ??8 cm; clamps present, spores 10.5-12.6-15.0 ??4.1-5.0-5.7 µ––m, Q = 2.3-2.6. $ R. testaceoflava (Bres.) Rick.
+4,5 $  Stem with both small irregular and double-pyramidal crystals, rhizomorphs with small irregular crystals; not quickly turning vinaceous when bruised; taste mild to spicy, but probably never bitter 5
+5,0 $ Clamps absent; 10% H2SO4 on stem negative or slightly more brown; spores with an ornament of rows or lines of isolated to fused warts or ridges; hyphae in base and especially in the rhizomorphs with encrustations of small, irregular crystals. Fruitbodies to 12 ??7 cm; spores (8.0-) 9.0- 11.5-13.0 ??5.0-5.6-6.2 µm, Q = 1.8-2.2. $ R. spinulosa (Pers.: Fr.) Quél.
+5,6 $ Clamps present; 10% H2SO4 on stem pale orange (5A6) to flame scarlet (7B8); spores with an ornament of ±isolated warts; double-pyramidal and irregular crystals present in the base, small, irregular crystals numerous in the rhizomorphs
+6,0 $ Tops either violet to lilac or light vinaceous grey (5D4-9D3); branches with rather grey-brown colours, often with clear violet to lilac coloured areas at the axils. Fruitbodies to 12 ?7 cm; clamps present, spores 9.0-11.3-13.0 ??4.5-5.1-5.7 µm, Q = 2.0-2.3. $ R. fennica (P.Karst.) Rick.
+6,0 $ Tops for a long time cream to pinkish buff (4-5A3); branches yellowbrown to orangebrown, never with violet colours. Fruitbodies to 11 ??9 cm; clamps present, spores 9.0-9.9-11.1 ??3.7-4.3-4.9 µm, Q = 2.2-2.3. $ R. fascicaulis nom. prov.
+7,8 $ Mature fruitbodies uniformly whitish, cream to pinkish buff
+7,11 $ Mature fruitbodies at least locally ±yellow, orange, salmon to pink
+8,0 $ Stem less then 1 cm thick; fruitbodies small, op to 6 (-8) ??4(-5) cm; clamps present; spore average length < 10 µm; probably a saprobe, growing on needles of Juniperus, conifers or under Salix in the subarctic/subalpine zones. Spores 8.2-9.3-10.5 ??3.3-4.1-5.0 µm, Q = 2.1-2.5. $ R. suecica (Fr.: Fr.) Donk
+8,9 $ Stem mostly 1-5 cm thick; fruitbodies normally larger; clamps present or absent; spore Lm>11 µm; probably mycorrhizal, growing on soil in woods.
+9,0 $ Clamps present; spores 12-15.3-18 (-20) ??4.8-6-7.5 µm, Q=2.3-2.7, older specimens often slowly turning fawn to vinaceous brown (about 7C4 to 10E4-5) when touched or bruised. Fruitbodies to 12 ??9 cm; spores Q = 2.3-2.7. $ R. megaspora nom. prov.
+9,0 $ Clamps absent; spores smaller; unchangeable when bruised but often with pale violet spots around soil-particles, etc. 10 10. Fruitbodies ±cream to pinkish buff; smell strong, spicy; taste somewhat bitter; hyphae of basal tomentum or in base often with gelatinous coating. Fruitbodies to 25 ??20 cm; spores 10.5-12.5-13.5 ??4.9-5.7-6.6 µm, Q = 1.9-2.3. $ R. pallida (Schaeff.) Rick.
+9,0 $ Fruitbodies whitish to pale pinkish buff; smell probably weak; taste mild or slightly bitter; hyphae of basal tomentum or in base probably without gelatinous coating. Fruitbodies to 22 ??12 cm; spores 9.0-12.2-13.0 ??4.5-5.2-6.0 µm, Q = 2.0-2.4. $ R. paludosa (Lundell) Schild  (possibly conspecific with R. pallida)
+11,12 $ All parts ±clear yellow (straw yellow, pale yellow, lemon yellow, light chrome to lemon chrome (2-4A3-8) or dark pinkish buff (5B3-4)); branches often slowly darkening when bruised (possibly over night). (The R. flava group)
+11,18 $ Branches or tops more orange to pink (pinkish buff, peach, saffron, apricot-orange, orange to ochraceous (5-6AB2-8,7A4-5)); branches generally unchangeable when bruised
+12,0 $ Tops with dense, subcristate branching, more clear yellow than the branches; spores smooth. $ see R. schildii p. 6
+12,13 $  Tops not subcristate, not more clear yellow than the branches; spores ornamented  13
+13,0 $ Spores 5-7.5 µm broad; mature specimens dark pinkish buff (5B3-4), older specimens often slowly turning fawn to dark vinaceous (about 7C4 to 10E4-5) when bruised. $ see R. megaspora p. 4
+13,14 $ Spores narrower; mature specimens ±ochraceous (5B4-5) to ±yellow, unchangeable or turning brownish to vinaceous when bruised
+14,0 $ With brownish red (10DE7-8) spots at the base. Fruitbodies to 15 ??12 cm; clamps absent, spores (7.0-) 8.0-10.5-12.0 (-13.1) ??(3.5-) 4.0-4.5-5.5 µm, Q = 2.0-2.4. $ R. sanguinea (Pers.) Quél.
+14,15 $ Never with reddish discolorations
+15,0 $ Clamps present; branches turning dark vinaceous when bruised. Spores 10-13.2-16.5 ??3.7-4.6-6.0 µm, Q = 2.8-2.9. $ R. flava (Schaeff.) Quél.
+15,16 $ Clamps absent; branches unchangeable
+16,0 $ Spore Q = 2.3; branches and tops uniformly pale chrome, cream to warm buff (3-4A3-4); stem often with abortive branches. Fruitbodies to 12 ??11 cm; spores 9.4-10.2-11.0 ?4.1-4.4-4.9 µm. $ R. lutea (Vitt.) Schild
+16,17 $ Spore Q = 2.5-3.5; branches of mature specimens warm buff, dark pinkish buff to ochraceous (4A4, 5B4-5 (-6B4)) sometimes remaining ±pale cream ((3-)4A2) at unexposed areas of the upper stem/lower branches, tops pale cream (4A2); stem without abortive branches
+17,0 $ Spores 9.0-15 ??3.7-6.0 µm, Q = 2.5-2.9; branches warm buff (4A4) or only slightly pinkish-buff (5A4 (6A3)). $ R. corneri var. corneri nom. prov. (syn.: R. subtilis ss. auct.)
+17,0 $ Spores 12.3-16.0-18.0 (-20) ??4.1-4.7-5.5 µm, Q = 3.1-3.5; branches of mature specimens dark pinkish buff to ochraceous with a shade of clay pink (5B4-5 (-6B4)). Fruitbodies to 14 ??14 cm. $ R. corneri var. cylindrospora nom. prov.
+18,19 $ Tops of mature fruitbodies paler and more clear yellow than the branches (pale chrome to orange yellow – 3-4A2-7 (5A5-6)); branches often pinkish buff, salmon, flesh-pink to pale reddish orange (5A2-4, 6A3-5, 7A4-5), never(?) with a clear yellow colour band below; clamps present. (The R. formosa group)
+18,23 $ Tops of mature specimens concolorous or more orange than the branches; branches of mature specimens saffron, apricot-orange, peach, orange to ochraceous (5-6AB5-8), often with a clear yellow colour band in the transition-zone between the pale stem and the coloured branches, especially in areas less exposed to light; clamps present or absent. (The R. aurea group)
+19,20 $ Spores smooth
+19,21 $ Spores ornamented (check in cotton blue)
+20,0 $ Tops rounded to swollen see R. obtusissima var incarnata, p. 2  Tops with dense, subcristate branching. Fruitbodies to 12 ?7 cm; branched 6-8 times, base/mainbranches and smaller branches sinuate with the tops pointing in various directions; branches pale pinkish buff to pinkish buff (5A2-3); tops pale chrome to cream (3/4A3); clamps present, spores 12-13.8-164-4.4-5.2 (-5.6) µm, smooth. $ R. schildii R.H. Petersen
+21,0 $ Stem large, up to 6 ??6 cm; young fruitbodies with yellowish branches; mature fruitbodies with pale pinkish buff to pinkish buff (5A2-4, 5B4) branches. Fruitbodies to 18 ??18 cm; clamps present, spores 9.8-12.0-13.5 ??4.1-5.1-6.2 µm, Q = 2.2-2.5. $ R. flavescens (Schaeff.) R.H.Peters.
+21,22 $ Stem small, typically less then 2 ??2 cm or fruitbodies branching from the base; young fruitbodies with ±pink to reddish branches; mature fruitbodies with pinkish buff to salmon (5A4, 6A3-4) branches
+22,0 $ Fruitbodies to 15 cm high; clamps present; flesh green in FeSO4, chalky-friable when dry. Fruitbodies often dividing from the base into several main branches; spores 9.8-12.1-15.0 ??4.9-5.5-6.5 µm, Q = 2.1-2.4. $ R. formosa (Pers.: Fr.) Quél.
+22,0 $ Fruitbodies rather small, up to 7 (-10) cm high; clamps absent; flesh not green in FeSO4, not chalky-friable when dry. Fruitbodies with a small, up to 2.5 cm thick stem or branched from the base. Spores 7-13 (-16) ??3.0-4.5 (-5.7) µm; Q = 2.6-3.0. $ R. fagetorum Schild ss.auct., non ss. Mass Geesteranus
+23,24 $ Clamps absent
+24,25 $ Clamps present, at least at the base of the basidia
+24,0 $ Fruitbodies rather small, up to 7 (-10) cm high, with a small, up to 2.5 cm thick stem $ see R. fagetorum, p 6
+24,0 $ Fruitbodies medium-sized with a prominent, 2.5-6 cm thick stem; branches and tops yellow-orange to salmon, long with a clear yellow colour band at the upper stem/lower branches; spore Q = 2.3-2.6. Spores 10.0-13.0 ??4.0-6.0 µm. $ R. aurea (Schaeff.) Quél.
+25,0 $ Spores smooth to almost smooth. Fruitbodies to 14 ??11 cm; spores 10.0-11.1-13.0 ??3.5-4.0-4.5 µm, Q = 2.8. $ R. magnipes Marr & Stuntz
+25,26 $ Spores distinctly warted
+26,0 $ Spore Q = 2.7-3.0; clamps present at the base of the basidia, but not always at the other hyphae. Fruitbodies to 16 ??17 cm; upper branches pinkish buff, saffron, salmon to peach(5-6A3-6); tops apricot orange to orange (5-6A8); spores 11.0-13.9-15.6 ??3.5-4.8-5.7 µm, with distinct, up to 0,4 µm high, slightly fused warts and sinuous ridges. $ R. largentii Marr & Stuntz
+26,27 $ Spore Q = 2.3-2.6; clamps present at all septae
+27,0 $ Tops at mature specimens apricot orange to ochraceous (5AB7-8). Branches pinkish-puff, saffron to salmon (5A3-5,6A3), tops apricot orange to ochraceous (5AB7-8); clamps present at all septa. Fruitbodies to 20 ??28 cm; spores 10.0-11.6-13.0 ??4.0-4.4-5.0 µm, Q = 2.3-2.6. $ R. flavicingula R.H. Petersen
+27,0 $ Tops at mature specimens cream to warm buff (4A3). $ see R. flavescens, p. 6
+**********************
+
+
+
+********************
+rem $ Key to the species of Ramaria subgen. Lentoramaria
+cs2,0$
+1,0 $ Spores smooth; with a prominent, white basal tomentum;  stem and branches of mature specimens pale yellowish. Fruitbodies to 6 ??4 cm; spores 7-11 ??3-4 µm. $ Lentaria dendroidea (Fr.) J.H. Petersen
+1,2 $ Spores ornamented with rounded warts; without prominent tomentum (but possibly with white, adpressed hyphae); colours of mature specimens often different
+2,0 $ With a pronounced smell of aniseed; fruitbodies uniformly whitish, pinkish buff to pale salmon; without colour change when bruised; all parts dimitic; on conifer needles. Fruitbodies to 9 ??3 cm; spores 5.5-6.3-7 ??3.3-3.8-4.5 µm; Q = 1.5-1.8. $ R. gracilis (Pers.: Fr.) Quél.
+2,3 $ Smell weak, spicy or spicy-sweet; fruitbodies yellowish, ±brown or green; often darker when bruised; stem and branches monomitic; on wood or at the base of grasses
+3,4 $ Fruitbody or flesh with ±green areas; on conifer wood
+3,5 $ Fruitbody without green; on conifer wood, deciduous wood or at the base of grasses
+4,0 $ Rhizomorphs monomitic, spores 8.2-12.3 ??4.1-5.5 µm, rough in outline, ornament cyanophilous. Fruitbodies to 10 ??10 cm; Q = 2.1-2.2. $ R. apiculata (Fr.: Fr.) Donk
+4,0 $ Rhizomorphs dimitic, spores 7.8-10.7 ??4.1-4.9 µm, finely rough to almost smooth in outline, ornament weakly cyanophilous to acyanophilous. Fruitbodies to 5 ??3 cm; Q =2.0-2.1. $ R. tsugina (Peck) Marr & Stuntz
+5,0 $ Spores 6.5-9 ??4-5.5 µm, Q = 1.6-1.8; rhizomorphs purple in 10% KOH; branches “salmon“ to “red brown“. Fruitbodies to 10 ??6 cm. $ R. rubella (Schaeff.) R.H. Petersen
+5,6 $ Spores longer, Q = 1.9-2.2; rhizomorphs unchangeable or slightly brown in 10% KOH; branches yellowish, pinkish buff to greyish brown
+6,0 $ On deciduous wood; young fruitbodies pale yellow (see cover picture); mature fruitbodies pinkish buff, clay pink, greyish brown to fawn (5AB3, 6BD3-4, 7E5); tops yellow. Fruitbodies to 11 ??8 cm; spores 7.5-9-10.5 ??4-4.4-5 µm; Q= 1.9-2.2. $ R. stricta (Pers.: Fr.) Quél.
+6,7 $ On conifer wood or at the base of Ammophila arenaria;young fruitbodies whitish to pinkish buff; mature fruitbodies pale pinkish-buff, clay buff to cinnamon (5A2-3,6CD5-6); whitish towards the tops, but extreme tops sometimes abruptly pale chrome (3A3-4)
+7,0 $ On Ammophila arenaria; fruitbodies in all ages pale pinkish buff (5A2-3); extreme tops often pale chrome. Fruitbodies to 11 ??7 cm; spores 8.2-9.1-10.3 ??4-4.4-5 µm; Q = 2.0-2.2. $ R. ammophila nom. prov.
+7,0 $ On conifer wood; mature fruitbodies clay buff to cinnamon (6CD5-6); extreme tops whitish or concolourous with the branches. Fruitbodies to 10 ??7 cm; spores as R. ammophila. $ R. concolor R.H. Petersen
+****************
+rem $ Key to the species of Ramaria subgen. Echinoramaria
+(Note: All known taxa from the area (except the dubious R. argentea) are keyed out. Some of these may later prove synonymous).
+cs3,0$
+1,0 $ Spores 13-20 × 5-8.2 µm, with up to 1.5 (-2) µm long spines; all basidia two-spored; all parts quickly turning pink to deep brown when bruised (sect. Dendrocladium). Fruitbodies to 8 × 4 cm. $ R. broomei (Cotton & Wakef.) R.H. Petersen
+1,2 $  Spores and spines smaller; basidia mostly four-spored; fruitbodies not brownish on bruising (sect. Flaccidae) 2
+2,3 $ With green colours or bruising green
+2,4 $ Without greenish colours
+3,0 $ Spores 6.5-10.5 × 3.5-4.9 µm, Q = 2.0-2.4; fruitbodies to 6 cm high and 4 cm broad, generally rather delicate with an up to 0.5 cm thick stem. Spore ornament to 0.5 µm high. $ R. abietina (Pers.: Fr.) Quél.
+3,0 $ Spores 10.7-13.7 × 4.5-6 µm, Q = 2.1-2.5; fruitbodies to 13 cm high and 7.5 cm broad, generally rather stout with an up to 2.5 cm thick stem. Spore ornament to 0.5 µm high. $ R. echinovirens Corner, Thind & Dev.
+4,5 $ Rhizomorphs with irregular crystals or crystals absent
+4,8 $ Rhizomorphs with star-shaped crystals
+5,0 $ Tops pale lilac (16-17A2-3), flattened-subcristate; spores 6-9 × 3-3.7 µm; Q = 2.0-2.4; spore ornament to 0.5 µm high. Fruitbodies to 3.5 × 3 cm. $ R. subdecurrens (Coker) Corner
+5,6 $ Without lavender colours
+6,0 $ Spores 7-12 × 3.3-5 µm, Q = 2.0-2.1; branches buff yellow, pinkish buff, ochraceous to yellowish brown; hymenium amphigenous; taste mild. Fruitbodies to 8 × 5 cm; spore ornament to 1.2 µm high. $ R. eumorpha (P. Karst.) Corner
+6,7 $  Spores 5-9 µm long, Q = d 1.9; branches sometimes darker; hymenium unilateral; taste bitter or pepperish. 7
+7,0 $ Branches fuscous to deep olive; spores 5.2-8.9 × 3.0-4.4 µm, Q = 1.7-1.9. Fruitbodies to 16 × 10 cm; spore ornament to 1µm high. $ R. mutabilis Schild & R.H.Petersen
+7,0 $ Branches ochraceous to cinnamon, at age fawn; spores 4.8-7.2 × 2.8-4.0 µm, Q = 1.5-1.8. Fruitbodies to 10 × 5 cm; spore ornament to 1 µm high. $ R. luteolus nom. prov.
+8,9 $ On needles of conifers
+8,10 $ In deciduous forest or on the ground with mosses and lichens
+9,0 $ Spores 3.2-6.4 × 2.5-4 µm, Q = 1.5-1.9, spore ornament to 0.3 µm high. Fruitbodies to 4 × 3 cm. $ R. corrugata (P.Karst) Schild (syn.: R. myceliosa)
+9,0 $ Spores 7.0-9.5 × 3.6-4.9 µm, Q = 1.8-2.1, spore ornament to 0.5 (-0.8) µm high. Fruitbodies to 5 × 3 cm. $ R. flaccida (Fr.) Bourd.
+10,0 $ On the ground with mosses and lichens. fruitbodies up to 3,5 cm high and 2,4 cm broad but often smaller; spores 6.5-8.0 × 3.5-4.5 µm, Q = 1.7-2.0. $ R. roellinii Schild
+10,11$ In deciduous forest
+11,0 $ Stem > 0.5 cm thick, fruitbodies up to 14 cm high; spores 5.2-6.7 × 3.0-4.1 µm, Q = 1.5-1.7. $ R. decurrens (Pers.) R.H.Petersen
+11,0 $ Stem < 0.5 cm thick, fruitbodies less than 4 (-6) cm high; spores 6.5-9.0 × 2.9-5.0 µm, Q = 1.8-2.1. $ R. elegans nom. prov.
+
+
+
+
+
+
+
+

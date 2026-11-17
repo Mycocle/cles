@@ -1,0 +1,710 @@
+
+µm 
+
+rem$ Clé des sections, sous-sections, stirpes.
+1,2 $ Lamelles blanchâtres, argilacées, gris argilacé ou déjà ± brunes dans la jeunesse
+1,12 $ Lamelles jeunes bleues, violettes, jaunes, vertes, jaune de cire ou olivacées (par-fois très foncées)
+2,3 $ (1) Chapeau blanc, brun, brun gris, jaune, jaune verdâtre
+2,11 $ Chapeau avec des teintes ± bleues ou violettes
+3,CS5 $ (2) Chapeau jaune vert (assez vif) $ Clé 3.11.7.3.13: (Percomes) (page 526)
+3,4 $Chapeau d'une autre couleur
+4,CS10 $ (3) Stipe avec un voile (floconneux-laineux ou apprimé ou engainant) jaune, ocracé, brun ocre ou brun gris. (voir aussi 3.11.7.3.3.16   Cortinarius herculeus) $ Clé 3.11.7.3.4: Triumphantes (page 501)
+4,5 $ Stipe sans un tel voile
+5,CS15 $ (4) Réaction de la chair aux bases (ou à NH3) jaune ou brune marginée de jaune $ Clé 3.11.7.3.9: (Variecolores) (page 514)
+5,6 $ Pas cette réaction
+6,CS1 $ (5) Chapeau blanchâtre ou ocre très pâle (parfois un peu plus vivement dans la  vieillesse) $ Clé 3.11.7.3.1: (Rapacei) (page 491)
+6,7 $ Chapeau jaune vif, brun, brun olivacé, etc
+7,8 $ (6) Stipe à base ± bulbeuse (bulbe en général marginé)
+7,9 $ Stipe cylindrique, claviforme ou atténué à la base
+8,cs14 $ (7) Chapeau jaune, brun, fauve (si réaction du chapeau, rouge aux bases et si spores  rondes, voir 3.11.7.3.6.13 Cortinarius caesiocortinatus; si spores 7-9 µm  et chapeau  fortement couvert par des fibrilles innées, voir 3.11.7.3.5.3 Cortinarius pseudodia-bolicus) .Clé 3.11.7.3. 2: (Multiformes p.p.) (page 492)
+8,CS12 $ Chapeau avec des teintes verdâtres ou olivâtres ou bulbe ourlé de violet par le voile $ Clé 3.11.7.3.7: (Glaucopodes) (page 507)
+9,10 $ (7) Carpophore relativement petit ou grêle, souvent de teinte pâle
+9,CS8 $ Espèces plus grandes. Stipe souvent ± hispide (voile) (tout au moins dans la jeunesse. Voile blanc ou violacé $ Clé 3.11.7.3.3: (section Phlegmacium p.p.) (page 497)
+10,CS11 $ (9) Spores rondes. Odeur raphanoïde $ Clé 3.11.7.3.5: (Tenues) (page 502)
+10,cs7 $ Spores souvent petites, mais pas rondes $ Clé 3.11.7.3.2: (Vespertini) (page 492)
+11,cs15 $ (2) Réaction de la chair aux bases jaune ou brune cernée de jaune $ Clé 3.11.7.3.9: (Variecolores) (page 514)
+11,CS13 $ Pas cette réaction $ Clé 3.11.7.3.8: (Coerulescentes) (page 509)
+12,13 $ (1) Lamelles bleues, violettes, lilacines
+12,19 $ Lamelles jaunes, vertes, jaune de cire, olive, fuligineux olivacé
+13,CS15 $ (12) Réaction de la chair au base jaune ou brune avec un cerne jaune $ Clé 3.11.7.3.9: (Variecolores) (page 514)
+13,14 $ Pas cette réaction
+14,cs3 $ (13) Carpophore se maculant de pourpre au frottement ou chair rouge vineux au  contact du lugol $ Clé 3.11.7.3.11: (Scauri p.p.) (page 519)
+14,15 $ Aucun des deux caractères précédents
+15,16 $ (14) Stipe avec un bulbe ± marginé
+15,18 $ Stipe claviforme ou cylindrique
+16,17 $ (15) Chapeau blanchâtre, jaune, ocre, brun rouge, brun, gris, parfois marge avec  des nuances verdâtres ou lilacines (pas bleues)
+16,CS13 $ Chapeau bleu, gris bleu, grisâtre argenté (souvent se décolorant en plus clair ou  en ocre). (Voir aussi 3.11.7.3.12.9   Cortinarius rufoolivaceus) $ Clé 3.11.7.3.8; (Coerulescentes) (page 509)
+16,0 $ Chapeau vert foncé. Stipe et chair jaunes, lamelles lilas . 3.11.7.3.12.26 $ Cortinarius ionochlorus (page 525)
+17,cs17 $ (16) Chapeau ± blanchâtre, ocre, jaune, brun jaune à brun rouge ou avec des nuances violettes. Réaction de la chair aux bases rouge à brun rouge. (Comparer aussi avec 3.11.7.3.9.1 Cortinarius lilacinopes) .Clé 3.11.7.3.6: (Calochroi) (page 503)
+17,CS12 $ Chapeau brun gris, ombre, fauve, etc, en général avec des fibrilles innées et à  marge souvent verdâtre ou olivâtre ou chapeau entièrement ocre. Réaction des bases  sur le chapeau brun d'ombre foncé à brun d'ombre rouge $ Clé 3.11.7.3.7: (Glaucopodes) (page 507)
+18,CS11 $ (15) Espèces petites et grêles (voir aussi 3.11.7.3.2.25 . Cortinarius compar et  3.11.7.3.2.26 Cortinarius pseudocompar) $ Clé 3.11.7.3.5: (Tenues) (page 502)
+18,CS8 . Espèces plus grandes. Stipe souvent hispide ou gainé par le voile (blanc ou brun  chair) $ Clé 3.11.7.3.3: (Phlegmacium p.p.) (page 497)
+19,CS2 $ (12) Lamelles olivâtres ou fuligineux olivacé. Saveur amère ou amarescente $ Clé 3.11.7.3.10: (Amarescentes) (page518)
+19,20 $ Pas ces caractères
+20,Cs6 $ (19) Espèces robustes. Lamelles jaune de cire à jaune orangé. Chapeau avec des  teintes brun jaune ou fauve bronze, partiellement avec des teintes même olivâtres.  Spores grossièrement  verruqueuses, souvent citriformes. Chair (base du stipe) souvent rose avec NH3 $ Clé 3.11.7.3.14: (Fulvi) (page 527)
+20,21 $ Pas ces caractères
+21,cs3 $ (20) Réaction de la chair aux réactifs iodés (lugol) rouge vineux. Lamelles généralement verdâtres $ Clé 3.11.7.3.11: (Scauri) (page 519)
+21,22 $ Pas cette réaction
+22,cs5 $ (21) Stipe claviforme ou cylindrique $ Clé 3.11.7.3.13: (Percomes) (page 526)
+22,cs4 $ Stipe avec un bulbe ± marginé. (Voir aussi 3.11.7.3.13.4  Cortinarius guttatus) $ Clé 3.11.7.3.12: (Orichalcei) (page 521)
+
+Cortinarius ionochlorus (page 525)
+
+
+cs1,0$Clé 3.11.7.3.1: (Rapacei) (page 491)
+
+rem$ .11.7.3.1 Section Phlegmacium, Stirpe Rapacei.      Chapeau blanc ou blanchâtre à crème ocracé.
+1,0 $ Stipe ± cylindrique ou claviforme à bulbeux (bulbe arrondi), blanc. Chapeau blanc  ± pur, convexe, 4-6 cm. Lamelles argilacé pâle, très serrées, étroites. Odeur farineuse. Spores 6,5-8 x 3,5-4,5 µm .  Forêts mixtes. Faisant penser à Entoloma prunuloides - Mos XXXII 183 . 3.11.7.3.1.1 $Cortinarius lustratus Fr.
+1,2 $ Stipe avec un bulbe ± nettement marginé
+2,0 $ (1) Cuticule un peu amère. Chapeau 3-5 (7) cm, à chair relativement mince, blanc  ivoire à jaunâtre ocracé. Stipe blanc, 6-7,5 cm x 9-15 mm. Spores 8-10 x 4-6 µm .  Sous feuillus ou conifères. - Lge 2 B, Mos II 12, Md 633 . 3.11.7.3.1.2 $Cortinarius amarescens (Mos.) Mos.  (= Cortinarius talus ss. Lge)
+2,3 $ Cuticule et chair douces
+3,4 $ (2) Carpophore à odeur douceâtre ou farineuse-rance
+3,5 $ Pas d'odeur remarquable
+4,0 $ (3) Odeur de farine rance, d'amidon, etc. Chapeau 5-10 cm, blanchâtre, puis fauve  argilacé, ocracé au sommet. Lamelles blanches puis argilacées. Stipe blanc, sommet  parfois avec un reflet Bleuâtre, 5-8 cm x 10-20 mm, bulbe pouvant atteindre 40 mm.  Chair blanche, même violette dans le sommet du stipe. Spores 9-11 (13) x 5-6 (6,5)  µm . Sous feuillus. Mos II-11, BSMF 26, pl. VII-4-53.11.7.3.1.3 *$Cortinarius aleuriosmus R. Mre.  (= Cortinarius caroviolaceus P. D. Orton)
+4,5 $ Odeur douceâtre, voir 3.11.7.3.2.18  Cortinarius talus.
+5,0 $ (3) Carpophore petit, avec des teintes blanchâtre ocracé, ocre jaune (parfois presque brunâtre orange). Chapeau 3-6 cm. Stipe 4-6 cm x 5-10 mm. Spores petites, 6-7  x 4-4,5 µm . Sous feuillus ou conifères. - Mos II-9   3.11.7.3.1.4 $ Cortinarius leucophanes Karst.  (= Cortinarius pseudominor Hry = Cortinarius minus ss. Mos. non Vel.)
+5,6 $ Carpophore et spores plus grands
+6,0 $ (5) Chapeau blanchâtre crème à blanchâtre ivoire et restant ± de cette couleur, un  peu ocre dans la vieillesse, 3-8 cm. Stipe blanc à sommet parfois un peu bleuâtre.  Spores 8,5-10,8 x 4-5,7 µm . - Mos. II-8, Bres. 612, Lge 84 A, Ri 36-2, BSMF 77,  atl. 122   3.11.7.3.1.5 *$ Cortinarius rapaceus Fr.
+6,0 $ Carpophore blanc d'ivoire crème dans la jeunesse, puis devenant avec l'âge brun  rougeâtre ou ocre rouille avec des fibrilles innées, robuste. Chapeau 4-12 (14) cm.  Stipe 5-10 cm x 17-22 mm, bulbe pouvant atteindre 40 mm. Spores 10-12 x 6-7 µm .  Sous conifères. - Mos II-10, Rg 214, Md 635   3.11.7.3.1.6 *$ Cortinarius albidus Peck ssp. europaeus Mos.
+
+
+
+cs2,0$.$Clé 3.11.7.3.10: (Amarescentes) (page518)
+rem $ .11.7.3.10 Section Amarescentes.  Lamelles brun olivacé fuligineux (parfois avec une nuance bleuâtre) ou gris olivacé, vert olive. Saveur amère à amarescente. Spores généralement presque rondes.
+1,2 $ Lamelles brun olivacé fuligineux (parfois avec une nuance bleuâtre ou violacée).  Saveur amère
+1,4 $ Lamelles gris vert à verdâtre olive. Odeur légèrement amarescente
+2,0 $ (1) Spores elliptico-amygdaliformes, 10-12 x 5-7 µm . Chapeau olive fuligineux, à marge plus claire,  4-5 cm. Lamelles d'abord crème olivacé, puis fuligineux- olivacé. Stipe à base jaunâtre. Chair violette,  puis rougeâtre. Saveur amère à âcre. Forêts humides de conifères. Espèce mal connue . 3.11.7.3.10.1 $ Cortinarius olivascens Batsch ex Fr. (ss. Bat.)
+2,3 $ Spores presque rondes. Lamelles olivacé fuligineux foncé. Chair tout de suite noire avec le nitrate d'argent
+3,0 $ (2) Pas de nuances violettes. Chapeau brun clair à brun foncé, brun olivacé ou vert  olivacé, disque souvent pâlissant pour devenir ocre brunâtre. Stipe brunâtre olivacé,  gris argenté à blanchâtre, cylindrique à claviforme. Spores 7-8 µm . Sous feuillus ou  conifères. - Mos XXVI-152, 153, 155, Bres. 610, FT 153, Rg 219, PSC V 73, Ct  480, Md 694, Dh 434 . 3.11.7.3.10.2.1 $ Cortinarius infractus (Pers. ex Fr.) Fr.
+3,0 $ Chapeau ± brun gris, parfois gris vert. Stipe un peu violet, parfois avec un bulbe  presque marginé. Sous hêtres ou chênes. - Mos XXVI-156 . 3.11.7.3.10.2.2 $ Cortinarius var. olivellus Mos.
+3,0 $ Chapeau brun olivacé à brun olivacé noir. Lamelles brun vert olivacé. Stipe olive  terne, bleu violet dans le bas. Sous hêtres, plus rarement sous conifères. - Mos  XXVI-154 . 3.11.7.3.10.2.3 $ Cortinarius infractus var. obscurocyaneus (Secr.)
+4,0 $ (1) Lamelles gris olivacé, vert gris; brun gris, brun rouge dans la vieillesse; espacées. Chapeau 1,5-6 cm, brun jaune, ocre, avec une nuance olivacée. Stipe claviforme, ocracé pâle, 4-9 cm x 4-15 µm . Spores presque rondes, 7,5-8,5 x 5,8-6,5 µm .  avec des cystides incrustées (50-70 x 8-22 µm ) (fig. 375). Odeur d'encens ou de bois  de cèdre. Dans les marais et les forêts de conifères sur sol acide, plus rarement dansles forêts de feuillus. - Mos XXVI-150, Ct 482, Md 695, Dh 425 . 3.11.7.3.10.3 $ Cortinarius subtortus (Pers. ex Fr.) Fr.
+4,0 $ Lamelles jaunâtre olivacé, puis brunâtre olivacé à brun rouge, minces, plutôt serrées. Chapeau jaune, jaune d'ocre, brun ocre, 3-5 cm. Stipe alutacé pâle, presque  blanchâtre, parfois jaunissant, claviforme. Spores elliptico-oviformes, 7-9 x 5-6,6  µm . Sous conifères (et aussi sous bouleaux?). - Mos XXVI-151 . 3.11.7.3.10.4 $ Cortinarius amurceus Fr. ex Fr.  (= Cortinarius visitatus Britz.)
+
+cs3,0$*Clé 3.11.7.3.11: (Scauri) (page 519)  
+rem$ .11.7.3.11 Section Scauri Fr., sous-section Purpurascentes.  Stipe et lamelles violets ou verdâtres. Chair rouge vineux avec le lugol (ou d'autres réactifs iodés).
+1,2 $ Lamelles et stipe (et souvent aussi chair) se maculant de violet au frottement
+1,8 $ Pas ce caractère. Lamelles verdâtres, bleu vert, plus rarement violettes
+2,cs20 $ v(1) Carpophore bleu clair. Chair se colorant en rouge carmin. Réaction nulle au lugol $ Clé 3.11.7.4 (page 529)
+2,3 $ Pas ces caractères
+3,4 $ v(2) Chapeau avec des teintes bleues
+3,5 $ Chapeau avec des teintes ± brunes
+4,0 $ v(3) Chapeau 3-8 cm, souvent bleu violet (foncé) avec des teintes brunes avec l'âge,  avec des fibrilles innées. Stipe et lamelles bleu violet foncé. Spores 7-10 x 4-5 ?m.  Forêts de conifères et forêts mixtes. - Mos XXIII-134 . 3.11.7.3.11.1  $ Cortinarius occidentalis Smith var. obscurus Mos.
+4,0 $ Chapeau 2-4 cm, gris bleu avec des fibrilles brunâtres. Stipe gris bleu pâle, généralement claviforme. Spores 10-13 x 5,4-6,5 ?m. Sous bouleaux dans les forêts de  conifères. - Mos XXIII-135b, CM 8, 1, pl. 13 . 3.11.7.3.11.2 . $ Cortinarius subporphyropus Pilat
+4,0 $ Chapeau vert marine ou bleuâtre marine à gris lilacin, à marge souvent avec des  taches brun chocolat, 4-8 cm. Forêts humides et moussues d'épicéas. - Mos XXIII-  132 . 3.11.7.3.11.3.2 . $ Cortinarius purpurascens fm. lividus Mos.
+5,0 $ v(3) Dans les forêts acides de conifères. Chapeau brun foncé, brun de datte à brun  d'ombre, rarement avec des fibrilles innées, à marge parfois grise ou gris violacé.  Lamelles et stipe violets, bulbe nettement marginé dans la jeunesse. Spores 8-10  (11) x 4-5,5 ?m. - Mos XXIII-131a, Ri 36-3, Lge 82 A, (Bres. 619), (PSC III 10),  Ct 940 . 3.11.7.3.11.3.1 . $ Cortinarius purpurascens Fr.
+5,6 $ Sous feuillus (surtout hêtres et bouleaux)
+6,0 $ v(5) Stipe claviforme. Chapeau 4-7 cm, fauve clair, brun argilacé, brun jaune. Stipe  violet-bleuâtre argenté. Spores 8,5-10,5 x 5-6 ?m. Sous hêtres. - Cke 728 (731), Lge  87 B, Mos XXIII-136, Bres. 628, Ct 485 . 3.11.7.3.11.4 . $ Cortinarius porphyropus Fr.
+6,7 $ Stipe avec un bulbe ± arrondi
+7,0 $ v(6) Chair se colorant nettement en pourpre. Chapeau 5-12 (15) cm, brunâtre clair,  avec des fibrilles innées. Lamelles, chair et stipe violet lilacin. Spores 9-11 x 5-6  ?m. Sous feuillus.-Mos XXIII-131b, Cke 710 à 712 (723 à 725), Rg 61 . 3.11.7.3.11.3.3 . $ Cortinarius purpurascens var. largusoides Hry.
+7,8 $ *. Chair immuable. Chapeau brunâtre argilacé pâle, 3-7 cm. Lamelles et stipe violet  clair. Spores 8-10 x 4,5-5,5 ?m. Sous feuillus, surtout bouleaux. - Mos XXIII-133 .  3.11.7.3.11.5 Cortinarius subpurpurascens Fr.
+8,9 $. v(1) Lamelles olivâtres, verdâtres, bleu vert, parfois violettes près du stipe
+8,11 $. Lamelles violettes ou lilas
+9,0 $ v(8) Sous hêtres. Chapeau brun noisette, à marge gris vert avec des taches brun chocolat. Lamelles verdâtres à lilas ou violettes. Stipe violet, à sommet et bulbe un peu  Cortinarius (3. Phlegmacium) 521  verdâtres. Spores 9-11 x 5-5,5 ?m. - Mos XXIV-138 . 3.11.7.3.11.7.2 . .$ Cortinarius herpeticus var. fageticola Mos.
+9,10 $ Sous épicéas
+10,0 $ v(9) Surtout dans les hauts-marais parmi les sphaignes (ou dans les forêts d'épicéas  marécageuses). Chapeau 2-5 (7) cm, vert olive avec des taches brunes vers la marge  ou entièrement brun (marge souvent plus foncée). Lamelles et stipe verdâtre olive à  bleu verdâtre. En général grêle. Bulbe en général pas net. Spores 10-13 x 6,5-7,2  ?m. - Lge 84 B, Mos XXIII-137a, b . 3.11.7.3.11.6 $ Cortinarius scaurus Fr.
+10,0 $ Espèce des forêts acides d'épicéas (pas typique des stations marécageuses). Chapeau 3,5-8 cm, brun, fauve, à marge même verdâtre. Lamelles et stipe verdâtres,  bleu verdâtre (parfois sommet du stipe violet). Spores 9-10 (12,5) x 5-7 ?m. - Bres  625, Mos XXIV-139 . 3.11.7.3.11.7.1 . $ Cortinarius herpeticus Fr.
+11,0 $ v(8) Chapeau 5-8 cm, ocre brunâtre, à marge éventuellement plus foncée à brun  chocolat. Lamelles violettes à lilas. Stipe 5-6 cm x 12-15 mm (bulbe 20-25 mm).  Spores 10,5-12,3 x 5-6 ?m. Sous conifères. - Mos XXIV-140 . 3.11.7.3.11.7.3 $ Cortinarius herpeticus var. polychrous Hry.
+11,12 $ Chapeau avec des teintes brun olivacé ou vertes
+12,0 $ v(11) Chapeau 3-5 cm, brun à brun olivacé, à marge souvent verdâtre. Stipe violet à  base blanchâtre, 5-8 cm. Spores 10-13 x 5-5,8 ?m. - Mos XXVI-157 . 3.11.7.3.11.8 . $ Cortinarius subscaurus (Mos.) Mos.
+12,0 $ Chapeau 2,5-5 cm, caractéristiquement avec des nuances olivacées, mais aussi pouvant être vert  vif, sans fibrilles innées. Lamelles lilacines, gris lilacin à grises, même jaunâtres au voisinage du stipe.  Stipe 5,5-6 cm x 6-7 mm, bulbe jusqu'à 10 mm, bulbe faiblement marginé, sommet grisâtre ou jaune,  blanchâtre à ocracé vers le bas. Chair blanchâtre mais grisâtre par places. Spores 9-11 x 4,5-5 ?m.  Réaction brune de KOH sur le chapeau, réaction au lugol inconnue. Sous Quercus ilex en Europe du  Sud . 3.11.7.3.11.9 $ Cortinarius viridocoeruleus Chevassut & Hry.
+
+
+
+cs4,0$*$Clé 3.11.7.3.12: (Orichalcei) (page 521)
+
+rem $ .11.7.3.12 Section Scauri Fr., sous-section Orichalcei.  Espèces vivement colorées, jaunes, rouges, voisinant avec des teintes verdâtres ou violettes. Réactionvive aux bases: rouge, brun rouge, parfois verte. Stipe avec un bulbe marginé.
+1,2 $ Chair entièrement jaune vif ou jaune vert
+1,5 $ Chair centrale blanche, blanchâtre ou rose violacé
+2,3 $ (1) Chapeau, dans la plus grande partie, fauve vif ou brun cuivre
+2,22 $ Chapeau vert, vert noir ou jaune vif ou violet à brun pourpre (parfois maculé de  brun ou fauve au disque). Lamelles, stipe et chair vivement colorés en jaune de  chrome ou jaune soufre (si stipe et chair jaune verdâtre plus pâle et odeur légère-ment aromatique, voir 3.11.7.3.13.4 Cortinarius guttatus)
+3,0 $ (2) Odeur forte d'anis. Chapeau 4-10 cm, brun rouge cuivre, à marge gris vert, jaune verdâtre ou violacée. Lamelles et stipe jaune verdâtre à jaunes. Spores 9-13 x 5-7  522  Cortinarius (3. Phlegmacium)  µm . Sous conifères, surtout sur sol calcaire ou dolomitique. - Mos XXIV-142, Bres  622, PSC V 75, Ct 74 . 3.11.7.3.132.1* . $ Cortinarius odorifer Britz.
+3,4 $ Pas d'odeur d'anis. Stipe bleu vert ou avec des nuances pourpre lilacin
+4,0 $ (3) Chair du sommet du stipe vert bleuâtre et violette. Chapeau jaune vert à jaune, à  centre brun cuivre. Lamelles jaune olivacé, verdâtres. Stipe bleu vert, à bulbe plus  fibrilleux et jaune de chrome. Spores (8) 9-12 x (5) 6-7 µm . Dans les forêts de feuillus ou de conifères (avec des buissons). - Mos XXV-147 . 3.11.7.3.12.2 $ Cortinarius glaucescens (J. Schff. ap. Mos.) Mos.
+4,0 $ Chair uniformément jaune vif. Chapeau 3-9 cm, maculé de plus foncé sur fond brun alutacé lilacin,  brun rouille fauve pourpré ou brun vineux pourpré. Lamelles jaune moutarde, parfois avec un soupçon de lilas. Stipe 4-7 cm x 15-25 mm, bulbe jusqu'à 50 mm, gris violacé avec un reflet verdâtre, jaune sale, purpurin. Pas de réaction aux bases. Spores 8,7-10,8 x 5-6 µm . Sous Quercus ilex, en zone  méditerranéenne . 3.11.7.3.12.3 $ Cortinarius splendificus Chevassut & Hry.
+5,6 $ (1) Chapeau vert, brun fauve, rouge cuivre, marge souvent verte, vert jaunâtre, violette. Carpophore avec du vert ou du verdâtre en n'importe quelle partie (sur le chapeau, sur le stipe ou sur les lamelles)
+5,13 $ Chapeau jaune foncé et avec des teintes brun rouge fauve au centre, et des nuances verdâtres tout au moins sur le stipe. Réaction de la chair aux bases négative,  brune ou rouge
+6,7 $ (5) Lamelles vertes ou verdâtres. Chapeau vert, brun, rouge cuivre fauve; marge  verdâtre, grise, violette, jaune. Réaction aux bases souvent verte
+6,19 $ Lamelles jeunes ± jaunes (jaune verdâtre). Chapeau vert. Réaction de la chair aux  bases jamais verte
+7,8 $ (6) Stipe sans trace de violet ou de lilas
+7,12 $ Carpophore, en n'importe quelle partie, avec du violet ou du lilas. Chair réagissant  d'abord en vert aux bases
+8,9 $ (7) Chair d'abord verte au contact des bases, puis brune à rouge
+8,10 $ Chair pas tout de suite verte au contact des bases
+9,0 $ (8) Chapeau rouge sang, brun rouge, rouge cuivre, à marge gris vert, 7-8 cm. Lamelles jaunes, verdâtres, devenant olivacées dans la vieillesse. Stipe verdâtre, jaune  verdâtre. Chair blanche, verdâtre dans le cortex. Spores 12-13 x 6-7 µm . Forêts de  conifères ou forêts mixtes, forêts de feuillus, sur calcaire. - Ri 37-3, Cke 715 (754),  Mos XXIV-141 . 3.11.7.3.12.4 *$ Cortinarius orichalceus Fr.
+9,0 $ Carpophore entièrement vert herbe à vert poireau. Centre du chapeau brun ou maculé de brun ou fibrilleux. Chapeau 5-8 cm. Spores 10-12 x 6-7 µm . Sous conifères. - KM 124, Mos XXIV-143a. (Espèce dont la position nomenclaturale est peu claire) .3.11.7.3.12.5 . $ Cortinarius prasinus Fr. ss. Konr. & Maubl. cf Cortinarius (3. Phlegmacium) 523
+10,0 $ (8) Lamelles jaunes, jaune verdâtre. Chapeau rouge pourpre, jusqu'à violet, parfois  même grisâtre. Chair violette sous la cuticule. Stipe jaune d'or avec au sommet une  zone étroite rouge pourpre. Spores 10-13 x 6-6,5 µm . Sous feuillus. - Ri 37-1?, Rg  218 A . 3.11.7.3.12.6 $ Cortinarius xanthophyllus Cke
+10,11 $ Lamelles verdâtres
+11,0 $ (10) Chapeau 5-10 cm, fauve châtain, souvent avec des stries brunâtre ombre à la  marge qui est verdâtre. Lamelles et stipe caractéristiquement bleu vert, vert marine.  Chair pourpre noir avec KOH. Spores 11-13 x 6-7,5 µm . Sous conifères. - Mos  XXV-149 . 3.11.7.3.12.7 $ Cortinarius glaucoprasinus (Mos.) Mos.
+11,0 $ Chapeau 4-5 cm, verdâtre, à centre plus brun rouge cuivre. Lamelles jaune verdâtre. Stipe bleu verdâtre. Spores 8,5-11 x 4,5-6 µm . Stations herbeuses dans les forêts de feuillus. (Espèce éventuelle-  ment apparentée à Cortinarius herpeticus, mais la réaction au lugol n'est pas connue). (Position nomenclaturale incertaine) .3.11.7.3.12.8 $ Cortinarius prasinus Fr. ss. Lge
+12,0 $ (7) Chapeau à marge violet foncé, pourpre lilacin au sommet, pouvant dépasser 10  cm. Lamelles verdâtres (bleu violacé pour une variété). Stipe souvent violet dans la  prime jeunesse. Spores 11-14 x 7-8 µm . Dans les forêts de feuillus (avec Abies?) sur  calcaire. - Bres 623, Cke 758 (759), 1188 (1190), KM 123, Mos XXV-144 . 3.11.7.3.12.9.1 $ Cortinarius rufoolivaceus Fr.
+12,0 $ Marge du chapeau (et parfois chapeau entièrement) gris verdâtre pâle avec une  légère nuance violette dans la jeunesse, disque plus rouge cuivre vineux. Stipe souvent gris verdâtre ou violet pâle. - Mos XXV-145 . 3.11.7.3.12.9.2 $ Cortinarius rufoolivaceus var. pallidus Mos.
+13,14 $ (5) Carpophore avec des teintes jaune clair
+13,16 $ Carpophore avec des teintes jaune foncé vif (jaune de chrome), tout au moins à  la marge du chapeau et dans la jeunesse
+14,0 $ (13) Spores 13-15,5 µm  de longueur. Chapeau, lamelles et stipe jaune ocre mat,  jaune primevère clair. Chapeau 5-8 (10) cm. Stipe 5-10 cm x 10-15 mm, bulbe jusqu'à 25 mm. Chair blanchâtre, ocracée. Chair brune au contact des bases. Sous conifères. - Mos XXX-175a . 3.11.7.3.12.10 $ Cortinarius flavopallidus (Mos.) Mos.
+14,15 $ Spores atteignant au plus 13 µm  de longueur. Couleurs plus vives
+15,0 $ (14) Chapeau jaune de soufre, assez clair, parfois un peu maculé, 6-10 cm. Lamelles et stipe concolores en plus pâle. Cortine blanche à jaunâtre soufre. Spores 10-13  x 6-8 µm . Sous feuillus ou conifères. - Mos XXX-174 . 3.11.7.3.12.11 $ Cortinarius sulfurinus Quél.
+15,0 $ Chapeau d'ocre à jaune sulfurin-citrin pâle, à centre souvent ocre brunâtre à légèrement fauve, 3,5-8 cm. Lamelles jaune ligneux, puis jaune rouille. Stipe concolore  au chapeau. Chair blanchâtre ou jaunâtre pâle, plus jaune foncé dans le cortex. Spores 10-13 x 5-6 µm . Odeur de pomme de terre crue, de sueur de pied ou rarement  nulle. Sous feuillus sur calcaire. - Mos XXX-176a, b, Rg 216 B, BSMF 92, atl.201 . 3.11.7.3.12.12 $ Cortinarius claroflavus Hry.
+16,0 $ (13) Espèce des forêts de conifères. Chapeau généralement jaune vif à la marge,  fauve vers le sommet, 3-10 cm, mais petit en général. Lamelles et stipe jaune de  chrome ou jaune verdâtre. Cuticule et lamelles brun rouge à rouge sang au contact  des bases. Spores 9-13 x 4,5-6 m. - Mos XXX-175, Ct 476 . 3.11.7.3.12.13 $ Cortinarius aureofulvus Mos.
+16,17 $ Espèces des forêts de feuillus (ou poussant aussi sous cèdres)
+17,0 $ (16) Spores 10-12 (13) x 6,5-6,6 µm . Chapeau 6-8 cm, jaune vif, puis jaune orange, jaune safran,  maculé de plus foncé, finalement rougeâtre fauve, à marge restant jaune. Lamelles jaunes, puis jaune  orange rougeâtre. Stipe 6-8 cm x 20-40 mm, avec un bulbe marginé, fragile, pâle au sommet, jaune  plus vif dans le bas, jaune rougeâtre dans la vieillesse, rose orange au frottement. Chair blanchâtre  dans le chapeau, jaune dans le cortex et dans le stipe. Chapeau devenant rouge au contact des bases  et chair rose à brun lilacin. Odeur de pomme de terre crue, puis fruitée. Sous feuillus . 3.11.7.3.12.14 $ Cortinarius olearioides Hry.
+17,18 $ Spores 11-14 (16) µm . Carpophore généralement plus grand
+18,0 $ (17) Chapeau 4-12 cm, jaune de chrome vif, devenant fauve vif à partir du sommet, brun rouge à rouge sang au contact des bases. Lamelles d'abord jaunes, puis  brun rouille. Stipe jaune plus pâle, souvent très robuste, 6-12 cm x 10-25 mm, bulbe jusqu'à 40 mm. Chair du sommet du stipe parfois avec une légère nuance bleuâtre-violet. Cortine jaune vert. Spores 12-15,5 (16) x 7-8 (9) µm , citriformes. Sous  hêtres. - Mos XXX-173a, b, Ri 38-1, Lge 84 C, BSMF 51 pl. II-4, Ct 477 . 3.11.7.3.12.15 $ Cortinarius auroturbinatus (Secr.) Lge  (= Cortinarius aurantioturbinatus Lge = Cortinarius sulfurinus Ricken)
+18,0 $ Ressemble au précédent. Chapeau 6-15 cm, jaune, rouge cuivre au centre. Sommet du stipe bleuâtre. Chair violette, lilas bleuâtre dans le chapeau et dans le stipe.  Spores 11-14 x 6,5-8 µm . Sous feuillus (même sous cèdres en Afrique du Nord). -  BSMF 30, pl. 2, Rg 217 . 3.11.7.3.12.16 $ Cortinarius cedretorum R. Mre.
+19,20 $ (6) Odeur jamais farineuse (même à la coupe à l'état frais). Spores dépassant 10  µm  de longueur
+19,21 $ Odeur farineuse tout au moins à la coupe et à l'état frais. Spores en général 9-11  (13) µm 
+20,0 $ (19) Spores 13-15 x 7,5-8,2 µm , grossièrement verruqueuses, subcitriformes. Chapeau 5-8 cm, jaune olivacé et avec des fibrilles innées brun olivacé, parfois maculé.  Lamelles jaunes (avec un soupçon d'olivâtre). Stipe jaune citron, à bulbe abruptement marginé, 5-8 cm x 8-12 mm, bulbe jusqu'à 25 mm. Chair blanchâtre au centre,  ailleurs jaunâtre citron. (Odeur éventuellement d'herbe ou de pâtisserie) Sous feuillus sur sol calcaire. - BSMF 82, pl. 4 . 3.11.7.3.12.17 $ Cortinarius xanthochlorus Hry. (n. subnud.)
+20,0 $ Spores (8,8) 10-12,5 x 6-7 µm , verruqueuses, amygdaliformes. Chapeau 7-9 cm,  jaune verdâtre olive, à centre fauve brunâtre, avec des ponctuations brun foncé. Lamelles jaune verdâtre, avec un soupçon de lilas aux extrémités. Stipe jaune verdâtre,  à sommet gris bleuâtre, bulbe marginé se colorant en brun rouge. Chair blanchâtre  dans le centre, jaune à jaune olivacé dans le cortex, violacée dans le sommet du stipe. Sous feuillus?. - BSMF 92, atl. 202 . 3.11.7.3.12.18 $ Cortinarius prasinocyaneus Hry.
+21,0 $ (19) Chapeau maculé et avec des fibrilles innées brun foncé sur fond vert cuivré,  et paraissant ainsi vert foncé, 5-8 cm. Lamelles jaune verdâtre, puis brun rouille.  Stipe jaune cuivre, 6-8 cm x 10-12 mm, bulbe jusqu'à 20 mm et plus. Odeur farineuse. Spores 9-11 (13) x 5-6 µm . Sous feuillus sur sol calcaire. - Mos XXVIII-165,  BSMF 76, atl. 121, BSMF 92, atl. 203 . 3.11.7.3.12.19 $ Cortinarius flavovirens Hry.
+21,0 $ Chapeau jaune citron et surnuancé d'olivacé, un peu brunâtre rouille au centre, 5-  7 cm. Lamelles d'abord jaunes, puis brun rouille-jaune olivacé. Stipe 5-7 cm x 10-12  mm (bulbe 25 mm), jaune citron. Odeur fruitée. Spores 9,5-11 x 4,5-5,5 µm . Sous  feuillus sur sol calcaire ou dolomitique. - Boud V 107, Mos XXV-148, BSMF 76,  atl. 119 . 3.11.7.3.12.20 $ Cortinarius odoratus (Joguet ex Mos.) Mos.
+22,23 $ (2) Lamelles jaune verdâtre à olivâtres
+22,24 $ Lamelles jeunes nettement jaune de chrome à jaune citron ou lilas
+23,0 $ (22) Chapeau vert olive foncé, surtout à la marge, jaune vert, à centre brun olivacé, avec des fibrilles innées, parfois maculé, 4-8 cm. Stipe plus fortement jaune  vert. Odeur nulle ou de pâtiseerie. Spores (8) 9-10 x 5-6 µm . Sous hêtres sur sol calcaire. - Lge 85 B, Mos XXIX-167b, c . 3.11.7.3.12.21 $ Cortinarius pseudosulphureus Hry. ex Orton
+23,0 $ Plus grêle. Chapeau n'atteignant que 5 cm, en général verdâtre, jaunâtre citron.  Stipe 5-10 mm de diamètre. Spores 8-9 x 4,5-5 µm . Sous feuillus. - Lge 84 E, Mos  XXIX-168 . 3.11.7.3.12.22 $ Cortinarius citrinus Lge ex Orton
+24,25 $ (22) Chapeau vert noir foncé, avec des fibrilles innées, 4-10 cm (comparer aussi  avec 3.11.7.3.12.20 Cortinarius odoratus)
+24,26 $ Chapeau ± jaune (avec des nuances brunes)
+25,0 $ (24) Lamelles et stipe jaune de chrome vif. Spores 9-11 (12) x 5-6 µm . Associé  aux sapins sur sol calcaire. - Bres. 624, KM 125, Mos XXV-146a, b, Dh 440 . 3.11.7.3.12.23 $ Cortinarius atrovirens Kalchbr.
+25,0 $ Lamelles lilas dans la jeunesse. Spores 10-11 (12) x 5,2-6 µm . Sous feuillus, sur-  tout sous chênes . 3.11.7.3.12.26 $ Cortinarius ionochlorus R. Mre.
+26,0 $ (24) Espèce des forêts de conifères. Odeur désagréable (pâtisserie + Tricholoma  sulphureum). Chapeau 5-9 cm, jaune de chrome à jaune de soufre, souvent avec des  taches ou des stries brun fauve à brun d'ombre, brun olivacé. Lamelles, stipe et chair  concolores. Chair brun rouge à brun noir au contact des bases. Spores 10-11 x 5-6  µm . - Mos XXIX-169, MP 138, Ct 945 . 3.11.7.3.12.24 ? .$ Cortinarius vitellinus Mos.  (= Cortinarius majusculus Kühn.)
+26,0 $ Espèces des forêts de feuillus (exceptionnellement des forêts de conifères). Chapeau dépassant à peine 6 cm, jaune d'or, sommet généralement maculé de brun  pourpre ou de brun rouille, réaction olive à brun olivacé aux bases. Lamelles, stipe  et chair jaune d'or à légèrement jaune citron. Spores 9-12 x 5,5-7 µm . - BSMF 52,  pl. II-1, Mos XXIX-170, Rg 218 B . 3.11.7.3.12.25  $ Cortinarius splendens Hry.
+
+
+cs5,0$Clé 3.11.7.3.13: (Percomes) (page 526)
+rem $ 3.11.7.3.13 Section Scauri Fr., sous-section Percomes  Chapeau, stipe, lamelles et chair jaunes, verdâtres, chapeau parfois même brun jaune à brun d'ombre, lamelles exceptionnellement argilacées. Stipe claviforme, plus rarement bulbeux. Voile jaune ou brunviolet.
+1,2 $ Voile à la base du stipe en général brun ou brun violet (parfois seulement sous forme de traces)
+1,3 $ Voile jaune (souvent à peine ou pas du tout discernable) et brunissant souvent à la  pression
+2,0 $ (1) Lamelles argilacées, pâles. Chapeau jaune vert, avec des fibrilles innées brun  olivacé partant du sommet, presqu'entièrement brun olivacé dans la vieillesse, 3,5-  6,5 cm. Stipe claviforme, parfois à bulbe presque marginé, vert, jaune vert. Chair  blanchâtre à verdâtre. Spores 10-12 (15) x 6-7 (8) µm . Dans les forêts de conifères.  - Mos XXVII-163a, b . 3.11.7.3.13.1 $ Cortinarius citrinoolivaceus Mos.
+2,0 $ Lamelles verdâtres, stipe et chair également. Chapeau brun jaune à brun d'ombre.  Odeur nulle ou de pomme. Spores 12-14 x 6-7,5 µm . Sous hêtres, plus rarement  sous conifères (semblerait aussi présenter un voile violet à brun). - (KM 135),  BSMF 27, pl. 15, Mos XXVII-161. (Chapeau avec plus de jaune et odeur parfois  aromatique: var. percomium Hry. - Ri 42-4, Mos XXVII-162) .3.11.7.3.13.2 *$ Cortinarius nanceiensis R. Mre.
+3,0 $ (2) Carpophore très grand et très robuste. Chapeau 5-12 cm, jaune citron, à centre  brun jaune à brun ocre clair, maculé par places. Lamelles jaune citron. Stipe ± claviforme à ventru, 7-10 cm x 15-40 cm, jaune citron, à base blanchâtre. Chair jaune citron, devenant vert foncé puis brun d'ombre avec KOH . Odeur de terre ou de maïs,  et même avec une composante fruitée ou aromatique. Spores 11,5-12,5 x 6,3-7 µm . Sous conifères . 3.11.7.3.13.3 *$ Cortinarius superbus A. H. Smith
+3,4 $ Carpophore moins robuste, plus fluet
+4,5 $ (3) Odeur agréable, de marjolaine ou épicée ou nulle
+4,6 $ Odeur désagréable, de terre, souvent très forte
+5,0 $ (4) Stipe généralement avec un bulbe marginé. Chapeau 3-8 cm, jaune vert à brun  argilacé, ombre, brun olivacé, maculé de brun rouge ou avec des fibrilless innées.  Lamelles, stipe et chair verdâtres à jaune verdâtre. Odeur nulle ou faible de marjolaine. Spores 12-15 x 6,5-7 µm . Sous conifères. - Mos XXVII-159 . 3.11.7.3.13.4 *$ Cortinarius guttatus Hry.
+5,0 $ Stipe claviforme ou cylindrique. Chapeau brun pain à fauve, 4-8 cm. Lamelles,  stipe et chair jaune citron vif. Lamelles brunâtre olivacé dans la vieillesse. Spores  10-13 x 5-6,5 µm . Odeur fortement aromatique (marjolaine). Sous conifères sur sol  calcaire ou dolomitique. - Fr. 143-2, KM 134, Mos XXVII-158, Bres. 706, Ct 475 . 3.11.7.3.13.5 *$ Cortinarius percomis Fr.
+6,0 $ (4) Spores 10-12 x 5,5-7 (8) µm . Chapeau verdâtre à brunâtre, souvent maculé, rarement un peu jaunâtre. Lamelles, stipe et chair jaune verdâtre. Chair vert olive ou  brun olivacé avec KOH. Sous conifères, plus rarement sous feuillus. - Bres 608,  Mos XXVII-160. (Voir aussi 3.11.7.3.13.2 Cortinarius nanceiensis) .3.11.7.3.13.6 $ Cortinarius russeoides Mos.
+6,0 $ Spores 12-15 x 7-8 µm . Chapeau rouge cuivre ou brunâtre cuivré; plus jaunâtre ou  brunâtre olivacé vers la marge. Lamelles jaune de soufre, puis ocre cannelle à olive.  Stipe jaune. Chair jaune de soufre, brunissant dans la base du stipe. Cortine blanchâtre (?). Sous conifères mêlés à des feuillus. - BSM 25, 9, BSMF 60, atl. Mos  XXVII-160a . 3.11.7.3.13.7 $ Cortinarius russeus Hry.
+
+
+
+
+cs6,0$Clé 3.11.7.3.14: (Fulvi) (page 527) 
+rem$ .11.7.3.14 Section Fulvi Mos.Espèces généralement robustes, avec des teintes jaunes, brun jaune, brun orange ou brun olivacé. Spo-res généralement grandes et bien ornementées.
+1,8 $ Lamelles jeunes jaune orange, brun jaune à fauves. Espèces très robustes, souvent à  stipe épais. Chapeau orange à bronze. Sous feuillus. v(Si sous conifères, comparer  avec 3.11.7.3.2.2 Cortinarius fulminoides)
+1,2 $ Lamelles jeunes d'une couleur différente
+2,0 $ v(1) Chapeau 6-12 cm, verdâtre olive, avec des fibrilles innées plus foncées, parfois  uniformément brun. Lamelles jaune de cire pâle dans la jeunesse, puis bois olivacé,  finalement ± jaune rouille. Stipe jaune verdâtre pâle, 5-8 cm x 10-25 mm, bulbe jus-  qu'à 45 mm. Chair crème verdâtre pâle. Spores 10-11,5 x 5-5,5 ?m. Dans les forêts  mêlées sur calcaire. - Mos XXVIII-164  3.11.7.3.14.1 $ Cortinarius olivellus Hry.
+2,3 $ Carpophore coloré autrement
+3,cs12 $ v(2) Stipe entièrement blanchâtre, lilas, violet ou au sommet seulement de cette couleur. Lamelles blanchâtres, argilacées, jaunâtre cire $ Clé 3.11.7.3.7 (page 507)
+3,4 $ Stipe toujours ocracé, jaunâtre, brun jaune, cuivré. Spores citriformes
+4,0 $ v(3) Base du stipe marginée-tronquée mais pas bulbeuse; stipe épais et compact, 4-6  cm x 30-55 mm, souvent annelé-guêtré. Chapeau 5-8,5 cm, jaune d'ocre foncé à  brun jaune. Lamelles jaunâtre argilacé, ocre-olivâtre. Chair blanche ou blanchâtre.  NH3 rose sur la chair et sur les lamelles. Spores 12-14 x 5-9 ?m. Forêts de conifères  et forêts mixtes, sur calcaire. - Mos XXXI-178 3.11.7.3.14.2.2 $ Cortinarius elegantior Fr. var. eduliformis Mos.
+4,5 $ Stipe avec un bulbe nettement marginé
+5,6 $ v(4) Spores 10-12 (13) ?m de longueur
+5,7 $ Spores 12-15 (16) ?m de longueur
+6,0 $ v(5) Chapeau 8-10 cm, brun doré, brun bronzé, marron, avec des fibrilles innées. Stipe ocracé paille, souvent très compact et court, 3,5-7 cm x 18-25 mm, bulbe 40 mm.  Spores citriformes, 10-13 x 7-7,5 ?m. Chair rose à pourpre avec NH3. Dans les forêts mixtes . 3.11.7.3.14.3 $ Cortinarius cereifolius    (Mos.) Mos.
+6,0 $ Chapeau avec des fibrilles innées brunâtres à brunâtre olivacé sur fond jaunâtre  paille, 5-7 cm. Lamelles ocre jaunâtre. Stipe 5-7 cm x 10-12 mm, bulbe jusqu'à 25  mm, jaunâtre paille. Spores 10-12 x 6-6,5 ?m. NH3 rose sur la chair de la base du  stipe à l'état jeune. Sous conifères. v(Si lamelles argilacées, voir  .11.7.3.2.9 Cortinarius elegantulus) .3.11.7.3.14.4 $ Cortinarius personatus Mos.  (= Phlegmacium velenovskyi Mos. in Gattung Phlegm. page 361, 1960, non Hry)
+7,0 $ v(5) Espèce des forêts e conifères surtout montagnardes. Chapeau jaune, jaune olivacé, brun olivacé à presque marron-brun fauve orangé, souvent avec des fibrilles  innées, 4-12 cm, sommet souvent avec des restes du voile. Lamelles jaune de cire,  brunâtre olivacé. Stipe généralement jaunâtre paille pâle, 5-12 cm x 15-25 mm, bulbe jusqu'à 40 mm, parfois avec un ourlet formant volve. Chair jaunâtre paille, parfois rougeâtre rhubarbe dans la base, réaction rose à NH3. Spores 12-16 x 6-9 ?m,  citriformes. - KM 121 (?), Mos XXXI-177, (MP 138?), Ct 76? .3.11.7.3.14.2.1 *$ Cortinarius elegantior Fr.  (= Cortinarius pelnitocephalus Hry.)
+7,0 $ Espèce des forêts de feuillus. Chapeau jaune, puis ocre olivacé. Chair blanc jaunâtre. Réaction négative de NH3 sur la chair. Spores 14-15,5 x 7,7-8,8 ?m . 3.11.7.3.14.5 . $ Cortinarius subelegantior Hry.
+8,9 $ v(1) Spores à longueur inférieure à 12 ?m (8-12 ?m de longueur)
+8,10 $ Spores ayant tout au moins 11-13 ?m de longueur ou plus grandes
+9,0 $ Spores amygdaliformes, faiblement verruqueuses, (8,5) 9-10 (10,5) x 5-6 ?m, cuticule jaune de chrome, centre fauve, fauve ocre; centre d'abord avec des squamules  marron, puis chapeau entièrement ± marron. Stipe pâle, puis jaunâtre à fauve, 4-7  cm x 13-22 mm, bulbe jusquà 45 mm, souvent presque étiré en une pseudo-racine.    Chair jaune de soufre dans le stipe, plus pâle dans le chapeau. Sous hêtres. - Ri 383,  Bres 521, KM 120, Mos XXIX-172 . 3.11.7.3.14.6 $ Cortinarius fulmineus Fr.
+9,0 $ Spores légèrement citriformes, fortement verruqueuses, 9-11 x 5-6 ?m. Chapeau  6-15 cm, jaune orange doré, vite ± fauve orange, marge généralement d'un jaune  plus vif, centre avec des petits flocons (voile). Lamelles jaunâtre chrome, vite ocre  brunâtre à rouille. Stipe court, 3,5-7,5 cm x 12-30 mm, bulbe 45 mm, blanchâtre au  sommet dans la jeunesse, ailleurs jaunâtre à ocre clair. Chair ocre pâle, jaunâtre.  Stations herbeuses dans les hêtraies. - Lge 83 D, Cke 716, Mos XXIX-171, Ct 479 ..  3.11.7.3.14.7 $ Cortinarius subfulgens (Orton)  (= Cortinarius fulgens ss. Lge)
+10,0 $ v(8) Spores amygdaliformes, 11-13 x 6-7,7 ?m (sporée B 8). Chapeau jaune orange, brun orange, avec des fibrilles innées, puis entièrement ± brun, 6-17 cm, parfois  avec des restes blanchâtres du voile, parfois avec des guttules brunâtres. Lamelles  jaune orange foncé, jaune safran, brun rouille orange. Stipe jaune orange, puis brun,  5-9 cm x 15-30 mm, bulbe 40 mm. Chair jeune jaune de chrome citron. Stations  herbeuses des hêtraies calcaires . 3.11.7.3.14.8 $ Cortinarius eufulmineus Hry.
+10,0 $ Spores ± citriformes, 15,4-17,5 x 8,8 ?m, grossièrement verruqueuses. Chapeau  remarquablement bronze, brun bronze-jaune rougeâtre, 5-7 cm. Lamelles jaunes,  puis jaune rougeâtre. Stipe jaune d'or. Chair jaune blanchâtre dans le chapeau, jaune  dans le stipe  3.11.7.3.14.9 $ Cortinarius aereus Hry.
+
+
+
+cs7,0$Clé 3.11.7.3.2: (Vespertini) (page 492) 
+1,0$Clé 3.11.7.3.2: (Vespertini) (page 492)
+
+??????????
+
+
+
+cs8,0$.$Clé 3.11.7.3.3: (Phlegmacium p.p.) (page 497)
+rem $ 3.11.7.3.3 Section Phlegmacium sous-section Phlegmacium     Lamelles argilacées. Stipe généralement claviforme, rarement avec un bulbe marginé. Voile fortement prononcé sur le stipe, blanc, rarement violet.
+1,0 $ Spores presque rondes, 8-9 x 6-8 µm . Chapeau jaune à jaune léonin, centre parfois  fauve, 5-12 cm. Lamelles argilacées, jaunâtre paille. Stipe blanchâtre, villeux, jaunâtre sur le tard, 7-12 cm x 10-30 mm. Sous conifères. - Cke 703 (695), Mos V-28 . .3.11.7.3.3.1 * $ Cortinarius saginus (Fr.) Fr.
+1,2 $ Spores fusiformes ou amygdaliformes à citriformes
+2,3 $ (1) Spores ± étroitement fusiformes, souvent seulement ponctuées, jusqu'à 11 µm .  Chapeau brun jaune à brun fauve. Stipe blanc, parfois avec un voile ou du mycélium violets
+rem$2,10 $ Spores ± amygdaliformes à citriformes, assez grossièrement verruqueuses, en général dépassant 11 µm . Chapeau ocre, brun chair ou brun (parfois avec une légère  nuance lilas dans la jeunesse). Stipe jeune ± fortement villeux
+2,cs25 $ Spores ± amygdaliformes à citriformes, assez grossièrement verruqueuses, en général dépassant 11 µm . Chapeau ocre, brun chair ou brun (parfois avec une légère  nuance lilas dans la jeunesse). Stipe jeune ± fortement villeux
+
+3,4 $ (2) Chapeau soyeux, blanc, parfois un peu villeux, souvent avec un voile ou du mycélium violets. Stipe relativement grêle
+3,7 $ Stipe blanc, ± fortement villeux (voile blanc) dans le jeunesse
+4,5 $ (3) Stipe sans traces de voile violet ou de mycélium violet à la base
+4,6 $ Stipe avec des traces de mycélium violet à la base ou avec un voile violet. (Voir  aussi 3.11.7.3.3.3 Cortinarius corruscans)
+5,0 $ (4) Chapeau jaune d'ocre, ocre pâle, un peu fauve au centre, à marge parfois soyeuse et blanche, souvent légèrement pruineux, 5-10 cm. Stipe soyeux, glabre, cylindrique ou légèrement claviforme. Spores 7-9 x 3,5-4 µm . Sous feuillus ou conifères. -  Cke 847, Fr. 143-1, Mos V-25, Ct 463, Dh 421 . 3.11.7.3.3.2 *. $ Cortinarius sebaceus Fr.  (= Cortinarius sericellus Mos. = Cortinarius turmalis auct. p.p.)
+5,0 $ Chapeau maculé-marbré par des taches aqueuses, surtout dans la zone marginale,  et même aussi par un voile blanc abondant, 3-8 (10) cm. Lamelles pâles. Stipe blanc  et soyeux et souvent fortement guêtré-villeux. Base du stipe parfois avec des traces  d'un mycélium violet. Spores fusiformes, 8,8-12,3 x 3,5-4 µm . Dans la mousse des  forêts d'épicéas (rarement de feuillus). - Mos V-24 . 3.11.7.3.3.3 *$ Cortinarius corruscans Fr.
+6,0 $ (4) Chapeau brun rouge fauve foncé, avec des fibrilles innées, pruineux avec un reflet un peu violet, tout au moins à la marge, 2-7 cm. Lamelles blanchâtres, puis brun  ocre clair. Stipe blanc, avec des restes violets d'un voile parfois presque laineux,  parfois guirlandé, à base ventrues mais rarement avec un bulbe marginé. Spores 6-8  (9) x 3,5-4 µm . Sous feuillus ou conifères. - Mos V-27 . 3.11.7.3.3.4 *$ Cortinarius roseolimbatus (Secr.) J. Schff.  (= Cortinarius fulvidolilaceus Orton?)
+6,0 $ Chapeau ocre brunâtre à brunâtre brique, avec des fibrilles innées, 4-8 cm. Stipe  blanchâtre, puis ocre, soyeux, 10-20 mm de diamètre, à base chaussée par un voile  violet (avec un bulbe marginé: var. marginatus Bres.). Spores 7,5-10 x 3,5-4 µm .  Sous conifères. - Bres 613 & 614, FT 62 & 63, Mos V-26, Ct 941, Dh 422 . 3.11.7.3.3.5 * $ Cortinarius variegatus Bres.
+7,0 $ (3) Chapeau avec des teintes jaune vif, tout au moins à la marge, parfois fauve au  centre, à marge ridée dans la vieillesse, 5-10 (15) cm, marge épaissement recouverte par le voile dans la jeunesse. Stipe guêtré-villeux, 6,5-14 cm x 12-25 (37) mm.  Cortinarius (3. Phlegmacium) 499  Spores 8-9,5 x 4-4,5 µm , fusiformes (fig. 307). Sous épicéas. - Cke 683 (693), Fr.  141-2, Mos V-31, Ct 466, Md 646 . 3.11.7.3.3.6 * $ Cortinarius claricolor Fr.
+7,CS24 $ Chapeau avec une prédominance de teintes brun orange à fauves
+
+cesure ?
+
+cs24,0$ cesure cs8
+
+rem$8,0 $ (7) Lamelles jeunes bleuâtre pâle, gris bleu, puis argilacées. Chapeau fauve, à marge ridée. Stipe cylindrique ou atténué à la base, profondément enfoncé dans le sol.  Spores 7,5-10,5 x 3,7-5,1 µm . Sous conifères. - BSM 29, 11, Md 647 . 3.11.7.3.3.6.2 *$ Cortinarius claricolor var. immissus (Schlapfer)  (= Cortinarius subaffinis R. Hry.)
+rem$8,9 $ Lamelles argilacées à brunâtre rouille
+
+
+1,0 $ (7) Lamelles jeunes bleuâtre pâle, gris bleu, puis argilacées. Chapeau fauve, à marge ridée. Stipe cylindrique ou atténué à la base, profondément enfoncé dans le sol.  Spores 7,5-10,5 x 3,7-5,1 µm . Sous conifères. - BSM 29, 11, Md 647 . 3.11.7.3.3.6.2 *$ Cortinarius claricolor var. immissus (Schlapfer)  (= Cortinarius subaffinis R. Hry.)
+1,9 $ Lamelles argilacées à brunâtre rouille
+9,0 $ (8) Lamelles pâles, modérément serrées et pas remarquablement étroites. Chapeau  fauve vif à brun orange, plus vieux devenant même jaunâtre ou jaune orange, à mar-ge restant longtemps enroulée, à sommet pruineux, 5-10 cm. Stipe cylindrique ou  atténué à la base (même cespiteux), recouvert par un voile blanc dans la jeunesse,  villeux, très compact. Spores 8-10 (12) 3-5 µm . Sous conifères. - Bres. 602, Ri 43-6, Cke 684 (694), Mos VI-30, Rg 221, Md 648 . 3.11.7.3.3.6.3 *$ Cortinarius claricolor var. turmalis (Fr.)
+9,0 $ Lamelles remarquablement étroites et serrées, argilacées puis rouille. Chapeau  jaune d'ocre mat à brun rouge, pruineux-soyeux-blanc, 5-8 cm. Stipe avec plusieurs  ceintures villeuses blanches. Spores presque citriformes, 7-9 x 3,5-4 µm . Sous conifères. - Bres. 601, Mos IV-21 . 3.11.7.3.3.7 $ Cortinarius subclaricolor (Mos.) Mos.  (= Cortinarius claricolor ss. Bres.)
+
+
+cs25,0$cesure cs8/2
+
+rem$10,11 $ (2) Espèces des forêts de feuillus. Lamelles argilacées, ocre ou violettes
+rem$10,16 $ Espèces des forêts de conifères
+1,11 $ (2) Espèces des forêts de feuillus. Lamelles argilacées, ocre ou violettes
+1,16 $ Espèces des forêts de conifères
+
+
+cesure ?
+
+11,12 $ (10) Lamelles jeunes lilas, lilas violacé ou tout au moins grisâtres (voir Cortinarius herculeus, numéro 18 de cette clé)
+11,14 $ Lamelles jeunes argilacées, ocre pâle ou brunes
+12,0 $ (11) Sous hêtres ou charmes. Chapeau brunâtre chair à fauve, marge souvent brunâtre chair sale ou blanchâtre (voile). Lamelles lilas, lilas violacé ou grisâtres, plus  tard brunâtre rouille. Stipe guêtré, brunâtre chair ou blanchâtre sale. Chair jaunissant un peu. Odeur de moisi ou caséeuse. Spores 11-14 x 7-8 µm . - Mos IX-46, Sydowia 17 pl.16 (bas), Ct 946, Md 650 . 3.11.7.3.3.8 $ Cortinarius vulpinus (Vel.) Hry  (= Cortinarius rufoalbus Kühn. = Cortinarius pictum Ricek p.p.)
+12,13 $ Sous chênes en zone méditerranéenne. Chair sans réaction à KOH (ou réaction  faiblement brunâtre)
+13,0 $ (12) Chapeau 2-10 cm, ocre alutacé paille à ocre rouille, avec des fibrilles innées. Lamelles lilas, arête violette. Stipe 4-13 cm x 6-25 mm, à base atténuée ou fusiforme, blanchâtre, fauve à marron clair  500 Cortinarius (3. Phlegmacium)  dans le bas, avec des zones (voile) ± complètes ocre à brunes ou jaunâtres. Spores 10-12 x 5,7-6,4  µm . - Md 651 . 3.11.7.3.3.9 $ Cortinarius caligatus Mal.
+13,0 $ Chapeau 2,5-8,5 cm, convexe à plat, vite sec, délicatement gris lilacin quand jeune, très vite devenant argilacé à brun, avec des fibrilles innées, à marge longtemps couverte par un voile blanc puis  ocre. Lamelles violet lilacin, puis brunes, serrées. Stipe 7-10 cm x 7-20 mm, base 12-30 mm, claviforme, avec des zones blanches à ocre (voile). Spores 11-13,5 x 6-7,5 µm . - Mal. I, 22 . 3.11.7.3.3.10 $ Cortinarius crustulinus Mal.
+14,0 $ (11) Chapeau marron (couleur rappelant celle de Tricholoma ustale ou de Tricholoma flavobrunneum), rarement fauve, marge souvent couverte par un voile blanc.  Lamelles argilacées dans la jeunesse, puis ocre. Stipe guêtré par le voile blanc. Spores 10-13 x 6-7 (7,5) µm . Sous hêtres. - Mos IX 45 & 47, Md 652 . 3.11.7.3.3.11 $ Cortinarius fluryi (Mos.) Mos.
+14,15 $ Chapeau avec des teintes ocre clair à ocre brunâtre
+15,0 $ (14) Chair devenant ± rougeâtre vineux. Chapeau 5-12 cm, ocre, ocre argilacé, ocre brunâtre à ocre rouille, recouvert par un voile blanc dans la jeunesse. Lamelles  argilacées, puis brun ocre à brun argilacé, modérément serrées. Stipe 7-16 cm x 8-20 mm, guêtré ou ceinturé par un voile blanc puis ocre. Odeur de moisi, un peu de  maïs. Spores 10,5-13,5 x 6,5-7,5 µm . Sous feuillus (chênes, peupliers) .3.11.7.3.3.12 $ Cortinarius paracephalixus Bohus
+15,0 $ Chair ne rougissant pas. Chapeau remarquablement ocre clair, ocre crème, fortement glutineux dans la jeunesse, 4-7 cm. Lamelles incarnat pâle, puis incarnat-brun  gris. Voile blanc dans la jeunesse, se colorant vite en brun ocre et formant sur le stipe une zone annulaire ou des flocons. Spores 7,5-11 (12) x 5-6,6 µm . Sous hêtres ou  chênes. - BSMF 79, atl. 139 . 3.11.7.3.3.13 $ Cortinarius aremoricus Lebeurier et Hry
+16,17 $ (10) Lamelles épaisses (et souvent espacées)
+16,18 $ Lamelles plus minces et souvent ± serrées
+17,0 $ (16) Stipe cylindrique ou claviforme, guêtré ceinturé de blanc dans la jeunesse.  Chapeau ocre à fauve et parsemé de petites taches blanches, avec des fibrilles innées, parfois sec dès le début. Lamelles ocre clair, épaisses, espacées. Chair rougissant parfois. Odeur douceâtre, de pâtisserie. Spores 10-14 x 6-8 µm . Surtout sous épicéas. - Mos IX-43a & 43b . 3.11.7.3.3.14 $ Cortinarius fraudulosus Britz.  (= Phlegmacium pictum Ricek p.p.)
+17,0 $ Stipe robuste, à base généralement atténuée et radicante, jusqu'à 10,5 cm x 50  mm!, ocre-beige, chamois, brun café au lait. Lamelles serrées. Spores 12-15,5 x 7,5-8,5 µm . Au voisinage des fourmilières dans les forêts de conifères. Mos X-48 . 3.11.7.3.2.15 $ Cortinarius affinis Allescher
+18,0 $ (16) Voile blanc, rarement violet, puis ocre ou jaunâtre, formant une ceinture incomplète. Chapeau 4-10 (15) cm, brun pain, brun rouge et marbré de blanchâtre,  Cortinarius (3. Phlegmacium) 501  parfois brun sale, parfois pruineux ou avec des restes du voile. Lamelles gris blanchâtre, relativement étroites, modérément serrées. Stipe 5-15 cm x 15-50 mm. Chair  rougissant, jaune avec KOH. Odeur forte, de terre, de maïs. Spores 11-13,5 x 5,5-7,2  µm . - Sous cèdres, en zone méditerranéenne. - Mal I 25, BSMF 84, atl. 177, Md  653 . 3.11.7.3.3.16 $ Cortinarius herculeus Mal.
+18,19 $ Voile restant ± blanc. Pas sous cèdres
+19,0 $ (18) Comme Cortinarius fraudulosus, en général un peu plus ocre clair et plus  grêle. Lamelles minces et serrées. Odeur de terre. Spores amygdaliformes, verruqueuses, 11-15,5 (16) x 7-8 µm . - BSM 35, 8, Mos IX-44 . 3.11.7.3.3.17 $ Cortinarius fraudulosus Britz. var. tenuifolius W. Gams & Mos.
+19,0 $ Chapeau 5,5-13 cm, ombre à brun jaune ocre sale, plus foncé au disque, vite sec.  Lamelles blanchâtres, serrées, argilacées. Stipe 6-11 cm x 15-30 mm, bulbeux-claviforme ou atténué à la base, blanchâtre, jaunâtre, avec des flocons (voile). Spores 10-13 x 6-7 µm . - KM 126 . 3.11.7.3.3.18$ Cortinarius balteoclaricolor J. Schff.   (= Cortinarius claricolor ss. Konr. & Maubl. = Cortinarius durus Orton)
+        libres 
+
+
+cs9 libre 
+
+
+cs10,0$Clé 3.11.7.3.4: Triumphantes (page 501)
+rem $ .11.7.3.4 Section Triumphantes    Stipe claviforme, cylindrique. Voile ocre à brun jaune.
+1,2 $ Chapeau et voile souvent aussi avec des teintes plus chaudes (brun jaune, jaune léonin, même brun rouille; voile souvent presque laineux)
+1,5 $ Chapeau à centre granuleux, avec des teintes ocre pâle, ocre olivacé, brun ocre,  brun gris ou jaunes; voile ayant les mêmes couleurs, presque membraneux et formant des zones de squamules apprimées. Chair souvent ± verdâtre à bleue au contact de la sulfovaniline
+2,0 $ (1) Voile non discernable chez les carpophores adultes. Chapeau ± brun rouge, jusqu'à 12,5 cm. Lamelles argilacé pâle dans la jeunesse. Stipe claviforme, bulbeux.  Spores 9-11 x 5,5-7 µm . Hauts-marais sous conifères. - HM IV-1, Mos XI-59 . 3.11.7.3.4.1$ Cortinarius validus Favre
+2,3 $ Voile bien développé sur le stipe ou tout au moins à la marge du chapeau, laineux,  ocre à brun jaune
+3,0 $ (2) Chapeau ocre fauve vif, brun jaune léonin, mais aussi maculé de plus foncé ou  de plus clair, 5-10 (12) cm, à marge longtemps enroulée. Lamelles ocre pâle, puis  brun rouille. Stipe en général avec des guirlandes laineuses (voile) concolores à la  marge du chapeau. Spores 9-11 (12) x 5-6 µm . Sous épicéas. - Mos XI-57, Ri 41-2,  Md 654 * $ Cortinarius subvalidus R. Hry  (= Cortinarius subtriumphans ss. Mos. = Cortinarius triumphans ss. Ricken)
+3,4 $ Chapeau en général plus clair, jaune ou jaunâtre. Spores 10-16 µm . Sous bouleaux
+4,0 $ (3) Chapeau jaune vif, jaune d'ocre à jaune léonin. Lamelles ocre gris, ocre, parfois  même un peu bleuâtres. Stipe avec des bandes laineuses (voile) concolores au chapeau. Spores 11,5-13 (13,5) x 6,8-8,4 µm . Sous bouleaux. - Ri 41-4? Cke 682  (692), Lge 85 C, Mos XI-54, Dh 425 . 3.11.7.3.4.3 *. $ Cortinarius triumphans (Fr.) Fr.
+4,0 $ Chapeau brun jaune, jaune léonin, même fauve. Lamelles gris ocre, argilacé pâle  ou bleuâtres. Spores 12-16 (18) x 6-7 µm . Chair jaune avec NH3 ou KOH. Sous bouleaux. - Mos XI-55 & 56 . 3.11.7.3.4.4 $ Cortinarius crocolitus Quél.
+5,0 $ (a) Voile blanchâtre dans la jeunesse, puis brun ocre, formant des zones annulaires  presque membraneuses: 3.11.7.3.3.12 .$ Cortinarius paracephalixus 
+5,0 $ (b) Voile blanchâtre dans la jeunesse, puis brun ocre, formant des zones annulaires  presque membraneuses: 3.117.3.3.13 $ Cortinarius aremoricus.
+5,6 $ Voile non blanc dans la jeunesse, ne formant pas des zones annulaires membraneuses
+6,0 $ (5) Stipe blanc, avec des écailles jaunes nettes (rarement des zones) généralement à  la base du stipe. Chapeau jaune foncé, brun jaune, ocre pain, 5-8 cm. Lamelles argilacé pâle. Odeur de terre, faible à plus forte. Spores 9,5-12 (14) x 5-6,5 µm . Sous  feuillus, plus rarement sous conifères. - Ri 42-3, Lge 86 E, KM 127, Mos X-49 &  XI-61, Md 657 . 3.11.7.3.4.5 $ Cortinarius vitellinopes (Secr.) Schroet.  (= Cortinarius cliduchus Fr. = Cortinarius olidus Lge)
+6,7 $ Stipe à squames ou zones brun olivacé, jaune olivacé, brun ocre, verdâtre, brun  gris, gris violacé
+7,0 $ (6) Voile brun olivacé, jaune olivacé, verdâtre ou brun ocre, 3-8 cm. Odeur d'herbe  froissée. Spores 8-10 (11) x 5-6 µm . Sous feuillus ou conifères. - Mos X-50 & 51,  Mos XI-60, Ct 464 . 3.11.7.3.4.6 $ Cortinarius cephalixus (Secr.) Fr.
+7,0 $ Stipe avec des zones (voile) brun gris à gris violacé. Chapeau ocre brunâtre et à  sommet fauve (vu par dessus comme Hygrophorus discoideus). Odeur nulle. Spores  9-10,5 x 4,7-5,2 µm . Forêts mixtes et forêts de conifères. - (Bres 629?) .3.11.7.3.4.7 $ Cortinarius papulosus Fr.
+
+
+
+
+cs11,0$Clé 3.11.7.3.5: (Tenues) (page 502)
+
+rem $ .11.7.3.5 Section Tenues    Espèces à chapeau pâle, à stipe claviforme et à lamelles argilacées à violettes.
+1,2 $ Lamelles argilacées, brunâtres
+1,3 $ Lamelles violettes
+2,0 $ (1) Spores presque rondes, 8-10 x 7-8 µm . Chapeau indéfinissable, pâle, ocre brunâtre, à centre brun rougeâtre, 2-4 cm. Lamelles ocre rouille, ocracées; larges, ventrues. Stipe violet au sommet, blanchâtre-violacé plus bas, maculé de brunâtre ou de  jaunâtre. Odeur fortement raphanoïde. Sous conifères (?). - Mos XXXII-189 . 3.11.7.3.5.1 $ Cortinarius rhaebopus (Mos.) Mos.
+2,cs19 $ Spores pas presque rondes, souvent très petites. Odeur non raphanoïde. $ Clé 3.11.7.3.2: à partir du numéro 28
+3,0 $ (1) Chapeau jaune citron ou crème jaunâtre, hémisphérique, 3-5 (7) cm. Lamelles  violet lilacin. Stipe blanchâtre, jaunâtre pâle, claviforme à presque fusiforme. Spores presque rondes ou largement amygdaliformes, 8-9 x 6-6,5 µm . Sous feuillus. -  Mos XXXII-188, Ph 127 . 3.11.7.3.5.2 $ Cortinarius xanthocephalus P. D. Orton
+3,4 $ Chapeau plus ocre, ocre fauve, brun terne, etc. (Si chapeau ocre-blanchâtre et spores 5-8 µm , voir la clé 3.11.7.3.2 au numéro 30)
+4,0 $ (3) Chapeau brun jaune, brun pain, en général avec des fibrilles innées, 3-6 cm. Lamelles bleuâtre-lilas, puis brun argilacé. Stipe à sommet bleuâtre, blanchâtre vers le  bas, plus tard ocre brunâtre, 5-8 cm, claviforme. Spores 9-10 (12) x 5-7 (8) µm , amygdaliformes. Sous feuillus ou conifères. - Mos XXXII-182 . 3.11.7.3.5.3 $ Cortinarius pseudodiabolicus (Mos.) Mos.
+4,0 $ Chapeau fauve argilacé à brunâtre terne (faisant penser à un hébélome), parfois à  sommet plus foncé, vite sec. Lamelles argilacé pâle à lilas pâle. Stipe jaunâtre dans  le bas, à sommet parfois lilas. Spores 7-10 (11) x 4-6 µm . Sous feuillus ou conifères. - Mos XXXII-185 . 3.11.7.3.5.4 $ Cortinarius miser Mos.  (= Phlegmacium pallidum Mos. 1960, non Hry, non Peck)
+
+
+
+
+cs12,0$.Clé 3.11.7.3.7: (Glaucopodes) (page 507)
+
+
+rem $ .11.7.3.7 Section Calochroi, sous-section Glaucopodes  Chapeau avec des nuances olivâtres, verdâtres, surtout à la marge, à côté de tons bruns, ocracés. La-melles et stipe généralement bleus, violets, etc. Cuticule réagissant en brun aux base, mais jamais en rouge.
+1,0 $ Marge du bulbe ourlée de violet par le voile. Chapeau olivâtre, fauve à brunâtre  ombre, très fibrilleux (fibrilles innées), presque flammé, 5-2 cm. Lamelles argilacées. Stipe caractéristiquement bleuâtre-verdâtre, pâlissant dans la vieillesse, 5-11  cm x 20-30 (40) mm. Odeur raphanoïde à odeur de pomme de terre. Spores 12-14 x  6-7,5 µm  Sous pins. - Boud 104, Mos XXVIII-166 . 3.11.7.3.7.1 $ Cortinarius violaceolimbatus Mos.  (= Phlegmacium pinetorum Mos. non Kauffm.)
+1,2 $ Bulbe sans ourlet violet laissé par le voile
+2,3 $ (1) Lamelles seulement avec une légère nuance violette ou sans nuance violette
+2,5 $ Lamelles nettement bleues ou violettes
+3,0 $ (2) Sous Alnus viridis. Chapeau 3-5 cm, gris olivâtre (comme Lactarius blennius,  mais prenant des nuances brun rose à brun rouge. Lamelles parfois avec un soupçon    de violet dans la jeunesse, parfois argilacé pâle, puis ± brun ocre. Stipe oblique-  ment marginé, violet très pâle, blanchâtre ou jaunâtre cuivre. Spores amygdaliformes-subcitriformes, 12,7-14,7 x 7,8-8,7 µm  . 3.11.7.3.7.2 $ Cortinarius alnobetulae Kühn.  (= Phlegmacium moseri Horak)
+3,4 $ Ne poussant pas sous Alnus viridis
+4,0 $ (3) Stipe blanc ou violet pâle (souvent au sommet seulement). Lamelles ocre pâle,  jaune bois, gris blanc, rarement même violettes. Chapeau ocre à olivâtre, avec des  fibrilles innées, 5-10 cm. Spores 10-12 x 6-7 µm . Sous conifères. - Mos XX-117 . 3.11.7.3.7.3 $ Cortinarius elotus Fr.
+4,0 $ Stipe violet foncé. Chapeau en général ocre olivacé foncé, brun olivacé, avec des  fibrilles innées, parfois avec des restes blancs du voile, 5-10 cm. Lamelles violettes  ou brun café au lait dès la jeunesse. Spores 10-14 x 7-8 (9) µm . Sous conifères. -  Mos XX-118 . 3.11.7.3.7.4 $ Cortinarius pseudoglaucopus J. Schff. ap. Mos.
+5,11 $ (2) Chapeau brun gris, ombre à fauve, brun noisette. Espèces en général charnues,  grandes, rarement plus petites mais alors pas fauves. Bulbe souvent pas très net, en  forme de navet. Sous épicéas
+5,6 $ Chapeau ou bien autrement coloré ou bien fauve, mais alors espèces moyennes  (chapeau jusqu'à 8 cm) et avec des fibrilles innées
+6,7 $ (5) Chapeau ± fibrilleux (fibrilles innées), fauve orange, fauve, même brun foncé,  parfois flammé, marge souvent verdâtre
+6,12 $ Chapeau ocre olivacé à ocre, ocre brunâtre, brunâtre olivacé clair, 5-10 cm. Bulbe  en général arrondi, ourlé d'ocre par le voile. Sous feuillus
+7,0 $ (6) Lamelles argilacées. Stipe blanc, soyeux; bulbe petit et peu net. Chapeau ± fauve orange, avec des fibrilles innées. Spores 7-9 x 4,5-5,8 µm . Sous conifères. - Mos  XXI-123, Md 668?. (Comparer avec 3.11.7.3.2.20 Cortinarius multiformis) .3.11.7.3.7.5.3 $ Cortinarius glaucopus Fr. var. acyaneus Mos.
+7,8 $ Lamelles bleues ou violettes, stipe généralement concolore
+8,9 $ (7) Spores petites, 7-9 x 4-5 µm 
+8,10 $ Spores plus grandes, 8-10 (12) µm  de longueur
+9,0 $ (8) Chapeau fauve orange, fortement fibrilleux (fibrilles innées), marge pas ou légèrement verdâtre ou olivâtre, 4-8 (10) cm. Lamelles bleuâtres, bleues, tout comme  le stipe. Bulbe petit souvent à base tronquée et marginée. Forêts de conifères et forêts mêlées. - Ri 35-7, Cke 706 (712), KM 117, Ha 43, Mos XXI-120, Rg 220, Ct  481 . 3.11.7.3.7.5.1 $ Cortinarius glaucopus (Schff. ex Fr.) Fr.
+9,0 $ Chapeau à fond de teinte fortement verdâtre-olivâtre, surtout à la marge, avec des   fibrilles innées fauves à ombre. Bulbe nettement marginé. Mos XXI-119, Bres 615 . 3.11.7.3.7.5.2 $ Cortinarius glaucopus var. olivaceus Mos.
+10,0 $ (8) Cortine violet pâle, abondante, formant parfois des boucles brunes en forme de  bande. Chapeau 4-9 cm, brun alutacé à brun terre de Sienne, souvent guttulé de plus  sombre, avec des fibrilles radiales, marge verdâtre. Lamelles, stipe et chair violet  bleuâtre pâle. Lamelles étroites, bulbe presque blanc. Spores 10-12 x 6-7 µm . Sous  feuillus. - Mos XXI-122 . 3.11.7.3.7.6 $ Cortinarius pistorius J. Schff.
+10,0 $ Voile et cortine jaune vert. Chapeau sur fond verdâtre avec des fibrilles innées  grossières et fauve foncé à flammé, 6-12 cm. Lamelles violet bleuâtre dans la jeunesse. Stipe à sommet restant longtemps bleuâtre ou violet lilacin, verdâtre dans le  bas, jaune cuivre dans la vieillesse. Spores 8-10 (12) x 4-5,5 µm . Sous feuillus ou  conifères (?). - Mos. XXI-121 . 3.11.7.3.7.7 $ Cortinarius magicus Eichh.  (= Phlegmacium subglaucopus Eichh. non Murr.)
+11,0 $ (5) Chapeau brun noisette à brun d'ombre, même maculé de plus foncé, 4-7 cm.  Lamelles bleu foncé fuligineux. Stipe bleuâtre dans la jeunesse. Bulbe souvent fortement déprimé ou blanchâtre. Sous conifères. - Mos XXI-125, Md 669 . 3.11.7.3.7.8 $ Cortinarius avellaneocoeruleus (Mos.) Mos.
+11,0 $ Carpophore plus grand. Chapeau 5-10 (12) cm, brun jaune fauve, fauve, souvent  avec de taches brun chocolat. Lamelles et stipe bleus, bleu violet. Spores 12-14 x 6-  8 mm. (Chapeau brun gris, brun olivacé, gris souris; lamelles et stipe bleu foncé, se  tachant de bleu au frottement: var. umbrinus Mos.). Bulbe parfois ± napiforme.  Dans les forêts de conifères (épicéas). - Mos XXII-126 & XXII-127, Bayr. Bot.  Ges. 1947, BSMF 82, pl. 2, BSMF 92, atl. 200, Ct 471, Md 672 . 3.11.7.3.7.9 $ Cortinarius fulvoochrascens Hry  (= Cortinarius fuscomaculatus J. Schff.)
+12,0 $ (6) Spores 11-14 (15) x (5) 6-7 µm . Cuticule à saveur douce, ocracée à brunâtre ocre, parfois un peu rouge brunâtre. Chapeau 5-10 cm. Lamelles et stipe violets dans  la jeunesse seulement, vite brun rouille. Arête des lamelles grossièrement serrulée.  Odeur nulle ou légère de poussière. - Mos XXII-130 . 3.11.7.3.7.10 $ Cortinarius subumbilicatus R. Hry
+12,0 $ Spores 9-11 (12) x 5,5-7 µm . Cuticule amarescente. Chapeau généralement ocre  olivacé clair, parfois même purement ocre. Lamelles parfois violet assez foncé dans  la jeunesse, à arête finement serrulée. Odeur fruitée (de prunes), mais aussi de poussière dans la vieillesse. - Lge 84 D & 199 B, KM 119 (?), Rg 63 B, Mos XXII-129,  PSC IV 44, Ct 469 . 3.11.7.3.7.11 $ Cortinarius amoenolens R. Hry
+
+
+
+
+
+
+
+
+
+
+
+
+
+cs13,0$Clé 3.11.7.3.8: (Coerulescentes) (page 509)
+
+rem $ .11.7.3.8 Section Coerulescentes Hry. ex Mos.  Chapeau bleu, violet lilacin, gris bleu, gris argenté, brun vineux, etc, se décolorant et devenant ocre à ombre ou brun gris. Lamelles argilacées ou bleues. Réaction de la chair aux bases nulle ou brunâtre.
+1,2 $ Base du stipe sans bulbe marginé
+1,5 $ Base du stipe avec un bulbe marginé (voir aussi 3.11.7.3.8.2 Cortinarius durissimus)
+2,0 $. (1) Chapeau 5-10 cm, gris bleu, bleu violet. Lamelles blanchâtre argilacé. Stipe 5-  10 cm x 10-15 mm, blanchâtre, base chaussée par un voile violet. Spores 10-12 x 5-  6 µm . Conifères. (Lamelles violettes, bleuâtres; sous feuillus: var. haasii Mos.) -  Fr. 146-2, Gill. 211, Mos XV-84 à 86, Ct 70, Dh 427 . 3.11.7.3.8.1 *$  Cortinarius cumatilis Fr.
+2,3 $ Carpophore plus robuste. Chapeau 8-15 (20) cm. Stipe 10-30 (50) mm
+3,0 $ (2) Stipe souvent avec un bulbe ± net et obliquement marginé, soyeux bleuâtre-vio-  let, base avec un voile ocre. Lamelles argilacé pâle. Spores 9-11 x 4,5-5 µm . Dans  les forêts mêlées. - Mos XIV-80. (Ressemble souvent à Cortinarius praestans) .3.11.7.3.8.2 * $ Cortinarius durissimus Mos.
+3,4 $ Stipe sans bulbe ou avec un bulbe non marginé
+4,0 $ (3) Spores 10-12 x 5-6 µm . Chapeau 8-12 (20) cm, violet, gris violacé, même rougeâtre vineux, avec au sommet des fibrilles innées ombre à brun chocolat, parfois  maculé d'ocracé, à marge longtemps enroulée. Stipe 6-10 cm x 15-40 mm. Sous conifères ou feuillus. - Mos XV-85, Md 674? .3.11.7.3.8.1.2 *$ Cortinarius cumatilis var. robustus Mos.
+4,15 $ *. Spores 12-16 (18) x 8-9 µm . Chapeau 8-20 cm, marron-violet, brun chocolat, souvent même plus fauve ou plus fortement violet, marge souvent ridée. Lamelles blanchâtres, parfois violacées ou grises, puis brun argilacé. Stipe violacé blanchâtre, 8-  15 cm x 20-50 mm, avec un bulbe non marginé, voile violacé puis ocre jaunâtre. Forêts de feuillus (et de conifères) sur calcaire. - Mos XV-82, MP 140, Rg 62, PSC I
+15,0 $ Bres. 607, Md 117, Ct 69 . 3.11.7.3.8.3 *$ Cortinarius praestans (Cord.) Gill.
+5,3 $ (1) Très robuste et à stipe épais, bleuâtre avec un voile ocracé. Lamelles argilacées.  Spores 9-11 x 4,5-5 µm 
+5,6 $ Pas ces caractères
+6,7 $ (5) Cuticule réagissant aux bases en brun rose à rouge vineux ou encre rouge
+6,11 $ Pas ces réactions
+7,8 $ (6) Chapeau ± bleu, gris, ocre gris
+7,cs17 $ Couleur du chapeau tirant plus vers le lilas (rose lilacin) $ Clé 3.11.7.3.6: à partir du numéro 4 (page 503)
+8,9 $ (7) Chapeau jeune avec des teintes bleues ou violettes fortement prononcées
+8,10 $ Chapeau avec une grande portion de teintes grises, parfois même avec une composante verdâtre. Saveur, tout au moins de la cuticule, ± amère
+9,0 $ (8) Chapeau jeune violet vif, puis pâlissant pous devenir brun ocre foncé à ocre  citron, marge restant plus longtemps bleue ou violette, 4-7 cm, à cuticule amarescente. Lamelles restant longtemps violettes ou rose pourpre. Stipe concolore. Spores 11-13 (14) x 6 µm . Sous feuillus. - BSMF 51, pl. 1, Mos XII-63a & b, Ph 126 . 3.11.7.3.8.4 $ Cortinarius sodagnitus R. Hry
+9,0 $ Chapeau bleuâtre, ± recouvert par un voile jaune foncé, se colorant même en olivâtre dans la vieillesse, 2-6 cm. Lamelles bleues. Stipe bleu, recouvert par le voile  jaune. Spores 11-13 x 6,5-7,5 µm . Sous conifères. - Cke 722 (849), Mos X-53a &  53b . 3.11.7.3.8.5 $ Cortinarius aureopulverulentus Mos.
+10,0 $ (8) Chapeau 3-5,5 cm, gris souris dans la jeunesse, vite ocre, marbré de blanchâtre. Lamelles bleuâtre améthyste à gris bleuâtre. Stipe 2-6 cm x 6-10 mm, bulbe jusqu'à 25 mm, bleu gris, gris violacé, tout au moins au sommet. Cuticule réagissant  aux bases en rouge à ± rouge vineux. Spores 7,5-10 x 4-5 (6) µm . Sous conifères. -  Mos XIII-75, XIV-79 . 3.11.7.3.8.6 $ Cortinarius caesiostramineus R. Hry
+10,0 $ Chapeau 4-7,5 cm, gris, brunâtre olivacé, jaunâtre, grisâtre, à marge violette. Lamelles souvent presque violet pourpre. Stipe violet, jusqu'à 20 mm de diamètre.  Spores 11-13 (17) x 6-7 µm . Sous feuillus. - Mos XII-62 . 3.11.7.3.8.7 $ Cortinarius caesiogriseus J. Schff. ap. Mos. 
+10,0 $ Couleurs semblables ( Chapeau 4-7,5 cm, gris, brunâtre olivacé, jaunâtre, grisâtre, à marge violette. Lamelles souvent presque violet pourpre. Stipe violet, jusqu'à 20 mm de diamètre.  Spores 11-13 (17) x 6-7 µm . Sous feuillus.)mais saveur douce, cuticule rouge vineux au contact des bases 3.11.7.3.8.8 $Cortinarius caesiocinctus (Kühn.)
+11,0 $ (6) Saveur amarescente. Chapeau violet ou gris violacé dans la jeunesse, 4-7 cm.  Lamelles bleuâtres; brun argilacé à brun rouille dans la vieillesse. Stipe concolore  au chapeau. Carpophore avec une nette volve membraneuse. Spores 8-10,5 x 5-6  µm . Sous feuillus ou conifères. - Mos XIV-76 . 3.11.7.3.8.9 $ Cortinarius volvatus A. H. Smith
+11,12 $ Saveur douce. Pas avec une volve aussi forte (mais parfois indistincte)
+12,13 $ (11) Cuticule jeune déjà gris bleu, ocre, brun café au lait, brunâtre rouille, etc, et  marge seulement éventuellement bleuâtre ou violette
+12,21 $ Cuticule bleu vif ou violet vif (se décolorant à partir du centre dans la vieillesse .
+13,0 $ (12) Odeur fortement farineuse. Coloration très variable, gris bleu, bleu verdâtre,  brunâtre olivacé ou brunâtre ombre, avec des fibrilles innées, 4-8 cm. Lamelles  bleuâtre clair, gris bleu, puis brun café au lait.Stipe concolore aux lamelles ou avec  une nuance verdâtre. Spores (7) 9-12 x 4,8-7 µm . Sous feuillus ou conifères. -  BSMF 49 pl. X, BSMF 51 pl. 2-3, Mos XII-68a b c, Md 676 . 3.11.7.3.8.10 $ Cortinarius dionysae Hry.
+13,14 $ Pas d'odeur de farine
+14,15 $ (13) Espèces des forêts de conifères
+14,17 $ Espèces des forêts de feuillus
+15,16 $ (14) Chapeau gris argenté, gris bleu, gris ocre (plus ocre dans la vieillesse)
+15,18 $ Chapeau jeune blanchâtre, ocre, brun café au lait (marge seule bleuâtre)
+16,0 $ (15) Stipe gris bleuâtre à légèrement lilas, bulbe à voile ocracé, parfois presque  membraneux. Chapeau 4-12 cm, gris bleuâtre, gris souris, se décolorant à partir du  centre pour devenir ocracé. Spores 8-10,5 x 4,5-5,5 µm . Dans les forêts sèches de  conifères (surtout de pins ou d'épicéas). - Mos XIII-71, Md 677 . 3.11.7.3.8.11 $ Cortinarius caesiocanescens Mos.
+16,19 $ Stipe violet foncé, puis bleu d'acier. Odeur désagréable
+17,18 $ (14) Chapeau jeune blanchâtre, ocre, ocre crème, à marge éventuellement avec une nuance bleuâtre, plus rarement même bleuâtre au centre
+17,19 $ Chapeau jeune gris (bleu) argenté, gris ocre, vite brun café au lait, marbré (marge restant éventuellement bleuâtre ou blanchâtre)
+18,0 $ (15, 17) Chapeau 4-10 (12) cm, ocre blanchâtre, ocre crème, brun café au lait, finalement rouille orangé avec des fibrilles innées blanches (rarement plus gris bleuâtre dans la jeunesse), marge cependant restant longtemps gris bleuâtre mat. Lamelles bleu lilacin, brun lilacin dans la vieillesse. Stipe bleuâtre, gris bleu, plus tard  ocre dans le bas. Spores 10,6-11 (12) x 5,5-6 (7) µm . Forêts de conifères, landes  avec bouleaux, plus rarement forêts de feuillus. - BSMF 73, atl. 112, Mos XII-66 . 3.11.7.3.8.12.2 $ Cortinarius boudieri var. pseudoarcuatum R. Hry
+18,0 $ Chapeau 3-7,5 cm, ocre, parfois avec une nuance olivâtre ou gris bleuâtre, à marge violette. Lamelles d'un beau bleuâtre, puis gris bleu, finalement brun rouille, souvent arquées-décurrentes. Stipe 3-7 cm x 7-15 mm, violet-bleuâtre, jaunâtre olivacé  dans la vieillesse. Spores 10-12 x 6-6,5 µm . Sous feuillus ou conifères. (Comparer  avec 3.11.7.3.8.6 Cortinarius caesiostramineus). - BSMF 52 pl. II-3, Mos XXI-124. .3.11.7.3.8.13 $ Cortinarius arcifolius Hry.
+19,0 $ (16, 17) Stipe violet foncé, puis bleu d'acier. Chapeau bleu gris argenté, puis ocre,  4-8 cm. Lamelles jeunes pâles, blanchâtre argilacé, à peine lilas. Odeur désagréable,  de sueur de pieds ou de cèpes séchés à température trop élevée. Spores 10-10,5 x  4,8-5,2 µm . Forêts de feuillus et forêts mixtes. - Mos XIV-78 . 3.11.7.3.8.14 $ Cortinarius foetens (Mos.) Mos.
+19,20 $ Chapeau pas si vivement coloré en violet ou bleu d'acier. Odeur différente
+20,0 $ (19) Spores cylindro-oviformes, relativement claires et faiblement verruqueuses,  parfois presque légèrement en haricot, 9-11 x 5-5,5 (6) µm . Chapeau gris argenté  quand jeune, puis brun ocre à brun café au lait, marbré et avec des fibrilles innées,  5-11 cm, marge restant plus longtemps gris bleu. Lamelles gris bleu, puis ocre (souvent clair), parfois ocre olivacé, tout comme le stipe qui est gris bleu dans la jeunes-  se (sommet restant parfois bleu verdâtre). Sous feuillus. - Mos XIII-73 . 3.11.7.3.8.15 $ Cortinarius coerulescentium Hry
+20,0 $ Spores amygdaliformes, nettement verruqueuses, 9-10,5 (12) x 5-6 (7) µm . Chapeau 5-10 cm, gris argenté à gris bleu, puis brun café au lait à brun ocre, avec des fibrilles innées plus foncées. Lamelles gris bleu dans la jeunesse, puis brun café au  lait. Stipe gris bleu dans la jeunesse, puis ocre blanchâtre sauf au sommet. Sous hêtres. - Mos XII-67 & XIII-72 . 3.11.7.3.8.12.1 $ Cortinarius boudieri Hry.
+21,22 $ (12) Lamelles jeunes blanchâtre lilacin, ocracées, éventuellement avec un soupçon de bleuâtre
+21,23 $ Lamelles jeunes nettement bleues ou violettes
+22,0 $ (21) Chapeau bleu lilacin pâle, gris bleu, avec des fibrilles innées, 4-8 cm. Lamelles jeunes blanchâtre argilacé ou entièrement légèrement bleuâtres, puis vite argilacées à brunâtre rouille. Stipe concolore au chapeau, 5-9 cm x 10-15 mm. Spores 10-  12 x 4-5 (6) µm . Sous feuillus (et conifères?). - BSMF 26, pl. 8, KM 115, Mos XII-  64 . 3.11.7.3.8.16.1 $ Cortinarius mairei (Mos.) Mos.
+22,0 $ Chapeau violet plus foncé, gris bleu plus foncé. Lamelles un peu lilacines, argilacé pâle. Spores 9-11 x 6 µm . Sous conifères. - Mos XII-65, Ri 36-1 . 3.11.7.3.8.16.2 $ Cortinarius mairei var. juranus Hry.
+23,0 $ (21) Stipe long, jusqu'à 14 cm x 10-15 mm, bleu violet pâle; bulbe jaune d'ocre,  petit. Chapeau 4-8 (10) cm, délicatement violet, vite ocre, gris ocre, brunâtre pâle.  Lamelles violettes, puis brun cannelle. Spores 8-11,5 x 5-7,5 µm . Dans les marais à  sphaignes et les forêts de montagne claires, humides et moussues. - Mos XIII-74 . 3.11.7.3.8.17 $ Cortinarius sphagnophilus Peck  (= Cortinarius canolilacinus Britz.)
+23,24 $ Stipe plus court. Stations différentes
+24,25 $ (23) Chapeau jeune bleu foncé, bleu violet
+24,26 $ Chapeau jeune bleu violet mat ou modérément bleu
+25,0 $ (24) Chapeau bleu foncé, bleu violet, puis pâlissant pour devenir ocre ou brunâtre  café au lait, 5-8 cm. Lamelles bleu un peu plus clair. Stipe concolore aux lamelles, à  bulbe blanchâtre ou ourlé par le voile. Spores 8-11 x 4,8-6 µm . Dans les hêtraies en  terrain calcaire (argileux). - KM 116, Lge 82 D, Mos XIII-69, BSMF 83, pl. 1 (bas),  PSC V 70, Md 670 . 3.11.7.3.8.18 *$ Cortinarius coerulescens (Schff. ex Secr.)
+25,0 $ Chapeau bleu violet foncé, gris bleu très foncé; grisâtre ou brun gris au disque; souvent avec des  restes du voile, avec des fibrilles innées, 8-12 (15) cm. Lamelles gris bleu violacé. Stipe concolore au  chapeau, bulbe marginé blanchâtre, 7-10 cm x 15-25 mm (bulbe jusqu'à 50 mm). Spores généralement  ± citriformes, (9,5) 10-11 x 6-6,5 µm . Sous feuillus. - Bres. 618, Ct 470, Md 681 . 3.11.7.3.8.19 $ Cortinarius cyaneus (Bres.) Mos.
+26,0 $ (24) Spores 8-10 x 5-5,5 µm . Chapeau dès la jeunesse d'un beau gris bleu (violet),  6-12 cm (ressemblance avec Cortinarius cumatilis), avec des fibrilles innées. Lamelles jeunes gris violet pâle, presque plus grises mais jamais argilacées. Stipe ±  concolore au chapeau, face infère du bulbe bleuâtre ou blanchâtre, pas ourlée par le  voile, 5-8 cm x 10-20 (40) mm. Sous hêtres. - Md 682 . 3.11.7.3.8.20 $ Cortinarius caesiocyaneus Britz.
+26,27 $ Spores plus grandes
+27,0 $ (26) Sous feuillus, surtout sous hêtres. Chapeau bleu violet mat dans la jeunesse,  palissant très vite pour devenir ocre chair à ocre paille, 5-8 (10) cm. Lamelles bleu  violet. Stipe également, se décolorant comme le chapeau. Spores 9-13 x 5-6,8 µm .  - Mos XIV-17, BSMF 82, pl. 1 (haut) .3.11.7.3.8.18.2 $ Cortinarius coerulescens var. depallens Mos.
+27,0 $ Espèce liée à Quercus ilex. En zone méditerranéenne. Chapeau 3-9 cm, gris bleu, bleu sur fond  ocracé. Lamelles rapidement fauve pâle. Stipe blanchâtre, bulbe jaune. Spores grossièrement verruqueuses, 11-14,5 x 7-8,3 µm  . 3.11.7.3.8.21 $ Cortinarius coeruleo-ochrascens Chev. & Hry
+
+
+cs14,0$Clé 3.11.7.3.2: (Multiformes p.p.) (page 492)
+rem $ .11.7.3.2 Section Phlegmacium, sous-section Multiformes p.p.Espèces à chapeau jaune ou brun. Stipe sans voile blanc fortement développé (pas gainé ou fibrilleux- villeux dans la jeunesse).
+1,cs5 $ Chapeau et stipe vert jaunâtre, brunâtre olive $ Clé 3.11.7.3.13 (page X..)
+1,2 $ Chapeau et stipe sans teintes jaune vert ou brun olive
+2,3 $ (1) Carpophore avec un bulbe ± marginé ou tout au moins rond
+2,cs19 $ Base du stipe sans bulbe net (voir aussi 3.11.7.3.5.4 Cort. miser, 3.11.7.3.2.16 Cortinarius lundellii)
+rem ex  28 cesure
+3,cs17 $ (2) Lamelles gris blanchâtre. Chapeau jaune olivacé à jaune ou brun olivacé, gris olivacé $ Clé 3.11.7.3.6 (page 
+
+3,4 $ Lamelles ou chapeau d'une autre couleur
+4,cs17 $ (3) Partie inférieure du bulbe du stipe avec un voile violacé ou lilacin ou avec du  mycélium de cette couleur. Spores fusiformes à elliptiques 
+4,5 $ Base du stipe sans traces d'un voile violet ou de mycélium violet. Spores non fusiformes
+5,6 $ (4) Carpophore à allure assez robuste. Stipe en général ± épais. Chapeau marron à  brun argilacé, brun jaune, ocre, et même jaune fauve à fauve orangé. Spores amygdaliformes (si presque rondes, voir 3.11.7.3.6.13 $ Cortinarius caesiocortinatus)
+5,16 $ Carpophore généralement avec un stipe plus grêle. Allure à peine robuste, si allure robuste alors stipe violet ou gris bleu. Espèces de taille moyenne, chapeau ocre,  jaune, brun jaune, brun orange, rarement brun rouge
+6,7 $ (5) Chapeau fauve vif à brun orange ou jaune
+6,11 $ Chapeau ocre, brun ocre, brun argilacé, brun carton, marron
+7,8 $ (6) Chapeau avec des teintes orange à brun orange fauve
+7,10 $ Chapeau avec des teintes jaunes bien nettes
+8,0 $ (7) Chapeau rouge brique vif à brun orange; marge longtemps enroulée et souvent  déformée, parfois même verdâtre, 4-7 cm. Lamelles argilacé pâle, étroites. Stipe  blanchâtre ou ocre pâle. Chair blanche, très dure. Spores (7,5) 8-8,6 (9) x 4,5-5,2  µm . Dans les forêts de conifères ou les forêts mixtes. Mos III-16 . 3.11.7.3.2.1 *. $ Cortinarius aurantiacus Mos.
+8,9 $ Chapeau plus brun orange, brun fauve ou brun rouille
+9,0 $ (8) Chapeau 7-10 cm, brun orange vif, un peu maculé par des guttules. Lamelles  brun argilacé, puis brun rouille. Stipe blanchâtre, ocracé, avec un bulbe obtusément  marginé. Chair jaunâtre, verdâtre par endroits. Spores 8,5-9 x 5-5,5 µm . Sous conifères. - Mos XXXI-179, (Ct 478?) .3.11.7.3.2.2 . $ Cortinarius fulminoides (Mos.) Mos.
+9,0 $ Chapeau fauve vif à brun rouille, marge longtemps enroulée, 8-12 (15) cm. Lamelles argilacé pâle. Stipe relativement court, 5-7 (8) cm x 14-22 mm, bulbe 18-35  mm, blanchâtre, ocracé. Spores 9,5-11,5 x 5,5-7 µm . Forêts de conifères sur calcaire. - Mos III-15 . 3.11.7.3.2.3 . $ Cortinarius pseudonapus Hry ap. Mos.(= Cortinarius pseudonapus ss. Mos. non Hry.)
+10,0 $ (7) Chapeau 5-7 cm, jaune vif, puis rougeâtre rouille mat. Lamelles ocre crème,  puis ocre rouille. Stipe robuste, 9-10 cm x 15 mm, bulbe jusqu'à 40 mm, blanc à  base ocracée. Chair blanche. Spores 12-13,5 x 7-8 µm , verruqueuses. Dans les forêts de feuillus ou les forêts mixtes . 3.11.7.3.2.4 . .. $ Cortinarius subturbinatus Hry. ex Orton(= Cortinarius sulphurinus ss. Lge)
+10,0 $ Chapeau 4-5 cm, jaune mat, disque jaune rougeâtre, avec des restes blanchâtres  du voile. Lamelles blanc crème, puis ocre crème. Stipe 4-7 cm x 15-30 mm, blanchâtre, bulbe ocre jaune. Spores 9-10 (11) x 4,5-5 µm , finement verruqueuses . 3.11.7.3.2.5 . $ Cortinarius langei Hry.
+11,0 $ (6) Chapeau marron, brun rouge, 6-10 cm. Lamelles blanchâtres, puis brun sale.  Stipe 6-10 cm x 12-20 mm, bulbe jusqu'à 40 mm. Chair blanche. Spores 12-16 x 7-9  µm . Sous conifères. - KM 113, Mos III-14, BSMF 82, pl. 3 . 3.11.7.3.2.6 *$ Cortinarius napus Fr.
+11,12 $ Chapeau plus clair, ocre, brun ocre, brun argilacé ou brun carton, etc
+12,13 $ (11) Espèces des forêts de conifères. Saveur toujours douce
+12,15 $ Espèces des forêts de feuillus (éventuellement mêlées). Saveur souvent amère ou amarescente. Lamelles grossièrement serrulées
+13,0 $ (12) Chapeau ocre clair, brun argilacé ou brun carton, éventuellement avec une légère nuance rouille, marge très longtemps enroulée. Stipe blanchâtre. Spores 9-10  (11) x 6-6,5 µm . Sous épicéas. - Mos III-13 . 3.11.7.3.2.7 *. $ Cortinarius corrosus Fr.
+13,14 $ Chapeau ocre clair à ocre foncé (éventuellement à disque ombre ou rouge brunâtre ou avec des taches de la même couleur)
+14,0 $ (13) Chapeau ocre foncé (parfois avec une nuance ou des taches brun rougeâtre,  ombre ou olive), 4-10 cm. Lamelles et stipe ± concolores au chapeau. Stipe 5-10 cm  x 10-15 mm (bulbe 25 mm). Spores 11-12,5 (14) x 6-7 µm . Toujours sous pins. -  Mos X-52 . 3.11.7.3.2.8 . $ Cortinarius saporatus Britzm.
+14,0 $ Chapeau 4-10 cm, jaune d'ocre, brun jaune, sommet brun foncé dans la vieillesse. Lamelles argilacé pâle. Stipe 4-6 cm x 12-15 mm (bulbe 25 mm), concolore au  chapeau, blanchâtre au  Sommet. Chair brunâtre avec KOH ou NH3. Spores amygdaliformes, 12-15 x 6-8 µm . Dans les forêts de conifères sur calcaire. - Mos XXXI -178a . 3.11.7.3.2.9 $ Cortinarius elegantulus (Mos.) Mos.
+15,0 $ (12) Spores 8,5-10 x 4,5-5,5 µm . Chapeau ocre-brun argilacé, souvent très clair.  Lamelles brun argilacé, espacées. Stipe ocre pâle. Sous hêtres. - Mos III-18 . 3.11.7.3.2.10 $ Cortinarius argillopallidus J. Schff.
+15,0 $ Spores 10-12 x 5,5-6,5 µm . Chapeau brun argilacé, dur, plus épais, 5-7 cm. Lamelles serrées, argilacé pâle, blanchâtres. Stipe argilacé pâle, court, épais, bulbe  blanchâtre, 3-5 cm x 15-25 mm, bulbe jusqu'à 40 mm. Dans les forêts de feuillus ou  les forêts mixtes. - Mos III-17 . 3.11.7.3.2.11 $ Cortinarius lutulentus J. Schff.
+16,cs12 $ (5) Chapeau brun rougeâtre olivacé ou brun (olivacé) foncé. Lamelles argilacées.  Stipe violet ou bleu vert $ Clé 3.11.7.3.7 (page
+16,17 $ Carpophore avec d'autres couleurs
+17,18 $ (16) Carpophore avec des teintes brun argilacé sale ou brun rouille, grand, mais à  chair mince, à chapeau vite déprimé en entonnoir
+17,19 $ Carpophore avec des teintes plus vives, brun jaune, brun ocre, brun orange. Chapeau pas déprimé ou seulement très tard
+18,0 $ (17) Chapeau à marge longtemps enroulée, ayant presque une allure de paxille,  brun de pain foncé, brun rougeâtre, avec des fibrilles innées, marge plus claire, 7-10  cm. Stipe 5-7 cm x 10-14 mm, bulbe presque rond, jusqu'à 16 mm. Lamelles brun  rouille. Spores amygdaliformes, 9-10 x 4,8-5,5 µm . Dans les hêtraies ou les forêts  mixtes. - Mos I-7 . 3.11.7.3.2.12$ Cortinus paxilloides (Mos.) Mos.
+18,0 $ Chapeau vite mat et presque micacé, brun ocre à fauve clair, un peu hygrophane,  6-9 cm, vite fortement déprimé. Lamelles d'abord claires, puis brun ocre foncé,  serrées. Stipe 7-9 cm x 10-15 mm, bulbe large, blanchâtre, en forme de bol, jusqu'à  30 mm. Spores citriformes, 10-10,5 (12) x 6-6,8 µm , grossièrement verruqueuses.  Sous hêtres. - Mos VII-32 . 3.11.7.3.2.13 $ Cortinarius calyculatus Mos.
+19,20 $ (17) Chapeau avec des teintes prononcées brun orange, brun rouge ou brun jaune  (même jaune abricot), souvent pruineux, avec quelques rares fibrilles innées. Chair  réagissant souvent en verdâtre pâle ou bleu verdâtre au contact du sulfoformol. Spores en général ne dépassant pas 10 µm . Bulbe du stipe souvent peu net. Stipe blanchâtre, se colorant ± en brunâtre jaune cuivre (si avec beaucoup de fibrilles innées  et spores 7-9 µm , voir 3.11.7.3.7.5.3 Cortinarius glaucopus var. acyaneus)
+19,22 $ Chapeau avec des teintes brun jaune à brun ocre, avec des fibrilles ± innées. Réaction négative au sulfoformol. Spores dépassant souvent 10 µm  de longueur. Espèces petites à moyennes, avec des restes du voile ± nets
+20,0 $ (19) Chapeau sans zone marginale hygrophane, jaune d'ocre à jaune léonin ou même pouvant être fauve orange, sommet souvent pruineux, 4-8 cm. Lamelles blanchâtres à argilacées. Stipe avec un bulbe ± nettement marginé. Odeur souvent ±  mielleuse. Spores 8-9 x 4,5-5 µm . (Chapeau jaune vif, stipe souvent presque claviforme: var. xanthus Mos. - Mos. I-2). Dans les forêts de conifères, jusqu'en lisière  de forêt. - Bres. 611, Mos I-1, BSMF 77 atl. 124, Ct 462, Md 638 & 643 . 3.11.7.3.2.14 . $ Cortinarius allutus (Secr.) Fr.  (= Cortinarius melliolens J. Schff., vix Orton)
+20,21 $ Chapeau avec une zone marginale hygrophane, tout au moins sous la forme de  guttules
+21,0 $ (20) Chapeau brun rouge foncé, marge en général foncée, pâlissant à partir du  centre par hygrophanéité, 4-8 cm. Lamelles argilacées. Stipe claviforme, en général  avec un bulbe obliquement marginé. Spores 8-9 (10) x 5-6 (7) µm . Forêts humides  de conifères (épicéas). - Lge 81 B, Mos. IV-20 . 3.11.7.3.2.15 *$ Cortinarius subhygrophanicus (Mos.) Mos.(= Cortinarius allutus ss. Lge)
+21,0 $ Chapeau ± brun jaune, avec une zone marginale aqueuse, marge parfois couverte  par des restes blancs du voile. Stipe souvent assez long, en général sans bulbe net, ±  claviforme, se décolorant pour devenir jaune cuivré. Spores (6,5) 8-9 (9,5) x 5-5,5  µm . Dans la mousse des forêts humides d'épicéas. - Mos IV-19, Lge 86 C . 3.11.7.3.2.16 *$ Cortinarius lundellii (Mos.) Mos.
+22,23 $ (19) Chapeau avec des teintes ocre clair ou brun ocre
+22,24 $ Chapeau avec des teintes plus vives, brun jaune ou jaune d'ocre
+23,0 $ (22) Chapeau ocre blanchâtre, 4-7 cm, ± platement convexe. Lamelles ocre pâle.  Stipe blanc, avec un bulbe obtusément marginé, 7-10 cm x 10-15 mm (bulbe jusqu'à   25 mm). Spores 11-11,5 x 5,5-6 µm . Sous feuillus, hêtres, bouleaux.- Lge 81 B,  Mos I-5, BSMF 77, atl. 122 . 3.11.7.3.2.17 * $ Cortinarius ochropallidus R. Hry.
+23,0 $ Chapeau brun ocre clair, parfois aussi brun rougeâtre, caractéristiquement marbré-fibrilleux (fibrilles innées), à centre avec une pruine épaisse évoquant la surface  d'un roseau et paraissant un peu "olivacé", 5-8 (15!) cm. Lamelles blanchâtres, brun  rouille dans la vieillesse. Stipe blanchâtre, même jaunâtre cuivre dans la vieillesse,  avec un bulbe marginé. Odeur généralement douceâtre, de miel. Spores 8,5-10,2  (11)x 5-5,5 µm . Sous hêtres. - Fr. 145-2, Ri 39-3, Mos I-6, BSMF 77, atl. 123 (?),  Md 639 ?  3.11.7.32.18 *$ Cortinarius talus Fr.  (= Phlegmacium turbinatus ss. Ricken = Cortinarius pseudotalus Hry  = Cortinarius evosmus Joach. ?)
+24,0 $ (22) Espèce petite. Chapeau 2-6 cm, orange ocre à orange pain, comme marbré de  pruine. Lamelles ocre blanchâtre et à arête restant blanche. Spores 10-12 x 6-7 µm ,  presque citriformes. Cheilocystides nombreuses, cylindro-claviformes. Dans les forêts de feuillus. - Mos I-4, Md 640 . 3.11.7.3.2.19 $ Cortinarius gracilior (J. Schff. ap. Mos.) Mos.
+24,25 $ Espèces plus grandes
+25,26 $ (24) Chapeau à marge lisse
+25,27 $ Chapeau à marge ridée-crénelée
+26,0 $ (25) Sous feuillus. Chapeau 4-10 cm, ocre fauve, brun jaune, parfois avec des restes du voile (fibrilles innées) au disque. Lamelles blanchâtres quand jeunes, puis devenant brun rouille. Stipe blanc, puis ocre brunâtre clair, 7-10 cm x 10-20 mm, bulbe jusqu'à 25 mm. Odeur faible, douceâtre, de miel. Spores 10-12 x 5-6 (6,5) µm . -  Ri 39-1, BSMF 77, atl. 124 . 3.11.7.3.2.20 *$ Cortinarius multiformis (Fr.) Fr.
+26,0 $ Sous conifères. Chapeau un peu plus vivement coloré, jaune pain, brun doré fauve, avec des restes du voiles sur le chapeau plus importants. Arête des lamelles avec  des touffes de cellules stériles claviformes. Autres caractères comme pour le taxon  précédent. - Mos I-3, KM 114 p.p., Ct 77 . 3.11.7.3.2.20.2 *$ Cortinarius multiformis var. coniferarum Mos.
+27,0 $ (25) Chapeau jaune paille à ocre-jaune d'or, 4-8 cm. Lamelles finement dentelées.  Stipe blanc, devenant jaunâtre, avec un bulbe ± marginé. Cuticule brun pourpre au  contact des bases. Spores 9-11 (11,5) x 5,5-6,5 µm . Sous feuillus. - BSMF 77, atl.  125 . 3.11.7.3.2.21 *$ Cortinarius polymorphus R. Hry.
+27,0 $ Chapeau d'une beau jaune-ocre-aurore-rougeâtre. Lamelles à marge rectiligne.  Chapeau 4-8 cm, souvent appendiculé par la cortine. Stipe ± claviforme, rarement  marginé indistinctement. Chair brun chocolat avec NO3Ag. Spores 8,8-12 x 6,5 µm .  Dans l'herbe des forêts d'épicéas. - BSMF 75, atl. 118, BSMF 77, atl. 125, Ct 467 . 3.11.7.3.2.22 *$ Cortinarius herbarum R. Hry.
+
+
+
+
+
+cs19,0$  cesure de  3.11.7.3.2
+
+
+rem$28,29 $ (2) Espèces plus petites et en général avec des très petites spores
+rem$28,32 $ Espèces petites ou plus grandes, mais à spores ayant une longueur supérieure à 8  µm  (espèces insuffisamment étudiées)
+
+1,29 $ (2) Espèces plus petites et en général avec des très petites spores
+1,32 $ Espèces petites ou plus grandes, mais à spores ayant une longueur supérieure à 8  µm  (espèces insuffisamment étudiées)
+
+
+29,0 $ (28) Spores 6,8-7,5 (8,8) x 4-5,5 µm . Chapeau 2-4 (7) cm, ocre-jaune clair, brun  fauve, brun jaune. Lamelles argilacé pâle à brun rouille. Stipe claviforme, 3-7 cm x  5-15 mm, blanchâtre. Sous conifères (et feuillus?). - Mos XXXII-187 . 3.11.7.3.2.23 $ Cortinarius vespertinus Fr.
+29,30 $ Spores très petites (4-6 µm  de long)
+
+
+
+30,31 $ (29) Lamelles jeunes lilas, gris violacé, puis brun jaune d'ocre. Chapeau ocre ivoirin, argilacé terne à ocracé, 2-4 cm. Stipe, tout au moins au sommet, violet dans la  jeunesse, pâle dans le bas, claviforme, 4-6 cm x 7-15 mm
+30,0 $ Stipe blanc, claviforme, dur, 2-5 cm x 8-10 (14) mm. Chapeau 2-4 (5) cm, brun  chocolat à brun orange ou abricot à l'état humide (ressemblance avec Cortinarius  armeniacus), éventuellement avec une zone marginale plus foncée, quand sec plus  ocre orange, ocre jaune, vite sec. Lamelles argilacé pâle. Spores 4-6 x 2,5-3,5 µm .  Sous conifères. (Peut passer éventuellement pour un télamonia, éventuellement plus  proche des espèces de la section Ochroleuci du sous-genre Myxacium). - Ri 43-1,  Lge 199 D, Mos XXXII-184 . 3.11.7.3.2.24 $ Cortinarius microspermus Lge  (= Phlegmacium vespertinum ss. Ricken?)
+31,0 $ (30) Odeur parfois de farine à la coupe (caractère inconstant!). Spores elliptiques,  (5) 6-7 x 3,8-4,5 µm . - Mos XXXII-181 . 3.11.7.3.2.25 $ Cortinarius compar (Fr.)
+31,0 $ Spores grossièrement verruqueuses, largement elliptiques à presque rondes, 7-8,5 x 5,3-6 µm . Sous  conifères . 3.11.7.3.2.26 $ Cortinarius pseudocompar Mos. (ined.)
+32,0 $ (28) Spores 8-11x 5-6 µm . Chapeau fauve, fortement visqueux, 4-5 cm. Lamelles pâles, puis orange  rouille. Stipe d'abord blanchâtre, puis brun jaunâtre, surtout dans le bas. Chair blanche, vitro-aqueuse  à l'état humide. Sous conifères . 3.11.7.3.2.27 $ Cortinarius sublubricus (J. Schff. ap. Mos.)
+32,0 $ Spores 7,7-8,8 x 4,4-4,5 µm . Chapeau 6-7 cm, ocre pâle, à marge ocre blanchâtre. Lamelles très  serrées, blanches, puis ocre pâle à brun fuligineux. Stipe cylindrique, blanc, brunissant à la base. Forêts humides de conifères . 3.11.7.3.2.28 $ Cortinarius joannae R. Hry.
+
+
+cs15,0$Clé 3.11.7.3.9: (Variecolores) (page 514)
+rem $ .11.7.3.9 Section Coerulescentes, sous-section Variecolores.  Chapeau avec des teintes tirant plus sur le violet, plus rarement gris bleu, se décolorant généralement rapidement en brun gris ou fauve, ou brun dès le début. Lamelles violettes à argilacé pâle. Réaction de la chair aux bases jaune ou tout au moins brune avec un cerne jaune (exceptions: 3.11.7.3.9.1 Cortinarius  lilacinopes, 3.11.7.3.9.2 Cortinarius argenteolilacinus et 3.11.7.3.9.3 Cortinarius euchrous, réaction nulle ou faiblement brun gris).
+1,2 $ Chair ne réagissanr pas aux bases ou à NH3, ou ne réagissant que faiblement en  brun gris
+1,4 $ Chair réagissant en jaune ou brun cerné de jaune aux bases ou à NH3
+2,0 $ (1) Chapeau brun jaune avec une couche orange, marge un peu lilas dans la prime  jeunesse, 5-12,5 cm. Lamelles gris lilacin, puis brun argilacé à brun cannelle. Stipe  avec un bulbe ± obtusément marginé, lilas, brunissant par la suite. Chair lilacine  dans la jeunesse, ne réagissant pas aux bases ou à NH3. Spores amygdaliformes, 12-  14,5 x 7-8,5 µm . Forêts de conifères subalpines. - Mos XVII-95  3.11.7.3.9.1  $ Cortinarius lilacinopes Britz.
+2,3 $ Chapeau lilas pâle, bleu argenté à gris argenté
+3,0 $ (2) Chapeau lilas pâle à gris argenté, un peu gris ocre dans la vieillesse. Lamelles  jeunes lilas à violet bleuâtre. Stipe claviforme, lilas, gris argenté. Chair violette à lilas dans le chapeau, blanchâtre dans le stipe. Spores 12-15 x 6-9 µm . Sous hêtres  sur sol calcaire. - Mos XVII-96 . 3.11.7.3.9.2 $ Cortinarius argenteolilacinus Mos.
+3,0 $ Chapeau bleu argenté à violet sale, 7-10 cm. Lamelles d'un beau bleu violet foncé.  Stipe claviforme, 8-10 cm x 20-30 (40) mm, sommet d'un beau bleu d'acier, violet  foncé, brunissant vers le bas. Chair blanchâtre. Odeur fruitée. Spores 9-10 (10,5) x 4,8-5,3 µm , moyennement verruqueuses. Sous feuillus ou conifères . 3.11.7.3.9.3 $ Cortinarius euchrous Hry.
+4,5 $ (1) Carpophore avec des teintes bleues ou violettes
+4,19 $ Carpophore sans traces de bleu ou de violet (voir aussi 3.11.7.3.9.15 Cortinarius  subbalteatus)
+5,0 $ (4) Base du stipe avec un bulbe marginé. Chapeau violet, vite fauve, jusqu'à 12 cm.  Odeur légère de pâtisserie. Spores 9,5-10,5 x 5-6 µm . Sous feuillus. Autres caractères comme pour le type. - Mos XVI-88 . 3.11.7.3.9.5.2 $ Cortinarius variecolor var. marginatus Mos.
+5,6 $ Pas de bulbe marginé
+6,7 $ (5) Chapeau jeune avec des teintes violettes ou blanc lilacin, tout au moins à la  marge
+6,12 $ Chapeau même jeune, brun, brun jaune, fauve ou ocre
+7,8 $ (6) Chair réagissant en jaune vif aux bases ou à NH3
+7,16 $ Chair réagissant en brun jaune ou brun cerné de jaune aux bases ou à NH3
+8,0 $ (7) Carpophore avec seulement des couleurs pâles mais nettement lilas ou violettes,sommet du chapeau ocre pâle à brunâtre, parfois avec des fibrilles innées. Lamelles  lilas pâle. Chair devenant blanche à l'air. Spores 9,5-11 x 5,5-6 µm . Sous feuillus en  terrain calcaire ou dolomitique. - KM 130, Cke 693 (701), Mos XVII-94 . 3.11.7.3.9.4 $ Cortinarius largus Fr.
+8,9 $ Carpophore avec des teintes violettes plus vives
+9,0 $ (8) Spores presque rondes, 6-9 x 5-8 µm . Chapeau violet vif quand jeune, puis fauve tout comme la base du stipe. Chair rougeâtre violacé. Odeur de terre ou de poussière. Sous feuillus . 3.11.7.3.9.5.3 $ Cortinarius variecolor var. largiusculus (Britz.) Mos.
+9,10 $ Spores plus longues, ± amygdaliformes
+10,0 $ (9) Sous conifères. Chapeau violet vif, vite brun fauve (à l'exception de la marge),  5-15 cm. Lamelles violettes, finalement brun rouille. Stipe jeune avec des poils apprimés, vite glabre; violet, puis fauve dans le bas, claviforme, 5-12 cm x 15-25 mm.  Spores 10-11 x 5,5-6,3 µm . Odeur forte de terre ou de poussière. - Cke 689 (698) &  690 (699), KM 131, Mos XVI-87, PSC V 69, Ct 71 . 3.11.7.3.9.5.1 $ Cortinarius variecolor Fr.
+10,11 $ Sous feuillus
+11,0 $ (10) Couleurs plus pâles qu'avec l'espèce précédente. Chapeau se colorant plus en  brun noisette ou brun gris, 5-10 (15) cm. Lamelles et stipe violet pâle, base du stipe  même gris brunâtre dans la vieillesse. Spores 11-12 x 6-7 µm . Odeur faible de poussière. - Ri 42-2, Cke 692 (863), Ct 473, Mos XVII-93 . 3.11.7.3.9.6 $ Cortinarius nemorensis (Fr.) Lge  (= Cortinarius largus ss. Ricken)
+11,0 $ Espèce plus petite. Chapeau violet pâle, se colorant à partir du disque en brun  gris, 3-6 cm. Lamelles et stipe nettement violets, gris lilacin dans la vieillesse. Stipe  à base brunâtre dans la vieillesse, quand jeune parfois un peu fibrilleux, villeux, claviforme à ventru-bulbeux, 3-8 cm x 10-18 (25) mm. chair violacée. Spores 9-11 x 5-  6 µm . Odeur douceâtre de fruits ou de pâtisserie. - Mos XVI-89, BSMF 79, atl. 135,  Md 686 . 3.11.7.3.9.7 $ Cortinarius lividoviolaceus (Hry. ex Mos.) Mos.
+12,0 $ (6) Stipe blanc, claviforme, parfois villeux dans la jeunesse, généralement glabre.  Chapeau fauve, brun pain, 3-10 cm. Lamelles lilas pâle à foncé ou bleu violet. Chair  jaune de chrome au contact des bases. Spores amygdaliformes, 10-12 x 5,5-6 µm .  Sous conifères sur sol calcaire. - MP 139, PSC V 76, Bres 605, Ct 72, Md 687 . 3.11.7.3.9.8 $ Cortinarius varius Fr.
+12,13 $ Stipe, tout au moins au sommet, lilas ou violet
+13,14 $ (12) Chapeau sec, même dans la jeunesse
+13,15 $ Chapeau visqueux, tout au moins dans la jeunesse
+14,0 $ (13) Poussant sous Alnus viridis en zone subalpine. Chapeau 1-5 cm, convexe,  mamelonné, marge souvent géniculée, ocre clair, brun rougeâtre ocre, puis brun noisette à brun pomme de terre, feutré. Lamelles grisâtre blanchâtre, grisâtres à bleuâtres. Stipe 3-7 cm x 3-8 mm, légèrement claviforme, généralement violet-bleuâtre  pâle, devenant ocre ou brunâtre ocre dans le bas. Odeur forte de terre. Spores 10,5-  12,3 x 5,8-7 µm . Cheilocystides souvent avec des incrustationjs jaunes . 3.11.7.3.9.9 $ Cortinarius kuehneri Mos.
+14,0 $ Chapeau 7-12 cm, brun rougeâtre, fauve, plus pâle à la marge. Lamelles lilas sale, puis cannelle ocre pâle. Stipe robuste, bulbeux à la base, vert, lilas, rouille vers  le bas. Spores 9,5-12,5 x 4,5-6 µm . Sous épicéas . 3.11.7.3.9.10 $ Cortinarius muricinus Fr.
+15,0 $ (13) Chapeau brun gris, brun liège, plus brun ocre dans la vieillesse, 3-7 cm. Lamelles brunâtre lilacin, lilas pâle, finalement brunâtre argilacé. Sommet du stipe lilas, blanchâtre dans la vieillesse, base du stipe maculée d'ocre. Spores 8,5-11 x 4,5-  6 (7) µm . Sous conifères. - Fr. 144-2, Mos XVII-97 . 3.11.7.3.9.11 $ Cortinarius spadiceus Fr.
+15,0 $ Chapeau brun noisette à brun cuivré, 3-4 cm. Lamelles et stipe violet vif, puis  plus pâles. Stipe parfois avec des zones laissées par le voile, 4-8 cm x 10-16 mm.  Odeur de pâtisserie ou nulle. Spores 9-12,5 x 5,8-7 µm . Sous conifères. - Mos XVI-  91 . 3.11.7.3.9.12 $ Cortinarius amigochrous Kühn.  (= Cortinarius spadicellus Mos. 1960 = Cortinarius spadiceus Mos. 1952)
+16,17 $ (7) Base du stipe avec des restes du voile bleus ou violets, ± incomplètement recouverte
+16,18 $ Stipe sans traces d'un voile violet
+17,0 $ (16) Chapeau à marge violette, à sommet brun noisette à brun d'ombre (ressemblance avec Cortinarius balteatus), 4-10 cm. Lamelles blanchâtres à rougeâtre argi-lacé. Stipe 6-7 cm x 15-30 mm, blanc ou violet, ± chaussé par le voile, ferme. Spores 11-13 x 6 µm . Surtout sous conifères. - Lge 87 D, Md 690 . 3.11.7.3.9.13.1 $ Cortinarius balteatocumatilis (Hry.) ex Orton
+17,0 $ Chapeau plus vivement violet et disque fauve (comme Cortinarius variecolor).  Spores 11-13 x 5 µm . Sous feuillus. - Mos VIII-42, Md 691 . 3.11.7.3.9.13.2 $ Cortinarius balteatocumatilis var. laetus Mos.
+18,0 $ (16) Chapeau à marge violet foncé, ailleurs brun argilacé, brun fauve à brun noisette, même brun d'ombre, 3-12 cm, à marge enroulée, vite sec. Stipe ± cylindrique  ou claviforme, 4-7 cm x 20-40 mm, blanchâtre, ocracé. Spores 10-11 x 5,5-6 µm . Odeur de poussière. Sous épicéas, même dans les forêts mixtes. - Fr. 142-2, Cke 686  (596), KM 128, Mos VIII-40, Ct 465, Bres. 604 . 3.11.7.3.9.14 $ Cortinarius balteatus Fr.
+18,0 $ Marge du chapeau lilas pâle, pâlissant vite et devenant brunâtre clair ou blanchâtre, feutrée. Chapeau vite sec, feutré, brun ocre rougeâtre clair (couleur de pomme  de terre), 5-12 (16) cm. Stipe cylindrique à claviforme. Spores 10-12 x 5,5-6 µm .  Dans l'herbe des forêts de conifères. - Mos VIII-41, Bres 660, Ct 460 . 3.11.7.3.9.15 $ Cortinarius subbalteatus Kühn.  (= Cortinarius firmus Ricken)
+19,20 $ (4) Réaction de la chair aux bases ou à NH3 jaune ou brune avec un cerne jaunâtre
+19,24 $ Réaction jaune vif aux bases ou à NH3
+20,0 $ (19) Chapeau plus fortement glutineux, jaune brunâtre ou brunâtre olivacé, avec  des taches brunes et des fibrilles, 4-7 cm. Lamelles blanchâtres, puis brunâtre argilacé. Stipe fortement guêtré par des restes du voile. Spores 9-11 x 5,5,5 µm . Sous conifères. - Mos VIII-38 . 3.11.7.3.9.16 $ Cortinarius latobalteatus (J. Schff. ap. Mos.) Mos.
+20,21 $ *. Chapeau glutineux dans la jeunesse, puis vite sec, feutré, ou sec dès le début . 21
+21,0 $ (20) Carpophore caractéristiquement brun ocre-brun rouge (comme pour Lactarius hysginus), cacao, un peu plus fortement viqueux qu'avec les espèces suivantes,  4-8 cm. Lamelles argilacées. Stipe ocre blanchâtre sale, 4-7 cm x 15-20 mm. Spores  9-10 x 5-6 µm . Sous conifères. - Mos VII-36 . 3.11.7.3.9.17 $ Cortinarius hysginus (Mos.) Mos.
+21,22 $ Chapeau avec des teintes plus fortement brun jaune, brun gris, brun tabac à brun  noisette
+22,0 $ (21) Odeur de terre ou de poussière (comme pour Cortinarius variecolor). Chapeau 5-10 cm, peu  visqueux, brun gris, pomme de terre; jaune brunâtre vers la marge. Lamelles ocre crème, ocre isabelle.  Stipe ± cylindrique, blanc, 3-8 cm x 15-25 mm. NH3 légèrement jaunâtre sur la chair. Spores 7,7-11 x  6,6 µm , elliptiques à presque rondes. Forêts humides de conifères. - Lge 88 A. Espèce mal connue . 3.11.7.3.9.18 $ Cortinarius crassus Fr. ss. Lge non Fr.
+22,23 $ Odeur nulle ou agréable. Spores jamais presque rondes. Chapeau sec dès la prime jeunesse
+23,0 $ (22) Arête des lamelles avec des cheilocystides (40-80 x 3-9 µm ) (fig. 374). Chapeau brun tabac à brun noisette, entièrement sec (même jeune), presque feutré, 5-12  cm. Lamelles brun argilacé à arête plus claire. Stipe pâle, brunissant par places, 5-8  cm x 15-30 mm. Chair jaune brunâtre avec KOH. Spores 7,5-10 x 4,2-5 µm . Sous  conifères (et feuillus?). - Fr. 142-1, Ri 33-4, Ct 461, Mos VII-37, PSC IV 45 . 3.11.7.3.9.19 *$ Cortinarius crassus Fr.  (= Cortinarius pseudocrassus Joss. ex Orton)
+23,0 $ Pas de cheilocystides. Chapeau brun mat, brun jaune, avec des méchules apprimées, presque squamuleux, 5-8 cm. Lamelles blanchâtres, puis argilacées. Stipe  blanchâtre, fibrilleux, brunissant un peu. Spores 8,8-12 (13) x 5,5-6,5 µm . Sous épicéas. (Odeur de fruits: var. agathosmus Hry.). - Bres 603, BSMF 93, atl. 205, Dh  433 . 3.11.7.3.9.20 *. $ Cortinarius balteatoalbus Hry.  (= Cortinarius crassus ss. Bres.)
+24,0 $ (19) Chapeau et moitié inférieure du stipe brun de datte foncé à marron ou brun  cuivré foncé. Chapeau 5-8 cm. Lamelles brun argilacé à brun rouille clair. Stipe recouvert par un voile nettement délimité. Spores 10-12 x 5-6 µm . Sous conifères. -  Mos VII- 35a, b . 3.11.7.3.9.21 $ Cortinarius badiolatus (Mos.) Mos.
+24,25 $ Chapeau brun clair, brun ocre, brun jaune, fauve, etc
+25,0 $ (24) Odeur très désagréable de pourriture ou de moisi, même de corne brûlée.  Chapeau ± ocre rougeâtre, à marge brunâtre-jaunâtre- paille, 6-9 cm. Lamelles ocre  brunâtre pâle. Stipe blanchâtre, puis ocre paille. Spores 11-14 x 6,5-7,5 µm . Sous  conifères. - Mos VII-33 . 3.11.7.3.9.22 $ Cortinarius inamomeus Favre
+25,26 $ Odeur pas désagréable
+26,0 $ (25) Chapeau 5-10 cm, fauve (orange), fauve rougeâtre, brun rouge foncé, plus pâle à la marge. Lamelles argilacées, brun jaune-ocre clair. Stipe blanc (sommet éventuellement lilas). Voile blanc, ± abondant. Spores 10-13 x 6-7 µm . (Si spores 8-10 x  5-6 µm : var. brevisporus J. Schff. ap. Mos.). Sous conifères. - Mos VII-34, VIII-39  3.11.7.3.9.23 . $ Cortinarius latus Fr.
+26,0 $ Chapeau 3-5 (6) cm, brun noisette à brun d'ombre clair, platement convexe, vite  mat. Lamelles brun ocre à brun argilacé. Stipe blanchâtre, cylindrique, 4-5 cm x 10-  15 mm. Chair blanche. Spores 10-12 x 5-6 µm . Sous conifères. - Mos XVI-92 . 3.11.7.3.9.24 $ Cortinarius schaefferianus (Mos.) Mos.  (= Cortinarius schaefferi Mos. (non Bres.) Sydowia VI, 38, 1952)
+
+
+cs17,0$Clé 3.11.7.3.6: (Calochroi) (page 503)
+rem $ rem 3.11.7.3.6 Section Calochroi  Chapeau ocre blanchâtre, jaune, brun jaune, violacé. Chapeau réagissant aux bases en brun rouge, rouge (encre rouge), rose ou brun violet , ou rarement ne réagissant pas. Lamelles bleues, lilas, violettes.
+1,cs3 $ Lamelles et stipe se maculant de pourpre au frottement ou chair réagissant en rouge vineux aux réactifs iodés (lugol)$ clé 3.11.7.3.11 (page 519)
+1,cs15 $ Lamelles et stipe se maculant de pourpre au frottement ou chair réagissant  aux bases en jaune ou brun avec un cerne jaune: $ clé 3.11.7.3.9 (page 514)
+1,2 $. Pas ces réactions
+2,3 $ (1) Chapeau avec des teintes brunâtre chair, brunâtre rouille orange ou violettes
+2,9 $ Chapeau jaune blanchâtre, brun jaune, ombre, olivâtre, etc
+3,CS24 $ (2) Stipe jeune ± villeux-guêtré $ Clé 3.11.7.3.3, numéros 8 et 11
+3,4 $ Stipe glabre, base avec un bulbe marginé et ourlé par des restes violets du voile.  (Voir aussi 3.11.7.3.7.1  Cortinarius violaceolimbatus). Chair souvent rose à rouge  au contact des bases. Saveur souvent amère
+
+cesure
+
+
+4,0 $ (3) Chair ni rose ni encre rouge au contact des bases. Chapeau avec des teintes délicates lilas ou lilas violacé, puis à centre ocre paille à brun café au lait, 4-8 cm. Stipe  lilas, bulbe ± arrondi, large. Odeur douceâtre, de fleurs d'oranger. Spores 11-14 x 6-  7 µm . Sous feuillus. - Mos XVIII-101, BSMF 56, atl. 83, Md 659 . 3.11.7.3.6.1 $ Cortinarius suaveolens Bat. & Joach.
+4,5 $ Chair rose à encre rouge au contact des base. Odeur non douceâtre ou saveur amère
+5,6 $ Chapeau lilas ou violet, puis devenant plus pâle
+5,8 $ Chapeau avec des teintes brun orange- brun rouille, tout au plus avec un peu de  violet, lilas ou rose chair à la marge
+6,0 $ (5) Chapeau et stipe d'abord violet lilacin foncé, puis plus pâles. Chapeau 4-7 cm.  Lamelles violet améthyste pâle, presque blanchâtres, puis argilacées. Stipe assez  grêle. Odeur faible d'iris. Saveur légèrement à fortement amarescente. Spores 13-14  x 6,5 µm . Sous feuillus. - BSMF 52, pl. II-2, Md 660 . 3.11.7.3.6.2.2 $ Cortinarius dibaphus Fr. var. nemorosus Hry.
+6,7 $ Carpophore plus robuste. Champignon mycorrhyzique du sapin (souvent dans les  forêts mixtes)
+7,0 $ (6) Chapeau d'un beau lilas-violet améthyste mélangé avec des nuances ocre ou  brun rougeâtre, souvent maculé, 3-8 cm. Lamelles violettes dans la jeunesse, vite  brun ocre, brun jaune. Stipe violet foncé, devenant dans la vieillesse comme le bulbe, ocre, ocre blanchâtre. Saveur amère. KOH sur la chair et sur le stipe rose à rouge. Spores 11,5-13 x 5,5-6,5 µm . Cheilocystides, souvent claviformes ou en tête de  canard. Sur calcaire . - Mos XVIII-98a & b, BSMF 70, atl. 101, Md 661 . 3.11.7.3.6.2 $ Cortinarius dibaphus Fr.
+7,0 $ Chapeau, lamelles et stipe plus rose lilacin, violet lilacin clair. Spores 11-13 x 6-7  µm . - Mos XVIII-99, Bres 620 . 3.11.7.3.6.2.3 $ Cortinarius dibaphus var. bresadolae Mos.
+8,0 $ (5) Chapeau en général brunâtre oranm  ge foncé, avec un soupçon de lilas (voile), 4-  12 cm. Lamelles lilas pâle, violettes. Stipe violet bleuâtre, ocre dans le bas, marge  du bulbe violette. Odeur légèrement fruitée. Saveur amère. Chair rose à rouge avec  KOH. Spores 10,5-13 x 5-6 µm . Sous feuillus. - Mos XVIII-100, Rg 215 B . 3.11.7.3.6.3 $ Cortinarius arcuatorum R. Hry.
+8,0 $ Plus grêle. Chapeau de couleur plus pâle, rougeâtre-aurore, rougeâtre chair, 3-7  cm. Lamelles bleu lilacin, rose lilacin. Stipe à sommet blanchâtre, de couleur chair  dans le bas, marge du bulbe violette. Chair amère, rouge avec KOH. Spores 10,5-12  x 6-6,5 µm . Sous feuillus. - BSMF 71, atl. 112, PSC V 74 . 3.11.7.3.6.4 $ Cortinarius fulvoincarnatus Joach.
+9,cs12 $ (2) Lamelles avec seulement une légère nuance lilacine, plutôt gris blanchâtre.  Espèces grandes à moyennes à cuticule montrant une nuance olivâtre $ Clé 3.11.7.3.7 (page 507)
+9,10 $ Lamelles vivement colorées, bleues ou violettes
+10,11 $ (9) Chapea u blanchâtre dans la jeunesse (parfois avec de la pruine violette laissée  par le voile). Cuticule ± encre rouge avec les bases. (Voir aussi la clé 3.11.7.3.1, à  partir du numéro 3)
+10,14 $ Chapeau jeune ocre, jaune, brun, orange fauve
+11,0 $ (10) Odeur de farine. Lamelles blanchâtre lilacin. $ Voir 3.11.7.3.1.3 Cortinarius  aleuriosmus.
+11,12 $. Pas d'odeur de farine. Lamelles violet foncé
+12,0 $ (11) Chapeau 5-10 cm, crème pâle à ivoire pâle, recouvert comme par un mucus  (voile) violet. Lamelles lilas vif. Stipe blanchâtre avec un bulbe large. Spores 10-13  x 6-7 µm . Sous conifères. - Mos XVIII-102  3.11.7.3.6.5 $ Cortinarius spectabilis Mos.
+12,13 $ Espèces plus petites
+13,0 $ (12) Ressemblance avec l'espèce précédente. Bulbe basal ourlé de violet par le  voile. Chapeau 4-6 (8) cm, crème blanchâtre, avec de la pruine violette. Lamelles  violettes. Spores 9-10,5 x 5-6 µm . Sous feuillus et buissons. - Mos XVIII-103, Ri  39-4, Rg 215 A, Ph 126 . 3.11.7.3.6.6. $ Cortinarius rickenianus R. Mre  (= Cortinarius aleuriosmus ss. Ricken = Cortinarius sodagnitus ss. Romagn.)
+13,0 $ Voile ocracé. Chapeau 3-5 cm, ocre blanchâtre clair, ocre jaunâtre, dans la vieillesse ocre brunâtre. Stipe blanchâtre, ne dépassant qu'avec peine 10 mm de diamètre. Cuticule brun rouge à encre rouge au contact des bases. Spores 9-12 x 5-6 µm .  Sous feuillus ou conifères. - BSMF 51, pl. I-2, Mos XVIII-104. (Comparer aussi avec 3.11.7.3.8.5 Cortinarius aureopulverulentus) .3.11.7.3.6.7 $ Cortinarius parvus R. Hry.
+14,15 $ (10) Carpophore assez petit. Chapeau 3-6 cm environ
+14,19 $ Carpophore plus grand. Chapeau 5-10 cm
+15,0 $ (14) Chapeau ocre à ocre olivacé. Chapeau nettement rayé de fibrilles innées. Lamelles souvent arquées-décurrentes. Spores 10-12 µm . Réaction aux bases tout au  plus brune. (Voir aussi 3.11.7.3.6.10 Cortinarius leochrous) .3.11.7.3.8.13 $ Cortinarius caesiocortinatus J. Schff. ap. Mos.
+15,16 $ Chapeau sans ou avec peu de fibrilles innées, ocre, jaune, brun jaune à brun rouge. Cuticule réagissant aux bases en brun, brun rouge à rouge sang
+16,0 $ (15) Chapeau ocre clair, ocre gris avec une composante un peu olivâtre, même  rouge brunâtre à la marge, 4-8 cm. Lamelles lilas, violettes. Stipe habituellement  court, avec un bulbe dont la face infère est fortement applatie. Réaction brune du  chapeau au contact de KOH. Spores 9,5-11 x 5-6,3 µm . Sous feuillus en terrain calcaire. (Voir aussi 3.11.7.3.6.7 Cortinarius parvus). - Mos XIX-111 . 3.11.7.3.6.8 $ Cortinarius platypus (Mos.) Mos.
+16,17 $ Chapeau jaune, brun jaune, brun orange à fauve
+17,0 $ (16) Chapeau jaune citron, parfois avec un reflet olivâtre ou à centre fauve, 4-6  cm. Lamelles rose violacé, blanc violacé, parfois assez pâles. Stipe blanchâtre, ocre  jaunâtre, 3,5-6 cm x 7-10 mm, bulbe jusqu'à 25 mm, généralement abruptement  marginé. Spores 8-10 x 4,5-5,5 (6) µm . Sous feuillus. - Lge 81 C, KM 118, Ri 37-2,  Mos XIX-105b c, Md 663 . 3.11.7.3.6.9.1 $ Cortinarius calochrous Fr.
+17,18 $ Chapeau brun jaune, jaune léonin, fauve, brun orange
+18,0 $ (17) Chapeau 4-6 (7) cm, brun jaune, jaune léonin, à marge parfois jaune citron à  jaune de chrome, un peu maculé. Lamelles rose violacé, longtemps avec un reflet  pourpre. Stipe blanchâtre, ocre jaunâtre. Spores 10-12 x 6-6,5 µm . (Stipe tout au  moins violet au sommet: 3.11.7.3.6.9.3 var. caroli (Vel.)). Forêts de conifères et forêts mêlées. - Bres 616, Mos XIX-105a & 106 . 3.11.7.3.6.9.2 $ Cortinarius calochrous var. coniferarum Mos.
+18,0 $ Chapeau 3-4 cm, jaune léonin-fauve pain (rouge cuivre acajou au contact des bases). Lamelles bleuâtres, brun lilacin, finement crénelées. Stipe 3-4 cm x 8-10 mm,  bulbe jusqu'à 20 mm, jaune miel. Chair avec des nuances un peu bleuâtre-verdâtre.  Spore 8-10 x 4-5 µm . Sous feuillus. - Mos XIX-107 . 3.11.7.3.6.10 $ Cortinarius leochrous J. Schff.
+19,20 $ (14) Cuticule réagissant en brun rouge aux bases (exception 3.11.7.3.6.11 Cortinarius citrinolilacinus). Chapeau ocre à jaune ou brun rouge. Stipe à bulbe nettement marginé. Ressemblance avec 3.11.7.3.6.8 Cortinarius platypus, 3.11.7.3.6.9  Cortinarius calochrous et 3.11.7.3.6.10 Cortinarius leochrous, mais en plus grand.  Stipe rarement bleu, violet ou lilas
+19,cs12 $. Réaction différente aux bases ou couleur différente ou avec beaucoup de fibrilles  innées. Stipe jeune généralement bleu, lilas, violet $ Clé 3.11.7.3.7 (page 507)
+20,0 $ (19) Chapeau jaune citron, 6-10 (12) cm, réaction aux bases nulle ou faiblement  brunâtre. Lamelles violet vif. Stipe pâle, ocre jaunâtre, jaunâtre citron vers le bas,  bulbe large mais plat ourlé de jaune citron par le voile, 6-12 cm x 10-16 mm, bulbe  jusqu'à 30 mm. Spores 9-11 x 5-5,5 (6) µm . Sous feuillus. - Mos XIX-109  3.11.7.3.6.11 $ Cortinarius citrinolilacinus (Mos.) Mos.
+20,21 $ Chapeau pas si jaune citron vif. Réaction aus bases plus forte
+21,0 $ (20) Chapeau ocre à ocre nuancé de brun rouge, tout au moins par bandes ou taches, 4-8 cm. Lamelles lilas vif. Stipe 5-9 cm x 10-20 mm, ocre à sommet parfois lilas. Spores 10-13 x 6-8 µm . Sous feuillus ou conifères. (Voir aussi 3.11.7.3.6.8 Cortinarius platypus). - BSMF 82 pl. 2, Mos XIX-110 . 3.11.7.3.6.12 $ Cortinarius cyanophyllus R. Hry.  (= Cortinarius fulvoochrascens ss. Mos.)
+21,22 $ Chapeau plus vivement coloré ou spores presque rondes
+22,0 $ (21) Spores presque rondes, 8-10 x 7-8,5 µm . Lamelles pas ou à peine lilas ou violettes, souvent ± argilacées. Chapeau 3-8 cm, jaunâtre à fauve, même ocracé. Cuticule réagissant en rouge aux bases. Stipe à sommet violet ou ocracé. Cortine bleuâtre ou ocre. Sous feuillus ou conifères. -$ Mos XX-115a b 116 
+22,23 $ Spores ± amygdaliformes
+23,24 $ (22) Spores 10-13 (14) x 5,5-7 µm 
+23,25 $ Spores un peu plus petites, 9-12 (13) x 4,5-6 µm 
+24,0 $ (23) Spores 10-12 (14) x 6-7 µm . Chapeau brun orange, brun rouge, marge souvent jaune de chrome, 6-8 (10) cm. Lamelles d'un beau violet ou lilas. Stipe ocre  jaunâtre à jaune cuivre, à sommet blanchâtre à légèrement violacé. Cuticule réagissanr aux bases en rouge vineux à brun vineux. Sous feuillus ou conifères. - Mos  XIX-108, Fr 145-3 . 3.11.7.3.6.14 $ Cortinarius pansa Fr.
+24,0 $ Stipe fortement rose lilacin et restant longtemps de cette couleur, puis devenant  ocre dans le bas. Mycélium basal généralement jaune. Chapeau jaunâtre ocre-citron,  souvent maculé par dessus de brunâtre ocre ou brun chamois plus foncé. Lamelles  violet lilacin à presque rose lilacin. Cuticule réagissant aux bases en brun rouge ou  brun d'ombre. Spores 10,5-12,8 x 5,5-7 µm . Sous conifères. - Mos XX-114, Ct 474 . .3.11.7.3.6.15 $ Cortinarius haasii (Mos.) Mos.
+25,0 $ (23) Chapeau, surtout à la marge, jaune vif, à centre concolore ou un peu brun  fauve, 4-8 (9) cm. Stipe blanchâtre (éventuellement sommet violacé). Bulbe (parfois volviforme) ourlé de jaune à jaunâtre ocre par le voile. Spores 9-11 (12) x 4,5-  5,5 µm . Cuticule réagissant aux bases en fauve à encre rouge. Sous conifères. - Mos  XX-112, Cke 713 . 3.11.7.3.6.16 $ Cortinarius arquatus Fr.  (= Cortinarius cookeianus Hry = Cortinarius xanthochrous Orton)
+25,0 $ Chapeau brun terne, ocre à brun chamois, encre rouge avec les bases, 4-8 cm.  Lamelles bleu violet, souvent assez pâles. Stipe pâle, souvent concolore au chapeau,  plus clair, à sommet un peu bleuâtre. Spores plus citriformes, 8,5-11 (12) x 6-6,5  µm . Sous feuillus ou conifères. - Lge 83 B, Mos XX-113 . 3.11.7.3.6.7 $ Cortinarius subarquatus (Mos.) Mos.
+
+
+cs20,0$
+rem $ 3.11.7.4 Sous-genre Sericeocybe P.D. Orton    Chapeau pas hygrophane, généralement sec, rarement un peu visqueux, soyeux ou micacé, à peine feutré ou rarement squamuleux. Lamelles argilacées, brunâtres, brun rouille ou bleues à violettes. Stipe cylindrique à claviforme.
+1,2 $ Chair devenant au contact de l'air rouge rose, rouge carmin, rouge vineux à rouge  brique. v(Délimitation et nomenclature pas complètement au point)
+1,3 $ Chair ne rougissant pas au contact de l'air
+2,0 $ v(1) Chapeau entièrement sec, 3-7 cm, violet assez foncé, densément recouvert par  des squamules brun jaune. Lamelles bleu foncé. Stipe plus pâle que le chapeau,  avec des fines squamules brunâtres dans le haut, base avec un bulbe épais, vite brun  rouge sale. Spores 9,5-11 (12) x 5,5-6,5 ?m. v(var. brevisporum: spores 7-8 x 5 ?m).  Sous feuillus (et conifères?). - Bres 636, PSC V 72, Ct 947 . 3.11.7.4.1.1 $ Cortinarius cyanites Fr.
+2,0 $ Chapeau nettement glutineux, 5-10 cm, bleuâtre gris plomb, centre gris brunâtre,  fibrilleux ou squamuleux dans la vieillesse.. Lamelles bleu lilacin, puis bleu-gris fumée, finalement brunes. Stipe 7-11 cm x 10-15 mm x 10-15 mm, bulbe 20 mm, concolore au chapeau, puis gris violacé. Odeur fruitée. Spores 11-12 x 5-6,5 ?m. Sous  feuillus. - Rg 222, PSC V 71 . 3.11.7.4.1. $ Cortinarius pseudocyanites Hry.
+3,cs23 $ v(1) Chapeau sec, ± soyeux-micacé ou chapeau et stipe couverts par des squamules  brunes (et alors sous bouleaux). Lamelles argilacées ou bleu violacé. Stipe ni très  épais ni court. Spores toujours ± rondes $ Clé 3.11.7.4.4 (Anomali) (page
+3,4 $ Chapeau soyeux, feutré, squamuleux ou micacé, mais spores jamais rondes ou  alors stipe épais et court
+4,cs21 $ v(3) Chapeau (tout au moins à la marge) et stipe violets, bleuâtres ou lilas pâle $ Clé 3.11.7.4.2 (Alboviolacei) (page 530)
+4,cs22 $ Chapeau blanchâtre, argilacé, brun, plus rarement fauve. Lamelles argilacées ou  violettes. v(Si chapeau brun jaune, stipe fusiforme-radicant, lamelles jaune bois, violettes ou brunes, voir 3.11.7.6.13.9 Cortinarius variipes) $ Clé 3.11.7.4.3 (Arguti, Opimi, Turgidi) (page 532)
+
+cs21,0$ rem$ 3.11.7.4.2 Alboviolacei.    Chapeau, tout au moins à la marge, bleu, lilas, violet.
+1,0 $ Lamelles jeunes déjà ocre safran à brun d'ombre avec un reflet pourpre. Chapeau,  stipe et voile violet lilacin vif, pâlissant pour devenir dans la vieillesse presque blanchâtres ou ocracés. Chapeau 3-10 cm, presque sphérique dans la jeunesse. Stipe claviforme, 6-10 cm x 10-30 mm. Chair brun jaune. Odeur désagréable d'acétylène (si  odeur agréable, fruitée: var. finitimum & var. odoratum). Spores (7) 8-10 x (4) 5-6  ?m. Sous feuillus ou conifères. - MH I 52, PSC IV 41, Lge 92 D, Ri 45-1, MP 141,  Ct 486 . 3.11.7.4.2.1  $ Cortinarius traganus Fr.
+1,2 $ Lamelles, tout au moins jeunes, bleu, lilas ou violet foncé à pâle
+2,3 $ v(1) Odeur nulle ou faible, peu frappante
+2,5 $ Odeur désagréable, ± frappante
+3,4 $ v(2) Chapeau et stipe jeunes blanc bleuâtre à gris argenté
+3,7 $ Stipe ou lamelles bleu violacé un peu foncé
+4,0 $ v(3) Stipe jamais annelé ou guêtré par le voile. Chapeau et stipe blanchâtre-lilas,  violacés, puis pâlissant. Chapeau ocracé dans la vieillesse, 4-10 cm. Stipe 6-8 cm x  10-20 mm, compact, bulbeux. Lamelles bleu violet vif, brun cannelle dans la vieillesse. Spores 8,5-9 x 6 ?m. Sous feuillus. - Cke 745 (771), Rg 64 . 3.11.7.4.2.2 $ Cortinarius subargentatus P. D. Orton  (= Cortinarius kauffmanianus Hry n. nud. = Cortinarius alboviolaceus auct. p.p.)
+4,0 $ Stipe jeune, annelé (parfois plusieurs fois) ou guêtré par le voile. Chapeau et stipe soyeux-blanc lilacin, lisses. Lamelles gris lilacin pâle, puis brun cannelle. Chapeau 2-7 cm. Stipe claviforme, 5-12 cm x 8-15 mm. Spores 8-10 x 5-6 ?m. Sous  feuillus ou conifères. - KM 142, Ct 488, Ri 44-5, Lge 92 A . 3.11.7.4.2.3 $ Cortinarius alboviolaceus (Pers. ex Fr.) Fr.
+5,0 $ v(3) Chapeau 4-15 cm, ocre brunâtre, puis brun rougeâtre, souvent maculé de rougeâtre. Lamelles brun pourpre. Stipe 10-14 cm x 10-25 mm, bleuâtre lavande, souvent avec une zone annulaire. Spores elliptiques à amygdaliformes, 6-8 (8,5) x 3-4  ?m. Dans les forêts mêlées. - FRIC 46 . 3.11.7.4.2.4 $ Cortinarius pearsonii Orton
+5,6 $ Chapeau jeune avec des teintes lilas ou violettes. Spores plus grandes, elliptiques  à amygdaliformes
+6,0 $ v(5) Spores 7,5-10 x 4,5-5,5 ?m. Chapeau d'abord bleu violet, puis brun ocre avec  l'âge, 5-10 cm. Lamelles bleu violet foncé, puis brun violet, finalement brun rouille.  Stipe 4-14 cm x 15-30 mm (à la base), bulbeux-claviforme, bleu violet pâle, puis  blanchâtre, ± annelé par le voile. Sous conifères. - CM 16, 2, pl.46 . 3.11.7.4.2.5 $ Cortinarius malachius Fr.
+6,0 $ Spores 9,5-12 x 5,5-6,5 ?m. Chapeau lilas pâle, vite décoloré, floconneux-pruineux dans la jeunesse, 5-10 cm. Lamelles pourpre pâle, puis ± cannelle. Stipe violet, parfois avec un anneau presque membraneux, 6-7 cm x 15-25 mm, bulbeux.  Sous conifères. - Lge 91 E, (Ri 44-3?) .3.11.7.4.2.6 $ Cortinarius malachioides P. D. Orton
+7,8 $ v(3) Odeur ± raphanoïde
+7,10 $ Odeur différente, souvent très désagréable
+8,0 $ v(7) Chapeau blanchâtre lilacin, pâlissant au disque, jaunâtre alutacé quand sec, soyeux, souvent longuement ridé, convexe, 5-7 cm. Lamelles pâles, puis cannelle. Stipe concolore, glabre, courtement bulbeux, presque fusiforme, 7-10 cm x 10-20 mm.  Spores 8-10 x 5 ?m. Sous hêtres. - Ct 492? .3.11.7.4.2.7 $ Cortinarius argentatus (Pers. ex Fr.) Fr.
+8,9 $ Chapeau plus vivement lilas, violet ou brun gris à brun violet
+9,0 $ v(8) Chapeau lilas à violet, se colorant un peu en brun gris, ponctué-squamuleux  dans la vieillesse, 5-8 cm. Lamelles gris lilacin à violet lilacin, puis gris bleu à brun  pourpre, brun cannelle. Stipe violacé, pâlissant pour devenir brun gris. Odeur raphanoïde à presque nulle. Spores 10-12 x 6-7 ?m. Sous feuillus ou conifères . 3.11.7.4.2.8 $ Cortinarius violaceo-cinereus (Pers. ex Fr.) Fr.
+9,0 $ Chapeau lilas, bleu-violet, puis ± brun, marge restant souvent lilacine, fibrilleux  ou légèrement squamuleux, 2-5-6 cm. Lamelles bleu violet, puis violet-brun rouille.  Stipe 4-9 cm x 5-10 (16) mm, ± bulbeux-claviforme, bleu violet pâle, guêtré-zoné  de lilas ou de bleuâtre (voile). Odeur raphanoïde. Spores 7-8,5 (9) x 5-6 ?m. Sous  feuillus ou conifères, parfois parmi les sphaignes. - Lge 91 B & C . 3.11.7.4.2.9 $ Cortinarius simulatus P. D. Orton  (= Cortinarius cinereoviolaceus Lge)
+10,0 $ v(7) Chapeau et stipe presque blanchâtre lilacin dès la prime jeunesse. Odeur douceâtre-spiritueuse, de pommes de terre pourries ou de bouc. Chapeau 5-9 cm, lilas  pâle, sommet se colorant en ocracé, souvent avec des fibrilles innées. Lamelles  bleues à lilacines, puis jaune rouille cannelle, souvent avec un reflet pourpre. Stipe  5-10 cm x 10-20 mm, claviforme. Spores 9-11 x 5-5,5 ?m. Sous feuillus ou conifères. - Bres 638, Fr 152-2, KM 149, Dh 444 & 445 . 3.11.7.4.2.10 . $ Cortinarius camphoratus Fr.  (= Cortinarius hircinus Fr.)
+10,0 $ Chapeau bleu lilacin, puis améthyste, 6-10 cm, centre brunâtre, marge avec un  voile pâle. Lamelles lilas, puis brun rouille. Stipe avec une base oviforme, lilas et  recouverte de blanc par le voile. Odeur de corne brûlée. Spores 9-10 x 4-5 ?m. v(Si  chair jaune avec les bases, voir 3.11.7.3.9.10 Cortinarius muricinus) .3.11.7.4.2.11 $ Cortinarius amethystinus Schff. ex Quél.
+
+cs22,0$
+rem $ .11.7.4.3 Opimi, Arguti, Turgidi.  Chapeau avec une prédominance de teintes argilacées ou brunes.
+1,2 $ Lamelles, tout au moins dans la jeunesse, bleuâtres, violettes ou avec une composante de cette couleur, devenant par la suite brunâtres
+1,6 $ Lamelles, même jeunes, nettement blanchâtres, argilacées ou brunâtres
+2,3 $ v(1) Stipe épais et robuste, ferme, souvent d'une épaisseur de 30 mm et plus
+2,0 $ Stipe cylindrique, claviforme, plutôt fragile, 5-8 cm x 10-15 mm, blanchâtre, vers  le bas ocre jaunâtre, plusieurs fois zoné-ceinturé. Chapeau 2-6 cm, feutré-fibrilleux  ou squamuleux, ocre-brunâtre rouge. Lamelles d'un beau lilas bleuâtre, puis ocre-  pourpre. Spores longuement elliptiques, 13-15 x 7,7-8 ?m, grossièrement verruqueuses. Sous feuillus sur sol calcaire . 3.11.7.4.3.1 $ Cortinarius vulpinus (Vel.) Hry.  (= Cortinarius rufoalbus Kühn.)
+3,4 $ v(2) Odeur de fruits, de terre, raphanoïde ou de camphre
+3,5 $ Odeur indéfinissable, peu frappante
+4,0 $ v(3) Odeur fruitée à terreuse. Chapeau 4-12 cm, feutré-squamuleux, brun ocre, plus  foncé dans la vieillesse, presque brun rouille. Lamelles bleu lilacin, puis cannelle aqueux, brun jaune rouille. Stipe cylindrique ou claviforme, gris bleu lilacin, blanchâtre vers le bas, 5-10 cm x 15-30 mm. Spores 9-11 x 5 ?m. Sous hêtres . 3.11.7.4.3.2 . $ Cortinarius tomentosus Hry.
+4,0 $ Odeur raphanoïde, de camphre ou de fruits. Chapeau 1-6 cm, brun gris, recouvert  de blanchâtre par le voile. Lamelles lilas, puis ± brun rouille. Spores (7) 8-11,5 x 5-  6 ?m. Sous conifères (épicéas) .3.11.7.6.11.11 $ Cortinarius subviolascens (page 561)
+5,0 $ v(3) Chapeau alutacé pâle, presque feutré-squamuleux, jaune rouille à brun ligneux  dans la vieillesse, souvent maculé de brun, 6-10 cm. Lamelles bleuâtre argilacé puis  brunes. Stipe pâle avec un reflet violacé, compact, 3-5 cm x 30-50 mm. Chair blanchâtre. Spores 8-9 x 7-8 ?m. Sous hêtres et dans les forêts de conifères. - Ri 45-4 ...3.11.7.4.3.4 $ Cortinarius opimus Fr. v(ss. Ricken)
+5,0 $ Spores 9-11,5 x 5,5-6 ?m. Chapeau 3-10 cm, brunâtre, ocre, brun rouille, marge  parfois avec une nuance violette. Lamelles argilacées, parfois nuancées de violet,  puis brun rouille. Stipe 4-9 cm x 10-20 (35) mm, claviforme, bulbeux, brunâtre- blanchâtre, sommet légèrement violet, parfois avec une zone fugace (voile). Sous  feuillus. - Lge 90 A, PSC V 80. v(Voir aussi 3.11.7.6.13.10 Cortinarius suillus ss.  Favre)  3.11.7.4.3.5 . $ Cortinarius suillus Fr. ss. Lge
+6,7 $ v(1) Carpophore ± inodore
+6,10 $ Carpophore avec une odeur nette (de rave, de gaz d'éclairage, de fruits ou douceâtre)
+7,0 $ v(6) Stations herbeuses sous saules ou noisetiers. Chapeau blanchâtre argilacé, convexe, 4-7 cm, soyeux, parfois avec un soupçon de lilas. Lamelles pourpre-rouille-  aqueux. Stipe à sommet grisâtre, ailleurs annelé et recouvert par un voile blanc, 4-5  cm x 10 mm. Spores 7,5-9 x 4,5 ?m. - Lge 97 B . 3.11.7.4.3.6 $ Cortinarius urbicus Fr.
+7,8 $ Poussant toujours dans les forêts
+8,0 $ v(7) Chapeau avec un éparpillement de veinules grises sur fond brun gris-isabelle,  marge grise, 3-7 cm. Lamelles d'abord isabelle pâle puis brun gris. Stipe cylindrique, sommet gris, parfois avec un reflet violet, base brune avec des fibrilles brunes  et noirâtres. Cortine grise. Spores 10-11 x 6,5 ?m . 3.11.7.4.3.7 $ Cortinarius sordescens Hry.
+8,9 $ Chapeau blanc, blanchâtre argilacé, alutacé clair
+9,0 $ v(8) Chapeau blanchâtre argilacé ou alutacé clair, luisant, un peu micacé et pruineux  dans la jeunesse, 5-10 cm. Lamelles blanchâtres, puis argilacé pâle, serrées. Stipe  bulbeux à radicant, 5-7 cm x 10-25 mm, blanc, presque luisant. Spores 9,5-10 x 5-  6,5 ?m. Sous hêtres. - Lge 92 C . 3.11.7.4.3.8 $ Cortinarius turgidus Fr.  9*. Chapeau soyeux, blanc, marge même brun café au lait, ± fortement recouvert par un voile blanc fi-  brilleux à presque membraneux, 2,5-7 cm. Lamelles argilacé pâle, finalement ocre jaune rouille. Stipe  2-4,5 cm x 5-15 mm, bulbe 12-30 mm (parfois ± marginé), blanc, d'abord recouvert par le voile. Spores 8-10 x 4,5-5 ?m, elliptiques et grêles, souvent latéralement étranglées et piriformes. Sous chênes  en Hongrie3.11.7.4.3.9 Cortinarius moserianus Bohus
+10,11 $ v(6) Odeur toujours ± douceâtre, agréable
+10,12 $ Odeur désagréable sur le frais (puis parfois fruitée)
+11,0 $ v(10) Odeur fruitée (de mirabelle) ou de fleur d'iris. Chapeau brun gris pâle, rouille  argilacé, brun café au lait, 4-8 cm, avec des squamules apprimées, souvent feutré.  Lamelles brun-isabelle. Stipe avec un bulbe napiforme, jusqu'à 35 mm de diamètre,  avec une zone annulaire ocracée. Chair brun ocre. Spores 10-11 x 6-6,5 ?m  3.11.7.4.3.10 $ Cortinarius hillieri Hry.
+11,0 $ Odeur faiblement raphanoïde, puis de sucre, semblable à celle de Hebeloma sacchariolens. Jeunes carpophores entièrement recouvert par le voile blanc. Chapeau  jusqu'à 12 cm, ± brunâtre rouille, plus foncé quand frais ou vieux. Souvent avec des  restes du voile. Lamelles brun chocolat à brun rouille. Stipe jusqu'à 11 cm x 15-20   mm, base 45 mm, blanc puis brunissant, parfois à sommet un peu lilas dans le jeunesse, avec une ou plusieurs zones blanches ou jaunâtres laissées par le voile. Spores 8-9 x 4-4,5 ?m. Dans les forêts mixtes. - BSMF 71, atl. 103 & 104 . 3.11.7.4.3.11 $ Cortinarius alborufescens Imler
+12,0 $ v(10) Odeur un peu raphanoïde à la coupe, puis fruitée au bout de quelques minutes. Chapeau et stipe d'abord blanc argilacé, puis brun gris, tout au moins au frottement. Chapeau 4-8 cm et plus. Stipe bulbeux, 10-15 mm de diamètre au sommet,  jusqu'à 35 mm au bulbe. Lamelles brun pâle, puis cannelle. Chair marbrée à l'état  frais. Spores 8-10 x 5,5 ?m. Sous conifères . 3.11.7.4.3.12 $ Cortinarius diosmus Kühn.
+12,0 $ Odeur légère de gaz d'éclairage, semblable à celle de Tricholoma lascivum. Chapeau jaune ocre argilacé, alutacé, localement argenté-micacé, pouvant être presque  méchuleux, à marge blanche et soyeuse, conique-campanulé, 5-10 cm. Lamelles  jaune argilacé, puis jaune rouille, presqu'espacées. Stipe pâle, floconneux-squamuleux, parfois guêtré, ventru, radicant, 5-8 cm x 20-25 mm. Spores 13-16 x 8-9 ?m.  Sous feuillus . 3.11.7.4.3.13 $ Cortinarius argutus Fr. v(ss. Ricken)
+
+cs23,0$ 3.11.7.4.4 Anomali.   Chapeau sec, micacé. Spores presque rondes.
+1,2 $ Lamelles blanchâtres, argilacées, brunes (rarement avec un reflet lilas)
+1,4 $ Lamelles, tout au moins dans la jeunesse, bleuâtres ou violettes
+2,0 $ v(1) Stipe pâle, avec des flocons (voile) ocre foncé, 5-10 (14) cm x 8-12 (14) mm,  légèrement claviforme. Chapeau sec, 3-6 cm, brun gris, sec ± brun jaune. Lamelles  brun jaune, puis brun café au lait. Spores largement elliptiques, finement verruqueuses, 7,5-8 x 5,5-6,2 ?m. Sous bouleaux dans les forêts de conifères . 3.11.7.4.4.1 $ Cortinarius ochrophyllus Fr.
+2,3 $ Stipe blanc ou recouvert par un voile blanc (qui se colore en ocre avec l'âge)
+3,0 $ v(2) Chapeau légèrement visqueux dans la jeunesse, vite sec, brun gris, plus fortement micacé, à disque brun rouille, 5-10 cm. Lamelles brun gris (parfois avec un  faible reflet lilas). Stipe 10-12 (14) cm x 10-15 mm, base jusqu'à 22 mm. Spores  7,5-8,5 x 6-7 ?m, (rarement 11 x 7 ?m). Dans les forêts de feuillus ou de conifères  et les landes avec des bouleaux. - Lge 86 D . 3.11.7.4.4.2 $ Cortinarius decoloratus (Fr. ex Fr.) Fr.
+3,0 $ Chapeau entièrement sec, modérément micacé, brun rouge, plus gris brun à la  marge, longtemps recouvert par un voile blanchâtre-ocracé, 2-8 cm. Lamelles blanchâtre-argilacé, puis brunâtre-argilacé. Stipe 3-10 cm x 4-15 (base 20) mm, blanchâtre, se colorant dans le bas en ocracé pâle à brunâtre. Spores 7-8 x 5,2-6,5 ?m. v(Voir  aussi 3.11.7.4.2.4 Cortinarius pearsonii ) .3.11.7.4.4.3 $ Cortinarius tabularis Fr.
+4,0 $ v(3) Chapeau et stipe avec des squamules hérissées, brun chocolat à brun d'ombre  sur fond brun clair. Chapeau 4-10 cm. Lamelles jeunes violet-bleuâtre ou argilacées.   Stipe vite creux, sommet bleuâtre dans la jeunesse, puis brun, 5-12 cm x 10-15 mm.  Spores 7-8 (8,5) x 5-6 (6,5) ?m. Sous bouleaux, commun dans les marais. - Ri 46-4,  Lge 93 F, Rg 67, PSC IV 43, KM 139, Dh 446 . 3.11.7.4.4.4 $ Cortinarius pholideus (Fr. ex Fr.) Fr.
+4,5 $ Chapeau et stipe sans squames presque hérissées
+5,6 $ v(4) Chapeau jeune sans teintes bleuâtres ou violettes nettes, ces teintes apparaissent  tout au plus à la marge en mélange avec d'autres couleurs
+5,12 $ Chapeau jeune bleuâtre ou violet
+6,7 $ v(5) Chapeau brun fauve, brun gris, brun violet, gris
+6,11 $ Chapeau ocre alutacé pâle, argilacé, fauve
+7,0 $ v(6) Stipe avec des squamules brun cuivre sur fond blanchâtre argilacé à violet, 4-8  cm x 2-8 mm. Chapeau brun violet à brun rouge, parfois brun ocre, 1-5 cm. Lamelles violettes, puis brun café au lait. Spores 6-8 x 6-6,5 ?m. Dans les forêts de conifères et sous bouleaux. - Bres 643, Lge 96 B & D, Rg 226 B . 3.11.7.4.4.5 $ Cortinarius spilomeus (Fr. ex Fr.) Fr.
+7,8 $ Stipe sans squamules brun cuivre
+8,9 $ v(7) Stipe avec des zones (voile) ± irrégulières, jaunâtres à ocracées ou avec des  squamules en dessous de la cortine
+8,10 $ Stipe dépourvu de telles zones, mais parfois avec une ceinture brunâtre
+9,0 $ v(8) Chapeau brun gris violet, gris, 4-7 cm, convexe. Lamelles violettes, bleues, cannelle dans la vieillesse. Chair violette, bleuâtre. Stipe bleuâtre au sommet, vers le  bas argilacé pâle à presque blanchâtre avec des zones ocracées. Spores 8-9 x 6-7,5  ?m. Dans les forêts de feuillus ou de conifères, jusqu'en lisière. - Ri 47-1, KM 150-  1, Lge 94 C, Rg 226 A, Ct 491, Dh 447 . 3.11.7.4.4.6 *$ Cortinarius anomalus (Fr. ex Fr.) Fr.
+9,0 $ Chapeau bleuâtre pâle, argilacé, ocre brunâtre, marge souvent bleuâtre et avec  des restes du voile, 4-8 cm. Lamelles bleu violet, puis rouille argilacé. Stipe blanchâtre, taches ou zones laissées par le voile ocracées. Spores 8-10 x 7-8 ?m. Sous  feuillus . 3.11.7.4.4.7 $ Cortinarius azureovelatus P. D. Orton
+10,0 $ v(8) Chapeau vite fauve rouille, jeune avec une nuance violette; 3-10 cm, convexe.  Lamelles violet lilacin, brun cannelle aqueux dans la vieillesse. Stipe argilacé pâle à  violet, souvent avec des ceintures (voile) minces et ± brunâtres. Spores 8-9 x 7-8  ?m. Sous feuillus ou conifères. - Ri 46-5, Lge 93 C, Ct 483, Dh 448 . 3.11.7.4.4.8 *$ Cortinarius caninus (Fr.) Fr.
+10,0 $ Chapeau ocre brunâtre, puis brun rouille fauve, 1,5-7,5 ?m. Lamelles violet argilacé pâle, puis brun rouille. Stipe blanc, avec une nuance ocre pâle, avec une zone  cortinoïde blanche. Chair blanche. Spores 8-11 (12) x 6-8 (8,5) ?m. Stations herbeuses et même en forêt. - Cke 768 (765) .3.11.7.4.4.9 $ Cortinarius epsomiensis P. D. Orton
+11,0 $ v(6) Chapeau ocre fauve pâle, assez glutineux à l'état humide, marge avec des flocons blancs nageant dans le mucus, 2,5-6 cm, platement convexe. Lamelles lilas,  puis jaune rouille. Stipe légèrement claviforme, argenté pâle, sommet gris lilacin,  6-12 cm x 5-14 mm. Spores 7,5-8,5 x 6-6,5 ?m. Sous feuillus, plus rarement sous  conifères. - (Lge 94 B?) .3.11.7.4.4.10 $ Cortinarius viscidulus Mos. v(ined.)  (= Cortinarius tabularis ss. Mos. 1967)
+11,0 $ Chapeau brun argilacé, brun alutacé, platement convexe, 3-5 cm. Lamelles d'abord bleuâtres, puis brun café au lait. Sommet du stipe bleuâtre-argenté, bas du stipe ocracé. Stipe 5-7 cm x 9-10 mm. Odeur nulle ou faiblement douceâtre-spiritueuse. Spores 8-9 x 7-8 ?m. Sous feuillus ou conifères . 3.11.7.4.4.11 $ Cortinarius diabolicus Fr.
+12,0 $ v(5) Chapeau jeune fortement violet lilacin ou gris lilacin, devenant plus tard brunâtre, 3,5-7 cm, convexe. Lamelles bleuâtres, violettes, brun rouille dans la vieillesse. Stipe claviforme, bleuâtre, puis pâlissant pour devenir argenté, ocracé dans le  bas, 6-12 cm x 8-10 mm. Spores 8-10 x 6-8 ?m. Dans les forêts de feuillus et dans  les forêts mixtes. - KM 150-2 . 3.11.7.4.4.12 $ Cortinarius azureus Fr.
+12,0 $ Chapeau 3-7,5 cm, brunâtre fuligineux avec une nuance lilas, fibrilleux-soyeux-blanc. Lamelles bleu  améthyste, puis bleuâtre argilacé. Stipe 5-7 cm x 6-12 mm, claviforme, bulbeux, blanchâtre, soyeux-  blanc. Spores elliptiques, 10-11x 4,5 ?m. Sous hêtres. Espèce insuffisamment étudiée . 3.11.7.4.4.13 $ Cortinarius myrtillinus Fr.

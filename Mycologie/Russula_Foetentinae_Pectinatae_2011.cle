@@ -1,0 +1,39 @@
+
+titre$Russula subsections Foetentinae and Pectinatae 2011
+com$adapt GF 19 fev 2022
+
+1,cs1 $ Fungus usually small (cap 4 - 7 cm), odour faint, fruity or nauseating. Margin strongly tuberculate. Spores elliptic to broadly elliptic up to 8 µm long with low warts and connections (never with wings or distinct ridges) $$s"Pectinatae"
+1,cs2 $ Species midsized to large (cap 5 - 15cm) with strong odour either unpleasant (foetid) or of marzipan, almonds (cherry-laurel); colours often reddish or brown or ochraceous. Spores elliptic to subglobose often larger than 8 µm (except for R. subfoetens), warted or winged (up to 2 µm in R. grata) with ridges or isolated warts $$s"Foetentinae"
+ 1,0$
+1,0$ document complémentaire $$f"Russula_Foetentinae_Pectinatae_2011.pdf"
+1,0$
+1,0$
+1,0$
+1,0$
+1,0$ source : Anna Bazzicalupo & Dr Stephan Helfer ///A key to Russula subsections Foetentinae and Pectinatae///https://sites.google.com/site/scottishfungi/identification/id-keys/russula-pectinatae-and-foetentinae
+
+
+cs1,0$
+
+1,0 $ a. Spores distinctly elongated to ellipsoid, 9 x 6.5 µm with low warts and very few interconnections. Pileipellis with dichotomously branched end-cells; cystidia black in SV with yellow oily inclusions $ R. amoenolens
+1,2 $ b. Spores ellipsoid to subglobose rarely greater than 8 µm
+2,0 $ a. Spores ellipsoid with few low warts and few connections. Pileipellis with many end cells with small papillae. Odour nauseous and fruity $ R. pectinata
+2,0 $ b. Spores with distinct low warts and interconnections. Pileipellis with finely encrusted end-cells $ R. insignis
+
+
+
+
+
+cs2,0$
+1,2 $ a. Spores ellipsoid, broadly ellipsoid to subglobose greater than 8 µm
+1,5 $ b. Spores broadly ellipsoid, rarely subglobose smaller then 8 µm
+2,0 $ a. Spores rarely greater than 9 µm with irregular and obtuse warts and interconnection with some distinct ridges. Dark marginal cystidia, only terminal parts of cystidia blackening in SV. Always with distinct dark (black purplish) edge to gills $  R. illota
+2,3 $ b. Spores often greater than 9 µm and distinct ornamentation
+3,4 $ a. Spores with pronounced ornamentation, with ridged interconnections, and warts sometimes forming wings
+3,0 $ b. Spores with isolated or connected, distinctly pointed warts. Pileipellis a mixture of long thin elements and broader torpedo-shaped cells; cystidia black with SV. Foetid smell and nauseous taste $  R. foetens
+4,0 $ a. Spores with winged ornamentation up to 2 µm with ridged interconnection. Cystidia yellow then grey or black in SV. Acrid taste and strong cherry-laurel almond (marzipan) odour(3) $ R. grata
+4,0 $ b. Spores pointed warts up to 1 µm forming ridged interconnections (zebroid). Pileipellis with obtuse or torpedo shaped cells: cystidia slowly grey black in SV. Acrid taste and strong cherry-laurel almond (marzipan) odour $ R. fragrantissima
+5,6 $ a. Spore ornamentation of pointed warts, no interconnections
+5,0 $ b. Spores broadly ellipsoid with pointed warts varying from no interconnections to reticulum-like connections. Narrow finger-like elements in pileipellis; cystidia blackening or greying, sometimes with a reddish hue. Nauseous taste and odour $  R. praetervisa
+6,0 $ a. Strong pointed warts. Pileipellis of shortened elements mixed with rather more torpedo-shaped cells; cystidia black with SV. Acrid taste and unpleasant odour $ R. subfoetens
+6,0 $ b. Carpophore as in R. subfoetens, but with mild taste $ R. subfoetens var. grata

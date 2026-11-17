@@ -1,0 +1,46 @@
+titre$ Xylaria J.Fournier-JF.Magni
+com$ tirée de pyrenomycetes.free.fr/adapt nov 09
+
+1,CS1$Xylariaceous fungi having multiperitheciate stromata (except Creosphaeria) that are not stalked nor with concentric fibrous rings$$s" genera formerly classified as Hypoxylon"
+	Key 1
+1,CS2$Not (Xylariaceous fungi having multiperitheciate stromata (except Creosphaeria) that are not stalked nor with concentric fibrous rings)$$s"other xylariaceous genera than  Hypoxylon"
+	Key 2
+
+cs1,0$Key 1: genera formerly classified as Hypoxylon
+1,0 $ Stromata partially immersed, ascospores with conspicuous poroid germ site $ Euepixylon
+1,2 $ Stromata superficial, ascospores with elongated germ slit, more rarely without apparent germ slit
+2,0 $ Stromata crust-like, thick (>2mm), weakly attached to the substrate $ Kretzschmaria
+2,3 $ Stromata thinner, more widely attached to the substrate
+3,4 $ Ascal apical ring discoid, broader than high
+3,6 $ Ascal apical ring inverted hat-shaped, higher than broad
+4,0 $ Stromata applanate or cupulate, carbonaceous, when young with an outer dehiscing layer, without KOH-extractable pigments $ Biscogniauxia
+4,5 $ Stromata applanate, pulvinate or hemispherical, waxy, usually coloured and yielding KOH-extractable pigments
+5,0 $ Stromata uniperitheciate, coalescent in linear rows; perithecia globose, large, > 1mm diam; anamorph Libertella $ Creosphaeria
+5,0 $ Stromata multiperitheciate; perithecia obovoid, tubular, when globose <1mm diam; anamorph Nodulisporium-like $ Hypoxylon
+6,0 $ Stromata erumpent from bark, perithecia large, > 1mm diam $ Entoleuca
+6,0 $ Stromata not erumpent, perithecia smaller $ Nemania
+
+cs2,0$Key 2: other xylariaceous genera
+cs2   Key 2: other xylariaceous genera
+1,2 $ On dung
+1,5 $ Substrate different (than dung)
+2,0 $ Stromata uniperitheciate, immersed $ Hypocopra
+2,3 $ Stromata multiperitheciate, more or less stipitate
+3,0 $ Asci lacking an apical ring $ Wawelia
+3,4 $ Ascii with an apical ring
+4,0 $ Stromata dicoid, flattened, on a short stipe $ Poronia
+4,0 $ Stromata pulvinate to rounded, on a short to long filiform stipe $ Podosordaria
+5,6 $ Stromata uniperitheciate
+5,8 $ Stromata multiperitheciate
+6,0 $ Each perithecium in a superficial subglobose stroma, often associated with a subiculum $ Rosellinia
+6,7 $ Each perithecium immersed in the substrate, under a stroma reduced to a black clypeus
+7,0 $ Ascospores one-celled $ Lopadostoma subg. Anthostomopsis
+7,0 $ Ascospores two-celled when young, cellular appendage often present when mature $ Anthostomella s.l.
+8,9 $ Stromata yielding pigments in 10% KOH
+8,10 $ Pigments absent
+9,0 $ Stromatal interior with concentric zones $ Daldinia
+9,0 $ Stromatal interior hollow, filled with liquid when young $ Entonaema
+10,0 $ Stromata stipitate constricted at base $ Xylaria
+10,11 $ Stromata non-stipitate
+11,0 $ Stromata effused in bark of Quercus, bipartite, very inconspicuous; asci lacking apical ring $ Obolarina
+11,0 $ Strata pustulate to effused, erumpent to superficial, frequently valsoid; on various hosts; ascal apical ring present $ Lopadostoma subg. Lopadostoma

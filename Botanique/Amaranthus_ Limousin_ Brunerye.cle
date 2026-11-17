@@ -1,0 +1,25 @@
+titre$Amaranthus du Limousin par Luc Brunerye
+com$cf  Bulletin  ALBL Ancolie 40/Adapt GF janv 2012
+1,2$ Généralités
+1,cs1$Espèces à inflorescence feuillée jusqu’au sommet.
+1,cs2$Espèces à inflorescence terminée par une panicule ou une portion de panicule (parfois courte) non feuillée.
+2,0$-Les fleurs des Amaranthus sont unisexuées, 1-3 bractées soutiennent un périgone de (2)-3-( tépales sépaloïdes scarieux ;///-le port de la plante est indiqué pour une croissance normale. Ne pas oublier que, vu leur habitat, les amaranthes peuvent être souvent blessées ou piétinées ;///-Il n’est pas tenu compte des formes à inflorescence rouge vif qui peuvent s’échapper de jardins mais ne s’éloignent jamais de ceux-ci ;
+
+CS1,0$Espèces à inflorescence feuillée jusqu’au sommet.
+1,0$ - Bractées épineuses. Feuilles obovales à marge ondulée. Plante très rameuse, pyramidale. $ A. albus
+1,0$ - Bractées aiguës mais non épineuses. Feuilles sub-losangiques peu ou pas ondulées $ A. graecizans subsp. sylvestris
+
+
+ cs2,0$Espèces à inflorescence terminée par une panicule ou une portion de panicule (parfois courte) non feuillée.
+
+1,2$ Bractées non épineuses ne dépassant pas le périgone de 1-3 pièces. Fruit indéhiscent, semence constituée par l’ensemble de la fleur (akène et périgone).
+1,4$Bractées épineuses dépassant souvent le périgone de 3-5 pièces. Plantes dressées. Fruit à déhiscence circulaire ou indéhiscent.
+2,0$ Partie non feuillée de l’inflorescence portant des rameaux latéraux allongés. Plante plutôt dressée$A. viridis
+2,3$Partie non feuillée de l’inflorescence à rameaux courts et peu saillants. Plantes plutôt couchées ou ascendantes.
+2,0$ Tiges pubescentes, feuilles obtuses sub-losangiques, généralement 2 tépales$A. deflexus
+3,0$ Tiges glabres, feuilles émarginées au sommet, généralement 3 tépales$A. blitum
+3,0$ Tiges glabres, feuilles émarginées au sommet, généralement 3 tépales Graines >=  1,2 mm : $A. blitum  subsp. blitum.
+3,0$ Tiges glabres, feuilles émarginées au sommet, généralement 3 tépales Graines <=  1,2 mm, limbe fortement émarginé : : subsp. emarginatus$A. blitum  subsp. emarginatus
+4,0$ Tépales élargis au sommet, plus ou moins spatulés et mucronés. Plante pubescente$A. retroflexus
+4,0$ Tépales lancéolés, aigus$A. hybridus
+4,0,n$Ensemble confus de taxons très voisins au rang très discuté, s’hybridant entre eux et donnant des hybrides fertiles. Aucune flore ne traite cet ensemble de la même façon. Voir P. JAUZEIN, Flore des champs cultivés, p.106. Il est souvent convenu d’appeler A. bouchonii les formes à fruit indéhiscent libérant la graine par une déchirure de l’enveloppe et non par une déhiscence circulaire.

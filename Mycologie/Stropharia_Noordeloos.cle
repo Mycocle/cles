@@ -1,0 +1,50 @@
+31-10-2013
+1,cs1 $ Stipe dry below annulus or annuliform zone $$s"Subgenus Stropharia"
+1,cs2 $ Stipe glutinous-slimy below annulus or annuliform zone $$s"Subgenus Stercophila"
+
+cs1,0 $
+1,2 $ Basidiocarps with green or blue-green tinge
+1,6 $ Basidiocarps without green or blue tinge
+2,3 $ Lamella edge white, with abundant cheiloleptocystidia, but without or rarely mixed with a few chrysocystidia
+2,4 $ Lamella edge concolorous with sides, with chrysocystidia only
+3,0 $ Annulus well-developed $ S. aeruginosa
+3,0 $ Annulus poorly developed $ S. pseudocyanea
+4,0 $ Pileus hardly viscid, almost dry, breaking up in rather coarse, appressed squamules with age; lamellae brown when mature, without violaceous tinge; spores yellow-brown in water with rather thin wall $ S. squamulosa
+4,5 $ Pileus strongly viscid when moist, not squamulose, except for some patches of white veil near or along margin
+5,0 $ In boreal to temperate woods, parks, along roads, in poorly manured grasslands and in heaths; spores (7.5-) 8.0-9.0 (-10) * 4.0-5.5 (-6.0) µm, Q = 1.45-2.0, ellipsoid to oblong in side-view, ovoid in frontal view, with almost invisible germ pore, thin-walled, pale brown in water $ S. caerulea
+5,0 $ In subarctic to alpine heaths and grassland; spores 9-11 (-11.5) * 5-7 µm, Q = 1.4-1.6, ovoid, moderately thick-walled with yellowish walls, with small but distinct germ pore $ S. alpina
+6,7 $ Spore length < 10 µm
+6,9 $ Spore length > 10 µm
+7,0 $ Pileus yellow-ochre, dry $ S. coronilla
+7,8 $ Pileus rather strongly viscid to glutinous
+8,0 $ Pileus pale brown-grey with distinct violaceous tinge to purplish brown $ S. inuncta
+8,0 $ Pileus pure white then tinged ochre at centre (compare also weathered specimens of S.pseudocyanea) $ S. albonitens
+9,10 $ Pileus white to pale yellow
+9,12 $ Pileus brown or reddish brown with distinct violaceous-purple tinge
+10,0 $ Lamella edge with abundant clavate cheiloleptocystidia, but without cheilochrysocystidia; in sandy soil of primary coastal dunes among Ammophila arenaria $ S. halophila
+10,11 $ Lamella edge with abundant chrysocystidia; in humus-rich soil
+11,0 $ Spores 10.0-12.5 (-13.0) * 6.5-8.5 (-9.0) µm; cheiloleptocystidia absent $ S. melanosperma
+11,0 $ Spores 11-15 (-17) * 6.0-8.0 * 7.0-9.0 µm; cheiloleptocystidia present among cheilochrysocystidia $ S. rugosoannulata, whitish forms
+12,0 $ Pileus strongly viscid when moist; stipe flocculose-squamulose in lower part; on rotten deciduous (Betula) and coniferous wood in boreal or montane forest $ S. hornemannii
+12,0 $ Pileus only slightly viscid when moist, soon dry; stipe fibrillose in lower part; in humus, on woodchips etc. in ruderal places, meadows, etc $ S. rugosoannulata
+
+
+cs2,0 $
+1,2 $ Chrysocystidia present
+1,6 $ Chrysocystidia absent
+
+2,0 $ Spores narrow, less than 8.5 pm wide $ S. alcis
+2,3 $ Spores broader, ranging from 8.5-11 pm wide
+
+3,4 $ Caulochrysocystidia present
+3,5 $ Caulochrysocystidia absent
+
+4,0 $ Pileus and stipe with greenish-ochre tinges; pileus breaking up in concentrically arranged squamules with age $ S. ochraceoviridis
+4,0 $ Pileus and stipe without green-ochre tinges; pileus smooth $ S. semiglobata
+
+5,0 $ Spores with distinctly eccentric germ pore $ S. dorsipora
+5,0 $ Spores with central germ pore $ S. arctica
+
+6,0 $ Basidia 2-spored $ S. luteonitens
+6,0 $ Basidia 4-spored $ S. islandica
+

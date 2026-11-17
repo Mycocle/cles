@@ -1,0 +1,148 @@
+MYCOCLE 00210760719050612C5D12
+ clé exploitable par Mycoclé 2.04
+Mycoclé 2.05 Pezizales et Thelebolaceae fimicoles d'Italie
+ Adaptation par Aurélien Paris
+REM$LANGUE$Détection automatique
+2507113579111315171921232527293133353739414345474951535557596163656769717375777981838587899193959799101103105107109111113115117119121123125127129131133135137139141
+0 1a : Asques habituellement étroitement cylindriques, operculés, 8-sporiques, non émergents à maturité au-dessus du niveau général de l'hyménium. Spores unisériées, sauf exceptions rares.011113502
+0 1b : Asques cylindro-clavés, clavés ou vésiculeux, exceptionnellement cylindriques (et alors spores unisériées), operculés (mais parfois à opercule non fonctionnel) ou déhiscent par une fente, 8- ou polysporiques, émergents à maturité. Spores bisériées ou agglutinées.0112136020
+0s"Pezizaceae p.p." 2a : Ascome glabre, supérieur à 10 mm de diamètre. Asques amyloïdes, à de très rares exceptions près. 02131480 Pezizaceae p.p. 3
+0s"Otideaceae p.p." 2b : Ascome poilu, plus petit (normalement 1-10 mm). Asques non amyloïdes. 02141490 Otideaceae p.p. 6
+0 3a : Spores ornées de verrues punctiformes et/ou de crêtes courtes et basses.0335151104
+0 3b : Spores lisses.0336151205
+0 4a : Apothécie stipitée. Spores 14.1-15.7 x 6.8-7.8 µm (13-16.5 x 6.5-7.5 µm ss. auct.). 045716140 Peziza perdicina (Vel.) Svr.0
+0 4b : Apothécie sessile. Spores 17.1-18 x 8.5-9 µm (15-18 x 7-8.5 µm ss. auct.). 045816150 Peziza merdae Donad.0
+0 5a : Apothécie relativement petite (jusqu'à 20 mm), en coupe profonde, tendant à s'aplatir. Surface hyméniale ± régulière. Spores 20-22.5 x 10-11.7 µm (19-22 µm ss. auct.). Excipulum 2-stratifié (textura globulosa). 056917170 Peziza fimeti (Fuckel) Seaver0
+0 5b : Apothécie plus grande (parfois même plus de 100 mm), en coupe profonde et s'aplatissant peu. Surface hyméniale vésiculeuse. Spores 20-21.6 x 11.2-12.6 µm (20-24 x 10-14 µm ss. auct.). Excipulum 5-stratifié (strate médiane en textura intricata). 0561017180 Peziza vesiculosa Bull.:Fr.0
+0 6a : Apothécie discoïde ou turbinée, rarement en coupe, vivement colorée de diverses nuances de jaune, orange ou rouge. Paraphyses renfermant des pigments caroténoïdes. Poils (soies) généralement radicants.06411182007
+0 6b : Apothécie souvent cupulée, sessile ou brièvement stipitée, tendant à s'aplatir à maturité, habituellement de teinte brune. Paraphyses sans pigments caroténoïdes. Poils habituellement superficiels.064121821015
+0 7a : Spores guttulées, hyalines, ne devenant pas d'un jaunâtre réfringent dans le bleu Coton lactique, sans périspore détachable (Scutellinia), 17.8-21 x 11.5-13.6 µm. Poils brun foncé, dépassant souvent 1000 µm de long. 07111319230 Scutellinia crinita (Bull.:Fr.) Lamb.0
+0s"Cheilymenia." 7b : Spores sans guttules, d'un jaunâtre réfringent dans le bleu Coton lactique. Périspore facilement détachable. Poils le plus souvent d'une longueur inférieure à 1000 µm. 07111419240 Cheilymenia. 8
+0 8a : Poils non décelables à l'oeil nu, hyalins ou jaunâtre pâle, à paroi fine. Spores à stries longitudinales cyanophiles. Chair médullaire en textura globulosa-angularis, non ou à peine différenciée de l'excipulum ectal.081415202609
+0 8b : Poils normalement visibles à l'œil nu, jaune sombre à brun-jaunâtre ou brun sombre, à paroi relativement épaisse. Spores lisses, parfois à verrues éparses, à crêtes ou à réseau incomplet. Chair médullaire faiblement à nettement différenciée.0814162027010
+0 9a : Apothécie subglabre, orange, abricot. Poils hyphoïdes superficiels, hyalins, bulbeux à la base. Spores 16-18 x 8-9 µm. Paraphyses fortement élargies au sommet. 09151721290 Cheilymenia granulata (Bull.:Fr.) Moravec0
+0 9b : Apothécie poilue, jaune. Poils hyphoïdes associés à des poils jaunâtres acuminés, ces derniers fourchus et sub-radicants à la base. Spores 16-20 x 7-9 µm (16-19.5 x 8.5-10.5 µm ss. auct.). Paraphyses non ou faiblement élargies au sommet. 09151821300 Cheilymenia theleboloides (Alb. & Schw.:Fr.) Boud.0
+0 10a : Poils externes superficiels, en étoile. Poils marginaux raides (soies), souvent multifourchus à la base, radicants. Spores 15.3-17.1 x 8.1-8.5 µm (14-18 x 8-10 µm ss. auct.). 010161922320 Cheilymenia stercorea (Pers.:Fr.) Boud.0
+0 10b : Poils étoilés absents.01016202233011
+0 11a : Apothécie discoïde à maturité, 2-5 mm de diamètre. Poils marginaux radicants. Chair médullaire en textura intricata.01120212335012
+0 11b : Apothécie turbinée ou subcylindrique, plus petite (0.2-2 mm). Poils marginaux superficiels. Chair médullaire en textura globulosa-angularis.01120222336014
+0 12a : Apothécie orange vif. Poils marginaux souvent multifourchus à la base, pouvant dépasser 500 µm de long, à paroi très épaisse (4-6 µm). Spores 16.8-18.3 x 9.4-10.5 µm (14.5-18 x 8-9.5 µm ss. auct.). 012212324380 Cheilymenia coprinaria (Cke) Boud.0
+0 12b : Apothécie rougeâtre. Poils marginaux simples ou bifides, ne dépassant pas 500 µm de long, à paroi plus fine (1-4 µm).01221242439013
+0 13a : Poils marginaux très épars. Spores subglobuleuses ou largement ellipsoïdes, 14-16.8 x 11.5-13.6 µm (16.5-19.5 x 12-13.5 µm ss. auct.). 013242525410 Cheilymenia fraudans (Karst.) Boud.0
+0 13b : Poils marginaux plus denses. Spores ellipsoïdes, 16.2-17.8 x 9.4-11 µm (16.5-21 x 9-11 µm ss. auct.). 013242625420 Cheilymenia rubra (Cke) Boud.0
+0 14a : Apothécie d'un jaune-orange profond. Spores 21-24.5 x 12-13.5 µm (18-25.5 x 12-14.5 µm ss. auct.). 014222726440 Cheilymenia pulcherrima (Crouan & Crouan) Boud.0
+0 14b : Apothécie rouge-orange. Spores 19-21.5 x 11-12.5 µm (15-20 x 9-12 µm ss. auct.). 014222826450 Cheilymenia aurantiacorubra Thind & Kaushal0
+0s"Trichophaea." 15a : Spores à grandes guttules. Poils pointus, droits, raides (soies). 015122927470 Trichophaea. 16
+0s"Pseudombrophila." 15b : Spores mûres sans guttules. Poils obtus, souvent en bouquets ou hyphoïdes. 015123027480 Pseudombrophila. 17
+0 16a : Poils souvent fasciculés, radicants ou à base tronquée. Spores étroitement ellipsoïdes ou fusiformes, finement verruqueuses, 20-24.5 x 11-12 µm. 016293128500 Trichophaea gregaria (Rehm) Boud.0
+0 16b : Poils non fasciculés, à base bulbeuse. Spores ellipsoïdes, lisses, 15-18 x 8.5-10 µm. 016293228510 Trichophaea subalpina Jamoni0
+0 17a : Apothécie très petite, jusqu'à 0.8 mm de diamètre. Surface hyméniale blanchâtre. Spores 15.7-16.8 x 9.4 µm (14.3-18.3 x 8.7-10 µm ss. auct.), ellipsoïdes. 017303329530 Pseudombrophila minuta van Brumm.0
+0 17b : Apothécie plus grande. Surface hyméniale pigmentée (mais voir aussi P. merdaria).01730342954018
+0 18a : Spores 12.6-14.1 x 7.3-8.4 µm (10.3-13.5 x 6.2-8.3 µm ss. auct.), ellipsoïdes. Paraphyses élargies au sommet. Asques 110-130 µm. 018343530560 Pseudombrophila merdaria (Fr.) van Brumm.0
+0 18b : Spores dépassant 15 µm de long, étroitement ellipsoïdes ou subfusiformes. Asques plus grands. Paraphyses non ou légèrement élargies au sommet.01834363057019
+0 19a : Spores 16.8-20.4 x 8.4-9.4 µm (14.4-18.7 x 7-9.3 µm ss. auct.). Asques jusqu'à 180 µm de long. 019363731590 Pseudombrophila cervaria (Phill.) van Brumm.0
+0 19b : Spores 20.5-23 x 11.5-12.5 µm (21-22.3 x 11-11.7 µm ss. auct.). Asques 200-250 µm de long. 019363831600 Pseudombrophila fuscolilacina (Grelet) van Brumm.0
+0s"Ascobolaceae + Iodophanus."  20a : Asques amyloïdes. 02023932620 Ascobolaceae + Iodophanus. 21
+0 20b : Asques non amyloïdes.0202403263049
+0 21a : Surface hyméniale à papilles ou ponctuations sombres. Spores pigmentées.02139413365022
+0 21b : Surface hyméniale ± papillée ou ponctuée mais pas de couleur sombre. Spores hyalines.02139423366043
+0s"Ascobolus." 22a : Ascome superficiel ou semi-immergé dans le substrat, sessile ou parfois brièvement stipité, 0.2-10-(30) mm de diamètre, piriforme, turbiné, cupulé, exceptionnellement discoïde à maturité. Spores lisses à l'intérieur des asques. 022414334680 Ascobolus. 23
+0s"Saccobolus." 22b : Ascome superficiel, sessile, 0.2-1-(2) mm de diamètre, discoïde, lenticulaire ou pulviné à maturité. Spores serrées et collées les unes aux autres à l'intérieur des asques, disposées selon un motif bien défini. 022414434690 Saccobolus. 34
+0 23a : Ascome très petit (habituellement moins de 0.8 mm de hauteur et de diamètre), piriforme, subglobuleux, turbiné, parfois immergé. Surface hyméniale exposée tardivement (phase "télohyméniale" ss. auct.).02343453571024
+0 23b : Ascome plus grand (jusqu'à 10 mm et rarement moins de 0.5 mm de diamètre), superficiel, habituellement cupuliforme (stipité ou sessile) et s'aplatissant à maturité. Surface hyméniale exposée précocement (phase "prohyméniale" ou "mésohyméniale" ss. auct.).02343463572028
+0 24a : Ascome immergé.02445473674025
+0 24b : Ascome superficiel.02445483675026
+0 25a : Ascome érumpent à maturité. Spores très grandes, 55.8-63 x 31.5-37.8 µm (58-71 x 28-36 µm ss. auct.). Epispore lisse, parfois finement striée. Asques largement clavés ou vésiculeux. 025474937770 Ascobolus immersus Pers.:Fr.0
+0 25b : Ascome non érumpent (seuls les asques sont exposés). Spores plus petites, 25.7-28.3 x 16.8-17.8 µm (26.5-30.5 x 16-17.5 µm ss. auct.). Epispore verruqueuse. Asques clavés ou vésiculeux. 025475037780 Ascobolus stictoideus Speg.0
+0 26a : Spores relativement petites, 14.7-16.8 x 8.4-10.5 µm (18.5-21 x 10-11.5 µm ss. auct.). Epispore verruqueuse. 026485138800 Ascobolus hawaiiensis van Brumm.0
+0 26b : Spores plus grandes. Epispore finement ponctuée ou fissurée, à fissures fines ou évidentes, souvent anastomosées, formant un réseau presque complet.02648523881027
+0 27a : Spores 21-24 x 11-12 µm (19-23 x 10-12 µm ss. auct.). 027525339830 Ascobolus mancus (Rehm) van Brumm.0
+0 27b : Spores 28.3-31.5 x 12-13.6 µm (23-29 x 11.5-17.5 µm ss. auct.). 027525439840 Ascobolus elegans J.Klein0
+0 28a : Ascome 0.25-0.55 mm de diamètre. Spores globuleuses, ornementées de verrues arrondies ou de tubercules tronqués, 11.5-13.1 µm (10.5-13.5 µm ss. auct.). 028465540860 Ascobolus brassicae Crouan & Crouan0
+0 28b : Ascome habituellement plus grand. Spores ellipsoïdes ou fusiformes, exceptionnellement rondes (mais alors striées et taxon non signalé en Italie), rarement verruqueuses ou ponctuées, habituellement à stries longitudinales qui peuvent s'anastomoser et former un réseau ± complet.02846564087029
+0 29a : Ascome blanchâtre, très petit (0.35-0.4 µm de haut, 0.25-0.35 µm de diamètre), obconique à chaque stade, lisse, à marge non différenciée. Spores 20.5-21.5 x 9.5-10.5 µm (20-36 x 11-14 µm ss. auct.), ornées de stries longitudinales parfois anastomosées. 029565741890 Ascobolus albidus Crouan & Crouan0
+0 29b : Ascome de couleur différente, cupuliforme ou presque discoïde à maturité, souvent furfuracé. Marge différenciée.02956584190030
+0 30a : Ascome 0.5-0.75 mm de diamètre, violet, à marge unie ou à peine crénelée. Spores 13.6-15.2 x 6.8-7.8 µm, à pigment épisporique ponctué (ou même grossièrement fragmenté). 030585942920 Ascobolus aff. cainii van Brumm.0
+0 30b : Ascome de couleur différente. Spores ornées de stries longitudinales, s'anastomosant parfois pour former un réseau presque complet.03058604293031
+0 31a : Ascome 0.7-1 mm de diamètre, pourpre-rosâtre, habituellement à marge lisse. Spores 25.2-28.3 x 12-13.5 µm (18-28 x 10-12 µm ss. auct.). 031606143950 Ascobolus roseopurpurascens Rehm0
+0 31b : Ascome plus grand, jaune à jaune-verdâtre ou même brunâtre, habituellement à marge crénelée.03160624396032
+0 32a : Ascome jusqu'à 10 mm de diamètre. Spores 24.3-28.8 x 11-12.5 µm (19-28 x 10-14 µm ss. auct.). 032626344980 Ascobolus furfuraceus Pers.:Fr.0
+0 32b : Ascome habituellement plus petit, jusqu'à 3 mm de diamètre. Spores plus petites.03262644499033
+0 33a : Ascome jaune-verdâtre, sessile. Spores 12.6-16.2 x 6.8-9 µm (9.5-15 x 6-8 µm ss. auct.). 0336465451010 Ascobolus crenulatus Karst.0
+0 33b : Ascome citrin, stipité. Spores 13.1-15.2 x 6.3-7.3 µm (13-15 x 7.5-8.5 µm ss. auct.). 0336466451020 Ascobolus costantinii Rolland0
+0 34a : Paraphyses contenant des pigments jaunâtres. Ascome de la même couleur. Spores appariées en 4 rangées parallèles à l'axe longitudinal de l'asque.034446746104035
+0 34b : Ascome blanchâtre ou de couleur différente mais non jaune. Paraphyses incolores ou sans pigments jaunâtres. Spores disposées différemment.034446846105038
+0 35a : Spores symétriques et à extrémités arrondies, 16.8-18.3 x 9.5-10.5 µm (14-17.5 x 7.5-8.5 µm ss. auct.). 0356769471070 Saccobolus aff. truncatus Vel.0
+0 35b : Spores habituellement asymétriques, à extrémités légèrement apointies ou tronquées.035677047108036
+0 36a : Spores 13.5-16 x 7-8 µm (11.5-13.5 x 5.5-6.5 µm ss. auct.). 0367071481100 Saccobolus minimus Vel.0
+0 36b : Spores plus grandes.036707248111037
+0 37a : Spores 19.9-22 x 8.9-9.4 µm (16-22 x 7.5-9 µm ss. auct.) ornées de fines verrues isolées. 0377273491130 Saccobolus citrinus Boud. & Torrend0
+0 37b : Spores 25.7-28.8 x 11.5-13.1 µm (22-29 x 8.5-14.5 µm ss. auct.), lisses ou au plus avec quelques fissures. 0377274491140 Saccobolus glaber (Pers.:Fr.) Lamb.0
+0 38a : Spores disposées à l'intérieur de l'asque en paquet subglobuleux ou ellipsoïde, 12.6-13.6 x 6.3-6.8 µm (11.5-14.5 x 6.5-7.5 µm ss. auct.). 0386875501160 Saccobolus dilutellus (Fuck.) Sacc.0
+0 38b : Spores arrangées en trois rangées, l'une de deux, les autres de trois spores.038687650117039
+0 39a : Epispore épaisse, grossièrement verruqueuse.039767751119040
+0 39b : Epispore fine, finement ponctuée ou presque lisse.039767851120041
+0 40a : Epispore très épaisse (jusqu'à 3 µm). Spores 20-21 x 8.9-10 µm (17.5-23 x 8.5-10 µm ss. auct.). 0407779521220 Saccobolus beckii Heimerl0
+0 40b : Epispore plus fine. Spores 12.8-13.7 x 5.7-6.4 µm. 0407780521230 Saccobolus aff. verrucisporus van Brumm.0
+0 41a : Surface externe de l'ascome tomenteuse, à poils parfois fasciculés et formant de petites écailles triangulaires. 0417881531250 Saccobolus caesariatus Renny0
+0 41b : Surface externe glabre.041788253126042
+0 42a : Ascome jusqu'à 1.5 mm de diamètre. Spores 18.3-19 x 7.3-8.4 µm (13-21.5 x 6.5-9.5 µm ss. auct.). 0428283541280 Saccobolus versicolor (Karst.) Karst.0
+0 42b : Ascome plus petit, 0.15-0.27 mm de diamètre. Spores 12.5-15 x 6.5-7 µm (10-14.5 x 5-7.5 µm ss. auct.). 0428284541290 Saccobolus depauperatus (Berk. & Br.) E.C.Hansen0
+0 43a : Ascome globuleux aux stades précoces mais vite pulviné ou discoïde, 0.5-2 mm de diamètre, rosâtre-orangé, parfois rougeâtre ou couleur brique. Spores symétriques, 17-26.2 x 10-14.7 µm (15-20 x 7.5-10.5 µm ss. auct.), finement verruqueuses ou ponctuées, mais parfois presque lisses ou au contraire ornées de verrues grossières. Périspore gélatineuse, fine et presque invisible. Asques 8-sporiques. Paraphyses contenant des pigments caroténoïdes. 0434285551310 Iodophanus carneus (Pers.:Fr.) Korf0
+0 43b : Ascome turbiné, subcylindrique, tronqué-conique, parfois pulviné ou discoïde à maturité, blanchâtre mais devenant brunâtre, 0.35-4 mm de large. Spores lisses ou ornées et/ou apiculées, parfois asymétriques, habituellement plus grandes. Périspore gélatineuse, plus épaisse. Asques 8-32-sporiques. Paraphyses dépourvues de pigments caroténoïdes.043428655132044
+0 44a : Spores lisses et non apiculées.044868756134045
+0 44b : Spores ornées et apiculées (mais voir aussi les observations à propos de T. formosanus).044868856135047
+0 45a : Asques 32-sporiques. Spores 34.6-42 x 17.3-19 µm (32-40 x 15-22 µm ss. auct.). 0458789571370 Thecotheus pelletieri (Crouan & Crouan) Boud.0
+0 45b : Asques 8-sporiques.045879057138046
+0 46a : Spores asymétriques, 20-23.6 x 10-11 µm (19-23 x 8.5-10.5 µm ss. auct.). 0469091581400 Thecotheus crustaceus (Starbäck) Aas & Lundq.0
+0 46b : Spores symétriques, 33.6-36.7 x 15.8-17.8 µm (32-41 x 14-18 µm ss. auct.). 0469092581410 Thecotheus cinereus (Crouan & Crouan) Chenant0
+0 47a : Spores asymétriques pour la plupart, 17.8-21 x 8.4-9.5 µm. 0478893591430 Thecotheus formosanus Y.Z.Wang0
+0 47b : Spores plus grandes, surtout ou exclusivement symétriques.047889459144048
+0 48a : Ascome pourvu d'un subiculum mycélium blanchâtre abondant. Spores 26.2-30.4 x 12.6-14.1 µm (25-30 x 12.5-14.5 µm ss. auct.), finement ponctuées, unisériées. Asques cylindriques. 0489495601460 Thecotheus lundqvistii Aas0
+0 48b : Ascome dépourvu de subiculum mycélien. Spores 28-33 x 13.5-16.5 µm (29-38 x 14-18 µm ss. auct.), verruqueuses, bisériées ou arrangées de manière confuse. Asques cylindro-clavés. 0489496601470 Thecotheus holmskjoldii (E.C.Hansen) Chenant0
+0 49a : Ascome gymnohyménial (hyménium exposé dès les stades précoces), discoïde, lenticulaire, pulviné, rarement turbiné, 0.07-1.5-(3) mm de diamètre, glabre ou poilu mais sans soies raides, superficiel ou légèrement (mais rarement) immergé dans le substrat. Asque habituellement à opercule fonctionnel.049409761149050
+0 49b : Ascome cléistohyménial (hyménium exposé à un stade tardif), globuleux, turbiné, cupulé, piriforme, ovoïde, jamais discoïde, 0.1-1 mm de diamètre, glabre ou pourvu de soies raides, superficiel ou immergé. Asque à déhiscence irrégulière (par une fente) chez les espèces polysporiques.049409861150063
+0 50a : Ascome sans excipulum, seulement formé d'un bouquet d'asques et de paraphyses. Réceptacle limité à une couche très fine d'hyphes basales ("athecium" ss. auct.), 0.09-0.18 mm de diamètre. Asques clavés-vésiculeux, 8-sporiques. Spores pigmentées à maturité, ornées d'épines et de crêtes, 10-12.5 x 8.4-9.5 µm.050979962152051
+0 50b : Ascome de structure normale (excipulum présent). Spores hyalines, lisses ou verruqueuses.0509710062153053
+0 51a : Spores 9.4-10.5 x 8.6-10 µm (8.5-10 x 8.3-9.5 µm ss. auct.), globuleuses ou subglobuleuses, rarement largement ellipsoïdes, ornées de tubercules isolés ou fusionnant pour former des crêtes ± longues. 05199101631550 Ascodesmis nana van Brumm.0
+0 51b : Spores largement ellipsoïdes.0519910263156052
+0 52a : Spores 10-12.5 x 8.4-9.5 µm (10.5-12 x 8.5-9.5 µm ss. auct.), ornées d'épines (souvent élargies à leur sommet) et de quelques crêtes. 052102103641580 Ascodesmis nigricans Tiegh.0
+0 52b : Spores 12.3-13.3 x 9.5-10.4 µm (11.5-14 x 9-12 µm ss. auct.), ornées de crêtes, qui fusionnent pour former un réseau presque complet. 052102104641590 Ascodesmis microscopica (Crouan & Crouan) Seaver0
+0 53a : Ascome festonné par de nombreux poils hyalins qui couvrent sa marge. Asques en forme de cigare, à anneau subapical épaissi, déhiscents par une fente longitudinale placée au dessus de l'anneau lui-même, 64-sporiques. Spores fusiformes-naviculaires, souvent asymétriques, lisses, 12.6-14.7 x 4.7-5.7 µm. 053100105651610 Ascozonus woolhopensis (Renny & Br.) Boud.0
+0 53b : Ascome glabre. Asques et spores différents.05310010665162054
+0 54a : Ascome blanchâtre, 0.075-0.1 mm, de diamètre. Asques clavés, 8-sporiques. Spores ellipsoïdes, 14.1-17.3 x 10-12 µm, sans bulles de de Bary, ornées de verrues arrondies grossières. Excipulum fortement cyanophile. 054106107661640 Chalazion erinaceum Doveri0
+0 54b : Ascome blanchâtre ou jaunâtre, rarement à teintes oranges, habituellement de moins de 0.5 mm de diamètre. Asques cylindro-clavés ou largement clavés (exceptionnellement cylindriques), 8-16-sporiques. Spores lisses, habituellement ellipsoïdales, avec une bulle de de Bary dans chacune d'entre elles. Excipulum fortement cyanophile seulement chez quelques espèces.05410610866165055
+0 55a : Ascome jaunâtre ou orange. Paraphyses contenant des pigments granulaires ± de la même couleur.05510810967167056
+0 55b : Ascome blanchâtre, mais parfois virant au jaune à maturité ou en séchant. Paraphyses habituellement non pigmentées.05510811067168059
+0 56a : Ascome orange vif, jusqu'à 0.4 mm de diamètre. Paraphyses légèrement courbées et fortement élargies au sommet. Asques cylindriques ou cylindro-clavés. Spores 12-12.6 x 7.3-7.8 µm (12-14 x 6-8.5 µm ss. auct.). 056109111681700 Coprotus aurora (Crouan & Crouan) Kimbrough0
+0 56b : Ascome jaunâtre, jusqu'à 0.8 mm de diamètre.05610911268171057
+0 57a : Spores 10.5-12 x 6.5-7 µm. Asques cylindriques. Paraphyses fortement courbées. 057112113691730 Coprotus aff. luteus Kimbr., Luck-Allen & Cain0
+0 57b : Spores plus grandes. Asques et paraphyses ne présentant pas ces caractères.05711211469174058
+0 58a : Ascomes 0.35-0.45 mm de diamètre. Spores subcylindriques ou subphaséoliformes, 14.7-17.3 x 8.4-8.9 µm. Asques surtout cylindro-clavés mais parfois cylindriques, 84-100 µm. Paraphyses courbées mais non uncinées, légèrement élargies au sommet. 058114115701760 Coprotus subcylindrosporus Moravec0
+0 58b : Ascomes jusqu'à 0.8 mm de diamètre. Spores ellipsoïdes, 16.2-19 x 10.5-12 µm. Asques cylindro-clavés à clavés, 100-117 µm. Paraphyses droites ou courbées, légèrement à fortement élargies au sommet. 058114116701770 Coprotus aff. ochraceus (Crouan & Crouan) Moravec0
+0 59a : Asques 16-sporiques. Spores 12-12.5 x 7-7.5 µm (11-16 x 8-10 µm ou 12-14 x 7.5-9 µm ss. auct.). 059110117711790 Coprotus sexdecimsporus (Crouan & Crouan) Kimbr.0
+0 59b : Asques 8-sporiques.05911011871180060
+0 60a : Spores 8.4-9.6 x 5.2-5.8 µm (7.5-9 x 4.5-5.5 µm ss. auct.). Paraphyses fortement arquées. 060118119721820 Coprotus glaucellus (Rehm) Kimbr.0
+0 60b : Spores dépassant 10 µm de long. Paraphyses non ou légèrement arquées.06011812072183061
+0 61a : Spores 17.3-18.3 x 10.5-11.5 µm (14-18 x 7.5-11.5 µm ou 13-16.5 x 7-9.5 µm ss. auct.). Asques cylindro-clavés. Paraphyses légèrement élargies et arquées au sommet. 061120121731850 Coprotus leucopocillum Kimbr., Luck-Allen & Cain0
+0 61b : Spores plus petites.06112012273186062
+0 62a : Spores 10.5-12 x 6-7.5 µm (9-15 x 6.5-9.5 µm ou 11-14 x 6-8 µm ss. auct.). Asques très petits, clavés ou clavé-vésiculeux. Paraphyses fortement élargies au sommet mais non arquées. 062122123741880 Coprotus granuliformis (Crouan & Crouan) Kimbr.0
+0 62b : Spores 11.5-14 x 6.3-8.5 µm (12-13.5 x 5-8 µm ou 10-13 x 6.5-8.5 µm ss. auct.). Asques cylindriques. Paraphyses légèrement arquées et élargies au sommet. 062122124741890 Coprotus disculus Kimbr., Luck-Allen & Cain0
+0 63a : Ascome petit (jusqu'à 0.2 mm de diamètre), brun-jaunâtre clair, glabre. Spores habituellement très petites, sans bulle de de Bary.0639812575191064
+0 63b : Ascome un peu plus grand (0.3-1 mm de diamètre), sétuleux. Spores souvent munies d'une bulle de de Bary. Asques cylindro-clavés ou ovoïdes, parfois cylindriques, 8- à polysporiques, sans épaississement subapical.0639812675192065
+0 64a : Ascome immergé, ovoïde ou subglobuleux. Spores 5.2-6.3 x 3.2-3.5 µm. Asques largement ovoïdes, peu nombreux (3-5 dans chaque réceptacle), polysporiques (habituellement plus de 200 spores dans chaque asque), déhiscents de manière irrégulière. 064125127761940 Thelebolus polysporus (P.Karst.) Otani & Kanzawa0
+0 64b : Ascome superficiel, finalement discoïde ou pulviné. Spores 8-9 x 3.8-4.2 µm. Asques cylindro-clavés, nombreux, 8-sporiques, operculés. 064125128761950 Thelebolus microsporus (Berk. & Br.) Kimbr.0
+0 65a : Ascome piriforme ou ovoïde, jaune clair ou blanc sale dans le tiers supérieur, souvent brun olive sur les deux tiers inférieurs. Soies non bulbeuses à la base, septées. Seulement un asque ovoïde et polysporique (plus de 2000 spores). Spores agglomérées dans l'asque.06512612977197066
+0 65b : Ascome obconique, turbiné, cupulé, rarement pulviné après maturité complète, jaunâtre ou orange-rougeâtre. Soies habituellement à base bulbeuse, non septées. Asques nombreux, cylindriques ou cylindro-clavés, 8-sporiques. Spores unisériées ou irrégulièrement bisériées.06512613077198067
+0 66a : Spores largement ellipsoïdes. 066129131782000 Trichobolus zukalii (Heimerl) Kimbr.0
+0 66b : Spores globuleuses ou subglobuleuses. 066129132782010 Trichobolus sphaerosporus Kimbr.0
+0 67a : Spores ellipsoïdes à extrémités arrondies.06713013379203068
+0 67b : Spores étroitement ellipsoïdes, fusiformes ou subcylindriques, à extrémités de formes variées.06713013479204070
+0 68a : Soies à base étroite (12-24 µm) polymorphe. Asques habituellement largement clavés et spores alors bisériées (16-22 x 10.5-12 µm ou 18-24 x 12-14 µm ss. auct.). 068133135802060 Lasiobolus cuniculi Vel.0
+0 68b : Soies à base ventrue large (jusqu'à 44 µm). Asques cylindriques ou cylindro-clavés et spores uni- ou bisériés.06813313680207069
+0 69a : Spores unisériées, 14.7-16.2 x 8.9-9.9 µm (13-18 x 7.5-11.5 µm ss. auct.). 069136137812090 Lasiobolus intermedius Bezerra & Kimbr.0
+0 69b : Spores uni- ou bisériées, 20.4-22.5 x 10-11.5 µm (19-25 x 12-14 µm ss. auct.). 069136138812100 Lasiobolus ciliatus (J.-C. Schmidt:Fr.) Boud.0
+0 70a : Soies de moins de 500 µm de long. Spores 28.3-32.5 x 12-14 µm (24-34.5 x 12-17 µm ss. auct.), étroitement ellipsoïdes ou subcylindriques, uni- ou bisériées. 070134139822120 Lasiobolus diversisporus (Fuckel) Sacc.0
+0 70b : Soies dépassant 500 µm de long.07013414082213071
+0 71a : Spores 23.7-28.3 x 10.5-12 µm (22.5-30 x 9-13.5 µm ss. auct.), à extrémités plutôt apointies, uni- ou bisériées. 071140141832150 Lasiobolus ruber (Quél.) Sacc.0
+0 71b : Spores 20.4-23.1 x 8.4-9.4 µm (17-22 x 9-12 µm ss. auct.), souvent à extrémités arrondies, habituellement unisériées. 071140142832160 Lasiobolus macrotrichus Rea0

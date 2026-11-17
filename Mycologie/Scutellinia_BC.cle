@@ -1,0 +1,36 @@
+Titre$ Bernard CROZES-Essai de clé des principales Scutellinia (d’après Schumacher et… Priou)
+Com$ Bernard CROZES  SMS 1999  http://mycostra.free.fr/bulletin/scutellinia.htm  / adapt GF dec 2010
+ http://mycostra.free.fr/bulletin/scutellinia.htm
+
+1,cs1$ – Ascospores globuleuses
+1,cs2$ – Ascospores subglobuleuses
+1,Cs3$ – Ascospores ellipsoïdales
+1,0,n$Ce groupe est très difficile à traiter sous forme de clé ; les auteurs distinguent des spores largement ellipsoïdales et étroitement ellipsoïdales avec tous les intermédiaires que cela suppose. Je me contenterai de donner quelques points de repères portant sur l’ornementation des spores et leurs dimensions ainsi que celles des poils. 
+
+1,0$ Bibliographie///BREINTENBACH, J., KRANZLIN, F., 1981 – Champignons de Suisse tome 1, Ed. Mykologia, p. 96-99///BOLLMANN, GMINDER, REIL, 1996 – Abbildungsverzeichnis mitteleuropäischer Grosspilze, APS p. 193///COURTECUISSE, R., 1998 – Inventaire mycologique de la région Nord-Pas-de-Calais, Bull. hors série SMN p. 83///DENISON, W. ; 1959 – Some species of the genus Scutellinia, Mycologia vol. VI n° 5 p. 605-635///DONADINI, JC., 1983 – Le genre Scutellinia, la section Trechispora, DM n° 49 p. 9-37///LE GAL, M., 1966 – Contribution à la connaissance du genre Scutellinia (1ère étude), SMF n°82 p. 301-334///SCHUMACHER, T., 1988 – The Scutellinia Battle ; the Lost, Missing and Dead, Mycotaxon vol. XXXIII p. 149-189///SCHUMACHER, T., 1990 – The genus Scutellinia, Opera Botanica n° 101 p. 1-107///YAO, Y-J., SPOONER, B., 1995 – New combinations in Melastiza and Scutellinia, Mycotaxon vol. LIII p. 467-477///YAO, Y-J., SPOONER, B., 1996 – Notes on British species of Scutellinia, Mycol. Res. 100 (7) p. 859-865
+
+cs1,0$ – Ascospores globuleuses
+1,0$ Spores réticulées (munies de hautes rides interconnectées) $S. rotundisperma
+
+1,0$ Spores épineuses (en dents de scie ou ailerons de requins), épines > 2 µ$S. legaliae
+
+1,0$ Spores verruqueuses à protubérances hautes et tronquées, > 2 µ et longs poils marginaux > 1000 µ.$S. trechispora
+1,0$ Spores verruqueuses à protubérances basses et arrondies < 2 µ et poils courts < 500 µ, plutôt montagnard$S. barlae
+
+
+cs2,0$ – Ascospores subglobuleuses
+1,0$ Spores petites < 24 µ, verruqueuses (verrues basses arrondies)$S. minor
+1,0$ Spores grandes, 24-30 µ, verruqueuses (verrues plus grosses)	$S. citrina
+Cs3,0$ – Ascospores ellipsoïdales
+cs3,0,n$Ce groupe est très difficile à traiter sous forme de clé ; les auteurs distinguent des spores largement ellipsoïdales et étroitement ellipsoïdales avec tous les intermédiaires que cela suppose. Je me contenterai de donner quelques points de repères portant sur l’ornementation des spores et leurs dimensions ainsi que celles des poils. 
+
+1,0$ Poils 18-22,5 x 13-17 µ, verrues grossières, poils marginaux à large base < 800 µ, hyménium plus orangé$S. umbrorum
+1,0$ Poils 17,4-22,8 x 10,6-13,1 µ, légèrement effilées aux extrémités avec des verrues libres et des crêtes coalescentes, poils plus denses à la marge et > 1000 µ$S. scutellata
+1,0$ Poils 16,6-21,2 x 11,1-13,8 µ, arrondies aux extrémités avec des verrues libres et des crêtes sinueuses, grands poils espacés > 1000 µ avec des petits entre	$S. crinita
+1,0,n$ d’après la clé de Schumacher, si ascospores de grande taille 21,1-27,4 x 13,6-16,4 µ il s’agit probablement de S. pilati
+
+1,0$ Poils 22-26 x 15-20 µ, verrues très basses, poils courts à base radicante ou bifourchue, 130 à 480 µ	$S. kerguelensis
+1,0$ Poils 22-28 x 11-14 µ, grosses verrues irrégulières, poils très larges < 400 µ à base multifourchue$S. cejpii
+1,0$ Poils 17,5-20 x 11,5-13 µ, largement réticulées comme celles de Aleuria aurantia poils très courts < 300 µ $S. pseudotrechispora
+
+

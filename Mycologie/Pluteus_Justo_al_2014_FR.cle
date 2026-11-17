@@ -1,0 +1,45 @@
+Titre$ P L U T E U S section PLUTEUS - A. JJUSTO & al. 2014
+Com$ Adaptée par Paul Bertéa 17-11-2021. Taduction : Google
+
+1,0 $ Arête nettement brune à brun foncé sur toute sa longueur $ Pluteus atromarginatus
+1,2 $ Arête de couleur blanche ou rose
+1,0 $
+1,0 $
+1,0 $
+1,0 $
+1,0 $
+1,0 $
+1,0 $ Avertissement 
+1,0,N$///Espèces présentes dans le Paléarctique occidental (Europe et Russie européenne)///Ces clés représentent notre meilleure tentative pour séparer les espèces décrites ici à l'aide de caractères morphologiques mais le lecteur doit être conscient que la séparation de certaines espèces, ou de certaines variantes morphologiques (par exemple les basidiocarpes blancs) ne sont pas toujours possibles sans données moléculaires. Dans certains cas, des espèces presque identiques sont énumérées ensemble à la fin d'une entrée et le lecteur est renvoyé aux descriptions et observations complètes dans le texte principal. Une clé synoptique complémentaire est donnée dans le tableau 7.
+1,0 $ Source
+1,0,N$///Alfredo Justo, Ekaterina Malysheva, Tatiana Bulyonkova, Else C. Vellinga, Gerry Cobian, Nhu Nguyen, Andrew M. Minnis & David S. Hibbett, 2014. Molecular phylogeny and phylogeography of Holarctic species of Pluteus section Pluteus (Agaricales: Pluteaceae), with description of twelve new species. Phytotaxa 180 (1) : 001-085.
+
+2,3 $ Boucles présentes sur les hyphes de pileipellis
+2,7 $ Boucles absentes sur les hyphes de pileipellis
+
+3,4 $ Sur bois de conifère
+3,5 $ Sur bois d'angiospermes ou terrestre
+
+4,0 $ Basidiospores 6,0-8,6 (-9,5) × (4,0-) 4,5-5,7 (-6,2) µm, avl × avw = 6,8-7,5 × 4,8-5,2 µm. Cheilocystides 20-70 × 10-25 (-30) µm, principalement clavées, étroitement clavées ou sphéropédonculées $ Pluteus pouzarianus
+4,0 $ Basidiospores 7,0-9,5 × (4,5-) 5,0-7,0 m, avl × avw = 7,8-8,4 × 5,6-6,3 m. Cheilocystides 55-120 (-200) × 8-25 (-30) µm, à prédominance étroitement clavée ou cylindrique $ Pluteus primus
+4,0,N$///voir aussi Pluteus kovalenkoi
+
+5,0 $ Chapeau à prédominance grise. Teintes bleues ou bleu-vert généralement présentes sur le chapeau et/ou le stipe. Basidiospores (avl × avw) 8,3–9,5 × 6,2–6,8 µm $ Pluteus salicinus
+5,6 $ Chapeau à prédominance blanche ou brune. Sans reflets bleus ou bleu-vert sur le basidiocarpe. Basidiospores (avl x avw) 5,8-8,1 x 4,3-6,2 µm
+
+6,0 $ Chapeau généralement blanc, parfois brun pâle autour du centre. Basidiospores 5,0-7,5 (-8,0) × 3,5-5,0 (-5,5) µm, avl × avw = 5,8-6,5 × 4,3-4,6 µm $ Pluteus pellitus
+6,0 $ Chapeau brun à brun foncé partout. Basidiospores 6,0-9,6 (-10,5) × 4,5-7,1 µm, avl × avw = 7,1-8,1 × 4,8-6,2 µm. $ Pluteus alniphilus et Pluteus brunneidiscus
+6,0,N$///Vérifier les descriptions respectives ; voir aussi Pluteus kovalenkoi
+
+7,8 $ Cystides intermédiaires à prédominance fusiformes et non crochues
+7,10 $ Cystides intermédiaires variables, sans type morphologique prédominant
+
+8,0 $ Basidiospores 5,5-8,0 × 3,5-5,5 µm, avl × avw = 6,1-7,0 × 4,2-4,8 µm. Les cheilocystides ne forment généralement pas une bande continue et bien développée. Dans les parcs, les zones urbaines et les forêts tempérées $ Pluteus petasatus
+8,9 $ Basidiospores 5,5-8,5 × 4,5-6,5 (-7,0) µm, avl × avw = 6,8-7,6 × 5,0-5,8 µm. Cheilocystides formant généralement une bande bien développée et continue. Dans les forêts boréales ou de transition boréales/tempérées
+
+9,0 $ Chapeau blanc, généralement avec des squamules ou des fibrilles radiales bien définies. Uniquement récolté sous Betula et Alnus $ Pluteus leucoborealis
+9,0 $ Chapeau brun foncé ou gris-brun, avec des fibrilles radiales innées mais sans squamules ou fibrilles superficielles. Sous divers angiospermes (dont Betula) $ Pluteus rangifer
+
+10,0 $ Stipe généralement avec des fibrilles longitudinales et/ou des squamules bien visibles. Crochets sur les pleurocystides majoritairement entières $ Pluteus cervinus
+10,0,N$///Si récolté dans les zones boréales, vérifier également Pluteus rangifer
+10,0 $ Stipe généralement sans fibrilles longitudinales ou squamules bien visibles. Crochets sur les pleurocystides à prédominance bifide $ Pluteus hongoi

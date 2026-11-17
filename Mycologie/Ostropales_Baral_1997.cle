@@ -1,0 +1,88 @@
+titre$ Ostropales, Cryptodiscus-like fungi 
+rem $ Ostropales : All species drought-tolerant, with ± round apothecia (except for ?Ramonia), mostly urceolate with strongly protruding margin often divided into lobes, mostly with hemiamyloid gel layer on whole ascus wall (IKI induces a bright blue zone moving from top to base of asci during application as a result of increasing concentration of IKI, the blue changes into a ± inconspicuous reddish reaction; KOH-pretreated material is strongly blue in IKI or MLZ). The frequent iodine-negative reactions reported in the literature (e.g. in Sherwood) are due to the use of MLZ without KOH-pretreatment.
+rem$ (Cryptod. rehmianus auf Picea-Zapfen paßt auf keine Art: Sp. 20-46/3,5-4,5m, Feltgen II: 88)
+com$  Baral, 1997 / adapt GF août 08
+clé des sections
+
+1,9$ Description
+1,0$ Asci 32-spored, spores * ±24 x 2.4 µm, wood of Larrea, SW-USA $ _?Odontura rhaphidospora
+1,2$ Asci (4-) 8-spored
+rem : renuméroté
+2,cs2$  Spores muriform, *23-30 (-36) x 11.3-14 µm, ellipsoid, multiguttulate, asci with -7 µm thick, hemiamyloid dome (Lecanorales-like), outer layer also hemia-myloid, 4-spored, paraphyses cylindrical, scarcely inflated and not branched apically, apothecia round to elongate, 0.4-0.8 x 0.3-0.35 mm, light to bright orange, erumpent through outer layer of Picea-wood, 1500 m, Austria  $Cryptodiscus  $s"Cryptodiscus"
+2,cs2,n$Cryptodiscus : Paraphyses apically knob-shaped. short-celled, marginal periphysoids intergrade with the paraphyses, gel on total ascus wall (especially at apex) IKI foxred-brown (type rr/rb), IKI blue after KOH-pretreatment, no crystals at margin. ("Ramonia": IKI rb, with crystals)
+
+2,3$ Spores only with cross septa
+
+3,4$ Spores >29 µm long, min. 7-septate
+3,6$ Spores <29 µm long, max. 7-septate
+
+4,0$ Apothecia dark coloured, often with crystals, lobe texture gelatinous? $ Schizoxylon spp.
+4,5$ Apothecia light coloured, marginal lobes with distinct periphysoids (teste coll. 5500)
+5,0$ Lobes distinct?, with abundant crystals, spores >70? µm long, LBs only near septa (?), asci . **** µm long, with inamyloid apical thickening, ?gel aroud apex hemi/euamyloid, lateral walls IKI-$Stictis spp.
+5,cs3$  Lobes distinct or confluent, without crystals, periphysoids distinct, reaching down to the base of the hymenim, spores max. 100 µm long, ± multiguttulate, asci * ±80-100 µm long, apex conical, apical and lateral wall IKI rb/rr, with or without apical ring $ Karstenia$s"Karstenia"
+5,cs3,n$Karstenia : Periphysoids reaching down to the base of the hymenim, total ascus wall IKI distinctly rb (rarely rr). K. inconspicua Wilberf. might belong in Dermateaceae, perhaps Diplonaevia.
+
+6,0$ Apothecia dark coloured, with strongly dentate margin of dark brown isodiametric cells, no periphysoids, spores *11.2-13 x 5-6 µm, 3-septate, eguttulate, medium thick-walled, ascus lateral wall IKI rb, apex bb (no ring), on bark of still attached branch of Pinus mugo, VII, Europe (alps), 1750 m $ Odontotrema minus
+6,0,n $Coll. Canada, assoc. with L. arida (HB 5932): Sp. KOH 9.5-10.5/3.9-4.3m, Larix-barkRef.: Sherwood (1987: 157, "on wood", ??coniferous)
+6,0$ Apoth. light-coloured, not urceolate, round, no periphysoids, superficial, spores 1-septate, ..***  µm, with high lipid content, paraphyses with capitate apex, densely septate near apex, on bark of conifers, with an inconspicuous thallus (lichenized), Europe, ±colline/montane, frequent $Dimerella pineti 
+6,0,n $(now Coenoconium, = Niptera rollandii)
+6,7$ Apothecia light coloured or only brown on flanks, strongly urceolate, erumpent, round to elongate
+
+7,cs1$  Upper part of lobes with roughly warted ± flexuous hair-like processes ±10-50 x 2-3 µm forming a white fringe, paraphysis apex mostly also covered by incrusted gel, asci with prominent IKI bb apical ring 1.2-2 µm high (tyle Calycina), lateral wall IKI-, spores (2-) 3-septate  $ Phragmiticola $ s"Phragmiticola"
+7,8$ No encrustations or warts, no hair-like processes on lobes, with periphysoids which intergrade with the paraphyses (not present below hymenial surface - to be still tested in C. pallidus!), asci with distinct apical dome without amyloid ring
+8,cs2$  Hymenium (ascus surface) IKI red (rr/rb), IKI-blue after KOH $ Cryptodiscus$s"Cryptodiscus
+8,cs2,n$Cryptodiscus : Paraphyses apically knob-shaped. short-celled, marginal periphysoids intergrade with the paraphyses, gel on total ascus wall (especially at apex) IKI foxred-brown (type rr/rb), IKI blue after KOH-pretreatment, no crystals at margin. ("Ramonia": IKI rb, with crystals)
+
+8,0$ Hymenium IKI- (with or without KOH), spores *12-15.5 x 2.7-2.9 µm, 1-septate, paraphyses apically moniliform and densely septate, apoth. pale cream-rosaceous, on Phragmites, Luxembourg (HB 7267e) $_?Cryptodiscus
+
+9,0$ Ostropales :all species drought-tolerant, with ± round apothecia (except for ?Ramonia), mostly urceolate with strongly protruding margin often divided into lobes, mostly with hemiamyloid gel layer on whole ascus wall (IKI induces a bright blue zone moving from top to base of asci during application as a result of increasing concentration of IKI, the blue changes into a ± inconspicuous reddish reaction; KOH-pretreated material is strongly blue in IKI or MLZ). The frequent iodine-negative reactions reported in the literature (e.g. in Sherwood) are due to the use of MLZ without KOH-pretreatment.$_ Descr.
+
+
+
+
+cs1,0$ PHRAGMITICOLA
+1,0 $ Spores *18-23 x (3.5-)4-4.7 µm, margina hairs ±10-20 µm long, apothecia rehydrated 0.3-0.9 mm diam., ?superficial, hymenium light rose-orange(greyish), on several years old standing culms of Phargmites, Central Europe . $ Phragmiticola rhopalospermum (= Stictis laufensis Schmid-H.)Ref.: Sherwood ...
+1,0 $ Spores *13-21 x 4-7.2 µm, marginal hairs ±30-50 µm long, apothecia rehydrated 0.25-0.37 mm diam., ?immersed, hymenium pale ochraceous to deep greyish-brown, on wood of still attached branches of Acer, Arctostaphylos, Corylus, Quercus, Pistacia, mediterranean + SW-USA (semi-deserts, macchies) $ Phragmiticola desertorum nom. prov.
+
+cs2,0$ CRYPTODISCUS 
+Paraphyses apically knob-shaped. short-celled, marginal periphysoids intergrade with the paraphyses, gel on total ascus wall (especially at apex) IKI foxred-brown (type rr/rb), IKI blue after KOH-pretreatment, no crystals at margin. ("Ramonia": IKI rb, with crystals)
+
+1,0 $ Spores *20-28 x 3.8-4.3 µm, 3-7-septate, with 1 large and few small LBs, fusoid-heteropolar, straight, asci IKI rr (whole surface), apothecia 0.3-0.5 x 0.25-0.4 mm, light to bright ochre, immersed in wood of Pinus halepensis, Dalmatia $ Cryptodiscus sp.
+1,2 $ Spores 8-15(-19?) µm long, 1-3-septate
+2,3 $ Spores (3.3-)3.7-5(-6) µm wide, (0-)1-3-septate
+2,4 $ Spores *1.7-3.4(-3.7) µm wide
+3,0 $ Spores *13-15(?-19) x 3.8-5.6(-6) µm, 3-septate, constricted at middle (Pinus) or all septa (Betula), Ölm.(1-)4 (Alnus/Betula) or Ölm.±2 (Pinus), asci IKI 3rr/rb (whole surface), apothecia 0.4-0.7 mm long, round to strongly elongate, hymenium cream, on wood of branches of Alnus & Betula (wood), also Pinus, 0-2 m above ground, Luxembourg, IV, 280-330 m, (HB 5063, 5068a, 6101) $ Cryptodiscus pallidus (Pers.: Fr. ) Cda.
+3,0,n $Misappl.: Boudier, Icones (see under K. rhopaloides)
+3,0 $ Spores *9.8-13.5 x (3.3-)3.7-4.2(-5) µm, 0-3-septate (mature!), multiguttulate (Ölm.4), asci IKI rr, apothecia elongate-fusiform, on inner face of bark of Salix, Luxembourg (HB 6988a) $ Cryptodiscus sp.
+4,0 $ Spores (8-)10-13.5(-14.6) x (2.7-)3-3.4(-3.7) µm, 1(-3)-septate, Ölm. 2, bark of Abies (HB 7323) $ Cryptodiscus sp.
+4,5 $ Spores 8-12.2 x 1.7-2.5 , 1-septate
+5,0 $ Apothecia irregular, angular, strongly confluent forming a wide-spread network, lobes with periphysoids, with abundant crystals, spores *8-11 x 2-2.5 µm, with few minute LBs, on wood of still-attached old branch of indet. broad-leaf-tree, CH, colline $ _?Ramonia(lichen genus, but this collection non-lichenized)
+5,0,n $(lichen genus, but this collection non-lichenized)
+5,6 $ Apothecia ± round to strongly elongate-fusoid
+6,0 $ Apothecia pale to light yellow-orange-ochraceous, margin not darker, 0.3-1.5(-4) x 0.3-0.5 mm, round to (sometimes?) strongly elongate, deeply immersed, waxy, lobes/margin 120-140 µm high, usually without crystals, spores *(6.3-)7-11(-12) x 2-2.6(-3) µm, not or very slightly constricted, with few minute LBs (lipid content 0-1), ascus apex with inamyloid dome c. 2.5 x 2.5 µm, Subhym./Med./Paraph. ochrac.-orange by scattered carotenoids, paraphyses with cylindrical to capitate apex, on ± strongly decayed bark and wood of twigs and branches of Arctostaphylos patula (Vorsicht!!!), Fagus, Quercus, Prunus, Salix, Sorbus, Viburnum, Sambucus, Corylus, Crataegus, Quercus, Central & S-Europe, ?USA, colline-montane (subalpine) (260-1520m), I-XII $ Cryptodiscus foveolaris (Rehm) Rehm
+6,7 $ Apothecia with a bright brown hymenium and a dark brown margin
+7,0 $ Hymenium cinnamon-ochraceous, margin dark reddishbrown, spores *8.5-12 x 1.7-2.2 µm, slightly to medium allantoid, lipid content 1-1.5, on wood of Pinus, submediterranean, S-France, Spain (1000-1330 m), H.B. 6748e, 7292, VIII, XII $ Cryptodiscus "rubrobrunneus" Baral sp. nov.
+7,0 $ Hymenium dark greybrown, margin?, Spores *±12 x 2.2 µm, slightly dumbbell-shaped, guttulate (high lipid content), on still attached twigs and branches of Pinus, Pseudotsuga, SW-USA (HB 5741d, 5773b), VI, 620-2080 m $Cryptodiscus sp.
+
+
+cs3,0$KARSTENIA
+Periphysoids reaching down to the base of the hymenim, total ascus wall IKI distinctly rb (rarely rr). K. inconspicua Wilberf. might belong in Dermateaceae, perhaps Diplonaevia.
+
+1,0 $ Spores */+19-35 x 3-4.5 µm, 3-9-septate, medium to very strongly clavate, basally partly tail-like attenuated, ascus apex conical, without apical ring, on Lonicera and Cornus, Central Europe $ Karstenia lonicerae (Velen.) Sherwood
+1,0,n $ Ref. Sherwood (1977: 55), Breitenb. & Kr. (1981:    ). Originally I thought this is possibly only a narrow-spored (?immature) form of K. rhopaloides: A topotype (Mnichovice, VII.1926, Lonicera tatarica, with Hyalorbilia) fits that species: spores +27-48 x 4.3-5.7 µm, 7-septate, clavate, asci with distinct apical ring. A recent collection (HB 7375, Lonicera periclymenum) fits Sherwoods data except for rather large apothecia (-1.5 mm!) with dark brown lobes.
+1,2 $ Spores longer or wider
+2,0 $ Spores *±90-100 x 4-4.7 µm, ±32-celled, cells filled by many minute LBs, constricted at septa, both ends tapering to an acute point, apothecia -0.8 mm, round, urceolate, on ± undecayed wood of thin branches of Juniperus thurifera, Tamajón, Spain (HB 5500b). $ Compare Karstenia gregaria Gradd. (see unde K. idaei)
+2,3 $ Spores max. 71 µm long, max. 15-septate
+3,0 $ Lobes pale to dark (brownish-grey to) olivaceous or blackish (on both faces), ± covered by the epi-/peridermis or by algae, apothecia 0.5-1.5 mm diam., round to elliptical, hymenium cream-rose, grey-brown or olivaceous, periphysoids at the tip of the lobes conical, spores *(40-)45-60(-65) x (2.2-)2.5-3.7(-4.3) µm, or 7((-10))-septate, not or slightly to medium gradually attenuated towards base, septa partly somewhat denser in upper half, lipid content (1.5-)3-4 (small and usually also large [1-3 µm] LBs, ascus apex without apical ring, conico-mammiform, outer wall IKI strongly RR or RB, apices of paraphyses distinctly (sub)lanceolate (then protruding beyond gel), also rounded to obtuse, on dry herbaceous stems of Heracleum, Sambucus ebulus, Humulus, branches of Salix, Central & North (?) Europe, IV-X $ Karstenia macer (P. Karst.) Sherw.
+3,0,n $The holotype (on ?Apiaceae) was figured by Sherwood (1980: 109) as having non-lanceolate paraphyses, in concordance with our find on Humulus. The species shows a certain variation concerning spore size and shape, paraphysis shape, lipid size and amount, but this was not found to be correlated with woody (3x on Salix) vs. herbaceous substrates.
+3,4 $ Lobes white, sometimes forming prominent acute teeth, apothecia 0.3-0.7 mm, ± round, hymenium pale grey or cream, paraphyses with rounded to obtuse apex (?)
+4,5 $ Spores (3-4-)6-9(-11)-septate, *(21.5-)26-40(-51) x (4.5-)5-7.5(-8) µm
+4,6 $ Spores 7-15-septate, *(30-)40-60(-71) x 3-4.5(-5.2) µm
+5,0 $ Spores (3-5-)7-9(-11)-septate, *(21.5-)26-45(-51) x (4.5-)5-7(-8) µm, strongly clavate(-fusoid) (cigar-shaped with strongly tapered, often tail-shaped base, apex subconical), multiguttulate (each cell with many minute LBs around nucleus, Ölm.3-5, forming 1 large LB per cell probably only after artificial coalescence), slightly to medium constricted at septa, asci *60-110 x 15-22 µm, KOH x 14-14.3 µm, apex ± hemispherical, with inconspicuous amyloid (rB) apical ring 1.7-2.2 µm high, periphysoids distinct, inner cells *5-12 x 3-4.5 µm, those above hymenium ± incrusted, on bark, rarely wood (?1x) of still attached (rarely fallen) branches of Acer, Clematis, Corylus, Fraxinus, Juglans, Lonicera, Prunus, Sambucus, Salix, Symphoricarpos, Ulex, also Pinus, I-XII, Central Europe, colline to montane (30-670m) $ Karstenia rhopaloides (Sacc.) Baral comb. nov. (Basionym: Cryptodiscus rhopaloides Sacc., Michelia 2: 379, 1881)
+5,0,n $The spores of this species strongly vary in length from 21.5-32 to 30-40 to 40-51 µm. Collections with long spores often tend to have more than 7-septa.Ref. Breitenb. & Kr. 1981, Boudier, Icones (as "Cryptodiscus pallidus"!), Dennis 1981: 16. Dennis suggests the affinities with both Melittosporiella and Karstenia, and considers the pteridicolous Melittosporium pteridinum (Phill. & Buckn. 1889) Sacc. (for description see Dennis 1978: 236, Ellis & Ellis 1985: 567, fig. 2104) to be a possible synonym. Probably therefore he refrained from combining the species into Karstenia.
+
+5,0 $ Spores (3-4-)6-8-septate, *27-38 x 5.8-7.4 µm, fusoid or clavate, most or all cells with large LBs (2.5-5.5 µm diam.) and a few small ones, asci KOH 83-90 x 11-13 µm, with apical ring (IKI rB), on herbaceous stems of Humulus $ _?Karstenia rhopaloides
+6,0 $ Spores *(30-)40-66(-77) x 3-4.5(-5.2) µm, ±cylindrical(-fusoid) with rounded ends, 2-3 µm wide near ends, base often distinctly narrower, 7-11-15-septate, slightly constricted, multiguttulate (Ölm.3-4, LBs 0.3-1 µm), ascus apex (sub-)mammiform, usually without apical ring (some asci sometimes with 1.5 µm thick dome with a ring), apical wall IKI bb (0.5 µm thick ring), lateral wall rb, asci *c. 90-95 µm long, lobes 60-70 µm thick, end cells of periphysoids 4.5-9 x 3-5 µm, on rotten bark of still attached twigs or herbaceous stems of Clematis, Lonicera, Quercus, Reynoutria, Sarothamnus, Sambucus, Ulex, also Picea, I/V-X, Central Europe, colline to subalpine (440-1320 m) $ Karstenia (cf.) idaei (Fckl.) Sherw. (HB 3147 nachuntersuchen wegen sternfmg. Apoth.)
+6,0,n $A find from Croatia on wood of Laurus nobilis, spores 53.5- 77.5 x 3.2-4 µm, appears to belon here.Ref.: Sherwood (1977: 53). Obviously so far only known from the type collection (Austria, on canes of Rubus idaeus). The spores are (Sherwood, 1977: 53) +40-60 x 3-4 µm, ca. 11-18-septate. K. gregaria Graddon (1984) on unidentified wood in GB hardly differs in longer spores: 60-80 x 3 µm, 15-septate, K. sorbina (P. Karst.) P. Karst. on Sorbus from Finland is said to have narrower periphysoids (15 x 1.5 µm) and a thicker (75-100 µm) covering layer (Sherwood, 1977: 53; spores 38-62 x 3-4 µm, c. 12-19-septate). All these are said to have asci I- which is surely due to the use of MLZ.  Karstenia clematidis (Phill.) Sherw. with spores +35-45 x 3-4 µm is said to differ by shorter asci (+c. 70 x 10 µm), but might be a synonym of this obviously plurivorous species. Judging from the brief redescriptions by Sherwood, Karstenia rubicola (Ell. & Dearn.) Sherw. on Rubus strigosus from Canada (spores 40-50 x 2-2.5 µm) and K. maydis (Rehm) Sherw. on Zea mays from Hungary (spores 30-55 x 2.5 µm) appear to differ in a lower number of spore septa ("usually 5", Ref.: Sherwood, 1980: 109-111).
+
+6,0 $ Spores *51-78 x 3.4-4.4(-4.7) µm, narrowed towards base, (10-)13-15-septate, with 1 large LB 2-3 µm per cell & many small LBs (lipid content 4-5, young multiguttulate and aseptate), ascus with apical ring IKI rB/BB (Allophylaria-like), outer layer IKI Rb/rb, apothecia 0.5-0.8 mm, externally red-brown, on bark and wood of Salix, ?Sambucus, Luxembourg, S-France $ Karstenia ´guttulata´ (HB 6153, 7468)

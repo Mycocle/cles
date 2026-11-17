@@ -1,0 +1,42 @@
+titre$Clé des hépatiques à thalle :
+com$ cf "Les bryophytes aquatiques et supra aquatiques" Agence de l'Eau Adour-Garonne  / adapt aout 08
+rem$ CLE D’IDENTIFICATION DES BRYOPHYTES AQUATIQUES (et supra aquatiques)  pour la mise en œuvre de l'Indice Biologique Macrophytique en Rivière (I.B.M.R.) 
+rem$ accompagnée d’un REPERTOIRE DES PRINCIPALES ESPECES et d’un GLOSSAIRE ILLUSTRE
+
+
+1,20$ Rappel 
+1,2 $A - Thalle, en section transversale, homogène, non différencié en deux tissus différents superposés et plein, sans cavités ni pores ; surface dorsale (supérieure) du thalle lisse sans réticulation; absence d'écailles ventrales .
+1,6 $B - Thalle, en section transversale, différencié en deux tissus différents superposés ou présentant des cavités aérifères fermées ou ouvertes sur des pores ; surface dorsale du thalle réticulée ou ridulée ; écailles ventrales présentes (pouvant être fugaces et non présentes sur l'échantillon) .
+2,3 $A - Thalle étroit (0.3-3 mm) uni à tri-penné, généralement plusieurs fois divisé ; "fausse nervure" non différenciée (section des lanières ovale-aplatie à biconvexe sans épaississement au niveau central), thalle épais de 5 à 8 assises de cellules en son centre, à marges planes ; 1 à 3 gros oléocorps par cellule; archégones et anthéridies développés sur de courts rameaux latéraux .
+2,4 $B - Thalle assez large (3-15 mm) simple ou à ramifications dichotomiques; "fausse nervure" généralement différenciée, mais à limites graduelles (visible en section de thalle), thalle épais de 8 à 15 assises de cellules en son centre, à marges généralement plus ou moins ondulées ; de nombreux petits oléocorps par cellule; archégones et anthéridies développés sur de courts rameaux latéraux ou immergés à la face dorsale du thalle .
+3,0 $A - Plante vert clair à foncé, à lanières étroites (1-2 mm de large) plus fines au niveau de leur base, à section ovale aplatie ; marge opaque non translucide : $Riccardia chamaedryfolia (=Riccardia sinuata, Norme I.B.R.M. NF T90 - 395)
+3,4 $B - Plante vert foncé à brunâtre, à lanières très étroites (0.3-1 mm de large) non amincies sur leur longueur, à section biconvexe ; marge translucide par la présence de 2 à 3 rangées unistratifiées de cellules, au minimum sur les ramifications ultimes : Riccardia multifida
+4,0 $A - Thalle d'aspect gras, luisant, cassant (à l'état frais), généralement simple ou peu ramifié, linéaire, à lanières larges de 2 à 6 mm; archégones et anthéridies développés sur de courts rameaux latéraux ; élatères persistants après déhiscence en touffe au sommet des valves : $Aneura pinguis (=Riccardia pinguis, Norme I.B.R.M. NF T90 - 395)
+4,0,n $ (confusion possible avec une Pellia dont elle se distingue par un thalle plus allongé, plus rubané et moins ramifié) 
+4,5 $B - Thalle d'aspect non gras, souple (à l'état frais), à ramifications dichotomiques, à lanières larges de 3 à 15 mm ; archégones et anthéridies immergés sur la ligne médiane des lanières à la face dorsale du thalle ; élatères persistants après déhiscence au centre de la capsule .
+5,0 $A - Lanières larges de 10 à 15 mm; en coupe transversale, présence de bandes épaissies roses dans les parois des cellules internes au niveau de la fausse nervure ; involucre unilatéral en forme de clapet ; plante monoïque, vert sombre, parfois rougeâtre :  $Pellia epiphylla
+5,0 $B - Lanières larges de 7 à 10 mm ; en coupe transversale, présence de bandes épaissies roses dans les parois des cellules internes au niveau de la fausse nervure; involucre tubulaire court; plante dioïque, vert sombre généralement rougeâtre : $Pellia neesiana
+5,0 $C - Lanières larges de 3 à 7 mm ; en coupe transversale, absence de bandes épaissies roses dans les parois des cellules internes au niveau de la fausse nervure; involucre tubulaire long (5 mm); plante monoïque, vert sombre rarement rougeâtre : $Pellia endiviifolia
+6,0 $A - Face dorsale du thalle ridulée ; face ventrale présentant de très nombreux rhizoïdes et des écailles fugaces; section du thalle sans cavités aérifères ni pores : $Dumortiera hirsuta
+6,7 $B - Face dorsale du thalle réticulée (parfois peu visible) ; face ventrale présentant des rhizoïdes peu nombreux et des écailles généralement persistantes; section du thalle avec des cavités aérifères fermées ou ouvertes sur un pore .
+7,8 $A - Hépatiques généralement robustes (lanières larges de 4 à 20 mm), pouvant présenter des corbeilles à propagules ; thalle présentant en section des cavités aérifères ouvertes sur des pores, une "fausse nervure" assez à peu différenciée, rapport de longueur/largeur de la section du thalle supérieur à 6/1 .
+7,13 $B - Hépatiques graciles, fines (lanières larges de 0.5 à 3 mm) ou plus larges, cordiformes, à écailles ventrales violettes dentées, ne présentant pas de corbeilles à propagules ; thalle présentant en section des cavités aérifères fermées, pas de "fausse nervure" différenciée, rapport de longueur / largeur de la section du thalle inférieur à 6/1 .
+8,9 $A - Thalle présentant à sa surface dorsale des corbeilles à propagules (multiplication végétative) rondes ou en forme de croissant .
+8,11 $B - Thalle ne présentant pas à sa surface dorsale de corbeilles à propagules .
+9,0 $A - Corbeilles à propagules en forme de croissant; pores simples : $Lunularia cruciata
+9,10 $B - Corbeilles à propagules rondes ; pores en forme de tonnelets .
+10,0 $A - Ecailles ventrales incolores à violettes, insérées sur 2 à 3 rangs de chaque côté de la "fausse nervure", de rapport longueur/largeur <1/1, sans papilles apicales; plante vert foncé $Marchantia polymorpha
+10,0 $B - Ecailles ventrales rouges ou violettes, insérées sur 2 rangs de chaque côté de la "fausse nervure", de rapport longueur/largeur e 1/1, avec des papilles apicales ; plante vert clair $Marchantia paleacea
+11,0 $A - Face dorsale du thalle très nettement réticulée, à pores simples ; "fausse nervure" assez bien différenciée, formée par un renflement axial net de l'épaisseur du thalle (limites abruptes) : $Conocephalum conicum
+11,12 $B - Face dorsale du thalle moins nettement réticulée, à pores en forme de tonnelets ; "fausse nervure" moins bien différenciée, formée par un renflement axial graduel de l'épaisseur du thalle (limites graduelles) .
+12,0 $A - .Thalle à face dorsale vert pâle à marges purpurines, ne présentant pas de ligne seul rang de chaque côté noirâtre au niveau de sa "fausse nervure"; écailles ventrales violettes, imbriquées sur un de la "fausse nervure" : $Preissia quadrata
+12,10 $B - Thalle présentant en face dorsale une ligne noirâtre au niveau de sa "fausse nervure"; écailles ventrales sur plus d'un rang (généralement 2 à 3) de chaque côté de la "fausse nervure" .
+13,0 $A - Thalle cordiforme à lanières larges (4-10 mm), présentant à sa face ventrale des écailles en forme de lanières violettes dentées; pores distincts :  $Ricciocarpos natans
+13,14 $B - Thalle à lanières étroites à très étroites (0.5-3 mm), pouvant présenter à sa face ventrale des écailles semi-circulaires; pores peu visibles .
+14,0 $A - Plante souvent teintée de rouge ou de pourpre, à formes terrestres ou immergées, présentant un tissu spongieux (au minimum dans ses parties âgées) et des lanières rainurés : $Riccia huebeneriana
+14,15 $B - Plante généralement verte, non teintée de rouge, à formes flottantes, terrestres ou immergées, ne présentant pas de tissu spongieux et à lanières non rainurées .
+15,0 $A - Lanières généralement très étroites (0.5-1 mm); formes flottantes très grêles à port d'algue :  $Riccia fluitans (forme flottante)
+15,16 $B - Lanières plus larges (jusqu'à 3 mm); formes terrestres ou immergées, non flottantes .
+16,0 $A - Ecailles ventrales semi-ovales à cellules de 65 µm de long : $Riccia rhenana
+16,0 $B - Ecailles ventrales semi-circulaires à cellules de 45 µm de long : $Riccia fluitans (forme terrestre)
+20,0$  plante ayant la forme d’un thalle plus ou moins lobé. $_Rappel

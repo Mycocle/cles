@@ -1,0 +1,108 @@
+titre$Key to Danish Genera of Myxomycetes
+com$http://www.myx.dk/dk/dkkeygen.html / adapt GF  juillet 2013
+REM$LANGUE$Anglais
+http://www.myx.dk/dk/dkkeygen.html
+
+1,0$ références : http://www.myx.dk
+1,0 $ Spores formed on thin stalks on the outside of the fruitbody. Sporocarps of branched columns, occasionally coaleshed into honeycomb like cushions. Mostly white, occasinally cream or pale yellowish. $ Ceratiomyxa
+1,2 $ Spores formed inside the fruitbody, covered by a peridium which may have disintegrated at maturity. Formed i great numbers. Mostly pigmented.
+2,3 $ (1) Spores dark brown or purplish brow to black.
+2,31 $ Spores whitish, yellowish, reddish, cinnamon to rust brown or with olive to greenish tint.
+3,4 $ (2) Fruitboby an aethalium or a psuedoaethalium of closely standing sporocarps coaleshed at the bases.
+3,8 $ Fruitbody a sporocarp, sessile or stipitate, or a plasmodiocarp.
+4,5 $ (3) Lime present. Fruitbody an aethalium.
+4,6 $ Lime not present. Fruitbody an aethalium or a pseudoaethalium.
+5,0 $ (4) Lime present on the peridium and in the capillitum. Of rounded granules. $ Fuligo
+5,0 $ Lime present only on the peridium. Of more or less stellate crystals. $ Mucilago
+6,0 $ (4) Fruitbody a pseudoaethalium. Individual sporocarps clearly discernible. $ Symphytocarpus
+6,7 $ Fuitbody an aethalium.
+7,0 $ (6) Capillitium of more or less radiating threads with septate vesicles. $ Brefeldia
+7,0 $ Capillitium a net, without septate vesicles. $ Amaurochaete
+8,9 $ (3) Lime is present on the peridium and/or in the capillitium and/or in the stalk.
+8,16 $ Lime absent from all parts of the fruitbody (see also 19 Leptoderma).
+9,10 $ (8) Lime present in the capillitium, mostly also on the peridium.
+9,13 $ Lime absent from capillitium, present on the peridium and/or in the stalk.
+10,0 $ (9) Fruitbody a sporocarp with yellowish brown to chestnut brown, smooth and shining peridium; opens irregularly near apex. $ Leocarpus
+10,11 $ Peridium different or if smooth and brownish then opening by a lid.
+11,0 $ (10) Capillitium a net of lime-filled tubules, rarely also with limeless parts, which are mostly thinner and hyaline; spores free or in clusters. $ Badhamia
+11,12 $ Capillitium a net of thin, hyaline tubules; lime only present in nodes; spores free.
+12,0 $ (11) Fruitbodies spherical- to cupshaped sporocarps. Apical part developed into a well defined lid. Basal part persistent. Columella absent, but often a large lime-filled pseudocolumella is present. $ Craterium
+12,0 $ Fruitbodies sporocarps, stipitate or sessile, occasionally in closely appressed pseudoaetlium-like collections, or plasmodiocarps. Open along irregular slits in the peridium, never by a lid. Columella or pseudocolumella often present. $ Physarum
+13,0 $ (9) Lime present only in the stalk and columella. Peridium iridescent. $ Diachea
+13,14 $ Lime on the peridium, often also in the columella.
+14,0 $ (13) Lime on the peridium as small, rounded ganules agglutinated into an eggshell-like $ Diderma
+14,15 $ Lime on the peridium as stellate crystals, most often sprinkled on the surface, rarely agglutinated into a shell or scales with crystalline structure.
+15,0 $ (14) Lime crystals loosely sprinkled on the peridium or agglutinated into a shell. $ Didymium
+15,0 $ Lime as flattened scales fastened to the peridium. $ Lepidoderma
+16,17 $ (8) Fruitbody a sessile sporocarp. Columella absent. Peridium persistent.
+16,21 $ Fruitbody a stipitate sporocarp. Columella often present. Peridium persistent, early disintegrating or dissolved into parallel ribs.
+17,18 $ (16) Capillitium present.
+17,0 $ Capillitium absent. $ Licea
+18,19 $ (17) Peridium membranous, iridescent.
+18,0 $ Peridium gelatinous when moist, horny when dry. $ Colloderma
+19,0 $ (18) The basal peridial parts thickened and often with embedded crystalline lime. $ (Leptoderma)
+19,20 $ Peridium uniform membranous without lime embeddings.
+20,0 $ (19) The capillitium a net of hollow, pale tubules. Limeless forms of $ Badhamia
+20,0 $ Capillitium of dark, solid threads forming an open net. $ Diacheopsis
+21,0 $ (16) Columella and capillitium absent. The peridium developed into a net of parallel ribs with thin interconnections (Dictydium) $ Cribraria
+21,22 $ Columella and capillitium present. The peridium membranous or early evanescent.
+22,0 $ (21) The stalk contains wax, often as a collar below the sporocarp. $ (Elaomyxa)
+22,23 $ Stalk devoid of wax.
+23,24 $ (22) Stalk translucent, hollow (often with air bubbles in slides in water).
+23,25 $ Stalk not translucent, ± fibrous.
+24,0 $ (23) Sporocarps cylindric, often closely appressed but not coalesced. With a surface net fastened to the capillitium. Peridium early evanescent. $ Stemonitis
+24,0 $ Sporocarps spherical, scattered. Without a surface net. Peridium often leaving a collar around the stalk. Small species. $ (Macbrideola)
+25,26 $ (23) Peridium persistent. Sporocarps spherical to pear-shaped.
+25,28 $ Peridium early evanescent or if persistent, then the sporocarp distinctly cylindrical.
+26,0 $ (25) The peridium splits into plates adhering to the tips the capillitium which is dichotomously branched. Columella short or absent. $ (Clastoderma)
+26,27 $ Peridium different. The capillitium arises from the top of the cylindrical columella.
+27,0 $ (26) The peridium splits irregularly at maturity. The capillitium mostly intricately branched to net-shaped. $ Lamproderma
+27,0 $ The capillitium splits into 5-9 lobes, with granular material embedded in the apical part. Capillitium of 7-10 sparsely branched threads. Tiny species. $ (Barbeyella)
+28,0 $ (25) The columella reaches the apex of the sporocarp where it expands into a disc giving rise to the capillitium. $ Enerthenema
+28,29 $ Columella not disc-shaped expanded at apex.
+29,0 $ (28) Capillitium branched, mostly dichotomous, without anastomoses, the branches tapered or club-shaped thickened (Comatricha p. p.) $ Paradiacheopsis
+29,30 $ Capillitium net-shaped.
+30,0 $ (29) The sporocarps ± cylindrical. Stalk shorter than the sporocarp. The capillitium often with plate-shaped expansions at the nodes (Comatricha p. p.). $ Stemonitopsis
+30,0 $ The sporocarps spherical to cylindrical. The stalk as long as or mostly several times the length of the sporocarp. Rarely with plate-shaped expansions in the capillitium. $ Comatricha
+31,0 $ (2) The spores whitish or pinkish. Fruitbody a very small, spherical, stipitate sporocarp. $ Echinostelium
+31,32 $ Spores more colourful. Fruitbody of different shapes.
+32,33 $ (31) Capillitium or pseudocapillitium present.
+32,50 $ Capillitium or pseudocapillitium absent.
+33,34 $ (32) Fruitbody a more or less spherical- to cushion-shaped aethalium or a cushion-shaped to flattened pseudoaethalium (individual sporocarps visible ± clearly). Pseudocapillitium, occasionally sparse.
+33,37 $ Fruitbody a sessile or stipitate sporocarp or a plasmodiocarp. True capillitium present.
+34,35 $ (33) Fruitbody a spherical- to cushion-shaped aethalium.
+34,36 $ Fruitbody a cushion-shaped to flattened pseudoaethalium.
+35,0 $ (34) Spores greyish rose, fading to greyish ochraceous. Aethalium spherical- to rounded conical or flattened drop-shaped. Pseudocapillitium of branched tubules. $ Lycogala
+35,0 $ The spores cinnamon to ochraceous. Aethalium cushion-shaped. Pseudoaethalium of branched threads or perforated plates, never tubular. $ Reticularia
+36,0 $ (34) The pseudoaethalium ± cushion-shaped, individual sporocarps partly free, the shared peridial walls partly persistent, honeycomb-shaped. Spores rusty brown to cinnamon. $ Tubifera
+36,0 $ Pseudoaethalium flattened, individual sporocarps visible as hexagonal fields on the surface. Spores clay-coloured to olive. $ Dictydiaethalium
+37,38 $ (33) Columella present. Brown to dark brown, stipitate sporocarps.
+37,39 $ Columella absent. Sporocarps or plasmodiocarps, mostly in yellowish or reddish colours, but greyish to brownish sporocarps may occur.
+38,0 $ (37) Sporocarps cylindrical, mostly closely appressed or more or less fasciculate, but not coaleshed. Surfacenet present. $ Stemonitis
+38,0 $ Sporocarps spherical, more or less spherical to shot cylindrical. Surface net absent. $ Comatricha
+39,40 $ (37) Capillitium of solid threads, not net-shaped.
+39,42 $ Capillitium of tubules (occasionally the cavity is visible only near the base), unbranched or net-shaped or fastened on the peridium and at the base of the sporocarp.
+40,0 $ (39) Capillitial threads with regular distributed thickenings. Spores dark olivaceous. Small sessile sporocarps on Cladonia-thalli. $ Listerella
+40,41 $ Capillitial threads smooth to irregularly warted. Spores greyish olivaceous or greyish rose. Fruitbodies flattened plasmodiocarps or sessile sporocarps, often with shining peridium.
+41,0 $ (40) Capillitial threads more or less straight, branched or in small fascicles; mostly fastened to the peridium. $ Dianema
+41,0 $ Capillitial threads long and flexuose, unbranched or sparsely branched, mostely free. $ Calomyxa
+42,43 $ (39) Capillitial tubules with ± distinct spiral ornamentation.
+42,46 $ Capillitial tubules with spines, warts, ring- or halfring-shaped thickenings or bands, rarely almost smooth or with indistinct and irregular spiral bands.
+43,44 $ (42) Capillitial unbranched (or rarely so), of tubules an then free and tapered in both ends or of solid threads branched without anastomoses and fastened at the base and on the peridium.
+43,45 $ Capillitium net-shaped or of long to very long, brick red free elaters, often expanding at maturity.
+44,0 $ (43) Capillitial tubules free, tapered in both ends. Sessile or stipitate sporocarps or short plasmodiocarps. $ Trichia
+44,0 $ Capillitial tubules fastened in both ends, apparently composed of rope-like twisted threads, lumen mostly indistinct. $ Prototrichia
+45,0 $ (43) Fruitbodies sporocarps, often ± fasciculate. Peridium robust, opening by a lid or splitting in a petaloid manner. Capillitium and spores brick red. $ Metatrichia
+45,0 $ Fruitbody a sporocarp or a plasmodiocarp. Peridium membranaceous, opening irregularly. $ Hemitrichia
+46,47 $ (42) Capillitium net-shaped.
+46,49 $ Capillitium of unbranched or sparsely branched tubules, not net-shaped.
+47,0 $ (46) Apical peridial parts early evanescent, basal parts persistent as a well defined conical cup. $ Arcyria
+47,48 $ Perisium persistent, opening irregularly, no basal cup.
+48,0 $ (47) Sporocarps spherical, sessile in close clusters. Capillitium with warts or spines. Spores rose-coloured. $ Arcyodes
+48,0 $ Fruitbody varying from sessile sporocarps to plasmodiocarps. Capillitial tubules with groups of ring-shaped thickenings. Spores yellow. $ Cornuvia
+49,0 $ (46) Capillital tubules long, with warts or spines. Scattered sporocarps or plasmodiocarps. $ Perichaena
+49,0 $ Capillitial tubules short, smooth or with a faint, irregular spiral ornamentation. Sporocarps scattered or in close clusters. $ Oligonema
+50,51 $ (32) Sporocarps, rarely coaleshing to a pseudoaethalium or an aethalium. Dictydine granules present. Spores mostly in vivid colours, if dark then fruitbody always a sporocarp.
+50,0 $ Fruitbody a small sporocarp or a plsmodiocarp. Dictydine granules absent. Spores greyish olivaceous to smoky, often fairly dark. $ Licea
+51,0 $ (50)    Fruitbody a sporocarp, mostly distinctly stipitate. The peridium or parts of the peridium evanescent leaving a surface net of varying shape (incl.Dictydium). $ Cribraria
+51,0 $ Fruitbody a pseudoaethalium or an aethalium, rarely a sporocarp. Surface net absent. $ Lindbladia

@@ -1,0 +1,116 @@
+Titre$ G Y M N O P I L U S   -   Bon & Roux, 2002. Le Genre Gymnopilus en Europe (FND XVII).
+Com$ Adaptée par Paul Bertéa – 17-09-2011
+
+1,cs1 $ Présence d'un anneau membraneux persistant ou d'une cortine submembraneuse non fugace ; spores > (7)8 µm ; espèces surtout lignicoles $ Sous-genre Annulatus (Romagnesi) Hesler $s"Sous-genre Annulatus"
+rem $1,cs1,N$ Sous-genre Annulatus (Romagnesi) Hesler
+1,cs2 $ Stipe nu, glabre à ± pruineux ou à léger voile cortiniforme ± fugace ; spores variables en taille ; habitats divers: lignicole, graminicole, détriticole, etc. $ Sous-genre Gymnopilus $s"Sous-genre Gymnopilus"
+rem $1,cs2,N$ Sous-genre Gymnopilus
+
+Cs1,1 $ Sous-genre ANNULATUS
+
+1,2 $ Chapeau squamuleux ou hérissé, parfois purpurin, saveur douce ou amère ; spores à réaction dextrinoïde parfois lente ou faible : Section Hispidelii ad int. $ Section Hispidelii ad int.$s"  Section Hispidelii ad int."
+1,4 $ Chapeau glabre, lisse ou à squamules peu évidentes (parfois un peu plus grossières avec l'âge) et non purpurines, saveur toujours amère ; réaction dextrinoïde souvent nette, forte ou rapide Section Spectabiles ad int. $ Section Spectabiles ad int. $s"  Section Spectabiles ad int."
+
+2,0 $ Chapeau 2-4(5) cm, à squames ± roussâtres, hérissées, surtout au disque ; stipe à chinures basales ± jaunes et anneau submembraneux ± fugace ; spores < (7)8 µm, non ou peu dextrinoïdes
+2,0,N$///- Hesler:20///- FAMM 12:11 $ G. hispidellus Murr.
+2,3 $ Chapeau jusqu’à 6(8) cm, à couleurs ± purpurines et marge ±jaune ; spores jusqu'à 9(10) µm, à réaction dextrinoïde positive mais parfois lente ; espèces thermophiles (serres, méditerranée, etc.) Ss. t. Purpurati ad int. $ Sous Sect. Purpurati ad int. $s"    Sous-sect. Purpurati ad int."
+
+3,0 $ Chair ± rosée à purpurine ou tardivement jaunâtre. Parfois des taches verdâtres sur le chapeau. Lames jaune vif. Anneau peu membraneux ou fragile. Saveur amère. Spores 7,5-10 x 4,5-6 µm à plage supraappendiculaire lisse ± délimitée. Cheilocystides ventrues ou peu étranglées. Ubiquiste en Amérique, plutôt méditerranéen pour l'Europe (jusqu'à nouvel ordre) $ G. luteifolius (Peck.) Sing.
+3,0,N$ = G. purpuratus ss. Breit. & Kränz./// (RM 18: 19; BK 148, Hesl. 74)///Des récoltes xérothermophiles des terrils belges, à cortine ± marginale fugace, possèdent une saveur douce ou farineuse-herbacée et des spores à fortes verrues isolées ; cheilocystides variables, pleurocystides nulles mais caulocystides sommitales présentes : ///===> G. igniculus Deneyer, Moreau & Wuilb. cf. p. 10 et 14, validation en cours)
+3,0 $ Chair blanche à jaunâtre. Chapeau non taché de verdâtre. Lames ochracées à roussâtres. Anneau nettement membraneux, parfois en lambeaux marginaux. Saveur ± douce. Spores (6)7-8(9) x 4-5 µm, faiblement ou tardivement dextrinoïdes. Cheilo- et pleurocystides lagéniformes ± étranglées. Taxon ± tropical, en serres ou pots de fleurs pour l'Europe $ G. peliolepis (Speg.) Sing.
+3,0,N$ (= G. purpuratus ss. Ludwig)///- (cf. FMDS 150: 38? pp. ; Hesl. : 24, Ludw. 31 :5)///G. purpuratus (Cke.-Mass.) Sing. serait un nomen nudum in Singer 1955. Les deux taxons précédents [luteifolius et pelioleps] sont curieusement séparés par Hesler dans les deux sous-genres (annelés ou non), alors que le voile est dit " arachnoid to submembranous forming a fugaceous annulus " pour le premier (in Ss-G. Gymnopilus) et " cortinoïd, at first distinct, leaving a ring in the apex " pour le second (in SS.-G. Annulatus), avec cependant une note concernant une certaine relation avec G. luteifolius, ce qui nous conduirait à accepter la conspécificité en proposant peliolepis comme variété de luteifolius ad int. De plus, la planche de Cooke, n° 964, montre une espèce différente de G. luteifolius, à stipe à peine cortiné ou sans traces annulaires ; habitat sur fougères arborescentes.
+
+4,0 $ Sur écorce de chêne liège (Quercus suber) ; chapeau à squames larges ou apprimées dans la jeunesse, non hérissées et ± glabre ensuite ; anneau parfois un peu cortiniforme. Spores 7-9 x 4-5 µm. Cheilocystides en quille ou ± capitées $ G. suberis (Maire) Singer
+4,0,N$ /// (MB 1: 564, SMF 44:45 -Ico: id. pl. (4): 1-6 ; Ludw.3l :2, Ml 3-Gy: 1, RdM32:257 etc.)/// ///Sous pins, voir aussi G. corsicus à chapeau seulement fibrilleux et cortine douteuse ou rarement subannelé.
+4,5 $ Sur troncs de feuillus ± caducicoles ; ± cespiteux ; anneau ± ample ou résistant. Spores > 8 µm : (Stirpe Spectabilis)
+
+5,0 $ Grosse espèce cespiteuse à chapeau jusqu'à 15(20) cm et stipe 10-15 x 1-3(5) cm, ± fusiforme ou ventru ; spores jusqu'à 9(10) µm $ G. spectabilis (:Fr.) AH. Smith
+5,0,N$///(= G. junonius auct. pp.)/// (Hesl.: 22, KR 322, Mos. 341, etc. - Ico.: BGMB 19:41, Bo245, Br98, CD 1207, FMDSn° 75, L 108-B, Ludw.31:4, Mtg 1357, Ro 59 etc ... ) /// (Si l'un des deux taxons devait être traité au niveau de variété, ne pas oublier que c'est junionus, épithète antérieure, qui doit conserver le niveau d'espèce principale)
+5,0 $ Espèce non ou peu cespiteuse, à chapeau < 6(7) cm ou à stipe plus grêle et subégal < 5(7) x 0,8 cm), parfois un peu excentré. Anneau infère, le plus souvent au ras des lames. Spores jusqu'à 11(12) µm. $ G. junonius (:Fr.) Orton ss. str.
+5,0,N$ ///(Fr. SM. 1 :244. ko : Ce 2669, sauf caractère cespiteux ?)///Cette définition, ss. str., correspond à celle de Fries (l.c.) reprise ensuite par Orton dans ce même sens strict, mais nous verrons, p. 18, que des récoltes ± cespiteuses, à stature intermédiaire ou inversement, solitaires et à stature plus petite pourraient être décrites aux niveaux de variété (intermedius) ou de forme (minor).
+
+
+Cs2,1 $ Sous-genre GYMNOPILUS
+
+1,Cs3 $ Spores < 6 (7) µm, courtement elliptiques à ± subglobuleuses $ section Microspori Hesler $s"  Section Microspori"
+1,Cs4 $ Spores > (7,5) 8 µm, ellipsoïdes ou ± amygdaliformes, généralement dextrinoïdes, sauf rares espèce américaines $ Section Gymnopilus autonyme = Sapinei Fr. ss. 1. ) $s"  Section Gymnopilus"
+1,0 $ Remarques : $
+1,0,N$/// - Une section Macrospori a été créée par Guzman & Davalos 1995, mais les limites des spores, jusqu'à 11 (12) µm, sont assez floues par rapport aux maximales de la section Gymnopilus ; de plus, les quelques espèces mexicaines dites " macrospores " semblent jusqu'à maintenant inconnues en Europe./// - La section Sapinei Fr. (sub Agaricus tribu Flammula), utilisée par Romagnesi pour son genre Fulvidula, correspondrait, dans son sens large, au sous-genre Gymnopilus (autonyme) mais nous la retiendrons comme sous-section de ce sous-genre, sous le nom de Decipientes (st. & n. nov.) = Agaricus (Tribu Flammula) sect. Sapinei Fr. (1821 - Syst. Myc. I:23), pp., type (stabilis) exclu. (Neotypus sp. : G. decipiens (W.G. Sm.) Orton).
+
+Cs3,1 $ Section Microspori Hesler
+
+1,0 $ Habitat graminicole (Dactylis glomerata ?) ou terricole,parfois précoce ; chapeau jaunâtre, tomenteux, saveur douce ou amère (?). Spores 4-5,5(7)x 3,5-4,5(5) f.l111, cystides ± capitées, à col grêle (DM 84 :6, BK 142(?), KR 323, Mos. 343 etc. - Ico.: Br 795, L 123-G, Ludw. 31 :7, Ce 2671) $ G. flavus (Bres.)Sing.
+1,3 $ Habitat lignicole ; saveur amère ou espèces atteignant difficilement 2(3)cm
+
+3,0 $ Espèce moyenne (4) 6-8 (10) cm à stipe ± noircissant à partir de la base ; saveur amère ; spores 6-7,5 x 4-4,5 µm. Habitat ± cespiteux, caducicole ou débris ligneux (sciure) (Resl: 38, DM 98/100: 206). $ G. sordidostipes Hesler
+3,0,N$= G. sapineus var. microsporus ss. Ludw. 31:14)
+3,4 $ Espèce petites < 3 cm) à stipe x 0,1-0,4 cm ± jaune ou orangé, immuable. Spores < 5,5(6) µm
+
+4,0 $ Saveur douce. Chapeau campanulé, feutré à ± finement squamuleux. Lames jaunâtres. Stipe gracile x 0,1-0,3 cm. Spores courtement ovoïdes à subglobuleuses (3,5) 4-5 (5,5) x (3) 3,5-4 (4,5) µm, non dextrinoïdes. Cheilos typiquement capitées, à long col étroit. Pleuro et piléocystides nulles. Sur Fagus (FND II : 13-16, KR 323, Ludw. 31:3, Mos. 342, SMF 64:21, BSM 34:169 - Ico.: MJ-3-Gy:4) $ G. josserandii Antonin
+4,0,N$/// = G. subsphaerosporus (Joss.) K.R. non val.)/// = G. subbellulus Hesler ss. Horak.///L’espèce de Josserand (sub Naucoria), reprise par K.R., était invalide ; Horak (1985, Op. botanica 100) a préféré admettre la synonymie avec G. subbellulus Resler (:46) plutôt que de valider l'espèce (communication B.Senn-Irlet, in litt.). L’espèce américaine semble cependant différer par quelques détails, par exemple la croissance sur conifères au lieu de Fagus, pour le taxon de Josserand, par ailleurs à cystides plus nettement capitées que celles de l'espèce américaine, laquelle comporterait en outre des pleurocystides et piléocystides, inexistantes chez G. josserandii.
+4,0 $ Saveur amère et spores ± elliptiques : 4-6 x 2-4 µm, dextrinoïdes. Chapeau brun rouge, subglabre et lames jaunes à ± brunâtres. Cheilos à tête plus petite ou moins nettement capitée que ci-dessus ; pleuros et piléocystides id. Sur conifères. $ G. bellulus (Peck) Murr.
+4,0,N$///(BFF 7:67, BK 141, HesL 37, KR 323, Ludw. 31:6, Mos. 341 etc. SMF 64 :23 - Ico.: Ce 1338, MJ-3-G)///(Voir note à propos de G. liquiritiae § 12-a)
+
+Cs4,1 $ (Section Gymnopilus)
+
+1,cs5 $ Chapeau glabre à soyeux, vergeté ou parfois voilé
+1,cs6 $ Chapeau fibrillo-méchuleux à squamuleux $. (Sous-sect. Decipientes =Savinei pp.) $s"    Sous-sect. Decipientes"
+
+cs5,1 $
+
+1,2 $ Habitat lignicole et saveur amère $ Sous-sec. Liquiritiae.(=Gvmnopilus) $s"    Sous-sect. Liquiritiae"
+1,8 $ Habitat terricole, muscicole ou carbonicole ; saveur ± douce (cf. aussi § 19) $ Sous-sect. Fulgentes $s"    Sous-sect. Fulgentes"
+
+2,3 $ Voile caulinaire (caulinaire ± cortiniforme) parfois piléique (aranéeux) $ Stirpe Penetrans $s"      Stirpe Penetrans"
+2,6 $ Voile nul ou stipe parfois aranéo-pruineux $ Stirpe Liquiritiae $s"      Stirpe Liquiritiae"
+
+3,0 $ Chapeau et stipe ± voilés (aranéeux) de blanchâtre sur fond fauve orangé ou ±jaunâtre dans le stipe, dont le voile est plus fugace. Chair épaisse et ferme, crème à jaune pâle. Saveur très amère. Spores (7)8-9(10,5 '1) x 4-5(5,5) µm à plage supra-appendiculaire lisse parfois bien délimitée. Cheilocystides cylindracées ou en quilles peu capitées, pleuros rares ou banales. Habitat acicole ou caducicole ; une récolte sur branches d'ajoncs (Ulex), forma (?) - (BBF 7:66, KR 322, Ludw. 31:9, Mos. 342, DM 15:13 + 61:16, Oyo 10/11:77 etc. - Ico.: B0245, Dh 70) $ G. stabilis (Weinm.) K.R. ex M.Bon
+3,4 $ Chapeau non voilé ou seulement et faiblement dans le jeune âge ; stipe ± cortiné
+
+4,0 $ Spores non ou tardivement dextrinoïdes et cheilos ± étranglées mais peu capitées. Chapeau 3-8 cm, roux vif, glabre à légèrement fibrilleux. Lames jaunes puis fauves. Stipe jusqu'à 9 x 1 cm, à sommet pruineux ± cortiné, parfois subannelé (fugace ?). Chair jaunâtre, amère. Spores 8-10 x 4,5-6 µm. Cheilocystides lagéniformes non capitées. Sur pins laricio, en Corse (FAMM 19 :27, Kew Bul. 31:443) $ G. corsicus Romagn.
+4,5 $ Spores plus nettement dextrinoïdes ; chapeau aranéeux, plus glabre avec l'âge ; espèces non spécialement méditerranéennes
+
+5,0 $ Lames vite tachées de rouille. Cortine assez fugace. Chapeau jusqu'à 6(8) cm, ± vergeté avec l'âge, roux, pâlissant en jaunâtre vers la marge. Chair blanchâtre. Spores 8-9(10) x 4-5,5(6) µm. Cheilos et pleurocystides lagéniformes ou ventrues et parfois capitées. Fréquent sur brindilles de conifères. (BFF 7:62, BK 146, KR 322, Mos 342 etc. - Ico.: BGMB 20:125, Bo 245, Br 780, CD 1208, Ce 918, L.l21-G, Ph 143 etc.) $ G. penetrans (Fr.:Fr) Murr ..
+5,0 $ Lames jaunes, non tachées mais devenant uniformément rouille à maturité, par la sporée. Cortine peu fugace, parfois submembraneuse. Chapeau < 5 cm, vite glabre ou peu vergeté, roux orangé, peu pâlissant. Chair et stipe plus jaunâtres. Spores < 8(9) x 4,5 µm ; pleuros peu nombreuses ou non capitées. Même habitat. $ G. hybridus (Fr.:Fr. Sing
+5,0,N$ ///BIBLIOGRAPHIE:///- British Fungus Flora 7:63;///- Kühner & Romagnesi:322 = fo.;///- Ludwig.31:10/G-E;///- Moser:342.///ICONOGRAPHIE :///- AMB (RdM) 32:262;///- Bresadola:781;///- Courtecuisse & Duhem:1209;/// -Lang:121-A;///- Montégut:840-A///CONFUSIONS :///- Si la cortine est très fugace et le revêtement ± tardivement squamuleux de brun sombre, cf. G. spadiceus ;///- inversement, il semble exister des formes voilées, surtout à l'état jeune et pouvant rappeler G. stabilis, microscopiquement différent///- Voir aussi les petites formes (minor) de G.junonius, à lames non jaunes.
+
+6,0 $ Stipe pruineux et ± noircissant ; aspect bellulus, à chapeau brun cannelle ou rougeâtre, pruineux, à marge non striée. Lames jaune vif. Stipe grêle (x < 0,4 cm), vite creux, subconcolore ou plus sombre, jusqu'à brun noirâtre. Chair jaune, très amère. Spores 7-1 O( Il) x 4,5-5,5(6) µm, ovoïdes à sommet un peu ogival, dextrinoïdie faible. Cheilocystides capitées, à tête x 6-7 µm ; nombreuses piléocystides capitées. $ G. picreus (Pers.:Fr.) P.Karst. ss. str.
+6,0,N$ ///(BFF7:62, Fr SMI :239, Sing. RM2: 238, KR 340 note)///(Selon Watling, BFF 7 : 62, cette espèce est décrite par Persoon comme ayant un chapeau lisse, donc différente de celles de Hesler ou de Ludwig (31-1), squamuleuses qui pourraient être des formes de G. liquiritiae comme lafo. velutinus, ci-dessous: 12-b')
+6,7 $ Stipe non noircissant et uniquement pruineux au sommet ; concolore à plus clair ou à fibrilles argentées ; chapeau non pruineux, pas de piléocystides vraies (G. liquiritiae ss.lato).
+
+7,0 $ Chapeau lisse, glabre, hygrophane, à couleur vive, rouge orangé ; marge striolée. Lames subconcolores. Chair ±jaune·à orangé pâle ; odeur faible, saveur acidulée ou à amarescence moyenne. Spores 7-9 x 5-5,5 µm, à sommet tronqué et plage supra-appendiculaire souvent visible. Cystides cylindroclavées, peu capitées ou ± étranglées. Sur brindilles, divers bois, une récolte sur ciste. $ G. liquiritiae (Pers.) P.Karst. var. liquiritiae
+7,0,N$ ///(BFF7:61, BK 147,DM15:13, Hesl. 65, KR 322, Mos. 342, etc. - Ico.: Bo 245, CD 212, FAMM 12 :3, IR : 449, IOH 270, Ml 3:Gy2, Sv. 83)///N.B.: Singer, R.M 2:239, nomme microspora (sub gen. Fulvidula) le G. liquiritiae de Bresadola, à spores petites <5(6) µm = comb. nov. à valider le cas échéant, s'il ne s'agit pas d'un G. bellulus
+7,0 $ id. à couleur plus brun rouge et stipe clavé à subbulbeux ; spores jusqu'à 11 µm et plage supra-apiculaire non ou peu visible ; cheilos capitées ou en quille ; pas de vraies piléocystides ou en tout cas non capitées (KR suppl. 260-363 ; Fr. LS.H: 119-1 sub nom. liquiritiae, non Persoon- Ico CD 1211) $ G. liquiritiae var. satur (Kühner) st. nov.
+7,0 $ Chapeau velouté au moins au disque, brun à brun rouge ; spores comme ci-dessus ; cheilocystides peu capitées. Epicutis à nombreuses zones trichodermiques avec piléocystides à tendance clavée $ G. liquiritiae fo. velutinus ad int
+
+8,0 $ Saveur ± amère ou farineuse ; habitat carbonicole ; chapeau campanulé, jusqu'à 3(4) cm, brun roux sombre, soyeux à vergeté ou sublubrifié. $ G. pseudofulgens Romagn.
+8,0,N$ Lames et stipe plus clairs. Saveur amère. Spores 9-11 x 5-5,5(6) µm, à plage supraappendiculaire lisse et bien délimitée et sommet subporé. Cystides ± ventrues et étranglées.///DM 84:6, FMDS 148:30, SMF95:143 ///Ico.: FMDS 148 :38
+8,9 $ Saveur douce ou amarescente ; habitat variable ; chapeau < 2 cm
+
+9,0 $ Spores 8-11(13) x 5-7(8) µm, amygdaloïdes, fortement verruqueuses (épines jusqu'à 1 ~ parfois). Chapeau brun roux à fauve orangé vif. Lames et stipe ±jaunâtres. Cystides en quille ou à long col capité. Surtout muscicole, hygrophile ou tourbières à sphaignes. (BFF 68, DM 75:32, KR 323+324 note, Mos. 343, SMF 53:267 etc. - Ico.: BK 143, Ce 1760, CD 1213, MJ-3-Gy:3, Ph 143, etc.) $ G. fulgens (Fav. & Mre.) Sing.
+9,10 $ Spores < 9 (9,5) µm à ornementation basse
+
+10,0 $ Habitat graminicole ± alpin. Revêtement glabre, marge striée ou fissile. Lames subdécurrentes, rouille. Stipe brun jaune ou fuscescent. Spores (7)8-9(9,5) x 4,5- 5,5(6) µm. Cystides ventrues ou peu étranglées. Subalpin à alpin, parfois en tourbières. Caucase, à rechercher dans l'arc alpin $ G. alpinus (Sing.) comb. nov.
+10,0,N$ (Basionyme : Fulvidula alpina Singer 1937 -Rev.Mycol. 2 : 239) /// (KR 324, note, id. sup.:391, RM2: 239)///Si l'espèce est ± planitiaire à submontagnarde à spores < 7 µm : cf. G. flavus § 2-a)
+10,0 $ Habitat terri-carbonicole. Revêtement ± fibrilleux à écailleux, brun fauve orangé. Lames jaune vif, se nuançant de fauve orangé ; stipe ± jaunâtre àbase brunissante. Saveur farino-amarescente. Spores 7-8 x 4-4,5 µm. Cystides lagéniformes à col ± étranlé ou capitées. $ G. odini (Fr.) Kühn.-Romagn.(comb. nud.) ex M.Bon & P.Roux
+10,0,N$ Validation : Basionyme : Agaricus odini Fries 1963, Monogr. 2: 300) ///(BFF 7:70, KR 323 + note 7, suppl. : 391, Mos. 342, etc. - Ico.: Ce 2670 sphaignes?)
+
+cs6,1 $ Sous-sect. Decipientes nov. = Sapinei Fr. pp., espèce type exclue)
+
+1,2 $ Espèces lignicoles à saveur ± amère $ Stirpe Sapineus $s"      Stirpe Sapineus"
+1,5 $ Espèces terricoles humicoles, graminicoles ou carbonicoles $ Stirpe Decipiens $s"      Stirpe Decipiens"
+
+2,3 $ Revêtement pelucheux à ± hérissé ; espèces acicoles à voile fugace
+2,4 $ Revêtement voilé ou squamuleux seulement au disque
+
+3,0 $ Sporée rouille. Chapeau fauve orangé, velouté à pelucheux, crevassé à la fin. Chair peu épaisse. Spores 7-9,5 x 4-5 µm. Cheilocystides peu capitées. Trichoderme piléique à hyphes larges ou courtement articulées, de 30-50 x 15 (20) µm. Souches pourries de conifères divers. (BFF 7: 65, BK 149, KR 322, Ludw. 31 :4, Mos. 342, etc. - Ico.: Bo 245, Br 782, CD 1210, KM 63, Ludw.31 :4, MR 1:46, MJ-3-Gy.:4, Mtg 839, etc.) $ G. sapineus (:Fr.) Maire
+3,0 $ Sporée brune. Chapeau brun roux sombre, ± hérissé à rimeux. Chair épaisse et dure. Spores (7) 8-10 x 4,5-6,5 µm. Cystides lécithiformes ou capitées. Hyphes piléiques x < 10(13) µm, à articles ± allongés (Q > 5). Sur souches ou sciure de pins.(Kew.Bull. 31: 444, Agar. 6:42 - Ico. : Bo 245) $ G. spadiceus Romagn.
+
+4,0 $ Voile piléique aranéeux blanchâtre ; stipe fibrilleux ± blanc $
+4,0,N$/// /// /// ===>cf. G. stabilis § 8-a
+4,0 $ Chapeau non voilé mais disque subvelouté $
+4,0,N$/// /// /// ===> cf. G. liquiritiae fo. velutinus §12-b
+
+5,0 $ Saveur amère et odeur ± aromatique ou fruitée. Chapeau 3-5 cm, ochracé, taché de roux sur fond pâle (parfois aspect Tr. decorum), marge jaune. Stipe et chair ± jaunes. Spores 7-8,5(9) x 4-5 µm, sublisses à faiblement verruqueuses et à réaction dextrinoïde faible ou tardive. Cystides lagéniformes à col étranglé, ± clavé ou en quille. Suprapellis subtrichodermique à hyphes x 6-10 µm, à extrémités ± fusiformes Pigment pariétal ± zébrant vers le subpellis. Sur humus, parfois dans l'herbe (récolte européenne sur pelouse). (ResI. 67, Syd. 15:76) $ G. humicola Hard. ex Sing.
+5,0 $ Saveur douce, odeur nulle. Chapeau < 3cm, roux, à écailles discales concolores. Lames et stipe safranés ; base rouille. Spores 7-9 x 4-5 µm. Cystides lagéniformes ± capitées. Suprapellis à hyphes variables, parfois épaisses et pouvant rappeler G. sapineus. Terri-carbonicole. $ G. decipiens (W.G. Smith) Orton
+5,0,N$ ///(BFF 7:69, Mos. 342, SMF 95: 141, TBMS 43:243, etc. - Ico.: CD 1214)///- Si chapeau ± lisse au début, saveur amarescente, spores < 7(8) µm, cf. Gymnopilus odini///- Si saveur douce et odeur farineuse, chapeau d'abord pourpre puis rouge orangé, écailleux, spores plus larges (x 5,5-6 µm) à fortes verrues et dextrinoïdie rapide, cf. Gymnopilus igniculus, en préparation)

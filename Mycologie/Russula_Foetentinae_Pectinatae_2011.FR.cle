@@ -1,0 +1,40 @@
+
+titre$Russula sous-sections Foetentinae et Pectinatae 2011
+com$adapt GF 19 fev 2022  Trad Google/GF
+rem$ la traduction par Deepl n'est pas convenable
+
+1,cs1 $ Champignon généralement petit (chapeau 4 - 7 cm), odeur faible, fruitée ou nauséabonde. Marge fortement tuberculée. Spores elliptiques à largement elliptiques jusqu'à 8 µm de long avec des verrues basses et des connexions (jamais avec des ailes ou des crêtes distinctes) $$s "Pectinatae"
+1,cs2 $ Espèces de taille moyenne à grande (calotte 5 - 15cm) à forte odeur soit désagréable (foetide) soit de massepain, d'amandes (laurier-cerise) ; couleurs souvent rougeâtres ou brunes ou ochracées. Spores elliptiques à subglobuleuses souvent plus grandes que 8 µm (sauf pour R. subfoetens), wartées ou ailées (jusqu'à 2 µm chez R. grata) avec des crêtes ou des verrues isolées $$s "Foetentinae"
+ 1,0$
+1,0$ document complémentaire $$f "Russula_Foetentinae_Pectinatae_2011.pdf"
+1,0$
+1,0$
+1,0$
+1,0$
+1,0$ source : Anna Bazzicalupo & Dr Stephan Helfer ///A key to Russula subsections Foetentinae and Pectinatae///https://sites.google.com/site/scottishfungi/identification/id-keys/russula-pectinatae-and-foetentinae
+
+
+cs1,0$
+
+1,0 $ a. Spores nettement allongées à ellipsoïdes, 9 x 6,5 µm avec des verrues basses et très peu d'interconnexions. Pileipellis avec cellules terminales ramifiées de façon dichotomique ; cystides noires à la SV avec inclusions huileuses jaunes $ R. amoenolens
+1,2 $ b. Spores ellipsoïdes à subglobuleuses rarement supérieures à 8 µm
+2,0 $ a. Spores ellipsoïdes avec quelques verrues basses et peu de connexions. Pileipellis avec de nombreuses cellules terminales avec de petites papilles. Odeur nauséabonde et fruitée $ R. pectinata
+2,0 $ b. Spores avec des verrues basses distinctes et des interconnexions. Pileipellis avec cellules terminales finement incrustées $ R. insignis
+
+
+
+
+
+cs2,0$
+1,2 $ a. Spores ellipsoïdes, largement ellipsoïdes à subglobuleuses supérieures à 8 µm
+1,5 $ b. Spores largement ellipsoïdes, rarement subglobuleuses, plus petites que 8 µm
+2,0 $ a. Spores rarement supérieures à 9 µm avec des verrues irrégulières et obtuses et une interconnexion avec quelques crêtes distinctes. Cystides marginales sombres, seules les parties terminales des cystides noircissent en SV. Les marges ont toujours un bord foncé (noir violacé) distinct $ R. illota
+2,3 $ b. Spores souvent supérieures à 9 µm et ornementation distincte.
+3,4 $ a. Spores avec une ornementation prononcée, avec des interconnexions striées, et des verrues formant parfois des ailes
+3,0 $ b. Spores avec des verrues isolées ou connectées, nettement pointues. Pileipellis un mélange d'éléments longs et minces et de cellules plus larges en forme de torpille ; cystides noires avec SV. Odeur fétide et goût nauséabond $ R. foetens
+4,0 $ a. Spores à ornementation ailée jusqu'à 2 µm avec interconnexion striée. Cystides jaunes puis grises ou noires en SV. Goût acre et forte odeur de cerise-lurée-amande (pâte d'amande)(3) $ R. grata
+4,0 $ b. Spores en forme de verrues pointues jusqu'à 1 µm formant des interconnexions striées (zébroïdes). Pileipellis à cellules obtuses ou en forme de torpille : cystides gris noir lent en SV. Goût acre et forte odeur de cerise-laurier-amande (massepain) $ R. fragrantissima
+5,6 $ a. Ornementation des spores en verrues pointues, pas d'interconnexions
+5,0 $ b. Spores largement ellipsoïdes avec des verrues pointues variant de l'absence d'interconnexions à des connexions réticulaires. Éléments étroits en forme de doigts dans le pileipellis ; cystides noircissant ou grisonnant, parfois avec une teinte rougeâtre. Goût et odeur nauséabonds $ R. praetervisa
+6,0 $ a. Verrues fortement pointues. Pileipellis d'éléments raccourcis mélangés à des cellules de forme plutôt de rorpille ; cystides noires avec SV. Goût acre et odeur désagréable $ R. subfoetens
+6,0 $ b. Carpophore comme chez R. subfoetens, mais avec un goût doux $ R. subfoetens var. grata

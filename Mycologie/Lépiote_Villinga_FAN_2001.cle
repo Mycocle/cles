@@ -1,0 +1,301 @@
+Titre$ L E P I O T A   -  Elsa VELLINGA 2001
+Com$ Flora Agaricina Neerlandica V:109-151  -  Adapté par Paul Bertéa  18-20/10/2017
+
+1,cs1 $ Spores spurred, or with straight base (Fig. 78a) $$s "1-Key one"
+1,2 $ Spores not spurred, but ellipsoid, oblong, fusiform-amygdaliform or shaped as sorne Boletus-sootes (with straight abaxial side, convex adaxial side and suprahilar depression)
+1,0 $
+1,0 $
+1,0 $
+1,0 $
+1,0 $
+1,0 $
+1,0 $
+1,0 $ Figures $$f"Lepiote_Vellinga_fig.jpg"
+
+2,cs2 $ Spores shaped as some Boletus-spores (Fig. 78b) $$s "2-Key two"
+2,3 $ Spores either fusiform-amygdaliform, or (broadly) ellipsoid to oblong
+
+3,cs3 $ Spores fusiform-amygdaliform with convex abaxial and convex adaxial sides (Fig. 78c) $$s "3-Key three"
+3,4 $ Spores ellipsoid, oblong, broadly ellipsoid (Fig. 78d)
+
+4,cs4 $ Pileus surface smooth, closed or breaking open into smooth patches; covering made up of clavate to cylindrical elements, tightly packed, forming a hymeniderm (Fig. 79a) $$s "4-Key four"
+4,5 $ Pileus surface squamulose; pileus covering made up either of long elements, or of inflated to rounded elements in chains
+
+5,cs5 $ Pileus set with acute, pyramidal squamules, made up of agglutinated chains of elements, from cylindrical to inflated elements at base of squamules, gradually changing into ellipsoid to globose terminal elements (Fig. 79b) $$s "5-Key five"
+5,cs6 $ Pileus set with squamules, made up of elongate, cylindrical elements, without or with septa, which are provided with or without clamp-connections (Fig. 79c, two types) $$s "6-Key six"
+
+
+CS1,0 $    KEY ONE Species with spurred spores
+N.B. Spore width measured in middle of spores, inside-view
+
+1,2 $ Pileus covering a hymeniderm
+1,3 $ Pileus covering made up adnate, ascending or erect long and slender elements
+
+2,0 $ Smell fruity-sweet and rubber-like $ L. cristata
+2,0,N$ n° 28
+2,0 $ Smell saponaceous $ L. saponella
+2,0,N$ Bodin & Priou in in Doc .mycol.23(92):62.1994///Described from south westrn France. Not yet recorded from the Netherlands
+
+3,0 $ Pileus covering made up of adnate and ascending, articulate hyphae(Fig.79c). with clamp-connections at the septa, with intracellular brown pigment, very rarely lacking pigment $ L. boudieri
+3,0,N$ n°21
+3,4 $ Pileus covering made up of adnate to erect elements, unicellular or with septa without clamp-connections, without or with pigment, which can be intracellular or parietal 
+
+4,0 $ Basidiocarp white to ochraceous cream $ L. subalba
+4,0,N$ n°22
+4,5 $ Basidiocarp not white, grey-brown, brown, dark green, greenish, etc.
+
+5,6 $ Pileus predominantly with brown, orange-brown,red-brown or purplish brown colours
+5,8 $ Pileus predominantly with grey or (grey-) green colours (though context may discolour orange)
+
+6,0 $ Pileus at centre (when young) darkred-brown, red-brown, orange-brown; context in stipe, and often also pileus and stipe surfaces discolouring orange; pileus covering made up of erect,(non-)septet elements and a layer of flexuous repent coloured hyphae $ L. castanea
+6,0,N$ n°19
+6,7 $ Pileus at centre dark brown,darkgrey-brown; context in stipe not turning orange; pileus covering made up of more or less erect elements only; a layer of repent coloured hyphae not present
+
+7,0 $ Distinct girdles or bands of squamules present in lower half of stipe; pileus surface splitting up into concentrical zones around centre;pileus(20-)30-55(-80) mm $ L. cingulum
+7,0,N$ n°20
+7,0 $ Distinct girdles or bands on stipe lacking, sorne scattered squamules on stipe often present; pileus surface around centre irregularly breaking open; pileus10-30(-40) mm $ L. tomentella
+7,0,N$ n°23
+
+8,0 $ Pileus at centre green-black to blue-green,orblue-brown, with distinct squamules around centre; back-ground turning orange; elements of pileus covering normally with up to 3clamp-less septa, with intra-cellular pigment, which is soluble in ammonia $ L. grangei
+8,0,N$ n°27
+8,9 $ Pileus at centre pinkish brown to dark grey (with or without greenish tinges), with granular, plush-like or more clearly delimited squamules on background which turns orange or not; elements of pileus covering without or with up to2clamp-less septa, with predominantly parietal pigment
+
+9,10 $ Pileus background not turning orange with age or damaging
+9,11 $ Pileus background tuming (slowly) orange with age or on damaging
+
+10,0 $ Pileus when young with pinkish brown or greyish brown tinges: elements of pileus covering with up to 2(-3), clamp-lesssepta $ L. tomentella
+10,0,N$ n°23
+10,0 $ Pileus when young very dark, often with olive or lilacinous tinges; elements of pileus covering normally without septa, sometimes in lower part 1(-2) septate $ L. griseovirens
+10,0,N$ n°25
+
+11,0 $ Spores short (avl = 6.6-7.4 um); elements ofpileus covering short ((45-)70-180(-200) µm long) and often irregular $ L. poliochloodes
+11,0,N$ n°26
+11,12 $ Spores long (avl = 7.0-9.6 µm); elements ofpileus covering long ((55-)85-320(-400) µm long) and straight
+12,0 $ Pileus only when very young dark grey or olive, soon dull orange brown, dark brown or ochraceous brown at centre, with granulate, rather thin-layered squamules around centre; cheilocystidia broad (5.0-15(-18) µm wide) $ L. pilodes
+12,0,N$ n°24
+12,0 $ Pileus dark grey, black greyish olive-brown at centre, to pale grey-brown at margin, with wartlike squamules around centre; cheilocystidia narrow (5.0-10.5 µm wide) $ L. griseovirens
+12,0,N$ n°25
+
+
+CS2,0 $     KEY TWO Species with 'penguin-shaped' spores (as in sorne Boletus-species, with straight abaxial side, and suprahilar depression)
+
+1,2 $ Pileus covered in acute squamules (with terminal elements globose to ellipsoid)
+1,4 $ Pileus surface breaking up into smooth patches or into woolly, or felted squamules, which might be squarrose at centre; annulus absent, if present mernbranaceous, or only as a woolly zone on stipe
+
+2,0 $ Lamella edge dark; cheilocystidia with dark contents $ L. hystrix
+2,0,N$ n°39
+2,3 $ Lamella edge white or concolorous with sides; cheilocystidia not coloured
+
+3,0 $ Basidiocarps big (pileus up to 115(-150) mm), with big hanging annulus, with squamules on underside; spores 6.0-9.0( -9.5) X 2.5-3.5(-4.0) µm; cheilocystidia clavate to spheropedunculate $ L. aspera
+3,0,N$ n°37
+3,0 $ Basidiocarps medium (pileus up to 55 mm; stipe with annular zone, without hanging annulus; spores 5.0-6.5 X 2.5-3.0 µm; cheilocystidia fusiform, narrowly clavate, cylindrical $ L. perplexa
+3,0,N$ n°38
+
+4,0 $ Pileus surface smooth, breaking up into patches around a distinct 'calotte'; stipe glabrous, devoid of squamules; pileus surface made up of tightly packed narrowly clavate elements $ L. cristata
+4,0,N$ n°28
+4,5 $ Pileus surface squamulose to ragged; stipe woolly or tomentose in lower part; squamules made up of long, hairy elements
+
+5,0 $ Stipe woolly in lower part; spores (12.0-)13.5-25.0 X 4.0-6.0 µm $ L. magnispora
+5,0,N$ n°2
+5,0 $ Stipe glabrous to fibrillose, tomentose in lower part; spores (6.5-)7.0-9.0(-10.0) X (2.5-)3.0-3.5(-4.0) µm $ L. cortinarius
+5,0,N$ n°5
+
+
+CS3,0 $   KEY THREE
+Species with fusiform to amygdaliform spores and a pileus covering made up of long clements
+N.B. Spore length measured without hilar appendage
+
+1,2 $ Spores 'penguin-shaped' with straight abaxial side, convex adaxial side and suprahilar depression (Fig. 78b)
+1,3 $ Spores fusiform-amygdaliform, with convex abaxial and adaxial sides (Fig. 78c)
+
+2,0 $ Spores (12.0-)13.5-25.0 X 4.0-6.0 µm $ L. magnispora
+2,0,N$ n°2
+2,0 $ Spores (6.5-)7.0-9.0(-10.0) X (2.5-)3.0-3.5(-4.0) µm $ L. cortinarius
+2,0,N$ n)5
+
+3,4 $ Pileus without discrete squamules, white to (pale) brown at centre
+3,5 $ Pileus with brown to pale brown squamules contrasting with background
+
+4,0 $ Pileus white to pale brown at centre (colours in the range of Mu. 1OYR); spores 10.0-21.0(-23.0) X 5.0-7.0(-8.0) µm, avw = 5.5-6.1 um $ L. erminea
+4,0,N$ n°3
+4,0 $ Pileus pale brown to brown at centre (colours in the range of Mu. 7.5 YR); spores on average narrower than in L. erminea: 10.0-16.5 X 4.5-6.5 µm, avw = 4.8-5.5 µm $ L. oreadiformis
+4,0,N$ n°4
+
+5,0 $ Stipe in lower part discolouring orange with age and when touched; basidiocarps relatively big: pileus 50-90 mm; stipe 70-105 X 10-15 mm; spores 8.5-11.0(-12.5) X 5.0-6.0(-6.5) µm, Qav = 1.75-1.95 $ L. ignivolvata
+5,0,N$ n°7
+5,6 $ Stipe not discolouring orange; basidiocarps small to big: pileus 20-100 mm; stipe 40-100 X 2-10 mm; spores 9.0-18.5 X 4.0-6.0(-6.5) µm, Qav = 1.9-2.85
+
+6,0 $ Spores 11.0-18.5 X (4.0- )4.5-6.0(-6.5) µm, Qav = 2.4-2.85; stipe with annular zone, and lanate covering below $ L. clypeolaria
+6,0,N$ n°1
+6,0 $ Spores 9.0-13.5 X 4.0-6.0(-6.5) µm, Qav = 1.9-2.1; stipe often with a lanate annular zone and in lower part a brown ring, especially when young, with bands or squamules in lower part $ L. subgracilis
+6,0,N$ n°6
+
+
+
+CS4,0 $     KEY FOUR
+113
+1,0 $ Pileus surface smooth and glabrous, viscid when moist; pleurocystidia present, similar to cheilocystidia, conspicuous $ Chamaemyces fracidus
+1,2 $ Pileus surface dry, smooth or breaking up into patches; pleurocystidia absent; cheilocystidia present or absent
+
+2,0 $ Basidiocarps with bright orange-red pileus and stipe; surface of pileus not broken up into squamules or patches $ L. pyrochroa
+2,0,N$ n°34
+2,3 $ Basidiocarps with whitish cream to dark brown or almost black colours on pileus, with whitish to reddish or lilacinous stipe; surface of pileus broken up into squamules or not (if surface closed, colour of pileus cream, pale brown)
+
+3,0 $ Spores in side-view spurred, triangular, with a distinct sac at base, or 'penguin-shaped'  $ L. cristata
+3,0,N$ n°28
+3,4 $ Spores ellipsoid in side-view
+
+4,0 $ Lamellae separated from stipe by a kind of collarium; basidiocarps big: pileus 25-70(-100) mm and orangebrown to leather-brown; smell soapy-perfumy; spores dextrinoid, not or slightly metachromatic in Cresyl Blue $ L. ochraceofulva
+4,0,N$ n°33
+4,5 $ Collarium-like structure absent; pileus in most species smaller, and with other colours; spores in most species not distinctly dextrinoid, but metachromatic in Cresyl Blue, sometimes weakly dextrinoid and weakly metachromatic
+
+5,0 $ Annulus conspicuous with broadened rim, with coloured patches on it; pileus surface broken into patches leaving a discrete dise at centre; colour of pileus varying from very pale brown to almost black, when young often with lilacinous tinges $ L. lilacea
+5,0,N$ n°32
+5,6 $ Annulus, if present, membranaceous and/or fugacious, without coloured patches, or absent; pileus surface broken up or not; colour either dark chocolate-brown, orange-brown or pale brown, creamy, not lilacinous when young
+
+6,7 $ Cheilocystidia absent
+6,8 $ Cheilocystidia present
+
+7,0 $ Pileus surface breaking up into patches; remnants of partial veil adhering to pileus margin; spores dextrinoid, but not strongly so, sometimes only after 10 minutes visible, weakly metachromatic in Cresyl Blue, 4.5-6.5 X 3.0-4.0 µm $ L. apatelia
+7,0,N$ n° 29
+7,0 $ Pileus surface not breaking up or breaking up into small patches; ring ascending on stipe; spores non-dextrinoid, but metachromatic in Cresyl Blue, 3.5-5.0(-5.5) X 2.5-3.5 µm $ L. cristatoides
+7,0,N$ n°30
+
+8,0 $ Annulus present $ L. psalion
+8,0,N$ n° 35
+8,9 $ Annulus absent
+
+9,0 $ Pileus surface broken up into dark brown patches; sorne brown patches present at base of stipe; spores 4.0-6.0(-7.0) X 2.5-3.5 µm, Qav = 1.6-1.7 $ L. hymenoderma
+9,0,N$ n°31
+9,10 $ Pileus surface creamy, pale brown or ochraceous, closed or broken up into patches
+
+10,0 $ Pileus surface not breaking up into squamules or patches; spores 3.0-4.5 X 2.5-3.0(-3.5) µm $ L. rufipes
+10,0,N$ n°36
+10,0 $ Pileus surface squamulose, made up of clavate elements. giving rise to globose terminal elements; spores 6.0-8.0 X 3.5-4.5 µm $ L. cystophoroides 
+10,0,N$ Joss. & L. Riousset in Bull. mens. Soc.linn. Lyon 41: 317.1972. ///Described from southern France, also recorded from northern France, not yet recorded from the Netherlands
+
+
+
+CS5,0 $    KEY FIVE
+Species with acute squamules on pileus, made up agglutinated chains of elements, with ellipsoid to globo se terminal
+elements
+1,0 $ Annulus membranaceous, hanging, provided with (brown) squamules; lamella edge white or concolorous with sides; spores 6.0-9.0(-9.5) X 2.5-3.5(-4.0) µm, Q = 1.9-3.3, Qav = 2.2-2.7; basidiocarps big: pileus 50-115(-150) mm; stipe 50-120 X 9-22 mm $ L. aspera
+1,0,N$ n°37
+1,2 $ Membranaceous (hanging) annulus absent (if such annulus present, clamp-connections absent); lamella edge white, concolorous with sides or dark; spores 3.5-7.0 X 2.0-3.5 µm, Q = 1.35-2.6, Qav < 2.4; basidiocarps small to medium: pileus up to 85 mm; stipe up to 90 X 14 mm
+
+2,3 $ Lamella edge dark coloured
+2,4 $ Lamella edge white or concolorous with sides
+
+3,0 $ Pileus, especially at centre, densely set with small, blackish, squamules; spores 5.5-7.0 X 2.5-3.0 µm, Q = 2.02.6, Qav = 2.3; pigment in pileus elements, both intracellular and soluble in ammonia, and parietal $ L. hystrix
+3,0,N$ n°39
+3,0 $ Pileus surface strongly fibrillose-squarnose, with long, up to 5 mm, brown to dark brown squamules; spores 4.0-6.0 X 2.0-3.5 µm, Q = 1.55-2.15, Qav = 1.6-1.85; pigment in pileus clements only parietal $ L. calcicola
+3,0,N$ n°40
+
+4,0 $ Membranaceous hanging annulus present; clamp-connections absent from all tissues $ L. efibulis
+4,0,N$ n°41
+4,5 $ Membranaceous and hanging annulus absent; an annular zone might be present; clamp-connections present in ail tissues (easily be seen at cylindrical elements on pileus)
+
+5,6 $ Spores non-dextrinoid
+5,7 $ Spores dextrinoid
+
+6,0 $ Squamules on pileus made up of only one type of elements, viz. globo se elements; terminal globose elements easily detached; cheilocystidia narrowly c1avate to obovate, usuaIly with cylindrical, moniliform or branched, excrescence at apex $ Cystolepiota moelleri
+6,0 $ Squamules on pileus made up of globose terminal elements in chains, and coloured cylindrical elements; terminal elements stuck to the chains; cheilocystidia narrowly c1avate to c1avate, without excrescence $ L. boertmannii
+6,0,N$ n°46
+
+7,8 $ Cheilocystidia absent or only sorne inconspicuous, basidiole-like structures present
+7,11 $ Cheilocystidia present and distinctly different from basidia and basidioles
+
+8,0 $ Stipe more or less twice as long as pileus width (ratio of pileus width and stipe length 0.5-0.6) $ L. pseudoasperula
+8,0,N$ n+45
+8,9 $ Stipe more or less as long as pileus width (ratio of pileus width and stipe length 0.8-1.0)
+
+9,0 $ Terminal elements of squamules on pileus 10-25(-45) X 10-21(-35) µm  $ L. carinii
+9,0,N$ n°44
+9,10 $ Terminal elements of squamules on pileus 15-65 X 10-50 µm
+
+10,0 $ Basidiocarp, though set with dark brown squamules, orange-brown; spines on stipe isolated, not covered in wool, or absent $ L. echinacea
+10,0,N$ n°42
+10,0 $ Colours of basidiocarp sombre; spines of stipe covered in wool  L. jacobi
+10,0,N$ n°43
+
+11,0 $ Spores 5.0-6.5 X 2.5-3.0 µm, Q = 1.8-2.6, Qav = 2.05-2.35, 'penguin-shaped' $ L. perplexa
+11,0,N$ n°38
+11,12 $ Spores 3.5-6.0(-6.5) X 2.0-3.5 µm, Q = 1.35-2.15, Qav = 1.6-1.85, ellipsoid
+
+12,0 $ Apical elements of squamules on pileus ellipsoid to oblong $ L. calcicola
+12,0,N$ n°40
+12,13 $ Apical elements of squamules on pileus globose to ellipsoid
+
+13,0 $ Apical elements of squamules on pileus ranging from smaIl to big: 15-62 X 10-50 µm $ L. echinacea
+13,0,N$ n°42
+13,0 $ Apical elements of squamules on pileus small: 10-25(-45) X 10-21(-35) µm $ L. carinii
+13,0,N$ n°44
+
+
+
+CS6,0 $    KEY SIX
+Species with a pileus covering made up of long (erect or adnate) elements; spores ellipsoid to oblong
+
+1,2 $ Pileus covering made up of only repent, septate or articulate elements with ascending terminal elements
+1,4 $ Pileus covering made up of often tufted, erect elements, occasionaIly septate; repent coloured hyphae may be present as well
+
+2,0 $ Clamp-connections absent; pileus covering made up of long repent hyphae $ L. fuscovinacea
+2,0,N$ n°18
+2,3 $ Clamp-connections present
+
+3,0 $ Pileus with brown colours; annulus absent, or only present as an annular zone on stipe; cheilocystidia present; elements of pileus covering brown and thick-waIled (waIls up to 2 µm thick); in greenhouses $ L. rubella
+3,0,N$ n°16
+3,0 $ Pileus white; annulus present; cheilocystidia absent; elements of pileus thin-waIled; in woods 17. $ L. parvannulata
+
+4,5 $ Only one type of elements, usuaIly long erect elements, present in pileus covering
+4,8 $ Pileus covering made up of long elements and short, clavate, narrowly clavate to cylindrical elements
+
+5,0 $ Basidiocarps with sulphur-yellow or olivaceous yellow tinges, espeeially in lamellae, context and stipe; in hot houses $ L. elaiophylla
+5,0,N$ 15
+5,6 $ Basidiocarps with white, or pinkish to orange-brown colours; in natural habitats
+
+6,0 $ Basidiocarps white; annulus present; cheilocystidia absent; hairs of pileus covering made up of long c1amped elements $ L. parvannulata
+6,0,N$ n°17
+6,7 $ Basidiocarps coloured; annulus only as wooIly zone present; cheilocyslidia present; hairs of pileus covering made up of non-septate elements
+
+7,0 $ Elements of pileus covering long (70-400 µm long); spores (5.5-)6.0-7.5(-8.0) x 3.0-4.0(-4.5) µm $ L. subincarnata
+7,0,N$ n°14
+7,0 $ Elements of pileus covering relatively short (60-110(-140) µm); spores (7.0-)7.5-9.0(-10) x (4.5)5.0-5.5 µm $ L. helveola
+7,0,N$ Bresadola, Fungi trident. 1: 15. 1882. ///Recorded from Italy, France, and Germany, but not yet known from the Netherlands
+
+8,9 $ LameIlae with distinct yeIlow tinges
+8,10 $ LameIlae white to cream-coloured, occasionally pale grey with yellowish tinge; distinct yellow colours lacking in basidiocarps
+
+9,0 $ Pileus covering made up of long elements, with short, clavate elements in between; cheilocystidia mostly narrowly lageniform to narrowly utriform; in woods $ L. xanthophylla
+9,0,N$ n°11
+9,0 $ Pileus covering made up of long elements with occasionaIly short cylindrical elements in between; cheilocystidia clavate; in hothouses $ L. elaiophylla
+9,0,N$15
+
+10,0 $ Basidiocarps with distinct olivaceous (brown) tinges $ L. forquignonii
+10,0,N$ n°10
+10,11 $ Basidiocarps either very dark, almost black, or pink to brown coloured, lacking olivaceous tinges
+
+11,12 $ Annulus present, mostly as a distinct cuff around the stipe, with little squamulose patches on it
+11,14 $ Annulus absent; fugacious or woolly annular zone and bands of squamules on stipe might be present 
+
+12,0 $ Basidiocarp relatively big and sturdy (pileus 30-75 mm; stipe 20-60(-110) X (5-)8-10(-15) mm), growing in open sand on sand dunes; annulus thin; spores 9.0-11 (-13) x 5.0-6.0 µm $ L. brunneolilacea
+12,0,N$ Bon & Boiff. in Bull. trimest. Soc. mycol. Fr. 88: 18.1972. ///Recorded from the Atlantic and Mediterranean coasts growing on white dunes amid Ammophila arenaria, from mid France southwards.///To be expected in the dunes in the Netherlands.
+12,13 $ Basidiocarps medium (pileus 15-45 mm; stipe 20-60 x 2-9 mm), growing in woods and copses: annulus a distinct cuff set with little dark squamules; spores 6.0-10.0 x (3.5-)4.0-5.0 µm
+
+13,0 $ Pileus covering broken up in discrete, dark patches around the dark calotte, made up of long elements and a very dense layer of dark-pigmented clavate elements; repent coloured hyphae on pileus surface absent $ L. felina
+13,0,N$ n°8
+13,0 $ Pileus covering squamulose, but lacking a distinct calotte and discrete squamules, varying in colours from dark brown to pinkish brown; pileus covering made up of long elements and a loose layer of narrowly clavate elements; repent coloured hyphae (mostly) present on pileus surface $ L. pseudolilacea
+13,0,N$ n°9
+
+14,0 $ Basidiocarps robust, with a relatively thick (5-9 mm wide) stipe, set with bands of squamules on pinkish to brownish vinaceous background; cheilocystidia often septate; spores 7.0-1 O.O(-11.0) X 4.0-5.0(-6.0) µm, Qav = 1.7-1.9 $ L. brunneoincarnata
+14,0,N$ n°3
+14,15 $ Basidiocarps slender, with a thin stipe (1-4 mm wide), with sorne incomplete bands or girdles of smaIl squamules; cheilocystidia not or rarely septate; spores either 4.5-7.5 x 3.0-4.5 µm with Qav = 1.55-2.0 or 7.5-10.0 X 3.5-5.0 µm, Qav = 2.2
+
+15,0 $ Cheilocystidia (narrowly) lageniform to (narrowly) utriform ('mummy-shaped'); spores 4.56.5 X 3.0-4.0 µm; elements of pileus elements relatively long: 185-300 µm$ L. echinella
+15,0,N$ n°12
+15,0 $ All other combinations of characters: see discussion under L. echinella
+15,0,N$///There appears to be huge variation in the main characters used to distinguish species in the vicinity of Lepiota echinella: spore size, shape of the cheilocysiidia and the length and structure of the elements of the pileus covering. Short characteristics of the existing species are given in the following overview, which is a compilation of literature on the existing names: the problems in interpretation of some names are outlined. Bon (FI. rnycol. Eur. 3, Lépiotes: 68-77. 1993) in his treatment of this group, emphasized colour of the basidiocarps, while here priority is given to microscopical characters.
+
+
+
+

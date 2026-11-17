@@ -1,0 +1,16 @@
+titre $Clé des genres de Polypores tramétoïdes au Québec
+1,0 $. Basidiome rouge cinabre; spores uninuclées $genre Pycnoporus
+1,2 $Basidiome de couleur différente; spores uni ou binucléées 
+2,0 $Hyménophore dédaloïde ou lamellé; ligato-cystides présentes, formant un catahyménium $genre Lenzites
+2,3 $Hyménophore poroïde, dédaloïde, irpicoïde ou lamellé; logato-cystides absentes
+3,0 $Hyménophore poroïde, dédaloïde ou lamellé; dendrophyses présentes sur les dissépiments $genre Daedaleopsis
+3,4 $Hyménophore poroïde, dédaloïde ou irpicoïde; dendrophyses absentes ...
+4,0 $Pores hexagonaux, réguliers et grands, >1,5 mm de diam.; basidiome brun tabac; spores uninucléées; genre exotique $genre Hexagonia
+4,5$Pores différents; spores uni ou binucléées $. 
+5,0 $Contexte devenant plus foncé au KOH; spores binucléées . $genre Funalia
+5,6 $Contexte à réaction différente au KOH; spores uni ou binucléées
+6,0 $Pores irréguliers, dédaloïdes ou irpicoïdes; revêtement piléique séparé du contexte par une ligne noire; hyphes génératrices à paroi mince ou distinctement sclérifiées; spores binucléées $genre Cerrena
+6,0 $Pores réguliers ou irréguliers, ronds ou anguleux; ligne noire possible; hyphes génératrices non sclérifiées; spores uninucléées $genre Trametes
+
+com$ Roland Labbé, novembre 2007.
+

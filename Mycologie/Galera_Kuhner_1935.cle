@@ -1,0 +1,89 @@
+Titre$ Galera Kuhner 1935
+com$ adapt PB 2013
+rem$LANGUE$Français
+1,0$ Retour au Kit $$f"Pholiotina_kit.cle"
+1,0$
+1,cs1 $ Voile partiel ± évident, visible au moment de l'ouverture du chapeau sous forme de flocons marginaux caducs ou sous | forme d'anneau sur le pied qui n'est typiquement poudré que dans sa partie supérieure. $$s"Sous-genre Pholiotina"
+1,cs2 $ Voile partiel nul ; marge piléique dépourvue de flocons caducs (même au début) ; stipe sans anneau, entièrement pruineux poudré ou velouté. $$s"Sous-genre Eu. Conocybe"
+
+
+cs1,0 $   Sous-genre Pholiotina
+
+1,2 $ Pas d'anneau sur le pied.
+1,8 $ Stipe pourvu d'un anneau ± bien constitué.
+
+2,3 $ Stipe pâle à chair blanche ou crème hyalin jusqu'à l'extrême base.
+2,0 $ Stipé argenté, ± verdoyant ou bleuissant.
+2,0,N$///===> voir C. cyanopoda
+2,4 $ Stipe brunissant inférieurement, au moins en dedans.
+
+3,0 $ Dermatocystides (pratiquement) nulles sur le chapeau ; voile partiel visible chez les très jeunes individus.; spores subtilement ruguleuses ; chapeau strié et souvent luisant. $ C. subnuda
+3,0,N$/// = Ph. utriformis sec Ludwig (2007), Pilzkompendium 2:525/// = Ph. dasypus sec Hausknecht (2009), Conocybe-Pholiotina:596 
+3,0 $ Nombreux poils saillants dans le revêtement du chapeau ; vol partiel jamais vu.
+3,0,N$/// ===>voir sous-genre Euconocybe, section Piliferae
+
+4,0 $ Plusieurs poils de l'arête des lamelles se terminent en une boule ronde, très distincte du pédoncule grêle qui la porte. $ C. intermedia var. brunnea
+4,0,N$/// = C; brunnea sec Watling (1982), Br. Fung. Fl. 3:98/// = Ph. brunnea sec Ludwig (2007), Pilzkompendium 2:527/// = Ph. brunnea sec Hausknecht (2009), Conocybe-Pholiotina :604/// ///Kühner, p. 146 : "La var. intermedia, décrite d'Amérique du Nord par A.H. Smith ne se distingue que par un pied plus court (1-2 cm), l'habitat sur bois pourrissant et la présence d'un anneau sur le stipe."///Elle aurait été retrouvée en Europe (Croatie et Slovaquie) mais avec des dimensions bien plus considérables : Chapeau de 25-58 mm (10-20 mm dans la diagnose princeps) et stipe 47-95 x 6-10 de large avec un bulbe jusqu'à 9 mm de large (10-20 x 2-3 mm dans la diagnose princeps) [Hausknecht, loc. cit.:602).
+4,5 $ Poils d'arête non capités ou à tête mal séparée du pédoncule épais qui la porte.
+
+5,0 $ Chapeau longuement et fortement strié, paille miel, miel brunâtre ou miel sale, à centre miel ocre (parfois fauvâtre). $ C. appendiculata
+5,0,N$/// = Ph. velata sec Ludwig (2007), Pilzkompendium 2:530/// = Ph. velata sec Hausknecht (2009), Conocybe-Pholiotina:613
+5,6 $ Chapeau plus fortement coloré.
+
+6,0 $ Voile partiel vite réduit à des flocons submarginaux de petite taille (ils ne sont souvent bien visibles qu'à la loupe). $ C. blattaria, forma exannulata
+6,0,N$/// = exannulata sec Watling (1982), Br. Fung. Fl. 3:102/// = Ph. exannulata sec Hausknecht (2009), Conocybe-Pholiotina:616
+6,7 $ Voile partiel très développé, formant à la marge du chapeau de longues dents blanches ou blanchâtres et débordantes !
+
+7,0 $ Voile partiel laissant à la marge du chapeau des lambeaux volumineux et striés en dessous. $ C. blattaria forma dentata
+7,0,N$/// = Ph. arrhenii sec Ludwig (2007), Pilzkompendium 2:517
+7,0 $ Voile partiel feutré tomenteux, recouvrant et débordant lamarge piléique. $ C. vestita
+
+8,11 $ Spore grande (> 10 x 5 µm) à pore tronqué évident ; chapeau restant souvent un peu campanulé.
+8,9 $ Spore plus petite, (< 10 x 5 µm) à pore germinatif quelquefois peu distinct.
+
+9,0 $ Très petite espèce (D = 5-18 mm ; d = 0,7-1,5 mm ; L = 12-18). $ C. pusilla (Quél.) Kühn.
+9,0,N$/// = C. filaris sec Watling (1982), Br. Fung. Fl. 3:92/// = Ph. rugosa sec Hausknecht (2009), Conocybe-Pholiotina:641/// ===> Voir aussi C. filaris dont les spores peuvent atteindre 12 µm.///- Romagnesi (1937), Rev. Myc. 2:183 : Très petite espèce annelée (chapeau de 4-5 mm.), voisine, mais distincte de C. filaris (Fr.) Kiihn. par son chapeau bientôt étalé, d'un joli jaune de chrome avec une tache baie au centre par le sec, et par sa spore sensiblement plus petite : 7,5-8,5 X 4-4,3(4,7) µm. Poils marginaux lagéniformes, non capités, 36-40 X 8-10 µm. Cellules de la cuticule atteignant 20 µm de diamètre. Dans les ornières humides des bois de Cerçay. Rare.
+9,10 $ Champignon de taille plus grande (d >=1,5 mm) à lames plus nombreuses.
+
+10,0 $ Anneau imparfait, réduit à une zone ± nette souvent placée dans la région inférieure du pied. $ C. peronata
+10,0,N$/// ===> A rechercher en Europe ; connu seulement de la récolte princeps sous cèdres, à Chréa, en Algérie.
+10,0 $ Anneau parfaitement conformé, ample et strié, situé vers le milieu de la longueur du pied. $ C. blattaria, forma typica
+10,0,N$/// = Ph. arrhenii sec Watling (1982), Br. Fung. Fl. 3:91/// = Ph. arrhenii sec Ludwig (2007), Pilzkompendium 2:517/// = Ph. arrhenii sec Hausknecht (2009), Conocybe-Pholiotina:635
+
+11,0 $ Basides bisporiques ; cheilocystides peu rétrécies au sommet, quelquefois simplement claviformes. $ C. togularis, forme bisporique
+11,0,N$/// = blattaria sec Watling (1982), Br. Fung. Fl. 3:92/// = Ph. teneroides sec Ludwig (2007), Pilzkompendium 2:515/// = Ph. teneroides sec Hausknecht (2009), Conocybe-Pholiotina:651
+11,12 $ Basides tétrasporiques ; cheilocystides contractées ou atténuées au sommet en un bec net.
+
+12,0 $ Petite espèce (D = 5-18 mm ; d = 0,7-1,5 mm ; L = 12-18) à anneau pas toujours très persistant. $ C. filaris
+12,0,N$///= Ph. rugosa sec Ludwig (2007), Pilzkompendium 2:519///= Ph. rugosa sec Hausknecht (2009), Conocybe-Pholiotina:641/// ///Chapeau en général ± campanulé///Stipe brunissant dans les parties inférieures (surtout au frottement). ///Anneau en général médian, toujours bien évident mais parfois réduit à une zone floconneuse facilement caduque.///Spores en amande, (7,7)8,5-10(-12) x (4,5)5-5,7(7,2) µm, à pore indiscutable mais souvent peu évident de profil.
+12,0 $ Champignon plus grand (D = 20-26 mm ; d = 1,5-2,5 mm ; L = 19-26), à anneau très développé, profondément strié plissé à la face supérieure $ C. togularis
+12,0,N$/// = vexans sec Watling (1982), Br. Fung. Fl. 3:96/// = Ph. vexans sec Ludwig (2005), Pilzkompendium 2:518/// = Ph. vexans sec Hausknecht (2009), Conocybe-Pholiotina:644,669
+
+
+
+cs2,0 $   Sous-genre Eu. Conocybe
+
+1,0 $ Chapeau se fissurant radialement sur le dos des lames (comme celui des Coprins véliformes).
+1,0,N$ Section Plïcatellae : C. plicatella
+1,2 $ Chapeau strié ou non, mais jamais fendillé radialement au dos des lames.
+
+2,0 $ Cheilocystides terminées par un bouton globuleux porté par un pédoncule (parfois très court) grêle.
+2,0,N$ Section Capitatae
+2,3 $ Cheilocystides à extrémité ± atténuée mais dépourvue de bouton globuleux. $$s"Section Piliferae"
+
+3,4 $ Revêtement piléique présentant, outre les cellules en massue (rondes par dessus), de nombreux poils à extrémité libre saillante, dressée et non cloisonnée. Stipe blanc, blanchâtre ou blanc jaunâtre, parfois grisâtre argenté ou ± bleuissant ou verdoyant.
+3,cs1 $ Revêtement piléique à dermatocystides nulles ou peu évidentes et très dispersées, mais montrant assez souvent, au-dessus des cellules en massue, des hyphes ± cylindracées, fréquemment cloisonnées, ± couchées et non dressées, qui représentent les restes du voile. Stipe souvent brun, au moins en bas ou en dedans : /// ===>Sous-genre Pholiotina
+
+4,0 $ Espèce venant sur les bouses ou les crottins, à chapeau (2-3 cm.) opaque, crème ou ocre clair, couvert de poils allongés, cylindriques filiformes, gélifiés, qui le rendent un peu lubrifié ; spores 10-14 x 6-8 µm à pore évident. $ C. coprophila
+4,5 $ Espèces non fimicoles, à dermatocystides moins allongées, ressemblant aux cheilocystides ; spores souvent plus petites.
+
+5,0 $ Grand champignon (D = 3-4 cm. ; d = 2-5 mm.) à cheilocystides étroitement fusiformes, progressivement atténuées cuspidées au sommet. $ C. pygmaeoaffinis
+5,6 $ Petites espèces (D <= 2,5 cm.) à chapeau strié en temps humide chez les adultes.
+
+6,0 $ Cheilocystides 4,2-7 µm de large x 17-28, à bec grêle (1,5-2,2 µm). Spores 6,5-8,5 x 3,5-5 µm, à pore peu évident, surtout lorsqu’elles sont vues de profil. $ C. mairei
+6,7 $ Cheilocystides 7-12 µm de large, à bec moins grêle (> 1,5-2,2 µm). Spores de 7-10 x 4-5,7 µm, à pore bien net.
+
+7,0 $ Stipe blanchâtre argenté ou gris argenté avec un reflet verdâtre ou bleuâtre surtout vers la base, soit avec l'âge, soit au froissement. Cheilocystides de 18-38 µm de long. $ C. cyanopoda
+7,0 $ Stipe blanc ou blanc jaunâtre, entièrement poudré. Cheilocystides de 34-50 µm de long. $  C. aberrans
+7,0,N$///= Ph. filipes sec Hausknecht (2009), Conocybe-Pholiotina:578
+

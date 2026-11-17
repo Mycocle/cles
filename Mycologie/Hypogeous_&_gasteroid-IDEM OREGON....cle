@@ -1,0 +1,359 @@
+titre$Hypogeous and gasteroid basidiomycetes
+com$ tiré de  http://www.natruffling.org/ascokey.htm adapt GF avril 2010
+
+
+1,0$ 1ere partie : Differentiating Between Ascomycetes and Basidiomycetes
+1,cs2 $ Truffle surface ±evenly covered with round to angular warts (use hand lens) $ $s"Ascomycetes"
+1,2 $ Truffle surface not warty
+2,3 $ Truffle solid in cross-section (use hand lens)
+2,4 $ Truffle with one to many empty or spore-filled canals or chambers
+3,cs2 $ Truffle interior firm to crisp, not exuding a sticky fluid $ $s"Ascomycetes"
+3,cs4 $ Truffle interior gelatinous or exuding a sticky fluid $ $s"Basidiomycetes"
+4,cs2 $ Chambers single to many, >3 mm broad $ $s"Ascomycetes"
+4,5 $ Chambers or canals <3 mm broad
+5,cs4 $ Truffle with a stem or stem-like tissue in cross-section $ $s"Basidiomycetes"
+5,6 $ Truffle lacking a stem or stem-like tissue in cross-section
+6,cs4 $ Truffle with rootlet-like strands (rhizomorphs) at base or appressed on surface $ $s"Basidiomycetes"
+6,7 $ Truffle lacking rhizomorphs
+7,cs2 $ Truffle interior with long, meandering canals $ $s"Ascomycetes"
+7,8 $ Truffle interior with rounded to slightly elongate or irregular chambers
+8,cs2 $ Truffle flesh firm to crisp, gray to brown or purple $ $s"Ascomycetes"
+8,cs4 $ Truffle flesh soft, white to yellow or brown $ $s"Basidiomycetes"
+
+cs2,0$
+1,CS20$ Key 2: Ascomycete Genera Based on Macroscopic Characters
+1,CS21$ Key 3: Ascomycete Genera Based on Microscopic Characters
+
+
+
+Cs20,0$ Key 2: Ascomycete Genera Based on Macroscopic Characters
+1,2 $ In dry to wet habitats under shrubs or trees
+1,44 $ In true deserts with herbs or shrubs
+2,3 $ Truffle with one to many empty or spore-filled chambers or canals
+2,23 $ Truffle solid, often marbled with veins
+3,4 $ Truffle sides and top with brown hairs (observe with hand lens)
+3,8 $ Truffle sides and top lacking brown hairs, but a tuft of hairs may be present at base
+4,5 $ Truffle surface warty
+4,6 $ Truffle surface not warty but may be ridged or convoluted
+5,0 $ Iodine on cross-section of mature truffle causing a blue to black reaction $ Amylascus
+5,0 $ Iodine on cross-section of mature truffle causing a yellow to brown or no reaction $ Genea
+6,0 $ Truffle with a single, brown-lined chamber $ Hydnocystis
+6,7 $ Truffle chamber white-lined or chambers or canals more than one
+7,0 $ Truffle with broad chambers of various shapes; Northern Hemisphere $ Geopora
+7,0 $ Truffle with narrow, labyrinthine canals; Australasia $ Labyrinthomyces
+8,9 $ Chambers one or a few, often broader than 3 mm
+8,17 $ Chambers or canals many, generally less than 3 mm broad
+9,10 $ Chamber single, in youth containing cottony hyphae, at maturity spore powder
+9,11 $ Chambers single to several, empty
+10,0 $ Peridium more than 3 mm thick, the surface yellow, brown, blue or black; world-wide $ Elaphomyces
+10,0 $ Peridium less than 3 mm thick, bright orange to scarlet; New Zealand (and introduced to England) $ Paurocotylis
+11,12 $ Truffle surface minutely warty
+11,14 $ Truffle surface smooth to scabrous
+12,0 $ Truffle with a tuft of hairs at base $ Genea
+12,13 $ Truffle lacking a basal tuft
+13,0 $ Truffle reddish brown to purple $ Genea intermedia
+13,0 $ Truffle grayish yellow, brown or black $ Genabea
+14,0 $ Truffle with a large, single chamber and a basal stem $ Sarcosphaera
+14,15 $ Truffle with one to several chambers, lacking a basal stem
+15,0 $ Iodine on cross-section of fresh, mature truffle causing a blue to black reaction $ Peziza
+15,16 $ Iodine on cross-section of fresh, mature truffle causing a yellow, orange, red or no reaction
+16,0 $ Truffle lacking a basal tuft of hairs; Northern Hemisphere $ Hydnotrya
+16,0 $ Truffle with a basal tuft of hairs; Southern Hemisphere $ Gymnohydnotrya
+17,18 $ Species of the Northern Hemisphere
+17,20 $ Species of the Southern Hemisphere
+18,0 $ Truffle surface warty $ Balsamia
+18,19 $ Truffle surface smooth to minutely roughened
+19,0 $ Truffle with labyrinthine canals; Northern Hemisphere $ Hydnotrya
+19,0 $ Truffle with small, irregular chambers; southern Europe & North Africa $ Loculotuber
+20,0 $ Truffle surface warty or cracked in a mosaic pattern $ Dingleya
+20,21 $ Truffle surface smooth to minutely roughened
+21,0 $ Iodine on cross-section of truffle causing a blue to black reaction $ Mycoclelandia
+21,22 $ Iodine on cross-section of truffle causing a yellow to orange or no reaction
+22,0 $ Truffle with a basal tuft of hairs $ Gymnohydnotrya
+22,0 $ Truffle lacking a basal tuft of hairs $ Reddellomyces
+23,24 $ Truffle surface finely to coarsely warty
+23,28 $ Truffle surface smooth to scabrous or lobed and furrowed but not warty
+24,25 $ Truffle with a well-defined cavity on the side or top; interior veins usually converging at the cavity
+24,27 $ Truffle lacking a well-defined cavity, although irregular depressions or furrows may be present
+25,0 $ Truffle interior white or nearly white at maturity $ Balsamia
+25,26 $ Truffle interior yellow to brown or nearly black or with veins of those colors
+26,0 $ Truffle surface black, the warts 1-4 mm broad; Europe $ Tuber mesentericum
+26,0 $ Truffle green to brown or black, the warts 1 mm or less broad; Northern Hemisphere $ Pachyphloeus
+27,0 $ Truffle interior brown marbled with white meandering veins $ Tuber
+27,0 $ Truffle interior with gray to olive pockets separated by white veins $ Picoa
+28,29 $ Truffle surface with brown or yellow hairs (observe with hand lens)
+28,30 $ Truffle surface smooth to roughened
+29,0 $ Truffle interior white to nearly white at maturity, with scattered white to light brown canals $ Stephensia
+29,0 $ Truffle interior brown marbled with white veins at maturity $ Tuber
+30,31 $ Truffle with well-defined cavity on side or top
+30,32 $ Truffle lacking well-defined cavity, but depressions or furrows may be present
+31,0 $ Truffle interior white to near white at maturity; western North America and Japan $ Barssia
+31,0 $ Truffle interior dark brown marbled with white veins at maturity; Europe $ Tuber excavatum & allies
+32,33 $ Associated with trees or shrubs native to the Northern Hemisphere
+32,42 $ Associated with trees or shrubs native to the Southern Hemisphere
+33,0 $ Drop of iodine on cross-section of fresh, mature truffle causing a blue to black reaction $ Hydnotryopsis
+33,34 $ Drop of iodine on cross-section of fresh, mature truffle causing a yellow to orange or no reaction
+34,35 $ Truffle interior with rounded, colored, spore-bearing pockets, pockets separated by white to near-white veins
+34,37 $ Truffle interior with meandering, colored, spore-bearing veins intermingled with darker veins
+35,0 $ Pockets of truffle interior rose colored $ Delastria
+35,36 $ Pockets yellow to gray, olive or brown
+36,0 $ Pockets of truffle interior yellow to brown; truffle surface brown; spores spiny or reticulate $ Terfezia
+36,0 $ Pockets gray to olive or rarely brown; truffle surface brown to black; spores smooth $ Picoa
+37,0 $ Truffle surface nearly white, the interior pale violaceus gray marbled with white veins; known only from Oregon $ Cazia
+37,38 $ Truffle surface gray to yellow, pink or various shades of brown; interior with brownish yellow to dark brown veins; of wide distribution
+38,0 $ Truffle interior with white to pale yellow flesh marbled with narrow, brownish yellow to brown veins $ Choiromyces
+38,39 $ Truffle interior with dark gray to brown flesh marbled with narrow, white or near-white veins
+39,0 $ Truffle with a short stem or stem lacking; white veins of interior lined with a palisade of elongate cells; known only from Oregon and Italy $ Fischerula
+39,40 $ Truffle lacking a stem; white veins of interior of globose or interwoven cells, lacking a palisade
+40,0 $ White veins of interior lined with globose cells; spores globose $ Hydnobolites
+40,41 $ White veins of interior of interwoven hyphae; spores globose to ellipsoid
+41,0 $ Asci in truffle tissue containing one huge spore; Italy $ Paradoxa
+41,0 $ Asci in truffle tissue mostly with 2 or more spores; cosmopolitan $ Tuber
+42,0 $ Drop of iodine on surface of fresh, mature truffle causing a blue to black reaction; asci borne on truffle surface $ Sphaerozone
+42,43 $ Drop of iodine on surface of fresh, mature truffle causing a yellow to brown or no reaction
+43,0 $ Truffles brain-like, with folds and ridges; surface gelatinous to slimy when fresh $ Ruhlandiella
+43,0 $ Truffles subglobose, not brain-like; surface dry to moist, not gelatinous or slimy $ Sphaerosoma
+44,45 $ Truffle surface with brown hairs (observe with hand lens)
+44,46 $ Truffle surface lacking brown hairs, a tuft of hairs may be present at base
+45,0 $ Truffle interior with meandering canals; Australia $ Stephensia
+45,0 $ Truffle interior solid with pockets of tissue separated by slightly paler veins; Arabian Peninsula to North Africa $ Phaeangium
+46,47 $ North American species
+46,48 $ European, Asian, African, or Australian species
+47,0 $ Truffle interior brown, powdery when dry $ Carbomyces
+47,0 $ Truffle interior white to light yellow, firm $ Terfezia
+48,0 $ Truffle interior with meandering veins; Australia or South Africa $ Choiromyces
+48,49 $ Truffle interior with light yellow to light brown pockets separated by paler veins
+49,0 $ Drop of iodine on cross-section of fresh, mature truffle causing a green to blue or black reaction $ Tirmania
+49,0 $ Drop of iodine on cross-section of fresh, mature truffle causing a yellow to orange or no reaction $ Terfezia
+
+
+Key 3: Ascomycete Genera Based on Microscopic Characters
+CS21,0$ Key 3: Ascomycete Genera Based on Microscopic Characters
+1,2 $ Spores in a powdery mass at maturity; asci, when present, borne among cottony hyphae, autolysing at maturity
+1,5 $ Spores not in a powdery mass at maturity; asci, when present, borne in a hymenium or embedded in glebal tissue, persistent
+2,0 $ Asci present, at least near peridium, and light to dark brown in KOH; deserts of southwestern North America $ Carbomyces
+2,3 $ Asci absent (ephemeral) or, if present, hyaline to green in KOH
+3,0 $ Spores smooth; peridium orange to scarlet when fresh $ Paurocotylis
+3,4 $ . Spores with spines, ridges, or a reticulum; peridium white to yellow brown or black 4
+4,0 $ Truffles hollow, becoming stuffed with cottony hyphae and spore powder, never dehiscent, never with a basal tuft of hyphae $ Elaphomyces
+4,0 $ Truffles with chambered gleba, the chambers becoming thin-walled and stuffed with spores and hyphae; sporocarps with basal tuft of hyphae, dehiscent at maturity $ Scleroderma (Basidiomycotina)
+5,6 $ Asci green to blue (sometimes faintly) in Melzer's reagent
+5,13 $ Asci hyaline to yellow or brown in Melzer's regent
+6,0 $ Truffles hollow or occasionally with 2 large chambers; base with rudimentary stipe $ Sarcosphaera
+6,7 $ Truffles multichambered or solid
+7,8 $ Spores smooth or minutely roughened
+7,9 $ Spores spinose, papillose, reticulate, etc.
+8,0 $ Asci cylindric; Australia $ Mycoclelandia
+8,0 $ Asci ellipsoid to globose; North Africa & West Asia $ Tirmania
+9,10 $ Spores globose
+9,11 $ Spores ellipsoid
+10,0 $ Truffles smooth; glebal veins containing narrow hyphae; Northern Hemisphere $ Pachyphloeus conglomeratus
+10,0 $ Truffles verrucose; glebal veins lined with broadly ellipsoid to isodiametric cells Australia $ Amylascus
+11,0 $ Hymenium on truffle surface $ Sphaerosoma
+11,12 $ Hymenium inside truffle
+12,0 $ Asci narrowly cylindric, operculate, with uniseriate spores; truffles with at least some hollow chambers $ Peziza
+12,0 $ Asci clavate to broadly cylindric, with no apical operculum apparatus; truffles solid $ Hydnotryopsis
+13,14 $ Truffles hollow or chambered from infolding, the interior surface lined with peridium-like tissue that completely encloses the asci
+13,16 $ Truffles solid or, if chambered, the interior surfaces not lined with peridium-like tissue
+14,0 $ Spores smooth $ Hydnocystis
+14,15 $ Spores ornamented
+15,0 $ Spore ornaments rounded to conical $ Genea
+15,0 $ Spore ornaments of narrow spines $ Genabea
+16,17 $ Asci in an even to disorderly hymenial palisade (sometimes also embedded in tissue)
+16,31 $ Asci never in a distinct hymenial palisade, instead mostly randomly embedded in glebal tissue
+17,18 $ Spores smooth at maturity
+17,21 $ Spores ornamented at maturity
+18,19 $ Truffle surface smooth
+18,20 $ Truffle surface tomentose
+19,0 $ Spores globose; truffle surface bright orange to scarlet $ Paurocotylis
+19,0 $ Spores oblong to globose; truffle surface yellowish pink to brown $ Barssia
+20,0 $ Truffle with one to many open chambers >3 mm broad $ Geopora
+20,21 $ Truffle chambers mostly stuffed with cottony hyphae or asci, < 3 mm broad Stephensia
+21,22 $ Hymenium on truffle surface
+21,23 $ Hymenium lining chambers or canals within truffle
+22,0 $ Spores reticulate; paraphyses with gelatinous sheath $ Ruhlandiella
+22,0 $ Spores warty; paraphyses lacking gelatinous sheath $ Sphaerozone
+23,0 $ Truffle surface tomentose; asci much longer than paraphyses $ Labyrinthomyces
+23,24 $ Truffle surface smooth to roughened; paraphyses at least as long as asci
+24,25 $ Truffles surface verrucose or cracked in a mosaic pattern
+24,26 $ Truffles surface smooth to convoluted or roughened, not verrucose
+25,0 $ Truffles with an apical cavity to which the interior canals converge; spores warty to spiny $ Pachyphloeus
+25,0 $ Truffles lacking a cavity; interior canals not converging; spores warty $ Dingleya
+26,0 $ Truffle with a basal tuft of hairs $ Gymnohydnotrya
+26,27 $ Truffle lacking a basal tuft of hairs
+27,28 $ Truffle solid, with meandering veins filled with even to disorderly palisades of asci
+27,29 $ Truffles with chambers lined with even to disorderly palisades of asci
+28,0 $ Asci straight; spores ornamented with rods or spines $ Choiromyces
+28,0 $ Asci mostly crooked; spores ornamented with a low, warty reticulum $ Cazia
+29,0 $ Spores reticulate; hymenial palisade disorderly $ Loculotuber
+29,30 $ Spores spiny, warty, or covered with amorphous material; hymenial palisade even
+30,0 $ Spores spiny or covered with amorphous material, strong yellowish to reddish brown $ Hydnotrya
+30,0 $ Spores warty, hyaline or pale colored $ Reddellomyces
+31,0 $ Asci light brown to brown; deserts of southwestern U.S. and Mexico $ Carbomyces
+31,32 $ Asci hyaline to yellow or, if brown, the species associated with ectomycorrhizal trees; widely distributed
+32,33 $ Spores smooth or with circumferential lines barely detectable by light microscopy
+32,34 $ Spores prominently ornamented by maturity
+33,0 $ Gleba marbled by meandering veins lined by paraphyses and either empty or stuffed with cottony hyphae. $ Balsamia
+33,0 $ Gleba with isodiametric to irregular pockets of asci separated by sterile tissue $ Picoa
+34,0 $ Asci nearly filled with a single, large, reticulate spore $ Paradoxa
+34,35 $ Asci multispored
+35,36 $ Spores ellipsoid
+35,37 $ Spores globose
+36,0 $ Spores ornamented with dark brown, rounded to conic warts or agglutinated spines $ Fischerula
+36,0 $ Spores ornamented with discreet spines or a reticulum. $ Tuber
+37,38 $ Gleba marbled with meandering veins
+37,39 $ Gleba with isodiametric to irregular pockets of asci separated by sterile tissue
+38,0 $ Sterile veins of peridium-like globose to ellipsoid cells $ Hydnobolites
+38,0 $ Sterile veins of loosely organized hyphae $ Tuber
+39,0 $ Asci 1-4 spored, the ornamentation of spores within a single ascocarp varying from long, flexuous spines to a reticulum $ Delastria
+39,40 $ Asci 5-8 spored or, if 1-4 spored, then spores consistently ornamented with stubby rods or low warts
+40,0 $ Truffle surface smooth; spores reticulate, spiny or warty $ Terfezia
+40,0 $ Truffle surface brown-hairy; spores with low warts $ Phaeangium
+
+
+
+
+
+cs4,0$KEY TO HYPOGEOUS AND GASTEROID BASIDIOMYCETES BASED ON MACROSCOPIC AND ECOLOGICAL CHARACTERISTICS
+
+1,2 $ Sporocarps globose, subglobose or like an enclosed mushroom, often with a stipe, stipe-columella or sterile base; hypogeous to epigeous; gleba composed of numerous, small or moderately large, distinct chambers or lamellae-like, contorted tramal plates or thin to moderately thick, radiating septae or tramal plates or numerous, tapering, centripetally arranged peridioles or with combinations of chambers and contorted tramal plates; if powdery at maturity then young sporocarps chambered or with radiating tramal plates, the chamber walls thin, breaking down, dehiscent, if appearing solid, then mature chambers filled with moist, gel-like material; texture soft bread-like, firm to tough and rubbery, or cartilaginous, usually not brittle. (Hypogeous and gasteroid members of Subdivision Basidiomycotina)
+2,3 $ Sporocarps globose, subglobose to elongated or flattened, occasionally with a thick, matted cluster of basal rhizomorphs but not possessing an obvious external stipe, stipe-columella or well formed, large sterile base; gleba usually not exposed to the surface, but if gleba exposed, then peridium entirely lacking or present in a large patch near the apex; hypogeous, subepigeous or occasionally epigeous; mostly ectomycorrhizal
+2,46 $ Sporocarps variously shaped but agaricoid or gasteroid, with a stipe, stipe-columella or sterile base that is evident before sectioning, often resembling a contorted mushroom, an unexpanded mushroom button, or a fully developed but unopened mushroom; with or without a small or large portion of the gleba exposed; hypogeous, subepigeous or frequently epigeous; ectomycorrhizal or saprotrophic
+3,4 $ Sporocarps when cut with true vertical section possessing a small or large columella or small sterile base in the gleba or densely matted cluster of rhizomorphs resembling a sterile base
+3,31 $ Sporocarps when cut with true vertical section not possessing a columella or sterile base in the gleba
+4,5 $ Gleba of centripetally or radially arranged tramal plates or peridioles extending from central columella or sterile base or of chambers evident at youth but becoming powdery at maturity
+4,9 $ Gleba composed of numerous, small or large chambers, occasionally requiring a hand lens to be visible
+5,0 $ Gleba of radially arranged, tapering black peridioles $ Pyrenogaster
+5,6 $ Gleba of radiating tramal plates or chambers in youth but rapidly becoming powdery at maturity
+6,7 $ Gleba with persistent central columella
+6,8 $ Gleba lacking a columella
+7,0 $ Gleba brown, dark brown or black at full development; tramal plates radiating centripetally from spherical central columella or sterile base $ Radiigera
+7,0 $ Gleba black at full development ; tramal plates and chambers pendant from disk of sterile tissue supported by a percurrent columella composed of thick rhizomorphs; peridium thick, leathery, dehiscing $ Sedecula
+8,0 $ Thick outer peridium tomentose, and usually splitting into well formed stellate pattern in age; gleba brown to dark brown usually contained in a leathery inner peridium $ Astraeus
+8,0 $ Thick outer peridium mostly not splitting into stellate pattern in age, or if so, peridium not tomentose; gleba black, powdery at maturity and not contained in an inner peridium $ Scleroderma
+9,10 $ Gleba darkly or brightly colored, usually in the range of brown, pink, yellow, orange, green or blue-green
+9,28 $ Gleba typically white or off-white
+10,11 $ Gleba gray-brown, brown, red-brown to dark brown
+10,19 $ Gleba variously colored, occasionally olive to olive brown but not brown
+11,0 $ Sporocarp lacking peridium; reaction to Melzer's reagent giving a dextrinoid reaction $ Protogautieria
+11,12 $ Sporocarp with well developed peridium entirely covering gleba; reaction to Melzer's reagent various, but usually not dextrinoid
+12,0 $ Gleba of chambers filled with gel-like material $ Destuntzia
+12,13 $ Gleba of small or large chambers, containing spores but not filled at maturity with gel-like material
+13,14 $ Columella well developed, dendritic or percurrent
+13,16 $ Columella poorly developed or lacking; sterile base may be present
+14,0 $ Sporocarps usually soft, fleshy, to firm but not cartilaginous or rubbery, columella or stipe-columella present $ Gymnoglossum
+14,15 $ Sporocarps usually cartilaginous, tough or rubbery; columella usually diffuse, never a percurrent stipe-columella or columella
+15,0 $ Sporocarps medium to large; peridium usually thin, evanescent, white or pale brown; gleba gray brown, red brown, brown or dark brown $ Gautieria
+15,0 $ Sporocarps usually small; peridium thick, persistent, white; gleba pink to red brown $ Hysterangium
+16,17 $ Gleba strongly amyloid in Melzer's reagent
+16,18 $ Gleba not amyloid in Melzer's reagent, but may be slightly dextrinoid
+17,0 $ Brown color of gleba usually from discoloring reaction of tramal tissue and not from accumulation of spores; odor strong, oily, of maple syrup or slightly of rubber $ Martellia (now divided into Gymnomyces, Cystangium, and Macowanites)
+17,0 $ Brown color of gleba usually from accumulation of spores in the glebal chambers; odor absent or different $ Martellia (now divided into Gymnomyces, Cystangium, and Macowanites)
+18,0 $ Fresh sporocarps with strong, penetrating, farinaceous odor $ Hymenogaster
+18,0 $ Fresh sporocarps with no or different odor $ Octavianina
+19,20 $ Gleba usually some shade of green including yellow green, olive green, blue green
+19,22 $ Gleba some shade of pink, yellow, orange, or gray-blue
+20,0 $ Columella derived from a stubby sterile base, percurrent or nearly percurrent, dentritic; fleshy but not cartilaginous or gelatinous except in age $ Truncocolumella
+20,21 $ Columella absent or simple or branched; glebal tissues cartilaginous or gelatinous
+21,0 $ Sporocarps single or loosely clustered, habitat various; cartilaginous and rubbery, the peridium often cleanly separating from the gleba, associated with a variety of tree hosts $ Hysterangium
+21,0 $ Sporocarps, tightly clustered, encased in heavy mycelium, hyphal strands, soil and ectomycorrhizal rootlets, moderately gelatinous associated with Eucalyptus $ Chondrogaster
+22,23 $ Fresh gleba when cut exuding a latex
+22,24 $ Fresh gleba when cut not exuding a latex
+23,0 $ Gleba amyloid in Melzer's reagent $ Zelleromyces
+23,0 $ Gleba not amyloid in Melzer's reagent; with large orange spores that are visible with a hand-lens embedded in tissue $ Endogone (Zygomycete)
+24,0 $ Gleba blue-gray at maturity $ Gautieria
+24,25 $ Gleba not blue-gray at maturity, but some shade of pink, yellow or orange
+25,0 $ Gleba some shade of pink, associated with Eucalyptus $ Hydnangium
+25,26 $ Gleba some shade of yellow or orange
+26,27 $ Gleba amyloid in Melzer's reagent
+26,0 $ Gleba not amyloid in Melzer's reagent $ Sclerogaster
+27,0 $ Columella or sterile base if present poorly developed $ Martellia
+27,0 $ Small stipe-columella, columella or sterile base present $ Gymnomyces
+28,29 $ Gleba amyloid in Melzer's reagent
+28,0 $ Gleba not amyloid in Melzer's reagent $ Octavianina
+29,0 $ Fresh sporocarps exuding latex when cut $ Zelleromyces
+29,30 $ Fresh sporocarps not exuding latex when cut
+30,0 $ Columella or sterile base if present poorly developed $ Martellia
+30,0 $ Small stipe-columella, columella or sterile base present $ Gymnomyces
+31,32 $ Gleba composed of empty or gel-filled chambers, or powdery at maturity, with or without a latex
+31,0 $ Gleba appearing solid or with orange spores embedded in tissue visible with a hand lens, no evidence of chambers surrounded by pale colored veins, with a latex $ Endogone (Zygomycete)
+32,33 $ Gleba with chambers filled with thick, colored gel-like material, these delineated by pale colored veins
+32,34 $ Gleba composed of chambers that are not filled with a gel-like material at maturity, chambers may appear empty, filled with thin, white latex or with powdery content
+33,0 $ Gleba composed of black gel-filled chambers surrounded by pale colored veins; usually with a strong odor of latex paint $ Melanogaster
+33,0 $ Gleba yellow, brown, olive, brown or red colored, if black or nearly black then the peridium is colored bright yellow; usually with no or different odor $ Alpova
+34,35 $ Gleba white when fresh and mature, and with a scant or profuse white latex
+34,36 $ Gleba usually not white at maturity, with or without latex or if white then no latex is present
+35,0 $ Gleba with copious latex in fresh specimens; chambers 0.5-3.0 mm broad $ Leucogaster
+35,0 $ Gleba with scant latex in fresh specimens, this drying rapidly into a chalky, white surface, often obscuring the chambers; chambers 0.3-0.5 mm broad $ Leucophleps
+36,37 $ Gleba strongly amyloid in Melzer's reagent
+36,42 $ Gleba not amyloid in Melzer's reagent
+37,38 $ Gleba white or off-white at maturity
+37,39 $ Gleba more darkly colored at maturity
+38,0 $ Sporocarp very light in weight; with a fruity or nauseous odor; and fresh the gleba is dry $ Mycolevis
+38,0 $ Sporocarp more dense; with various odors but usually not nauseous, and fresh gleba moist $ Martellia
+39,0 $ Fresh sporocarps exuding a copious latex $ Zelleromyces
+39,40 $ Fresh sporocarps moist but not exuding a copious latex
+40,0 $ Fresh peridium quickly turning vinaceous in KOH $ Rhizopogon
+40,41 $ Color of fresh peridium not affected by KOH
+41,0 $ Columella or sterile base if present poorly developed; brown color of gleba usually from discoloring of tramal tissue, and not from accumulation of spores $ Martellia
+41,0 $ Small stipe-columella, or columella and sterile base present $ Gymnomyces
+42,0 $ Gleba at first composed of chambers separated by pale colored veins, but at maturity gleba powdery $ Scleroderma
+42,43 $ Gleba not composed of chambers separated by pale colored veins, and is not powdery at maturity
+43,0 $ Gleba gray-brown, brown, red-brown to dark brown; usually with a strong, penetrating, farinaceous odor $ Hymenogaster
+43,44 $ Gleba variously colored; with a variety of odors but not farinaceous
+44,0 $ Gleba some shade of pink (like Entoloma spore print color) at maturity, found only in the southeastern and southwestern United States $ Richoniella
+44,45 $ Gleba usually some shade of white, yellow, green or brown but if some shade of pink then not found in the southeast or southwest and gleba bruises black, blue or red
+45,0 $ Gleba white to cinnamon brown at maturity, discoloring on exposure; peridium white to pink at maturity, also discoloring upon bruising; scant latex may be present $ Octavianina
+45,0 $ Gleba various colors, gleba infrequently discoloring on exposure; peridium various colors, frequently discoloring on bruising, latex usually lacking but if present then from the southeastern United States with sterile veins present in gleba $ Rhizopogon
+46,47 $ Gleba chocolate brown, dark purple brown, smoky gray, or black at full development due to coloration of the spores in mass
+46,55 $ Gleba white, yellow, orange, green, vinaceous (pale purple brown) or olive yellow, yellow brown, red brown to rusty brown at full development due to coloration of the spores in mass
+47,48 $ Stipe or stipe columella tough, woody in mature specimens; found in deserts and arid grasslands and steppe
+47,52 $ Stipe or stipe columella fleshy, even in age; found in forests in the Rockies westward and infrequently in deserts and steppe
+48,49 $ Peridium dehiscing cleanly around the circumference of margin; gleba black, lamellate, hanging free from disk of pileus
+48,50 $ Peridium not dehiscing cleanly, rather, breaking up and weathering randomly; gleba usually powdery at maturity
+49,0 $ Stipe-columella with a persistent volva and annulus $ Gyrophragmium
+49,0 $ Stipe-columella with volva but lacking an annulus $ Montagnea
+50,51 $ Resembling a large unopened Coprinus ("inky cap", or "shaggy-mane"); annulus absent or poorly developed
+50,0 $ Resembling a large, unopened Agaricus , often bruising red, or yellow when fresh; volva absent, annulus present $ Longula
+51,0 $ Sporocarps large, many reaching 25 cm or so; external portion of stipe-columella prominent with a bulbous base; gleba often maturing from the base of the gleba upward $ Podaxis
+51,0 $ Sporocarps typically smaller; all parts of gleba maturing simultaneously; external portion of stipe-columella poorly developed, tapering to the base $ Phellorina
+52,0 $ Trama of gleba and stipe-columella colored pale orange to pale red, turning bright red in ETOH $ Brauniellula
+52,53 $ Trama of gleba and stipe-columella white or very pale, not turning bright red in ETOH
+53,54 $ Sporocarp robust, fleshy
+53,0 $ Sporocarp slender , fragile; not necessarily associated with conifers; pileus typically acutely conical; often found on dung or other decomposing organic matter; resembling an enclosed Stropharia or Psilocybe $ Weraroa
+54,0 $ Hypogeous to subepigeous associated with Pinaceae; resembling an enclosed or partially enclosed Gomphidius ; gleba sublamellate and not powdery at maturity; usually yellowish near the base of the stipe-columella $ Gomphogaster
+54,0 $ Hypogeous to subepigeous associated with Pinaceae in the Pacific Northwest; resembling a large unopened Agaricus button; gleba powdery at maturity; usually bruising vinaceous near the base of the stipe-columella $ Endoptychum
+55,56 $ Spores in mass in the chambers or tramal plates white, pale yellow or orange at full development
+55,59 $ Spores in mass in the chambers or tramal plates green, olive yellow, olive brown, vinaceous, yellow brown, red brown to rusty brown
+56,0 $ Color of glebal trama pink to pale red; sterile base and/or small, nonpercurrent columella present, easily lost or broken; gleba not amyloid in Melzer's reagent; found only in association with Eucalyptus $ Hydnangium
+56,57 $ Glebal and tramal characters not as above; may or may not be found with Eucalyptus
+57,0 $ Fresh gleba and/or peridium exuding latex when cut; resembling contorted or unopened Lactarius $ Arcangeliella
+57,58 $ Neither fresh gleba or peridium exuding latex when cut
+58,0 $ Percurrent stipe-columella or columella present; gleba loculate, labyrinthiform, or sublamellate, may or may not be exposed; resembling contorted or unopened Russula $ Macowanites (including Elasmomyces)
+58,0 $ Sterile base or at most small, columella present; gleba usually loculate or at most labyrinthiform, not exposed $ Gymnomyces
+59,60 $ Spores in mass in the chambers or tramal plates some shade of green to olive brown or vinaceous
+59,64 $ Spores in mass in the chambers or tramal plates some shade of yellow brown, red brown to rusty brown
+60,0 $ Gleba vinaceous at full development from coloration of spores in mass $ Truncocolumella
+60,61 $ Gleba some shade of green, olive yellow to olive brown
+61,62 $ Stipe-columella present, percurrent, simple unbranched
+61,63 $ Columella present, usually branched, if percurrent then highly branched and obviously delimited from the gleba
+62,0 $ Gleba tubular, pendant from substantial pileus disk $ Gastroboletus
+62,0 $ Gleba loculate, adhering to the stipe-columella, no substantial pileus disk present $ Rhopalogaster
+63,0 $ Sporocarp obpyriforme, in median section with prolonged, tapering stalklike columella, gleba found above, in the thick portion of the sporocarp, the columella dividing the gleba into sharply delimited sectors; found in eastern and southeastern North America $ Phallogaster
+63,0 $ Sporocarp subglobose to turbinate or slightly elongated, but usually not obpyriforme; columella typically branching from sterile base $ Truncocolumella
+64,65 $ Sporocarp slender; pileus conic, parabolic to cylindric, acute to narrowly obtuse
+64,67 $ Sporocarp more robust; pileus subglobose, convex or broadly conical
+65,66 $ Pileus surface filamentous under the hand-lens
+65,0 $ Pileus surface cellular under the hand lens , at least not distinctly filamentous or with velar patches; gleba lamellate; sporocarp soon deliquescent and slimy; found in pastures or grasslands $ Gastrocybe
+66,0 $ Sporocarp fleshy, frail; brightly colored or drab; pileus surface often with evanescent, scattered patches or remnants of a partial veil; gleba sublamellate to chambered; often bruising blue near the base; found in arid or humid regions growing on the ground, in woods and forests, grasslands, or more rarely on woody debris $ Weraroa
+66,0 $ Sporocarp dry, tough; drab or dull colored (ie. ochre, tan); pileus surface glabrous; gleba lamellate; not bruising blue; found in arid or seasonally dry regions, usually not in forests $ Galeropsis
+67,0 $ Odor strong, penetrating, farinaceous; found only in association with Eucalyptus $ Setchelliogaster
+67,68 $ Odor not strong or farinaceous; found in a variety of habitats
+68,0 $ Saprophytic on twigs or logs in the springtime, often appearing as snowbanks melt, at high elevations or in mountains from the Rocky Mountains westward; reminiscent of an enclosed Pholiota $ Nivatogastrium
+68,69 $ Not saprophytic on twigs or logs; found in grassland, steppe or forests
+69,0 $ Sporocarps epigeous and nearly sessile; found in grassland or steppe habitats $ Endoptychum
+69,70 $ Sporocarps hypogeous, subepigeous, or rarely epigeous; in conifer forests
+70,0 $ Sporocarps hypogeous, subglobose; peridium and stipe-columella bruising instantly blue; glebal plates grayish brown to dark brown from spores; sterile base or stipe-columella present, if stipe-columella percurrent then fragile, the external portion easily lost or broken $ Chamonixia
+70,71 $ Sporocarps hypogeous, subepigeous or rarely epigeous; neither peridium nor stipe-columella bruising blue; spore-bearing surface red brown or rusty brown from spores; sturdy, percurrent stipe or stipe-columella present
+71,0 $ Sporocarps hypogeous with thick, cobwebby to cottony, unbroken or torn partial veil, spores commonly deposited on the inside surface of the veil; spore-bearing surface lamellate $ Cortinarius
+71,0 $ Sporocarps hypogeous, semiepigeous or rarely epigeous, with continuous extension of the peridium protecting the gleba, occasionally separating from the stipe-columella to expose the gleba; gleba labyrinthiform or loculate, no spore deposit except in the chambers themselves $ Thaxterogaster

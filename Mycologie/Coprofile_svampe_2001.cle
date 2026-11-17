@@ -1,0 +1,1384 @@
+titre$Nøgler til coprofile svampe
+com$Pia Boisen Hansen, Christian Lange Jens H. Petersen & Jan Vesterholt 2001-adapt GF 08/2012
+rem$LANGUE$Danois
+
+Nøgler til coprofile svampe 
+Pia Boisen Hansen, Christian Lange Jens H. Petersen & Jan Vesterholt 2001
+L'adaptation de cette  clé a été facilitée par l'utilisation des logciels Moduloclé de Hevé De onchat et de KS_Clef de Karl Soop
+
+cle
+A cs1
+B cs10
+C cs40
+D cs140
+E cs80
+F cs95
+
+coprofile svampe START
+1,9$Uden sporedannelse
+1,10$Struktur med kønnet formering (en teleomorf)
+1,20$Struktur med ukønnet formering (en anamorf), fx bestående af sporangiebærere med glinsende eller tørre sporangier på toppen, af konidiebærere med en støvet masse af konidier eller af en slimet klat af celler
+1,cs125$Auteurs et Bibliographie
+
+9,cs120$Sterilt mycelie (÷ nøgle)
+10,11$Med basidier (Basidiomycota)
+10,13$Med asci (Ascomycota)
+11,cs1$Frugtlegeme en hatsvamp.$Nøgle A (blækhat) – side 4
+rem f"Coprofile_svampe_2001-7.jpg"
+13,cs140$Frugtlegeme uden åbning (ostiole) i toppen (et cleistothecie). Asci typisk små og kugleformede.$Nøgle D (kuglesæksvampe) – side 47	
+rem$ $f"Coprofile_svampe_2001-4.jpg"
+
+13,cs40$Frugtlegeme med åbning i toppen, evt. for enden af en lang hals (et perithecie).Asci aflange.$Nøgle C (kernesvampe mm.) – side 22
+rem$ $f"Coprofile_svampe_2001-5.jpg"
+13,cs10$Hymeniet bæres udvendigt på frugtlegemet (hymenie eksponeret – et apothecie). Asci aflange.$Nøgle B (skivesvampe) – side 9
+rem$f"Coprofile_svampe_2001-6.jpg"
+20,21$Uden hyfer
+rem$ $f"Coprofile_svampe_2001-1.jpg"
+
+20,22$Med hyfer
+
+21,0$figure$$f"Coprofile_svampe_2001-1.jpg"
+21,cs120$Bestående af knopskydende, ovale til cylindriske celler: Gærstadier (÷ nøgle).$Nøgle A. Blækhat - Coprinus Pers.
+rem$21,cs120$Gærstadier (÷ nøgle).         cle des sous groupes
+
+22,23$Hyfer med talrige septae
+22,24$Hyfer uden septae, dog med septae i forbindelse med sporangiebærerene (Zygomycota)
+23,cs80$Med konidiebærere med udvendige konidier.$Nøgle E ("hyfomyceter“). – side 57
+rem$$f"Coprofile_svampe_2001-2.jpg"
+24,cs95$Med sporangiebærere med indvendige sporangiesporer.$Nøgle F (mugordenen) – side 62
+rem$$f"Coprofile_svampe_2001-3.jpg"
+
+---------------------------------------------------------
+cs120,0$sousgroupes  coprinus
+1,0$Nøgle A. Blækhat - Coprinus Pers. af Jan Vesterholt///Frugtlegemer meget små til store, ofte meget kortlivede, ofte delvist henflydende med alderen (lamellerne, evt. hele hatten); hat tør, glat, fint dunet eller skællet, ofte radiært plisseret-furet, med eller uden løse svøbrester (fællessvøb); lameller fri, pladeformede; stok midtstillet, med eller uden ring; sporestøv mørkt brunt til sort; [sp. glatte, sjældnere ru, med spirepore, hos nogle arter med løsnende ydervæg]; på jord, træ, plantestængler, brandpletter, kompost, gødning etc.
+1,0$Bemærkninger/// I nøglen har det været nødvendigt at anvende mikroskopiske karakterer i ret stor udstrækning, da der findes talrige artskomplekser bestående af makroskopisk næsten identiske arter. Ved brug af mikroskopiske karakterer bliver en opdeling mulig, men dyrkningsforsøg har vist, at antallet af biologiske arter også klart overskrider, hvad der kan skelnes med mikroskopets hjælp. Slægten må derfor regnes for at være en af de vanskeligste///hatsvampeslægter. Hatstørrelser er med mindre andet er anført angivet som højde × bredde hos endnu ikke udbredte eksemplarer.
+rem$1,0$figure$$f"Coprofile_svampe_2001-7.jpg"
+1,0$Typer af rester at fællessvøb hos blækhatte : figure$$f"Coprofile_svampe_2001-8.jpg"
+
+1,cs1$Hat hos unge eksemplarer fint håret-dunet under lup, aldrig med skæl eller tydeligt svøb (fællessvøb); frugtlegemer tyndkødede; [med hatcystider].$Nøgle A$s"Coprinus"
+1,2$Hat helt glat, skællet eller med tydelige, melagtige, grynede eller trådede svøbrester (fællessvøb), i det mindste hos unge eksemplarer; frugtlegemer tyk- eller tyndkødede; [uden hatcystider]
+
+2,cs10$Hat helt uden svøbrester eller skæl, jævn eller plisseret (lup!, se fig. a).$Nøgle B$s"Pezizales"
+2,3$Hat med svøbrester eller skæl, i det mindste omkring midten hos unge eksemplarer (lup!, se fig. 6b-e)
+3,CS40$Hat med fastvoksede, hvide, krumme skæl (se fig. b); stok mere end 3 mm tyk.$Nøgle C$s"Pyrenomycetes"
+3,4$Hat uden fastvoksede, hvide skæl; stok evt. slankere
+4,CS80$Hat med trådede svøbrester (lup!), som ofte kan været sammenvævet til filtagtige flager (se fig. c); [svøb bestående af ±trådformede elementer, aldrig af kugleformede til aflange elementer].$Nøgle E$s"Hyfomyceter"
+4,CS95$Hat fint melet til ret groft kornet-grynet af svøbrester (lup!, se fig. d-e); [svøb af runde elementer, evt. tillige med ±trådformede elementer].$Nøgle F$s"Mucorales"
+rem nogle D en cs 150
+------------------------------------------
+cs1,0$Nøgle til undergrupperne Nøgle A. Blækhat - Coprinus 
+com$Nøgler til coprofile svampe-Pia,Boisen,Hansen,Christian,Lange,Jens,Petersen,Vesterholt 2001
+page 4
+
+1,cs2$Hat hos unge eksemplarer fint håret-dunet under lup, aldrig med skæl eller tydeligt svøb (fællessvøb); frugtlegemer tyndkødede; [med hatcystider].$Nøgle A
+1,2$Hat helt glat, skællet eller med tydelige, melagtige, grynede eller trådede svøbrester (fællessvøb), i det mindste hos unge eksemplarer; frugtlegemer tyk- eller tyndkødede; [uden hatcystider]
+2,cs3$Hat helt uden svøbrester eller skæl, jævn eller plisseret (lup!, se fig. a).$Nøgle B
+2,3$Hat med svøbrester eller skæl, i det mindste omkring midten hos unge eksemplarer (lup!, se fig. 6b-e)
+3,cs4$Hat med fastvoksede, hvide, krumme skæl (se fig. b); stok mere end 3 mm tyk.$Nøgle C
+3,4$Hat uden fastvoksede, hvide skæl; stok evt. slankere
+4,cs5$Hat med trådede svøbrester (lup!), som ofte kan været sammenvævet til filtagtige flager (se fig. c); [svøb bestående af ±trådformede elementer, aldrig af kugleformede til aflange elementer].$Nøgle E
+4,cs6$Hat fint melet til ret groft kornet-grynet af svøbrester (lup!, se fig. d-e); [svøb af runde elementer, evt. tillige med ±trådformede elementer].$Nøgle F
+
+
+
+cs2,0$Nøgle A :
+ 
+page 5   Nøgler tilcoprofile svampe
+
+Pia Boisen Hansen, Christian Lange
+Jens H. Petersen & Jan Vesterholt
+
+
+1,0$Nøgle A : Hat i hvert fald som ung meget fint håret-dunet under lup, først ægformet, agernformet, kegleformet eller ellipsoidisk, siden udbredt og radiærfuret; stok fra begyndelsen fint dunet, siden ofte glat; frugtlegeme tyndkødet, henflydende eller ikke; [med hatcystider].
+
+1,0$Hat som ung dækket med rødbrune til teglrøde svøbrester. Hat først smalt ægformet, 2-8 × 2-5 mm, siden klokkeformet til udbredt, først gulbrun, siden lyst grålig udefter; stok 10-70 × 0,3-1 mm, cylindrisk, farveløs- hvid til lyst brunlig; langsomt henflydende; [sp. 12-14,5 × 7,5-9 µm, ellipsoidiske, spirepore excentrisk]; antagelig sj. - JEL160G, ZfM50:16, Fr6:303, [Pers.14:285].$Coprinus curtus Kalchbr.
+1,2$Hat uden rødbrune til rustrøde svøbrester
+2,3$Hat 2-7 mm høj; [sp. gennemsnitligt kortere end 11,5 µm]
+2,5$Hat 5-20 mm høj; [sp. gennemsnitligt længere end 11 µm]
+3,0$[Med cystider på lamelfladen]. Hat først ellipsoidisk, 2-10 mm høj, siden udbredt, først læderbrun, siden lysere udefter; stok 20-50 × 0,5-2,5 mm, cylindrisk, farveløs-hvidlig; henflydende; [sp. 9-12 × 5-6 µm, ellipsoidiske, spirepore central]; på gødning; næppe alm. - [Pers.14:323].$Coprinus stellatus Buller ss. M. Lange
+3,4$[Uden cystider på lamelfladen]
+4,0$[Med øskner]. Hat først ægformet, 2-6 × 1-4 mm, siden udbredt, først kakaobrun, siden afblegende fra randen; stok 20-45 × 0,4-1 mm, cylindrisk, farveløs-grålig; henflydende; [sp. 9,5-11,5 × 5,5-6,5 µm, ellipsoidiske, spirepore næsten midtstillet]; på gammel gødning - ZfM52:109, RdM31:241, [Pers.14:326].$Coprinus heterosetulosus (Locq. ex) Watling
+4,0$[Uden øskner]. Hat først smalt ellipsoidisk, 5-8 × 1-4 mm, siden udbredt, okkerbrun, udefter mere grålig; stok 8-50 × 0,2-1,5 mm, cylindrisk, farveløs-hvid; langsomt henflydende; [sp. 8-10 × 3,5-5 µm, smalt ellipsoidiske, spirepore central]; på gødning. - RdM 31:243, [Pers.14:324]. Skær blækhat ($Coprinus pellucidus P. Karst.)
+5,6$[Basidier 2-sporede]
+5,7$[Basidier 4-sporede]
+6,0$[Med øskner]. Hat først smalt kegleformet, 8-12 mm høj, siden udbredt med opadvendt rand, rødbrun, lysere udefter; stok 40-60 × 1-2 mm, cylindrisk, lys, nedefter med skær af hattens farve; henflydende; [sp. 14-18 × 8,5-10,5 µm, ægformede til ellipsoidiske, spirepore excentrisk]; på gødning og rådnende halm; næppe alm. - MJ23, [Pers.14: 338].$Coprinus sassii M. Lange & A. H. Smith
+6,0$[Uden øskner]. Hat først ellipsoidisk, 5-16 mm høj, siden udbredt, først okkerbrun, siden hvid eller hvidlig udefter; stok 30-80 × 1-1,5 mm, cylindrisk eller udvidet nedefter, ofte noget rodslående hvid; ofte i småknipper; henflydende; [sp. 10-14 × 5,5-7,5 µm, ellipsoidiske til mandelformede, spirepore excentrisk]; på gødning eller gødningsblandet halm; ret alm. - ZfM56:24, RdM31:247, JEL160E, MJ23, BK4:267 [Pers.14:331]. Tosporet blækhat ($Coprinus bisporus J.E. Lange)
+7,0$[Sp. seksudefter grålig;kantede i omrids]. Hat først næsten cylindrisk, 5-15 mm høj, siden kegleformet til udbredt, midte purpurbrun, mod randen lyst grålig; stok 40-80 × 0,7-1,5 mm, cylindrisk, grålighvid; langsomt henflydende; [sp. 10,5-14 × 6-8 µm, spirepore noget excentrisk]; på gødning eller gødningsblandet halm. - ZfM52:128, RdM31:232, Fr6:305, BK4:292, [Pers.14:283].$Coprinus marculentus Britz. (Coprinus hexagonosporus Joss.)
+7,8$[Sp. ellipsoidiske til ægformede]
+8,0$[Med talrige ballonformede cystider på hatten]. Hat først næsten cylindrisk, 5-9 mm høj, siden udbredt, først læderbrun, siden mere grålig udefter; stok 10-50 × 0,5-1 mm, cylindrisk, farveløs-hvid; henflydende; [sp. 12,5-15,5 × 7,2-8,5 µm, ellipsoidiske, spirepore stærkt excentrisk]; på gødning; næppe sj. - ZfM52:107, RdM31:233, BW154, BK4:280, [Pers.14:286].$Coprinus heptemerus M. Lange & A. H. Smith
+8,9$[Uden ballonformede cystider på hatten]
+9,0$[Med øskner]. Hat først smalt ellipsoidisk, 5-20 mm høj, siden udbredt, midte okkerbrun, lysere udefter; stok 20-70 × 1-3 mm, cylindrisk eller let udvidet nedefter, hvid; hurtigt henflydende; [sp. 10-15 × 6-7,5 µm, ægformede til ellipsoidiske, spirepore excentrisk]; på gammel kogødning og rådden halm; ret alm. - RdM31:249, MJ20, BW155, BK4:275, [Pers.14:321]. Morgenblækhat ($Coprinus ephemerus (Bull.: Fr.) Fr.)
+9,0$[Uden øskner]. Hat først smalt ellipsoidisk, 5-20 mm høj, siden udbredt, lyst okkerbrun, udefter grålig; stok 20-80 × 0,5-5 mm, cylindrisk eller let udvidet nedefter, ofte lidt rodslående, fint dunet, hvid; ofte i småknipper; henflydende; [sp. 11-14 × 6-7 µm, ellipsoidiske, spirepore svagt excentrisk]; på kompost, rådnende strå eller gødningsblandet jord, næppe direkte på gødning; næppe sj. - P179, RdM31:245, MJ21, BW155, [Pers.14:320]. Klyngeblækhat ($Coprinus congregatus (Bull.) Fr.)
+
+
+cs3,0$Nøgle B Hat med svøbrester eller skæl, i det mindste omkring midten hos unge eksemplarer (lup!, se fig. 6b-e)3
+
+
+
+1,0$Nøgle B - hjulblækhat-gruppen. - Hat først ±ellipsoidisk, siden udbredt og radiærfuret, helt glat, hverken håretdunet eller pudret af svøb; lameller ofte adskilt fra stokken af et lille nav; stok aldrig mere end 3 mm tyk, glat; frugtlegeme højst let henflydende; [uden hatcystider; sp. hos de fleste arter ± affladede, spirepore excentrisk].
+
+
+1,0$[Sp. gennemsnitligt sp. 7-10,5 µm lange, ± ægformede, kantede eller sammetrykte]. Hat først ægformet til ellipsoidisk, 2-5 × 1-3 mm, siden hvælvet til udbredt, orangebrun, siden grå og gennemskinnelig, bortset fra omkring midten; lameller når ind til stokken; stok 10-50 × 0,1-0,5 mm, cylindrisk; [sp. 7-10,5 × 6,5-10 × 5-6 µm]; på gødning; ret alm. - MJ25, JEL157B, BW156, [Pers.13:447-448].$Coprinus miser P. Karst.
+1,2$[Sp. gennemsnitligt > 10 µm brede, form evt. anderledes]
+2,0$[Sp. 11-15 × 10-13 µm, oftest bredt hjerteformede]. Hat -30 bred som udbredt, gulbrun til læderbrun; lameller fri; stok -80 × 2 mm, hvid til gullig eller lyst brun; på jord eller gødning; DK? - [Pers.13:448].$Coprinus nudiceps P.D. Orton
+2,0$[Sp. 12-17 × 8,5-11 µm, ellipsoidiske]. Hat 25-30 bred som udbredt, orangebrun til rødbrun; lameller fri; stok -100 × 2,5 mm, hvid til lyst vandet brun; på jord eller gødning; DK? - [Pers.13:448].$Coprinus megaspermus P.D. Orton
+
+
+cs4,0$Nøgle C Hat uden fastvoksede, hvide skæl; stok evt. slankere4
+p 6
+
+
+1,2$Nøgle C - parykblækhat-gruppen. - Hat med store, bestandige, tilbagerummede skæl; stok mere end 3 mm tyk; frugtlegeme kødet, henflydende. 
+
+2,0$På gødning; hat som ung 2-6 ??1,5-3 cm. Hat først smalt ægformet, siden klokkeformet til udbredt med opadvendt rand, skællet, hvid med lædergul midte; stok 6-15 ??0,3-1 cm, udvidet nedefter, glat, hvid, øverst tiltagende brun, med bevægelig ring; stærkt henflydende; [sp. 16-23 ??11-14 µm, ellipsoidiske til ægformede, spirepore noget excentrisk]; ret sj. - ML137, B271, JEL157F, MHK 4:293. Møg-blækhat ($Coprinus sterquilinus Fr.: Fr.) B271, JEL157F, MHK 4:293. 
+
+
+cs5,0$Nøgle E . Hat med trådet svøb; hat og lameller med alderen henflydende; [sp. med central spirepore; svøb bestående af ±trådformede elementer].
+
+1,0$ Nøgle E. Hat med trådet svøb; hat og lameller med alderen henflydende; [sp. med central spirepore; svøb bestående
+af ±trådformede elementer].
+1,0$Hat og stokbasis med livligt gule svøbrester. På hestegødning; [sp. 10,5-12,5 × 5-7,5 µm, ellipsoidiske til mandelformede; cheilocystider ballonformede til ellipsoidiske, -18 µm brede, farveløse]. DK?$Coprinus luteocephalus Watling
+1,2$Svøbrester hvide, brunlige eller lædergule
+2,0$Hat som ung 2-6 × 1-3 mm. Hat først ellipsoidisk til ægformet, siden udbredt, med hvide svøbrester, hvid til grå; stok 20-50 × 0,5-1 mm, cylindrisk eller lidt udvidet ved basis, fint silkefnugget, hvid; [sp. 11-14 × 6- 6 - nøgler til coprofile svampe 7 µm, ellipsoidiske]; især på ret frisk gødning; m.alm. - ML139, B271, JEL158C, BK4:299. Lille gødnings-blækhat ($Coprinus radiatus (Bolt.: Fr.) Fr.)
+2,3$Hat som ung 10-50 × 4-30 mm
+3,0$[Sp. 12,5-14,5 × 7,5-8 µm]; stok næppe rodslående. Hat først smalt ellipsoidisk, 10-30 × 4-15 mm, siden udbredt med opadvendt rand, med hvide, fibret-trævlede svøbrester, hvid til grålig; stok 40-120 × 2-7 mm, cylindrisk eller lidt udvidet ved basis, fint silkefnugget, hvid; [sp. ellipsoidiske]; på halm eller gødning, sjældent på jord; hist og her. - Jo13(3), P176, ZfM48:64, JEL158B, BK4:291.$Coprinus macrocephalus (Berk.) Berk. ss. Lange et al.
+3,0$[Sp. 10-12 × 6-7 µm]; stok ofte rodslående. Hat først smalt ægformet til ellipsoidisk, 10-50 × 6-30 mm, siden udbredt, med hvide svøbrester, hvid, snart grå; stok 40-120 × 3-6 mm, cylindrisk eller lidt udvidet ved basis, fint silkefnugget, hvid; [sp. ellipsoidiske til ægformede]; på gødning eller gødet halm, ofte på møddinger; m.alm. - ML 137, B271, JEL158G (som Coprinus fimetarius), MHK4:299, BK4:269. Mødding-blækhat ($Coprinus cinereus (Schaeff.: Fr.) S F. Gray
+
+
+
+rem$1,cs6$Hat fint melet til ret groft kornet-grynet af svøbrester (lup!, se fig. d-e); [svøb af runde elementer, evt. tillige med ±trådformede elementer].Nøgle F
+
+cs6,0$Nøgle F.
+
+1,0$Nøgle F. - Hat i hvert fald som ung melet-pudret til kornet-grynet af svøbrester; stok først fint pudret, siden i
+reglen glat; hat og lameller ofte henflydende; [svøb bestående af kugleformede til aflange elementer, evt. tillige
+med hyfekæder].
+
+1,0$Stok med ring. Hat først cylindrisk til ægformet, 3-7 ??1,5-3 mm, siden klokkeformet til affladet eller med opadvendt rand, pudret, hvidliggrå; stok 15-70 ??0,5-1,5 mm, cylindrisk, evt. lidt udvidet og håret ved basis, farveløs til hvidlig; ikke udpræget henflydende; [sp. 6-9 ??5,5-8 ??4,5-5 µm, noget fladtrykte, spirepore central]; på gødning, især hestegødning; hist og her. - MJ7, JEL159H, MHK4:311, BW154, [Pers.15:291]. Ring-blækhat ($Coprinus ephemeroides (Bull.: Fr.) Fr.)
+1,2$Stok uden ring
+2,3$Stok udspringende fra sklerotium, rodslående eller ikke
+2,4$Stok uden sklerotium, ikke rodslående
+3,0$Sklerotium op til 5 mm bredt; stok rodslående ned til sklerotiet; lugt ubetydelig. Hat først smalt ellipsoidisk, 3-12 ??2-6 mm, siden udbredt med opadvendt rand, pudret, hvidliggrå, lidt mørkere omkring midten; stok 10-60 ??1-3 mm, cylindrisk, fint dunet, hvid eller hvidlig; [sp. 9-11 ??5,5-7 µm, ellipsoidiske, spirepore central]; på gødning eller gødningsblandet jord; næppe alm. - JEL159A (som Coprinus stercorarius), RdM33:68, MHK4:302, BK4:305. Småknoldet blækhat ($Coprinus tuberosus Quél.)
+3,0$Sklerotium op til 15 mm bredt; stok direkte udspringende fra sklerotiet, ikke rodslående; lugt behagelig, som stegte svampe. Hat først smalt ellipsoidisk, 8-22 ??8-11 mm, siden udbredt med opadvendt rand, pudret, lyst grå; stok 55-90 ??2-4 mm, cylindrisk eller noget udvidet ved basis, fint dunet, lyst grå; [sp. 10- 11 ??5-6,5 µm, elipsoidiske, omgivet af en gennemsigtig kappe, spirepore central]; på gødning eller rådnende strå; næppe alm. - MJ12. Storknoldet blækhat ($Coprinus sclerotiger Watling)
+4,5$[Sp. gennemsnitligt op til 10 µm lange]
+4,11$[Sp. gennemsnitligt længere end 10 µm]
+5,6$[Sp. sammentrykte på den ene led, ±hjerteformede i omrids]
+5,7$[Sp. ellipsoidiske til bønneformede, ikke sammentrykte]
+6,0$[Sp. 6,5-10 µm brede]. Hat først ellipsoidisk, 4-12 ??3-6 mm, siden kegleformet til udbredt, rigeligt meletpudret, næsten grynet, midte rødbrun, udefter grå til hvidlig; stok 15-60 ??1-2 mm, cylindrisk, glat, farveløs til hvid; ikke henflydende; [sp. 7-11,5 ??6,5-10 µm, spirepore central]; på gødning; alm. - JEL159E, ZfM 52:128, MJ5, [Pers.15:286]. Hjertesporet blækhat ($Coprinus cordisporus Gibbs) (incl. Coprinus patouillaridii ss.auct.pp.)
+6,0$[Sp. 5-6,5 µm brede]. ($se Coprinus cardiasporus)
+7,8$Hat først op til 13 mm høj
+7,9$Hat først op til 5 mm høj
+8,0$[Sp. 7-8 ??3,5-4 µm]. Hat 3-12 ??1-4 mm, først ægformet til ellipsoidisk, siden udbredt, pudret, hvid til grålig; stok 10-40 ??0,5-1 mm, cylindrisk, evt. lidt udvidet og håret ved basis, farveløs til hvidlig; henflydende; [sp. ellipsoidiske til bønneformede, spirepore central]; på gødning; ret alm. - RdM32:121, BK4:303.$Coprinus stercoreus (Scop.) Fr.
+8,0$[Sp. 6-8 ??4-5 µm]. Hat -13 ??3-8 mm, først ellipsoidisk til cylindrisk, siden udbredt med opadvendt rand, tæt pudret, cremehvid til gråligt læderfarvet; stok -50 ??1-2 mm, cylindrisk, evt. lidt udvidet og håret ved basis, hvidlig til grålig; [sp. ellipsoidiske til bredt cylindriske, spirepore central]; på gødning; DK? - [Pers.15:273].$Coprinus utrifer Joss. ex Watling
+9,0$Hat musegråt melet-pudret. Hat -5 ??-3 mm, først ellipsoidisk til cylindrisk, siden udbredt eller med opadvendt rand; stok -20 ??0,5 mm, cylindrisk med lille knold ved basis; [sp. 6,5-10,5 ??4-6 µm, ellipsoidiske, spirepore central]; på gødning; næppe sj. - MJ15, [Pers.15:274].$Coprinus poliomallus Romagn.
+9,10$Hat hvidt eller hvidligt til brunligt melet-pudret
+10,0$[Sp. 7,5-9 ??4-4,5 µm]. Hat 1-4 ??1-3 mm, først ellipsoidisk, siden udbredt eller med opadvendt rand, hvidligt til brunligt melet-pudret; stok 5-50 ??0,2-1 mm, cylindrisk, fnugget-håret, især mod basis, hvid; [sp. ellipsoidiske, spirepore central]; på gødning; næppe sj. - JEL159$Coprinus velox God. ss. J.E. Lange
+10,0$[Sp. 5,5-7,5 ??3,5-4,5 µm]. Hat 0,3-4 ??0,2-2,5 mm, først kugleformet til ellipsoidisk, siden hvælvet til affladet, hvidt melet-pudret; stok -20 ??0,1-0,7 mm, cylindrisk med udvidet ibasis, farveløs til hvid eller brunlig; [sp. ellipsoidiske, spirepore central]; på gødning; DK? - [Pers.15:277].$Coprinus pseudocortinatus Locq.
+11,12$Stok 0,3-1 mm tyk; hat kun under lup fint dunet, dog evt. med rødlige svøbrester som ung
+11,13$Stok 1-5 mm tyk; hat i hvert fald som ung tydeligt pudret
+12,0$Hat som ung dækket af rødbrune til teglrøde svøbrester. ($se Coprinus curtus, side 5)
+12,0$Hat uden rødbrune til teglrøde svøbrester. ($se Coprinus heptemerus, side 5)
+13,0$[Basidier 2-sporede]. Hat først ellipsoidisk til halvkugleformet, -30 ??-18 mm, siden kegleformet til affladet eller med opadvendt rand, hvid, gråligt til brunligt pudret; stok -110 ??-4 mm, udvidet nedefter, fnugget, hvidlig; [sp. cirkulære med papil i omrids, 13,5-16,5 ??12,5-15,5 ??8,5-10 µm, med ±excentrisk spirepore]; på kogødning; DK? - [Pers.15:272].$Coprinus pachyspermus P.D. Orton
+13,14$[Basidier 4-sporede]
+14,0$[Sp. 9-12,5 ??7,5-11,5 ??6-8 µm]. Hat først ellipsoidisk, 12-20 ??6-12 mm, siden kegleformet til affladet med opadvendt, opsplittende rand, hvid, hvidt til gråligt pudret; stok 50-120 ??3-5 mm, udvidet nedefter, fint pudret, hvid; evt. med karakteristisk lugt; [sp. ellipsoidiske med papil, med ±central spirepore]; på kogødning eller kompostdynger; DK? - [Pers.15:268].$Coprinus pseudoniveus Bender & Uljé
+14,15$[Sp. gennemsnitligt længere end 12 µm]
+15,0$[Sp. ellipsoidiske med papil, 12-19 ??11-15,5 ??7,5-9 µm]. Hat først smalt kegleformet til ellipsoidisk, 15-30 ??9-17 mm, siden klokkeformet til affladet med opadvendt rand, hvid, fint pudret; stok 30-100 ??1-4 mm, udvidet nedefter, fint pudret, hvid; henflydende; [sp. med central spirepore]; på gødning, især hestegødning; ret alm. - ML139, P179, B273, RH427, BK4:295, [Pers.15:266]. Snehvid blækhat ($Coprinus niveus (Pers.: Fr.) Fr.) (Coprinus latisporus P.D. Orton)
+15,0$[Sp. ±sekskantede i omrids, 9,5-15 ??6,5-8,5 ??7-7,5 µm]. Hat først ±ellipsoidisk, -20 ??-13 mm, siden hvælvetet til affladet, hvid, svøb især tilstede i randen; stok -100 ??3-5 mm, udvidet nedefter, fint fnugget, hvid; [sp. med ± central spirepore]; på heste- eller kogødning; DK? - MJ16, C1719, [Pers.15:267, 269].$Coprinus cothurnatus Godey ap. Gill.
+
+
+*********************************
+
+
+
+cs10,0$Nøgle B. Bægersvampeordenen_ Pezizales Bessey af Jens H. 
+Nøgle B. Bægersvampeordenen_ Pezizales Bessey af Jens H. Petersen
+page 8
+
+1,0$figure$$f"Coprofile_svampe_2001-6.jpg"
+1,0$Frugtlegemer et apothecie, der kan være pude-, tønde, top-, skive- til bægerformede eller med et ±foldet hoved på en stok. [Sække normalt med låg, i slægten Thelebolus dog nogle arter uden]. På jord, brandpletter, træ,planterester og ekskrementer.Nøgle til slægter 
+
+1,2$Yderside med spidse, ±udragende 0,1-1 mm [100-1000 µm ] lange hår
+1,5$Yderside glat, fnugget eller fint dunet af tiltrykte hår
+2,cs11$Hår ofte todelte med en 0,5-1 mm lang, opadrettet gren, og en noget kortere, nedadrettet (stærk lup!); sporebærende lag gråhvidt; [sække 4-sporede]. Møg-børstebæger ($Trichophaeopsis tetraspora) - s. 17
+cs11 Trichophaeopsis tetraspora) - s. 17
+
+2,3$Hår ikke todelte; sporebærende lag hvidligt, gulligt, orange til teglrødt; [sække 8-mangesporede]
+3,cs12$Frugtlegeme 0,5-10 mm bredt; sporebærende lag glat; [hår med septae, rodslående, oftest med grenet basis]. Hårbæger ($Cheilymenia) - s. 18$s"Cheilymenia (Otideaceae)"
+cs12 Cheilymenia) - s. 18
+
+3,4$Frugtlegeme op til 1 mm bredt; hvis det sporebærende lag overhovedet kan erkendes, er det ofte ±kuplet af opragende sæk-toppe (stærk lup!); [hår uden septae, næppe rodslående eller grenede ved basis]
+4,cs23$[Med 1500-7000 sporer pr. sæk]; hår brunlige (?). Småbæger ($Trichobolus) - s. 15$s"Trichobolus"
+
+cs23 cs13 Trichobolus) - s. 15 ??
+
+4,cs14$[Med 8 sporer pr. sæk]; hår hyaline eller lyst brune. Øjebæger ($Lasiobolus) - s. 20$s"Lasiobolus (Otideaceae)"
+cs14 Lasiobolus) - s. 20
+
+5,6$Frugtlegemer stilkede eller siddende og med en rand, der er tydeligt hævet med adskillige millimeter over substratet, 3-100 mm brede
+5,7$Frugtlegemer siddende og små, 0,1-5 (-10) mm brede
+6,cs15$Hymenie uforanderligt i Melzer; på hyfemåtten af den orange bægersvamp hjortebæger (Byssonectria); alle dele mørkt brune; [sække J÷]. Randbæger ($Pseudombrophila) - s. 19$s"Pseudombrophila"
+cs15 Pseudombrophila) - s. 17
+
+
+6,cs16$Hymenie mørkt i Melzer; ikke på hjortebæger; sporebærende lag læder-, okker- til gulbrunt; [sække J+]. Bægersvamp ($Peziza) - s. 21$s"Peziza"
+cs 16 Peziza) - s. 21
+
+7,cs17$Voksende i store flokke på en hvidlig hyfemåtte på jord påvirket af urin fra hjorte, eller på disses ekskrementer; sporebærende lag gulorange; [sp. tenformede, hyaline, med to oliedråber]. Hjortebæger ($Byssonectria) - s. 17$s"Byssonectria (Otideaceae)"
+cs17 Byssonectria) - s. 17
+
+7,8$Ikke voksende i flokke på hyfemåtte; sporebærende lag evt. anderledes farvet; [sp. anderledes]
+8,9$Frugtlegeme 1-10 mm bredt; brunt til gulorange men aldrig med mørkprikket hymenie
+8,10$Frugtlegeme 0,1-2 (-5) mm bredt, hvis bredere end 1,5 mm da med hymeniet tydeligt mørkprikket af udragende sporesække og evt. med andre farver
+9,cs18$[Yderside med små, brunlige, tiltrykte hår; sp. glatte]; frugtlegeme med tydelig, steril rand; sporebærende lag brunt til brunorange. Randbæger ($Pseudombrophila) - s. 19$s"Pseudombrophila"$s"Pseudombrophila"
+ cs 18 Pseudombrophila) - s. 19
+
+9,cs19$[Yderside glat; sp. med meget lave længderibber (mindst x1000!)]; frugtlegeme uden påfaldende, steril rand; sporebærende lag gulorange til lyst brunorange. Møgbæger ($Coprobia) - s. 18$s"Coprobia (Otideaceae)"
+cs 19 Coprobia) - s. 18
+
+10,11$Overside blålig i Melzer; hymenie ofte mørkprikket af asci med mørke sporer; [sække J+]
+10,12$Overside uforanderlig i Melzer; hymenie aldrig mørkprikket; [sække J÷]
+11,cs20$Asci med mørke sporer (lup!); [sp. sortagtige, purpurbrune til sortviolette]. Prikbæger ($Ascobolus, Saccobolus) - s. 11$s"Ascobolus, Saccobolus"$s"Ascobolus, Saccobolus"
+cs20 Ascobolus, Saccobolus)
+
+
+11,cs21$Asci ikke med mørke sporer (lup!); [sp. hyaline]. Bulebæger ($Iodophanus, Thecoteus) - s. 13$s"Iodophanus, Thecoteus"
+cs21 Iodophanus, Thecoteus) - s. 13
+
+
+12,0$[Sp. med gulbrunt ornament]; frugtlegeme 0,1-0,2 mm bredt, bestående af et bundt af sække uden omgivende hyfevæv. Nøgenbæger ($Ascodesmis) - s. 14$s"Ascodesmis (Ascodesmiaceae)"
+cs 22 Ascodesmis) - s. 14
+12,13$[Sp. glatte og farveløse]; frugtlegeme 0,1-1 mm bredt, sække omgivet af hyfevæv
+13,cs23$[Med 32-2500 sporer pr. sæk]. Småbæger ($Ascozonus, Thelebolus) - s. 15$s"Ascozonus, Thelebolus (Thelebolaceae)"
+cs 23 Ascozonus, Thelebolus) - s. 15
+
+13,14$[Med 8-16 sporer pr. sæk]
+14,0$[Sp. 7-10 3,5-4,5 µm ; parafyser med gult indhold]. Småbæger ($Thelebolus microsporus) - s. 15$
+cs24 Thelebolus microsporus) - s. 15
+
+
+14,cs25$[Sp. bredere; parafyser uden gult indhold]. Klatbæger ($Coprotus) - s. 16"Coprotus"
+cs25 Coprotus) - s. 16
+
+--------------détails------------
+
+cs11,0$Trichophaeopsis tetraspora) - s. 17
+1,0$Otideaceae Eckblad :[Sække normalt 4-8-sporede, sjældent med flere sporer, J÷; sp. gennemsigtige til lyst brungule].///Børstebæger – Trichophaeopsis Korf & Erb (Otideaceae Eckblad ///[Sække normalt 4-8-sporede, sjældent med flere sporer, J÷; sp. gennemsigtige til lyst brungule].
+1,0$Frugtlegeme 0,5-1 mm bredt, topformet; sporebærende lag gråhvidt; yderside lyst grå, med brune, ca. 0,8 mm lange hår; [sække 4-sporede, sp. ellipsoidiske, 18-20,5 × 11-13 µm, glatte, uden oliedråber]; på ekskrementer af køer; (IX-X); m.sj. (Dissing & Poulsen 1976). Møg-børstebæger ($Trichophaeopsis tetraspora Diss. & Paulsen)
+
+
+
+cs12,0$Hårbæger – Cheilymenia Boud.
+1,0$Cheilymenia Boud. : Frugtlegeme siddende, skiveformet, bægerformet til cylindrisk, 0,5-20 mm bredt; sporebærende lag cremegult, gulorange til orange; yderside ±orangegul, med hyaline, gullige til lyst brunlige hår. [Sække 8-sporede, J÷; sp. ellipsoidiske, glatte og uden oliedråber eller med ganske små vorter og to oliedråber (C. crucipila)]. På ekskrementer, jord eller døde planterester.
+
+1,2$Frugtlegeme op til 1,5 mm bredt; sporebærende lag cremegult (C2)
+1,3$Frugtlegeme 1,5-10 mm bredt; sporebærende lag gulorange til orange (C5)
+2,0$Sække hvælvende sig op af det sporebærende lag, således at dette ser ud som bestående af små kubler (stærk lup!); [hår normalt uden septae].$se øjebæger (Lasiobolus)
+2,0$Sporebærende lag ikke kubbelformet; [hår oftest med septae]. Frugtlegeme skive- til cylinderformet; yderside lyst cremegul, med små, spidse blegbrune hår; [sp. 20-22 ??10-12 µm]; på ekskrementer af planteædere, især af køer, ofte i tætte flokke; næppe alm. (A,BT65:282)$Liden hårbæger (C. pulcherrima (Cr.) Boud.)
+3,0$Yderside med talrige udragende, brunlige hår; [med såvel rette som stjerneformet delte hår]. Frugtlegeme skiveformet, 1,5-6 mm bredt; sporebærende lag gulorange til orange; [sp. 17-20 ??8-10 µm; hår 600-750 µm lange]; på ekskrementer af planteædere, især køer, (V-X); alm. (A,E,D, H)_ BK1:87.$Gødningshårbæger (C. ciliata (Bull.) Maas G. C. stercorea (Pers.) Boud.
+3,0$Yderside med sparsomme, brunlige hår; [kun med rette hår]. Frugtlegeme skiveformet, 1-10 mm bredt; sporebærende lag gulorange; [sp. 18-22,5 ??8,5-12 µm; hår 600-700 µm lange]; på ekskrementer af planteædere, især køer, (V-X); næppe sjælden._ BK1:86, DIXN.$Møghårbæger (C. fimicola (de Not. & Bagl.) Dennis C. coprinaria (Cooke) Boud.
+
+rem$cs13,0$Trichobolus) - s. 15
+
+cs14,0$Lasiobolus - s. 20
+
+Øjebæger_ Lasiobolus Sacc.
+1,0$Lasiobolus Sacc.///Frugtlegeme top- til skiveformet, siddende, op til 0,1-1 mm bredt; sporebærende lag hvidligt, gulligt, orange til teglrødt, med udragende sække; ydersidefarvet som det sporebærende lag, håret; [sække med låg, 8- sporede, J÷; sp. ±ellipsoidiske, glatte, uden oliedråber, med evt. med små bobler]. På ekskrementer af planteædere, hele året.
+
+1,0$Øjebæger – Lasiobolus Sacc. : Frugtlegeme top- til skiveformet, siddende, op til 0,1-1 mm bredt; sporebærende lag hvidligt, gulligt, orange til teglrødt, med udragende sække; ydersidefarvet som det sporebærende lag, håret; [sække med låg, 8- sporede, J÷; sp. ±ellipsoidiske, glatte, uden oliedråber, med evt. med små bobler]. På ekskrementer af planteædere, hele året.
+
+1,0$figures lasiobolus$$f"Coprofile_svampe_2001-12.jpg"
+1,0$[Med over 1000 sporer pr. sæk].$Se småbæger (Trichobolus)
+1,2$[Med 8 sporer pr. sæk]
+2,3$[Nogle hår 700-800 µm lange]
+2,4$[Alle hår mindre end 600 (-700) µm lange]
+3,0$[Sp. 24-30 ??9-14 µm]; frugtlegeme teglrødt til brunorange. Frugtlegeme 0,3-0,7 mm bredt; hår op til 0,8 mm [800 µm] lange; på ekskrementer; DK?$Lasiobolus ruber (Quél.) Sacc.
+3,0$[Sp. 15-23 ??6-13 µm]; frugtlegeme lyst orange til læderbrunt. Frugtlegeme0,4-0,8 mm bredt; hår op til 1 mm [1000 µm] lange; på ekskrementer; DK?_ Bell 70.$Lasiobolus macrotrichus Rea
+4,0$[Sp. 13-18 ??7.5-11,5 µm]. Frugtlegeme 0,2-0,5 mm bredt, gulligt; hår op til ca. 0,5 mm [500 µm] lange; på ekskrementer; DK?_ Bell 70.$Lasiobolus intermedius Bezerra & Kimb.
+4,5$[Sp. større]
+5,0$[Sp. 24-34 ??12-19 µm]. Frugtlegeme 0,3-0,8 mm bredt, orangegult; hår op til ca. 0,5 mm [500 µm] lange; på ekskrementer; DK?$Lasiobolus diversisporus (Fuck.) Sacc.
+5,6$[Sp. 18-24 ??12-14 µm]
+6,0$[Hår 100-450 ??10-25 µm, sække bredt kølleformede]. Frugtlegeme 0,2-0,7 mm bredt, gulligt; på ekskrementer; hist og her.$Lasiobolus cuniculi Vel.
+6,0$[Hår 200-600 (-700) ??20-42 µm, sække ±cylindriske]. Frugtlegeme 0,2-1 mm bredt, gult til gulorange; på ekskrementer; ret alm. (A, Dissing &Paulsen 1975, D, E)._ BK1:115, DXIa.$Lasiobolus papillatus (Pers.: Fr.) Sacc. L. ciliatus (Schum.: Fr.) Boud.
+
+rem$cs15 Pseudombrophila) - s. 17
+
+
+
+cs16,0$Peziza) - s. 21
+Bægersvamp_ Peziza L.
+
+1,0$Pezizaceae : Frugtlegeme skive- til bægerformet, sjældent halvkugle- til pudeformet, (1) 5-120 mm bredt, siddende eller med en kort stok; sporebærende lag beige, gulligt, brunligt, ±violet til sort. [Sække J+, 8-sporede; sp. glatte til ornamenterede, hyaline til lyst gulbrune].///Frugtlegemer bægerformede, affladede til skiveformede, siddende eller med en kort stok, 0,5-15 cm brede; sporebærende lag ±brunt, violet, gulligt, lædergult, blåligt til næsten sort; yderside glat, filtet til kliddet, ofte farvet som det sporebærende lag eller lysere, ofte hvidlig ved udtørring; [sække 8-sporede, J+; sp. ellipsoidiske, glatte til ornamenterede med runde (cirkulære) til snoede vorter eller net (ses ved farvning i cotton-blue), ofte med en til to oliedråber, gennemsigtige eller lyst brunlige]. Især på næringsrig jord, fx vejkanter i løvskove, sjældnere på sandjord, træ, murværk, ekskrementer etc.
+1,0$Frugtlegemer enkeltvoksende, skiveformede, 0,5-1 cm brede; [sp. 15-18 ??7-9 µm]. Sporebærende lag gulbrunt; yderside glat, gulbrun; [sp. glatte, uden oliedråber]; på ekskrementer af hjorte; hist og her. Møg-bægersvamp ($Peziza fimeti (Fuck.) Seav.)
+1,0$Frugtlegemer knippevoksende, siddende, først kugleformede til dybt bægerformede, siden evt. udbredte, 1- 10 cm brede; [sp. 20-23 ??9-12 µm]. Sporebærende lag læderbrunt, okkerbrunt, gulbrunt til gråbrunt; yderside glat til fint håret, læderbrun til okkerbrun; [sp. glatte, uden oliedråber]; på ekskrementer af husdyr, møg-blandet jord, møddinger etc.; alm. (V-X)_ BK1:54, RH625, NS255, ML37.	 Blære-bægersvamp ($Peziza vesiculosa Bull.: Fr.)
+
+
+cs17,0$Byssonectria) - s. 17
+Hjortebæger – Byssonectria P. Karst.
+syn.: Inermisia Rifai
+1,0$Hjortebæger – Byssonectria P. Karst. syn.: Inermisia Rifai
+1,0$Frugtlegeme siddende top- til skiveformet, 2-5 mm bredt, voksende mange hundrede sammen i tætte klynger på en hvidlig hyfemåtte; sporebærende lag gulorange; yderside glat til fint håret, gulorange; [sække 8-sporede, J÷; sp. tenformede, glatte, med to store og evt. mange små oliedråber, 18-24 ??8-10 µm]; på ekskrementer og på planterester hvor hjorte har tisset (IV-IX); sj. – BK1:102, RH631. Hjortebæger ($Byssonectria fusispora (Berk.) Rogerson) B. aggregata (Berk. & Br.) Rogerson & Korf, Inermisia f. (Berk.) Rifai, Octospora a. (Berk. & Br.) Eckbl.
+1,0,n$Bemærkn.: Nordpå i Scandinavien findes den parasitiske
+
+
+
+cs18,0$cs 18 Pseudombrophila) - s. 19
+1,0$Randbæger_ Pseudombrophila Boud. (Fimaria Vel., Nannfeldtiella Eckbl.)///Frugtlegeme top-, skive- til bægerformet, 1-5 mm bredt, siddende, evt. med en påfaldende udragende, steril rand; sporebærende lag brunorange til brunligt; yderside ±brun, spættet af brune hår. [Sække 8-sporede, J÷; sp. ellipsoidiske, først hyaline, siden gullige, glatte, uden oliedråber]. På ekskrementer, stærkt gødet jord eller andre bægersvampe.
+1,0$Snyltende på frugtlegemer og hyfemåtte af hjortebæger (Byssonectria fusispora); [sp. med dråber samt et uregelmæssigt ornament af vorter og ribber, evt. med vedhæng i enderne]. Frugtlegeme bægerformet, 3-10 mm bredt; sporebærende lag mørkt brunt med violette nuancer; yderside mørkt brun, filtet; [sp. 16-19 × 7,5-8,5 µm , ellipsoidiske]; (VI-VIII); m.sj._ RH631. Snyltende randbæger ($Pseudombrophila guldeniae Svrcek) (Nannfeldtiella aggregata Eckbl)
+1,2$På ekskrementer eller stærkt gødet jord; [sp. uden dråber, glatte]
+2,0$Frugtlegeme 5-28 mm bredt, udspringende fra et 5-15 mm bredt, begravet, mørkt brunt sklerotie. Sporebærende lag læderbrunt til orangebrunt; yderside dækket af brunlige hår; [sp. 13,5-17,5 × 9-9,5 µm ; sække 230-300 µm lange]; på ekskrementer af ko og får; m.sj.$Pseudombrophila ripensis (E. Chr. Hans.) Brumm.
+2,3$Frugtlegeme op til 5 mm bredt, ikke udspringende fra et sklerotie
+3,0$Sporebærende lag gennemsigtigt til blegt gulbrunt. Frugtlegeme siddende, 1-5 mm bredt; yderside gulbrun til lyst purpurbrun, spættet af lysere hyfebundter; [Sp. 13-16 × 7-8,5 µm ]; især på ekskrementer af hjorte; hist og her._ BK1:110.$Almindelig randbæger (P. theioleuca Roll.)
+3,4$Sporebærende lag mørkt brunt
+4,0$[Sp. 20-35 × 10-13 µm ]. Frugtlegeme siddende, 1-4 mm bredt; sporebærende lag lyst kakaobrunt til læderbrunt med et purpurfarvet skær; yderside lyst purpurbrun, evt. fnugget af små hår; især på ekskrementer af planteædere; m. sj._ DXIi.$Pseudombrophila hepatica (Batsch) Brumm.
+4,0$[Sp. 14,5-18,5 × 7-9,5 µm ]. Frugtlegeme siddende, 1,5-3 mm bredt; sporebærende lag kastaniebrunt til purpurbrunt; yderside fnugget af små, brune hår; [sække op til 200 µm lange]; på ekskrementer af planteædere; m.sj.$Pseudombrophila cervina (Phill.) Brumm.
+
+cs19,0$Coprobia) - s. 18
+1,0$Coprobia Boud.///Frugtlegeme siddende, pude- til skiveformet, 1-4 (-10) mm bredt; sporebærende lag gulorange til lyst brunorange; yderside grynet, lysere brunorange til hvidlig; [sække 8-sporede, J÷; sp. ellipsoidiske, med meget lave længderibber (mindst x1000!), uden oliedråber 14,5-17 ??7-9 µm]; på ekskrementer af køer, VI-X; alm._ BK1:101, D IXS Møgbæger ($Coprobia granulata (Alb. & Schw.) Sacc.)
+
+cs21,0$
+cs21 Iodophanus, Thecoteus) - s. 13
+1,0$Bulebæger_ Iodophanus Korf & Thecotheus Boud.///Frugtlegeme halvkugle-, pude- til tøndeformede, siddende, op til 1,5 mm bredt, gennemsigtigt, hvidligt, laksefarvet til gråligt; ved modenhed med en overflade der er kuplet af udragende asci; [sække J+, 8-32-sporede; sp. ellipsoidiske, glatte eller ornamenterede med eller uden gelatinøs kappe]. På jord, planterester, brandpletter og ekskrementer hele året.
+1,0$figure Iodophanus, Thecoteus$$f"Coprofile_svampe_2001-10.jpg"
+1,0$Frugtlegeme laksefarvet til kødrødt; [sp. vortede, 17-22 ??10-12 (-18) µm]. Frugtlegeme 0,5-1,5 mm bredt, med tottet til glat yderside, halvkugle- til pudeformet; på ekskrementer og planterester; alm._ BK1:116.	 Kødfarvet bulebæger ($Iodophanus carneus (Pers.: Fr.) Korf)
+1,2$Frugtlegeme gennemsigtigt, hvidligt til gråligt; [sp. glatte eller ornamenterede, større] 2
+2,0$[Asci 32-sporede; sp. 30-33 ??15-18 µm, glatte]. Frugtlegeme 0,5-2 mm bredt; sj._ DXIm	$Thecotheus pelletieri (Cr.) Boud.
+2,0$[Asci 8-sporede; sp. 27-30,5 ??13-14,5 µm]. Frugtlegeme 0,5-2 mm bredt; sj.	$Thecotheus holmskjoldii (E.Chr.Hansen) Eckbl.
+
+
+
+
+
+
+
+cs20,0$Prikbægerfamilien – Ascobolaceae Sacc.
+p 11
+
+1,0$Ascobolaceae Sacc.///[Sække 8-32-sporede, J+; sp. sortagtige, purpurbrune, sortviolette eller gennemsigtige]./// Ascobolus Pers.: Fr., Saccobolus Boud. Frugtlegeme halvkugle-, tønde-, top- til skiveformet, siddende, op til 12 mm bredt, gennemsigtigt, brunligt, gulligt til gulgrønt; mørksporede asci udragende, enten givende hymeniet et mørkprikket udseende eller udstående som „guldfiskerør“; [sække J+, 8-sporede; sp. ellipsoidiske til kugleformede, glatte eller ornamenterede med eller uden gelatinøs kappe]. På jord, planterester, brandpletter og ekskrementer hele året.
+1,0$Ascobolus Pers.: Fr., Saccobolus Boud.///Frugtlegeme halvkugle-, tønde-, top- til skiveformet, siddende, op til 12 mm bredt, gennemsigtigt, brunligt, gulligt til gulgrønt; mørksporede asci udragende, enten givende hymeniet et mørkprikket udseende eller udstående som „guldfiskerør“; [sække J+, 8-sporede; sp. ellipsoidiske til kugleformede, glatte eller ornamenterede med eller uden gelatinøs kappe]. På jord, planterester, brandpletter og ekskrementer hele året.
+1,0$figure ascobolus$$f"Coprofile_svampe_2001-9.jpg"
+
+
+1,0,n$mikroskoper ikke i KOH, da sporernes ornamenter da kan opløses!
+1,2$[Sp. fritliggende i asci]; udragende asci oftest med sporerne placeret spredt. (Ascobolus).
+1,13$[Sp. sammenklistrede i en sporepakke]; udragende asci med sporerne (sporepakken) samlet i toppen. (Saccobolus).
+2,3$Frugtlegeme hvidligt-hyalint
+2,6$Frugtlegeme bleggult, grøngult, brunligt eller blegt rødligt-purpurfarvet
+3,0$[Sp. kugleformede, 11-12 µm]. Frugtlegeme top- til tøndeformet, 0,2-0,5 mm bredt; [sp. med lave vorter]; på ekskrementer; hist og her._ BK1:111, BoT74:71.$Ascobolus brassicae Crouan
+3,4$[Sp. ellipsoidiske, længere]
+4,0$[Sp. vortede]$se Ascobolus hawaiensis
+4,5$[Sp. med forgrenede ribber]
+5,0$[Sp. 16,5-20,5 ??8-10 µm]. Frugtlegeme halvkugle- til skiveformet, 1-3 mm bredt; yderside dunet; [sp. med forgrenede ribber]; på ekskrementer; hist og her._ BoT74:74.$Ascobolus sacchariferus Brumm.
+5,0$[Sp. 25,5-29,5 ??12-13,5 µm]. Frugtlegeme top- til tøndeformet, 0,4-0,6 mm bredt; yderside glat; [sp. med forgrenede ribber]; på ekskrementer, især af rådyr; m.alm._ Bell30, BoT74:74.$Ascobolus albidus Crouan
+6,7$Frugtlegeme 0,8-5 mm bredt, typisk skiveformet med et hymenie prikket af asci med mørke sporer
+6,9$Frugtlegeme op til 0,8 mm bredt, typisk tøndeformet med få, langt udragende asci
+7,0$[Sp. 17-20,5 ??8-10,5 µm, med grove, langsgående rykke]. Frugtlegeme 0,8-1,5 mm bredt, tøndeformet, blegt gulligt til blegt brunt; på ekskrementer; sj._ BoT74:72.$Ascobolus hansenii Paulsen & Dissing
+7,8$[Sp. enten mindre eller større, med fine, parallelle ribber]
+8,0$[Sp. 12,5-15 ??7-8 µm store]. Frugtlegeme 1-2 mm bredt, tønde- til skiveformet, blegt gult til grøngult; [sp. med ± parallelle lister/sprækker]; på ekskrementer af fugle og planteædere; alm._ BK1:113, Bell30, Svamperiget46-47, BoT74:74.$Ascobolus crenulatus Karst.
+8,0$[Sp. 22,5-25,5 ??11,5-13 µm store]. Frugtlegeme (0,5-) 1-5 mm bredt, tønde- til skiveformet, blegt gult til brunt; [sp. med ± parallelle til forgrenede lister/sprækker]; på ekskrementer af planteædere; m.alm._ _ BK1:114, Bell30, Svamperiget207E-F, BoT74:74.$Ascobolus furfuraceus Pers.: Fr.
+9,10$[Sp. glatte eller med langsgående rykke eller ribber]
+9,11$[Sp. med regelmæssige prikker eller vorter]
+10,0$[Sp. 54-67 ??32-38 µm]. Frugtlegeme 0,6-0,8 mm brede, tøndeformet, ofte noget nedsænket i substratet og med meget udragende asci, blegt grøngult til blegt brunt; på ekskrementer, især af får; alm._ Svamperiget 50C,44h, Bell30, BoT74:69.$Ascobolus immersus Pers.: Fr.
+10,0$[Sp. 13,5-16 ??7,5-8,3 µm, med smalle, forgrenede ribber]. Frugtlegeme 0,1-0,2 mm bredt, tøndeformet, blegt brunt; på ekskrementer; næppe alm._ Bell30, BoT74:74.$Ascobolus minutus Boud.
+11,0$[Sp. meget fint og tæt prikkede]. Frugtlegeme op til 0,5 mm bredt, tøndeformet, bleggult til grøngult; [sp. 23,5-28,5 ??12-14,5 µm]; på ekskrementer af planteædere; m.sj eller uddød._ BoT74:69.$Ascobolus elegans J.Klein
+11,12$[Sp. med spredte, store vorter]
+12,0$[Sp. 16,5-19,5 ??9-11 µm]. Frugtlegeme op til 0,3 mm bredt, tøndeformet, hvidligt til blegt rødligtpurpurfarvet; på ekskrementer, især af får; hist og her._ BoT74:69.$Ascobolus hawaiensis Brumm.
+12,0$[Sp. 25-30 ??15-18 µm]. Frugtlegeme 0,4- 0,6 mm bredt, tøndeformet, ofte dybt nedsænket i substratet og med meget udragende asci, blegt gullige til blegt brunlige; på ekskrementer; hist og her._ Bell30, BoT74:69.$Ascobolus stictoideus Speg.
+13,14$Frugtlegeme ±gult; [alle sporer orienteret på langs af sporepakken (parallelt med hinanden)]
+13,18$Frugtlegeme hyalint, hvidligt til blegviolet; [nogle sporer i sporepakken placeret skråt]
+14,0$Frugtlegeme 0,5-1 mm bredt; [sporepakke 62-65 ??23-25 µm; sp. 22-26 ??10-13 µm]. Frugtlegeme brungult til orangegult; [sp. ±glatte, ofte med fine sprækker]; på ekskrementer af planteædere; næppe sj._ Bell31 (usædvanligt lille eks.), BoT65:376.$Saccobolus glaber (Pers.: Fr.) Boud.
+14,15$Frugtlegeme op til 0,5 mm bredt; [sporepakke op til 53 µm lange; sp. op til 21 mm lange]
+15,0$[Sporepakke 28-40 ??10-15 µm]. Frugtlegeme breggult; [sp. 12-17 ??6-8 µm, med små, spredte vorter, evt. med få sprækker]; på ekskrementer af planteædere; næppe alm._ Bell31, BoT65:375.$Saccobolus minimus Vel.
+15,16$[Sporepakke 37-53 ??14-19 µm]
+16,0$[Sp. glatte, 14-18 ??7-9 µm; sporepakke 37-45 ??14-17 µm]. Frugtlegeme bleggult; på ekskrementer af planteædere; næppe alm._ BoT65:377.$Saccobolus truncatus Vel.
+16,17$[Sp. vortede (x 1000!), 17-21 ??8-11 ??7-9; sporepakke 43-53 ??16-25 µm]
+17,0$Frugtlegeme bleggult til ravgult; [sporernes vorter ±jævnt fordelt]. [Sporepakker 43-53 ??16-19 µm; sp. 19- 21 ??8-10 µm]; på ekskrementer af planteædere; næppe alm._ BoT65:378.$Saccobolus succineus Brumm.
+17,0$Frugtlegeme citrongult; [sporernes vorter ved modenhed placeret i små grupper]. [Sporepakker 45-50 ??16- 25 µm; sp. 17-20 ??8-11 µm]; på ekskrementer af planteædere; næppe alm._ Bell31, BoT65:380.$Saccobolus citrinus Boud. & Torrend
+18,0$[Asci 4-sporede]. [??; ??]; på ekskrementer af gås._ sj.$Saccobolus quadrisporus Mass. & Salm.
+18,19$[Asci 8-sporede].
+19,20$[Sporepakker kugleformede]
+19,21$[Sporepakker aflange]
+20,0$[Asci pæreformede]. Frugtlegeme hyalint-hvidligt; [sporepakker 17-22 ??16-22 µm; sp. 13-16 ??7-10 µm, med lave vorter]; på ekskrementer af planteædere; sj._ BoT65:381.$Saccobolus globuliferellus Seaver
+20,0$[Asci ±cylindriske med afhugget (trunkat] top]. Frugtlegeme hyalint til ±blegviolet; [sporepakker 21-24 ??15-18 µm; sp. 12-14 ??5-8 µm, med vorter]; på ekskrementer af planteædere; sj._ BoT65:382.$Saccobolus dilutellus (Fuckel) Sacc.
+21,22$[Sporer på begge sider af sporepakken skævtstillede; sp. glatte eller opsprækkende]
+21,23$[Kun sporer på den ene side af sporepakken skævtstillede; sp. oftest vortede ved modenhed]
+22,0$[Sporepakker 30-33 ??11-13 µm; sp. 11-13 ??6-7µm]. Frugtlegeme ±blegviolet; [sp. glatte eller opsprækkende]; på ekskrementer af planteædere; sj._ BoT65:387$Saccobolus depauperatus (Berk. & Broome) E.Chr. Hansen
+22,0$[Sporepakker 32-48 ??13-16 µm; sp. 13-20 ??5-8 µm]. Frugtlegeme ±blegviolet; [sp. glatte eller opsprækkende]; på ekskrementer af planteædere; ret alm._ BoT65:388.$Saccobolus versicolor (H.Karst.) H.Karst.
+23,0$Yderside med totter af hvidlige hyfer. [Sporepakker 32-36 ??11-13 µm; sp. 13-17 ??6-8 µm, først glatte, siden med grove vorter]. Frugtlegeme hvidligt til blegviolet; på ekskrementer af planteædere; hist og her_ BoT65:383.$Saccobolus verrucispora Brumm.
+23,24$Yderside glat
+24,0$Hymenie med meget udragende asci; [sporepakker 41-48 ??18-22 µm; sp. 20-22 ??12-15 µm, groft vortede]. Frugtlegeme blegt brunviolet; på ekskrementer af planteædere og urtestængler; sj._ BoT65:384.$Saccobolus beckii Heimerl.
+24,0$Hymenie næppe med udragende asci; [sporepakker 30-39 ??11-15 µm; sp. 13-16 ??6-8 µm, glatte til fint vortede]. Frugtlegeme ±violet; på ekskrementer af planteædere; sj._ BoT65:385.$Saccobolus obscurus (Cooke) Phill.
+
+cs23,0$Ascozonus, Thelebolus) - s. 15
+1,0$Thelebolaceae (Brumm.) Eckblad : [Sække med 32-tusinder af sporer, J÷; sp. gennemsigtige].///Ascozonus (Renny) E.Chr.Hans., Thelebolus Tode: Fr., Tricobolus (Sacc.) Kimbr. & Korf : Frugtlegeme kugle-, pude-, top- til skiveformet, siddende, op til 0,1-1 mm bredt; sporebærende lag ennemsigtigt, hvidligt, gulligt, orange til teglrødt, ofte med udragende sække; ydersidefarvet som det sporebærende ag, glat til håret. [Sække med eller uden låg, med 8-7000 sporer, J÷; sp. ±ellipsoidiske til næsten ugleformede, glatte, uden oliedråber, med evt. med små bobler]. På ekskrementer, hele året.Litt: Dennis 1978: British Ascomycetes; Kimbrough & Korf 1967: A synopsis of the genera and species of the ribe Thelebolae (0pseudoascobolae). Amer. J. Bot. 56:1187-1202.
+1,0$Ascozonus (Renny) E.Chr.Hans., Thelebolus Tode: Fr.,Tricobolus (Sacc.) Kimbr. & Korf///Frugtlegeme kugle-, pude-, top- til skiveformet, siddende, op til 0,1-1 mm bredt; sporebærende laggennemsigtigt, hvidligt, gulligt, orange til teglrødt, ofte med udragende sække; ydersidefarvet som det sporebærendelag, glat til håret. [Sække med eller uden låg, med 8-7000 sporer, J÷; sp. ±ellipsoidiske til næstenkugleformede, glatte, uden oliedråber, med evt. med små bobler]. På ekskrementer, hele året.///Litt: Dennis 1978: British Ascomycetes; Kimbrough & Korf 1967:
+1,0$figures Ascozonus Thelebolus Tricobolus$$f"Coprofile_svampe_2001-11.jpg"
+1,2$Yderside med 0,1-0,8 mm [100-800 µm], ±udragende lange hår (lup!); sække med 1500-7000 sporer] (Trichobolus)
+1,4$Yderside dunet til glat; [sække med 8-2500 sporer] (Ascozonus, Thelebolus)
+2,0$Frugtlegeme gulligt, orange til teglrødt; [med mere end 3 sække pr. frugtlegeme; sp. ellipsoidiske]$se øjebæger (Lasiobolus)
+2,3$Frugtlegeme hvidligt til lyst gulbrunt; [med 1-3 sække pr. frugtlegeme; sp. meget bredt ellipsoidiske til næsten kugleformede]
+3,0$Frugtlegeme gulbrunt; [hår 100-600 µm lange; sp 9-11 ??7,5-8,5 µm, med en lille dråbe]. Frugtlegeme kugle- til halkugleformet, 0,2-0,5 mm bredt; hist og her.$Trichobolus zukalii (Heimer) Kimbr.
+3,0$Frugtlegeme hvidligt; [hår 100-160 µm lange; sp. 9-10,5 ??8,5-9 µm, uden oliedråber og bobler]. Frugtlegeme kugle- til halkugleformet, 0,2-0,5 mm bredt; m.sj._ Bell 70.$Trichobolus sphaerosporus Kimbr.
+4,0$[Sp. 11,5-14 ??3,5-6 µm]; frugtlegeme ±hvidt. Frugtlegeme op til 0,2 mm bredt; yderside fint dunet ; [sække med 8-128 sporer; sp. smalt ellipsoidiske, glatte; yderside med 50-80 µm lange, udragende celler]; på ekskrementer; hist og her._ BK1:118, Bell 69.$Ascozonus woolhopensis (Renny) Boud.
+4,5$[Sp. kortere]; frugtlegeme gulbrunligt
+5,0$[Sække 8-sporede]; frugtlegeme skiveformet, 0,5-1 mm bredt. Frugtlegeme gulligt til gulbrunt; [sp. 7-10 ??3,5-4,5 µm; parafyser med gult indhold]; alm._ DXIg.$Thelebolus microsporus (Berk. & Br.) Kimbr.
+5,6$[Sække 32-2500-sporede]; frugtlegeme 0,1-0,3 mm bredt
+6,0$[Frugtlegeme med én sæk indeholdende 1000-2500 sporer]. Frugtlegeme ±kugleformet, 0,1-0,3 mm bredt, ±gulbrunt; [sp. 6-7 ??3-4 µm]; på ekskrementer; sj._ Bell 70.$Thelebolus stercoreus Tode: Fr.
+6,7$[Frugtlegeme med flere sække indeholdende op til 256 sporer]
+rem$7,0$[Frugtlegeme med 40-50, sække med 32 sporer ]. Frugtlegeme skive- til halvkugleformet, 0,1-0,2 mm bredt, ±gulbrunt; [sp. 6-9 ??3,5-4,5 µm]; på ekskrementer; sj.$Thelebolus caninus (Sacc.) Jeng. & Krug 
+[Frugtlegeme med 312, sække med 64256 sporer] 8
+7,0$[Frugtlegeme med 40-50, sække med 32 sporer ]. Frugtlegeme skive- til halvkugleformet, 0,1-0,2 mm bredt, ±gulbrunt; [sp. 6-9 × 3,5-4,5 µm]; på ekskrementer; sj.– Bell 70.$Thelebolus caninus (Sacc.) Jeng. & Krug
+7,8$[Frugtlegeme med 3-12, sække med 64-256 sporer] 
+8,0$[Sp. 6-7 ??3-4 µm; sække 256-sporede]. Frugtlegeme top- til kugleformet, 0,1-0,2 mm bredt, ±gulbrunt; på ekskrementer; sj.$Thelebolus polysporus (P.Karst.) Otani & Kanzawa
+8,0$[Sp. 8-10 ??4-5 µm; sække 64-sporede]. Frugtlegeme top- til kugleformet, 0,1-0,2 mm bredt, ±gulbrunt; på ekskrementer; sj._ Bell 70.$Thelebolus crustaceus (Fuck.) Kimbr
+
+
+
+cs25,0$Klatbæger (Coprotus) - s. 16
+1,0$Pyronemataceae Corda [Sække 8- eller mangesporede, J÷; sp. gennemsigtige]./// Coprotus Korf & Kimbrough :Frugtlegeme skiveformet, siddende, 0,1-3 mm bredt, sporebærende lag hvidligt, gulbrunt til gult, uden velafsat rand; yderside farvet som det sporebærende lag,
+1,0$[Sække med 16 sporer]. Frugtlegeme 0,5-1 mm bredt, hvidligt til creme; [sp. 11-12,5 ??7,5-8,5 µm]; på ekskrementer; hist og her._ Bell 68, DXIO.$Coprotus sexdecimsporus (Cr. & Cr.) Korf & Kimbrough
+1,2$[Sække med 8 sporer]
+2,0$[Sp. 14-17,5 ??8-10 µm]. Frugtlegeme op til 0,6 mm bredt, cremegult til orangegult; på ekskrementer; hist og her.$Coprotus ochraceus (Cr. & H. Cr.) K. Larsen
+2,3$[Sp. mindre]
+3,0$Frugtlegeme orangegult; [sække 10-15 µm tykke; sp. 8-10 ??6-7 µm]. På ekskrementer; m. sj._ Bell 68$Coprotus luteus Kimbr., LuckAllen & Cain
+3,4$Frugtlegeme hvidligt til creme, blegt gulligt ved tørring; [sække tykkere; sp. evt. anderledes]
+4,0$[Sp. 11-12,5 ??6-7,5 µm]. På ekskrementer; hist og her._ DXIJ.$Coprotus granuliformis (Cr. & H. Cr.) Kimbr.
+4,0$[Sp. 8,5-9,5 ??5,5-6,5 µm]. På ekskrementer; hist og her._ Bell 68$Coprotus lacteus (Cooke & Phill.) Kimbr., LuckAllen & Cain
+
+
+
+----------------------
+
+CS40,0$Nøgle C. Kernesvampe_ Pyrenomycetes
+1,0$figure$$f"Coprofile_svampe_2001-5.jpg"
+1,0$Nøgle C. Kernesvampe – Pyrenomycetes /og tyksæksvampe – Loculoascomycetes af Christian Lange
+Nøgle til slægter:
+
+1,2$Frugtlegemer siddende i et stroma (dvs. at perithecierne sidder sammen i små grupper, indsænkede i et fælles væv, evt. for enden af en stok)
+1,7$Frugtlegemer ikke siddende i et stroma (perithecierne sidder enkeltvis, enten indsænkede eller på overfladen)
+2,cs41$Stroma bestående af et enkelt frugtlegeme, op til 1 mm højt, sort, slankt og flaskeformet, ofte siddende i klynger.$Bombardioidea_ s. 28$s"Bombardioidea (Lasiosphaeriaceae)"
+2,3$Stroma anderledes, med et eller flere perithecier i vævet
+3,4$Stroma fladt eller let pudeformet
+3,5$Stroma ±stilket
+4,cs42$Frugtlegemer indsænkede i substratet; stroma findes kun på overfladen rundt om mundingerne; med et enkelt eller flere perithecier i hvert stroma; [sp. mørke med spireslids].$Hypocopra_ s. 37$s"Hypocopra (Xylariaceae)"
+4,cs43$Frugtlegemer delvist indsænkede i et overfladisk, fladt pudeformet stroma; med mange perithecier hvis halse stikker frem; [sp. svagt gullige, uden spireslids].$Selinia_ s. 40$s"Selinia (Hypocreaceae)"
+4,0$(Hvis stroma overfladisk, mørkebrunt, peritecier siddende på stroma; [sp. mørke med spireslids]$se Wawelia effusa)
+5,cs44$Stroma består af sorte tråde, hvorpå små, hårede perithecier sidder spredt.$Wawelia_ s. 39$s"Wawelia (Xylariaceae)"
+5,6$Stroma kølle- eller skiveformede
+6,cs45$Stroma sort, stilket, med perithecier samlet i toppen.$Podosordaria_ s. 38$s"Podosordaria (Xylariaceae)"
+6,cs46$Stroma gråt, skiveformet; skiven sortprikket af peritheciernes mundinger.$Poronia_ s. 38$s"Poronia (Xylariaceae)"
+7,8$Perithecier kulørte (gullige, orange, rødlige eller brune, eller i det mindste dækkede af farvede hyfer) 8 
+7,13$Perithecier meget mørkt brune til sorte
+8,cs47$Perithecier brune.$Cercophora_ s. 28$s"Cercophora (Lasiosphaeriaceae)"
+8,9$Perithecier gullige, orange eller rødlige
+9,cs48$Perithecier gullige eller gulbrune, med op til 3 mm lang, tynd hals; [sp. en-cellede].$Viennotidea_ s. 41$s"Viennotidea (Hypocreaceae)"
+9,10$Perithecier hyaline, blegt brune, orangegule el. rødlige, med kortere hals; [sp. en- eller tocellede]
+10,11$[Sp. mørkfarvede]
+10,12$[Sp. hyaline]
+11,cs49$Perithecier gulbrune, men virker mørke på gr. af sporerne; med stive, hyaline hår omkring ostiolen; [sp. elliptisk-citronformede, glatte].$Melanospora_ s. 24$s"Melanospora (Ceratostomataceae)"
+11,cs50$Perithecier orange el. gyldne, farves ikke udpræget af de modne sporer, evt. med hår af samme farve omkring ostiolen; [sp. citronformede eller mandelformede].$Sphaerodes & Persiciospora_ s. 26
+11,0$(Hvis perithecier overtrukket af gule hyfer og sporer mørke med slimkappe$se Strattonia zopfii)
+12,cs51$Perithecier meget små, langstrakt pæreformede, hyaline til blegt gulbrune; [sp. 30-60 µm lange, tilspidsede mod enderne].$Pyxidiophora_ s. 46$s"Pyxidiophora (Pyxidiophoraceae)"
+12,cs52$Perithecier af normal størrelse, med kort hals, gulbrune til rødlige; [sp.kortere, ellipsoidiske].$Nectria_ s. 40$s"Nectria (Hypocreaceae)"
+13,14$[Sp. flercellede]
+13,24$[Sp. encellede]
+14,cs53$[Sp. ligger parallelt samlet i sækkene (som pølser i en dåse)].$Sporormia_ s. 43$s"Sporormia (DOTHIDEALES)"
+14,15$[Sp. ligger mere eller mindre i rækker i sækkene]
+15,cs54$[Sp. med 3 eller flere celler, mørkfarvede].$Sporormiella_ s. 43$s"Sporormiella (DOTHIDEALES)
+15,16$[Sp. tocellede]
+16,cs55$[Sp. med 2 mørkfarvede celler adskilt af et hyalint mellemstykke].$Zygopleurage_ s. 33$s"Zygopleurage"
+16,17$[Sp. med en hoveddel og evt. en hale; evt. med vedhæng]
+17,18$[Begge celler i sporen mørkfarvet]
+17,21$[Den ene celle bred og mørkfarvet, den anden slank og hyalin (ligner et vedhæng, men er en del af sporen)]
+18,19$[Sp. med lange hyaline vedhæng i begge ender]
+18,20$[Sp. uden lange vedhæng men ofte med slimkappe]
+19,CS56$[Sp. indsnørede ved septa].$Zygospermella_ s. 33$s"Zygospermella (Lasiosphaeriaceae)"
+19,cs57$[Sp. ikke insnørede ved septa].$Arnium_ s. 27$s"Arnium (Lasiosphaeriaceae)"
+20,cs58$Perithecier med fine, stive hår ved ostiolen; [sp. mørke med hyaline ender, uden spireslids].$Trichodelitschia_ s. 45$s"Trichodelitschia (Phaeotrichaceae)"
+20,cs53$Perithecier uden tydelige hår; [sp. ens mørkfarvede, med spireslids]$Delitschia_ s. 42$s"Delitschia (Sporormiaceae)"
+21,cs60$Perithecier med små skæl, dannet af sammenklistrede, korte hår.$Schizothecium_ s. 31$s""Schizothecium (Lasiosphaeriaceae)"
+21,22$Perithecier glatte eller med fine, stive hår ved ostiolen
+22,cs61$[Sporer uden vedhæng eller hyalin basaldel, men med slimkappe].$Strattonia_ s. 33$s"Strattonia (Coniochaetaceae)"
+22,23$[Sporer med vedhæng eller med hyalin basaldel, med eller uden slimkappe]
+23,cs62$[Sporer med lange, hyaline vedhæng i begge ender].$Podospora_ s. 30$s"Podospora (Lasiosphaeriaceae)"
+23,cs63$[Sporer uden vedhæng, men med hyalin basaldel, hvorpå der sidder kugleformede slimudposninger].$Anopodium_ s. 26$s"Anopodium (Lasiosphaeriaceae)"
+24,25$[Sporer hyaline eller meget lyse]
+24,26$[Sporer ved modenhed altid meget mørke]
+25,cs64$Perithecier med lange, sorte hår omkring ostiolen; [sp. citronformede].$Lophotrichus_ s. 35$s"Lophotrichus (Ophiostomataceae)"
+25,cs65$Perithecier uden hår; [sp. cylindriske].$Phomatospora_ s. 39$s"Phomatospora (Amphisphaeriaceae)"
+26,cs66$[Sp. seglformede, 3-5 ??2-3 µm].$Microascus_ s. 36$s"Microascus (Microascaceae)"
+26,27$[Sp. anderledes, større]
+27,cs57$[Sp. med lange, hyaline vedhæng i begge ender].$Arnium_ s. 26
+27,28$[Sp. uden lange vedhæng]
+28,0$[Sp. med slimkappe med markant frynset rand].$se Arnium macrothecum
+28,29$[Sp. uden eller med regelmæssig slimkappe]
+29,30$[Sp. nøgne]; peritecier markant hårede ved ostiolen
+29,31$[Sp. med slimkappe el. vedhæng] eller peritecier glatte
+30,cs67$Hår ved ostiolen simple og korte; [sp. med spireslids, affladede].$Coniochaeta_ s. 25$s"Coniochaeta (Coniochaetaceae)"
+30,cs68$Hår ved ostiolen krøllede eller forgrenede; [sp. ofte med spirepore].$Chaetomium_ s. 24$s"Chaetomium (Chaetomiaceae)"
+31,0$[Sp. kun med spirepore i den ene ende].$Sordaria_ s. 34
+31,32$[Sp. med spirepore i hver ende]
+32,cs57$Perithecier med fint hårede; [sp. med vedhæng el. uregelmæssig slimkappe].$Arnium_ s. 26
+32,cs69$Perithecier glatte; [sp. med regelmæssig, glat slimkappe].$Fimetariella_ s. 29$s"Fimetariella (Lasiosphaeriaceae)"
+
+cs41,0$Bombardioidea C. Moreau
+1,0$Bombardioidea C. Moreau Lundquist: Stroma indeholder et enkelt perithecie, gruppevis i små klynger, overfladisk el. evt. en smule indsænkede, flaskeformede, kølleformede, elliptiske til uregelmæssige; rynker sammen ved indtørring, mørkt brune til sorte; [selve peritheciet og stroma skilles let, asci 4-8 sporede, uniseriate, langstilkede, sp. hyaline til farvede, ellipsoidiske til ægformede, med spirepore og ofte med slimkappe]. Lundqvist, N. (1972): Nordic Sordariaceae s. lat. Symb. Bot. Ups. 20(1): 274-285.
+1,2$[Asci 4-sporede] 
+1,0$[Asci 8-sporede, sp. 20-30 ??9-15 µm, med porer i begge ender af sporen]. Angivet fra DK fra rådyr.$Bombardioidea bombardioides (Awd ex Niessl) C. Moreau
+2,0$[Sporer 24-34 ??15-19 µm, med en pore i den ene ende og 5-7 små porer i den anden]. Ikke kendt fra DK, angivet fra hare- og kaninlorte.$Bombardioidea serignanensis (Fabre) Lundq.
+2,0$[Sp. 34-42 ??18-21 µm, med en pore omgivet af flere små porer i hver ende af sporen]. Angivet fra DK.$Bombardioidea stercoris ([DC.] Schub.) Lundq.
+
+
+cs42,0$Hypocopra (Fr.) Kickx
+1,0$Hypocopra (Fr.) Kickx Krug & Cain : Perithecier indsænkede i substratet, stroma ses som en ring af væv omkring mundingen af perithecierne; med et enkelt eller flere perithecier i hvert stroma; [asci med et komplekst apikalapparat, der farves blå eller rødlig i melzer; sporer mørkfarvede, med spireslids, nogle med en lille hyalin apikal-del] Krug, J. C. & R. F. Cain (1974): New species of Hypocopra (Xylariaceae). Can J. Bot. 52: 809-843.
+
+1,0$Stroma hvidt el. gulligt.$Hypocopra annulata Krug & Cain
+1,2$Stroma mørk brun eller sort
+2,3$Med kun et perithecie i hvert stroma
+2,6$Med flere perithecier i hvert stroma
+3,0$[Sp. tocellede, med stor, 32-41 × 17-20 µm mørkfarvet celle, samt en lille, 0,5-1 µm stor hyalin basaldel].$Hypocopra merdaria (Fr.) Kickx
+3,4$[Sp. kun med en mørkfarvet celle]
+4,0$Stroma brunfarvet; [sp. 20-23 × 10-12 µm ].$Hypocopra equorum (Fuckel) Winter
+4,5$Stroma sortfarvet; [sp. større el. mindre]
+5,0$[Sp. 23-28 × 12-14 µm , med central spireslids].$Hypocopra hornitophila Speg.
+5,0$[Sp. 11-13 × 6-7 µm , med lateral spireslids].$Hypocopra parvula Griff.
+6,7$[Sp. tocellede, med stor mørkfarvet hoveddel samt lille, op til 1 µm , hyalin basaldel]
+6,8$[Sp. kun med mørkfarvet del]
+7,0$[Sp. 23-27 × 13-14 µm ].$Hypocopra brefeldii (Zopf) Zopf
+7,0$[Sp. 34-43 × 16-20 µm ].$Hypocopra elachyglossina Krug & Cain
+8,9$[Apikalapparatet forbliver blåt i melzer]
+8,10$[Apikalapp. farves blåt, men bliver siden helt eller delvist rødbrunt]
+9,0$[Sp. 26-30 × 13-14 µm ].$Hypocopra stephanophora Krug & Cain
+9,0$[Sp. 38-48 × 20-24 µm ].$Hypocopra stercoraria (Sow. ex Fr.) Fuckel
+10,0$[Sp. med bred spireslids på 12-14 × 1-2 µm ; sp. 26-29 × 15-17 µm ].$Hypocopra bicolor Krug & Cain
+10,0$[Sp. med smal spireslids på 18-22 µm ; sp. 26-30 × 11-13 µm ].$Hypocopra planispora Krug & Cain
+
+
+
+
+
+cs43,0$Selinia P. Karst. Læssøe
+1,0$Stroma op til 10 mm., hvælvet, pudeformet, farvet, med langhalsede perithecier; stroma blødt; [asci meget
+kor stilkede, langstrakt ovale, 8-sporede; sp. ellipsoidiske, glatte, svagt gullige].///Læssøe, T. (1995): Danske kødkernesvampe 3. Slægten Selinia. Svampe 32: 51-55.
+1,0$[Sp. 54-62 ??21-29 µm]. 1-14 perithecier pr. stroma. Ret hyppig på hjortegødning$Selinia pulchra (Winter) Sacc.
+1,0$[Sp. 45-50 ??20-25 µm]. 3-5 perithecier pr. stroma. Angivet fra Skåne fra dådyr.$Selinia intermedia Speg.
+
+
+cs44,0$Wawelia Namysl. Minter & Webster/Lundquist
+1,0$Wawelia Namysl. Minter & Webster/Lundquist : Stroma enten trådformede, med korthalsede, hårede perithecier spredt langs tråden, eller stroma basale pude- til skorpeformede, med perithecierne siddende ±spredte. [Asci 8-sporede, hurtigt forsvindende, ikke amyloide, sp. encellede, ellipsoidiske, lidt flade, mørke, glatte, med spireslids]. Ser tilsyneladende ud til at foretrække temmeligt indtørrede substrater.///Minter, D. W. & J. Webster (1983): Wawelia octospora sp. nov., a xerophilous and coprophilous member of the Xylariaceae. Trans. Br. Myc. Soc. 80: 370-373.///Lundquist, N. (1992): Wawelia effusa Lundquist, spec. nov. (Xylariaceae). Persoonia V. 14(4): 417-423.
+1,0$Stroma pude- eller skorpeformet, mørkebrunt, med ru overflade, perithecier siddende spredte, ±grupperede.[Sp. citronformede, 15-19 x 9-10 µ]. På ret tør harelort (kendt fra Sverige).$Wawelia effusa Lundq.
+1,2$Stroma trådformet, perithecierne siddende spredt langs “tråden” 
+2,0$. Stroma op til 25 mm. langt. Kendt fra kaninlort fra England.$Wawelia octospora Minter & Webster
+2,0$(Stroma mindre). Kendt fra kaninlort fra Polen.$Wawelia regia Namyslowski
+
+
+cs45,0$Podosordaria Ellis & Holway Ellis & Ellis 2 
+1,0$Podosordaria Ellis & Holway Ellis & Ellis : Stroma bestående af små klynger af perithecier på en slank stilk; perithecier mørke, mens kødet i stroma er hvidt; [apikalringen i ascus farves blå af jod].///Krug, J. C. & R. F. Cain (1974): A preliminary treatment of the genus Podosordaria. Can. J. Bot. 52: 589-605.
+1,0$[Sporer 40-60 ??20-30 µm]; stilk glat, længere end 10 mm.$Podosordaria pedunculata (S. F. Gray) Dennis
+1,2$[Sp. mindre] 
+2,0$[Sp. 21-24 ??11-12 µm]; stilk foroven håret, længere end 10 mm. Hovedet af sorte perithecier 2-3 mm bredt. På hare- og kaninlorte, sj?$Podosordaria tulasnei (Nitschke) Dennis
+2,0$[Sp. 12-17 ??6-9 µm]; stilk 1-5 mm, rodslående i substratet. Perithecier mere brunlige. På kaninlorte, ikke ang. fra DK.$Podosordaria leporina (Ellis & Everhart) Dennis
+
+
+cs46,0$Priksvamp - Poronia Willd.
+1,0$Priksvamp - Poronia Willd. : Stroma skiveformede ±stilkede, op til 2 cm. brede; skive grålig med sorte prikker (perithecie-mundingerne), stilk mørk; [sække 8-sporede; sp. sorte, bønneformede, med slimkappe].///Litt.: T.R. Lohmeyer: New European and Australian records of Poronia erici Lohmeyer & Benkert, and a fairy tale concerning their possible realtionship. Mycologist 8 (1): 16-20.
+1,0$På hestepærer; stroma op til 2 cm brede; [sp. 18-26 ??7-12 µm]. Tidl. udbredt i DK, nu forsvundet? Bør eftersøges på kystoverdrev med permanent hestegræsning.$Poronia punctata (L.: Fr.)Fr.
+1,0$På kanin- (og hare-?) lorte; stroma op til 6 mm bredt; [sp. 22,5-35 ??14-19 µm]. Ikke kendt fra DK, bør eftersøges på sydhavsøerne.$Poronia erici Lohmeyer & Benkert
+
+
+
+
+cs47,0$Cercophora Fuck. emend. Lundq.
+1,0$Cercophora Fuck. emend. Lundq. : Perithecier ±indsænkede, dækkede af forskellige typer af hyfer, brunlige, gullige eller hvidlige; [sporer langt pølseformede, først hyaline, men med alderen oftest delt i en mørkfarvet hoveddel og en hyalin basaldel; med vedhæng i begge ender]./// Lundqvist, N. (1972): Nordic Sordariaceae s. lat. Symb. Bot. Ups. 20(1): 80-118.
+
+1,0$[Peritheciehals kranset af stive, brune hår].$Cercophora muskokensis (Cain) Lundq.
+1,2$[Peritheciehals med anderledes beklædning]
+2,3$Perithecier ±glatte
+2,5$Perithecier hårede eller med små skæl af hyfer
+3,0$[Indhold i perithecier gult]. Perithecier mørk brune til sorte; [evt med nogle korte, hyaline hår mod basis].$Cercophora areolata Lundq.
+3,4$[Indhold i perithecier ufarvet]
+4,0$Perithecier brunlige, dækkede af hvidlige hyfer.$Cercophora coprophila(Fr.) Lundq.
+4,0$Perithecier olivenfarvede, dækkede af hyaline til brunlige hyfer.$Cercophora sordarioides (Speg.) Lundq.
+5,6$[Perithecier med små skæl af sammenkittede hyfer]
+5,7$[Perithecier hårede]
+6,0$[Sporevedhæng lige lange i begge ender; 52-68 × 4-5 µm (farvede del 9-11 µm bred); peritheciehals uden furer].$Cercophora mirabilis Fuck.
+6,0$[Sporevedhæng af forskellig længde; 45-58 × 4-5 µm (farvede del 8 µm bred); peritheciehals med furer].$Cercophora anisura Lundq.
+7,8$[Perithecier dækkede med tydelige lange, brune hyfer]
+7,9$[Perithecier kun fint og kort hårede]
+8,0$[Perithecievæg violetbrunt; sække med dobbel apikalring].$Cercophora septentrionalis Lundq.
+8,0$[Perithecievæg brun; sække med enkel apikalring].$Cercophora silvaticaLundq.
+9,0$[Sporer ±kølleformede, ru]. Perithecier dækkede af gullige hyfer.$Cercophora citrinella Lundq.
+9,10$[Sporer pølseformede, glatte]
+10,0$Perithecier dækkede af hvidlige hyfer; [sp. med dobbel apikalring].$Cercophora coprophila (Fr.) Lundq.
+10,0$Perithecier dækkede af hvidlige til gullige hyfer; [sp. med enkel apikalring].$Cercophora gossypina Lundq.
+
+
+cs48,0$Viennotidea P. Cannon & D. Hawksw. Ellis & Ellis 2
+1,0$Viennotidea P. Cannon & D. Hawksw. Ellis & Ellis 2 :Perithecier enkelte til selskabelige, overfladiske eller delvist indsænkede, ±glatte, gullige til rødgule, med lang ostiole, frynset ved mundingen. [Asci sækformede, opløsende, 2-8 sporede, sporer hyaline, ellipsoidiske, enrummede]./// Cannon, P. F. & D. Hawksworth (1982): A re-evaluation of Melanospora Corda and similar Pyrenomycetes, with a revision of the British species. Bot. J. Linn. Soc. 84: 115-160.
+1,0$Perithecier op til 300 µm, gullige, med lang ostiole, hvor sporemassen ofte ses som en dråbe [asci 8-sporede, sp. 6-8 ??2-3 µm, med spirepore]. Ret hyppig. V. fimicola (Marchal) P. cannon & D. Hawksw.
+
+
+cs49,0$Ceratostomataceae Melanospora Corda Ellis & Ellis 2
+1,0$Ceratostomataceae, Melanospora Corda Ellis & Ellis 2 : Perithecier gulligt hyaline, farves sorte når de fyldes af modne sporer, med kort ostiole, der er omkranset af hyaline hår [sække kølleformede, opløsende, 8-sporede, sporer mørkfarvede, glatte, med spireporer.///Cannon, P. F. & D. Hawksworth (1982): A re-evaluation of Melanospora Corda and similar Pyrenomycetes, with a revision of the British species. Bot. J. Linn. Soc. 84: 115-160.
+1,0$Perithecier små, op til 400 µm, ostiole kort, ca. 50 µm; [sp. elliptiske-citronformede, 21-34 × 11-17 µm].$Melanospora brevirostris (Fuckel) Höhnel
+
+cs50,0$Sphaerodes Clem. & Persiciospora P. cannon & D. Hawksw.
+1,0$Sphaerodes Clem. & Persiciospora P. cannon & D. Hawksw.,Ellis & Ellis 2 : Perithecier gullige til gyldne; [med mørke mandelformede til citronformede sporer med lavt ornament].///Cannon, P. F. & D. Hawksworth (1982): A re-evaluation of Melanospora Corda and similar Pyrenomycetes, with a revision of the British species. Bot. J. Linn. Soc. 84: 115-160.
+1,0$[Sporer mandelformede, nubrede, 20-24 ??8-10 µm, med to små spireporer]. [Perithecier op til 350 µm med hår op til 100 µm ; ostiole 20-100 µm, med ring af hyaline hår ved munding; sække 8-sporede]; ang. fra kanin fra Skåne.$Persiciospora moreaui P. cannon & D. Hawksw.
+1,0$[Sp. citronformede, netårede, 14-16 ??10-17 µm, med to tydelige spireporer]. [Perithecier op til 500 µm, glatte til fint hårede; ostiole op til 40 µm, kun sparsomt håret; sække 4-8 sporede].$Sphaerodes fimicola (Hansen) P. Cannon & D. Hawksw.
+
+
+cs51,0$Pyxidiophoraceae
+1,0$Pyxidiophoraceae, Pyxidiophora Bref. & Tav. emend. Lundq. Lundquist: Perithecier meget små, slankt kolbeformede, hyaline til svagt gulbrune; [sp. langt cylindriske til tenformede, med 0-4 septa, hyaline til svagt farvede, med slimkappe]///Lundqvist, N. (1980): On the genus Pyxidiophora sensu lato (Pyrenomycetes). Bot. Notiser 133: 121-144.
+
+1,0$Perithecier brunlige. [Perithecier 230-295 × 105-140 µm , sp. 38-52 × 4,5-5,5 µm ].$Pyxidiophora badiorostris Lundq.
+1,2$Perithecier gullige til hyaline
+2,0$Perithecier hyaline; [sp. 35-43 × 3,5-5 µm ].$Pyxidiophora microspora (D. Hawksw. & Webster) Lundq.
+2,3$Perithecier gullige; [sp. større]
+3,0$[Perithecier 130-170 × 45-65 µm , sp. 48-57 × 5-7 µm ].$Pyxidiophora arvernensis (Bret. & faur.) Lundq.
+3,0$[Perithecier 200-290 × 70-95 µm , sp. 48-58 × 4,5-6 µm ]. [Peridieceller 10-20 µm /dia].$Pyxidiophora grovei (D. Hawksw. & Webster) Lundq.
+3,0$(hvis sporer 40-53 × 6-7 µm , samt peridieceller 7-10 µm /dia = (usikker art).$Pyxidiophora petchii (Bret. & faur.) Lundq.)
+
+
+cs52,0$Nectria
+1,0$Nectria Fr. Samuels, Rogerson, Rossman & Smith: Perithecier gulbrune, orange til rødlige, ±udpræget stromatiske; [sp. hyaline til let gullige, tocellede, glatte el.///
+fint vortede].///Samuels, G. J., C. T. Rogerson, A. Y. Rossman & J. D. Smith (1984): Nectria tuberculariformis, Nectriella muelleri, Nectriella sp., and Hypocreopsis sceptri: low-temperature tolerant, alpine-boreal fungal antagonists. Can. J. Bot. 62: 1896-1903.
+1,0$Perithecier med tydelig skiveformet ostiole omgivet af en krans af hyaline hår; [sp. glatte, 12-14 ??4-5 µm].$Nectria suffulta Berk. & Curt.
+1,0$Perithecier uden skiveformet ostiole, uden tydelige hår; [sp. 9-12 ??2,5-4 µm, med orange dråber i sporerummene, ikke indsnørede ved septa].$Nectria tuberculariformis (Rehm ex. Sacc.) Winther
+
+
+cs53,0$Delitschia Sporormiaceae
+1,0$Sporormiaceae, Delitschia Auersw. Luc-Allen, Robena & Cain : Frugtlegemer op til 1 mm ±indsænkede, med lange halse; [sække bitunicate; sporer tocellede, mørke, medspireslids og slimkappe] /// Luck-Allen, E. Robena & R. F. Cain (1975): Additions to the genus Delitschia. Can. J. Bot. 53: 1827-1887.
+1,0$[Sække 4-sporede].$Delitschia anomala LuckAllen & Cain
+1,2$[Sække 8-sporede]
+2,0$[Sporens skillevæg skæv].$Delitschia didyma Auersw.
+2,3$[Sporens skillevæg lige]
+3,4$Frugtlegemer hårede
+3,8$Frugtlegemer glatte
+4,5$Frugtlegemer med mørke hår
+4,6$Frugtlegemer med hyaline til lyst brune hår
+5,0$[Sporer 27-32 ??13-16 µm; hår altid glatte].$Delitschia vulgaris Griff.
+5,0$[Sporer 38-50 ??17-20 µm; hår glatte eller ru].$Delitschia chaetomioides Karst.
+6,0$[Sporer over 30 µm brede].$Delitschia griffithsii Cain
+6,7$[Sporer under 30 µm brede]
+7,0$[Sporer 24-28 µm brede].$Delitschia winteri Phill. & Plowr.
+7,0$[Sporer 16-21 µm brede].$Delitschia patagonica Speg.
+8,9$[Sporer under 20 µm lange]
+8,11$[Sporer over 20 µm lange]
+9,0$[Sporer i to rækker i sækkene; 18-20 ??6-7,5 µm].$Delitschia consociata Mout.
+9,10$[Sporer i en række i sækkene; kortere].
+10,0$[Sporer 10-12 ??5-6 µm].$Delitschia marchalii Berl. & Vogl.
+10,0$[Sporer 14-18 ??6-10 µm].$Delitschia niesslii Speg.
+11,0$[Sporer dybt indsnørede ved skillevæggen, ved modenhed endog skillende; 20-25 µm lange; i to rækker i sækkene].$Delitschia leptospora Oud.
+11,12$[Sporer ikke dybt indsnørede; længere]
+12,0$[Sporer i to rækker i sækkene; 50-64 ??22-23 µm].$Delitschia furfuracea Niessl
+12,13$[Sporer i en række i sækkene]
+13,0$[Sporer 41-55 ??16-21 µm].$Delitschia patagonica Speg.
+13,0$[Sporer 55-62 ??24-28 µm].$Delitschia winteri Phill. & Plowr.
+
+cs54,0$Sporormiella
+1,0$Sporormiella Ell. & Ev.Ahmed & Cain : Perithecier små, spredte, indsænkede el. delvis frie, glatte el. med små hår ved ostiolen; [asci 8-sporede, bitunicate, cylindriske til kølleformede, sp. 3- til mangecellede, først hyaline, men ved modenhed mørke, med spireslidser, falder ofte fra hinanden, ofte med slimkappe].///Ahmed, S. & R. F. Cain (1972): Revision of the genus Sporormia and Sporormiella. Can. J. Bot. 50: 419-477.
+1,2$[Sporer 4-rummede]
+1,17$[Sporer flerrummede]
+2,0$[Sporer uniseriate]. [Sporer 17-24 ??5-7 µm, med spireslidser og tynd slimkappe; asci 8-sporede, 120-135 ??10-13 µm].$Sporormiella pulchella (Hansen) Ahmed & Cain
+2,3$[Sporer i to eller flere rækker i sækkene]
+3,4$Perithecie og peritheciehals håret
+3,5$Perithecie ikke håret
+4,0$[Sporer 56-63 ??12-14,5 µm, med diagonale spireslidser og tyk slimkappe].$Sporormiella pilosa (Cain) Ahmed & Cain
+4,0$[Sporer 28-40 ??5-7 µm, med parallelle spireslidser og tynd slimkappe].$Sporormiella chaetomioides (Griff.) Ahmed & Cain
+5,6$[Asci brat indsnøret til en kort stilk ved basis]
+5,9$[Asci spidser jævnt til mod basis]
+6,0$[Sporer 28-32 ??5-6 µm]. [Sporer med næsten parallelle spireslidser med et lille knæk på midten og smal slimkappe].$Sporormiella minima (Auersw.) Ahmed & cain
+6,7$[Sporer længere]
+7,0$[Sporer 38-46 ??7-8 µm]. [Spireslidser næsten diagonale, med bred slimkappe].$Sporormiella australis (Speg.) Ahmed & cain
+7,8$[Sporer længere]
+8,0$[Sporer 48-59 ??9,5-11,5 µm]. [Spireslids skrå til diagonal, slimkappe bred].$Sporormiella intermedia (Auersw.) Ahmed & Cain
+8,0$[Sporer 92-114 ??18-21 µm]. [Spireslids parallel eller diagonal, slimkappe?]. Angivet fra Norge, på ko.$Sporormiella borealis (I. Egel.) Krug
+9,10$[Skillevægge i sporerne lidt skråstillede]
+9,12$[Skillevægge transverse, ikke skråstillede]
+10,0$[Sporer 50-58 ??10-13,5 µm]. [Spireslids parallel, slimkappe?].$Sporormiella irregularis (I. Egel.) Ahmed & cain
+10,11$[Sporer kortere]
+11,0$[Sporer 27-32 ??5,5-6 µm]. [Sporer med diagonal spireslids, slimkappe tynd].$Sporormiella muskokensis (Cain) Ahmed & Cain
+11,0$[Sporer 37-42 ??7,5-8,5 µm]. [Sporer med diagonal spireslids, slimkappe bred].$Sporormiella lageniformis (Fuckel) Ahmed & cain
+12,13$[Sporer over 55 µm lange]
+12,14$[Sporer under 55 µm lange]
+13,0$[Sporer tilspidset mod enderne; spireslids parallel pånær 2. celle, hvor den er diagonal]. [Sporer 57-70 ??13-17 µm, slimkappe?].$Sporormiella scandinavica (I. Egel.) Ahmed & cain
+13,0$[Sporer ikke tydeligt tilspidset mod enderne, alle spireslidser diagonale]. [Sporer 65-80 ??15-18 µm, slimkappe bred].$Sporormiella megalospora (Auersw.) Ahmed & Cain
+14,15$[Alle celler i hver spore af samme størrelse (evt. den ene celle lidt længere)]
+14,16$[Cellerne i sporerne af varierende længde]
+15,0$[Sporer 30-35 ??5,5-6,6 µm, den ene endecelle tydeligt smallere; spireslids ±skrå]. [Slimkappe moderat bred].$Sporormiella leporina (Niessl) Ahmed & Cain
+15,0$[Sporer 38-45 ??8-9 µm, spireslids parallel]. [Slimkappe moderat bred].$Sporormiella dubia Ahmed & Cain
+16,0$[Endecellerne i sporerne længere end midtercellerne]. [Sporer 27-34 ??7-10 µm, spireslids diagonal, slimkappe smal].$Sporormiella cymatomera Ahmed & Cain
+16,0$[Sporecellerne af forskellig længde]. [Sporer 32-38 ??6-8 µm, spireslids skrå til dia-gonal, slimkappe moderat bred].$Sporormiella tetramera Ahmed & Cain
+17,18$[Sporer 5, 7 eller 13-rummede]
+17,22$[Sporer 8-rummede]
+18,0$[Sporer 5-rummede]. [Sporer 70-80 ??17-19 µm].$Sporormiella pentamera (Oud.) Ahmed & Cain
+18,19$[Sporer 7 eller 13-rummede]
+19,0$Sporer 13-rummede, 48-60 ??9-10 µm.$Sporormiella antarctica (Speg.) Ahmed & Cain
+19,20$Sporer 7-rummede
+20,0$[Sporer 70-80 ??16-18 µm].$Sporormiella heptamera (Auersw.) Ahmed & Cain
+20,21$[Sporer mindre]
+21,0$[Sporer (38-)41-45(-50) ??7-9 µm].$Sporormiella vexans (Auersw.) Ahmed & Cain
+21,0$[Sporer 52-63 ??10-13 µm].$Sporormiella americana(Griff.) Ahmed & Cain
+22,23$[Sporer cylindriske; alle rum ensartede]
+22,24$[Sporer ±kølleformede; et af cellerummene forstørret]
+23,0$[Sporer 140-160 ??9-12,5 µm].$Sporormiella splendens (Cain) Ahmed & Cain
+23,0$[Sporer 48-58 ??6-7 µm].$Sporormiella bipartis (Cain) Ahmed & Cain
+24,25$[Fjerde celle foroven i sporen forstørret]
+24,26$[Tredie celle foroven i sporen forstørret]
+25,0$[Sporer 49-58 ??9-10 µm].$Sporormiella ontariensis (Cain) Ahmed & Cain
+25,0$[Sporer 40-49 ??8-9 µm].$Sporormiella pascua (Niessl) Ahmed & Cain
+26,0$[Sporer 65-80 ??12-15 µm].$Sporormiella affinis (Sacc., Bomm. & Rouss.) Ahmed & Cain
+26,27$[Sporer mindre]
+27,0$[Sporer 50-59 ??10-11,5 µm].$Sporormiella corynespora (Niessl) Ahmed & Cain
+27,0$[Sporer 40-48 ??7-8 µm].$Sporormiella octomera (Auersw.) Ahmed & Cain
+
+
+
+cs55,0$Zygopleurage
+1,0$Zygopleurage Boedijn, Lundqvist, N. (1969): Zygopleurage and Zygospermella (Sordariaceae s. lat., Pyrenomycetes). Bot. Notiser 122:
+353-374. 
+1,0$[Sporer bola-formede, med to mørkfarvede, 29-38 ??15-23 µm store celler adskilt af ca. 200 µm lang hyalin del].$zygospora ? zygospora (Speg.) Boedijn
+
+CS56,0$Zygospermella
+1,0$Zygospermella Cain Lundquist : Perithecier sorte, med stive, sorte hår omkring ostiolen; [sp. 2-cellede, indsnørede ved septa, med lange, hyaline vedhæng i begge ender]///Lundqvist, N. (1969): Zygopleurage and Zygospermella (Sordariaceae s. lat., Pyrenomycetes). Bot. Notiser 122: 353-374.
+1,0$[Sporer 36-48 ??11-14 µm].$Zygospermella striata Lundq.
+1,0$[Sporer 48-70 ??11-17 µm].$Zygospermella insignis (Mouton) Cain
+
+cs57,0$Arnium
+1,0$Arnium Nke ex Wint. emend. Lundq. Krug & Cain : Perithecier ± indsænkede, mørke el. dækket af hvide hyfer, [Sække 4-mangesporede, sporer encellede, el. først meget sent tocellede, mørke, typisk med vedhæng i begge ender og en el. flere spireporer]. ///Lundqvist, N. (1972): Nordic Sordariaceae s. lat. Symb. Bot. Ups. 20(1): 207-244.
+1,0$[Sække 4-sporede]. [Sp. i en række i sækkene; 44-54 ??22-30 µm].$Arnium arizonense (Griff.) Lundq. & Krug
+1,2$[Sække med flere sporer]
+2,0$[Sække 64-128-sporede; sp. 18-22 ??12-14,5 µm].$Arnium leporinum (Cain) Lundq. & Krug
+2,3$[Sække 8-sporede]
+3,4$[Sporer tydeligt skæve]
+3,5$Sporer symmetriske el. kun svagt skæve]
+4,0$[Sporer med spirepore i kun den ene ende; 31-40 ??18-24 µm].$Arnium caballinum Lundq.
+4,0$[Sporer med spirepore i begge ender].$Arnium inaequilaterale (Cain) Lundq. & Krug
+5,6$[Sporer udvikler med alderen et septum]
+5,7$[Sporer forbliver encellede]
+6,0$[Sp. 24-31 ??14-18 µm‚ med midtstillet septum og spireporer i begge ender; perithecie håret].$Arnium imitans Lundq.
+6,0$[Sp. 21-24 ??12-14 µm, med septum under midten og en spirepore; perithecie stivhåret].$Arnium septosporum Lundq.
+7,0$[Sp. uden vedhæng, men med uregelmæssig slimkappe].$Arnium macrotheca (Cr. & Cr.) Lundq.
+7,8$[Sp. med vedhæng i begge ender]
+8,0$Perithecier dækket af hvide hår. [Sp. 40-52 ??25-34 µm].$Arnium olerum (Fr.) Lundq. & Krug
+8,9$Perithecier ikke dækket af hvide hår
+9,10$[Sække uden apikalring]
+9,11$[Sække med tydelig apikalring, især ved farvning]
+10,0$[Hår på peritheciet 4-6 µm tykke, ascusspidsen tilspidset; vedhængene dækker ikke spireporerne].$Arnium tomentosum (Speg.) Lundq. & Krug
+10,0$[Hår på perithecierne tyndere, ascusspidsen afrundet; vedhængene dækker spireporerne].$Arnium hirtum (Hans.) Lundq. & Krug
+11,12$[Sporer med en spirepore]
+11,13$[Sporer med spireporer i begge ender]
+12,0$[Sporer 31-40 ??18-24 µm, svagt skæv; vedhæng virker stribede].$Arnium caballinum Lundq.
+12,0$[Sporer 47-57 ??24-30 µm, ikke skæv, vedhæng ikke stribede].$Arnium sudermanniae Lundq.
+13,0$[Sporer 32-38 ??18-21 µm; vedhæng med en spalte, dækker ikke spireporerne].$Arnium sp.
+13,0$[Sporer 36-44 ??20-23 µm; vedhæng uden spalte, dækker spireporerne].$Arnium mendax Lundq.
+
+cs58,0$Trichodelitschia
+1,0$Trichodelitschia Munk Ellis & Ellis 2///Lundqvist, N. (1964): The genus Trichodelitschia in Sweden. Sv. Bot. Tidsskr. 58(1): 267-272.///Luck-Allen, E. R. (1970): A new species of Trichodelitschia. Nova Hedw. XIX (1+2): 305-310.: Perithecier små, med tydelige, sorte, tykvæggede, encellede hår omkring ostiolen; [sporer 2-cellede, separerende ved midtervæggen, uden spireslids men med tydelig spirepore i hver ende, med slimkappe]
+1,0$[Sporer (28-) 30-34 x 9-11 (-12)µ]. På ko, får, kanin, elg. Ikke kendt fra Europa.$Trichodelitschiaadelphica Luck-Allen
+1,2$[Sp. kortere] 
+2,0$[Sp. 22-26 x 8-11 µ]. Fundet på harelorte i DK.$Trichodelitschiabisporula (Crouan) Munk (syn:Trichodelitschiaminuta (Fuck.)Lundq.)
+2,0$[Sp. 18-21 x 6-7 µ]. Alm på elglorte i S.$Trichodelitschiamunkii Lundq.
+
+cs59 =cs53
+
+rem$cs259,0$Delitschia
+rem$1,0$Delitschia Auersw. Luc-Allen, Robena & Cain /// Frugtlegemer op til 1 mm ±indsænkede, med lange halse; [sække bitunicate; sporer tocellede, mørke, med spireslids og slimkappe]/// Luck-Allen, E. Robena & R. F. Cain (1975): Additions to the genus Delitschia. Can. J. Bot. 53: 1827-1887. 
+rem$1,0$[Sække 4-sporede].$Delitschia anomala LuckAllen & Cain
+rem$1,2$[Sække 8-sporede]
+rem$2,0$[Sporens skillevæg skæv].$Delitschia didyma Auersw.
+rem$2,3$[Sporens skillevæg lige]
+rem$3,4$Frugtlegemer hårede
+rem$3,8$Frugtlegemer glatte
+rem$4,5$Frugtlegemer med mørke hår
+rem$4,6$Frugtlegemer med hyaline til lyst brune hår
+rem$5,0$[Sporer 27-32 ??13-16 µm; hår altid glatte].$Delitschia vulgaris Griff.
+rem$5,0$[Sporer 38-50 ??17-20 µm; hår glatte eller ru].$Delitschia chaetomioides Karst.
+rem$6,0$[Sporer over 30 µm brede].$Delitschia griffithsii Cain
+rem$6,7$[Sporer under 30 µm brede]
+rem$7,0$[Sporer 24-28 µm brede].$Delitschia winteri Phill. & Plowr.
+rem$7,0$[Sporer 16-21 µm brede].$Delitschia patagonica Speg.
+rem$8,9$[Sporer under 20 µm lange]
+rem$8,11$[Sporer over 20 µm lange]
+rem$9,0$[Sporer i to rækker i sækkene; 18-20 ??6-7,5 µm].$Delitschia consociata Mout.
+rem$9,10$[Sporer i en række i sækkene; kortere].
+rem$10,0$[Sporer 10-12 ??5-6 µm].$Delitschia marchalii Berl. & Vogl.
+rem$10,0$[Sporer 14-18 ??6-10 µm].$Delitschia niesslii Speg.
+rem$11,0$[Sporer dybt indsnørede ved skillevæggen, ved modenhed endog skillende; 20-25 µm lange; i to rækker i sækkene].$Delitschia leptospora Oud.
+rem$11,12$[Sporer ikke dybt indsnørede; længere]
+rem$12,0$[Sporer i to rækker i sækkene; 50-64 ??22-23 µm].$Delitschia furfuracea Niessl
+rem$12,13$[Sporer i en række i sækkene]
+rem$13,0$[Sporer 41-55 ??16-21 µm].$Delitschia patagonica Speg.
+rem$13,0$[Sporer 55-62 ??24-28 µm].$Delitschia winteri Phill. & Plowr.
+rem$
+
+cs60,0$Schizothecium
+1,0$Schizothecium Corda emend. Lundq. ,Ellis & Ellis 2: Perithecier ±indsænkede, med små skællignende totter af sammenklistrede hår ved ostiolen; [sporer med dels mørkfarvet hoveddel, dels hyalin basisdel. Nogle med hyaline vedhæng]/// Lundqvist, N. (1972): Nordic Sordariaceae s. lat. Symb. Bot. Ups. 20(1): 274-285.
+1,7$[Sække 8-sporede]
+1,2$[Sække med andet antal sporer]
+2,3$[Sække normalt 4-sporede]
+2,4$[Sække 16-32-sporede]
+3,0$[Sække 95-120 ??9-12 µm; sporens hoveddel 12-14,5 ??7-9 µm].$Schizothecium nanum Lundq.
+3,0$[Sække 120-155 ??15-18 µm; sporens hoveddel 19-24 ??12-14,5 µm].$Schizothecium tetrasporum (Wint.) Lundq.
+4,5$[Sække 16-sporede]
+4,6$[Sække 32-sporede]
+5,0$[Med tre hårtyper: egentlige krøllede hår og spidse hår og en smule sammenkittede skæl af hår]. [Sporehoved 30-36 ??17-20 µm, med slimkappe].$Schizothecium simile (Hans.) Lundq.
+5,0$[Uden spidse hår]. [Sporehoved 27-36 ??16-20 µm, uden slimkappe].$Schizothecium dubium (Hans.) Lundq.
+6,0$[Med tre hårtyper: egentlige krøllede hår og spidse hår og en smule sammenkittede skæl af hår]. [Sporehoved 30-36 ??17-20 µm, med slimkappe].$Schizothecium simile (Hans.) Lundq.
+6,0$[Kun med sammenkittede skæl af hår]. [Sporehoved 22-25 ??13-15 µm, uden slimkappe, med vedhæng i begge ender af sporen].$Schizothecium dakotense (Griff.) Lundq.
+7,0$[Sporer med slimkappe, men uden vedhæng; perithecie med krans af 50 ??12 µm store spidse celler]. [Sporehoved 15-19 ??7-8,5 µm].$Schizothecium oedotrichum Lundq.
+7,8$[Sp. med vedhæng i begge ender, perithecie uden denne skælkrans]
+8,0$[Med tre hårtyper: egentlige krøllede hår og spidse, ikke sammenkittede hår og en smule sammenkittede skæl af hår].$Schizothecium pilosum (Mout.) Lundq.
+8,9$[Uden spidse, ikke sammenkittede hår]
+9,10$[Kun med sammenkittede skæl af hår]
+9,12$[Med både sammenkittede skæl af hår og egentlige krøllede hår]
+10,0$[De sammenkittede skæl af hår små og nærmest kun opsvulmede hyfeender; sporehoved 18-20 ??10,5-12 µm].$Schizothecium vesticola (Berk. & Br.) Lundq.
+10,11$[De sammenkittede skæl af hår tydelige; sporehoved over 21 µm]
+11,0$[Sporehoved 25-30 ??13-17 µm].$Schizothecium conicum (Fuck.) Lundq.
+11,0$[Sporehoved 22-26 ??11-13 µm].$Schizothecium hispidulum (Speg.) Lundq.
+12,0$[Sække kølleformede; hyaline sporedel tilspidsende]. [Sporehoved 22-23 ??11-13 µm, med spirepore på siden af toppen].$Schizothecium pilosum (Mout.) Lundq.
+12,13$[Sække tilspidsende‚ hyaline sporedel cylindrisk]
+13,14$[Sporer længere end 30 µm]
+13,15$[Sporer kortere]
+14,0$[Skæl af hår lange, op til 335 µm; sporer i to rækker i sækken; sporehoved 32-37 ??18-20 µm].$Schizothecium aloides (Fuck.) Lundq.
+14,0$[Skæl af hår kortere og mindre bemærkelsesværdige; sp. ±i en række; sporehoved 30-38 ??21-27 µm].$Schizothecium glutinans (Cain) Lundq.
+15,0$[Skæl af hår tydelige, op til 120 µm]. [Sporer i to rækker i sækken; sporehoved 25-30 ??13-17 µm].$Schizothecium conicum (Fuck.) Lundq.
+15,16$[Skæl af hår kortere og mindre bemærkelsesværdige]
+16,0$[Sporehoved 20-24 ??11-13 µm].$Schizothecium sp.
+16,17$[Sporehoved bredere]
+17,0$[Sporehoved 22-24 ??14-15 µm; med flad øvre vedhæng].$Schizothecium miniglutinans (Mirza & Cain) Lundq.
+17,0$[Sporehoved 24-27 ??15-19 µm; øvre vedhæng ikke flad].$Schizothecium squamulosum (Cr. & Cr.) Lundq.
+
+
+cs61,0$Strattonia
+1,0$Strattonia Cif. emend. Lundq.///Lundqvist, N. (1972): Nordic Sordariaceae s. lat. Symb. Bot. Ups. 20(1).
+
+1,0$[Sporehoved 11-14 ??6-8 µm].$Strattonia borealis Lundq.
+1,2$[Sporehoved større] 
+2,0$Perithecier dækket af gule hyfer; [hyaline sporedel lige så lang som bred].$Strattonia zopfii Lundq.
+2,0$Perithecier sorte til gråbrune; [hyaline sporedel kortere end bred].$Strattonia insignis (Hans.) Lundq.
+
+cs62,0$Podospora
+1,0$Podospora Ces. emend. Lundq.: Perithecier mørke, ±indsænkede, oftest med mørke hår ved ostiole; [sporer 2-cellede, med en mørkfarvet, bredt mandelformet hoveddel og en hyalin ±cylindrisk nedre del af ca. samme længde; ofte med lange vedhæng i begge ender af sporen. OBS: disse vedhæng kan være meget svære at erkende - brug fasekontrast!]./// Lundqvist, N. (1972): Nordic Sordariaceae s. lat. Symb. Bot. Ups. 20(1): 274-285.
+
+1,2$[Sække 16-mangesporede]
+1,8$[Sække 4-8-sporede]
+2,3$[Sække 16-64-sporede]
+2,4$[Sække >64-sporede]
+3,0$[Sække 16-32-sporede; sporehoved 30-37 ??18-23 µm]. [Øvre vedhæng smallere end halve sporebredde]. På kanin el. hare.$Podospora pleiospora (Wint.) Niessl.
+3,0$[Sække 64-sporede; sporehoved 25-34 ??14-19 µm]. På ko el. hest.$Podospora myriaspora (Cr. & Cr.) Niessl.
+4,0$[Sporehoved 11-15 ??6,5-7 µm, skæv]. Sække 256-sporede.$Podospora araneosa (Cain) Cain
+4,5$[Sporehoved større, symmetrisk]
+5,0$Peritheciehals med lange totter af sammenklistrede hår; [sporehoved 14,5-17 ??9-11 µm]. [Sække 256- sporede; vedhæng utydelige, flygtige].$Podospora curvicolla (Wint.) Niessl
+5,6$Peritheciehals med regulære hår; [sporehoved større]
+6,0$[Sække kølleformede; ca. 128-sporede, med apikal-ring; et simpelt vedhæng i hver ende af sporen]. [Sporehoved 18-22 ??11-13 µm].$Podospora setosa (Wint.) Niessl
+6,7$[Sække sækformede; uden apikalring; vedhæng anderledes]
+7,0$[Sække 100-128-sporede, uden lysbrydende apikal-membran; sporehoved 18-24 ??13-15 µm, med spirepore i toppen; med tynd slimkappe; øvre vedhæng splittet i to, uden struktur].$Podospora bifida Lundq.
+7,0$[Sække ca. 512-sporede, med lysbrydende apikal-membran; sporehoved 20-264 ??12-16 µm, med spirepore i siden af toppen; uden slimkappe; begge vedhæng splittet i to, med stribet-kornet struktur].$Podospora granulostriata Lundq.
+8,9$[Sække 4-sporede]
+8,10$[Sække 8-sporede]
+9,0$[Sporehoved 35-40 ??18-19 µm; hyaline sporedel veludviklet].$Podospora pauciseta (Ces.) Trav.
+9,0$[Sporehoved 50-65 ??27-36 µm; hyaline celledel meget lille eller helt manglende].$Podospora australis (Speg.) Niessl.
+10,11$[Sporehoved skæv]
+10,12$[Sporehoved symmetrisk]
+11,0$Peritheciehals med lange totter af sammenklistrede hår; [sporehoved 30-37 ??18-24 µm; øvre vedhæng fæstnet på hele siden af sporen, nedre vedhæng dækker hyaline sporedel].$Podospora excentrica Lundq.
+11,0$Peritheciehals regulært håret; [sporehoved 20-25 ??13-16 µm; vedhæng kun fæstnet i sporens ender].$Podospora trichomanes Lundq.
+12,0$Peritheciehals med hår, forneden med pølseagtige udvækster; [sporehoved 36-42 ??20-22 µm, med spirepore i siden af toppen; øvre vedhæng kort og bred, nedre vedhæng fæstnet øverst på hyaline sporedel].$Podospora decipiens (Wint. ex. Fuck.) Niessl
+12,13$Uden denne kombination af karakterer
+13,14$[Spore med slimkappe]
+13,15$[Spore uden slimkappe]
+14,0$Perithecie glat; [spore uden vedhæng; hyaline sporedel 20-40 µm].$Podospora globosa (Massee & Salm.) Cain
+14,0$Perithecie håret; [sporens slimkappe trukket ud i et øvre vedhæng; hyaline sporedel 16-20 µm].$Podospora xerampelina Lundq.
+15,0$[Spore med 4 vedhæng i hver ende; sporehoved 29-40 ??16-25 µm].$Podospora communis (Speg.) Niessl
+15,16$[Spore med et vedhæng i hver ende]
+16,17$[Sporehoved længere end 45 µm]
+16,18$[Sporehoved kortere end 45 µm]
+17,0$[Spore med endestillet spirepore; hyaline sporedel kølleformet; vedhæng længdestribet]. Perithecie solidt; [sporehoved 48-60 ??27-31 µm].$Podospora fimiseda (Ces. & DeNot.) Niessl
+17,0$[Spore med spirepore i siden af toppen; hyaline sporedel tilspidset; vedhæng tværstribet, tarmformet]. Peridie tyndere; [sporehoved 50-68 ??22-32 µm].$Podospora intestinacea Lundq.
+18,19$[Sporehoved 30-45 µm)
+18,21$[Sporehoved kortere end 30 µm]
+19,0$Perithecie tykvægget og solidt; [sporer ±i en række i sækkene]. [Sporehoved 33-45 ??19-24 µm, med spirepore i siden af toppen].$Podospora perplexens (Cain) Cain
+19,20$Perithecie tyndere, membranøs; [sporer i to rækker i sækkene]
+20,0$Perithecie glat. [Sporehoved 36-45 ??22-27 µm, hyaline sporedel 28-55 µm, cylindrisk til kølleformet].$Podospora pyriformis (Bayer) Cain
+20,0$Perithecie håret. [Sporehoved 28-38 ??18-23 µm, hyaline sporedel 20-25 µm, tilspidset].$Podospora dasypogon Lundq.
+21,0$Perithecie overfladisk, ægformet, dækket af spredte hår med hyaline spidser. Perithecie ret solidt; [sporehoved 25-31 ??12-15 µm].$Podospora appendiculata (Awd. ex. Niessl) Niessl
+21,0$Perithecie ±indsænket, pæreformet, med hår uden lyse spidser. Perithecie tyndere, membranøs; [sporehoved 24-28 ??12-13 µm].$Podospora ellisiana (Griff.) Mirza & Cain
+
+cs63,0$Anopodium
+1,0$Anopodium Lundq. Lundqvist, N. (1972): Nordic Sordariaceae s. lat. Symb. Bot. Ups. 20(1): 246-247.
+1,0$Perithecier sorte, ±indsænkede, [sporer 2-cellede, med mørkfarvet basaldel og hyalin, tynd hoveddel (bemærk, at sporerne vender på denne måde!!); den hyaline hoveddel omgivet af flere kugleformet opsvulmede slimkappepartier].$Anopodium ampullaceum Lundq.
+
+
+cs64,0$Lophotrichus
+
+1,0$Ophiostomataceae, Lophotrichus R. K. Benj. ,Ellis & Ellis 2, Seth, H. K. (1971): The genus Lophotrichus Benjamin. Nova Hedwigia XIX, h. 3/4, p. 591-600. /// Perithecier mørke eller ±olivenfarvede, runde, med kort el. lang hals, hårede, omkring ostiolen mørke, på siden lysere; [sække kortstilkede, 8-sporede; sporer ±citronformede, hyaline el. svagt farvede, “svedes” ud i en søjle] 
+
+
+1,0$Perithecier olivengrønne til gulgrønne; hår i toppen hyaline til gulgrønne, glatte til ± bølgende; [asci 26-43 x 9,5-13 µ, sp. 8,5-10,5 (-12,5) x 7-8 µ, lyserøde i masse]$Lophotrichus incarnatus Seth
+1,2$Perithecier mørke; hår i toppen mørke
+2,0$Perithecier med hals kortere end 70 µ, hår i toppen ugrenede; [asci 20-32 x 12-18 µ, sp. 6-7 (-8) x 5-6 µ, kobberrøde i masse]$Lophotrichus brevirostratus Ames.
+2,3$Perithecier med hals længere end 80 µm
+3,0$Alle hår i toppen ens, mørkebrune og op til 1-2 mm. lange, glatte eller ± bølgende; [asci 10-30 x 20-40 µ, sp. 7-9,5 x 5,2-6,2 µ, kobberrøde i masse]$Lophotrichus ampullus Benjamin
+3,0$Hår i toppen af to typer: korte og glatte hår + lange og enkrusterede hår; [asci 20-33 x 10-15 µ, sp. 7-10 x 5-7 µ, kobberrøde i masse]$Lophotrichus martinii Benjamin
+3,0$(Ifølge Ellis & Ellis 2: +$Lophotrichus bartletii (Massee & Salmon) Malloch & Cain, på rottelort).
+
+cs65,0$Phomatospora
+
+1,0$Phomatospora Sacc. Arx & Müller : Perithecier små, kugleformede, indsænkede i substratet, [Apikalring ±utydelig, sp. hyaline, encellede, ved modenhed ofte tocellede, med en oliedråbe i hver ende]///(Illustration fra von Arx, J. A. & E. Müller (1954): Die Gattungen der amerosporen Pyrenomyceten. Beit. z. Kryptogamenflora der Schweiz B. 11, h. 1.)
+1,0$Frugtlegeme brunt, 0,15 mm/dia., med fremstående konisk hals; [sp. cylindriske, 3,5-4,5 x 2-2,5µm].$Phomatospora coprophila Richardson ??? P. minutissima (Crouan & H. Crouan) Lundq.
+
+cs66,0$Microascus Zuk.
+1,0$Microascus Zuk. Ellis & Ellis 2 ,v. Arx, J. A. 1975): Revision of Microascus with the description of a new species. Persoonia 8(2): 191-197.
+1,0$Perithecier runde, sorte, med tydelig lille hals med spredte sorte hår; [sække 8-sporede, opløsende; sporer seglformede, 3-4 x 2,5-3,5 µ, med slimkappe; “svedes” ud af peritheciet] Microascus longirostris Zuk.
+
+
+cs67,0$Coniochaeta
+1,0$Coniochaeta (Sacc.) Massee Ellis & Ellis 2 : Perithecier hårede; [sporer mørke, affladede, med spireslids, uden slimkappe]
+1,0$[Sporer lyst gråbrune med grønlige oliedråber].Coniochaeta velutina (Fuck.) Munk
+1,2$[Sporer helt mørke] 
+2,0$[Sække med 64-128 sporer]. Coniochaeta hansenii (Oud.) Cain
+2,3$[Sække 8-sporede] 
+3,0$. [Sporer 8 ??6 ??4 µm, linseformede]. Coniochaeta leucoplaca (Ber. & Rav.) Cain
+3,0$[Sporer 16-23 ??13-19 ??8-15 µm, skiveformede]. Coniochaeta scatigena (Ber. & Br.) Cain
+
+
+
+cs68,0$Chaetomium
+
+1,0$Chaetomiaceae, Chaetomium Kunze: Fr. : Perithecier dækkede af krøllede eller forgrenede hår, især omkring ostiolen. Sporerne skydes ud af asci inde i perithecierne, hvorefter sporerne svedes ud igennem ostiolen og sidder fast i hårene omkring mundingen. Chaetomium er overvejende cellulosenedbrydere, hvorfor de fleste findes i lort blandet med strå. Nøglen her er efter Ellis & Ellis 2.
+1,0$Sporer virker firkantede; [sp. 7-7,5 x 6-7 x 4-5 µ].$Chaetomium quadrangulatum Chivers
+1,2$Sporer ellipsoidiske til runde
+2,3$Hår omkring ostiolen ugrenede, evt. krøllede
+2,8$Hår omkring ostiolen ±dichotomt forgrenede
+3,4$Hår omkring ostiolen sammenrullede eller spiralformede
+3,6$Hår omkring ostiolen ±rette, evt. bølgede el. kun let sammenrullede i spidsen
+4,0$[Sporer 5-7,5 x 5-6,5 µ].$Chaetomium bostrychodes Zopf
+4,5$[Sporer større]
+5,0$[Sporer 7-11 x 7-9 x 4-6 µ].$Chaetomium crispatum Fuckel
+5,0$[Sporer 9-12 x 5-7µ].$Chaetomium aureum Chivers
+6,0$[Sporer 12-17 x 7-9µ, sporevæg ofte stribet].$Chaetomium murorum Corda
+6,7$[Sporer under 12 µ lange, sporevæg ikke stribet]
+7,0$[Sporer fusiforme, 9-11 x 4,5-6µ].$Chaetomium atrobrunneum L. Ames
+7,0$[Sporer ±ellipsoidiske, 9-12 x 8-10 x 6-7µ].$Chaetomium globosum Kunze
+8,0$[Sporer lange og smalle, 9-12 x 2,5-3µ].$Chaetomium fusum L. Ames
+8,9$[Sporer bredere]
+9,0$[Sporer 12-14 x 8-11 x 7-9µ].$Chaetomium elatum Schm. & Kunze
+9,10$[Sporer højest 8µ lange]
+10,0$Nogle af hårene lange og tilspidsede.$Chaetomium funicola Cooke
+10,0$Alle hår gentagne gange dichotomt forgrenede.$Chaetomium indicum Corda 
+10,0,n$Ifølge Eriksson + følgende: Chaetomium cuniculorum Fuckel, convolutum Chivers & caprinum Bain)
+
+cs69,0$Fimetariella
+1,0$Fimetariella Lundq. Krug : Perithecier glatte, indsænkede-frembrydende, korthalsede, kun mørkfarvede på halsen, ellers lyst gullige til brune; [asci unitunicate, nonamyloide; sporer ellipsoidiske, mørkfarvede, med tyk slimkappe, spirepore i hver ende].///Krug 1995: The genus Fimetariella. Can. J. Bot. 73: 1905-1916.
+1,0$[Asci 8-sporede]. [Sporer 12-14 ??7-9 µm]; Ko. DK?$Fimetariella microsperma Krug & J. H. Mirza
+1,2$[Asci 4-sporede] 
+2,0$. [Sporer 14-17 ??8-9 µm]. Rådyr. DK! Fimetariella rabenhorstii (Niessl in Rabenh.) Lundq.
+2,0$[Sporer 42-48 ??23-26 µm]. Kanin, får, ko. DK? Fimetariella dunarum (Mouton) Krug
+
+
+
+
+************************************
+CS80,0$Nøgle E. Hyfomyceter af Jens H. Petersen
+1,0$figure$$f"Coprofile_svampe_2001-2.jpg"
+1,0$Msp. dannes udvendigt på udifferentierede hyfer eller konidiebærere. Tegninger er lånt fra Ellis & Ellis (EE2). En mere udførlig nøgle findes hos Seifert, Kendrick & Murase 1983: A key to Hyphomycetes on Dung_ Waterloo.
+Nøgle til formslægter.
+
+1,2$[Msp. dannes på ret udifferentierede, ikke opretstående hyfer i myceliet]
+1,5$[Msp. dannes på tydelige, oprette konidiebærere]
+2,3$[Msp. flercellede]
+2,4$[Msp. encellede]
+3,cs81$[Msp. 10-20 ??7-14 µm].$Monodictys_ s. 59$s"Monodictys (Hyfomyceter)"
+3,cs82$[Msp. 20-30 ??13-16 µm].$Arthrobotrys_ s. 58$s"Arthrobotrys (Hyfomyceter)"
+4,cs83$[Msp. hyaline].$Onychophora_ s. 61$s"Onychophora (Hyfomyceter)"
+4,cs84$[Msp. brune].$Gilmaniella_ s. 58$s"Gilmaniella (Hyfomyceter)"
+5,6$Konidiebærere sammenvoksede til tætte hyfebundter (synnemata)
+5,9$Konidiebærere med enkeltstående hyfer.
+6,cs85$Konidiebærere ±rosa.$Stilbella_ s. 61$s"Stilbella (Hyfomyceter)"
+6,7$Konidiebærere grøngrå, brunlige til hvidlige
+7,cs86$[Konidiebærere med et opsvulmet hoved, hvorpå msp. dannes].$Mycosylva_ s. 60$s"Mycosylva (Hyfomyceter)"
+7,8$[Konidiebærere med smalle, grenede hyfer]
+8,cs87$Konidiebærere grøngrå.$Penicillium_ s. 61$s"Penicillium (Hyfomyceter)"
+8,cs88$Konidiebærere brunlige til hvidlige.$Doratomyces_ s. 58$s"Doratomyces (Hyfomyceter)"
+9,10$Konidiebærere ugrenede
+9,12$Konidiebærere grenede
+10,0$Konidiebærerens øvre del cylindrisk.$se Mycotypha_ s. 68
+10,11$Konidiebærerens øvre del kugleformet
+11,cs89$[Msp. 5-20 ??3-14 µm].$Oedocephalum_ s. 60$s"Oedocephalum (Hyfomyceter)"
+11,0$[Msp. 35-60 ??12-35 µm]$se Rhopalomyces_ s. 63
+12,13$[Sidegrene sluttende i sterile spidser]
+12,14$[Sidegrene ikke spidse]
+13,0$[Konidiebærernes sidegrene krumme eller spiralsnoede]$se Dispira_ s. 63
+13,0$[Sidegrene ±rette]$se Chaetocladium_ s. 73
+14,15$[Msp. encellede]
+14,17$[Msp. tilsyneladende flercellede]
+15,0$[Grenender kugleformet opsvulmede]$se Cunninghamella_ s. 63
+15,16$[Grenender ikke opsvulmede]
+16,0$[Msp. siddende i en „skål“ af krumme hyfer].$se Klickxella_ s. 65
+16,0$[Msp. siddende i række som en lille kam].$se Coemansia_ s. 64
+17,0$[Konidiebærere skrøbelige, flere gange regelmæssigt tvedelte]$se Piptocephalis_ s. 71
+17,18$[Konidiebærere kraftige, ikke regelmæssigt tvedelte]
+18,cs90$[Msp. tilspidsede imod enderne].$Fusarium_ s. 59$s"Fusarium (Hyfomyceter)"
+18,19$[Msp. med butte ender]
+19,0$[Msp. i reglen siddende på små sidegrene på et hoved; sporangiebærere opsvulmede ved basis; med rhizoider]$se Syncephalis_ s. 72
+19,0$[Msp. siddende på et hoved uden sidegrene; sporangiebærere ikke opsvulmede ved basis; uden rhizoider]$se Syncephalastrum_ s. 72
+
+
+cs81,0$Monodictys S. Hughes
+rem$1,0$Monodictys S. Hughes 
+1,0$Kolonier grålige; uden tydelige konidiebærere; [msp. vortede, brunlige, kuglerunde, 10-20 ??7-14 µm brede]; på ekskrementer.$Monodictys asperospora (Cooke & Massee) M.B. Ellis
+
+cs82,0$Arthrobotrys Corda
+Arthrobotrys Corda
+1,0$Kolonier hvide; konidiebærere oprette, op til 0,5 mm høje, grenede; [ms1,0 p. glatte, hyaline, 14-27 ??6-11 µm]; på ekskrementer, hvor den ofte fanger nematoder i klæbrige fangstløkker.$Arthrobotrys Corda superba Corda 
+1,0,n$(anamorfe faser af arter af skivesvamp-slægten voksskive (Orbilia))
+
+cs83,0$Onychophora
+Onychophora W. Gams
+1,0$Kolonier hvide; konidiebærere „korte“, ikke oprette; [msp. glatte, hyaline, 3,5-5 ??2-2,5 µm]; på ekskrementer.$Onychophora coprophila Gams, Fisher & Webster
+
+
+cs84,0$Gilmaniella
+Gilmaniella G.L. Barron
+1,0$Kolonier grålige til sortbrune; uden tydelige konidiebærere; [msp. glatte, brune, kugleformede, 1-8 (-10) µm brede]; på ekskrementer$Gilmaniella humicola G.L. Barron
+
+cs85,0$Stilbella Lindau
+1,0$Konidiebærere oprette, op til 2 mm høje, sammenvoksede til tætte, rosa hyfebundter (synnemata); [msp. hyaline, 3-5 ??2-3 µm]; på ekskrementer og andre substrater.$Stilbella erythrocephala (Ditmar) Lindau
+
+cs86,0$Mycosylva 
+Mycosylva M.C. Tulloch
+1,0$Kolonier grålige med hvid eller gul rand; konidiebærere oprette, op til 2 mm høje, sammenvoksede til tætte hyfebundter (synnemata) med mørk stok og et bredt, grågrønt hoved; [msp. glatte til svagt vortede, ±hyaline, kuglerunde, 3-4 µm brede]; på ekskrementer og jord.$Mycosylva clarkii Tulloch
+
+cs87,0$
+Penicillium Fr.
+1,0$Konidiebærere oprette, op til 1 mm høje, sammenvoksede til tætte, grågrønne hyfebundter (synnemata); [msp. hyaline, 4-5 ??3-4 µm]; på ekskrementer og andre substrater.$Penicillium claviforme Bain.
+
+cs88,0$Doratomyces Corda
+D. nanus D. misrosporus D. purpureofuscus D. stemoniti	s
+1,0$Kolonier grålige, gråbrune til sorte; konidiebærere oprette, op til 2 mm høje, sammenvoksede til tætte hyfebundter (synnemata); [msp. glatte til vortede, hyaline eller sjældent brunlige].
+1,0$[Msp. vortede]. Synnemata op til 1 mm høj med ellipsoidiske til halvkugleformede hoveder; [msp. 6-8,5 ??5-6 µm]; på ekskrementer.$Doratomyces nanus (Ehrenb.) Morton & Smith
+1,2$[Msp. glatte]
+2,0$[Msp. 3-5 ??2-3 µm]. Synnemata op til 0,6 mm høj med cylindriske til ellipsoidiske hoveder; på ekskrementer.$Doratomyces microsporus (sacc.) Morton & Smith
+2,3$[Msp. større]
+3,0$Synnemata med kugleformede hoveder. Synnemata op til 1 mm høj; [msp. 5-7 ??3,5-4,5 µm]; på ekskrementer.$Doratomyces purpureofuscus (Fr.) Morton & Smith
+3,0$Synnemata cylindriske. Synnemata op til 2 mm høj; [msp. af to typer, dels 6-8,5 ??4-4,5 µm store, glatte, hyaline msp. fra toppen af konidiebærerne, dels 9-14 ??5-8 µm store, spidse, vortede, brune msp. fra stokken]; på ekskrementer.$Doratomyces stemonitis (Pers.) Morton & Smith
+
+
+cs89,0$Oedocephalum
+Oedocephalum Preuss
+O. pallidum O. glomerulosum
+Kolonier grålige, okkergule til kødrøde; konidiebærere oprette, op til 0,5 mdoratd glatte til vortede,
+hyaline]. Anamorfe former af arter af bægersvampordenen (Pezizales).
+1. [Msp. vortede, 5-8 ??3-4 µm]. På ekskrementer. O. pallidum (Berk. & Broome) Cost.
+[Msp. glatte, 10-20 ??9-14 µm]. På ekskrementer. O. glomerulosum (Bull.) Sacc.
+60_ nøgler til coprofile svampe
+
+cs90,0$Fusarium
+
+1,0$Kolonier ofte slimede lyserøde eller orange klatter. Vanskelige at bestemme til art. Mange arter er anamorfer af
+kødkernesvampe som fx arter af cinnobersvamp (Nectria).
+------------------------------------------------
+
+CS95,0$Nøgle F. Mugordenen_ Mucorales af Jens H. Petersen
+page 63
+
+
+Msp. dannes indvendigt i sporangier og frigøres ved at sporangievæggen henfalder. Enkelte arter spreder aktivt hele sporangiet (Pilobolaceae). Alle tegninger er lånt fra Ellis & Ellis (EE2).
+Nøgle til slægter.
+1,0$figure$$f"Coprofile_svampe_2001-3.jpg"
+1,2$[Sporangier med 1 spore men ofte siddende sammen i tætte flokke] (udseende ±„skimmel-agtigt“)
+1,7$[Med mange sporer i kugleformede eller cylindriske sporangier] (udseende ofte „mug-agtigt“)
+2,3$[Sporangiebærere ugrenede]
+2,4$[Sporangiebærere grenede]
+3,cs96$[Sporangiebærerens øvre del kugleformet].$Rhopalomyces_ s. 64$s"Rhopalomyces (Heliococephalidaceae)"
+3,cs97$[Sporangiebærerens øvre del cylindrisk].$Mycotypha_ s. 69$s"Mycotypha (Mycotyphaceae)"
+4,cs98$[Sidegrene sluttende i sterile spidser].$Chaetocladium_ s. 73$s"Chaetocladium (Thamnidiaceae)"
+4,5$[Sidegrene ikke med sterile spidser]
+5,cs99$[Grenender kugleformet opsvulmede].$Cunninghamella_ s. 63$s"Cunninghamella (Cunninghamellaceae)"
+5,6$[Grenender ikke opsvulmede]
+6,cs101$[Sporangier siddende i en „skål“ af krumme hyfer].$Klickxella_ s. 65$s"Klickxella (Klickxellaceae)"
+6,cs101$[Sporangier siddende i række som en lille kam].$Coemansia_ s. 64$s"Coemansia (Klickxellaceae)"
+------------
+7,8$[Sporangier ±cylindriske; sporangiesporer i en række]
+7,11$[Sporangier ±kugleformede; sporangiesporer hulter-til-bulter]
+8,cs102$[Sporangiebærernes sidegrene krumme eller spiralsnoede].$Dispira_ s. 63$s"Dispira (Dimargaritaceae)"
+8,9$[Sidegrene rette eller manglende]
+9,cs103$[Sporangiebærere skrøbelige, flere gange tvedelte].$Piptocephalis_ s. 71$s"Piptocephalis (Piptocephalidaceae)"
+9,10$[Sporangiebærere kraftige, ikke flere gange tvedelte]
+10,cs104$[Sporangier i reglen siddende på små sidegrene på et hoved; sporangiebærere opsvulmede ved basis; med rhizoider].$Syncephalis_ s. 72$s"Syncephalis (Syncephalastraceae)"
+10,cs105$[Sporangier siddende på et hoved uden sidegrene; sporangiebærere ikke opsvulmede ved basis; uden rhizoider].$Syncephalastrum_ s. 72$s"Syncephalastrum (Syncephalastraceae)"
+11,12$Sporangie med sej, sort væg; afkastes helt
+11,13$Sporangie uden sej, sort væg; sporangiesporerne spredes ved væggens henfald
+12,cs106$Sporangiebæreren afkaster sporangiet ved hjælp af overtryk.$Boldkaster (Pilobolus)_ s. 70$s"Boldkaster (Pilobolaceae)"
+12,cs107$Sporangiebæreren afsætter sporangiet på substratet ved at strække sig mange cm til substratet berøres og sporangiet$fastklæber. Pilaira_ s. 70$s"Pilaira (Pilobolaceae)"
+13,14$[Sporangiebærere med en hovedgren hvorpå der dels sidder et stort sporangium for enden, dels en eller flere grupper af små sidegrene med små sporangier længere nede ad grenen]
+13,17$[Sporangiebærere enten ugrenede eller med mere uregelmæssige forgreninger]
+14,cs108$[Sidegrene krumme].$Helicostylum_ s. 73$s"Helicostylum (Thamnidiaceae)"
+14,15$[Sidegrene ±rette]
+15,cs109$[Sidegrene sluttende i sterile spidser].$Chaetostylum_ s. 73$s"Chaetostylum (Thamnidiaceae)"
+15,16$[Sidegrene sluttende i sporangier]
+16,cs110$[Sidegrene med tvegreninger (dichotome forgreninger)].$Thamnidium_ s. 74$s"Thamnidium (Thamnidiaceae)"
+16,cs111$[Sidegrene ugrenede sparsomt, uregelmæssigt forgrenede].$Actinomucor_ s. 66$s"Actinomucor (Mucoraceae)"
+17,cs112$Sporangiebærere 40-300 mm lange, med metalglans.$Phycomyces_ s. 68$s"Phycomyces (Mucoraceae)"
+17,18$Sporangiebærere meget kortere, uden metalglanse
+18,cs90$[Msp. tilspidsede imod enderne].$Fusarium – s. 59
+18,19$[Msp. med butte ender]
+19,0$[Msp. i reglen siddende på små sidegrene på et hoved; sporangiebærere opsvulmede ved basis; med rhizoider]$se Syncephalis – s. 72
+19,0$[Msp. siddende på et hoved uden sidegrene; sporangiebærere ikke opsvulmede ved basis; uden rhizoider]$se Syncephalastrum – s. 72
+
+
+cs96,0$
+1,0$Heliococephalidaceae, Rhopalomyces Harder & Sörgel : Sporangiebærere op til 1 mm høje, ugrenede; med store, kugleformede hoveder med mange, små sporangier; [sporangier 1-sporede, placerede på små udvækster; msp. (ensporede sporngier) glatte].
+1,0$[Msp. (ensporede sporangier) 35-48 × 12-20 µm]. På ekskrementer og andre substrater.$Rhopalomyces elegans Corda
+1,0$[Msp. (ensporede sporangier) 50-60 × 25-35 µm]. På ekskrementer og arter af judasøre.$Rhopalomyces magnus Corda
+
+cs97,0$Mycotypha
+Mycotyphaceae
+Mycotypha Fenner
+1,0$Sporangiebærere 0,3 mm høje, i reglen ugrenede; sporangier grålige, siddende på den cylindriske øvre del af sporangiebæreren; [sporangier ensporede; msp. (ensporede sporangier) kugleformede, 2-4 µm]; på ekskrementer og andre substrater.$Mycotypha microspora Fenner
+
+cs98,0$Chaetocladium
+
+1,0$Thamnidiaceae , Chaetocladium Fresen : Sporangiebærere grenede til en krans af mindre sporangiebærere med ensporede, grålige sporangier og spidse, udragende hyfer; [sporangier ensporede; msp. ±kugleformede]; på andre arter af mugordenen (Mucorales); næppe alm.
+1,0$Sporangier med glat væg; [msp. 4-6 (-8) µm].$Chaetocladium brefeldii van Tieh. & G.Le Monn.
+1,0$Sporangier med vortet eller pigget væg; [msp. 6-10 (-13) µm].$Chaetocladium jonesii (Berk. & Br.) Fresen.
+
+cs99,0$Cunninghamella
+1,0$Cunninghamellaceae, Cunninghamella Matr.:Sporangiebærere op til 30 mm høje, ofte forgrenede med kransstillede smågrene, med kødrøde til gullige sporangiesporer på opsvulmede hoveder; [sporangier ensporede; msp. piggede til glatte].
+1,0$[Msp. (ensporede sporangier) piggede, 15-20 × 8-15 µm lange]. Sporangiebæere op til 15 mm høje; på ekskrementer af planteædere.$Cunninghamella echinulata (Thaxter) Thaxter
+1,0$[Msp. (ensporede sporangier) glatte eller noget ru, kugleformede, 7-11 µm brede eller ellipsoidiske og 9-13× 6-10 µm]. Sporangiebæere op til 30 mm høje; på ekskrementer af planteædere.$Cunninghamella elegans Lendner
+
+
+
+rem$cs100,0$Klickxella Coem.
+rem$1,0$Sporangiebærere op til 2 mm høje, opsvulmet og grenet i toppen, hvor der bæres mange små sporangier på den inadvendet side af hyferne; [sporangier ensporede; msp. (ensporede sporangier) ellipsoidiske, 9-10 (-15) × 3-4,5 µm]; på ekskrementer af planteædere.$Klickxella alabastina Coem.
+cf cs101
+
+
+
+cs101,0$Coemansia
+Klickxellaceae, Coemansia Tiegh & G.Le Monn : Sporangiebærere op til 4 mm høje, forgrenede, med sporangiesporer siddende tæt sammen som små kamme;
+[sporangier ensporede; sporangiebærer tæt septerede hvor sporangierne er fæstet; msp. glatte].
+1,0$Grene placeret i spiralstruktur; [msp. (ensporede sporangier), 6-11 µm lange]. Sporangiebæere op til 4 mm høje; især på ekskrementer af mus og flagermus.$Coemansia erecta Bainier
+1,0$Grene ensidige; [msp. (ensporede sporangier), 16-18 (-23) µm lange]. Sporangiebæere op til 2 mm høje; især på ekskrementer af and.$Coemansia scorpiodea Linder
+-----
+1,0$Sporangiebærere op til 2 mm høje, opsvulmet og grenet i toppen, hvor der bæres mange små sporangier på den inadvendet side af hyferne; [sporangier ensporede; msp. (ensporede sporangier) ellipsoidiske, 9-10 (-15) × 3-4,5 µm]; på ekskrementer af planteædere.$Klickxella alabastina Coem.
+
+cs102,0$Dispira
+1,0$Dimargaritaceae, Dispira van Tiegh. : Sporangiebærere op til 5 mm høje, flere gange grenet med snoede grene; endegrene sterile, sporangier bæres på opsvulmede hoveder længere nede ad grenene; [sporangier tosporede; msp. ellipsoidiske, 3,5-6 × 2-3 µm]; på ekskrementer af planteædere, især mus og kanin.$Dispira cornuta van Tiegh.
+
+
+cs103,0$Piptocephalis
+1,0$Piptocephalidaceae, Sporangiebærere op til 15 mm høje, grenede; med cylindriske, tørre eller slimede sporangier, der eventuelt sidder på noget opsvulmede ender af sporangiebærere; [sporangier med 2 til mange sporer placerede i række og opbrækkende ved modenhed; msp. glatte]. Type Piptocephalis cylindrospora P. repens
+
+1,0$[Sporangier 6-11- sporede]. Sporangiebærere op til 15 mm høje, med let opsvulmede ender; [med op til 25- 30 sporangier; msp. 4-7,5 ??2-2,5 µm]; parasitisk på arter af mug (Mucor) på ekskrementer af kanin.$Piptocephalis cylindrospora Bainier
+1,2$[Sporangier 2-6-sporede]
+2,0$[Sporangier konstant 2-sporede]. Sporangiebærere op til 10 mm høje med opsvulmede ender; [med op til 30, 2-sporede sporangier; msp. 4-6,5 ??2-2,5 µm]; på ekskrementer af kanin.$Piptocephalis lepidula (Marchal) Benjamin
+2,3$[Sporangier 2-6-sporede]
+3,0$[Sporangier 2-3-sporede]. Sporangiebærere med opsvulmede ender; [msp. 6-8 ??4-4,5 µm]; parasitisk på arter af mug (Mucor).$Piptocephalis arrhiza van Tiegh.
+3,4$[Spornagier 2-5 sporede]
+4,0$[Med udløbere]. Sporangiebærere op til 10 mm høje med opsvulmede ender; [med 4-5-sporede sporangier; msp. 4-8 ??3-4 µm]; parasitisk på arter af mug (Mucor).$Piptocephalis repens van Tiegh.
+4,0$[Uden udløbere]. Sporangiebærere op til 15 mm høje med opsvulmede ender; [med op til 30, 3-5-sporede sporangier; msp. 4-8 ??2-4 µm]; på ekskrementer af kanin.$Piptocephalis freseniana de Bary
+
+cs104,0$Syncephalis van Tiegh. & Le Monn.
+1,0$Syncephalis van Tiegh. & Le Monn. : Sporangiebærere oprette, ugrenede til grenede, op til 1 mm høje, opsvulmet i toppen, der kan være delt i smågrene ser bærer de talrige, cylindriske, flersporede sporangier; [msp. glatte].
+1,0$[Sporangier 5-12-sporede; msp. 4-9 ??2,5-4 µm]. Sporangiebærere op til 1 mm høje, bleggule; på arter af mug (Mucor) på ekskrementer.$Syncephalis depressa van Tiegh. & Le Monn.
+1,0$[Sporangier 2-5-sporede; msp. 8-10 ??4-6 µm]. Sporangiebærere op til 0,2 mm høje; på arter af mug (Mucor) på ekskrementer.$Syncephalis nodosa van Tiegh.
+
+cs105,0$Syncephalastrum
+Syncephalastrum J. Schröt.
+1,0$Sporangiebærere oprette, ugrenede til grenede, op til 15 mm høje, opsvulmet i toppen; med talrige, grålige sporangier; [sporangier cylindriske, 5-18-sporede med sporerne placerede på række; sporangiebærer med en stor, ±halvkugleformet kolumella; msp. glatte, kugleformede til bredt ellipsoidiske, 2-8 ??4-6 µm]; på ekskrementer og andre substrater.$Syncephalastrum racemosum Cohn & Schroet.
+
+cs106,0$cs106,0$Boldkaster_ Pilobolus
+1,0$Boldkaster_ Pilobolus Tode : Sporangiebærere op til 10 mm høje; opsvulmede mod toppen, glasklare eller gullige; sporangier kuglerunde, sorte, glinsende, afskydes aktivt; [msp. glatte]; alle arter på ekskrementer.
+1,2$[Msp. kugleformede] 
+1,3$[Msp. ±ellipsoidiske] 
+2,0$[Msp. 8-14 µm brede, tykvæggede]. Sporangiebærere op til 3 mm høje; hoved med orangerødt indhold.$Pilobolus oedipus Montagne
+2,0$[Msp. 12-20 µm brede, tyndvæggede]. Sporangiebærere op til 3 mm høje; hoved med orangegult indhold.$Pilobolus sphaerosporus (Grove) Palla
+3,0$[Msp. 6-12 ??4-7 µm]. Sporangiebærere op til 10 mm høje; hoved klart eller gulligt; m. alm.$Pilobolus crystallinus (Wiggers) Tode
+3,0$[Msp. 11-20 ??6-10 µm]. Sporangiebærere op til 5 mm høje; hoved med orangerødt indhold; næppe sj.$Pilobolus kleinii van Tiegh.
+
+cs107,0$Pilaira Tiegh.
+1,0$Pilaira Tiegh. : Sporangiebærere strækkende sig meget langt ved modenhed sådan at det kuglerunde, sorte sporangie kan afsætte på et nærværende substrat.
+1,0$[Msp. 8-10 ??6 µm, bredt ellipsoidieke]. På ekskrementer. Pilaira anomala (Ces.) Schroet.
+1,0$[Msp. 12-13 ??6-8 µm, ellipsoidiske til cylindriske]. På ekskrementer. Pilaira moreaui Ling Yong
+
+cs108,0$Helicostylum
+Helicostylum Corda
+1,0$Sporangiebærere op til 1 mm høje, med en stor hovedgren, der særer et stort sporangie samt bundter af små sidegrene med små sporangier; sporangier kuglerunde; [sporangier mangesporede; msp. ellipsoidiske, 5-9 ??4-6 µm]; på ekskrementer.$Helicostylum piriforme van Teigh.
+
+cs109,0$Chaetostylum
+1,0$Chaetostylum Tiegh. & G.Le Monn. : Sporangiebærere 10-30 mm høje, grenede til en krans af mindre sporangiebærere samt et stort, endestillet sporangie; sporangier kuglerunde, blegt gullige til grålige; sporangievæg henflydende ved modenhed; [sporangier
+1,0$mangesporede; sporangiebærer med aflang kolumella; msp. ellipsoidiske, 8-14 ??4-8 µm]; næppe alm.$Chaetostylum fresenii Tiegh. & G.Le Monn
+
+cs110,0$Thamnidium (Thamnidiaceae)"
+Thamnidium Link
+1,0$Sporangiebærere oprette, grenede, op til 20 mm høje; sporangier mangesporede, klare til grålige, dels med et stort, endestillet, kugleformet sporangie, dels med små sporangier på forgrenede sidegrene; [msp. glatte, 7-12 (- 15) ??5-8 µm]; på ekskrementer af kanin.$Thamnidium elegans Link
+
+cs111,0$Actinomucor
+Actinomucor Schostak
+1,0$Sporangiebærere 5-15 mm høje, grenede til en krans af mindre sporangiebærere samt et stort, endestillet sporangie, brunlig til grålig; sporangier kuglerunde; sporangievæg stjerneformet opsprækkende ved modenhed; [sporangier mangesporede; sporangievæg glat eller vortet; sprangiebærer med aflang kolumella; msp.kugleformede, 6-8 µm]; næppe alm.$Actinomucor elegans (Eidam) Benjamin & Hesseltine
+
+cs112,0$Phycomyces
+1,0$Phycomyces Kunze : Sporangiebærere 40-300 mm lange, ugrenede, med metalglans, sporangier kuglerunde; [sporangier mangesporede; med kolumella; msp. glatte].
+1,0$[Msp. 8-13 ??5-7,5 µm]. Sporangier olivengrå; [sporangiebærer ikke sammentrukket under sporangiet]; på ekskrementer og andre substrater.$Phycomyces blakesleanus Burgeff
+1,0$[Msp. 18-30 ??8-16 µm]. Sporangier gråblå, fint stribede; [sporangiebærer sammentrukket under sporangiet]; på ekskrementer.$Phycomyces nitens Kunze
+
+
+
+cs125,0$biblio
+1,0$: auteurs///Fire forfattere har leveret bidrag til disse nøgler: ///Pia Boisen Hansen har skrevet nøglerne til kuglesæksvampene (Plectomycetes).///Jan Vesterholt har skrevet nøglen til slægten blækhat (Coprinus).///Christian Lange har skrevet nøglerne til kernesvampene (Pyrenomycetes) og tyksæksvampene (Loculoascomycetes).///Jens H. Petersen har skrevet nøglerne til bægersvampordenen (Pezizales), koblingssvampene (Zygomycetes) og formgruppen af ascomycet-anamorfer – hyfomyceterne (Hyphomycetes). Nøglerne til de to sidstnævnte grupper er ret ukritisk omarbejdede fra Microfungi on Miscellaneous Substrates (EE2).
+1,0$bibliographie et illustrations///B: Bon, M. 1987 (The Mushrooms and Toadstools of Britan and North-western Europe); (side).///Bell: Bell, A. 1983 (Dung Fungi); (side).///BK1: Breitenbach, J. & F. Kränzlin 1981 (Pilze der Schweiz, bind 1); (figur).///BoT: Botanisk Tidskrift; (bind:side).///BW: Buczacki, S. & J.Wilkinson 1989; (side).///D: Dennis, R.W.G. 1978 (British Ascomycetes); (planche:figur).///EE1: Ellis & Ellis 1985 (Microfungi on Land Plants); (figur).///EE2: Ellis & Ellis 1988 (Microfungi on Miscellaneous Substrates); (figur).///JEL: Lange, J. E. 1935-1940 (Flora Agaricina Danica); (figur).///Jo: Jordstjärnan (bind (illustrationerne findes i reglen på omslaget)).///MHK: Michael, E. et al. 1977 -1981 (Handbuch für Pilzfreunde); (bind:figur).///MJ: Moser, M. & W. Jülich 1986 ff.; (figur).///ML: Lange, M. 1975 (Illustreret ekskursionsflora); (side).///NS: Lange, M. 1990 (Nordens svampe); (side).///P: Phillips, R. 1981 (Mushrooms); (side).///Pers: Persoonia; (bind:side).///RdM: Revista di Micologia; (årgang:side).///RH: Ryman, S. & I. Holmåsen 1984 (Svampar); (side).///S: Svampe; (bind:side).///ZfM: Zeitschrift für Mykologie; (bind:side).
+
+
+
+
+--------------------------------------------------------------------------------------------
+Nøgle D. Kuglesæksvampe
+
+cs140,0$Nøgle D. Kuglesæksvampe - Plectomycetes af Pia Boisen Hansen
+
+1,0$figure$$f"Coprofile_svampe_2001-4.jpg"
+1,0$Nøgle D. Kuglesæksvampe - Plectomycetes af Pia Boisen Hansen -En heterogen klasse af sæksvampe med +/- kugleformede frugtlegemer uden ostiole. Generelt for de her nævnte taxa er at frugtlegemerne er cleistothecier, der findes på substratet (ikke nedsænket i det) og de indeholder mange sække. Hos de fleste arter findes sækkene kun indtil sporerne modnes – de er flygtige. Efterfølgende forbliver sporerne typisk i 8-sporede grupper i nogen tid.///Bem.: Mål på frugtlegemer er diameteren uden eventuelle vedhæng. Oblate sp. har form som en ishockey-puck.
+
+1,cs150$Frugtlegemer stilkede.$Hornsvamp (Onygena)_ s. 51$s"Hornsvamp (Onygena)"
+1,2$Frugtlegemer siddende på substratet evt. indspundet i en hyfemåtte
+2,3$Frugtlegemer sorte, mangekantede, ellipsoidiske eller kugleformede
+2,5$Frugtlegemer hvidlige, gullige, rødlige, brune eller grønne, ellipsoidiske til kugleformede 
+3,cs151$Peridiet dannet af et net af differentierede hyfer omkring sporemassen.$Myxotrichum_ s. 53$s"Myxotrichum (Pseudeurotiaceae)"
+3,4$Peridiet en lukket membran dannet af kantede celler
+4,cs152$Frugtlegemer mangekantede, ellipsoidiske eller kugleformede; [vedhæng hos modne frugtlegemer sidder i knipper i „hjørnerne“ af frugtlegemet, vedhæng op til 1,5 mm lange].$Kernia_ s. 36$s"Kernia (Microascaceae)"
+4,cs153$Frugtlegemer kugleformede til næsten kugleformede; [vedhæng manglende].$Nigrosabulum_ s. 56$s"Nigrosabulum"
+5,6$Peridiet en lukket membran dannet af kantede celler, hos nogle arter under et lag af løse hyfer
+5,10$Peridiet dannet af et net af differentierede eller udifferentierede hyfer omkring sporemassen
+6,7$Frugtlegemer med vedhæng
+6,8$Frugtlegemer uden vedhæng
+7,cs154$[Vedhæng hårlignende, lige, bøjede eller snoede, op til 3 mm lange; peridiale hyfer mørkebrune til røde].$Arachnomyces_ s. 52$s"Arachnomyces (Onygenaceae)"
+7,cs155$[Vedhæng kamformede, 0,1 - 0,15 mm lange; det indre lag af peridiet membranagtige og tyndt, det ydre lag af peridiet består af et løst net af tykvæggede, orangebrune hyfer].$Ctenomyces_ s. 54$s"Ctenomyces (Gymnoascaceae)"
+8,cs156$[Sp. ellipsoidiske og glatte].$Pseudeurotium_ s. 56$s"Pseudeurotium (Pseudeurotiaceae)"
+8,9$[Sp. oblate, linseformede eller skiveformede, glatte eller ornamenterede]
+9,cs157$[Sp. gule til mørkebrune, oblate, linseformede eller skiveformede, glatte til netagtigt ornamenteret, med eller uden en ækvatorial forhøjning].$Aphanoascus_ s. 49$s"Aphanoascus (Onygenaceae)"
+9,cs158$[Sp. hyaline, gullige i mængder, linseformede, glatte eller ornamenterde, med eller uden en ækvatorial forhøjning].$Leucothecium_ s. 53$s"Leucothecium (Gymnoascaceae)"
+10,cs159$[Peridiale hyfer knogle-formede]; anamorfen henføres til Chrysosporium, Microsporum, Myceliophthora eller Trichophyton.$Arthroderma_ s. 54$s"Arthroderma (Arthrodermataceae)"
+10,11$[Peridiale hyfer ikke knogleformede]; anamorfen skal ikke henføres til Microsporum, Myceliophthora eller Trichophyton.
+11,12$[Sp. tenformede til bredt ellipsodiske, glatte eller med længdestriber]
+11,13$[Sp. runde til næsten runde, oblate, linseformede, citronformede eller med to ækvatoriale forhøjninger (trisseformede), glatte eller med netagtigt ornament, eller let ru med fremspring eller spidser]
+12,cs160$[Sp. med længdestriber; vedhæng distinkte]; frugtlegemer mørkerøde, grønne eller grå til sorte.$Myxotrichum_ s. 55$s"Myxotrichum (Myxotrichaceae)"
+12,cs161$[Sp. glatte; vedhæng ikke distinkte]; frugtlegemer gule til røde eller brune.$Pseudogymnoascus_ s. 55$s"Pseudogymnoascus (Myxotrichaceae)"
+13,14$[Peridiale hyfer differentierede og anderledes end de vegetative hyfer, favede og tykvæggede; vedhæng distinkte eller manglende]
+13,18$[Peridiale hyfer udifferentierede, hyaline eller farvede, tyk- eller tyndvæggede; vedhæng spiralsnoede eller manglende]
+14,cs162$[Sp. runde til næsten runde].$Auxarthron_ s. 50$s"Auxarthron (Onygenaceae)"
+14,15$[Sp. oblate til linseformede]
+15,cs163$[Vedhæng hyaline og spiralsnoede; peridiale hyfer irregulære og 3-15 µm i diam.].$Shanorella_ s. 51$sShanorella (Onygenaceae)"
+15,16$[Vedhæng manglende eller til stede, da gule, rødbrune eller brune; peridium manglende eller til stede, da med peridiale hyfer på op til 6 µm i diameter]
+16,cs164$[Vedhæng bådshage-formede eller manglende, sp. glatte].$Gymnoascus_ s. 53$s"Gymnoascus (Gymnoascaceae)"
+16,17$[Vedhæng ikke bådshage-formede, sp. glatte til netagtigt ornamenterede]
+17,cs162$[Sp. ornamenterede, let vortede til piggede eller med et netagtigt ornament, runde til næsten runde; lange vedhæng bispestavsformede, bøjede, rette eller manglende].$Auxarthron_ s. 50$s"Auxarthron (Onygenaceae)"
+17,cs166$[Sp. glatte til let vortede eller piggede, oblate, vedhæng bispestavsformede].$Uncinocarpus_ s. 51$s"Uncinocarpus (Onygenaceae)"
+18,19$[Sp. runde til næsten runde]
+18,20$[Sp. oblate, linseformede, citronformede eller med to ækvatoriale forhøjninger]
+19,cs167$[Vedhæng hyaline og spiralsnoede].$Apinisia_ s. 49$s"Apinisia (Onygenaceae)"
+19,cs168$[Vedhæng manglende].$Amauroascus_ s. 48$s"Amauroascus (Onygenaceae)"
+20,cs169$[Vedhæng hyaline og spiralsnoede; sp. oblate og let vortede eller piggede].$Shanorella_ s. 51$s"Shanorella ( Onygenaceae)"
+20,21$[Vedhæng manglende; sp. oblate, linseformede eller citronformede, med eller uden ækvatoriale forhøjninger eller kløfter]
+21,cs170$[Sp. linseformede, med to ækvatoriale forhøjninger (trisseformede), orange til gule].$Arachniotus_ s. 52$s"Arachniotus (Gymnoascaceae)"
+21,cs171$[Sp. oblate, med eller uden ækvatorial forhøjning eller kløft, hyaline til gule).$Gymnascella_ s. 52$s"Gymnascella (Gymnoascaceae)"
+
+
+cs150,0$Hornsvamp (Onygena)
+HORNSVAMPEORDENEN - ONYGENALES BENNY & KIMBR.
+1,0$Frugtlegemer bestående af et hoved siddende på en op til 2,3 cm lang, tynd stok, oftest i klynger, hvide til brungule, furede eller rynkede; [sp. hyaline til farvede, 4,3-7,8 µm × 2,3-3,8 µm, ellipsoidiske til allantoide]. På ekskrementer af rovdyr, uglegylp og fjer og andre dyrerester; hist og her. – Svampe 37: 21, BK1:374.$Fjersvamp (O. corvina Alb. & Schwein.: Fr.)
+
+
+cs151,0$Myxotrichum
+1,0$Myxotrichum Kunze: Fr. : Currah (1985) : Frugtlegemer mørke; [peridiet netagtigt, med lange septerede vedhæng; sp. ellispoide til tenformede, længdestibede]; på celluloseholdigt mteriale, ekskrementer og i jord. ///Litt.: Orr, G. F., Kuehn, H. H. & O. A. Plunkett 1963: The genus Myxothrichum Kunze (CJB 41: 1457-1480).
+1,0$[Vedhæng bispestavsformede; sp. ellipsoidiske til bredt ellipsoidiske]. På ekskrementer, cellulose-holdigt materiale eller i jord; sjælden- EE2: 410. M. chartarum (T.Nees: Fr.) Kunze [Vedhæng forgrenet; sp. tenformede eller bådformede]. På ekskrementer, cellulose-holdigt materiale og i jord; sjælden.$Myxotrichum deflexum Berk.
+
+
+cs152,0$Kernia Nieuwland
+1,0$Kernia Nieuwland Malloch/// Litt.: Malloch, D. & R. F. Cain 1971: The genus Kernia (CJB. 49: 855-867)
+1,0$Frugtlegeme kugleformet, ellipsoidisk, mangekantet eller irregulært formet, op til 0,4 mm i diam.(excl. vedhæng), sort, unge frugtlegemer med mange hyaline hyfer; ved modenhed findes hårlignende vedhæng i knipper fæstnet til „hjørnerne“, sorte, op til 1,5 mm lange, lige til spiralsnoede; [peridium tykvægget bestående af kantede, mørkt brune til sorte celler; sække ægformede til kugleformede, 8-sporede, 7-14 µm i diam., flygtige; sp. 4,5-7 × 3,5-4,5 µm, ellipsoidiske, gullige til brune, som unge dextrinoide]; på ekskrementer fx af får, dødt plantemateriale og i jord; sj. eller overset. - EE2: 406$Kernia nitida (Sacc.) Nieuwland
+
+cs 153,0$Nigrosabulum Malloch & Cain
+1,0$Nigrosabulum Malloch & Cain ///Litt.: Malloch, D. & R. F. Cain 1970. Five new genera in the new family Pseudeurotiaceae. Can. J. Bot. 48: 1815-1825.
+1,0$Frugtlegemer kugleformede til næsten kugleformede, sorte, glatte, 75-350 µm i diam.; [peridiet tykt, bestående af kantede, tykvæggede celler; sp. kuglerunde, 3-4 µm i diam. glatte, hyaline, ofte med små partikler tilhæftet væggen]. På ekskrementer af f.eks. får; hist og her.$Nigrosabulum globosum Malloch & Cain
+
+cs154,0$Arachnomyces
+1,0$Arachnomyces Massee & E.S.Salmon, Malloch & Cain (1969) ///Litt.: Malloch, D. & R. F. Cain 1969: The genus Arachnomyces (Can.J.Bot. 48: 839-845); Abbott, S. P., Sigler, L. & R. S. Currah 1996: Delimination, typification, and taxonomic placement of the genus Arachnomyces (Syst. Ascomyceteum 14(2): 79-85).
+1,0$Frugtlegemer kugleformede, rødbrune, 0,1-0,3 mm i diam; [peridiet bestående af kantede celler; med flere op til 2 mm lange hårlignende vedhæng (3,5-6 µm bredde); sp. 3,5-5 ??2-3 µm, glatte, runde til ellipsoidiske, rødbrun i mængder]. På ekskrementer og kompost; sjælden. - EE2: 371 A. nitidus Massee & E.S.Salmon
+
+cs155,0$Ctenomyces
+1,0$Ctenomyces Eidam, Currah (1985) Litt.: Orr, G. F. & H. H. Kuehn 1963: The genus Ctenomyces Eidam (Mycopath. et mycol. appl. 21: 321-333).
+1,0$Frugtlegemer kugleformede, orangebrune, 0,1-0,4 mm i diam.; [peridiet består af to dele: inderst en membran bestående af et tyndt lag af tætpakkede, orange hyfer, yderst et løst net af orangebrune, tykvæggede, 2,2-6 µm i diam. hyfer; vedhæng kamformede, 100-150 µm lange, bestående af 5 til 11 ru og krogede celler, udgår fra det yderste lag af peridiet; sp. lyst orange, linseformede, 1,5-2,6 ??2,5-3,6 µm]. I jord, på fjer og ekskrementer; hist og her. - EE2: 393$Ctenomyces serratus Eidam
+
+cs156,0$Pseudeurotium
+1,0$Pseudeurotium v. Beyma,Donsch m.fl. ///Litt.: Stolk, A. C. 1955: The genera Anixiopsis Hansen and Pseudeurotium van Beyma (Antonie van Leeuwenhoek 21: 65-79).
+1,0$Frugtlegemer kugleformede, mørkebrune, op til 0,2 mm i diam.; [peridiet glat, bestående af et enkelt lag af mangekantede, brune hyfer; sp. ellipsoidiske, 5,5-6 ??3,5-4 µm, glatte, først hyaline senere ved modenhed brune]. I jord og på ekskrementer; DK? - D: XLIV C; EE2: 433.$Pseudeurotium ovalis Stolk
+
+cs157,0$Aphanoascus 
+1,0$Aphanoascus Zukal, Currah (1985) : Frugtlegemer runde, gullige til brune, op til 0,5 mm i diam; peridiet membranagtigt, bestående af flere lag af kantede celler; sp. oblate, ornamneterede og med eller uden en ækvatorial forhøjning.
+Litt.: Cano, J. & J. Guarro 1990: The genus Aphanoascus (Mycol. Res. 94(3): 355-377).
+1,0$[Sp. glatte til let netagtigt ornamenterede ; anamorf henført til Malbranchea. På gylp, rovdyr-ekskrementer og i jord; sjælden eller overset.$Aphanoascus canadensis Currah
+1,0$[Sp. med et irregulært netagtigt ornamentent]; anamorf henført til Chrysosporium. På ekskrementer, især af ræv, på gylp, dyrerester og redemateriale eller i jord, almindelig.$Aphanoascus fulvescens (Cooke) Apinis , Anixiopsis fulvescens (Cooke) G.A.de Vires
+
+cs158,0$Leucothecium Arx & Samson
+1,0$Leucothecium Arx & Samson,Arx & Samson (1973)///Litt.: Arx, J. A. von & R. A. Samson 1973: Two new genera of the Eurotiales (Persoonia 7(3): 377-380); Uchiyama, S.; Kamiya, S. & S. Udagawa 1995: Five onygenalean fungi from Japan (Mycoscience 36: 211-220).
+1,0$Kolonier med frugtlegemer hvide til gullige; frugtlegemer kugleformede, hyaline til gullige, glatte eller svagt dunede, 0,1-0,4 mm i diam.; [peridiet bestående af kantede celler; sp. linseformede, hyaline, gule i mængder, fint vortede, med en ækvatorial kant, 2-3 ??1,5-2,5 µm]. I jord og på ekskrementer af f.eks. rådyr; DK?$Leucothecium emdenii Arx & Samson
+
+cs159,0$Arthroderma 
+1,0$Arthroderma Berk., Bem.: Slægten Arthroderma indeholder en lang række arter, som er vanskelige at adskille ud fra teleomorfen. Foruden den nedenstående art er også A. quadrifidum C.O.Dawson & J.C.Gentles almindelig i Danmark og kendt fra ekskrementer. Hos A. quadrifidum er multisepterede konidie almindelige. ///Litt.: Padhye, A. A. & J. W. Carmichael 1971: The genus Arthroderma Berkeley (Can.J.Bot. 49: 1525-1540).
+1,0$Frugtlegemer kugleformede, hvide til lyst gullige, 0,1-0,5 mm i diam.; [peridiet netagtig, dannet af hyaline, dichotomt forgrenede hyfer, i en spiralagtig form, hyferne består af håndvægtformede, ru celler (3-9 ??2-4 µm); vedhæng spiralsnoede, udgår fra den yderste del af peridiet; sp. hyaline, linseformede, 2,5-3,5 ??1,5-2,5 µm, gule når der er mange sammen]; multisepterde konidier manglende eller sjældne. På ekskrementer, dyrerester og i jord; almindelig.$Arthroderma curreyi Berk.
+
+cs160,0$Myxotrichum
+1,0$Myxotrichum Kunze: Fr.,Currah (1985) : Frugtlegemer mørke; [peridiet netagtigt, med lange septerede vedhæng; sp. ellispoide til tenformede, længdestibede]; på celluloseholdigt mteriale, ekskrementer og i jord.///Litt.: Orr, G. F., Kuehn, H. H. & O. A. Plunkett 1963: The genus Myxothrichum Kunze (CJB 41: 1457-1480).
+1,0$[Vedhæng bispestavsformede; sp. ellipsoidiske til bredt ellipsoidiske]. På ekskrementer, cellulose-holdigt materiale eller i jord; sjælden- EE2: 410. M. chartarum (T.Nees: Fr.) Kunze
+1,0$[Vedhæng forgrenet; sp. tenformede eller bådformede]. På ekskrementer, cellulose-holdigt materiale og i jord; sjælden. M. deflexum Berk.
+
+cs161,0$Pseudogymnoascus
+1,0$Pseudogymnoascus Raillo, Currah (1985)///Litt.: Orr, G. F. 1979: The genus Pseudogymnoascus (Mycotaxon 8: 165-173). : Frugtlegemer kugleformede, først hvide siden røde til brune, på til 0,3 mm i diam.; [peridiet dannet af et net af tykvæggede, ru, forgrenede, anastomoserende, hyfer med fortykkede sammenføjninger; vedhæng korte, op til 18 µm lange, tyndvæggede, glatte til vortede; sp. ellipsoidiske til tenformede, glatte, 2,8-4,7 ??1,3-3,3 µm, hyaline, lyserøde til røde eller brune i mængder]. I jord, på ekskrementer eller organisk materiale; hist og her. - EE2: 434$Pseudogymnoascus roseus Raillo
+
+cs162,0$Auxarthron
+1,0$Auxarthron G. F.Orr & Kuehn, Currah (1985) : Frugtlegemer kugleformede, gulbrune til rødbrune, op til 0,7 mm i diam.; [peridiet netagtigt, bestående af tykvæggede, rødlige, rustfarvede eller brune hyfer, glatte til vortede, septa fortykkede; vedhæng oftest til stede, tilhæftet peridiet ved omvendte Y-formede buer, septerede, sjældent forgrenede, spidser afrundede; længere vedhæng har simple, lige, bøjede, let krøllede eller krogformede spidser; sp. kugleformede til ægformede, hyaline, gule eller gulbrune, let vortede, piggede eller netagtigt ornamenterede, mindre end 5 µm]; i jord, på ekskrementer og andet dyrisk, keratinholdigt materiale. ///Litt.: Kuehn, H. H. & O.$Auxarthron Plunkett 1963: A new genus of the Gymnoascaceae with swollen peridial septa (Can.J.Bot. 41: 1439-1456).
+1,0$[Vedhæng mindre end 50 µm lange og lige]. På ekskrenmenter, træ i jord mm.; sjælden.$Auxarthron reticulatum (Zukal) G.F.Orr & Plunkett sensu Orr & Plunkett (1963) og Currah (1985)
+1,2$[Vedhæng større end 50 µm, lige, bøjede, bispestavsformede eller snoede] 
+2,0$[Vedhæng oftest bispestavsformede, 72-375 µm lange, omtrent af længde med diam. af frugtlegeme]. Frugtlegemer rosa til brunlige, 130-450 µm i diam.; [peridiet med mange spidse ender; sp. 3,2-4,8 ??3,2-4 µm]. På ekskrementer af f.eks. rådyr og mus. - EE2: 399$Auxarthron californiense G.F.Orr & Kuehn - Gymnoascus californiensis (G.F.Orr & Kuehn) Apinis)
+2,3$Vedhæng ikke bispestavsformede, oftest længere 
+3,0$[Vedhæng 300-600 µm, let bøjede til bugtede i spidserne]. Frugtlegemer brune, 310-675 µm i diam.; [peridiet med få spidse ender; sp. 2,4-3,6 µm]. På ekskrementer bl.a. af rådyr, DK?$Auxarthron compactum G.F.Orr & Plunkett
+3,0$[Vedhæng 20-1350 µm lange, krogede i spidserne]. Frugtlegemer brunlige eller rødbrune, 180-600 µm i diam.; [sp. 2,1-3,6 µm i diam.; vegetativt mycelium orange]. I jord og på ekskrementer bl.a. af dådyr; sjælden.$Auxarthron umbrinum (Boud.) G.F.Orr & Plunkett - Gymnoascus unbrinus Boud.
+
+cs163,0$Shanorella
+1,0$Shanorella R.K.Benj.///Litt.: Currah, R. S. 1985: Taxonomy of the Onygenales: Arthrodermataceae, Gymnoascaceae, Myxotrichaceae and Onygenaceae (Mycotaxon 24: 178-180); Benjamin, R. K. 1956: A new genus of the Gymnoascaceae with a review of the other genera (El Aliso 3: 319).
+1,0$Frugtlegemer gullige, op til 0,6 mm i diam., tæt indspundet i et uldent tomentum af hvide hyfer; peridiale hyfer irregulære i facon, glatte og tykvæggede om med hyaline, spiralsnoede vedhæng; sp. gullige, oblate, 2-3 ???-? µm, let ornamenterede]. På ekskrementer, især af rovdyr, på dyrerester og i jord; DK?$Shanorella spirotricha R.K.Benj.
+
+cs164,0$Gymnoascus
+1,0$Gymnoascus Baran., Currah (1985)///Litt.: Orr, G. F., Kuehn, H. H. & O. A. Plunkett 1963: The genus Gymnoascus Barenetzky (Mycopath. et mycol. appl. 21: 135-158); Arx, J. A. von 1986: The ascomycete genus Gymnoascus (Persoonia 13(2): 173-183).
+1,0$Frugtlegemer kugleformede, ofte i store klynger, gule til kobberfarvede eller grønlige, op til 0,6 mm i diam; [peridiet netagtigt, dannet af rødlige, gullige, grønlige eller brunlige, tykvæggede, glatte til ru hyfer; vedhæng forgrenede og krogede som bådshager; sp. oblate, gule til rødbrune, glatte, 3,2-4 ??1,4-2,4 µm]. På ekskrementer af især herbivorer, i jord, på plantemateriale og dyrerester; hist og her. - EE2: 400$Gymnoascus reessii Baran.
+
+cs165 = 162
+cs166,0$Uncinocarpus
+Uncinocarpus Sigler & G. F. Orr,Currah (1985) : 
+1,0$Frugtlegemer gule til rødbrune, kugleformede, 0,1-1,2 mm i diam.; [peridiet netagtigt, bestående af orange til orangerøde, sammenvævede hyfer; vedhæng krogformede, sjældent forgrenede, usepterede, 4-9 ??75-387 µm; sp. gullige, glatte, oblate, 1,5-3,2 ??1,5-5,5 µm]. På ekskrementer af bl.a. rådyr, dådyr og hund, på dyrerester og på træ; sjælden.$Uncinocarpus uncinatus (Eidam) Currah - Gymnoascus uncinatus Eidam
+
+cs167,0$Apinisia
+1,0$Apinisia La Tuche ///Litt.: Currah, R. S. 1985: Taxonomy of the Onygenales: Arthrodermataceae, Gymnoascaceae, Myxotrichaceae and Onygenaceae (Mycotaxon 24: 160); Guarro, J., Cano, J. & C. de Vroey 1991. Nannizziopsis (Ascomycotina) and related genera (Mycotaxon 42: 193-200).
+1,0$Frugtlegmer hvide, runde, op til 1,4 mm i diam.; [peridiet bestående af udifferentierede hyfer; vedhæng spiralsnoede; sp. kuglerunde, hyaline, 2,3 - 4,2 µm i diam., vortet til netagtigt ornamenterde. På ekskrementer og andet organisk materiale; DK?$Apinisia racovitzae (Lagarde) Guarro et al.
+
+cs 168,0$Amauroascus
+ 1,0$Amauroascus J. Schröet., Currah (1985) : Frugtlegemer hvide, gule eller brune, kugleformede eller næsten kugleformede op til 2,5 mm i diam.; [peridiale hyfer udifferentierede; sp. kugleformede, hyaline, gule, rødlige eller brune, med et netagtigt mønster, piggede udvækster eller ribbet overflade, 3,5-8,5 µm i diam.]. ///Litt.: Arx, J. A. von 1971: On Arachniotus and related genera of Gymnoascaceae (Persoonia 6(3): 371-380); Orr, G. F.; Kuehn, H. H. & E. Varsavsky 1966: The genus Amauroascus (Mycopath. et mycol. appl. 25: 100-
+108).
+1,0$Frugtlegemer hvide til creme, [peridiale hyfer hyaline og udifferentierede; sp. hyaline]. På dådyrekskrementer, i jord og på fjer; sjælden.$Amauroascus albicans (Apinis) Arx
+1,0$Frugtlegemer gule; [peridiale hyfer gule og spiralsnoede, sp. hyaline til gullige, gullige i mængder]. På ræve-ekskrementer, celluloseholdigt materiale eller i jord; sjælden.$Amauroascus aureus (Eidam) Arx
+
+cs169,0$Shanorella
+1,0$Shanorella R.K.Benj.///Litt.: Currah, R. S. 1985: Taxonomy of the Onygenales: Arthrodermataceae, Gymnoascaceae, Myxotrichaceae and Onygenaceae (Mycotaxon 24: 178-180); Benjamin, R. K. 1956: A new genus of the Gymnoascaceae with a review of the other genera (El Aliso 3: 319).
+1,0$Frugtlegemer gullige, op til 0,6 mm i diam., tæt indspundet i et uldent tomentum af hvide hyfer; peridiale hyfer irregulære i facon, glatte og tykvæggede om med hyaline, spiralsnoede vedhæng; sp. gullige, oblate, 2-3 ???-? µm, let ornamenterede]. På ekskrementer, især af rovdyr, på dyrerester og i jord; DK?$Shanorella spirotricha R.K.Benj.
+
+cs170,0$Arachniotus
+Arachniotus J.Schröet. Currah (1985) 
+1,0$Frugtlegemer rødorange eller teglrøde, kugleformede, op til 2 mm i diam.; [med eller uden peridium, hvis det findes bestående af få tyndvæggede, septerede irregulære hyfer; sække hyaline; sp. orangerøde eller røde, glatte, trisseformede, 4,5-5,5 ??3,5-4,5 µm]. I jord og på ekskrementer af f.eks. dådyr; sjælden. - EE2: 370$Arachniotus ruber (Tiegh.) J.Schröet.- Gymnoascus ruber Tiegh.
+
+
+cs171,0$Gymnascella
+1,0$Gymnascella Peck,Currah (1985)///Litt.: Orr, G. F.; Ghosh, G. R. & K. Roy 1977: The genera Gymnascella, Arachniotus, and Pseudoarachniotus (Mycologia 69: 126-163). 52_ nøgler til coprofile svampe
+1,0$. Frugtlegemer hvidlige, senere citrongule til grønlige eller brunlige, op til 0,2 mm i diam.; [peridiale hyfer sparsomme eller manglende, septerede, glatte, med tiden med farvede dråber; sp. citrongule, glatte, tykvæggede, oblate, med fortykkede pole, 4,9-6,7 ??2,2-4,6 µm]. I jord og på ekskrementer; DK?$Gymnascella citrina (Massee & Salmon) Orr, Ghosh & Roy - Arachniotus citrinus Massee & S.E.Salmon
+1,0$Frugtlegemer orange til rødbrune, op til 80 µm i diam.; [peridial hyfer udifferentierede, inkrusterede med orange krystaller; sp. gullige, glatte, oblate til linseformede, 4,2-5,7 ?????-????µm]. På ekskrementer, celluloseholdigt materiale og i jord; sjælden. G. confluens (Satory & Bainier) Currah$Arachniotus confluens (Satory & Bainier) Apinis

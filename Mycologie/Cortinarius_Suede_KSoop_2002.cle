@@ -1,0 +1,944 @@
+titre$cortinarius Suède K. Soop 2002 
+com$adapt GF nov 2016
+1,0$source : "Cortinarius in Sweden"  K. Soop  2002
+1,10$remarques préliminaires
+1,0$
+
+
+
+
+1,cs5$stipe viscid$$s" Myxacium"
+1,2$stipe dry
+2,3$cap viscid
+2,4$cap dry
+3,cs5$taste bitter, cap white to ochraceous, stipe without a marginate bulb$$s" Myxacium
+3,cs4$taste mild, or cap or stipe different..$$s" Phlegmacium
+4,5$cap distinctly hygrophanous
+4,6$cap weakly or not hygrophanous
+5,cs7$stipe slender "8 mm)$$s" Telamonia B
+5,cs6$stipe thicker$$s" Telamonia A
+6,cs2$frb entirely dark violet, cap felty, tomentose$$s" Cortinarius
+6,7$frh different
+7,cs3$gills with a grey, brown, or violaceous tinge$$s" Sericeocybe ss lato
+7,8$gills with an olive, yellow, orange, or red tinge
+8,cs1$stipe slender "8 mm)$$s" Dermocybe"
+8,0$stipe thicker$$s" Cortinarius ss lato"
+
+10,0$Please notice that the key is not binary. There are, in other words, often more than two alternatives, and one should check all before making the choice. The key contains many references between the subgenera. For example, certain species that lead to Sericeocybe in the main key, are later referred to Phlegmacium./// Sometimes the stipe measurement is used to distinguish between slender and robust species. It is then a question of the diameter of the upper part of the stipe on most mature specimens in a collection.
+
+
+Cs1,0$Dermocybe
+1,5$gills surface (not edge) orange
+1,25$gills surface rust to carmine-red
+1,10$gills surface yellow to greyish-yellow without a green tinge
+1,20$gills surface greenish-yellow to olive
+5,6$flesh yellow to yellow-brown
+5,7$flesh olive-brown to yellow-green
+6,0$cap evenly yellow-brown, gills lively orange$cinnamomeus
+6,0$cap umber, often zoned, gills brownish-orange$sommerfeltii
+7,27$gills surface brick-red to reddish-orange -> fervidus
+7,0$gills surface pure orange$malicorius
+10,11$cap wholly or partly brick-red
+10,13$cap yellow to brown
+11,0$in coniferous forest, stipe yellow-brown, often robust$speciosissimus (Cortinarius)
+11,12$in deciduous wood, stipe with red veil remnants, often slender
+12,0$under Salix, stipe fibrillose$uliginosus
+12,0$under Betula or Quercus, stipe red squamulose$bolaris (Sericeocybe)
+13,0$stipital base intensely reddish-orange$bataillei
+13,14$stipital base of a different shade
+14,16$stipe thin (<6 mm), with reddish veil remnants
+14,15$stipe more robust, often with brownish veil remnants
+15,0$cap yellow-brown, in coniferous forest or with Betula$croceus
+
+15,0$cap yellow, under Salix$cinnamomeoluteus
+16,0$cap often pointed, veil remnants reddish, with Picea$croceoconus
+16,17$cap obtusely umbonate to plane, veil remnants more brown to orange, with other trees
+17,0$veil red-brown, in alpine Betula forest, sp. elliptic, <9.5  µm $norvegicus
+17,0$veil orange-brown, in sandy Pinus forest, sp. fusoid, longer$aureifolius
+20,21$in swampy ground
+20,22$habitat different
+21,0$under Pinus, cap dark brown, alkaline reaction on gills brown to red-brown$palustris
+21,0$under Betula , cap yellow-brown, alkaline reaction on gills black brown$sphagneti
+22,0$stipe cylindrical, <8 mm$olivaceofuscus
+22,0$stipe clavate, more robust$Z-> subannulatus,venetus(Cortinarius)
+25,0$cap yellow-brown to date-brown$semisanguineus
+25,26$cap orange-brown to copper-brown
+25,0$cap dark red without a brown tinge$sanguineus
+26,0$stipe purplish-brown, cap hygrophanous$anthracinus (Telamonia B)
+26,27$stipe yellowish, cap not hygrophanous
+27,0$gills dark red, stipe pale with red bands$purpureus
+27,0$gills brick-red, stipe golden-yellow$fervidus
+
+
+Cs2,0$Cortinarius ss lato (incl. Leprocybe p.p.)
+
+1,0$cap dark violet$violaceus
+1,5$cap olive-yellow or greenish
+1,10$**cap olive-brown or brown without a red tint
+1,20$*** cap with a yellow, orange, or red tint
+5,0$cap glabrous, distinctly hygrophanous, gills brown with a green edge$colymbadinus
+5,6$cap fibrous, weakly or not hygrophanous, gills olive-brown
+6,7$stipe clavate
+6,8$stipe usually slender
+7,0$frb robust, in broad-leaf forest$eotoneus
+7,0$frb small to medium-size, in Picea or mixed forest$subannulatus
+8,0$frb medium-size, stipe olive-brown to red-brown$venetus
+8,0$frb small, stipe yellowish$Z-> sphagneti, olivaceofuscus (Dermocybe)
+10,0$gills with a green tinge$Z-> colymbadinus, venetus
+10,11$gills yellow or brownish without a green tinge
+11,0$stipe with purple to blackish-brown veil remnants$phrygianus
+11,0$stipe with tobacco to olive-brown veil remnants$Z-> raphanoides (Sericeocybe), cinnamomeus
+11,0$stipe with yellowish veil remnants$Z-> ochrophyllus (Sericeocybe), gentilis37
+20,21$cap pale with reddish veil remnants
+20,22$cap predominantly yellow to orange-yellow
+20,40$cap predominantly red-brown to orange-brown
+21,0$cap with red squamules$bolaris (Sericeocybe)
+21,0$cap with reddish fibers$rubicundulus
+22,0$stipe-base fiery red$caput-medusce
+22,30$stipe-base yellowish to brown
+30,42$gills conspicuously distant
+30,31$gills normally crowded
+31,32$cap with copious veil remnants, in Fagus forest
+31,33$cap sparsely fibrillose to glabrous, in coniferous forest
+32,0$cap and stipe squamulose, stipe tapering$humicola
+32,0$cap and stipe strongly fibrous, stipe clavate$tofaceus
+33,0$frb small, not hygrophanous$Z-> croceus (Dermocybe)
+33,34$frb medium-size or hygrophanous
+
+34,0$cap predominantly yellow, smell ± like stearine$callisteus
+34,35$cap orange-yellow to brown-yellow, smell trivial
+35,37$stipe with distinct, yellowish veil remnants
+35,36$veil white, sparse
+36,0$stipe fusoid, usually tapering, in Picea forest$intentus
+36,0$stipe clavate, in Pinus forest$pinophilus
+37,0$frb weakly hygrophanous, stipe fairly robust$limonius
+37,0$frb distinctly hygrophanous, stipe slender$gentilis
+40,0$cap usually hygrophanous, smell acidulous$Z-> helvolus (Telamonia A)
+40,41$cap not hygrophanous, smell faint, trivial
+41,0$gills red to brick-red$Z-> fervidus, purpureus (Dermocybe)
+41,42$gills yellow to orange
+42,0$cap often pointed, in coniferous forest$speciosissimus
+42,0$cap obtusely umbonate or plane, in broad-leaf forest$orellanus
+
+
+Cs3,0$Sericeocybe ss lato (incl. Telamonia ss auct p.p.)
+1,0$stipe with a membranous collar$Z-> caperatus (Phlegmacium)
+1,2$veil remnants fibrillose or absent on stipe
+2,40$cap with a violet, blue or purplish-brown tinge or with violaceous veil remnants$$s"* Cap with violaceous areas"
+2,3$cap without traces of violet or purple
+3,4$cap with red veil remnants
+3,10$cap white, or pale with a grey, pink, or yellow tinge$$s"*Cap pale without violet"
+3,70$cap brownish, incl. yellow-brown$$s"*Cap brown"
+4,0$cap pale with reddish squamules$bolaris
+4,0$cap yellow with red-brown fibrils$Z-> rubicundulus (Cortinarius)
+4,0$cap yellow-brown with red fringes$Z-> armillatus, craticius 96, 97
+
+* Cap pale without violet
+
+10,11$cap silky white when young
+10,30$cap yellowish-white to greyish-yellow
+11,13$gills with a violaceous tinge
+11,15$gills grey to brown
+11,0$gills white$Z-> argutus, balteatoalbus (Phlegmacium)
+13,0$cap buff to pink when older, dry$diabolicus
+13,0$cap grey-brown when older, often somewhat viscid$Z-> borgsjceensis (Phlegmacium), ortabularis, alboviolaceus32,51
+15,16$smell acidulous (like C. traganus)
+15,17$smell distinctive, different
+15,20$smell trivial
+16,0$gills cinnamon, occurring in summer$niveoglobosus
+16,0$gills yellow-brown occurring in autumn$traganus f. ochraceus
+17,0$stipe robust, fusoid, often strongly radicant, smell spicy$alborufescens
+17,0$stipe slender or clavate, smell unpleasant at first (like C. hinnuleus)$diosmus
+20,114$veil soon grey-brown -> canabarba
+20,21$veil at most flavescent
+21,22$flesh white (occasionally marbled violet)
+21,23$flesh brownish (occasionally marbled violet)
+22,0$stipe fusoid, in Fagus forest$turgidus
+22,0$stipe clavate, in Betula forest$subargentatus
+23,0$middle-sized to large species, in coniferous forest$suberi
+23,24$small species, in deciduous wood
+24,0$sp. typically < 9 x 5.5 µm $urbicus
+24,0$sp. typically larger$arvalis
+30,31$gills yellow to brown, cap dry
+30,32$gills pale, cap often viscid
+31,34$gills brick-brown
+31,23$gills grey-brown to cinnamon
+31,33$gills yellowish
+32,0$stipe slender to clavate, not radicant, under Betula$tabularis
+32,0$stipe fusoid, radicant, hard, under Populus tremula$Z-> argutus (Phlegmacium)
+33,94$cap fibrous, stipe slender -> ochrophyllus
+33,34$* cap ± glabrous, stipe fusoid to clavate -> intentus, pinophilus (Cortinarius)
+34,0$veil greyish-yellow, with Pinus$cremeolaniger
+34,0$veil white, with Betula or Quercus$lanigeroides
+
+* Cap with violaceous areas
+
+40,41$smell strong, often unpleasant
+40,50$smell nil or trivial
+41,42$flesh with violaceous areas
+41,43$flesh brownish without violet
+42,0$smell acetylene-like, stipe without distinct collar$camphoratus
+42,43$* smell acidulous (like C. traganus), stipe often with a collar -> agathosmus (Telamonia A)
+43,0$cap violet when young$traganus
+43,0$cap predominantly cinnamon, even when young$calopus
+50,51$stipe with distinct, white to grey veil remnants, sp. usually oblong
+50,60$stipe with yellowish, reddish to brownish or no veil remnants, sp. usually ± subglobose$$s"*Veil yellow/red/brown or sparse"
+51,0$cap shiny white to violet, often somewhat viscid, under Betula$alboviolaceus
+51,52$cap predominantly grey-brown, dry, tree host different
+52,0$stipe often bulbous, gills crowded, under Pinus$quarciticus
+52,53$stipe clavate to equal, gills not conspicuously crowded, tree host different
+53,54$cap grey-brown with a faint violaceous tinge, veil white
+53,0$cap dark brown to purplish-brown, veil grey$violaceocinereus
+54,0$under Populus tremula$lucorum
+54,55$under Betula or conifers
+55,56$cap dry, sp. <11 µm 
+55,0$cap slightly viscid, sp. longer$Z-> borgsjceensis (Phlegmacium)
+56,0$with Picea, sp. >8.5 µm $malachius
+56,0$with Betula or Pinus, sp. shorter$simulatus
+
+*Veil yellow/red/brown or sparse
+
+60,0$flesh blushes when bruised$cyanites (Phlegmacium)
+60,0$flesh darkens to brownish-black during development$Z-> ectypus74
+60,61$flesh neither blushes nor blackens
+61,64$stipe slender, with red to red-brown tufts or squamules
+61,62$stipe slender, with sparse, yellow-brown to ochraceous-yellow veil remnants
+61,0$stipe fairly robust, with a thin, grey-brown ring$caninus
+62,63$cap dark greyish-violet, gills intensely violet
+62,0$cap buff with a violaceous tinge, gills with a violaceous tinge$anomalus
+63,0$smell faint, under Betula$azureus
+63,0$smell strong, aromatic, usually in broad-leaf forest$azureovelatus
+64,0$with Pinus, sp. mostly >8.5 µm , elliptic$anomalellus
+64,0$in other habitats, sp. shorter, subglobose$spilomeus
+
+*Cap brown 
+
+70,90$stipe with distinct veil remnants$$s"*Veil distinct"
+70,71$stipe with hazy or no veil remnants
+71,72$stipe slender
+71,73$stipe robust, clavate (base occasionally pointed)
+72,0$cap dark brown, occasionally with an olive tinge, in Picea forest$valgus
+72,0$cap pale brown to yellowish-grey, in Betula forest$Z-> tabularis, anomalus
+73,74$frb darkening during development
+73,76$frb not conspicuously dark when mature
+74,0$frb blackens (recalls C. brunneus), in Picea forest, sp. small (< 8  µm )$ectypus
+74,75$frb turns dark brown to grey, in broad-leaf forest, sp. longer
+75,0$cap hazel-brown with greyish-white fibers$aprinus
+75,0$cap dark chocolate brown, ± glabrous$strenuipes
+76,61$gills with a violaceous to purple tinge -> caninus
+76,77$gills without a violet tinge
+77,78$cap fibrillose, grey-brown to pale red-brown
+77,0$cap ± glabrous, yellow-brown$Z-> intentus, pinophilus (Cortinarius)
+78,0$sp. rounded, <7  µm $suillus
+78,0$sp. differently shaped, longer$Z-> crassus, russus, norrlandicus, vacciniophilus (Phlegmacium)
+
+*Veil distinct
+
+90,91$veil at least partly violaceous
+90,100$$$s"*veil white"
+90,92$veil coloured differently
+91,0$gills ochraceous, smell distinct, acidulous$Z-> calopus43
+91,0$gills saturated brown to red-brown, smell faint$solis-occasus
+92,95$veil with a red tint
+92,93$veil yellow to yellow-brown
+92,0$veil olive-brown$raphanoides
+92,110$veil with a different brown colour
+93,0$smell distinct, acidulous, stipe with a membranous collar$Z-> ionophyllus (Telamonia A)
+93,94$smell trivial, stipital veil fibrous
+94,0$cap greyish-yellow to ochraceous, occasionally with an olive tinge, gills ochraceous$ochrophyllus
+94,0$cap mahogany-brown to umber, gills violet$lepidopus
+95,97$flesh white to pale buff, occasionally with a rose or violaceous tinge
+95,96$flesh cinnamon to dark brown
+96,0$stipital veil as cinnabar girdles, under Betula$armillatus
+96,0$stipital veil as pink to brown-red ± distinct girdles, primarily under Picea$paragaudis
+
+97,0$stipital veil as red to red-brown squamules or tufts$Z-> spilomeus64
+97,0$stipital veil as a carmine to fiery-red, thin coating$craticius
+
+ *Veil white
+
+100,103$gills with a violaceous or purple tinge
+100,101$gills brick-red to pale brown without a violaceous tinge
+101,34$cap completely creamy-white when young -> cremeolaniger
+101,102$cap partly covered by white veil remnants when young
+101,0$cap glabrous or coated thinly white when young$Z-> bivelus (Telamonia A)
+102,0$gills brick to red-brown, in Picea forest$laniger
+102,0$gills cinnamon, in broad-leaf forest$pseudofirmus
+103,0$cap centre yellow-ochraceous when mature, sp. <8.5  µm $poppyzon
+103,55$cap centre duller coloured, sp. longer
+,Veil brown to brownish-grey
+110,111$stipe with brownish squamules
+110,112$velar remnants different
+........
+111,0$cap covered by brownish squamules$pholideus
+111,0$cap glabrous or innately fibrillose$Z-> spilomeus64
+112,0$veil vinaceous to red-brown$Z-> paragaudis96
+rem$112,92$veil brownish with an olive tinge$Z-> raphanoides
+112,0$veil brownish with an olive tinge$Z-> raphanoides
+112,113$veil brown without a trace of red or olive
+113,0$veil dark brownish-grey, sp. >10 µm , coarsely verrucose$fuscoperonatus
+113,114$veil pale at first, sp. mostly shorter, moderately to strongly verrucose
+114,0$cap ± glabrous, often hygrophanous, veil at first pale yellow-brown$bovinus
+114,0$cap shaggy, not hygrophanous, veil at first greyish$canabarba
+
+
+
+
+
+Cs4,0$Phlegmacium
+................................
+
+1,110$gills yellow to citrinous$$s"* Gills yellowish"
+1,2$gills with an olive or green (not greenish-yellow) tinge
+1,60$gills bluish-grey to violet, or with a violet edge$$s"*Gills with a violaceous tinge"
+1,10$gills white, grey, or pale brown, without a violet tinge$$s"*Gills pale"
+2,3$taste ± bitter, cap not hygrophanous
+2,0$taste mild, cap often with hygrophanous areas$scaurus
+3,0$stipe yellowish, smell leathery, gills fairly distant$subtortus
+3,0$stipe white to grey-brown, smell trivial, gills crowded$infractus
+
+* Gills pale
+
+10,0$stipe with a membranous collar$(Rozites) caperatus
+10,11$stipe with brownish veil remnants, no collar
+10,20$stipe with white, violet, or no veil remnants, no collar$$s"*Veil pale or violaceous"
+11,12$stipe with a ± marginate bulb
+11,13$stipe cylindrical to clavate
+12,0$cap soon dark brown$dalecarlicus
+12,33$cap red-brown -> napus
+12,0$cap yellow to pale brown$Z-> corrosus, caesiocortinatus 34,88
+13,14$veil remnants yellow to olive-brown
+13,15$veil remnants yellow-brown to date-brown
+13,0$veil remnants vinaceous$papulosus
+14,0$in Fagus or Corylus wood, sp. > 9.5  µm $vitellinopes
+14,0$in Picea or Quercus forest, most sp. shorter$cliduchus
+15,0$under Betula, stipe with yellow-brown girdles$triumphans
+15,0$under Populus tremula, stipe with yellow bands$populinus
+15,0$in alpine heath with dwarf Salix, stipe with brown bands$durus
+15,16$in Picea forest, stipe with yellow-brown to grey-brown bands or fibrils
+16,0$cap distinctly viscid, glabrous, warmly date-brown$saginus
+16,17$cap soon dry, ± fibrous, grey-brown to ochraceous
+17,0$flesh brownish, sp. <10 µm $norrlandicus
+17,18$flesh white, sp. longer
+18,0$cap pale ochraceous, frb robust, precocious$latus
+18,0$cap dully grey-brown, frb medium-size, often late in autumn$vaceiniophilus
+
+*Veil pale or violaceous
+
+20,21$stipe with ± marginate bulb
+20,35$stipe cylindrical to clavate$$s"*Stipe-bulb immarginate"
+21,22$in deciduous wood
+21,30$in coniferous forest
+22,0$smell of honey, cap normally pale$ochropallidus
+22,0$smell strong, nauseating, ± like Hebeloma sacchariolens, cap ochraceous$osmophorus
+22,23$smell faint, trivial, cap yellow to yellow-brown
+23,88$cap ± bright yellow -> ccesiocortinatus
+23,0$cap honey-yellow, often with white veil patches$langei
+23,24$cap brownish-yellow to greyish-yellow, veil sparser
+24,97$cap distinctly hygrophanous, flesh usually with a brownish tinge -> camptoros
+24,25$cap not hygrophanous, flesh whitish
+25,0$cap glabrous, frb usually large$saporatus
+25,0$cap finely but distinctly radially striate, frb medium-sized$polymorphus
+30,0$flesh brownish$parherpeticus
+30,31$flesh ± white
+31,34$cap pale
+31,32$cap with yellow to red-brown tints
+31,93$cap grey-brown to dark brown -> pseudoglaucopus
+32,0$cap yellow to brown-yellow, glabrous to finely innate fibrillose$multiformis
+32,33$cap orange to red-brown, fibrous
+33,0$cap orange to orange-brown, sp. <10 µm $aurantiacus
+33,0$cap red-brown, most sp. longer$napus
+34,67$flesh bitter in cap, frb often slender -> amarescens
+34,0$taste mild, frb robust$corrosus
+
+* Stipe-bulb immarginate
+
+35,0$cap entirely blue to violet or greyish-violet$cumatilis
+35,40$cap white, grey, or greyish-yellow$$s"*Cap pale"
+35,36$cap yellow to ochraceous
+35,50$cap brown to red-brown, occasionally partly violaceous$$s"*Cap brown"
+36,0$stipe tall, hard, with distinct, white girdles$claricolor
+36,37$stipe different, usually with sparse or no veil remnants
+37,0$flesh white, cap viscid$turmalis
+37,40$* flesh yellowish, cap dry -> intentus, rubicundulus (Cortinarius)
+
+*Cap pale
+
+40,41$stipe fusoid, tenacious
+40,43$stipe equal to clavate, not tenacious
+41,0$stipe ± glabrous, under Populus tremula$argutus
+41,42$stipe with a white sheath, in broad-leaf forest
+41,45$stipe fibrous, in Picea forest -> fraudulosus
+42,0$flesh not yellowing, with Fagus$vulpinus
+42,0$flesh rapidly yellowing, with Carpinus or Corylus$pseudovulpinus
+43,0$veil distinctly violet$borgsjoeensis
+43,44$veil white to pale ochraceous, or evanescent
+44,47$frb small, in Pinus forest
+44,0$frb medium-size with a slender stipe, under Betula$Z-> tabularis (Sericeocybe)
+44,45$frb robust with a clavate stipe, in coniferous forest
+45,0$sp. mostly >12 µm  $fraudulosus
+45,46$sp. shorter
+46,48$alkaline reaction intensely yellow
+46,0$alkaline reaction trivial$fraudulosus var. rosargutus
+47,0$cap dry, alkaline reaction distinctly yellow$Z-> pinophilus (Cortinarius)
+47,64$cap viscid, alkaline reaction weak -> leucophanes
+48,0$veil white$balteatoalbus
+48,18$veil soon darkening to brownish
+
+*Cap brown
+
+50,54$cap ± viscid, cap and/or stipe often with a violaceous to purple tinge, at least young
+50,51$cap dry, frb without a trace of violet
+51,0$taste unpleasant, stipe soon brownish$russus
+51,52$taste faint, pleasant, stipe pale
+52,0$cap buff to brick-brown, sp. ovoid$crassus
+52,53$cap paler brown, sp. amygdaloid
+53,0$sp. <10  µm , gills greyish$subcompactus
+53,18$sp. longer, gills often with a faint violet tinge -> vacciniophilus
+54,0$cap grey-brown, weakly viscid$balteatus
+54,55$cap with wanner hues, distinctly viscid
+55,0$cap and stipe with copious veil remnants, cap-margin often sulcate$prcestans
+55,56$veil remnants sparse, cap-margin smooth
+56,0$cap red-brown without a violaceous tinge$variegatus
+56,57$cap date-brown without a violaceous tinge
+56,58$cap buff to dark brown with a violet margin
+57,0$lower stipe intensely violet$violaceomaeulatus
+57,0$stipe white to brownish$spadiceus
+58,59$gills greyish-white
+58,74$gills often faintly greyish-violet
+59,0$stipe robust, often bulbous, in deciduous wood$balteatocumatilis
+59,0$stipe slender to clavate, in Picea forest$serarius
+
+*Gills with a violaceous tinge
+
+60,61$cap white to pale yellowish-grey
+60,70$cap wholly or partly bluish-grey to violet or purplish-brown$$s"*Cap with a violaceous tinge"
+60,85$cap yellow to brownish without a violaceous tinge$$s"*Cap yellow/brownish"
+61,62$flesh ± bitter, at least in cuticle
+61,63$flesh mild
+62,0$in Fagus forest, smell usually strong, fruity$antcenolens
+62,67$in Picea forest, smell faint
+63,64$stipe clavate or with a rounded bulb
+63,65$stipe with a wide, marginate bulb
+64,71$under Betula, stipe violet when bruised -> porphyropus
+64,0$in Pinus forest, stipe at most faintly yellow when bruised$leucophanes
+65,83$in Picea forest -> spectabilis
+65,66$in broad-leaf forest
+66,0$cap grey to pale brown$ccerulescentium
+66,0$cap creamy-white$rickenianus
+67,0$cap ± fibrillose, stipe at least partly violaceous$ccesiostramineus
+67,0$cap glabrous, stipe pale, whitish$amarescens
+
+*Cap with a violaceous tinge
+
+70,0$flesh blushes reddish when bruised$cyanites
+70,71$flesh turns darker violaceous when bruised
+70,72$flesh changes but little when bruised
+71,0$stipe clavate, cap argillaceous, occasionally with violet stains$porphyropus
+71,0$stipe with ± marginate bulb, cap dark brown with a purple tinge$purpurascens
+72,55$cap and stipe with copious veil remnants prcestans
+72,73$veil sparse
+73,77$stipe with a marginate bulb
+73,74$stipe clavate
+74,75$cap centre dark brown
+74,0$cap centre pale blue to pale brown$largus
+75,76$cap glabrous to tomentose, sp, mostly <11.5 µm 
+75,0$cap squamulous to tomentose, sp. longer$balteatotomentosus
+76,0$frb robust, cap often >7 cm, glabrous$variecolor
+76,0$frb smaller, cap ± tomentose$acidophilus
+77,82$cap saturated violet
+77,78$cap greyish-violet to almost white
+77,81$cap buff to incarnate or rosy
+77,0$cap dominating dark red-brown with an olivaceous tinge$ionodactylus
+77,0$cap dominating greenish-olivaceous$ionochlorus
+78,79$cap with dominating violaceous tinge, fading to ochre or grey
+78,83$cap pale, grey to ochre
+79,0$in Picea forest$ccesiocanescetts
+79,80$in broad-leaf forest
+80,0$odour strong, sweetish$suaveolens
+80,0$odour trivial or nil$cierulescens
+81,0$stipe intensely lilac, in coniferous forest$dibaphus
+81,0$stipe white with a lilac bulb-margin, in broad-leaf forest$arcuatorum
+82,0$stipe usually slender, alkaline reaction intensely red on cuticle$sodagnitus
+82,0$stipe robust, alkaline reaction trivial$terpsichores
+83,0$in broad-leaf forest$Z-> amoenolens, ccerulescentium, rickenianus 62,66
+83,0$in coniferous forest$spectabilis
+
+*Cap yellow/brownish
+
+85,86$stipe with a distinctly marginate bulb
+85,100$stipe clavate or with a vaguely marginate bulb$$s"*Stipe-bulb immarginate"
+86,90$cap with an olive tinge at least at margin$$s"*Stipe-bulb marginate, cap with an olive tinge"
+86,87$cap without an olive tinge
+87,32$cap red-brown to ochraceous, veil white -> multiformis forma
+87,33$cap red-brown to orange-brown, veil violaceous, cf. napus
+87,88$cap yellowish, veil yellow-brown to olive-yellow
+88,0$cap brightly yellow, gills faintly violaceous, sp. subglobose$ccesiocortinatus
+88,90$cap dark yellow, gills distinctly violet, sp. oblong
+
+*Stipe-bulb marginate, cap with an olive tinge
+
+90,91$cap glabrous to finely innate fibrillose
+90,94$cap fibrous to radially striate
+91,0$cap predominantly yellow, occasionally with an olive tinge at margin$calochrous ss lato
+91,92$cap grey-brown to olive-brown
+92,96$flesh when young predominantly violaceous
+92,93$flesh mainly pale or brownish
+93,2$cap often somewhat hygrophanous, veil greenish ->scaurus var. herpeticus
+93,0$cap not hygrophanous, veil yellow to violaceous$pseudoglaucopus
+94,0$alkaline reaction strongly red on cuticle$aureopulverulentus
+94,95$alkaline reaction weak
+95,0$taste (and usually smell) distinct, farinaceous, sp. >9 µm $dionysce
+95,0$taste trivial, sp. shorter$glaucopus
+96,97$cap ± hygrophanous, in broad-leaf forest
+96,106$cap not hygrophanous, in coniferous forest ->fulvoochrascens
+97,0$taste bitter, alkaline reaction red on bulb margin$caisiogriseus
+97,0$taste mild, alkaline reaction trivial$camptoros
+
+*Stipe-bulb immarginate
+
+100,103$stipe with white to pale-brown veil remnants
+100,101$stipe with yellow-brown to date-brown veil remnants
+100,105$stipe with violaceous or indistinct veil remnants
+101,15$under Betula, gills fugaciously violet -> triumphans
+101,0$in broad-leaf forest, gills distinctly violet$variiformis
+103,104$cap soon dry, stipe cylindrical to clavate
+103,0$cap distinctly viscid, stipe usually tapering$Z-> vulpinus, claricolor var. immissus 42,36
+104,0$cap grey-brown to yellow-brown$patibilis
+104,57$cap mahogany-brown -> spadiceus
+105,107$cap warmly yellow-brown, flesh white to slightly violaceous
+105,106$cap grey-brown to greyish-yellow, flesh predominantly violaceous when young
+106,0$veil violet, in broad-leaf forest$argenteolilacinus
+106,0$veil brownish or invisible, in coniferous forest$fulvoochrascens
+107,0$cap golden yellow-brown, stipe pure white$varius
+107,0$cap darker, stipe faintly violaceous$spadicellus
+
+* Gills yellowish
+
+110,120$stipe with a marginate bulb$$s"*Stipe-bulb marginate"
+110,111$stipe cylindrical to clavate
+111,0$smell ± of banana or apple, in broad-leaf forest$nanceiensis
+111,112$smell strong, different, in calcareous Picea forest
+111,0$smell faint, trivial, primarily in acid Pinus forest$amurceus
+112,0$smell pleasant of "lemon cake", veil olive-brown$percomis
+112,0$smell of "boiled beets", veil soon purplish-brown$mussivus
+
+*Stipe-bulb marginate
+
+120,121$cap-centre orange or red-brown to copper-brown when mature
+120,130$cap-centre yellow to yellow-brown or greenish without a reddish tinge$$s"*Cap without a reddish tinge"
+121,0$smell of aniseed$odorifer
+121,122$smell different or nil
+122,125$cap copper-red when mature
+122,123$cap predominantly orange
+123,0$cap-margin orange-brown$olearioides
+123,124$cap-margin citrinous
+124,0$in coniferous forest$aureofulvus
+124,126$in broad-leaf forest
+
+125,0$in coniferous forest, alkaline reaction green at first, then red-brown$orichalceus
+125,0$in broad-leaf forest, alkaline reaction yellowish$rufoolivaceus
+126,127$frb without green tints
+126,142$cap and bulb-margin with a green shade -> prasinus
+127,0$flesh with violaceous regions, sp. <11 µm $cedretorum
+127,0$flesh usually devoid of violaceous tints, sp. longer$elegantissimus
+
+*Cap without a reddish tinge
+
+130,140$flesh intensely yellow to greenish-yellow
+130,131$flesh pale, white to greyish-yellow, occasionally with a faint citrinous tone
+131,132$smell and taste trivial
+131,133$smell and/or taste well-defined, distinct
+132,0$in broad-leaf forest$quercilicis
+132,0$in coniferous forest$elegantior
+133,0$smell spicy, like incense or parsley, in coniferous forest$sulfurinus
+133,0$smell of lemon or apple, in broad-leaf forest$aurilicis
+133,0$smell and/or taste farinaceous, in broad-leaf forest$flavovirens
+140,0$cap violaceous at least at margin$xanthophyllus
+140,141$cap without a violet shade
+141,146$cap yellow to yellow-brown
+141,142$cap with a green tinge
+142,143$cap yellowish-green to olive, in Quercus or Fagus forest
+142,0$cap centre yellow-brown, mainly under Quercus$prasinus
+142,0$cap dark green, in coniferous forest$atrovirens
+143,0$odour strong, sweetish$odoratus
+143,144$odour trivial or nil
+144,145$gills olive-yellow, cap dull olivaceous
+144,0$gills saturated brown, cap brighter, more yellow$fulvocitrinus
+145,0$frb robust, cap often >8 cm, sp. >11 µm , under Quercus$xanthochlorus
+145,0$frb smaller, sp. shorter, under Fagus$citrinus
+146,148$alkaline reaction intensely red on cuticle
+146,147$alkaline reaction trivial
+147,0$in Picea forest, frb usually robust, smell often strong, phlegmacioid$meinhardii
+147,0$in broad-leaf forest, frb slender, smell trivial$splendens
+148,0$stipe and flesh saturated yellow$alcalinophilus
+148,0$stipe and flesh paler yellow$claroflavus
+
+
+Cs5,0$Myxacium
+.....................
+
+1,2$taste bitter, at least in cuticle
+1,10$taste mild$$s"*Taste mild"
+2,3$stipe glutinous
+2,4$stipe tacky to weakly viscid
+3,0$cap apricot-yellow to apricot-brown, flesh pale$vibratilis
+3,0$cap and flesh saturated yellow$pluvius
+4,5$cap white or pale red-brown
+4,0$cap with blue elements$croceocceruleus
+4,6$cap yellow-brown to darker brown without blue
+5,0$cap white frosty, later pale red-brown, only cuticle bitter$causticus
+5,8$cap white, flesh bitter
+6,10$flesh mild, hygrophanous -> vespertinus
+6,7$flesh bitter, not or weakly hygrophanous
+7,0$frb robust, cap lively orange-brown to yellow-orange$duramarus
+7,0$frb slender, cap grey-brown to dark brown$pluviorum
+8,0$in coniferous forest, alkaline reaction nil$barbatus
+8,0$with Fagus, alkaline reaction reddish$ochroleucus
+
+*Taste mild
+
+10,0$cap merely weakly viscid or waxy$vespertinus
+10,11$cap viscid to glutinous
+11,22$cap with violaceous to blue elements occasionally partly yellow)
+11,20$cap yellowish without blue$$s"*Cap with a yellow or blue tinge"
+11,30$cap brownish without blue$$s"*Cap brownish"
+11, 0$*** cap greenish$Z-> atrovirens Phlegmacium)
+
+*Cap with a yellow or blue tinge
+
+20,21$veil with a distinctly yellow tinge, under Betula or Quercus
+20,0$veil white, in Fagus or Pinus forest$arvinaceus
+21,0$cap pale yellow to egg-yellow or olive-yellow, medium-size$delibutus
+21,0$cap greyish-yellow, usually <4 cm$Z-> betulinus 23
+22,0$cap frankly blue when young, stipe white to bluish$salor
+22,0$cap and stipe saturated grey with a faint violaceous tinge$emunctus
+22,23$cap greyish-blue to olive-brown, stipe pale
+23,0$frb small, cap greyish-blue to greyish-yellow, in Betula forest$betulinus
+23,0$frb robust, cap olive-brown with a violet margin, in Picea forest$transiens
+
+*Cap brownish
+
+30,0$stipe clavate, smell of "freshly-cut grass"$Z-> papulosus, cliduchus .Phlegmacium)
+30,31$stipe ± cylindrical or tapering, smell none or different
+31,0$stipe with thick, brownish girdles or meshes$trivialis
+31,32$stipe smooth or with thin bands
+32,33$stipe at least partly with a violet tinge
+32,40$stipe entirely white to pale brown$$s"*Stipe not violet""
+33,34$cap orange to red-brown, stipital flesh without particular smell
+33,35$cap grey-brown, date-brown, or olive-brown, stipital flesh with smell of honey
+34,0$in Picea forest$collinitus
+34,43$in alpine Betula forest -> fennoscandicus
+35,36$in broad-leaf forest, stipe typically bisected violet/white
+35,0$in coniferous forest, stipe ± evenly violet-tOned, sometimes faintly$integerfimus
+36,0$frb small, cap grey-brown$pumilus
+36,0$frb robust, cap dark brown to olive-brown$elatior
+
+*Stipe not violet
+
+40,0$cap grey-brown, stipital flesh with smell of honey$mucifluus
+40,41$cap brighter coloured or dark brown, smell trivial
+41,42$cap orange to red-brown
+41,43$cap yellow-brown, often with an olive tinge
+41,44$cap dark brown
+42,0$in Pinus forest$mucosus
+42,0$in alpine Betula forest$septentrionalis
+43,0$cap not hygrophanous, in the lowlands$grallipes
+43,0$cap somewhat hygrophanous, in alpine Betula forest$fennoscandicus
+44,0$frb very small, in alpine heath$alpinus
+44,0$frb medium-size, in broad-leaf forest$pangloius
+
+
+Cs6,0$Telamonia A larger species)
+....................................
+
+1,2$stipital context wholly or partly violet to brownish-violaceous
+1,20$stipital context with a frankly yellow to rusty-yellow or buff tinge$$s"*Flesh yellowish"
+1,30$stipital context brownish, grey, or white without violet or yellow)$$s"*Flesh pale to brownish"
+2,3$stipital context predominantly violet young specimens)
+2,10$stipital context brownish with violaceous or purple areas$$s"*Flesh brownish with violaceous ingredients"
+3,5$smell acidulous or spicy
+3,4$smell faint or raphanoid
+4,0$stipe tapering, sp. mostly >9.5  µm long$evernius
+4,0$stipe cylindrical, sp. mostly shorter but >8.5  µm long$imbutus
+4,16$stipe clavate, sp. shorter -> carneinatus
+5,0$odour ± like resin or Fomitopsis pinicola, cap soon yellow-brown, weakly hygrophanous$ionophyllus
+5,0$odour acidulous like C. traganus), cap greyish-violet, distinctly hygrophanous$agathosmus
+ 
+*Flesh brownish with violaceous ingredients
+
+10,0$smell acidulous ± like ethyl acetate), under deciduous trees$torvus
+10,5$smell strongly of fermented fruit, in Picea forest -> agathosmus
+10,11$smell trivial
+11,0$frb merely weakly hygrophanous -> malachius, etc$Sericeocybe)
+11,12$frb distinctly hygrophanous
+12,16$in coniferous forest
+12,13$under deciduous trees
+13,14$under Salix, cap dark brown, stipe often with white veil remnants
+13,0$under Betula or Quercus also Picea), cap paler, stipe ± glabrous$bicolor
+14,0$cap <5 cm, in alpine heath, stipe white peronate$subtorvus
+14,0$cap often >5 cm, in the lowlands, stipe with white zones or bands$saturninus
+16,0$gills saturated red-brown$tortuosus
+16,0$gills violet$carneinatus
+16,17$gills purplish-brown to cinnamon
+17,13$stipe slender, cap drying greyish-white -> bicolor
+17,0$stipe medium thick, cap drying yellow-brown$biformis
+
+*Flesh yellowish
+
+20,21$in Picea forest
+20,22$under deciduous trees
+21,0$frb strongly hygrophanous, stipe without a trace of veil$renidens
+21,0$frb not hygrophanous, stipe with sparse veil remnants$Z-> russus, pinophilus, norrlandicus (Phlegmacium)
+22,23$smell distinctly acidulous or unpleasant, gills conspicuously distant
+22,25$smell trivial, gills normally distant
+23,24$stipe with white to brown veil remnants, smell of "sour kitchen cloth"
+23,0$stipe with yellow to orange veil remnants, smell acidulous hinnuleus ss lato var.)$helvolus
+24,0$cap soon with black stains, usually under Fagus$conicus
+24,0$cap not black-stained, under Quercus or Corylus$hinnuleus
+25,26$cap red-brown when developed
+25,27$cap buff to grey-brown when developed
+26,0$cap fibrous, sometimes weakly hygrophanous, sp. subglobose$balaustinus
+26,0$cap ± smooth, strongly hygrophanous, sp. oblong$subbalaustinus
+27,0$sp. subglobose, cap pale, frankly hygrophanous$angulosus
+27,0$sp. subglobose, cap buff with a pink tinge, weakly hygrophanous$Z-> suillus (Sericeocybe)
+27,28$sp. oblong, cap darker, often weakly hygrophanous
+28,0$under Betula, cap and gills saturated buff to ochraceous$bivelus
+28,0$in broad-leaf forest rarely Betula), cap and gills grey-brown to greyish-buff$subferrugineus
+
+*Flesh pale to brownish
+
+30,31$stipital context distinctly brown-tinted young specimens)
+30,50$stipital context white, grey, or paler often watery) brown$$s"*Flesh white to pale brown"
+31,0$veil yellow$Z-> gentilis Cortinarius)
+31,0$veil grey-brown to olive-brown, frb not darkening$Z-> raphanoides, valgus Sericeocybe)
+31,0$veil pink to vinaceous$Z-> paragaudis Sericeocybe)
+31,32$veil white, grey, pale brown, or invisible, frb ± darkening
+32,21$smell unpleasant occasionally faint), gills conspicuously distant -> hinnuleus var. ined
+32,40$smell trivial, gills normally distant$$s"*Flesh frankly brown"
+
+*Flesh frankly brown
+
+40,41$frb robust, stipe often >10 mm thick
+40,44$frb more slender, stipe leaner
+41,49$cap saturated red-brown to orange-brown
+41,42$cap of a different brown colour
+42,0$cap umber, veil remnants darkening$brunneus
+42,43$cap grey-brown with a ± red-brown centre, veil remnants white
+43,0$in Pinus forest, sp. < 9  µm $Z-> suberi v. brunneogriseus (Sericeocybe)
+43,0$in Betula forest, sp. longer$disjungendus
+44,0$cap < 4 cm, stipe with white girdles brunneus var.?)$cf. stemmatus
+44,45$cap often larger, veil sparse
+45,48$frb grey-brown to olive-yellow, strongly blackening
+45,46$frb red-brown to umber, merely darkening
+45,70$frb incarnate-brown, blushing -> erubescens
+46,0$gills umber$brunneus var. glandicolor
+46,47$gills paler, grey-brown
+47,0$in Picea forest, sp. lean <4  µm $Z-> depressus Telamonia B)
+47,0$in Quercus or Corylus forest, sp. wider$irregularis
+48,0$in Picea forest, cap and stipe dark brown, often with a green tinge$uraceus
+48,0$in Quercus or Corylus forest, cap and stipe olive yellow-brown (uraceus var.?)$cf. subnotatus
+48,0$in Fagus forest, cap and stipe grey-brown without an olive tinge$holophceus
+49,0$in broad-leaf forest$semudaphilus
+49,0$in Pinus forest$furvolcesus
+
+*Flesh white to pale brown
+
+50,51$stipe tenacious, fusoid, often radicant, glabrous
+50,53$stipe not conspicuously tenacious, not radicant, often fibrous
+51,54$in coniferous forest
+51,52$under deciduous trees
+52,0$taste mild, gills thick, waxy, often anastomosed$acetosus
+52,0$taste somewhat bitter, gills not conspicuously thick$damascenus
+53,60$cap distinctly hygrophanous
+53,28$cap weakly hygrophanous
+54,0$cap ochraceous, usually pale$duracinus
+54,0$cap chocolate brown$dolabratus
+Stipe not radicant
+60,61$stipital context white without brown elements
+60,63$stipital context dirty brown to white, flushing or marbled brown
+61,0$cap weakly viscid to waxy, sp. very small$Z-> vespertinus (Myxacium)
+61,62$cap dry, sp. >8  µm  long
+62,0$cap apricot-yellow to red-brown, frb medium-size$armeniacus
+62,0$cap pale greyish-yellow, frb slender (armeniacus var.?)$cf. dilutus
+63,64$cap conspicuously saturated red-brown to brick
+63,70$cap less brightly coloured
+64,26$stipe ± red-brown, under Betula
+64,65$stipe paler, in coniferous forest
+65,0$gills saturated red-brown to brick$testaceifolius
+65,66$gills cinnamon
+66,68$stipe often robust, bulbous, sp. elliptic
+66,67$stipe fairly slender, sp. subglobose
+67,0$cap-margin brownish-pink, stipe with often hazy, vinaceous bands$badiovinaceus
+67,0$cap-margin white, stipe dirty white to pale brown$illuminus
+68,0$in Picea forest, sp. >9  µm $bulbosus
+68,49$in Pinus forest, sp. shorter ->furvolcesus
+70,80$stipe with reddish veil remnants
+70,0$stipe blushing incarnate or vinaceous, with brownish or no veil remnants$erubescens
+70,71$stipe without a red tinge, veil remnants white or absent
+71,72$cap honey-yellow to yellow-ochraceous
+71,74$cap red-brown to grey-brown
+72,73$cap and gills greyish-yellow, often with an olive tinge
+72,0$cap and gills warmly yellow-brown without olive$triformis
+73,0$frb medium-sized, cap often >4 cm, mainly in Picea forest$melleopallens
+73,0$frb smaller, in Pinus forest$melitosarx
+74,0$smell of violet, frb slender$ionosmus
+74,75$smell trivial, frb medium-size
+75,67$sp. subglobose, frb without violet -> illuminus
+75,17$sp. obtusely elliptic, stipital apex often violaceous -> biformis
+75,76$sp. oblong, frb without violet
+76,77$in Picea or Pinus forest, sp. < 8.5 µm 
+76,28$in broad-leaf forest, sp. longer -> subferrugineus
+77,0$sp. lean, <4 µm $nitens
+77,0$sp. wider$fuscopallens
+Veil reddish
+80,81$veil fiery to carmine-red
+80,82$veil red-brown to vinaceous
+81,0$cap glabrous, distinctly hygrophanous$bulliardii
+81,82$* cap with reticulate, innate fibers, weakly hygrophanous -> craticius Sericeocybe)
+82,67$veil vinaceous, ± immutable, in coniferous forest -> badiovinaceus
+82,0$veil ochraceous, later reddish, under Betula$heterocyclus
+
+
+Cs7,0$Telamonia B small species)
+................................
+
+1,2$stipe with distinct yellow, red, or brown veil remnants
+1,20$stipe with distinct white to grey occasionally faintly violaceous) veil remnants$$s"*Veil white"
+1,40$stipe with sparse or no veil remnants$$s"*Veil sparse"
+2,3$frb distinctly hygrophanous$$s"*Veil coloured"
+2,0$frb weakly or not hygrophanous$Z-> Dermocybe
+
+*Veil coloured
+
+3,5$veil red or red-brown to vinaceous mature frb)
+3,4$veil orange to reddish-orange
+3,10$veil yellow to yellow-brown$$s"*Veil yellowish"
+4,0$cap purplish-brown to umber, under Quercus$anthracinus
+4,0$cap ochraceous, in coniferous forest$colus
+4,11$cap yellow-brown, under Betula -> saniosus
+4,0$cap red-brown to date-brown, in coniferous forest$aurantiomarginatus
+5,0$frb entirely cinnabar-red$cinnabarinus
+5,6$frb ± brownish
+6,7$veil of a different colour at first
+6,8$veil ± immutable
+7,0$cap pale red-brown, stipe with white, later red fibrils$miraculosus
+7,56$* cap darker, stipe with brownish, later red girdles$Z-> heterocyclus (Telamonia A), coleoptera
+8,9$stipe with red to red-brown girdles, sp. elliptic
+8,0$stipe with greyish-pink girdles, sp. elliptic$prcestigiosus
+8,0$stipe with tobacco-brown to red-brown squamules, sp. subglobose$depauperatus
+9,0$gills brownish, mostly in Picea forest$fulvescens
+9,0$* gills violaceous, in Pinus forest$Z-> anomalellus Sericeocybe)
+
+*Veil yellowish
+
+10,11$cap brightly yellow-brown to orange, veil yellow
+10,14$cap grey-brown to umber, veil darker
+11,12$in coniferous forest, stipe with yellow girdles
+11,0$under deciduous trees, stipe with yellow to orange fibrils or girdles$saniosus
+12,13$cap <4 cm, stipe pale yellow
+12,13$* cap often larger, stipe dark yellow to brown -> gentilis (Cortinarius)
+13,0$stipital veil greyish-yellow to pink$bayeri
+13,0$stipital veil saturated yellow$detonsus
+14,15$cap squamulose
+14,16$cap fibrillose to glabrous
+
+15,0$in Alnus swamp$helvelloides
+15,0$in coniferous forest$strobilaceus
+15,0$with broad-leaf trees, in woods or parks$psammocephalus
+16,17$under Alnus
+16,0$under broad-leaf trees or Betula occasionally Pinus)$helobius
+16,18$in coniferous forest
+17,0$sp. <9  µm $bavaricus
+17,0$sp. longer$badiovestitus
+18,0$with Picea, most sp. >4  µm  wide$semivestitus
+18,27$with Pinus, sp. leaner -> lux-nymphce
+
+*Veil white
+
+20,21$cap with white squamules
+20,26$cap with sparse or no veil remnants
+21,22$smell of Geranium
+21,24$smell trivial
+22,23$in coniferous forest, cap often dark brown to purple-brown
+22,0$in broad-leaf forest, cap brighter$diasemospermus
+23,0$with Picea or Pinus rarely Betula), most sp. <9  µm $flexipes
+23,0$with PzTjws, sp. longer$violilamellatus
+24,0$under Betula$hemitrichus
+24,25$in coniferous forest
+25,29$sp. subglobose
+25,0$sp. elliptic$pilatii
+26,41$cap violet -> bibulus
+26,27$cap red-brown to yellow-brown
+26,30$cap grey-brown to dark brown
+27,28$smell usually strong of leather
+27,47$smell often faint), different
+27,0$smell trivial or nil$lux-nymphce
+28,0$cap grey-brown to orange-brown, without alkaline reaction$parvannulatus
+28,0$cap yellow-brown with an olive tinge, alkaline reaction yellow on cuticle$flabellus
+29,0$sp. >6  µm  in diameter$comptulus
+29,56$sp. smaller -> trossingenensis
+30,0$smell distinctive$Z-> flexipes, umbrinolens 23,52
+30,31$smell trivial or nil
+31,32$gills yellow-brown, precocious, often in summer
+31,33$gills grey-brown to dark brown, in autumn
+32,0$in Picea forest, cap often >3 cm$junghuhnii
+32,16$mainly in broad-leaf forest, cap smaller -> helobius
+33,64$stipe with a rosy to violaceous tinge
+33,34$stipe without violet except possibly at apex)
+34,0$stipe umber, under Alnus$alnetorum
+34,35$stipe grey-brown, in coniferous forest
+35,0$stipe stiff, tapering, gills fairly pale, sp. <4  µm  wide$depressus
+35,0$stipe equal, gills dark brown, sp. wider$casimiri
+
+*Veil sparse
+
+40,0$gills with a greenish edge$Z-> colymbadinus Cortinarius)
+40,41$gills different
+41,42$cap red-brown to yellow-brown
+41,0$cap violaceous to brownish-violet$bibulus
+41,50$cap darker brown, occasionally with an olive or purple tinge$$s"*Cap dark brown"
+42,0$stipe without traces of veil$Z-> renidens Telamonia A)
+42,44$stipe yellow-brown, often with traces of a white to pale-yellow veil
+42,9$stipe incarnate-brown with traces of reddish veil -> fulvescens
+44,47$cap red-brown to bright orange-brown, smell distinctive
+44,45$cap buff to yellow-brown, smell trivial
+
+45,0$cap <2 cm, in Picea forest$acutus
+45,46$cap larger, in deciduous wood
+46,0$alkaline reaction in stipe-base context violaceous-black, sp. >8.5 µm long$safranopes
+46,0$alkaline reaction trivial, sp. shorter$scandens
+47,0$cap cinnamon to pale red-brown, smell ± of "hospital"$obtusus
+47,0$cap lively orange-brown, smell of "freshly-cut wood"$odhinnii
+
+*Cap dark brown
+
+50,60$stipe often with a distinctly rose to violaceous tinge
+50,51$stipe never with a rose or violaceous tinge
+51,0$frb often with an olive tinge$Z-> uraceus Telamonia A)
+51,52$frb without trace of olive
+52,0$smell distinct like "sour kitchen cloth"$umbrinolens
+52,53$smell insignificant
+53,0$under Betula$erugatus
+53,54$in coniferous forest
+54,35$stipe stiff, tapering, frb relatively robust -> depressus
+54,55$stipe cylindrical, frb small
+55,56$gills saturated red-brown to brick, sp. <8.5  µm 
+55,0$gills grey-brown, sp. fusoid, longer$heterosporus
+56,0$in Picea forest, sp. globose$trossingenensis
+56,0$in Pinus forest, sp. elliptic$coleoptera
+Stipe with a violaceous tinge
+60,63$gills cinnamon
+60,61$gills dark brown to purplish-brown
+60,56$gills saturated red-brown -> coleoptera
+61,0$smell strongly acidulous like C. traganus or hinnuleus), in Picea forest$vilior
+61,62$smell trivial, mainly with Salix or Betula
+62,0$flesh greyish-violet, stipe often tapering$Z-> bicolor Tlamonia A)
+62,0$flesh purplish-brown, stipe equal$decipiens
+63,0$stipital context blushing, in broad-leaf forests or in pastures with Helianthemum$roseipes
+63,64$stipital context grey-brown, mainly with Betula or in coniferous forest
+64,0$from summer, sp. subglobose$vernus
+64,0$in autumn, sp. oblong$subsertipes
+
+
+ µm 

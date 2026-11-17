@@ -1,0 +1,91 @@
+Titre$ ESSAI DE CLÉ DES CORTINAIRES PATIBILES ET BALTEATI   -  GUILLAUME EYSSARTIER
+Com$ Meli-Mélo 10 septembre 2017  -  adapté par P. Bertéa 11/09/2017
+1,2 $ Sous feuillus $$s"Sous feuillus"
+1,21 $ Sous conifères $$s"Sous conifères"
+1,0 $---> Les espèces marquées d'un astérisque* ne sont pas confirmées en moléculaire 
+2,3 $ Taxons des aulnes verts ou des saules nains de la zone alpine
+2,4 $ Taxons non liés aux aulnes verts ou aux saules nains de la zone alpine
+3,0 $ Espèce associée aux aulnes verts $ C. kuehneri
+3,0,N$///- Il existe aussi C. alneti*, qui ressemble à un petit largus des aulnes verts 
+3,0 $ Espèce associée aux saules nains de la zone alpine $ C. durus var. chamaesalicis
+4,5 $ Du bleu ou du violacé sur le chapeau, au moins au bord et chez les jeunes ; lames souvent également ± bleues dans la jeunesse
+4,13 $ Chapeau sans teintes bleues, même au bord et dans la jeunesse
+5,0 $ Net voile bleu sur le pied ; lames grisâtres $ C. balteatocumatilis
+5,6 $ Pas de voile bleu ; lames ± bleues chez les jeunes
+6,0 $ Chapeau nettement feutré-tomenteux, parfois diffracté-tigré $ C. coalescens
+6,0,N$///Syn.  :  C. crassorum, pardinus, parargutus, tomentosus sensu auct. 
+6,7 $ Chapeau non spécialement feutré-tomenteux, ± visqueux
+7,8 $ Très forte odeur de terre, de D. T. T
+7,9 $ Odeur faible, non spécialement marquée
+8,0 $ Pied blanc pur   $ C. daulnoyae
+8,0,N$///Syn. :  C. sabuletorum, chromataphilus, probablement clarobaltoides var. clarobaltoides
+8,0 $ Pied ± bleu ou violacé au moins au sommet  $ C. variecolor et C. pseudodaulnoyae
+8,0,N$///Syn. :  C. squamosocephalus///Les deux espèces semblent aujourd'hui impossibles à distinguer sans ADN.///- si la récolte est grêle, élancée, et avec un chapeau très coloré de violacé obscur, il s'agit probablement de C. pseudodaulnoyae.///- si on a affaire à des spécimens trapus et non spécialement colorés, il s'agit probablement de C. variecolor.
+9,10 $ Spores assez petites, à moyenne autour de 10 µm
+9,11 $ Spores plus grandes ; moyenne nettement supérieur à 10 µm
+10,0 $ Sous Betula ; teintes bleues très peu marquées $ C. sobrius
+10,0 $ Sous Quercus, Populus et Corylus ; teintes bleues très marquées $ C. caesiocolor
+11,0 $ Chapeau gris violacé puis brun sombre ; chair violet vif sous la cuticule ; spores 10-14 x 5-6 µm  $ C. brunneolividus
+11,0,N$///Syn. :  C. brunneoviolaceus
+11,12 $ Chapeau brun roussâtre à brun ochracé moins sombre ; spores 10-12,5 x 5,5-7 µm
+12,0 $ Chapeau nettement vergeté de fibrilles innées  $ C. pseudodaulnoyae
+12,0,N$///Syn. :  C. squamosocephalus
+12,0 $ Chapeau sans fibrilles innées $ C. largus
+12,0,N$///Syn. :  C. cephalixolargus, clarus, claviceps, congeminus, cupreoviolaceus, largusiellus, lilacincolor, lividoviolaceus, lintrisporus, occultus, patibilis var. scoticus, paracrassus, paracyanopus, subspadiceus 
+13,0 $ Chapeau nettement feutré-tomenteux, parfois diffracté-tigré  $ C. coalescens
+13,0,N$///Syn. :  C. crassorum, pardinus, parargutus, tomentosus sensu auct.
+13,14 $ Chapeau non spécialement feutré-tomenteux, ± visqueux
+14,0 $ Grosse espèce cespiteuse, à chapeau vite brun-roux violacé ; forte odeur de D. D. T. Espèces associées à Betula $ C. flavescentipes
+14,0,N$///Syn. :  C. veneris, balteatus var. praestantoides 
+14,15 $ Pas ces caractères associés [Grosse espèce cespiteuse, à chapeau vite brun-roux violacé ; forte odeur de D. D. T.}
+15,16 $ Pied nettement bleuté au moins au sommet
+15,17 $ Pied sans teinte bleue, même chez les jeunes
+16,0 $ Spores 10,5-12 x 6-7 µm  $ C. pseudodaulnoyae
+16,0,N$///Syn. :  C. squamosocephalus
+16,0 $ Spores 8,5-10,5 x 5,5-6 µm $ C. eliae
+17,18 $ Espèces associées à Betula
+17,19 $ Espèces non associées à Betula
+18,0 $ Spores 9-11 x 5-6 µm ; espèce trapue (cf. balteatus)  $ C. baiteatialutaceus
+18,0,N$///- Voir aussi C. balteaticlavatus, nettement plus élancé, qui peut pousser sous bouleaux.
+18,0 $ Spores plus grandes, 10,5-12,5 x 5,5-7,5 µm $ C. durus
+18,0,N$///- Voir aussi C. badiolatum, qui pousse surtout sous épicéas, mais peut-être aussi sous bouleaux. 
+19,0 $ Espèce trapue (cf. balteatus), blanchâtre au début puis ± ochracée $ C. baiteatoalbus
+19,0,N$///Syn. :  C. concrescens 
+19,20 $ Espèces non spécialement trapues
+20,0 $ Chapeau brun ochracé plutôt clair et assez vif ; trame lamellaire à granulations rouge sang dans le Melzer $ C. brunneiaurantius
+20,0 $ Chapeau brun terne ; trame lamellaire à granulations sombres dans le Melzer. $ C. balteaticlavatus
+21,0 $ Pied distinctement violacé à la base ou se tachant de violacé $ C. violaceomaculatus
+21,22 $ Pied non distinctement violacé à la base ni se tachant de violacé
+22,23 $ Présence d'un voile jaune ou violacé net sur le pied
+22,24 $ Pas de voile coloré net sur le pied, ou alors un peu ochracé
+23,0 $ Voile jaune en guirlandes sur le pied $ C. flavivelatus
+23,0 $ Voile violacé $ C. borgsjoeensis
+24,25 $ Chapeau à nuances bleues ou violacées nettes, au moins au bord et dans la jeunesse
+24,29 $ Chapeau sans nuances bleues ou violacées, même chez les jeunes ; lames parfois bleues
+25,0 $ Espèce râblée poussant en touffes sous épicéas, à chapeau gris argenté aluminium et à chair souvent nettement bleue dans la base du pied $ C. sabaudiae*
+25,26 $ Pas ces caractères
+26,0 $ Chapeau ocre-roux, recouvert d'un voile gris-mauve qui disparaît aux manipulations, se tachant de brun-roux par plages avec l'âge ; petites spores de 8,5-10,5 x 6-6,5 µm $ C. pseudonebularis
+26,27 $ Pas ces caractères ; spores plus grandes
+27,0 $ Forte odeur de terre, de D. D. T  $ C. variecolor
+27,28 $ Odeur faible, non remarquable
+28,0 $ Chapeau de 10-11 cm, spores de 10-12 x 5,5-6,5 µm $ C. balteatus
+28,0,N$///Syn. :  C. subbalteatus, balteatotomentosus, tomentosus, subopimus
+28,0 $ Chapeau de 5-6 cm, spores de 10-14,5 x 5-6 µm $ C. clarobaltoides var. longispermus
+29,30 $ Lames ± bleutées au moins chez les jeunes
+29,32 $ Lames jamais bleutées, même chez les jeunes
+30,0 $ Sous Pinus (plus rare sous Picea) ; spores 11-13 x 6,5-7,5 µm $ C. pini
+30,31 $ Sous Picea ; spores 10-11,5 x 5,5-6,5 µm 
+31,0 $ Chapeau peu visqueux, vite sec, brun ochracé à alutacé grisâtre pâle, d'abord presque blanc au bord, vite taché de brun $ C. patibilis
+31,0,N$///C. pseudonaevosus a parfois du bleu dans les lames et la chair, parfois même au bord du chapeau (morphotype « acidophilus »), mais il a des spores mesurant 11-12.5 x 6-7 µm
+31,0 $ Chapeau nettement visqueux, plus coloré dès la jeunesse, burun-jaune, brun ochracé à brun foncé   $ C. rufolatus
+31,0,N$///Syn.:  C. spadicellus///C. pseudonaevosus a parfois du bleu dans les lames et la chair, parfois même au bord du chapeau (morphotype « acidophilus »), mais il a des spores mesurant 11-12.5 x 6-7 µm
+32,33 $ Petites spores atteignant au plus 10,5 µm
+32,35 $ Spores nettement plus grandes, atteignant 12,5 µm et plus
+33,0 $ Chapeau brun pâle, gris-brun clair puis brun ochracé ; espèce trapue évoquant balteatoalbus ou crassus ; sous Pinus ou Picea $ C. areni-silvae
+33,34 $ Pas ces caractères [Chapeau brun pâle, gris-brun clair puis brun ochracé] ; espèces plus élancées
+34,0 $ Chapeau brun sable à brun ; hôte inconnu $ C. balteaticlavatus
+34,0 $ Chapeau blanc au bord, mais vite taché de brun (en particulier au toucher), puis d'un brun-rouge uniforme ; sous Picea $ C. russus
+35,0 $ Chapeau d'abord presque blanchâtre  $ C. badiolatus
+35,0,N$///Cette espèce semble s'associer préférentiellement aux bouleaux, mais se rencontre aussi sous épicéas
+35,0 $ Chapeau brun ochracé ± chaud dès le début $ C. pseudonaevosus et C. myrtilliphilus
+35,0,N$///Syn. : C. pseudolargus, sphagnetorum, acidophilus, vacciniophilus, maculatipes, subcrassoides .///Note : ces deux espèces, très longtemps confondues, sont encore morphologiquement indiscernables ; ///- C. myrtilliphilus semble très rare, et n'est pas connu en Europe centrale ; ///- C. pseudonaevosus est notamment connu des Alpes et du Jura 

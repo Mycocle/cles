@@ -1,0 +1,78 @@
+titre$P e n i o p h o r a Eriksson_Ryvarden vol 5
+com$ adapt GF 2013-14
+1,0$ source : corticiaceae Eriksson_Ryvarden 1978 Vol 5 
+
+1,0$ Type Peniophora/// Fruitbodies resupinate, adnate or rolling off from the margins, effused or wart-like, annual or perennial, ceraceous - coriaceous, yellow-bright red-grey-violaceous-brown in varying shades;///finely fimbriate, sterile margin present at least in young fruitbodies; hyphal texture monomitic, young hyphae thinwalled, hyaline under the microscope, white or light rose to the eye, older ones often with thickened walls, in most species brown at least next to the substrate;///cystidia always present as encrusted metuloids or as sulfocystidia;/// dendrohyphidia in sorne species;/// basidia normally with 4 sterigmata, in all fibulate species with basal clamp;/// spores generally allantoid but in sorne species ellipsoid, in aIl species smooth, non-amyloid, non-cyanophilous, spore-print pale red./// Generic type:Peniophora quercina (Fr.) Cke.
+1,0$
+
+1,cs1$Fruitbodies more or less orange to reddish pink, hyphal texture not brown subgen. $$s"Subgen. Gloeopeniophora"
+1,cs2$Fruitbodies reddish-grey, violaceous-brown, hyphal texture at least partly brown $$s"Subgen. Peniophora"
+
+ µm
+
+cs1,0$
+
+1,2 $With clamps
+1,4 $Without clamps 
+2,0 $Decorticating, on branches of Carpinus betulus 4.$P. laeta
+2,3 $Not decorticating
+3,0 $Spores ab. 8-10 x 4-5 µm 3. $P. incarnata
+3,0 $Spores ab. 15-20 x 10 µm 1. $P. aurantiaca 
+4,0 $Spores ab. 10 x 5 µm 5. $P. laurentii
+4,0 $Spores ab. 15-20 x 12 µm, on Alnus incana and A. glutinosa 2 $P. erikssonii
+
+
+cs2,0$
+
+
+1,2 $Without dendrohyphidia
+1,16 $With dendrohyphidia$$s"lycii-group"
+2,3 $Without or with single sulfocystidia
+2,11 $With regular, as a rule numerous sulfocystidia
+3,4 $Fruitbody closely attached to the substrate
+3,7 $Fruitbody loosening from the margin
+4,0 $On conifers. With sulfocystidia. Sp. 6-7  µm, rarely longer 14. $P. pithya
+4,5 $On deciduous wood. No sulfocystidia. Sp. 8-10 µm long 
+5,0 $Subiculum thin or lacking 6. $P. cinerea
+5,6 $Subiculum weIl developed
+6,0 $Hymenium with dark grey, violaceous or brown colours. Sterile margin dark 9. $P. limitata
+6,0 $Hymenium ochraceous - pale brown. No dark margin 20. $P. suecica
+7,8 $On deciduous trees
+7,10 $On conifers
+8,0 $Sterile margin if present dark. On Fraxinus, Syringa and Ligustrum 9. $P. limitata
+8,9 $Sterile margin light-coloured. On other substrates
+9,0 $On Quercus and Fagus 16. $P. quercina
+9,0 $On Tilia 18. $P. rufomarginata
+10,0 $On hanging branches of Abies 12. $P. piceae
+10,0 $On dead branches and trunks of Juniperus ..... 7. $P. junipericola
+11,12 $Hyphae gelatinized, mainly hyaline. Sulfocystidia in both subhymenium and subiculum
+11,13 $Hyphae not gelatinized, more or less brown. Sulfocystidia onIy in subhymenium and hymenium
+12,0 $Fruitbody wartlike. On Populus tremula 17. $P. rufa
+12,0 $Fruitbody orbicular. On hanging branches of Pinus. .. 13.$P. pini
+13,14 $On coniferous trees
+13,15 $On deciduous trees
+14,0 $Sterile margin light-coloured. Subiculum weIl developed, partly only weakly pigmented 19. $P. septentrionalis
+14,0 $Sterile margin dark if present. Subiculum thin or almost lacking, if present strongly pigmented brown 14. $P. pithya
+15,0 $Sulfocystidia of the first hymeniallayer numerous, rounded, reaching 20 µm in width 11. $P. nuda
+15,0 $Sulfocystidia fewer, narrower, as a rule ab. 10 µm, aIl of about the same shape and size 21. $P. violaceolivida
+16,0 $With rounded encrusted cystidia 10. $P. lycii
+16,17 $Without encrusted cystidia
+17,0 $Spores eIlipsoid. On Ulmus 8. $P. lilacea
+17,0 $Spores allantoid. On Populus tremula 15. $P. polygonia
+
+
+
+
+
+Generic synopsis.
+Peniophora subg. Gloeopeniophora. Fruitbodies more or less orange.
+Hyphal texture not brown.
+1. P. incarnata-group. P. aurantiaca, erikssonii, incarnata, laeta, laurentii.
+Peniophora subg. Peniophora. Fruitbodies reddish-grey-violaceousbrown.
+Hyphal texture at least partly brown.
+1. P. cinerea-group. Encrusted metuloid cystidia, sulfocystidia present
+or not, no dendrohyphidia. P. cinerea, junipericola, limita ta, nuda,
+piceae, pini, pithya, quercina, ru/a, ru/omarginata, septentrionalis,
+suecica, violaceolivida.
+2. P. lycii-group. With or without encrusted cystidia; sulfocystidia and
+dendrohyphidia present. P. lilacea, lycii, polygonia.

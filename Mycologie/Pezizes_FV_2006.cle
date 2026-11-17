@@ -1,0 +1,498 @@
+
+rem Ein Schüssel zu den europäischen Arten der Gattung Peziza L, H. Hohmeyer – Zeitschrift für Mykologie Band 52 (1) 1986
+rem Die apikulaten Becherlinge J.Häffner - Zeitschrift für Mykologie, Band 52(1)1986
+
+titre $   Pezizales européennes /  Zeitschrift für Mykologie, Band 52(1)1986
+com$ d'après  Hohmeyer (CS1 et CS2)  et  Häffner (CS3).  Traduction et commentaires de François Valade, Version 5 06/2008,  adaptée GF juillet 08
+1,0$références :  "Ein Schüssel zu den europäischen Arten der Gattung Peziza L, H. Hohmeyer – Zeitschrift für Mykologie Band 52 (1) 1986"  et   "Die apikulaten Becherlinge J.Häffner - Zeitschrift für Mykologie, Band 52(1)1986"   $_références
+1,2 $ Sur les places brûlées.
+1,9 $ Sur fumier, excréments, terrains bien fumés.
+1,14 $ Immédiatement après la fonte de neiges.
+1,16 $ Dans les dunes ou le sable.
+1,17 $ Sur bois à  terre, débris, sciure, papier, etc.…
+1,23 $ Sur sols, murs humides, tissus pourrissants, etc.. (y compris les espèces déjà vues dans les paragraphes 1a, 1c, 1d et en partie seulement 1b).
+2,3 $ Spores avec guttules.
+2,5 $ Spores sans guttule.
+3,0 $ Hyménium rougeâtre, brun rougeâtre pourpre. Paraphyses droites et avec un sommet incolore. Spores (17) 21-24 (28) x 9-12 (14) µm à contenu écumeux granuleux. $ subisabellina (Le Gal) Mos.
+3,4 $ Hyménium avec des couleurs violettes. Paraphyses avec des gouttes brun pourpre. La plupart des spores avec deux guttules.
+4,0 $ Paraphyses droites remplies de gouttes de couleur brun violet. Spores (16) 18-22 x (8) 9-11 µm, avec deux grosses guttules et de multiples autres minuscules (voir 26a). $ ampelina Quélet
+4,0 $ La plupart des paraphyses avec l’extrémité pliée, cassée (comme une béquille) et des gouttes brun violet. Hyménium gris violet pâle, violet avec du brun violet. Spores (11) 13-15 (16) x (6) 7-9 µm avec deux guttules (Comparer avec Peziza pseudoviolacea qui à maturité possède des guttules fugitives et un Hyménium plus foncé).$ moseri Avi. & Nemlich
+4,0,n$ Icônes : Les Champignons de Suisse I (1981) 55, Boudier 277, Bresadola 1217-1, (Dähncke 665). 
+5,0 $ Paraphyses courbées avec des gouttes brun violet. Hyménium brun, violet sombre, finalement brun. Spores 13-16 x 7-9 µm, hyalines, et tout au plus présence de guttules fugitives, au moment où l’asque est proche de la maturité. $ pseudoviolacea Donadini
+5,0,n$Icônes : Dennis V J, Boudier 276, C 1216, Cooke 278. 
+5,15 $ Paraphyses moniliformes ou dendroïdes par la présence de ramifications latérales des cloisons. Subalpin et alpin, et/ou près de la neige fondante.
+5,6 $ Paraphyses simples.
+6,0 $ Spores 14-16 x 8-10 µm. Hyménium ocre brun à brun. Marge dentelée (voir 22c). $ repanda Pers.
+6,0 $ Spores 14-17 x 8-10 µm. Hyménium jaunâtre, ocre jaunâtre à brun jaune (voir 22a). $ cerea Bull.
+6,7 $ Longueur des spores supérieure à 18 µm.
+7,0 $ Hyménium brun noir. Carpophore jusqu’à 2 cm de large et vite aplati. Spores 18-22 x 11-13 µm. $ sepiatra Cooke
+7,8 $ Hyménium avec des colorations brunes plus claires.
+8,0 $ Excipulum médullaire avec trame de texture intricata. Spores 19-22 x 9,5-12 µm (voir 46a). $ granularis Donadini
+8,0 $ Excipulum seulement de texture globulosa. Spores (16) 18-20 x 10-12 µm (voir 34b). $ ampliata Pers.
+9,10 $ Longueur des spores inférieure à 18 µm.
+9,12 $ Longueur des spores supérieure à 18 µm.
+10,cs2 $ Paraphyses moniliformes. Spores très finement rugueuses 15-18 x 7,5-8,5 µm  $cf merdae Donadini.$s"espèces à spores ornées"
+10,cs2 ,n$ les spores de certaines espèces, comme p. merdae ou  moravecii  peuvent apparaître lisses bien qu'elles soient normalement ornées, selon leur degré de maturité.
+10,11 $ Paraphyses simples.
+11,cs2 $ Spores très finement rugueuses (à l’observation passe facilement inaperçu). $ cf moravecii (Svrcek) Donad.$s"espèces à spores ornées"
+11,cs2,n $  les spores de certaines espèces, comme p. merdae ou  moravecii  peuvent apparaître lisses bien qu'elles soient normalement ornées, selon leur degré de maturité.
+11,0 $ Spores lisses 15-16 x 7-8 µm. Carpophore jusqu’à 2 cm de large, cupuliforme. Hyménium ocracé à brun clair avec une tonalité vert olive, extérieur brun concolore furfuracé.   Icônes : Bresadola 1231-2, Pl. V6.$ fimeti (Fuck.) Seav. ss Dennis, Seaver
+11,0,n $  les spores de certaines espèces, comme p. merdae ou  moravecii  peuvent apparaître lisses bien qu'elles soient normalement ornées, selon leur degré de maturité.
+12,0 $ Excipulum sans texture intricata. Spores 19-22 x 9,5-12 µm. Paraphyses simples ou un peu étranglées aux septa. Carpophore jusqu’à 2 cm de large, sessile en coupe aplatie jusqu’à étalée. Hyménium brun ocre à brunâtre orange, extérieur brun concolore furfuracé. Marge dentelée. $ fimeti (Fuck.) Seav. ss Donadini, Gamundi
+12,0,n $ Icônes : Gamundi (1975) Pl. VI, Les Champignons de Suisse I (1981) 43. $ fimeti (Fuck.) Seav. ss Donadini, Gamundi
+12,13 $ Excipulum à 5 couches avec une strate médullaire de texture intricata.
+13,0 $ Hyménium blanchâtre ocré, brun jaunâtre clair. Carpophore en coupe profonde de 8 cm de large et même au-dessus. Spores (18) 20-24 x 10-14 µm. $ vesiculosa Bull.
+13,0,n $Icônes : Dennis V G, Les Champignons de Suisse I (1981) 54, Marchand 387, Boudier 257/58, Michael & Hennig (1960) I198, Dähncke 667, Bresadola 1203, Gerhardt (1982) 239, Gerhardt (1985) 280, Cooke 242. 
+13,0 $ Hyménium jeune olivâtre pale, gris ocre puis presque brun. Carpophore avec un stipe frappant. Disque plat à ombiliqué de 2,5 cm de large. Spores (18) 20-23 x 11-13 µm (voir 40 a). $ asterigma Vuill.
+14,0 $ Spores 25-30 x 13-16 µm. Carpophore sessile, en coupe vite aplatie, 0,5-3 cm de diamètre. Hyménium brun ocre, brun jaunâtre, marge dentelée. A la limite de la neige au dessus de 2000 m. $ nivalis  (Heim & Remy) Mos.
+14,0,n $ Icône : Bulletin Fédération Mycologique du Dauphiné-Savoie 76 :28 (1980) !.
+14,15 $ Spores seulement autour de 18-20 µm de long apparaissant dans des stations plus basses.
+15,0 $ Paraphyses généralement moniliformes. Carpophore patelliforme à disciforme, 2-4 cm de large. Hyménium ocre orangé à brun rouge. Excipulum à strate médullaire de texture intricata. Spores 18-20 x 10-11,5 µm, dans le lactophénol et le bleu coton très finement rugueuses.$ ninguis Donad. & Trimbach
+15,0,n $ Icônes : Les Champignons de Suisse I (1981) 48, Bulletin Fédération Mycologique du Dauphiné-Savoie 76 : 28 (1980). 
+15,0 $ Paraphyses dendroïdes par la présence de ramifications latérales. Pour le reste comme Peziza ninguis. Spores 16-18 x 9,5-11 µm.$ninguis var fortoulii (Donad. & Nev.) Donad.
+15,0,n $ Icône : Bulletin Fédération Mycologique du Dauphiné-Savoie 76 : 28 (1980). 
+16,0 $ Excipulum avec une strate médullaire de texture intricata. Spores 16-18 x 9-10,5 µm. Voir 32a. $ pseudoammophila  Bon ex Donad.
+16,0 $ Excipulum sans strate médullaire de texture intricata. Spores 14-16 x 9-10 µm. Voir 33a. $ ammophila  Dur. & Mont.
+17,0 $ Hyménium rougeâtre, brun rougeâtre pourpre. Spores (17) 21-24 (28) x 9-12 (14) µm, aspect intérieur granuleux écumeux. Voir 27a. $ subisabellina (Le Gal) Mos.
+17,18 $ Hyménium sans tonalité rougeâtre. Spores avec un aspect intérieur homogène. Pas de guttule.
+18,19 $ Excipulum sans strate médullaire de texture intricata.
+18,20 $ Excipulum avec une strate médullaire de texture intricata.
+19,0 $ Spores (16) 18-20 x 10-11 µm. Carpophore en coupe plate à étalé, jusqu’à 3 cm de large. Hyménium brun jaune, brun ocre. Voir 34b, 34c. $ ampliata Pers.
+19,0 $ Spores 16-19 x 8-10 µm. Carpophore jusqu’à 5 cm de large. Hyménium jaune d’or plissé ondulé. Paraphyses avec dans la partie haute des gouttes jaunes.$ flavida Phill.
+19,0,n $ Icône : Boudier 260. 
+19,0 $ Spores (19) 21-23 (25) x 10-13 µm, allongées elliptiques jusqu’à cylindriques. Carpophore jusqu’à 2 cm de large, en coupe plate à étalé et largement attaché au substrat. Hyménium brun ocre à brun argilacé, extérieur concolore mais plus clair et furfuracé. $ udicola Svr.
+19,0 $ Spores 17-24 x 6-8 µm étroitement elliptiques à presque fusiformes. Carpophore jusqu’à 1 cm de large en coupe aplatie. Hyménium olive brun. Extérieur concolore mais plus clair et finement furfuracé. $ vladimirii (Vacek) Svr.
+20,0 $ Paraphyses moniliformes avec la partie basse qui peut être dilatée jusqu’à 20µm. Carpophore parfois peu nettement stipité jusqu’à 5 cm de large. Hyménium brun gris clair, brun clair jusqu’à coloration noisette. Hyphes de la strate médullaire à structure intricata souvent coloré de brun. Spores (12,5) 14-16 x (8) 9-11 µm. $ varia (Hedw.) Fr.
+20,0,n $ Icônes : Les Champignons de Suisse I (1981) 53, Dennis V E, Bresadola 1208, Boudier 267, (Cetto 1219). $ varia (Hedw.) Fr.
+20,21 $ Paraphyses non moniliformes ou tout au plus un peu étranglées aux septa.
+21,0 $ Spores 19-22,5 x 10,5-13 µm. Excipulum avec des éléments extraordinairement grands (jusqu’à 250 µm) de texture globulosa. Carpophore jusqu’à 5 cm de large, attaché-stipité. Hyménium ocre sombre à brun clair, extérieur concolore mais plus clair et en outre grossièrement furfuracé. $ megalochondra (Le Gal) Donad.
+21,22 $ Spores de longueur inférieure à 19 µm.
+22,0 $ Hyménium avec coloration jaunâtre ou ocre jaunâtre (code des couleurs de Methuen 4(A-C) (4-8)) au début de sa croissance et devenant en vieillissant, brunâtre à partir du centre. Carpophore jusqu’à 10 cm de large, d’abord en forme de coupe profonde puis étalé flexueux, souvent ombiliqué. Marge vers l’extérieur souvent enroulée en prenant de l’âge. Base extraordinairement à stipe court contracté. Strate médullaire de texture intricata souvent peu visible. Normalement sur déchets organiques, dans les décombres, sur les murs, aussi sur les lieux incendiés, plus rarement sur les débris de bois.$ cerea Bull.
+22,0,n $ Icônes : Boudier 259, Dähncke 666, Bresadola 1206 , Dennis V C, Cetto 1217, Cooke 244,263, Les Champignons de Suisse I (1981) 40. 
+22,0 $ Hyménium avec des colorations brun ocre à brunes (code des couleurs de Methuen 6(D-F) (5-8)). Carpophore jusqu’à 6 cm, en coupe profonde. Base normalement contractée en forme de stipe. Strate médullaire de texture intricata, très large et visible à l’œil nu ou à la loupe. A peu près exclusivement sur bois, déchets de bois, débris végétaux, etc. Spores (14) 15-17 (19) x 7,5-9-11 µm.  $ micropus Pers.
+22,0,n $Icônes : Les Champignons de Suisse I (1981) 46, Dennis V B, Bresadola 1201, Boudier 268, Gerhardt (1985) 279
+22,0 $ Hyménium avec des colorations brun ocre à brunes (code des couleurs de Methuen 6(D-F) (5-8)). Strate médullaire de texture intricata, large de 1/5 de l’épaisseur de l’excipulum. Marge dentelée sur quelques exemplaires seulement d’une collection, ordinairement grégaire au sol, aux endroits brûlés, sur déchets organiques, papier, etc., seulement exceptionnellement vue sur bois. Spores 14-16 x 8-10 µm. $ repanda Pers.
+22,0,n $Icônes : Marchand 198, Dennis V D, Cetto 1218. 
+23,24 $ Spores avec guttules.
+23,28 $ Spores sans guttules.
+24,0 $ Spores (11) 13-15 x (6) 7-9 µm avec deux guttules. Paraphyses courbées avec à la partie haute du brun violet. Hyménium gris violet pâle, violet à brun (Hyménium plus foncé, guttules fugaces à maturité P. pseudoviolacea). Voir 4b. $ moseri Avi. & Nemlich
+24,0 $ Spores 25-30 x 8-10 µm avec 1-3 grosses guttules et de nombreuses gouttes plus petites. Fructification jusqu’à 1 cm de large. Hyménium violet à brun-violet, extérieur concolore floconneux feutré. Excipulum de texture globulosa à texture angularis.$ gerardii Cooke
+24,0,n $ Icônes : Dennis VI E, Boudier 301, Cooke 44. 
+24,25$Longueur des spores entre 18 et 25 µm
+25,26 $ Hyménium violet foncé, violet brun sombre. Spores normalement avec deux guttules.
+25,27 $ Hyménium avec une tonalité brune. Spores exceptionnellement avec deux guttules ou bien avec beaucoup de petites gouttes ou avec deux guttules.
+26,0 $ Hyménium violet foncé à violet brun, extérieur ocre clair et finement furfuracé. Paraphyses droites avec en haut des granulations violettes. Spores (16) 18-22 x (8) 9-11 µm avec 2 grosses guttules et plusieurs petites gouttes.$ ampelina Quélet
+26,0,n $Icônes : Les Champignons de Suisse I (1981) 35, Boudier 300, Bresadola 1210. 
+26,0 $ Hyménium pourpre à brun pourpre. Extérieur ocre clair nuancé de mauve rose ou gris violet. Carpophore jusqu'à 12 mm de large. Paraphyses simples. Spores (18) 20-22 (23) x 11-13 µm, avec des granules polaires pouvant se réunir en deux ou trois gouttes. $ vinosa (Grelet)
+27,0 $ Hyménium brun rougeâtre, brun rouge, brun pourpre (violet pourpre et carpophore petit dans la variété ianthina). Spores (17) 21-24 (28) x 9-12 (14) µm avec beaucoup de petites gouttes, d'où un aspect interne granuleux écumeux. Souvent avec des spores secondaires. Carpophore jusqu'à 6 cm. Disque ondulé, plissé. Paraphyses simples. Icônes : Boudier 278, Cooke 241. $ subisabellina (Le Gal) Mos.
+27,0 $ Hyménium clair puis brun olive foncé à brun châtaigne. Carpophore jusqu'à 1 cm de largeur. Spores 20-25 x 10-12 µm avec deux guttules. $ olivacea Quélet
+28,29 $ Spores de longueur inférieure à 18 µm.
+28,35 $ Longueur des spores 18-25 µm.
+28,47 $ Spores de longueur supérieure à 25µm.
+29,30 $ Excipulum avec une strate médullaire de texture intricata.
+29,33 $ Excipulum sans strate médullaire de texture intricata.
+29,0 $ Texture de l'excipulum inconnue. Espèce jaune soufre (probablement d'origine tropicale), sur pots de fleurs, dans les serres. Spores 15-17 x 8 µm. Icônes : Bresadola 1218-3 ; $ chrysopela Cooke
+29,0 $ Texture de l'excipulum non connue. Espèce jaune d'or. Paraphyses avec des gouttelettes jaunes dans le haut. Normalement sur bois. Spores 16-18 x 8-10 µm. Voir 19b. $ flavida Phill.
+30,31 $ Paraphyses moniliformes ou difformes par la présence de ramifications latérales.
+30,22 $ Paraphyses simples tout au plus étranglées aux septa (voir 22a, b, c : cerea, repanda, micropus).
+31,0 $ Paraphyses difformes par la présence de ramifications latérales au niveau des cloisons. Spores 16-18 x 9,5-11 µm (voir 15a, b). $ ninguis var fortoulii(Donad. & Nev.) Donad.
+31,32 $ Paraphyses moniliformes.
+32,0 $ Carpophore se déchirant en étoile. Stipe radicant dans le sable par un long cordon de rhizomorphes. Hyménium ocre à brun rouge. Extérieur ocracé clair. Spores 16-18 x 9-10,5 µm. $ pseudoammophila Bon ex Donadini
+32,0,n $Icône : Maas Geesteranus (1967a) fig. 52. 
+32,0 $ Réceptacle attaché par le centre ou stipité (jusqu'à 1 cm), cupuliforme. Sur le bois, sciure, organismes en décomposition, etc. Spores (12,5) 14-16 x 8-11 µm (voir 20a). $ varia (Hedw.) Fr.
+33,0 $ Carpophore tout d'abord globuleux, puis s'ouvrant au sommet en se déchirant en étoile. Hyménium brun foncé, extérieur ocracé pâle et avec une longue racine de rhizomorphes. Dans le sable des dunes, plages, etc. Profondément enfoui. Spores 14-16 x 9-10 µm.$ ammophila Dur. & Mont.
+33,0,n$ Icônes : Dennis V A, Seaver p 333 (pl 64), Gammundi (1975) pl IV, Cooke 373.
+33,34 $ Pas ces caractères.
+34,0 $ Paraphyses avec dans le haut des gouttelettes jaune verdâtre. Hyménium jaune pâle, jaune citron, ocre jaune avec nuance verdâtre, ocre à brun fauve. Petite espèce, jusqu'à 2 cm de diamètre. Spores (15) 18-20 (21) x 9-11 µm. Icône : Boudier 271. $ buxea Quélet
+34,0 $ Paraphyses simples un peu étranglées aux septa. Hyménium brun ocre clair, brun jaune, brun clair. Carpophore jusqu'à 3 cm de large, en coupe aplatie jusqu'à étalé. Extérieur concolore et particulièrement granuleux brun à la marge. Excipulum seulement de texture globulosa sans strate médullaire de texture intricata. Spores (16) 18-20 x 10-12 sans guttule.$ ampliata Pers.
+34,0,n $ Icônes : Boudier 267, Cooke 384, Pilzfl. NWOFr. Pl. 13 No 39. 
+34,0 $ Idem à Peziza ampliata mais extérieur côtelé. Icône : Boudier 264-2. $ ampliata var costifera Boudier
+34,0 $ Paraphyses courbées au sommet et remplies de gouttelettes brun violet. Hyménium violet, violet foncé brun et finalement brun foncé. Spores 13-16 x 7-9 µm, hyalines, avec des guttules seulement dans les asques. En règle générale, sur les endroits brûlés (Hyménium plus clair et spores avec deux guttules voir P. moseri) Voir 5a. $ pseudoviolacea Donadini
+35,36 $ Hyménium jaune, jaune citron, jaune avec des nuances verdâtres ou olivâtres, devenant ocre en vieillissant. Petite espèce, jusqu'à 3 cm. Normalement avec des gouttes colorées au sommet des paraphyses.
+35,37 $ Hyménium brun sépia foncé, noir brun, violet noir ou noir.
+35,38 $ Hyménium ocre à brun, parfois avec des nuances rougeâtres ou pourpres, mais jamais nettement clair ou très foncé.
+36,0 $ Hyménium jaune, ocre jaunâtre. Carpophore de 1-2 cm de large, sessile ou à stipe courte. Spores 17,5-19 x 9-11 µm. Icône : Boudier 271. $ subcitrina Bres.
+36,0 $ Hyménium jaune pâle, jaune citron, ou ocre jaune avec une nuance verdâtre. Spores (15) 18-20 (21) x 9-11. Voir 34a. $ buxea Quélet
+36,0 $ Hyménium jaunâtre sale, puis jaunâtre brun ± olivâtre. Extérieur (contrairement à 36a et 36b) à grosse furfuration et à marge dentelée. Carpophore jusqu'à 2 cm de diamètre. Excipulum supérieur de texture intricata et vers l'extérieur de texture globulosa. Spores 19-22 x 10-13 µm. Icônes : Boudier 273, Bresadola 1242-1, Cooke 390. $ boudieri  (Cooke) Donadini
+37,0 $ Hyménium noirâtre violet. Carpophore 3-5 mm, sessile, lenticulaire, extérieur grossièrement furfuracé. Spores 19-22 (23) x 10-12 µm Icône : Boudier 275. $ recedens (Boud.) Mos.
+37,0 $ Hyménium brun sépia, brun gris, brun noir. Carpophore jusqu'à 2 cm, sessile ou à stipe court. Paraphyses avec parfois dans la partie haute, des gouttelettes brun foncée. Spores 18-22 x 11-13 µm. Icônes : Dennis VII F, Cooke 261. $ sepiatra Cooke
+38,0 $ Paraphyses à cloisons très courtes, à ramifications souvent très courtes près du sommet et avec des gouttelettes brunâtres vers le sommet. Carpophore patelliforme, 1-2 cm de large. Hyménium brun sombre. Spores 17-20 (23) x 9-10 (11) µm. Icônes : Dennis VII E, Cooke 304. $ sterigmatizans Phill.
+38,39 $ Sans de telle paraphyse.
+39,0 $ Hyménium ocré rougissant à la blessure, jusqu'à 2 cm de large. Extérieur de coloration plus claire, furfuracé. Carpophore sessile ou à stipe court. Excipulum supérieur de texture globulosa angularis et passant vers l'extérieur en texture globulosa. Paraphyses simples. Spores 18-20 x 10-11 µm sans gouttelettes. Sur tissus très humides, toile de jute, etc., en train de pourrir. $ linteicola Phill. & Plowr.
+39,40 $ Carpophore ne rougissant pas aux endroits blessés et ne venant pas sur les tissus en train de pourrir.
+40,0 $ Hyménium jaune olivâtre pâle, ocre gris puis brun ocre à presque brun. Carpophore jeune en forme de coupe mais après nettement stipité. Disque plat ou avec un ombilic au centre, jusqu'à 2,5 cm de large. Extérieur plus clair recouvert de grosses granules brunes. Excipulum avec une strate médullaire de texture intricata. Paraphyses simples. Spores (18) 20-23 x 11-13 µm.$ asterigma Vuill.
+40,0,n $ Icônes : Boudier 266, Persoonia 7(2) Pl. 19 (1973), Pl. VI 2. 
+40,41 $ Carpophore sessile et disque sans nuance grise.
+41,42 $ Hyménium ocre orangé, jaune ocre rougeâtre, brun jaune rougeâtre ou brun rougeâtre pourpre.
+41,43 $ Hyménium ocre à brun sans nuance rougeâtre.
+42,0 $ Spores 18-20 x 10-15,5 µm, finement rugueuses dans le lactophenol bleu coton. Au printemps à la fonte des neiges. Voir 15a. $ ninguis  Donadini & Trimbach
+42,0 $ Spores 23-26 x 12-15 µm d'aspect interne homogène. Carpophore petit. Disque plat ou presque pulviné, à stipe court. Hyménium jaune ocre rougeâtre, brun jaune rougeâtre. Avec des paraphyses s'élargissant de manière frappante. Déchets organiques dans les marais. Icône : Boudier 269 $ paludicola (Boud).
+43,19 $ Excipulum sans strate médullaire de texture intricata et marge non crénelée. Paraphyses non moniliformes.
+43,44 $ Excipulum avec une strate médullaire de texture intricata. Paraphyses moniliformes ou non.
+44,0 $ Paraphyses simples. En règle générale sur le bois. Spores (14) 15-19 x (7,5) 9-11 µm. Voir 22b. $ micropus Pers.
+44,45 $ Spores en moyenne supérieures à 20 µm de long.
+45,0 $ Eléments de la texture globulosa grands (jusqu'à 250 µm). Spores avec un contenu jaunâtre, 19-22,5 x 10,5-13 µm. Voir 21a. $ megalochondra  (Le Gal) Donadini
+45,46 $ Pas de tels éléments.
+46,0 $ Petite espèce apprimée jusqu'en coupe plate, de 0,5-3 cm de large. Extérieur furfuracé. Marge finement dentelée, granuleuse. Hyménium ocracé à brun clair, aussi avec des nuances vert olive sale. Spores 19-22 x 9,5-12 µm.$ granularis Donadini
+46,0,n $ Icônes : Les Champignons de Suisse I (1981) 51, Boudier 272, Cooke 391, Bulletin de la Société Linnéenne de Provence 31 (1977) pl. III 4, pl. V 3. 
+46,0 $ Carpophore jusqu'à 7 cm de large, en coupe profonde. Extérieur furfuracé. Marge grossièrement dentelée à déchirée en lobes triangulaires. Spores 17-21 x 9-12 µm. $ granulosa  Schum. ss Bres.
+46,0,n $Icônes : Bresadola 1203-1, Cooke 292, Pl. V 2. 
+47,0 $ Hyménium jaune ocre rougeâtre, brun jaune rougeâtre. Carpophore petit. Disque plat, à stipe court. Sur déchets organiques dans les marais. Spores 23-26 x 12-15 µm. Voir 42b. $ paludicola (Boud.)
+47,0 $ Hyménium brun ocre, brun jaunâtre à brun. Carpophore sessile d'abord patelliforme puis plat, 0,5-3 cm de large. Marge dentelée. A la limite de la neige au-dessus de 2000 m d'altitude. Spores 26-30 x 13-16 µm. Voir 14a. $ nivalis  (Heim & Remy) Mos.
+47,0 $ Hyménium jaune ocre sale, jaune nuancé de verdâtre ou d'olivâtre. Carpophore en coupe plate puis étalé, jusqu'à 3 cm de large, à stipe court et large. Marge dentelée. Paraphyses simples. Spores 25-30 (37) x 13-18 µm. Pots de fleurs terreux, jardins. Icône : Boudier 262. $ humicola (Boud.) Mos.
+Rem Clé no 2 : espèces à spores ornées 
+
+cs2,0$ : espèces à spores ornées
+1,2 $ Sur les places brûlées.
+1,10 $ Sur bois, détritus.
+1,13 $ Sur fumier, excréments, sur terrains bien fumés.
+1,15 $ Sur le sol, les déchets organiques, etc., (y compris les espèces déjà placées dans les rubriques 1a, 1b, 1c).
+2,3 $ Spores sans guttule.
+2,5 $ Spores avec une ou deux grandes guttules.
+3,0 $ Spores avec en particulier aux pôles des épines et des verrues saillantes, régulières. Spores 14-18 x 7-9 µm. Voir 41a. $ echinospora Karst.
+3,0 $ Spores avec de grossières crêtes allongées, sinueuses, 16-18 x 11-13 µm (ornementation incluse). Hyménium olivâtre. Carpophore jusqu’à 1 cm de large.1 $ vacinii (Vel.) Svr.
+3,0,n$D’après un mail de René Dougoud sur mycologia-europaea, espèce à placer parmi les carbonicoles guttulées de spores inférieures à 18 µm :
+3,4 $ Spores finement rugueuses.
+4,0 $ Carpophore en coupe aplatie puis étalé. Spores (14) 15-19 x 7,5-11 µm, intérieurement hyalines (voir 45a). $ arvenensis Boudier
+4,0 $ Carpophore le plus souvent en coupe profonde. Spores 15-18 x 8-10 µm, intérieurement granuleuses (voir 45b). $ pseudovesiculosa Donadini
+5,6 $ Spores inférieures à 15 µm.
+5,8 $ Spores supérieures à 15 µm.
+6,0 $ Spores 10-12 x 5,5-6,5 µm avec deux guttules. Ornementation constituée de crêtes finement allongées et parfois connectées les unes aux autres. Paraphyses fréquemment courbées avec au sommet des gouttelettes brunes. Hyménium sans coloration violette, brun gris, brun rouge pâle à brun datte. Carpophore très profondément cupulé, jusqu’à 7 cm.$ petersii Berk. & Curt.
+6,0,n $ Icônes : Boudier 291, Dennis VI C, Phillips p269, Bresadola 1214, Cooke 246. 
+6,0 $ Spores 10-13 x 6-7 µm avec deux guttules. Ornementation constituée de fines verrues allongées aplaties, irrégulières. Hyménium blanchâtre avec une tonalité rose, violette ou ocracée. Carpophore en coupe plate à étalé et jusqu’à 6 cm de large. Paraphyses droites, incolores ou avec des gouttelettes jaunes. Icône : Boudier 293. $ proteana Boudier
+6,0 $ Forme avec un développement sparassoïde. $proteana f. sparassoides (Boud.) Korf
+6,0,n $Icônes : Boudier 294, Dennis VI L, Phillips p270, Seaver pl. 37, 67, 68, Ceska Mykologia 36 pl. IX, X (1982).
+6,0 $ Spores 13-14 x 7,5-8 µm. Ornementation constituée d’un réseau ± complet. Hyménium brun foncé à noirâtre (voir 18b). $ ostracoderma Korf
+6,7 $ Spores à verrues régulières isolées ou finement verruqueuses ou rugueuses.
+7,0 $ Hyménium légèrement jaunâtre. Carpophore jusqu’à 1,5 cm de large, cupulé à patelliforme. Extérieur furfuracé. Paraphyses droites et incolores. Spores 11-13 x 6-7 µm avec deux guttules. $ cinatica Pfister
+7,0 $ Hyménium violet, violet brun, âgé brun foncé avec une tonalité pourpre. Carpophore jusqu’à 4 cm de large et cupulé à étalé plat. Paraphyses souvent courbées avec vers le sommet des gouttelettes violet brun. Spores (11) 12-14 x 6-8 µm avec deux guttules. $ violacea Pers.
+7,0,n $Icônes : Dennis VI B, Les Champignons de Suisse I (1981) 49, Boudier 292, Phillips p 270, Gerhardt (1985) 281.   NdT : René Dougoud utilise P. tenacella Phillips comme synonyme prioritaire : 2001 : Clé des discomycètes carbonicoles Documents mycologiques 30 (120) 
+8,0 $ Spores 17-19 (20) x 8-10 µm avec des verrues et des crêtes fines et très allongées qui, relier les unes aux autres, donnent presque l’aspect d’un réseau. Hyménium brun rouge et brun noir avec une tonalité olivacée (voir 20a). $ phlebospora  (Le Gal) Donadini
+8,9 $ Spores inférieures à 18 µm.
+9,0 $ Spores 15-17 x 7,5-9 µm avec des verrues denses et fines. Paraphyses avec dans le haut des gouttes brun noir. Extérieur avec une grossière granulation furfuracée violet noir (voir 54a). $ boltonii Quélet
+9,0 $ Spores 15-18 x 9-10 µm avec des verrues irrégulières et grossières. Paraphyses avec dans le haut des gouttes olive brun. Hyménium brun olive avec une tonalité rougeâtre vineux, ou brun gris ou brun noirâtre. Chair exsudant un lait jaune (voir 24c). $ succosella  (Le Gal & Romag.) Mos.
+9,0 $ Spores (14) 15-18 x (8) 9-10,5 µm avec de grossières verrues, isolées et parfois allongées. Paraphyses avec dans le haut des gouttes brunes. Hyménium brun châtaigne avec souvent un centre remarquablement plissé, ridé. $ atrospora Fuck.
+10,cs3 $ Spores avec apicules. $ clé 3 $s" clé de  Häffner "
+10,11 $ Spores sans apicule.
+11,0 $ Spores (16) 17-21 x 8-10 µm avec des verrues densément réparties, souvent allongées et de grandeur irrégulière, et deux guttules (voir 36c). $ badioconfusa Korf
+11,12 $ Spores sans guttule.
+12,0 $ Spores 22-24 x 8-10 µm (Boudier donne 15-18 x 6-8 µm seulement pour une récolte), légèrement ( !) elliptiques avec de très fines verrues denses et irrégulières. Paraphyses simples. Excipulum avec une strate médullaire de texture intricata et à l’extérieur une structure de pseudo-poils dressés. Hyménium gris terne, brun gris mat avec des nuances olivacé noirâtre. Extérieur concolore et plus clair, très finement duveteux blanchâtre. Carpophore jusqu’à 3 cm de large, en coupe aplatie aplati. Sur bois très humide en train de pourrir. Icônes : Boudier 281, Pl. VI 3. $ epixyla Rich.
+12,0 $ Spores 15-19 x 7,5-11 µm, finement rugueuses, elliptiques. Paraphyses simples. Excipulum avec une strate médullaire de texture intricata et à l’extérieur une structure de pseudo-poils dressés. Hyménium ocre clair à ocre brun. Extérieur concolore et blanc feutré. Carpophore jusqu’à 10 cm de large, en coupe aplatie jusqu’à étalé. Surtout sur bois et feuillage de hêtres (voir 45a). $ arvenensis Boudier
+13,0 $ Spores 19-24 x 9-10 µm sans guttule. Ornementation constituée de grossières verrues ± obtuses jusqu’à allongées. Paraphyses simples. Excipulum supérieur de texture intricata parsemé de gros éléments arrondis, se transformant vers l’extérieur en texture globulosa angularis. Hyménium jaunâtre, ocre orangé, brun jaunâtre avec une tonalité vert olive. Carpophore cupulé à obconique et jusqu’à 1,5 cm de large. $ chrysoolivascens Donadini
+13,14 $ Spores plus longues et seulement finement verruqueuses à rugueuses.
+14,0 $ Spores 13-16 x 6-8 µm sans guttule, finement verruqueuses. Excipulum de texture globulosa. Paraphyses simples. Hyménium de couleur café au lait clair, brun clair, brun noisette à brun foncé, sans autre coloration. Carpophore jusqu’à 3 cm de large, en coupe plate vite étalée. $ moravecii (Svrcek) Donadini
+14,0,n $Icônes : Les Champignons de Suisse I 47, pl. VI 5. 
+14,0 $ Spores 13-16,5 x 6,5-7,5 µm sans guttule, finement verruqueuses, dont l’ornementation ressemble en partie à des lignes allongées. Paraphyses simples (ou bien avec parfois dans le haut, des gouttes jaunes selon Häffner (1985)). Excipulum supérieur de texture globulosa angularis avec des éléments très larges et vers l’extérieur de texture globulosa angularis. Carpophore habituellement avec un stipe frappant (jusqu’à 1 cm). Disque jusqu’à 1 cm de large. Hyménium jaunâtre, ocre jaune à brun foncé.  $ perdicina (Vel.) Svr.
+14,0,n $Icônes : Naturh. Ges. Nürnberg abh 40 :16 (1985).
+14,0 $ Spores 15-18 x 7-8,5 µm sans guttule, finement verruqueuses. Paraphyses simples. Excipulum avec une strate médullaire de texture intricata. Hyménium brun ocre clair à ocre rougeâtre sale. Carpophore un peu en forme de coupe à presque en entonnoir, jusqu’à 5 cm de large. $ merdae Donadini
+15,16 $ Spores sans apicule.
+15,cs3 $ Spores avec apicule$$s"espèces à spores apiculées, cf  Häffner :"
+16,17 $ Spores réticulées ou avec des crêtes et lignes, irrégulières et allongées formant un réseau. Tableau II spores 1 à 8
+16,21 $ Spores ornées de crêtes et de verrues irrégulières, fines ou grossières, parfois connectées les unes aux autres et généralement allongées mais ne formant pas un réseau. Tableau II spores 9 à 16, tableau III spores 1 à 13.
+16,38 $ Ornementation de la spore rugueuse à finement ponctuée ou constituée d’épines ou de verrues régulières rondes, isolées. Tableau III spores 14 à 16, tableau IV spores 1 à 15.
+17,0 $ Hyménium de couleur verte. Carpophore jusqu’à 1 cm de large. Paraphyses simples. Spores 14-16 x 8-9 µm avec deux guttules (champignons de serres). $ chlorophaea  (Rehm) Sacc.
+17,0 $ Hyménium de couleur bleu (code Methuen 19 (B-D) (4-5)) ou violet (code Methuen 18 (B-C) 6). Paraphyses simples. Spores 16-18 x 8-9 µm, avec deux guttules. $ azureoides Donadini
+17,0 $ Hyménium jaunâtre pâle à jaunâtre ocre. Carpophore jusqu’à 1 cm de large. Paraphyses simples ou largement lancéolées en haut. Spores 16-19 x 7,5-9 µm, sans guttule. $ luteoflavida Svr.
+17,18 $ Hyménium brun foncé quelconque.
+18,0 $ Hyménium brun pâle, couleurs de fumée à brun noir avec une tonalité olivâtre. Carpophore jusqu’à 5 cm de large. Excipulum vers le haut formé de grands éléments arrondis entre lesquels sont insérés des éléments en forme de d’hyphe, vers le bas formé d’une texture globulosa angularis et revêtu à l’extérieur d’éléments piléiformes pouvant se réunir pour former des granulations furfuracées. Paraphyses simples. Spores 12-13 x 7-8 µm (sans ornementation), réticulées et avec deux guttules. Les mailles du réseau atteignent 2 µm de haut. Sur le sol. Icône : Cooke 225. $ atrovinosa  Cooke & Ger.
+18,0 $ Hyménium brun foncé à brun noir. Carpophore jusqu’à 2 cm large. Excipulum seulement de texture globulosa. Spores 13-14 x 7,5-8 µm avec deux guttules et ornées d’un réseau de crêtes très visibles. Sur terre stérilisée (serres, jardins) ou endroits brûlés. Icône : Dennis IV H. $ ostracoderma Korf
+18,19 $ Spores 14-17 – (18) µm de long. Carpophore seulement jusqu’à 4 cm large.
+18,20 $ Spores en moyenne supérieures à 17 µm. Carpophore généralement devenant plus grand.
+19,0 $ Spores 15-17 x 7,5-9 µm avec une guttule, rarement deux. Paraphyses avec dans le haut des gouttes jaunâtres et parfois avec un capuchon de gel de coloration brune. Chair sécrétant un lait bleu opale. Excipulum supérieur de texture intricata et vers l’extérieur passant en texture globulosa angularis. Hyménium brun châtaigne à brun noir avec une tonalité vert olive (voir Peziza badia). Carpophore cupulé, jusqu’à 3 cm de large. $ badiofuscoides Donadini
+19,0 $ Spores 14-18 x 7-8,5 µm avec de nombreuses petites guttules. Paraphyses simples ou courbées vers le haut. Pas de lait coloré. Excipulum de texture globulosa à globulosa angularis. Hyménium jeune brun olive puis brun foncé à presque noir. Carpophore d’abord cupulé vite aplati et jusqu’à 4 cm de large. $ natrophila Khan
+19,0 $ Spores 13,5-18 x 7,5-9 µm avec deux guttules. Paraphyses simples. Sans lait coloré. Excipulum supérieur de texture intricata puis de texture globulosa et de nouveau avec une strate de texture intricata et vers l’extérieur de texture angularis. Hyménium brun rouge sombre à brun châtaigne. Carpophore sessile, hémisphérique à cupulé, à la fin aplati jusqu’à 2 cm de large. $ muscicola Donadini
+20,0 $ Carpophore jusqu’à 6 cm de large, patelliforme à aplati. Hyménium brun rouge à brun noir avec une tonalité vert olive. Chair exsudant un lait bleu opale. Excipulum de texture globulosa à globulosa angularis avec quelques éléments d’hyphes entremêlées. Paraphyses simples ou rarement ramifiées aux septa. Spores 17-19 (20) x 8-10 µm avec beaucoup de crêtes très allongées s’anastomosant fortement et avec une ou deux guttules. Particulièrement sur les places à feu. $ phlebospora  (Le Gal) Donadini
+20,0 $ Carpophore jusqu’à 10 cm de large, cupulé à aplati. De couleur claire à brun foncé avec une tonalité vert olive. Excipulum supérieur de texture intricata, ensuite passant vers l’extérieur de texture globulosa à globulosa angularis. Paraphyses simples. Spores (15) 17-20 (21) x (9) 10-11 (12) µm entièrement réticulées et avec deux guttules.  $ badia Pers.
+20,0,n $Icônes : Dennis VI D, Les Champignons de Suisse I 37, Bresadola 1216, Boudier 283, Dähncke 668, Phillips p270, Gerhardt (1985) 283, Cooke 226.
+21,0 $ Spores 10-12 x 5,5-6,5 µm. Paraphyses souvent courbées et avec au sommet des gouttelettes brunes. Hyménium brun gris, brun rouge pâle à brun datte. Carpophore très profondément cupulé, jusqu’à 7 cm de large (voir 6a). $ petersii Berk. & Curt.
+21,0 $ Spores 10-13 x 6-7 µm. Hyménium blanchâtre avec une tonalité rose, violette ou ocracée. Carpophore en coupe plate jusqu’à étalé et jusqu’à 6 cm de large. Paraphyses droites, incolores ou avec des gouttelettes jaunes (voir 6b) $ proteana Boudier 
+21,0,n $  Icône : Boudier 293.
+21,0 $ Spores 10-13 x 6-7 µm. Hyménium blanchâtre avec une tonalité rose, violette ou ocracée. Carpophore en coupe plate jusqu’à étalé et jusqu’à 6 cm de large. Paraphyses droites, incolores ou avec des gouttelettes jaunes (voir 6b) ; Forme avec un développement sparassoïde. $ proteana f. sparassoides (Boud.) Korf.
+21,0,n $Icônes : Boudier 294, Dennis VI L, Phillips p270, Seaver pl. 37, 67, 68, Ceska Mykologia 36 pl. IX, X (1982)
+21,22 $ Spores nettement supérieures à 13 µm de long.
+22,23 $ Chair du carpophore à l’état frais sécrétant un liquide bleuâtre ou jaunâtre.
+22,26 $ Chair sans lait ou avec une lait incolore.
+23,24 $ Lait jaunâtre ou verdâtre.
+23,25 $ Lait bleuâtre.
+24,0 $ Hyménium rouge brun, brun foncé à noirâtre suie, extérieur remarquablement plus clair, blanchâtre, ocracé clair ou jaune citron. Paraphyses avec dans le haut des gouttes brunes. Spores 16-18 x 9-10 µm avec de petites épines et des verrues isolées, et deux guttules. $ infuscata Quélet
+24,0 $ Hyménium variable (mais plus clair que celui de Peziza infuscata), gris de plomb blanchâtre, gris clair, ocre pâle, brun jaune clair, gris terne, gris brun noir avec ± une tonalité vert olive (les couleurs grises sont typiques), extérieur grisâtre et parfois avec une marge jaunâtre. Carpophore jusqu’à 5 cm de large, en coupe aplatie mais poussant donc aussi sous forme sparassoïde. Paraphyses à peine colorées. Spores 17-22 x 9-12 µm avec deux guttules et souvent de grossières verrues irrégulières, pouvant être ± fortement allongées. $ succosa Berk.
+24,0,n $Icônes : Michael & Hennig (1960) II 241, Dennis VI G, Bresadola 1215, Boudier 289 ; fructifications âgées : Dähncke 664, Les Champignons de Suisse I 52, Gerhardt (1985) 284. 
+24,0 $ Semblable à l’espèce précédente mais paraphyses avec au sommet des gouttes brun vert. Spores plus petites 15-18 x 9-10 µm normalement avec une guttule centrale. Ornementation constituée de grossières verrues et épines, mais non allongées. $ succosella  (Le Gal & Romag.) Mos.
+24,0 $ Hyménium brun rougeâtre avec légère tonalité lilas, brun pourpre, violet brun (typiquement de tonalité rougeâtre vineux sur fond brun). Excipulum supérieur de texture intricata puis passant vers l’extérieur en texture globulosa. Paraphyses avec dans le haut, des gouttes jaune verdâtre ou des gouttes incolores qui verdissent dans une solution de potasse. Spores avec deux guttules, exceptionnellement une guttule, (14) 15-18 x (7,5) 8 µm. Ornementation constituée de fines crêtes allongées et irrégulières, celles-ci surtout aux deux pôles pouvant être connectées les unes aux autres. $ michelii (Boud.) Dennis
+24,0,n $ Icônes : Les Champignons de Suisse I 45, Dennis VI F, Bresadola 1213, Boudier 286.
+24,0 $ Hyménium rouge vineux violacé, rouge foncé, violet foncé. Excipulum supérieur de texture intricata puis passant vers l’extérieur en texture globulosa. Paraphyses avec au sommet des gouttes brun jaune et aussi souvent ramifiées vers le milieu. Spores avec une guttule, exceptionnellement deux, (14) 15-16 (17) x 8,5-9,5 µm. $ berthetiana Donadini
+25,0 $ Spores 13-15 x (8) 9-10 µm avec une guttule, plus rarement deux et des verrues isolées, rondes, régulières et aplaties. Paraphyses avec au sommet, un capuchon de gel brun. Carpophore jusqu’à 1,5 cm de large (max. 3 cm). Hyménium rouge brun, brun pourpre, brun sépia. Icônes : Dennis IV J, Boudier 297. $ badiofusca  (Boud.) Dennis
+25,0 $ Spores 14-16,5 x 7-9 µm avec deux guttules et d’irrégulières et grossières verrues allongées. Paraphyses simples à peine colorées. Carpophore jusqu’à 1,5 cm de large (max. 3 cm). Hyménium gris bleu foncé, bleu noir, extérieur brun sale.$ saniosa Schrader
+25,0,n $ Icônes : Les Champignons de Suisse I 50, Dennis V H, Boudier 295, Phillips p. 270, Gerhardt (1985) 285. 
+25,0 $ Spores 15-17 x 7,5-9 µm, subréticulées, avec une guttule, exceptionnellement deux. Paraphyses avec des gouttes jaunâtres au sommet et parfois un capuchon de gel brun. Carpophore jusqu’à 3 cm de large et en coupe plate. Hyménium brun châtaigne à brun noir avec une tonalité vert olive (voir 19a). $ badiofuscoides Donad.
+25,0 $ Spores 17-19 (20) x 8-10 µm, avec une guttule, exceptionnellement deux et d’irrégulières crêtes très anastomosées et fortement allongées. Paraphyses simples ou (rarement) ramifiées au septa. Carpophore jusqu’à 6 cm de large, cupuliforme aplati à étalé. Hyménium brun rouge à brun noir avec une tonalité vert olive (voir 20a). $ phlebospora (Le Gal) Donadini
+26,27 $ Verrues du sommet des spores densément connectées et s’agglutinant en masses (pseudo-apiculées Tableau III spore 10).
+26,28 $ Spores ornées de fines verrues irrégulières, se terminant en crêtes et en lignes (Tableau II spores 9 à 16 et Tableau III spores 1 à 9).
+26,37 $ Spores ornées de grossières verrues irrégulières, exceptionnellement allongées et isolées (Tableau. II spores 11 à 13).
+27,0 $ Hyménium brun avec une tonalité vert olive (commePeziza badia). Carpophore jusqu’à 2 cm de large. Excipulum de texture globulosa angularis avec une strate médullaire de texture intricata. Paraphyses simples. Spores avec une ou deux gouttes fugaces à maturité, (15) 16-18 (19) x 8-9 (11) µm, à verrues grossières, entassées aux pôles. $ polaripapulata Moravec
+27,28 $ Formations pseudo-apiculées observables sur les spores, même sur celles avec des verrues allongées.
+28,29 $ Carpophore habituellement avec un stipe net attaché au substrat. Hyménium au moins dans la jeunesse avec une tonalité jaunâtre. Spores sans guttule.
+28,30 $ Pas cette combinaison de caractères.
+29,0 $ Hyménium vert jaune, jaune sale, brun olivacé en vieillissant et jusqu’à 1 cm de large. Extérieur avec des poils raides qui partiellement s’agglutinent en écailles membraneuses et triangulaires. Paraphyses simples. Spores 13-15 x 6,5-8 µm avec de fines verrues irrégulières en partie allongées, sans guttule. Sur sphaignes pourrissantes. Icônes : Cooke 402, Persoonia 7(2) pl. 17/18 (1973). $ quelepidotia  Korf & O’Donnell
+29,0 $ Hyménium jaune, ocre jaune à brun jaune, 1,5cm de large. Extérieur sans revêtement frappant. Paraphyses simples. Spores 13-15 x 6,5-7 µm avec des fines verrues allongées. Sur fumier et tiges de plantes herbacées pourrissantes (voir 14b). $ perdicina (Vel.) Svr.
+30,31 $ Carpophore petit avec un hyménium exceptionnellement clair. Spores sans guttule.
+30,32 $ Pas cette combinaison de caractères.
+31,0 $ Hyménium blanchâtre avec ou sans tonalité lilas, puis ocracé clair. Carpophore de 1-1,5 cm de large. Spores 19-20 x 10-11 µm. $ lilacinoalba Donadini
+31,0 $ Hyménium ocre à ocre clair. Espèces très petites, pulvinées (max. 0,8 cm de diamètre). Excipulum de texture globulosa angularis. Paraphyses au sommet avec des granules jaunâtres. Spores 17-19 x 11-13 µm. $ nivis Donadini
+31,0,n $Icône : Bulletin Fédération Mycologique du Dauphiné-Savoie 76 :28 (1980). 
+31,0 $ Hyménium jaunâtre à jaune orange puis jaune olivâtre. Carpophore sessile, cupulé ou obconique, jusqu’à 1,5 cm de large. Excipulum supérieur de texture intricata puis se transformant vers l’extérieur en texture globulosa angularis. Paraphyses simples. Spores 19-24 x 9-10 µm. Normalement sur fumier. $ chrysoolivascens Donadini
+32,33 $ Hyménium d’une certaine manière bleu ou violet.
+32,34 $ Hyménium toujours brun.
+33,0 $ Spores 16,5-18 x 8-9 µm avec deux guttules, subréticulées (voir 17b). $ azureoides Donadini
+33,0 $ Spores 15-18 x 7-8 µm avec deux guttules et de grossières verrues isolées et allongées. Paraphyses simples. Carpophore jusqu’à 2 cm de large. Hyménium bleu violet. Icône : Boudier 290. $ irina Quélet
+33,0 $ Spores 14-16,5 x 7-9 µm avec deux guttules (voir 25b). $ saniosa Schrader
+33,0 $ Spores 15-16 x 8,5-9,5 µm avec une guttule. Carpophore jusqu’à 2 cm de large. Hyménium violacé rouge vineux à violet foncé (voir 24c). $ berthetiana Donadini
+34,0 $ Hyménium brun rougeâtre avec une légère tonalité lilas, brun pourpre, violet brun (typiquement très rouge vineux sur fond brun mais sans tonalité vert olive). Chair devenant jaune à la cassure. Paraphyses avec au sommet des gouttes jaunâtres ou des gouttes incolores devenant vert jaunâtre dans la potasse. Spores (14) 15-18 x (7,5) 8-10 µm (voir 24d). $ michelii  (Boudier) Dennis
+34,35 $ Hyménium brun verdâtre, ocre vert, brun gris ou brun de suie avec une tonalité verdâtre, brun rouge foncé avec une tonalité vert olive.
+35,0 $ Petite espèce, jusqu’à 3 cm de large. Hyménium ocre gris à brun gris avec une légère tonalité olivacée. Excipulum avec une strate médullaire de texture intricata et ensuite en dehors une structure de pseudo-poils dressés Paraphyses simples. Spores 15-18 x 6-8 µm (pour la récolte de Hohmeyer) ou 22-24 x 8-10 µm (chez Boudier), elliptiques étroites à presque fuselée, sans guttule, avec de très fines verrues irrégulières et sans être fortement allongées (voir 12a). $ epixyla Rich.
+35,36 $ Spores pas très étroites ou avec des guttules.
+36,0 $ Petite espèce (jusqu’à 3 cm de large). Hyménium brun ou brun de suie. Extérieur gris. Excipulum de texture globulosa avec des éléments d’hyphes entremêlés et extérieur revêtu d’une structure de pseudo-poils dressés. Paraphyses simples. Spores 17-19 (21) x 9,5-11 (12) µm avec une grosse guttule (exceptionnellement deux). Icônes : Boudier 296, Cooke 385. $ subumbrina  (Boudier) Mos.
+36,0 $ Petite espèce (en moyenne 4 cm de large). Hyménium jeune brun olive puis brun foncé à brun noir. Excipulum seulement de texture globulosa à globulosa angularis. Paraphyses simples ou courbées au sommet. Spores14-18 x 7-8,5 µm avec beaucoup de petites gouttes. Ornementation faite de crêtes aplaties, fortement allongées et étroitement enlacées les unes autour des autres. $ natrophila Khan
+36,0 $ Grosse espèce (jusqu’à 10 cm de large). Hyménium brun rouge foncé avec une tonalité vert olive (comme Peziza badia). Chair de la base violette à la coupe. Excipulum supérieur de texture globulosa et vers l’extérieur de texture angularis dense. Paraphyses simples. Spores (16) 17-21 x 8 –10 µm avec deux guttules, à verrues pas si finement allongées, ni anastomosées, mais au contraire irrégulièrement aplaties. $ badioconfusa Korf
+36,0,n $Icônes : Marchand 197, Cetto 1220, Bresadola 111, Boudier 282. 
+36,0 $ Hyménium brun rouge sombre à presque brun noirâtre parfois avec une tonalité vert olive. Carpophore jusqu’à 5 cm de large. Excipulum de texture globulosa. Paraphyses simples. Spores (15) 18-22,5 x (8) 9-11 µm avec deux guttules. Dans toutes les stations humides. Icônes : Gerhardt (1982) 240 et (1985) 282, Pl. V 4. $ limnae Maas G.
+37,0 $ Spores 13-16 (17) x 9-10 µm avec une grosse guttule centrale. Paraphyses simples. Excipulum de texture globulosa angularis. Carpophore jusqu’à 8 cm de large. Hyménium brun rouge avec une tonalité vert olive, extérieur brun roussâtre et furfuracé. $ saccardiana Cooke
+37,0,n $Icônes : Bresadola 1212, Cooke 302, pl. VI 4. 
+37,0 $ Spores (14) 15-18 x (8) 9-10,5 µm avec une guttule, exceptionnellement deux. Paraphyses simples. Excipulum de texture globulosa. Hyménium brun châtaigne, brun sépia sombre, brun noir avec une tonalité pourpre olive ; Centre souvent plissé ridé de manière frappante. Extérieur brun gris plus clair avec une marge brun pourpre ou brun châtaigne, grossièrement furfuracé. Carpophore jusqu’à 8 cm de large. Préférence pour les places à feu. Icônes : Boudier 285, pl. V 5. $ atrospora Fuck.
+37,0 $ Spores (16) 17-21 x 8-10 µm avec deux guttules. Hyménium brun rouge sombre avec des tonalités vert olive comme Peziza badia (voir 36c). $ badioconfusa Korf
+37,0 $ Spores 15-18 x 9-10 µm avec une guttule. Hyménium gris clair, ocre gris, brun gris comme Peziza succosa (voir 24c). $ succosella  (Le Gal & Romag.) Mos.
+38,23 $ A la cassure, chair sécrétant un lait jaunâtre, verdâtre ou bleuâtre.
+38,39 $ Sans lait ou bien seulement exsudant un lait incolore.
+39,0 $ Spores longuement elliptiques fuselées, 22-24 x 8-10 µm, sans guttule. Hyménium gris terne à brun gris, extérieur blanchâtre. Sur bois pourrissant (voir 12a). $ epixyla Rich.
+39,0 $ Spores longuement elliptiques fuselées, avec aux deux pôles, une ornementation épaissie à pseudo-apiculée, 17-22 (25) x 7-10 (12) µm, avec deux guttules. Paraphyses avec au sommet des granules brunes. Hyménium brun violet puis ocracé avec une tonalité violette. Carpophore en coupe plate jusqu’à étalé et à marge involutée, jusqu’à 4 cm de large. Icône : Cooke 277. $ lividula Phill.
+39,0 $ Spores longuement elliptiques fuselées, 15-18 x 7-8,5 µm très finement rugueuses, sans guttule. Hyménium brun ocre clair à ocre rougeâtre avec une tonalité couleur suie. Carpophore obconique, seulement approximativement cupuliforme, jusqu’à 5 cm de large. Normalement sur excréments (voir 14c). $ merdae Donadini
+39,40 $ Spores non fuselées.
+40,41 $ Spores sans guttule.
+40,0 $ Spores avec beaucoup de petites gouttes et donc d’apparence écumeuse, 14-18 x 9-11 µm. Paraphyses avec au sommet des gouttes brunes. Carpophore étalé plat, jusqu’à 1 cm de large. Hyménium brun foncé à brun noirâtre. Icônes : Boudier 298, Dennis IV G, Cooke 78. $ brunneoatra Desmazières
+40,0 $ Intérieur de la spore dès le début avec des petites gouttes se réunissant aux deux extrémités, mais en général très fugaces, si bien que finalement aucune guttule ne reste présente, 14-18 x 8-11 µm. Petite espèce (jusqu’à 2 cm de large). Fructification, à l’état jeune ocracé avec une tonalité rose, ensuite totalement brun rougeâtre, brun pourpre, mais avec une base plus pâle. $ labessiana (Boudier) Mos.
+40,47 $ Spores avec une grosse guttule, avec une grosse et une petite guttules ou avec deux guttules.
+41,0 $ Spores hérissées d’aiguillons et de verrues 14-18 x 7-9 µm, sans guttule. Paraphyses simples. Excipulum avec une strate médullaire de texture intricata. Carpophore jusqu’à 8 cm de large. Hyménium ocracé, brun clair à brun foncé. Extérieur furfuracé. Places à feu récentes. $ echinospora Karst.
+41,0,n $Icône : Boudier 279, Dennis V F, Marchand 386, Phillips p. 270, Cooke 247, Bulletin Linnéenne de Provence 31 (1977) pl. III.
+41,42 $ Spores très finement verruqueuses.
+42,0 $ Carpophore sessile, cupulé jusqu’à 4 cm de large. Hyménium ocre orangé, brun clair rougeâtre à brun foncé, extérieur concolore en plus clair et à peine furfuracé. Marge ondulée, à peine dentelée. Espèce printanière à la fonte des neiges. Excipulum avec une strate médullaire de texture intricata. Paraphyses moniliformes à informes par la présence de ramifications latérales (var fourtoulii). Spores 18,5-20,5 x 10-11,5 µm, très finement rugueuses, sans guttule. $ ninguis  Donadini & Trimbach
+42,0,n $Icônes : Les Champignons de Suisse I 48, Bulletin Fédération Mycologique du Dauphiné-Savoie 76 :28 (1980). 
+42,43 $ Paraphyses simples, non moniliformes.
+43,0 $ Carpophore sessile ou avec un pédicelle radicant, allongé et constitué de rhizoïdes. Hyménium brun jaunâtre à brun sombre. Extérieur ocracé, furfuracé. Paraphyses simples. Excipulum avec une strate médullaire de texture intricata. Parmi les mélèzes. Spores 17-23 x 10-12 µm, sans guttule. $ sublaricina Donadini
+43,44 $ Carpophore sessile et ne venant pas sous les mélèzes.
+44,45 $ Grosses espèces. Carpophore jusqu’à 10 cm de large et au dessus.
+44,46 $ Petites espèces. Carpophore dépassant à peine 2 cm de large.
+45,0 $ Carpophore jusqu’à 10 (15) cm, en coupe aplatie, puis étalé. Hyménium ocre clair, ocre brun. Extérieur ocracé clair et feutré fibrilleux de blanc. Excipulum avec une strate médullaire de texture intricata et ensuite à l’extérieur une structure de pseudo-poils dressés. Paraphyses simples. Dans les hêtraies, sur le bois et sur les feuilles. Spores (14) 15-19 x 7,5-11 µm, hyalines. $ arvenensis Boudier
+45,0,n $ Icônes : Boudier 261, Les Champignons de Suisse I 36, Bulletin Société Linnéenne de Provence 21 (1977) pl. III, 1.
+45,0 $ Carpophore jusqu’à 10 cm de large, sessile ou avec un court pédicelle apprimé, en général profondément cupulé. Hyménium ocracé à brun ocre, extérieur concolore en plus clair et furfuracé. Excipulum avec une strate médullaire de texture intricata et ensuite à l’extérieur une structure de pseudo-poils dressés. Paraphyses simples. Sur le sol, le bois humide, les endroits brûlés mais pas typiquement près des hêtres. Spores 15-18 x 8-10 µm, d’aspect interne non hyalin mais granuleux. $ pseudovesiculosa Donadini
+45,0,n $Icônes Boudier 263, Les Champignons de Suisse I 41. 
+46,0 $ Carpophore 1-2 (3) cm. Hyménium jaune pâle, ocracé jaunâtre à brun clair, extérieur concolore et furfuracé. Marge dentelée. Paraphyses simples. Excipulum de texture globulosa. Spores 17-20 (21) x 10-11 µm, sans guttule. $ buxoides Donadini
+46,0 $ Carpophore pulviné jusqu’à 1 cm de large. Hyménium ocre à brun, extérieur plus pâle, furfuracé. Marge dentelée. Paraphyses simples. Sur herbes ou feuilles pourrissantes. Spores 16,5-19 x 8-9,5 µm, sans guttule. $ palustris (Boud.)
+46,0 $ Carpophore jusqu’à 2 cm de large. Hyménium jeune ocracé avec une tonalité rose, puis ocre rougeâtre, brun rougeâtre, brun pourpre, brun rouge foncé mais plus pâle à la base. Spores 14-18 x 8-11 µm avec des guttules seulement présentes lorsque les spores sont dans l’asque (voir 40c). $ labessiana  (Boudier) Mos.
+46,0 $ Fructification à peine cupulée vite aplatie, 2(4) cm de large. hyménium couleur café au lait pâle, brun pâle à brun foncé sale. Extérieur finement farineux feutré. Spores 13-16 x 6-7 µm, sans guttule. Normalement sur fumier (voir 14a). $ moravecii  (Svrcek) Donadini
+47,0 $ Extrémité des paraphyses fortement courbées et pleine de gouttes brun pourpre. Spores (11) 12-14 (15) x 6-8 µm. sur les endroits brûlés. Voir 7b. $ violacea Pers.
+47,0 $ Extrémité des paraphyses immergée dans une fine croûte épithéciale amorphe (paraphyses avec un capuchon de gel semblable : voir Peziza badiofuscoides). Lait bleu. Spores 13-15 x (8) -9-10 µm (voir 25a). $ badiofusca  (Boudier) Dennis
+47,48 $ Paraphyses simples.
+48,49 $ Hyménium blanchâtre avec un reflet rose, violet ou ocracé clair.
+48,0 $ Hyménium jaunâtre. Extérieur blanchâtre et furfuracé. Carpophore jusqu’à 1,5 cm de large. Paraphyses simples. Spores 11-13 x 6-7 µm, avec deux guttules. $ cinatica Pfister
+48,50 $ Hyménium plus foncé avec des couleurs ocracées, brunes, pourpre ou violettes.
+49,0 $ Spores 12-15 x 6-9 –(10) µm avec une guttule, exceptionnellement deux. Paraphyses simples. Carpophore jusqu’à 5 cm de large. Icônes : Boudier 288, Imazeki & Hongo (1965) II 345. $ domiciliana Cooke
+49,0 $ Spores 15-18 x 8-9 µm, avec une guttule, exceptionnellement deux. Paraphyses simples. Excipulum de texture intricata et ensuite vers l’extérieur de texture globulosa angularis. Carpophore jusqu’à 3 cm de large. $ alborosea Donadini
+50,51 $ Spores 20-25 µm de long.
+50,53 $ Spores plus petites, tout au plus en partie supérieures à 20 µm.
+51,0 $ Hyménium violet bleu, violet sombre, devenant ocracé foncé. Carpophore jusqu’à 4 cm de large. Paraphyses avec au sommet des granules brunes. Spores 20-25 (28,5) x 9,5-12 µm, avec deux guttules. $ pseudoampelina Donadini
+51,52 $ Hyménium ocracé à brun. Carpophore jusqu’à 1 cm de large seulement.
+52,0 $ Spores 20-25 x 10-13 µm, avec deux guttules, très finement rugueuses (presque lisse). Paraphyses avec vers le sommet des gouttes brunes. Excipulum supérieur de texture intricata et ensuite passant vers l’extérieur en texture globulosa angularis. Hyménium brun ocre clair à brun. Marge droite ou dentelée ondulée. Extérieur blanc feutré. $ subuliginosa Donadini
+52,0 $ Idem seulement spores nettement verruqueuses au moins aux deux pôles. $ luticola Donadini
+53,54 $ Hyménium violacé, brun violet à brun pourpre.
+53,57 $ Hyménium sans teinte violette.
+54,0 $ Hyménium violacé, excipulum avec de grossières granulations violettes noirâtres. Carpophore jusqu’à 5 cm de large. Spores 15-18 x 7,5-9 µm avec des verrues aplaties, isolées, rondes, et deux guttules. $ boltonii Quélet
+54,55 $ Sans de telles granulations frappantes.
+55,0 $ Hyménium brun datte clair avec une légère tonalité violette. Carpophore seulement jusqu’à 1 cm de large. Spores 14,5-16,5 x 8-10 µm, avec deux guttules et très finement rugueuses dans le bleu coton lactophénol Jusqu’à présent seulement dans les serres. $ maximovicii (Vel.) Svr.
+55,56 $ Carpophore plus gros et spores nettement verruqueuses.
+56,0 $ Hyménium violacé sombre, brun pourpre à brun violet, extérieur plus clair, finement furfuracé à presque lisse. Carpophore jusqu’à 5 cm de large. Paraphyses simples et légèrement colorées au sommet de brunâtre mais pas granuleuses. Spores (15) 16-19 (21) x 8-10 (11) µm avec deux guttules, exceptionnellement une et des verrues régulières, rondes, isolées, aplaties. $ celtica (Boudier) Mos.
+56,0,n $Icônes : Les Champignons de Suisse I 38, Boudier 289, Pl. VI b. 
+56,0 $ Hyménium violacé, brun jaune ocracé avec une tonalité violette, devenant brun clair, extérieur plus clair, brun gris et feutré de blanc par une structure de pseudo-poils dressés. Carpophore jusqu’à 7 cm de large. Paraphyses simples avec un contenu jaunâtre brunâtre. Spores 18-22 x 8-11 µm avec deux guttules et des verrues régulières rondes, isolées, aplaties. Icône : Pl. VI 1. $ howsei  (Boudier) Donadini
+57,0 $ Spores (14) 16-18 (20) x 8-11 µm, avec une ou rarement deux guttules. Ornementation constituée d’épines et de verrues rondes, régulières, isolées pouvant atteindre 2 µm de haut. Paraphyses simples. Excipulum supérieur de texture intricata puis passant vers l’extérieur en texture globulosa angularis. Hyménium brun rougeâtre sombre à brun châtaigne, extérieur plus clair, presque lisse, marge légèrement poudrée. Carpophore jusqu’à 6 cm de large. $ depressa Pers.
+57,0,n $Icônes : Les Champignons de Suisse I 39, Boudier 287, Cooke 382. /    NdT : Galactinia depressa (Pers.) Boudier synonyme de Peziza castanea Quelet, a été combinée dans le genre Pachyella, P. castanea (Quelet) Häffner, dans « Die Gattungen Psilopezia & Pachyella, die psilopezioiden Pilze im engeren Sinn, Rheinl. –Pflälz. Pilzj. 1(2) :118-161,1992 ».
+57,0 $ Spores 16-18 x 9-11 µm avec deux guttules. Ornementation constituée de verrues rondes, isolées, irrégulièrement réparties et jusqu’à 1,5 µm de hauteur. Paraphyses simples. Hyménium gris olivâtre. Fructification jusqu’à 1,5 cm de large et profondément cupulée. . $ subretincola Svrcek
+57,0,n $Icônes : Velenovsky (1934) Pl. 25 fig. 5, 6
+57,58 $ Ornementation des spores finement verruqueuse à rugueuse.
+58,0 $ Hyménium brun sombre à brun olive noir. Carpophore jusqu’à 3 (5) cm de large. Paraphyses avec au sommet des gouttes brun noirâtre. Spores 17-22 x 10-12 µm avec une ou deux guttules. $ cervina (Fuck.) Sacc.
+58,0 $ Hyménium brun jaune ocre à brun clair. Carpophore jusqu’à 7 cm de large. Paraphyses simples, incolores ou jaunâtres. Spores (17) 18-21 (22) x 8-10 (11) µm, finement verruqueuses, avec deux guttules. Icônes : Boudier 280, Dennis VI A, Cooke 379, Pl. VI. $ emileia Cooke
+
+rem  Synonymies citées par Hohmeyer :
+ adae Sadler /
+domiciliana
+adusta Vel. /
+pseudoviolacea
+amplissima Boudier 
+pseudovesiculosa
+anthracophila Dennis
+echinospora
+aquatica Vel.
+ampliata
+atrovinosa Cke. & E. Ger. ss Moser
+ostracoderma
+aurata Le Gal
+flavida
+azorica Dennis
+buxea
+badioides Donadini
+polaripapulata
+bovina Phillips
+fimeti
+castanea Quélet
+depressa
+combustorum Vel.
+vesiculosa
+crassipes Quélet
+udicola
+crenulata Vel.
+cerea
+cristulata Le Gal
+atrovinosa
+epixyla Vel.
+ampliata
+fimetaria (Schum.) Rehm 
+fimeti
+flosnivium Donadini
+nivalis
+fulva (Schneider)
+ostracoderma
+funerata Cooke
+ammophila
+furfuracea (Rehm) Smits’Ka
+cinatica
+gossypina Vel.
+ampliata
+granulosa Schum. ss Boudier
+granularis
+granulosa var boudieri Cooke
+boudieri
+halici (Vel.) Svrcek
+? atrovinosa
+hispida Quélet ex Cooke
+quelepidotia
+hortensis Cr. ss Le Gal
+humicola
+howsei ss Bres.
+michelii
+ionella Quélet
+gerardii
+isabellina Smith ss Boudier
+subisabellina
+laricina (Heim & Remy) Donadini
+sublaricina
+lilacina (Boudier)
+moseri
+limosa (Grelet) Nannf.
+limnaea
+linteicolum Vel.
+cera
+lobulata Svrcek
+pseudoviolacea
+lumbricalis Cooke
+pertersii
+luteola (Vel.)
+luteoflavida
+minutispora (Vel.) Svrcek
+saccardiana
+muralis Sowerby
+cerea
+olivacea (Boudier)
+badioconfusa
+ollaris Pers. ss Bres.
+chrysopela
+paludicola var clavata Vel.
+recedens
+palustris in Moser (1963)
+paludicola
+pedicellata Vel.
+gerardii
+plebeia (Le Gal) Nannfeldt
+michelii
+praetervisa Bres. ss Dennis
+violacea
+preatervisa Bres.
+petersii
+pudica Boudier
+domiciliana
+pustulata Hedw. ss Fuckel
+fuckelii
+pustulata Hedw. ss Seaver
+echinospora
+pustulata ss Schroeder
+micropus
+reniformis Vel.
+sepiatra
+repandoides (Rehm) Saccardo
+micropus
+reperta (Boudier) Moser
+apiculata
+retincola (Vel.) Svrcek
+subretincola
+rubrofusca Rehm
+atrospora
+saliciphila Svrcek
+? pseudoampelina
+sarrazinii Boudier
+pertersii
+stevensoniana Ell. ss Rehm
+micropus
+sublilacina Svrcek
+moseri
+succosa ss Schroeter
+michelii
+sylvestris (Boudier) Saccardo
+arvenensis
+tectoria Cooke
+cerea
+tosta (Boudier)
+atrospora
+uliginosa Donadini
+subliginosa
+umbilicata Karsten
+ostracoderma
+umbrina (Boudier)
+echinospora
+varia var pseudoammophila Bon
+pseudoammophila
+vesiculosa var saccata Fr.
+vesiculosa
+violacea Pers. ss Bres., Maas G., etc
+moseri
+violacea Pers. ssBoudier, Dennis
+pseudoviolacea
+violaceonigra Rehm
+Pachyella violaceonigra
+
+
+
+rem clé de  Häffner 
+Die apikulaten Becherlinge J.Häffner - Zeitschrift für Mykologie, Band 52(1)1986
+
+ Clé no 3 : espèces à spores apiculées
+cs3,0$ espèces à spores apiculées
+1,2 $ Ascospores pseudo-apiculées : Ornementation apicale des spores constituée de verrues allongées et agrandies jusqu’à 2 µm de haut. 
+1,3 $ Ascospores apiculées : Ornementation apicale des spores constituée d’appendices (apicules) en forme de corne ou d’épine dépassant 2 µm de haut. 
+2,0 $ Ascospores ornées de verrues isolées, arrondies, fines à grossière, 0,1-1,2 µm de large et jusqu’à 0,5 µm de haut. Verrues apicales jusqu’à 2,5 µm de haut et 1,5 µm de large. Spores (16) 17,5-22 (25) x (7) 7,5-11 (12,5) µm , hyalines à légèrement jaunâtres. Apothécie vite aplatie à involutée, 0,5-2 (4,5) cm de diamètre, brun pourpre, extérieur blanchâtre et passagèrement furfuracé de blanc. Sur sols humides, débris végétaux, places à feu. France, Allemagne, Angleterre, Inde. A la fin Août. $lividula Phill.
+2,0,N $ Voir aussi Peziza kabyliensis et Peziza vagneri 
+3,4 $ Ascospores à apicules obtus : apicules larges et arrondis. 
+3,7 $ Ascospores à apicules spinuleux : épines pointues et élancées, cornes à extrémité pointue, seule ou à plusieurs. 
+4,5 $ Reste de l’ornementation sporale constituée de verrues rondes, largement éloignées les unes des autres jusqu’à très serrées à confluentes. 
+4,6 $ Reste de l’ornementation sporale constituée de verrues nettement allongées, en lignes irrégulières et/ou de courtes crêtes anastomosées. 
+5,0 $ Verrues isolées, très finement ponctuées (à l’immersion). Apicules nettement largement tronqués 1- µm de large et de haut, un seul par pôle mais rarement deux et plus. Spores 15,2-19,8 x 8-10,6 µm, hyaline. Petite espèce brun olive à vert olive, 0,4–0,8 cm de diamètre, orbiculaire à disciforme, à chair brunâtre. Excipulum constitué de trois couches. Paraphyses droites ou légèrement courbées. Su terrain sablonneux calcaire ou bois de Picea pourrissant. Localité du type : Rana (Norvège). Septembre. $prosthetica Diss. & Siv.
+5,0 $ Verrues petites à grossièrement guttiformes, isolées, pour la plupart espacées et donc se touchant rarement, 0,2-1,7 µm de haut et 0,5-2 µm de large. Larges apicules s’atténuant et à sommet arrondi, avec une base large et souvent avec une oreillette ( ? Vorhof) distincte, généralement un apicule par pôle, si plusieurs alors confluents ± tronqués, jusqu’à 4,5 µm de haut et de large. Petites ascospores hyalines, 14-19,5 x 8-10 µm (sans ornementation) et 16,3-27 x 8-9,5 –(10,2) µm avec. Espèce de taille moyenne, 1-2 cm de large, vert olive foncé, extérieur brun clair, un peu rugueux, s’aplatissant et concave. Sur bois pourrissants de feuillus. Localité du type : Brno (Tchécoslovaquie). Angleterre, France, Allemagne. En mai. $obtusapiculata Moravec
+6,0 $ Verrues allongées, courtement cristulées, occasionnellement irrégulièrement reliées, 0,3-0,8 µm de haut et 0,3-1,4 µm de large. Apicules obtus, largement tronqués, généralement plus larges que hauts, confluents, mais aussi en forme de col, un seul à quelques uns par pôle, 1,5-3 µm de haut et 2,5-5 µm de large. Ascospores géantes, 23,6-26,7 x 9-11 µm (sans ornementation). Espèce de taille moyenne, jusqu’à 2,5 cm de large, gris sombre ou brun olive à l'état sec, mais aussi brun rouge si elle se réhydrate après un état sec, disciforme à légèrement concave, extérieur brun rouge et un peu rugueux. Au sol dans les mousses, sur bois pourri. Australie, Papouasie-Nouvelle Guinée. Août. $thozetii Berk.
+6,0 $ Ornementation comme Peziza thozetii, constituée de courtes crêtes basses et anastomosées, formant occasionnellement un réseau irrégulier et incomplet. Apicules tronqués, jusqu’à 5 µm de large et de haut. Petites ascospores, 16-18 x 10-12 µm, brunâtres. Apothécie jusqu’à 0,5 cm de large, vert olive pâle, verdâtre, sessile, cupulée à concave. A terre, parmi les feuilles. Cuba $elachroa Berk. & Curt.
+7,8 $ Apicules acuminés, élancés, pas très nombreux, à peine plus de cinq par pôle; fréquemment un plus grand apicule saillant : aliquote apiculées. 
+7,9 $ Apicules élancé-acuminés ou robustes et solides, nombreux, jusqu’à dix différentiables et plus par pôle, confluents en houppe pointue s'ils sont plus nombreux : multi-apiculées 
+8,0 $ Verrues très espacées à rarement un peu confluentes, punctiformes à moyennement grandes, arrondies, basses, occasionnellement effilées au pôle, rarement avec un revêtement guttiforme à aplati. Apicules jusqu’à 6 µm et plus, élancés, épineux, (plus rarement tronqués : ébréchés ?), généralement un seul par pôle, mais parfois de deux à cinq (rarement de larges apicules : confluents ?). Ascospores 18-24,2 x 8,1-10,1 µm (sans ornementation), hyalines à brun clair. Petite espèce jusqu’à 1 cm de large, brun foncé avec une nuance olivacée, patelliforme, extérieur finement floconneux. Sur bois pourri et sol humide. Italie, France, Maroc, Angleterre ?, Allemagne, Argentine ?. D’août à octobre. $apiculata Cooke
+9,0 $ Ascospores largement elliptiques, 14-19-20,3 x 10,6-13,6 µm (sans ornementation), gris jaune. Verrues arrondies, fines à grosses, 0,4-2 µm de large et 0,1-0,7 µm de haut, quelques unes reliées par des crêtes mais la plupart isolées, également un peu épineuses près des pôles. Apicules minuscules, presque pseudo-apiculés, jusqu’à 3 µm de haut, épineux et grêles, généralement nombreux, quelques spores sans apicule mais avec des verrues polaires arrondies, même sans amoncellement apical. Petite espèce, 0,3 à 0,7 cm de large, noire, sessile, à chair épaisse, d’abord convexe puis disciforme à pulvinée. Sur sol humide (bordure de rivière), dans la mousse, l’herbe. Localité du type : Gde  Kabylie (Algérie). Fin mai. $kabyliensis Moravec
+9,10 $ Ascospores étroitement elliptiques à elliptiques fusiformes. 
+10,0 $ Verrues confluentes, en partie légèrement cristulées, la plupart arrondies, certaines allongées, 0,2-0,8 µm de haut, et 0,2-1 µm de large. Apicules rarement nombreux (environ de 6 à 10), effilés en épine, jusqu’à 3,5 µm de haut, la plupart ressemblant à des verrues pseudo-apiculées. Grandes ascospores 21,7-27,5 (30) x 11-13,6 µm avec ornementation, brun pâle. Petite espèce, 0,4-1,2 cm de large, pourpre foncé à pourpre noir, extérieur brun pourpre, rugueux, à chair épaisse, disciforme. Sur sol humide en bordure de chemin, près d’un ruisseau (forêt mêlée). Localité du type : Brno (Tchécoslovaquie). Mi-octobre. $vagneri Moravec
+10,0 $ Verrues comme Peziza vagneri, en outre ascospores avec des verrues isolées, grossièrement guttiformes, 0,2-1,5 µm . Apicules en général nombreux, 1-12 par pôle, effilés en épine, jusqu’à 4,5 µm de haut, plus rarement pseudo-apiculés, obtus-apiculés ou à minuscules épines. Grandes ascospores, 19-24,5-27,8 x 8-9,5-10 µm sans ornementation. Petite espèce cupulée, jusqu’à 1 cm de large, vert olive foncé, puis brun pourpre en vieillissant. Sur bois humide pourrissant. Localité du type : Yorks (Angleterre). Novembre. $polarispinosa Moravec
+10,0 $ Grosses verrues arrondies à pointues, confluentes, cristulé-allongées, formant parfois un réseau incomplet, 0n4-1,6 µm de haut, périspore détachable dans le lactophénol. Apicules très puissants, compacts, jusqu’à 8,5 µm de haut, effilées, arrondis ou tronqués (confluents), toutefois la plupart élancés, mais aussi en touffe huppée, se lacérant en multiples pointes, plus rarement obtus-apiculés. Grande espèce nettement stipitée, jusqu’à 2,8 cm de large, rouge chair à brun pourpre, disciforme à involutée, ridé-plissé-gibbeuse, chair dans la base fuligineuse, extérieur furfuracé, rugueux. Excipulum constituée de 3 couches. Sur bois humide, moussu et pourrissant, dans les serres (maison tropicale, jardin botanique). Cologne (Allemagne). Mai. $neocornui Moravec
+
+
+

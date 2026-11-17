@@ -1,0 +1,32 @@
+Titre$Lycoperdon Ellis 1990
+com$adapt GF sept 2014
+
+rem$LANGUE$Anglais
+1,0$source : Fungi Without Gills: Hymenomycetes and Gasteromycetes : An Indentification Handbook de M.B. Ellis et J.Pamela Ellis (juin 1990) 
+1,0$
+
+
+1,0$On wood, spores smooth$pyriforme
+1,2$On soil, spores not smooth 	
+2,0$Outer wall of fruitbody with few or no spines, common on coastal dunes$lividum
+2,3$Outer wall with numerous spines, not common on coastal dunes ..
+3,0$Spines 3-6 mm long$echinatum
+3,4$Spines never more than 3 mm long and usually much less
+4,5$Spores with attached pedicels
+4,7$Spores without attached pedicels
+5,0$Pedicels 10-35 long$pedicellatum
+5,6$Pedicels much shorter
+6,0$Pedicels 2-3 long, spines on fruitbody dropping off readily leaving a layer of brown sphaerocysts$marginatum
+6,0$Pedicels 0.5-1.5 long, spines slender, persistent$umbrinum
+7,0$Fruitbody when young covered with large, white or creamy veil remnants which persist and form a ring-like zone around base of head$mammaefonne
+7,8$No such veil remnants
+8,9$Spines dark, often blackish
+8,10$Spines paler, never blackish
+9,0$Spines dropping off, leaving areolate patches$foetidum
+9,0$Spines persistent, no a reo late patches$atropurpureum
+10,11$Spores coarsely warted, warts often scattered
+10,12$Spores minutely and closely warted
+11,0$Fruitbodies whitish, growing on dry, calcareous grassland .$decipiens
+11,0$Fruitbodies mostly creamy-coffee coloured, growing in woods, quite common$molle
+12,0$Subgleba purplish brown, a rare species found on damp, acid soil, e.g. moors with Sphagnum$ericaeum
+12,0$Subgleba white to brown, very common in conifer and mixed woods and often also elsewhere$perlatum

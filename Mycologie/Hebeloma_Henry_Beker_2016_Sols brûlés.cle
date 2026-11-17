@@ -1,0 +1,25 @@
+Titre$ H E B E L O M A   Henry BEKER & All  -  Fungi Europeae 14  -  2016
+Com$   Adaptée par Paul Bertéa 12/2017 - 07/10/2018
+
+ 1,2 $ Average spore length <= 10.0 µm and average spore width < 6.0 µm
+1,5 $ Average spore length > 10.0 µm or average spore width > 6.0 µm
+1,0 $$
+1,0 $ ===> Retour à la clé principale $$f"Hebeloma_Henry_Beker_2016.cle"
+
+2,3 $ Spores strongly dextrinoid (D3 or D4)
+2,4 $ Spores at most weakly dextrinoid (at most D2)
+
+3,0 $ Average cheilocystidium ratio B/M >= 1.25 $ H. pseudoamarescens
+3,0 $ Average cheilocystidium ratio B/M < 1.25 $ H. nanum
+
+4,0 $ Spores pale yellow and many ovoid, number of full length lamellae (L) >= 50, stipe  width of mature basidiomes = 4 mm $ H. subtortum
+4,0 $ Any of the above conditions not satisfied [Spores pale yellow and many ovoid, number of full length lamellae (L) > 50, stipe width of mature basidiomes > 4 mm] $ H. mesophaeum
+
+5,6 $ Cheilocystidia mostly cylindrical and of average length < 40 µm
+5,7 $ Cheilocystidia otherwise [not : mostly cylindrical and of average length < 40 µm]
+
+6,0 $ Average spore length == 11 µm $ H. anthracophilum
+6,0 $ Average spore length < 11 µm $ H. birrus
+
+7,0 $ Cheilocystidia mostly ventricose $ H. dunense
+7,0 $ Cheilocystidia mostly clavate-ventricose $ H. cavipes

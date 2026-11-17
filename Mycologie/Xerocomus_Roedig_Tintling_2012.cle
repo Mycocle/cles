@@ -1,0 +1,95 @@
+11-11-2013
+
+Der Schlüssel berücksichtigt auf der Grundlage des Gattungskonzepts von Sutara im wesentlichen die Monographie von Ladurner & Simonini und enthält weitere Anmerkungen insbesondere zur Arbeit von Engel et al. Die Sporenmaße wurden – wenn nicht anders erwähnt – von Ladurner & Simonini bzw. für X. chrysonemus und X. silwoodensis aus den Originalbeschreibungen übernommen. 
+Die Arten der Formengruppe Xerocomus s.l. ohne ausgeprägtes Palisadoderm, die von Sutara 
+• entweder nicht erwähnt oder nicht umkombiniert wurden (X. ichnusanus, X. roseoalbidus, X. persicolor, X. dryophilus) oder 
+• der neuen Gattung Xerocomellus (X. armerniacus) zugeordnet worden sind, sowie weitere von Ladurner & Simonini nicht erwähnten Arten sind wegen ihrer Huthautstruktur (kein Palisadoderm sondern ein Trichoderm, nicht oder nur schwach inkrustiert, bzw. mit kongophilen Plaquen) im Schlüssel zusätzlich enthalten; die Namen sind kursiv mit Unterstreichung dargestellt.
+Damit beinhaltet der Schlüssel :
+
+1,cs1 $ Die vier Arten der Gattung Xerocomus s. str. : 
+- Xerocomus ferrugineus (Schaeff. 1774) Bon 1985 mit einem Hinweis auf Xerocomus carnosus (Rostk.) Singer 1989 
+- Xerocomus chrysonemus Hills & Taylor 2006 
+- Xerocomus subtomentosus (L. 1753: Fr. 1821) Quél. 1888 mit einem Hinweis auf Xerocomus pascuus (Pers. 1825) Bon 1984 
+- Xerocomus silwoodensis Hills, Eberhardt & Taylor 2008 mit einem Hinweis auf Boletus heiroglyphicus Rostk. 1844
+1,cs2 $ Sechs Arten, die auf Grund bestimmter Merkmale mit Arten der Gattung Xerocomus s. str. verwechselt werden könnten: 
+- Xerocomus ichnusanus Alessio, Galli & Littini 1984 
+- Xerocomus roseoalbidus Alessio & Littini 1987 
+- Xerocomus persicolor Engel, Klofac & Grünert 1996 
+- Xerocomus dryophilus (Thiers) Singer 1986 ss. Ladurner & Simonini (Anmerkungen unter Xerocomellus) 
+- Xerocomus spadiceomaculans Engel & Härtel
+- Xerocomellus armeniacus (Quél. 1884) Sutara 2008 Xerocomus armeniacus var. armeniacus f. armeniacus (Quél. 1884) Quél. 1888 
+- Xerocomus armeniacus var. venosipes Redeuilh 1995 Xerocomus armeniacus var. luteolus Engel & Antonin 1996
+
+cs1,0 $ Les 4 Xerocomus ss stricto
+
+1,0 $ Sporen im Mittel bis 4,5 µm breit $ Xerocomus ferrugineus (Schaeff. 1774) Bon 1985
+1,0,N$///Sporen (8,8) 11,6 +/- 1,02 (14,7) X (3,4) 4,2 +/-0,28 (5,0) µm; Quotient (1,9) 2,8 +/- 0,22 (3,5); Huthaut ein Trichoderm zu einem Palisadoderm tendierend, Fleisch im Schnitt weißlich, +/- nicht verfärbend; Fruchtkörper oft mit leuchtend gelbem Basalmyzel; bei Koniferen, Fagus; nach Gelardi auch Betula, Arctostaphylos und Salix.///Taylor & Halling geben in ihrer vergleichenden Übersicht der vier europäischen Xerocomus Arten folgende durchschnittliche Sporenmaße an: 11,9 +/-0,7 X 4,5 +/- 0,3 µm; Quotient 2,7 +/- 0,2 Engel et al. beschreiben X. ferrugineus auch als schwach bis intensiv grünblau verfärbend; die Sporenmaße überschneiden sich zudem stärker mit X. subtomentosus. ///Als nicht oder kaum verfärbende Art wird X. lanatus abgegrenzt. Ladurner & Simonini geben aus Engel et al. allerdings für X. ferrugineus als Referenzen die Abb. 46, 48 (als X. lanatus), 56 als X. subtomentosus und 58 als X. subtomentosus var. variicolor) an, nicht aber Abb. 45, die einen X. ferrugineus zeigt, dessen Röhren deutlich blauen und der sich im Schnitt gelblich, zur Basis nach braun verfärbt; diese Abb. wird von Ladurner & Simonini als Referenz für X subtomentosus angeführt. Insofern ist die hier zu Grunde gelegte Abgrenzung von Ladurner & Simonini zu X. subtomenosus (Sporen, Fleisch nicht oder kaum verfärbend, Koniferen und Fagus) plausibler als das Konzept von Engel et al. ///Xerocomus carnosus (Rostk.) Singer 1989 wird von Singer als eine X. spadiceus nahe stehende Art gesehen. Da die Art ursprünglich als Boletus carnosus aus Europa beschrieben wurde, bleibt die Einordnung dieses Taxons in das o.a. Modell von Taylor et al. weiter zu prüfen. Entweder ist X. carnosus ein Synonym zu einer Art aus dem europäischen oder amerikanischen Xerocomus-Komplex oder stellt eine weitere eigenständige Art dar 
+1,2 $ Sporen breiter als 4,5 µm
+
+2,0 $ Fleisch im Schnitt hellgelb bis gelb, nicht verfärbend $ Xerocomus chrysonemus Hills & Taylor 2006
+2,0,N$///Sporen (9) 11,5 (14,5) X (4,5) 5 (7) µm; Quotient 2,2 (+/- 0,1); Huthaut ein Trichoderm mit ziemlich kurzen Zellen (4,5 – 18,0), abgerundet oder projektilförmig, kaum oder nicht inkrustiert; Röhren auf Druck unveränderlich; Fleisch im Schnitt weiß, blaßgelb bis gelb im Hut, leuchtender gelb zur Stielbasis, nicht verfärbend; oft mit senfgelbem bis leuchtend gelbem Basalmyzel, bei Quercus. ///Abb.:http://www.hampshirefungi.org.uk/images/Fungi/Boletus%20chrysonemus%209960.jpg Taylor & Halling geben in ihrer vergleichenden Übersicht der vier europäischen Xerocomus Arten folgende durchschnittliche Sporenmaße an: 11,3 +/- 0,5 X 5,2  +/- 0,2 µm; Quotient 2,2 +/- 0,1
+2,3 $ Fleisch im Schnitt mit roten Tönen oder deutlichen Verfärbungen insbesondere im Stiel
+
+3,0 $ Sporen (9,7) 12,2 +/- 0,96 (17,2) X (3,8) 4,8  +/- 0,32 (5,9) µm; Quotient (1,8) 2,5 +/- 0,24 (3,7); $ Xerocomus subtomentosus (L. 1753: Fr. 1821) Quél. 1888
+3,0,N$///Röhren auf Druck blauend; Fleisch im Schnitt hellgelb bis lebhaft gelb, zur Stielbasis fleischfarben bis bräunlichrot, langsam blauend insbesondere im Hut; Basalmyzel weiß; bei Laubgehölzen, selten Fagus. ///Siehe auch Anmerkung zu X. ferrugineus; Taylor & Halling geben in ihrer vergleichenden Übersicht der vier europäischen Xerocomus Arten folgende durchschnittliche Sporenmaße an: 12,3 +/- 0,7 X 5,1  +/- 0,3 µm; Quotient 2,4 +/- 0,2. ///Xerocomus subtomentosus var. pascuus Pers. 1825 wurde von Bon als Xerocomus pascuus (Pers. 1825) Bon 1984 in den Rang einer Art gestellt, jedoch von Ladurner & Simonini und Engel et al. nicht erwähnt. 
+3,0 $ Sporen (9) 9,5-14,5 (18,5) X 4 - 5,5 (7,5) µm; Quotient 2,1 – 2,5 $ Xerocomus silwoodensis Hills, Eberhardt & Taylor 2008
+3,0,N$ Huthaut ein Trichoderm mit größeren Zellen (11,5) 39,6 +/- 11,8 (85,7) X (5,0) 11,7  +/- 3,86 (43,2) µm, kaum oder nicht inkrustiert.///Die Hutfarbe tendiert zu rotbraunen Tönen; Fleisch im Schnitt weiß, im Hut nach hellgelb bis gelb im Stiel blaßrot gesprenkelt bis grau-rosé verfärbend, selten ohne Verfärbung; mit rötlich purpurner Linie unter der Huthaut bzw. über dem Hymenophor; Madengänge im Alter schwarz; oft tief wurzelnd, nie mit goldgelbem Basalmyzel; vorwiegend bei Populus evtl. auch Castanea.///Abb.: http://estaticos.20minutos.es/img/2008/05/27/818625.jpg (aus der Originalbeschreibung)./// Taylor & Halling geben in ihrer vergleichenden Übersicht der vier europäischen Xerocomus Arten folgende durchschnittliche Sporenmaße an: 11,4+/-0,6 X 4,9  +/- 0,3 µm; Quotient 2,3 +/- 0,2.///Kibby bildet X. silwoodensis gemeinsam mit einer Reproduktion von Boletus heiroglyphicus Rostk. 1844 ab und weist auf die erstaunliche Ähnlichkeit hin; Wie Gelardi führt er B. heiroglyphicus als Synonym an und versieht dies mit einem Fragezeichen. 
+
+Cs2,0 $ 
+
+1,2 $ Röhren bei Verletzung stark blauend, oft mit granulöser Ringzone, mediterrane Arten
+1,3 $ Röhren bei Verletzung nicht blauend 
+
+2,0 $ Sporen (11) 12,8 +/- 0,77 (14,3) X (5) 5,5 +/- 0,29 (6,3) µm; Quotient (2,0) 2,3 +/- 0,17 (2,8); $ Xerocomus ichnusanus Alessio, Galli & Littini 1984 
+2,0,N$///Huthaut ein irreguläres Trichoderm aus moderat verwobenen langen zylindrischen Hyphen, Endzellen manchmal gebogen oder verzweigt; Fleisch bei Verletzung von weißgelb mit örtlich begrenzten Rottönen im Stiel, in der Stielbasis immer schwarzbraun, insgesamt nach blau verfärbend; Basalmyzel gewöhnlich stark entwickelt, grau: 
+2,0 $ Sporen (11) 13,9 +/- 1,17 (17,6) X (5,9) 6,7 +/- 0,39 (7,6) µm; Quotient (1,5) 2,1 +/- 0,17 (2,5); $ Xerocomus roseoalbidus Alessio & Littini 1987
+2,0,N$///Huthaut ein irreguläres Trichoderm aus moderat verwobenen langen zylindrischen Hyphen, Endzellen nicht gebogen oder verzweigt; Hutfarbe irgendwie rosafarben bis fleischfarben, selten blutrot; Poren sehr klein (ca. 1mm), Stiel spitz zulaufend, oft büschelig oder verzweigt; Fleisch im Schnitt rosa-purpur im Hut, cremegelb im Stiel und graubraun in der Stielbasis, blauend; Basalmyzel weißlich.
+
+3,4 $ Elemente der Huthaut mit kongophilen Plaquen oder Exsicate mindestens im Stiel auffallend safran-gelb
+3,5 $ Elemente der Huthaut ohne kongophile Plaquen, Exsikkate nirgendwo safran-gelb auch in Mitteleuropa vorkommende Arten
+
+4,0 $ Sporen (11,0) 13,1 +/- 0,82 (15,5) X (4,4) 5,1 +/- 0,29 (5,9) µm; Quotient (2,0) 2,6 +/- 0,17 (3,1). $ Xerocomus persicolor Engel, Klofac & Grünert 1996
+4,0,N$///Elemente der Huthaut mit fein inkrustiertem Pigment, die meisten Endzellen mit leuchtend gelbem intrazellulärem Pigment in 3 % KOH und ausnahmsweise mit feinen kongophilen Plaquen; Hut rosa, pfirsich- oder aprikosenfarben; Fleisch im Schnitt zitronengelb, im Stiel kräftiger gelb, besonders über den Röhren und im Bereich der Stielspitze relativ stark blauend, abwärts rötlich verfärbend und dann kaum blauend, Fleisch der Stielbasis oder –oberfläche mit Eisensulfat nach einigen Sekunden dunkel grün-blau verfärbend, ///Exsikkate zumindest im stiel auffallend safran-gelb.///Hahn gibt an, daß sich X. persicolor u.a. durch das Fehlen von Plaquen von X. armeniacus abgrenzt.///Die Hymenophoraltrama soll ”xerocomoid” (= phylloporoid) sein: ein abgesetztes Mediostratum fehlt.///Nach Laduner & Simonini hat aber auch X. persicolor kongophile Plaquen. 
+4,0 $ Sporen nicht [(11,0) 13,1 +/- 0,82 (15,5) X (4,4) 5,1 +/- 0,29 (5,9) µm; Quotient (2,0) 2,6 +/- 0,17 (3,1)] $ Xerocomus armeniacus (Quél.1884) Quél. 1888
+4,0,N$///- Xerocomellus armeniacus (Quél. 1884) Sutara 2008/ ///- Xerocomus armeniacus var. armeniacus f. armeniacus (Quél. 1884) Quél. 1888///- Xerocomus armeniacus var. venosipes Redeuilh 1995///- Xerocomus armeniacus var. luteolus Engel & Antonin 1996/// ===> siehe Schlüsselstelle unter Xerocomellus dryophilus :///„Die von Ladurner & Simonini beschriebene Beschaffenheit der Huthaut würde einer Zuordnung zu Xerocomellus auch entgegenstehen.“
+
+5,0 $ Fleisch im Schnitt gelb, in der unteren Stielhälfte dunkelrot verfärbend $ Xerocomus dryophilus (Thiers) Singer 1986 ss. Ladurner & Simonini 
+5,0,N$///Eine Zuordnung dieser Art wurde von Sutara mangels eigener Studien nicht vorgenommen; siehe unter Xerocomellus Schlüsselstelle 7.2 mit Anmerkungen. 
+5,0 $ Fleisch weiß im Anschnitt, besonders im oberen Hutbereich, über den Röhren und in der Stielspitze nahe der Stielrinde rosa bis rosabraun fleckend, auch fleckenweise das ganze Fleisch verfärbend $ Xerocomus spadiceomaculans Engel & Härtel 
+5,0,N$///Habitus wie Boletus/Xerocomus badius, Stiel fast weiß, tlw. bräunlich überhaucht, Sporen 11,6 – 14,5 X 4,2 – 5,0 µm, glatt. Huthaut ein Trichoderm verwobener, langer Hyphen, ähnlich X. badius ; bei Pinus, Picea mit eingestreuten Quercus, Fagus. ///Die in Engel et al. neu beschriebene Art wurde von Laduner & Simonini wegen fehlenden Materials nicht berücksichtigt. ///Wegen des Erscheinungsbildes und der Angaben über Huthautbeschaffenheit und Verfärbung wird sie hier dem Schlüssel zu Xerocomus s. str. zugeordnet. Allerdings fehlen der Art die bazillat ornamentierten Sporen. ///Die Zugehörigkeit zu Xerocomus/Xerocomellus ist zweifelhaft. 
+
+
+Vorläufiger Schlüssel  
+Der Schlüssel berücksichtigt auf der Grundlage des Gattungskonzepts von SUTARA im wesentlichen die Monographie von LADURNER & SIMONINi und enthält weitere Anmerkungen insbesondere zur Arbeit von ENGEL et al. Die Sporenmaße wurden – wenn nicht anders erwähnt – von LADURNER & SIMONINi bzw. für X. marekii aus der Originalbeschreibung und für X. engelii aus der Beschreibung für Xerocomus quercinus von Engel et al übernommen.
+Die nordamerikanischen Arten, die LADURNER & SIMONINI aufführen und deren Vorkommen in Europa zumindest diskutiert wird, sind ebenfalls in dem Schlüssel enthalten bzw. in Anmerkungen aufgeführt. Die Namen der Arten, die von SUTARA oder KLOFAC nicht der Gattung Xerocomellus zugeordnet worden sind, sind kursiv mit Unterstreichung dargestellt. 
+Der Schlüssel ist nach folgender Systematik aufgebaut:  
+Arten mit truncaten Sporen:
+Xerocomus armeniacus var. luteolus ENGEL & ANTONIN 1996  
+Xerocomellus porosporus (IMLER ex MORENO et Bon) SUTARA 2008 ”Xerocomus porosporus B ad int.” 
+Xerocomus truncatus SINGER, SNELL & DICK 1959 
+Xerocomellus  marekii (Sutara et Skala) Sutara 2008 
+Xerocomellus fennicus (HARMAJA) SUTARA 2008 
+Xerocomus luteovinaceus ENGEL & LUDWIG ad int. (= X. fennicus?) 
+Xerocomus intermedius (SMITH & THIERS) HEINEMANN, RAMMELOO & RULLIER 1988  
+
+Arten mit gestreiften Sporen, Ornament im Lichtmikroskop sichtbar:  
+Xerocomellus ripariellus (REDEUILH) SUTARA 2008  mit einer Anmerkung zu Boletellus catalaunicus PÖDER, MORENO, TABARÉS, ROCABRUNA 1997 ”Xerocomus” spec.  
+
+Arten mit glatten Sporen oder Sporen, die im Lichtmikroskop glatt erscheinen bzw. bei denen die Streifung nicht immer sicher zu erkennen ist,  • mit einem Länge-Breiten-Quotienten < 2,5:  
+Xerocomellus rubellus (Krombh.) Sutara 2008 
+Xerocomus dryophilus (THIERS) SINGER 1986 ss. LADURNER & SIMONINI = ?Xerocomus guidonis HILLS 2008 nom. inv. mit Anmerkungen zu Xerocomus dryophilus (THIERS) SINGER 1986  
+Xerocomellus engelii (HLAVACEK) SUTARA 2008 Boletus fraternus PECK 1897  
+• mit einem Länge-Breiten-Quotienten > 2,5:  Xerocomellus pruinatus (FR.) SUTARA 2008 Xerocomus  zelleri (MURRILL)SNELL 1944 
+Xerocomus cisalpinus SIMONINI, LADURNER & PEINTNER 2003 
+Xerocomellus chrysenteron (BULL.) SUTARA 2008 
+Xerocomus erubescens CADINANOS & MUNOZ 1992 
+Xerocomus bubalinus (OOLBEKKINK & DUIN) REDEUILH 1993  
+Arten mit kongophilen Plaquen auf den Hyphen der Huthaut (von SUTARA tlw. zu Xerocomellus umkombiniert bzw. nicht eindeutig zuzuordnen):  
+Xerocomus persicolor ENGEL, KLOFAC & GRÜNERT 1996 
+Xerocomellus armeniacus (QUÉL. 1884) SUTARA 2008 
+Xerocomus armeniacus var. armeniacus f. armeniacus (QUÉL. 1884) QUÉL. 1888 
+Xerocomus armeniacus var. venosipes REDEUILH 1995  
+Xerocomus armeniacus var. luteolus ENGEL & ANTONIN 1996  
+Arten, die dem Formenkreis xerocomoider Pilze zugerechnet worden sind, ohne das dies hinlänglich sicher nachvollzogen werden kann, sind in einem Anhang dargestellt:  
+Xerocomus badiorufus (HEIM 1960) BON 1970   
+Xerocomus lilaceus (Rostk.) Redeuilh 1993

@@ -1,0 +1,15 @@
+MYCOCLE 001107635241234123456
+ clé exploitable par Mycoclé V2.xx
+ Mycoclé V2.xx :  Genre Cortinarius (Pers.) S.F.Gray 
+ Adaptation par A. Paris 2011
+850513579
+0 1a : Carpophores typiquement non hygrophanes, ne changeant pas ou changeant peu de couleur et ne devenant pas méconnaissables par le sec ; réactions colorées fréquentes aux bases.0111502
+0 1b : Carpophores typiquement hygrophanes, changeant de couleur et pouvant devenir méconnaissables par le sec ; réaction aux bases : nulle, brunâtre ou violacée.0112605
+0 2a : Carpophores, les uns totalement ou partiellement visqueux, les autres secs et à chapeau lisse.0213703
+0 2b : Carpophores à chapeau et stipe non visqueux, différant des Phlegmacia « secs », soit par le port, soit par la structure du revêtement piléique.0214804
+0f"Corti-Atlas-Sg-Myxacium_c.cle" 3a : Carpophores, soit entièrement visqueux et à grandes spores fortement ornées, soit amers ou amarescents (quelques-uns presque secs), à petites spores très peu ornées. 033590Ss-genre Myxacium 0
+0f"Corti-Atlas-Sg-Phlegmacium_c.cle" 3b : Carpophores soit à chapeau visqueux seulement et à spores amygdaliformes, soit entièrement ou partiellement visqueux, soit secs et, dans ce cas, à spores typiquement ovoïdes-subglobuleuses ; stipe à bulbe marginé ou plus ou moins bulbeux. 0336100Ss-genre Phlegmacium 0
+0f"Corti-Atlas-Sg-Cortinarius_c.cle" 4a : Carpophores à chapeau pelucheux, les uns entièrement violets ou à teinte violacée dominante, les autres de teintes vives, allant du jaune vif ou roux orangé, certains tirant nettement sur l’olivâtre ; épicutis à hyphes larges. 0447110Ss-genre Cortinarius 0
+0f"Corti-Atlas-Sg-Dermocybe_c.cle" 4b : Carpophores à chapeau lisse (épicutis à hyphes minces), soit à pigmentation intracellulaire violacée dominante, soit à revêtement tendant à noircir, soit à pigments extracellulaires (anthraquinones) fréquents, ou bien de port flammuloïde (épicutis à hyphes larges et septées) de teintes très vives et pour certains à mycélium cinabre remontant le long du stipe. 0448120Ss-genre Dermocybe 0
+0f"Corti-Atlas-Sg-Telamonia_c.cle" 5a : Stipe orné d’un anneau complet ou de bracelets, à restes de voile très évidents sur le stipe (exceptionnellement dépourvus de restes de voile : Section Bicolores, Série Quadricolor). 0529130Ss-genre Telamonia 0
+0f"Corti-Atlas-Sg-Hydrocybe_c.cle" 5b : Stipe nu ou à traces annulaires apprimées (Hydrotelamonia), à voile moirant ou bien sous forme de bracelets étagés, plus ou moins zébrant (Hydrocybes télamonioïdes). 05210140Ss-genre Hydrocybe 0

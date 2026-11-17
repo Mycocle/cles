@@ -1,0 +1,64 @@
+Titre$ P H L I O T I N A  -  GMINDER 2003
+Com$ Die Grosspilze Baden-Würtenberg 4 p.      Adapté par Paul Bertéa 24-10-2013
+
+rem$LANGUE$Allemand
+
+5 Pholiotina Fayod 1889 Glockenschüppling
+
+1,0$ Retour au Kit $$f"Pholiotina_kit.cle"
+1,0$
+1,2 $ Beringte Arten
+1,7 $ Ohne Ring, entweder völlig ohne Velum oder behangen
+
+2,3 $ Cheilocystiden keulig, utriform, teils blasenförmig, Sporen stets mit Porus
+2,4 $ Cheilocystiden spindelig, flaschenförmig, schmal-zylindrisch bis fädig, wenn kopfig, dann Sporen ohne Porus
+
+3,0 $ Basidien 4-sporig, Sporen 7-8(9) x 4- 4,5 µmm, Porus klein $ P. hadrocystis
+3,0 $ Basidien 2-sporig, Sporen 10-13 x 5,5-7 um, Porus deutlich $ P. teneroides
+
+4,5 $ Cheilocystiden fast zylindrisch, kaum bauchig, Porus fehlend oder klein
+4,6 $ Cheilocystiden breitbauchig, Porus deutlich
+
+5,0 $ Sporen 7-8(9) x 4-4,5 µm, Porus vorhanden aber klein $ P. arrhenii
+5,0 $ Sporen (7,5)8-10 x 4,5-5,5 µm, Porus fehlend $ P. aporos
+
+6,0 $ Sporen (10)11-12,5 x 5,5-7 µmm, meist langgestielt (bis 10 cm) $ P. blattaria
+6,0 $ Sporen 7-10(11) x 4,5-5,5(6) µm, Stiel 1,5- 4,5 cm lang $ P. filaris
+
+7,0 $ Hut blau- bis spangrün, Scheitel oft fast schwärzlich, Huttrama blaugrünlich $ P. aeruginosa
+7,8 $  Keine blauen oder grünlichen Töne vorhanden
+
+8,0 $ Hut stets ohne Velum, jedoch Schnallen vorhanden, auf Brandstellen $ P. aberrans
+8,0,N$/// = P. filipes sec Hausknecht (2009), Conocybe-Galerina:578
+8,9 $ Nicht gleichzeitig ohne Velum und mit Schnallen
+
+9,10 $ Hut frisch mit Velumresten, Schnallen zahlreich
+9,16 $ Stets ohne Velum, Schnallen fehlend
+
+10,11 $ Sporen ohne oder mit nur undeutlichem Po- rus, bisweilen mit kleinem Kallus
+10,12 $ Sporen mit deutlichem Porus
+
+11,0 $ Sporen 6-9 x 4,5-5,5 µm, Hutrand jung reichlich vom Velum behangen, Hut trocken runzelig werdend $ P. vestita
+11,0 $ Sporen (7)8-11(12) x (4)4,5-5,5(6) µm. Hut auch jung nur mit wenigen Velumresten, Hut nicht runzelig werdend $ P. subnuda
+
+12,13 $ Sporen 9-12(13) x 5-5,5(6) m, Geruch nach Pelargonien
+12,14 $ Sporen kleiner, ohne Pelargoniengeruch
+
+13,0 $ Cystiden apikal vorwiegend kopfig, Hut stark hygrophan, in Farbe und Entwässerung an Stockschwämmchen (Kuehneromyces mutabilis) erinnernd $ P. mutabilis
+13,0 $ Cystiden mehrheitlich flaschenförmig, Hut weniger hygrophan $ P. dentatomarginata
+
+14,0 $ Cheilocystiden kegelförmig mit deutlich abgesetztem Köpfchen (wie bei Conocybe, jedoch Hals- vom Bauchteil nicht so abrupt abgesetzt) $ P. brunnea
+14,15 $ Cheilocystiden ohne abgesetztes Köpfchen
+
+15,0 $ Hut honigfarben, ockerlich, mäßig hygrophan, von reichlichem Velum gezähnt behangen, Cheilocystiden bauchig mit unregelmäßigem Halsteil $ P. velata
+15,0 $ Hut lebhafter, orangebraun, rostocker, siena, sehr hygrophan, Velumreste spärlich, Cheilocystiden sehr variabel, auch keulig oder mit schwach abgesetztem Kopf $ P. exannulata
+
+16,0 $ Sporen 10-14(16) x 6,5-8 µm, auf Mist $ P. coprophila
+16,17 $ Sporen nur bis 10(11) µm lang, nicht auf Mist
+
+17,18 $ Hut 2-5 cm breit, Stiel bis 0,5 cm breit, Cheilocystiden 20-50 um lang
+17,0 $ Hut 0,5-1,5 cm breit, Stiel bis 0,2 cm breit, Cheilocystiden 15-30 µm langP mairei
+
+18,0 $ Sporen 5-6,5 x 3,5-,5(5) µmm, Cheilo- und Kaulocystiden einheitlich, zugespitzt-lanzettlich, spindelig, Stiel weiß $ P. striipes
+18,0 $ Sporen 8-10(11) x 5-6 µm, Cheilo- und Kaulocystiden variabel (auch flaschenförmig und utriform). Stiel hell lederblass $ P. friesii
+

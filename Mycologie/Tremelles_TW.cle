@@ -1,0 +1,139 @@
+ rem Tremelles_TW
+
+titre$  Morphological and Molecular Studies in the Genus Tremella
+com$ tirée de  "http://faculty.stut.edu.tw/~c5200999/thesis.htm"  adapt 2008
+
+1,cs1$ basidiocarps heterogeneously mixed with basidiomycetaceous, host hyphae up to the subhymenium, basidia mostly pyriform to capitate, subhymenial structure loose, haustoria abundant; $Aurantia group:$s"Aurantia group:"
+ including T. aurantia, T. australiensis, T. encephala, T. microspora, and T. giraffa. 
+
+Morphologically the Aurantia group is characterized by five features: 
+1 )basidiocarps large or lacking (e. g. Tremellas in Dacrymyces); 
+2) hymenial and subhymenial structures moderately loose; 
+3) haustoria abundant, haustorial hyphae slender, rarely branched; 
+4) host hyphae inter-mixing in the inner part, and subhymenium, or even hymenium of parasites; 
+5) conidia, if existing, normally monokaryotic. 
+
+
+1,cs2$ basidiocarps foliose and brown, basidia mostly oval, subhymenium with numerous anastomoses, terminally swollen cells in the inner parts of basidiocarps, haustoria rare; $Foliacea group$s"Foliacea group"
+including T. foliacea sensu lato, T. fuscosuccinea, T. griseobrunnea, T. neofoliacea, T. mycophaga, T. simplex, and T. vasifera. 
+1,cs3$ basidiocarps heterogeneously associated with Hypoxylon ascocarps, basidia mostly oval, subhymenium with numerous anastomoses, terminally swollen cells in the inner parts of basidiocarps, haustoria rare, haustorial hyphae heavily branched between the interface of parasites and hosts; $Fuciformis group$s"Fuciformis group"
+ including T. flava, T. fuciformis, T. resupinata, and T. samoensis. 
+1,cs4$ basidiocarps heterogeneously associated with pyreno- mycetaceous perithecia, basidia mostly pyriform to clavate, subhymenia loose, terminally cells in the inner parts of basidiocarps, haustoria rare,$Indecorata group:$s"Indecorata group:"
+ including T. exigua, T. globospora, T. moriformis and T. nivalis. 
+1,cs5$ basidiocarps gyrose to cerebriform, yellowish, basidia oval, hyphidia existing, subhymenial structure loose, terminal cells in the inner parts of basidiocarps lacking, haustoria abundant but haustorial hyphae heavily branched; $Mesenterica group$s"Mesenterica group"
+
+including T. brasiliensis, T. cerebriformis, T. coalescens, T. mesenterica, T. taiwanensis, and T. tropica. 
+
+rem$Key for some species of the Aurantia group 
+cs1,0$$
+1,2 $Parasite in dacrymycetaceous fungi
+1,4 $Parasite in homobasidiomycetaceous fungi
+2,0 $Basidia capitate; hyphae with pseudoclamps $Tremella giraffa
+2,3 $Basidia subglobose to oval; hyphae with clamps
+3,0 $Basidia 1-spored, 6-13-17 mu  ø; spores 10-21 x 6-12 mu  $Tremella penetrans
+3,0 $Basidia 2-4-spored, 7-15 x 5-12 mu ; spores 5-9.5 x 4-6.5 mu  $Tremella obscura
+4,5 $Conidia produced from torulose hyphae
+4,7 $Conidia not produced from torulose hyphae or absent
+5,0 $Basidia width broader than 12 mu - $Tremella australiensis
+5,6 $Basidia width smaller than 12 mu 
+6,0 $Basidia (11-)14-18(-20) x 9-13(-15); spores 7-9.5 x 4.5 $Tremella spectabilis
+6,0 $Basidia 15-18 x 10-12; spores 8-10 x 7-9 mu  $Tremella steidleri
+7,8 $In section consisting of a whitish core
+7,9 $In section gelatinous, without whitish core
+8,0 $Basidia globose to subglobose, 13-16 x 12-16 mu  $Tremella encephala
+8,0 $Basidia pyriform to clavate or capitate, (13-)17-30 x 11-15 mu  $Tremella loculata
+9,0 $Conspicuously growing on Stereum hirsutum; conidia produced from hyphae $Tremella aurantia
+9,0 $Host basidiocarps inconspicuous; conidia produced from terminally swollen cells or basidia, stout, pocket-like $Tremella microspora
+
+cs2,0$$
+ rem Key for selected species of the Foliacea group
+1,2 $Basidiocarps transparent light brown, yellowish brown, or orange brown
+1,7 $Basidiocarps reddish brown to dark brown
+2,3 $growing on the basidiocarps of Aleurodiscus spp
+2,4 $growing on decayed wood
+3,0 $Hyphae clamped $Tremella mycophaga
+3,0 $Hyphae clampless $Tremella simplex
+4,0 $Spores larger than 10 mu  $Tremella fimbriata sensu Lowy
+4,5 $Spores smaller than 10 mu 
+5,0 $Conidia present $Tremella frondosa sensu Bandoni
+5,6 $Conidia absent
+6,0 $Basidiocarps light brown to brown, smaller than 5 cm ø, sterigmata not or inconspicuous swollen apically $Tremella neofoliacea
+6,0 $Basidiocarps yellowish brown to orange brown, larger than 10 cm ø, sterigmata apically swollen conspicuously $Tremella fuscosuccinea
+7,8 $Basidiocarps lobes hollow
+7,9 $Basidiocarps lobes not hollow
+8,0 $Spores large, subglobose to oval, 9.5-12.5 x 8-10.5 cm $Tremella physalia
+8,0 $Spores small, oval, 7-10 x 5-6.5 cm $Tremella wrightii sensu Bandoni
+9,0 $Vesicular cells below the hymenium, up to 40 x 30 cm $Tremella aspera sensu Bandoni
+9,10 $Vesicular cells lacking
+10,0 $Conidiogenous cells vessel- or jar-like, thick-walled, 7-11 x 6-8.5 cm- $Tremella vasifera
+10,11 $Conidiogenous cells lacking
+11,0 $Spores larger than 10 mu  $Tremella fimbriata sensu Kobayasi
+11,12 $Spores smaller than 10 mu 
+12,0 $Terminal and subterminal swollen cells in sterile surface of basidiocarps close to the substrate lacking $Tremella griseobrunnea
+12,0 $Terminally and subterminally swollen cells in sterile surface of basidiocarps close to the substrate present, thick-walled, 24-45 x 15-25 mu  $Tremella foliacea sensu lato
+
+
+cs3,0$$
+
+rem$Key for some species of the Fuciformis group
+1,2 $Basidiocarps white
+1,3 $Basidiocarps yellow, orange, brown or red
+2,0 $Basidiocarps foliose, typically thin, caespitose, undulate or forked $Tremella fuciformis
+2,0 $Basidiocarps resupinate, on the surface crumpled, 0.5 cm ø $Tremella resupinata
+3,0 $Spores larger than 15 mu  ø $Tremella grandibasidia
+3,4 $Spores smaller than 15 mu  ø
+4,0 $Growing on stromata of Xylaria sp. $Tremella armeniaca
+4,5 $Growing on other ascomycetaceous fungi
+5,0 $Hyphae clampless $Tremella reticulata
+5,6 $Hyphae clamped
+6,0 $Basidia width smaller than 9 mu  (10-15 x 6-9 mu ) $Tremella elastica
+6,7 $Basidia width larger than 9 mu 
+7,0 $Spores width larger than 7 mu  (8.5-9.5 x 7.5-8.5 mu ) $Tremella iduensis
+7,8 $Spores width smaller than 7 mu 
+8,0 $Basidiocarps lobes not hollow $Tremella boninensis
+8,9 $Basidiocarps lobes hollow
+9,0 $Probasidia mostly growing from side of the hymenial hyphae $Tremella flava
+9,0 $Probasidia proliferating directly from basidial clamps $Tremella samoensis
+
+cs4,0$$
+Key for some species of the Indecorata group
+1,2 $Basidia conspicuously pyriform to clavate, with elongated stalks
+1,3 $Basidia mostly globose to oval, or occasionally pyriform but with short stalks
+2,0 $Basidia clavate, mostly diagonally septate like Patouillardina spp. $Tremella exigua
+2,0 $Basidia pyriform to capitate with elongated stalks, frequently catenulate in chains $Tremella globospora
+3,4 $Basidiocarps reddish-brown to dark brown
+3,6 $Basidiocarps hyaline, whitish, greenish, or purplish
+4,0 $Terminally and subterminally swollen cells lacking in the subhymenium and inner parts of basidiocarps $Tremella subanomala
+4,5 $Terminally and subterminally swollen cells present in the subhymenium and inner parts of basidiocarps
+5,0 $Spores mostly longer than 10 mu , 10-14 x 9-12 mu - $Tremella nigrifracta
+5,0 $Spores mostly shorter than 10 mu , 8-9(-10) x 8.5-10 mu  $Tremella moriformis
+6,7 $Basidiocarps violet to purple
+6,8 $Basidiocarps hyaline to white or greenish.
+7,0 $Basidiocarps deep violet; basidia not capitate $Tremella violacea
+7,0 $Basidiocarps purple amethyst to pale purple; basidia subglobose to pyriform or capitate, stalks up to 17 mu  long $Tremella lilacea
+8,0 $Basidiocarps green to bottle green $Tremella virescens
+8,9 $Basidiocarps hyaline to white
+9,0 $Terminally and subterminally swollen cells present in the subhymenium and inner parts of basidiocarps $Tremella nivalis
+9,10 $Terminally and subterminally swollen cells lacking in the subhymenium and inner parts of basidiocarps
+10,0 $Spores larger than 8 mu ; basidia 12-23 x 12-17 mu - $Tremella albida
+10,0 $Spores smaller than 8 mu ; basidia 10-18 x 8-12 mu - $Tremella indecorata
+
+cs5,0$$
+rem$Key for some species of the Mesenterica group
+1,2 $Hyphidia abundant in clusters
+1,3 $Hyphidia sparse and scattered
+2,0 $Basidiocarps whitish yellow, dry yellowish white; hyphidia thin-walled; basidia 31-36 x 30-40 $Tremella cerebriformis
+2,0 $Basidiocarps yellowish brown, dry nearly black; hyphidia thick-walled; basidia 19-37 x 16-29 $Tremella coalescens
+3,4 $Basidia width larger than 20 mu 
+3,5 $Basidia width smaller than 20 mu 
+4,0 $Conidia dikaryotic, 4-7 x 3.5-4.5 mu  $Tremella brasiliensis
+4,0 $Conidia monokaryotic, 6-9 x 5-7 mu  $Tremella taiwanensis
+5,6 $Vesicles present
+5,7 $Vesicles absent
+6,0 $Basidia broadly ellipsoid to oval, 20-31 x 16-22 mu ; spores 12-15.5 x 9-10 mu  $Tremella mesenterica
+6,0 $Basidia globose to subglobose, 13.5-18 mu  ø; spores 9-12.5 x 6.5-8 mu  $Tremella rufobrunnea
+7,0 $Basidiocarps whitish yellow, dry film $Tremella fibulifera
+7,8 $Basidiocarps light yellow to orange yellow, dry crust
+8,0 $Basidiocarps light yellow; basidia 13-18 x 12-16 mu ; spores 9.5-12.5 x 8-10.5 mu  $Tremella philippinensis
+8,0 $Basidiocarps orange yellow; basidia 19-21 x 15-17 mu ; spores 12-13 x 8-11 mu  $Tremella tropica
+rem$ fin

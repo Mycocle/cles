@@ -1,0 +1,268 @@
+titre$TRIAL KEY TO THE PACIFIC NORTHWEST SPECIES
+com$ Ron Exeter 2006  adapt GF nov 2014
+rem$LANGIE$Anglais
+1,0$ source : http://www.svims.ca/council/Ramar2.htm /// A microscopic key to Ramaria species known from The Pacific Northwestern United States.
+1,cs15$Bibliographie
+1,0$
+µm
+
+1,2 $ A. Basidiocarps lignicolous or humicolous, small to medium sized, often dingy colored; rhizomorphs often present and binding substrate, of monomitic to dimitic construction; spores warted to echinate, never smooth; clamp connections present, often conspicuously inflated in the rhizomorphic strands
+1,3 $ B. Basidiocarps terricolous, medium sized to large, often brightly colored; rhizomorphs lacking or if present of monomitic construction; spores smooth, warted or striate, not echinate; clamp connections either lacking or not conspicuously inflated
+2,cs2 $ A. Spores echinulate; basidiocarps humicolous; rhizomorphs monomitic $ subgenus Echinoramaria$s" subgenus Echinoramaria"
+2,cs3 $ B. Spores smooth or warted; basidiocarps humicolous or lignicolous; rhizomorphs dimitic in most species (monomitic in R. apiculata and R. suecica) $ subgenus Lentoramaria$s"subgenus Lentoramaria"
+3,cs4 $ A. Spores striate, often >11 µm long; branches mostly white to cream colored or cream colored with brightly colored apices; stipe context generally amyloid (clamp connections always present; stipe single, often massive) $ subgenus Ramaria$s"subgenus Ramaria"
+3,4 $ B. Spores smooth or warted, generally <11 µm long; branches and apices mostly brightly colored; stipe context mostly non-amyloid (clamp connections either present or lacking; stipe single (then usually slender), fasciculate or compound, small or medium sized)
+4,cs5 $ A. Clamp connections present $ subgenus Laeticolora, species with clamped basidia$s"subgenus Laeticolora, species with clamped basidia"
+4,cs6 $ B. Clamp connections absent $ subgenus Laeticolora, species without clamped basidia$s"subgenus Laeticolora, species without clamped basidia"
+
+
+cs2,0$subgenus Echinoramaria
+
+1,2 $ A. Spore Lm < 5.0 µm, spines generally <0.3 µm
+1,3 $ B. Spore Lm > 5.5 µm, spines mostly >0.5 µm
+2,0 $ A. Branches open, delicate, chamois to honey yellow; spore spines up to 0.3 µm, Lm = 4.8 µm (4.4-5.7 × 2.6-3.5 µm); under conifers $ R. myceliosa
+2,0 $ B. Branches congested, irregular cream buff to yellow-ochre; spore spines fine to verrucose, Lm = 4.4 µm, (4.2-5.2 × 2.8-3.5 µm); under Pinus $ R. curta
+3,4 $ A. Basidiocarp bruising blue green upon collecting; spore Lm = >= 8.2 µm 
+3,5 $ B. Basidiocarp not bruising blue green upon collecting or if blue-green stains present, inconspicuous and limited to small areas on stipe (R. mutabilis); spore Lm <= 7.8 µm
+4,0 $ A. Spore Lm = 9.5 µm (8.2-11.1 × 4.4-5.5 µm, spines 0.5-0.7 µm); basidiocarp bulky (up to 15 cm tall); major branches lobed in cross-section $ R. glaucoaromatica
+4,0 $ B. Spore Lm = 8.2 µm (7.0-9.0 × 3.7-4.5 µm, spines up to 1.0 µm); basidiocarp diminutive (usually < 5 cm tall); branches often flattened $ R. abietina
+5,6 $ A. Spore Lm <= 6.5 µm (length range 4.5-8.0 µm)
+5,7 $ B. Spore Lm >= 7.4 µm (length range 6-10 µm)
+6,0 $ A. Small areas of stipe often with blue-green stains; dried branch tips olive-brown; spore spines <= 0.6 µm, Lm = 6.53 µm (5.5-7.5 × 3.3-4.1 µm) $ R. mutabilis
+6,0 $ B. Stipe white bruising brown, lacking blue-green stains; dried branch tips white; spore spines longer, <= 1.2 µm, Lm = 6.28 µm (4.5-8.0 × 3.0-4.5 µm) $ R. argentea
+7,0 $ A. Branches completely fertile (e.g., hymenium amphigenous); rhizomorphs yellowish white to pale yellow; spore Lm = 7.8 µm, spines up to 1.0 µm (6.3-10 × 3.3-4.8 µm) $ R. eumorpha  
+7,8$ B. Branches with significant decurrent sterile patches (e.g., hymenium unilateral); rhizomorphs white; spore Lm ~7.4 µm, spines shorter, less than 0.8 µm8
+8,0 $ A. Spore spines up to 0.8 µm (6.5-8.9 × 3.5-5.4 µm, Lm = 7.38 µm); basidiocarps slender and weak with one or more branches often splitting away from stipe or bending to touch the substrate; stipe not staining or bruising; branch tips tan to golden $ R. flaccida
+8,0 $ B. Spore spines longer, up to 2.0 µm (6.0-8.6 × 3.3-4.5 µm, Lm = 7.45 µm); basidiocarps stout; stipe browning when handled; branch tips honey-brown to whitish $ R. incognita
+
+
+
+cs3,0$   subgenus Lentoramaria
+
+1,0 $ A. Spores smooth under 1000x $ Lentaria or Clavicorona (not covered in these keys.)
+1,2 $ B. Spores ornamented
+2,0 $ A. Spores average ~ 6.0 µm long; basidiocarp mostly off-white to pale ochraceous (humicolous; rhizomorphs dimitic; spores 5.5-7.1 × 3.3-4.4 µm, Lm = 6.0 µm) $ R. gracilis
+2,3 $ B. Spores average >= 7.0 µm long; basidiocarp variously colored (humicolous or lignicolous; rhizomorphs mono- or dimitic)
+3,4 $ A. Spores average <= 7.5 µm long; young branches pinkish buff to ruddy purplish with white to pale cream tips; lignicolous
+3,5 $ B. Spores average > 8.0 µm long; young branches and tips variously colored; humicolous or lignicolous
+4,0 $ A. Rhizomorphic strands turning bright mauve pink in 10% KOH; hymenium amphigenous or, if not, with sterile areas running down from axils in narrow lines; stipe grey to brownish; branches dull violaceous to pinkish; spore Lm ~ 7.5 µm (6.3-9.5 × 4.1-5.5 µm) $ R. rubella f. rubella
+4,0 $ B. Rhizomorphic strands unchanging or yellowish in 10% KOH; hymenium clearly unilateral (especially in dried specimens); stipe whitish; branches pinkish buff; spore Lm ~ 7.1 µm (6.3-8.1 × 4.4-5.9 µm) $ R. rubella f. blanda
+5,6 $ A. Basidiocarps humicolous
+5,7 $ B. Basidiocarps lignicolous
+6,0 $ A. Spore Wm = ~ 4.3 µm; rhizomorphs monomitic and with unornamented inflated clamps; spore Lm ~ 9.0 µm (8.1-10.4 × 3.7-5.2 µm) $ R. suecica
+6,0 $ B. Spore Wm = ~ 5.0 µm; rhizomorphs dimitic and with conspicuously ornamented inflated clamps; spore Lm ~ 9.5 µm (8.1-11.1 × 4.4-5.9 µm) $ R. rainierensis
+7,0 $ A. Upper branches and apices light to citron yellow; spore Lm~ 8.4 µm (7.5-10 × 4-5 µm) $ R. stricta
+7,8 $ B. Upper branches and apices dull ochraceous, dull buffy tan to cream colored; spores various
+8,9 $ A. Rhizomorphs monomitic; Lm ~ 9.7 µm
+8,11 $ B. Rhizomorphs dimitic; Lm <= 8.5 µm (R. tsugina Lm = 9.1 µm)
+9,0 $ A. Upper branches and apices with light green to light bluish green colorations; spore Lm ~ 9.7 µm (8.5-11.0 × 4.1-5.2 µm) $ R. apiculata var. apiculata
+9,10 $ B. Upper branches and apices without greenish colorations
+10,0 $ A. Basidiocarps small; branches sparse ascending to erect, not crowded, not anastomosing; lignicolous; spore Lm = 9.79 µm (9.2-11.0 × 3.8-5.0 µm) $ R. apiculata var. brunnea
+10,0 $ B. Basidiocarps usually large and broadly ovoid in outline; branches numerous, congested and often anastomosing; on wood debris or sawdust; spores similar to R. apiculata var. brunnea $ R. apiculata var. brunnea f. compacta
+11,0 $ A. Stipe, branches or apices with green stains; spore Lm ~ 9.1 µm (7-9.3 × 3.5-4.2 µm) $ R. tsugina
+11,0 $ B. Stipe, branches and apices lacking green stains; spore Lm ~ 8.1 µm (7.8-10 × 3.7-4.8 µm) $ R. concolor
+
+11,cs13$Key to forms of R. concolor
+
+
+
+cs4,0$subgenus Ramaria
+
+1,2 $ A. Entire basidiocarp white to cream colored, sometimes with faint violet tinged apices
+1,3 $ B. Basidiocarp distinctly salmon, pink or red colored and with brightly colored apices
+2,0 $ A. Spores Lm = 14.1 µm (12-18 × 3.5-6 µm), rarely less than 13 µm $ R. subviolacea
+2,0 $ B. Spores Lm = 11.8 µm (10.4-13.7 × 4.0-5.5 µm), rarely > 12.5 µm $ R. rubrievanescens
+3,4 $ A. Spores Lm <= 12.2 µm
+3,5 $ B. Spores Lm >= 13.5 µm
+4,0 $ A. Stipe milk-white (discoloring yellowish), bruising brownish violet; apices buffy pink to pale rose when young, fading soon after collecting or during maturation to yellowish white; autumnal; spores Lm = 11.8 µm (10.4-13.7 × 4.0-5.5 µm) $ R. rubrievanescens
+4,0 $ B. Stipe white to yellowish-white, surface not staining or bruising; apices pale pink to buffy or blood red, fading over time to dull rosy pink, color persisting after collecting; autumnal or vernal; spores Lm = 12.2 µm, (10.4-10.4-15.5 × 4.0-5.0 µm) $ R. rubripermanens
+5,0 $ A. Terminal branches red to pinkish red; spores Lm = 13.8 × 4.7 µm (11-17 × 4-6 µm) $ R. botrytis var. botrytis
+5,0 $ B. Terminal branches light orange to orange-brown; spores slightly shorter than above: Lm = 13.5 × 4.7 µm (12-16 × 4-6 µm) $ R. botrytis var. aurantiiramosa
+
+
+cs5,0$subgenus Laeticolora, species with clamped basidia
+
+1,2 $ A. Basidiocarps (at least at the stipe apex or lower branches) lilac, violet or purple
+1,3 $ B. Basidiocarp not lilac, violet or purple
+2,0 $ A. Branches and apices intensely violet to purple (amethyst-lilac when young, remaining so or aging to ochraceous purple; spores Lm = 10.29 µm (9-11.2 × 4.7-5.4 µm) $ R. purpurissima var. purpurissima
+2,0 $ B. Branches and apices less intense (pale to dull violet when young, aging smoky drab, cinnamon, or dark olive); spores Lm = 10.42 µm (9-13 × 4.3-5.4 µm) $ R. violaceibrunnea
+3,0 $ A. Stipe compound (a gelatinous mass of fused stipes); spores Lm = 8.9 µm (7-10 × 4.5-6 µm) $ R. gelatinosa var. oregonensis
+3,4 $ B. Stipe various (not a mass of fused gelatinous stipes) or spores not as above
+4,0 $ A. Any basidiocarp part bruising brown or wine-colored immediately when cut; FSW instantly turning stipe context blue-green; white stipe mostly single and covered with white tomentum; branches "maize yellow" when young, then red-brown with tips remaining yellow; spores Lm = 11.76 µm (9.5-14 × 4.2-6.4 µm) $ R. testaceoflava
+4,5 $ B. Not as above
+5,6 $ A. Stipe with 'rusty root' (brown band) in radial section; stipe flesh usually blue green in FSW; stipe base often streaked with red-brown superficial hyphae
+5,8 $ B. Stipe lacking 'rusty root' (brown band) in radial section; stipe flesh not blue green in FSW; stipe usually lacking streaked red-brown superficial hyphae
+6,7 $ A. Stipe flesh instantly turning blue-green on application of FSW
+6,0 $ B. Stipe flesh not turning blue-green on application of FSW $ undescribed Ramaria spp.Petersen & Scates (1988) knew of two undescribed taxa with brownish stipe flesh that did not react immediately to ferric salts. Both were clamped and autumnal fruiters.
+7,0 $ A. Stipe context amyloid (dried specimens instantly turning dark brown); branches light orange to salmon; spores Lm = 8.9 µm (7-10 × 3-4 µm) $ R. amyloidea
+7,0 $ B. Stipe context non-amyloid; branches (creamy) white to pale yellow; spores Lm = 9.0 µm (8-12 × 3.5-5 µm) $ R. velocimutans
+8,0 $ A. Stipe slender, sub-fasciculate, covered with a well developed white tomentum; branches and apices (citron) yellow to pale salmon; acantho-dendroid gloeoplerous hyphae (multi-directional, freely branched, studded with lateral spurs, narrow, thin-walled, in cotton blue densely cyanophilous granular) present in the peripheral stipe context $ R. cystidiophora (see key to varieties)
+8,cs7 $key to varieties or cystidiophora
+
+8,9 $ B. Not as above; acantho-dendroid gloeoplerous hyphae absent in peripheral context of stipe
+9,10 $ A. Base and lower stipe with wine-colored stains
+9,11 $ B. Base lacking wine-colored stains or bruises
+10,0 $ A. Branches peach to salmon with yellow tips; spores Lm = 10.2 µm (9-11 × 4-5 µm) $ R. maculatipes
+10,0 $ B. Both branches and tips yellow-white to pale yellow; spores Lm = 12.51 µm (11.2-14.0 × 4.3-5.0 µm) $ R. vinosimaculans
+11,12 $ A. Spores Lm >= 12.5 µm (warted); stipe flesh non-amyloid
+11,14 $ B. Spores Lm <= 12 µm (smooth to warted); stipe flesh amyloid or non-amyloid
+12,0 $ A. Basidiocarp white to pale yellow; stipe massive; vernal (spores Lm = 13.28 µm, 11.6-15.8 × 4.0-5.0 µm) $ R. thiersii
+12,13 $ B. Basidiocarp orange to salmon; stipe slender; autumnal
+13,0 $ A. Both branches and tips intense orange; stipe broadly conical with small abortive branchlets frequent on the upper base; spores Wm = 4.5 µm, Lm = 13.4 µm (11-15 × 3-5 µm) $ R. largentii
+13,0 $ B. Branches flesh-pink to salmon colored with bright orange tips; stipe bluntly acute or obconical and lacking abortive branchlets; spores Wm = 5.3 µm, Lm = 13.7 µm (12.6-16.3 × 4.8-6.3 µm) $ R. distinctissima var. americana
+14,15 $ A. Branches orange, salmon, or red; if yellow, then branch context salmon or orange
+14,18 $ B. Branches yellow to cream colored (lacking orange to red to salmon colors)
+15,0 $ A. Spores Wm = 5.4 µm; branches peach, light red to salmon colored & stipe context non-amyloid; apices yellow when young; basidiocarp staining or bruising wherever handled; spores coarsely warted (Lm = 10.4 µm; 9-12 × 4.5-6 µm) $ R. formosa
+15,16 $ B. Spores Wm <= 4.5; branches orange (if salmon colored, stipe context amyloid, see R. rubricarnata); apices yellow to orange; basidiocarp browning or not where handled; spores ornamented with fine to low warts and ridges
+16,17 $ A. Stipe base flesh non-amyloid; stipe single to fasciculate, slender to large; branches orange to light red with concolorous or yellow tips; autumnal
+16,0 $ B. Stipe base flesh amyloid; stipe single, large to massive; branches light orange, pale salmon-buff to yellow to salmon-orange with yellow tips; autumn & spring $ R. rubricarnata
+16,cs9,0$ varities of  rubricarnata
+
+17,0 $ A. Spores Lm = 10.6 µm (8-13 × 3-5 µm); basidiocarp elongated; branches light orange to light red with sunflower/dark yellow or chrome orange tips; stipe context fleshy fibrous; bruising or staining reactions slight or entirely absent $ R. leptoformosa
+17,cs8 $ B. Spores Lm = 8.1-8.6 µm (6.5-10 µm); basidiocarp mostly compact; branches pale to deep orange with orange or yellow tips; stipe context subgelatinous to rubbery; outer stipe occasionally with dull violet bruised areas $ R. sandaracina (see key to varieties)
+17,cs8$andaracina ( key to varieties)
+
+18,19 $ A. Spores entirely smooth or almost smooth at 1000x; primarily vernal
+18,22 $ B. Spores distinctly warted at 1000x; primarily autumnal
+19,20 $ A. Spore Lm = 11.50; stipe surface weakly brunnescent; stipe massive; vernal; (R. magnipes)
+19,21 $ B. Spore Lm = 10.0-10.6; stipe surface not brunnescent; stipe large to massive; vernal and autumnal; (R. rasilispora)
+20,0 $ A. Branches white to very pale yellow (cream to ivory where exposed); tips pale yellow (young) or bright greenish-yellow where unprotected; spores Lm =11.5 µm (10.8-11.9 × 3.6-4.3 µm) $ R. magnipes var. albidior
+20,0 $ B. Branches light to clear yellow when young (pale fleshy ochre to fleshy tan in age); tips when young cauliflower-like and white where protected or bright yellow to chartreuse-yellow where exposed, in age mellowing to buff-colored; spore Lm =11.5 µm (9.4-13.3 × 3.2-5.0 µm) $ R. magnipes var. magnipes
+21,0 $ A. Branches buffy yellow, pale ochraceous yellow to fleshy buff when young; tips pale chartreuse-yellow but often blushing to onion skin pink if exposed to cold, dry air; vernal; spores Lm =9.95 µm (8.3-11.5 × 3.6-4.3 µm) $ R. rasilispora var. rasilispora
+21,0 $ B. Branches pale to ochraceous cream colored (sometimes with a hint of pink in age) or cream buff; young tips clear yellow or pale greenish-yellow aging buff-colored; vernal and autumnal; spores Lm =10.62 µm (9.4-11.9 × 3.2-4.3 µm) $ R. rasilispora var. scatesiana
+22,23 $ A. Stipe context amyloid
+22,24 $ B. Stipe context non-amyloid
+23,0 $ A. Spores 4.0-4.7 µm wide; basidiocarp cream to salmon-yellow; branch context salmon or orange $ Ramaria rubricarnata (see lead 16B)
+23,cs9$ Key to R. rubricarnata varieties (from Petersen & Scates 1988).cle
+
+23,0 $ B. Spores 3.0-4.0 µm wide; basidiocarp pale yellow to yellow; branch context white yellow to yellow $ Ramaria rasilisporoides
+24,0 $ A. Spores Lm = 10.4 µm, Wm = 4.0 µm (9-12 × 3-5 µm), and covered with small obscure warts; basidiocarp pale yellow; odor sweet (like gardenias or curry) $ Ramaria flavobrunnescens var. aromatica
+24,25 $ B. Spores Lm <= 9.3 µm, Wm >= 4.5 µm, and covered with distinct warts; basidiocarp pale buff to brownish yellow; odor musty to faintly bean-like (fabaceous)
+25,0 $ A. Branches and tips brownish light yellow, becoming tan yellow while aging; spores Lm = 8.8 µm (7.5-11 × 4-6 µm) $ Ramaria cartilaginea
+25,0 $ B. Branches and tips pale buff to light tan to coffee colored; spores Lm = 9.3 µm (8.3-10.4 × 4.7-5.8 µm) $ Ramaria caulifloriformis
+
+28,0
+28,29
+
+
+cs6,0$ subgenus Laeticolora, species without clamped basidia
+
+1,0 $ A. Branches and apices red to scarlet; stipe context strongly and rapidly amyloid; spores average = 8.3 × 4 µm (7-10 × 3-5 µm) $ R. stuntzii
+1,2 $ B. Branches and apices not red or, if red, stipe context not amyloid
+2,3 $ A. Branches white to cream with brightly (more intensely) colored apices (orange, pink, red, fleshy beige or fleshy-pink)
+2,4 $ B. Branches usually more brightly colored with yellow or concolorous apices
+3,0 $ A. Autumnal; radially sectioned stipe lacking a brown band of contextual hyphae; spore Lm = 8.44 µm (6.8-10.1 × 4.0-5.0 µm) $ R. botrytoides
+3,0 $ B. Vernal; brown band of brown contextual hyphae visible in radially sectioned stipe; spore Lm = 9.95 µm (8.3-12.6 × 2.9-4.0 µm) $ R. coulterae
+4,0 $ A. Stipe flesh moderately amyloid; basidiocarp with a disagreeable odor (of coal tar), very large overall, and pale yellow to cream colored; spore Lm = 9.10 µm (7.9-10.4 × 3.6-4.3 µm) $ R. foetida
+4,5 $ B. Stipe flesh either amyloid or non-amyloid, but basidiocarp and spores not as above
+5,0 $ A. Basidiocarp cauliflower-like, yellowish-pink; stipe single, small, white below but yellow at substrate level; stipe flesh solid, white-marbled, firm-gelatinous to hard-rubbery, watery when fresh; major branches connate from base, pale salmon or pale orange to light pinkish cinnamon; tips concolorous with branches or pallid yellow; spore Lm = 10.06 µm (9.0-11.2 × 4.7-6.1 µm) $ R. verlotensis
+5,6 $ B. Not as above
+6,0 $ A. Stipe with a 'rusty root' (containing a band of brown contextual hyphae) visible in a radially sectioned stipe; stipe flesh turning instantly blue-green in ferric salts (FSW); spores average = 9.5 × 4.6 µm (8-11 × 4-6 µm) $ R. celerivirescens
+6,7 $ B. Stipe lacking brown contextual hyphae in radially sectioned stipe base; stipe flesh non-reactive with FSW
+7,0 $ A. Basidiocarp up to 4 cm tall; stipe fasciculate, slender to 4 mm thick; branches sparingly branched, flesh colored, usually hollow, brittle; apices clear yellow to pale orange-yellow to pale ochraceous salmon; spore Lm = 9.94 µm (8.9-11.1 × 5.0-6.1 µm) $ R. raveneliana
+7,8 $ B. Basidiocarp larger than 4 cm; otherwise, not as above
+8,9 $ A. Basidiocarps pale to dingy colored (brown, violet-brown, orange-brown, or white to cream), often brunnescent
+8,12 $ B. Basidiocarps mostly brightly colored (yellow, orange, red or salmon colored), bruising reactions various
+9,0 $ A. Vernal; stipe single to compound (often fused in longitudinal section), massive; branches cinnamon to chocolate brown, never white; spore Lm = 9.85 µm (8.6-11.6 × 4.3-5.4 µm) $ R. marrii
+9,10 $ B. Autumnal; stipe mostly single to fasciculate (hardly or not fused), slender; branches white, brown to violaceous-brown
+10,0 $ A. Stipe flesh dull brown, streaky (like wood grain); branches tan to brown; spore Lm = 8.56 µm (7.2-10.1 × 4.7-6.1 µm) $ R. spinulosa var. diminutiva
+10,11 $ B. Stipe flesh white to off-white; branches white or drab (brownish violet); spore Lm ~10.0 µm
+11,0 $ A. Branches white to cream when immature (often tinged pinkish or purplish), soon fading during maturity to light brown; brunnescent; spore Lm = 10.1 µm (8-14 × 4-6 µm) $ R. acrisiccescens
+11,0 $ B. Branches violet gray; spore Lm = 10.3 µm (9-13.5 × 4.5-7 µm) $ R. fumosiavellanea
+12,13 $ A. Spores > 8.5 µm or Wm < 4.5 µm, or not as described below
+12,0 $ B. Spores average = 7.5 × 4.9 µm (6-10 × 4-6.5 µm); base a fascicle of steeply tapered to slightly bulbous bases covered in a white tomentum where buried; branches salmon to peach, frequently < 5mm diam.; apices light to maize yellow $ R. conjunctipes
+12,cs10$ varieties of R. conjunctipes
+
+13,14 $ A. Spore Lm > 12.0 µm; stipe context fleshy-fibrous; branches bright orange or salmon colored
+13,15 $ B. Spore Lm generally < 12.0 µm, or if Lm >= 12.0 µm, stipe context cartilaginous to gelatinous (R. flavigelatinosa var. megalospora); branch coloration various
+14,0 $ A. Wine-colored stains present on stipe and lower branches when collected; lower and upper branches pale red to salmon; spore Lm = 12.3 µm (10-14 × 3.5-5 µm) $ R. rubribrunnescens
+14,0 $ B. Wine-colored stains lacking on stipe and lower branches; lower branches yellow, upper branches light to deep orange; spore Lm = 13.5 µm (10-18 × 4-6 µm) $ R. longispora
+15,16 $ A. Basidiocarps predominantly yellow
+15,18 $ B. Basidiocarps showing orange, red to salmon branch colorations
+16,0 $ A. Basidiocarp branching sparsely with rarely more than 3 ranks; stipe base compound to fasciculate; spore Lm = 9.9 µm (9-11.5 × 3.5-4.5 µm) $ R. synaptopoda
+16,17 $ B. Basidiocarp branching more frequently with 3 to 7 ranks; stipe base single to compound
+17,0 $ A. Stipe single or divided into thick stems and with extensive vinescent stains when collected; stipe context fleshy-fibrous; spore Lm = 9.4 µm (7-11 × 3.5-6 µm) $ R. rubiginosa
+17,0 $ B. Stipe compound or sub-compound, consisting of several to numerous connate stipes, occasional small to minute vinescent stains present; stipe context firmly gelatinous to cartilaginous $ R. flavigelatinosa
+18,19 $ A. Upper stipe and lower branches with a distinct yellow band; upper branches orange to salmon; stipe context gelatinous to cartilaginous or fleshy-fibrous
+18,24 $ B. Upper stipe and lower branches lacking a distinct yellow band; upper branches red to salmon colored; stipe context fleshy fibrous, neither gelatinous or cartilaginous
+19,20 $ A. Apices yellow
+19,22 $ B. Apices orange
+20,0 $ A. Branches with salmon to orange context and yellow colored surfaces; stipe compound to sub-compound, context firm-gelatinous to cartilaginous $ R. flavigelatinosa (see lead 17B)
+20,cs11$Key to R. flavigelatinosa varieties:
+
+
+20,21 $ B. Branches with yellow context and salmon to apricot yellow colored surfaces; stipe single to compound; context subgelatinous to firm-gelatinous with a translucent to hyaline interior
+21,0 $ A. Stipe single; context firm-gelatinous with a translucent to hyaline interior surrounded by whitish exterior; spore Lm = 10.1 (9.4-11.2 × 4.0-5.0 µm) $ R. hilaris var. olympiana
+21,0 $ B. Stipe single to compound, usually slender and rooting; stipe context subgelatinous; bruising dull violet; spore Lm = 9.3 µm (8-11 × 3.5-5 µm) $ R. gelatiniaurantia var. violeitingens
+22,23 $ A. Stipe context fleshy-fibrous; spore Lm >= 10.2 µm; vernal or autumnal
+22,0 $ B. Stipe context gelatinous to subgelatinous, marbled, translucent greyish-white alternating with waxy, opaque white areas; spore Lm = 9.3 µm (8-11 × 3.5-5 µm); autumnal $ R. gelatiniaurantia var. gelatiniaurantia
+23,0 $ A. Stipe large to massive; vernal; spore Lm = 10.25 µm (8.6-11.5 × 3.6-4.3 µm) $ R. armeniaca
+23,0 $ B. Base slender, single to compound; autumnal; spore Lm = 10.8 µm (8.5-14 × 3-5 µm) $ R. aurantiisiccescens
+24,25 $ A. Spore Wm = 3.7 µm; spores finely ornamented; branches red; basidia content not conspicuously granular when stained with cotton blue
+24,0 $ B. Spore Wm >= 4.5 µm; spores distinctly ornamented; branches light red to peach to salmon; basidia content granular and densely cyanophilous in cotton blue $ R. cyaneigranosa
+24,cs12$Key to R. cyaneigranosa varieties:
+
+25,0 $ A. Mature apices yellow; branches red, spore Lm = 9.9 µm (8-13 × 3-4.5 µm) $ R. araiospora var. araiospora
+25,0 $ B. Mature apices and branches both red; spore Lm = 9.8 µm (8-14 × 3-5 µm) $ R. araiospora var. rubella
+
+
+cs7,0$R. cystidiophora (see key to varieties)
+1,2 $ Spore Lm = 8.0 µm; branches yellow or salmon
+1,3 $ Spore Lm >= 9.5 µm; branches yellow, lacking salmon tinge or pigments
+2,0 $ Branches and tips yellow to citron yellow; spores Lm = 8.0 µm (7-9 × 3-4 µm) $ R. cystidiophora var. cystidiophora
+2,0 $ Branches pale salmon with light clear yellow young tips (tips faded when mature); spores Lm = 8.2 µm (7.6-8.6 × 3.2-3.9 µm) $ R. cystidiophora var. anisata
+3,0 $ Stipe context cartilagino-gelatinous (basal hyphal walls gelatinizing); basidiocarps not bruising or staining; odor fabaceous; spores Lm = 9.7 µm (8-11 × 3.5-5 µm) $ R. cystidiophora var. fabiolens
+3,4 $ Stipe context fleshy-fibrous (no gelatinization); basidiocarps bruising brown to reddish; odor sweet or none; spores Lm >= 10.3 µm
+4,0 $ Spores Lm = 10.3 µm (9-13 × 3.5-5.0 µm); basidiocarps bruising brown $ R. cystidiophora var. citronella
+4,0 $ Spores Lm = 11.8 µm (10-14 × 3.5-5.0 µm); basidiocarps bruising reddish-brown $ R. cystidiophora var. maculans
+
+
+
+cs8,0$ sandaracina (see key to varieties)
+
+1,0 $ Apices bright yellow when young; spores Lm = 8.6 µm (6.5-9.0 × 3.5-4.5 µm) $ R. sandaracina var. euosma
+1,2 $ Apices orange; spore Lm = 8.1-8.3 µm
+2,0 $ Basidiocarps broad (commonly > 8 cm wide); stipe base subgelatinous with gelatinous streaks present when cut and numerous elongated primary branches arising from a broad fasciculate to compound base; branches and tips salmon to orange; spores Lm = 8.3 µm (7-10 × 3.5-5 µm) $ R. sandaracina var. chondrobasis
+2,0 $ Basidiocarps slender (usually < 8 cm wide); stipe base sometimes slightly gelatinous in part with several primary branches arising from a single stipe; lower branches and upper base bright yellow, upper branches and tips deep orange; spores Lm = 8.1µm (6.5-9.0 × 3.5-4.5µm) $ R. sandaracina var. sandaracina
+
+
+cs9,0$varities of  rubricarnata  Key to R. rubricarnata varieties (from Petersen & Scates 1988):
+
+1,0 $ Autumnal; spores Lm = ~10 µm (8.6-1.2 × 4.0-4.7 µm); branches pale cream to salmon-yellow (occasionally yellow) with pale to light yellow tips $ R. rubricarnata var. rubricarnata
+1,2 $ Vernal; spores Lm >= 11.1 µm; stipe,branches, and tips as above or paler
+2,0 $ Branches short stalked, salmon-orange to light salmon with salmon-orange flesh and yellow to rich yellow tips; spores Lm = 11.1 µm (10.4-12.2 × 4.0-5.0 µm) $ R. rubricarnata var. verna
+2,0 $ Branches elongated, buff colored to pale buffy yellow with muted pinkish-buff branch flesh and dull greenish-yellow (young) to light yellow (mature) tips; spores Lm = 11.4 µm (9.7-14.4 × 4.0-4.7 µm) $ R. rubricarnata var. pallida
+
+
+cs10,0$Key to R. conjunctipes varieties:
+1,0 $ Base a fascicle of stringy, white stipes; sparsely branched above; fruiting bodies rarely taller than 10 cm $ R. conjunctipes var. sparsiramosa
+1,0 $ Base single to densely fasciculate; stipes not stringy; densely branched above; fruiting bodies up to 18 cm tall $ R. conjunctipes var. tsugensis
+
+
+cs11,0$Key to R. flavigelatinosa varieties:
+
+1,2 $ Basidiocarp predominately yellow with orange or salmon colors in the upper branches due to the salmon-colored branch context
+1,3 $ Basidiocarp entirely yellow; branch context yellow
+2,0 $ Spores average = 9.6 × 4.1 µm (8-11 × 3.5-4.5 µm); stipe context firmly gelatinous (translucent white) when fresh $ R. flavigelatinosa var. carnisalmonea
+2,0 $ Spores average = 12 × 4.5 µm (9-15 × 4-6 µm); stipe context cartilaginous when fresh $ R. flavigelatinosa var. megalospora
+3,0 $ Spores average = 9.6 × 4.1 µm (8-11 × 3.5-6 µm); odor fabaceous or not distinctive; stipe context firmly gelatinous (translucent white) when fresh $ R. flavigelatinosa var. flavigelatinosa
+3,0 $ Spores average = 10 × 4.8 µm (8.5-13 × 3.5-6 µm); odor sweet; stipe context cartilaginous when fresh $ R. flavigelatinosa var. fragrans
+
+cs12,0$Key to R. cyaneigranosa varieties
+1,0 $ Apices concolorous with branches, never yellow; internodes and general habit slender and conspicuously elongated; spore Lm = 9.2 µm (8-10 × 4-5 µm) $ R. cyaneigranosa var. elongata
+1,2 $ Apices dotted with yellow; internodes and general habit not conspicuously elongated; spore Lm >= 9.6 µm
+2,0 $ Branches light red; base single or sub-compound, thick or slightly bulbous; spore Lm = 11 µm (8.5-15 × 4-6 µm) $ R. cyaneigranosa var. cyaneigranosa
+2,0 $ Branches salmon to peach; base single, steeply tapered, slender (covered by a white basal tomentum); spore Lm = 9.6 µm (7-11 × 3.5-6 µm) $ R. cyaneigranosa var. persicina
+
+
+cs13,0$Key to forms of R. concolor
+1,0 $ Branches open, lax, curved ascending $ R. concolor f. marrii
+1,2 $ Branches erect, often crowded but not lax and open
+2,0 $ Branch axils with greenish colors $ R. concolor f. tsugina [R. tsugina]
+2,3 $ Branch axils concolorous with branches, without greenish colorations
+3,0 $ Basidiocarp base, stipe and lower branches deep chocolate brown $ R. concolor f. fumida
+3,0 $ Basidiocarp base and stipe more or less concolorous with branches, ochraceous brown to deep cinnamon brown but not deep chocolate brown $ R. concolor f. concolor
+
+
+cs15,0$Biblio
+1,0$///Bruns, T.D., T.M. Szaro, M. Gardes, K.W. Cullings, J.J. Pan, D.L. Taylor, T.R. Horton, A. Kretzer, M. Garbelotto, and Y. Li. 1998. A sequence database for the identification of ectomycorrhizal basidiomycetes by phylogenetic analysis. Mol. Ecol 7: 257-272.  ///Castellano, Michael, Jane Smith etal. 1999. Handbook to Strategy 1 Fungal Species in the Northwest Forest Plan. USDA Forest Service. PNW-GTR-476.  ///Castellano, Michael, Efren Cazares etal. 2003. Handbook to Additional Fungal Species of Special Concern in the Northwest Forest Plan. USDA Forest Service. PNW-GTR-572.  ///Coker, W.C. 1923. The Clavarias of the United States and Canada. Univ. North Carolina Press. Chapel Hill. 209 p.  ///Corner. E.J.H. 1966. Species of Ramaria (Clavariaceae) without clamps. Br. Mycol. Soc 49 (1), 101-113 (1966).  ///Corner, E. J. H. 1950. A Monograph of Clavaria and Allied Genera. Ann Bot. Mem 1: 1-740.  ///Donk, M.A. 1964. Nomina conservanda proposita 1964. (130) Ramaria (Fr.) Bonorden. Regn. Veget. 34: 38-40.  ///Giachini, A.J. 2004. Systematics, phylogeny, and ecology of Gomphus sensu lato [PhD Dissertation]. Corvallis, Oregon: Oregon State Univ. 446p.  ///Griffiths R.P, Caldwell B.A. 1990. Douglas-fir forest soils colonized by ectomycorrhizal mats. I. Seasonal variation in nitrogen chemistry and nitrogen cycle transformation rates. Canadian Journal of Forest Research 20: 211-218.  ///Hawksworth, D.L., P.M., Kirk, B.C., Sutton, D.N., Pegler. 1995. Dictionary of the Fungi, 8th ed. Cambridge: CAB International. 616 p.  ///Hibbett, D.S. E.M. Pine, E. Langer, G. Langer and M.J. Donoghue. 1997. Evolution of gilled mushrooms and puffball inferred from ribosomal DNA sequences. Proc Natl Acad Sci USA 94: 12002-12006.  ///Humpert, Andrea J. et. al. 2001. Molecular phylogenetics of Ramaria and related genera: Evidence from Nuclear Large Subunit and Mitochondrial Small Subunit rDNA Sequences. Mycologia: Vol 93, No.3,pp.465-477.  ///Leathers C. R. 1956. New Species and Varieties of Clavaria From Michigan. Mycologia 48: 278-287.  ///Marr, C. D. & D. E. Stuntz (1973). Ramaria of Western Washington. Bibliotheca Mycologia  ///Marr, C. D. (Personal communication)  ///Parmasto, Erast & Parmasto, Ilmi: 1987. Variation of Basidiospores in the Hymenomycetes and its Significance to their Taxonomy. (Bibliotheca Mycologia Vol 115) 168 pages, 1 figure, 36 tables.  ///Petersen R.H. and P. D. Olexia. 1967. Type Studies in the Clavarioid Fungi I. The Taxa Described by Charles Horton Peck. Mycologia. vol 59, 767-802.  ///Petersen R.H. 1969. Type studies in Clavarioid fungi III. The taxa described by J. B. Cleland. Bulletin of the Torrey Botanical Club. vol 96, No.4, 457-466. July-August  ///Petersen R.H. 1972. Cultural characters in Ramaria subg. Lentoramaria and a new taxon. Amer. J. Bot. 59(10):1041–1046.  ///Petersen, R. H. 1974. Contribution toward a Monograph of Ramaria. I. Some Classic Species Redescribed. American J. Bot. 61(7): 739-748.  ///Petersen, R. H. 1975. Ramaria subgenus Lentoramaria with Emphasis on North American Taxa. Bibliotheca Mycologia 43. 161 p.  ///Petersen R. H. 1976. Contribution Toward a Monograph of Ramaria III. R. Sanguinea, R. formosa. And Two New Species From Europe. American J. Bot. 63(3): 309-316.  ///Petersen, R. H. 1979. Contribution to a Monograph of Ramaria IV. R testaceo-flava and R. bataillei. Nova Hedwigia. band XXXI 1+2 Braunschweig. 25-38  ///Petersen, R. H. 1981. Ramaria Subgenus Echinoramaria. Bibliotheca Mycologia  ///Petersen, R.H. 1982. Contributions toward a monograph of Ramaria. V. Type Specimens Studies of Taxa Described by W. C. Coker. Sydowia 35: 176-205  ///Petersen, R. H. 1985. Notes on Clavarioid Fungi. XX. New Taxa and Distributional Records in Clavulina and Ramaria. Mycologia, 77(6) 903- 919.  ///Petersen, R. H. 1986. Some Ramaria taxa from Nova Scotia. Canadian Journal Bot. 64: 1786-1811.  ///Petersen, R.H. and M. Zang. 1986. New or interesting Clavarioid fungi from Yunnan, China. Acta Botanica Yunnanica 8: 281-294.  ///Petersen R. H. 1987. Contribution toward a monograph of Ramaria. VI. The Ramaria fennica-versatilis complex. Sydowia Band 40/1987.  ///Petersen, R. H. 1988. Contributions toward a monograph of Ramaria. VII. New taxa and Miscellany. Mycologia, 80(2) 223-234.  ///Petersen, R. H. & Catherine Scates. 1988. Vernally Fruiting Taxa of Ramaria From the Pacific Northwest. Mycotaxon vol. XXXIII 101-144  ///Petersen, R. H. 1989. Contributions Toward a Monograph of Ramaria VIII. Some taxa sheltered under the name Ramaria flava. Persoonia. vol 14, part 1, 23-42.  ///Petersen, R.H. and M. Zang. 1989. Ramaria subgenera Ramaria and Laeticolora in Yunnan. Acta Botanica Yunnanica 11: 363-396.  ///Petersen, R. H. & Catherine Scates. 2000. A New Species of Ramaria subg. Ramaria from western North America. Karstenia 40: 139-142.  ///Petersen, R. H. (Personal communication, unpublished notes of western North American material).  ///Scates, Kit. 1981. Trial Key to the Species of Ramaria in the Pacific Northwest. Pacific Northwest Key Council. Northern Idaho Mycological Association.  ///Tylutki Edmund E. 1987. Mushrooms of Idaho and the Pacific Northwest. Volume 2. Non-gilled Hymenomycetes  ///Villegas, M., de Luna E., J. Cifuentes and A.E. Torres. 1999. Phylogenetic studies in the Gomphaceae sensu lato (Basidiomycetes). Mycotaxon 70: 127-147.  ///Young, Dr. Tony; (Personal Communication)

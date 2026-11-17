@@ -1,0 +1,3177 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xml:lang="en" lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=iso-8859-1" />
+<link rel="shortcut icon" href="favicon.ico" />
+<title>Hebeloma gigaspermum - Forum di Micologia AMB Gruppo di Muggia e del Carso  </title>
+ 
+<style type="text/css">
+	/*~START CSS~*/
+
+/*  
+ * CSS for IP.Board 2.3.0
+ * Author: Rikki Tissier, original IP.Board CSS by James Mathias
+ * Copyright: 2005 IPS, Inc, all rights reserved 
+ *
+ * All style attributes in alpha-numeric order starting from 0
+ *
+ */
+
+/* 
+ * ========================================
+ * global element styles 
+ * ========================================
+ */
+
+@import url(style_images/ip.boardpr/css_colors.css);
+
+/* ----------------------------------- */
+
+
+html{
+	overflow-x: auto; /* fixes MSIE scrollbar bug DO NOT REMOVE, has no effect in Mozilla, or Opera */
+}
+
+body{ 
+	font-family: Arial, Verdana, Tahoma, "Trebuchet MS", Sans-Serif, Georgia, Courier, "Times New Roman", Serif;
+	font-size: 12px;
+	line-height: 135%;
+	margin: 0px;
+	padding: 0px; /* required for Opera to have 0 margin */
+	text-align: center; /* centers board in MSIE */
+}
+
+/* 
+ * ========================================
+ * Set up IPB table
+ * ========================================
+ */
+ 
+.ipbtable { width:100% }
+
+table.ipbtable,
+tr.ipbtable,
+td.ipbtable
+{ /* required for text in tables, because tables do not inherit from body */
+	background: transparent;
+	color: #222;
+	font-size: 12px;
+	line-height: 135%;
+}
+
+.ipbtable td,
+.divpad{ /* gives all tables faux cellpadding of 5px */
+	padding: 5px;
+}
+
+td.nopad{ /* allows some tables to have no padding on the td */
+	padding: 0;
+}
+
+/* Safari... */
+th
+{
+	text-align: left;
+}
+
+
+form{
+	display: inline;
+	margin: 0; /* removes mystery form tag gapping */
+	padding: 0; /* removes mystery form tag gapping */
+}
+
+img{
+	border: 0; /* makes sure linked images do not have a border */
+	vertical-align: middle;
+}
+
+/* 
+ * ========================================
+ * global hyperlink styles 
+ * ========================================
+ */
+
+a:link,
+a:visited,
+a:active{
+	background: transparent;
+	color: #222;
+	text-decoration: underline;
+}
+
+a:hover{
+	background: transparent;
+}
+
+/* 
+ * ========================================
+ * Main wrapper, this controls the overall width of the board in you browser view window. 
+ * ========================================
+ */
+
+#ipbwrapper{ 
+	margin: 15px auto 20px auto; /* centers the box, no matter the overall width, also applies a 20px gap at the top and bottom of the board */
+	text-align: left; /* re_aligns text to left second part of two part MSIE centering workaround */
+	/* EDIT THIS TO CHANGE THE WIDTH OF THE BOARD -> 960px is a common fixed resolution size */
+	width: 98%;
+}
+
+/* 
+ * ========================================
+ * styles for pagination links 
+ * ========================================
+ */
+
+/* @group Pagination */
+
+.pagelink,
+.pagelinklast,
+.pagecurrent,
+.minipagelink,
+.minipagelinklast{
+	background: #d8d8d8;
+	padding: 2px 4px 2px 4px;
+}
+
+.pagelinklast,
+.minipagelinklast{
+	background: #d8d8d8;
+}
+
+
+.pagecurrent{
+
+}
+
+.minipagelink,
+.minipagelinklast{
+	border: 1px solid #C2CFDF;
+	font-size: 10px;
+	margin: 0 1px 0 0;
+}
+
+.pagelink a:active,
+.pagelink a:visited,
+.pagelink a:link,
+.pagelinklast a:active,
+.pagelinklast a:visited,
+.pagelinklast a:link,
+.pagecurrent a:active,
+.pagecurrent a:visited,
+.pagecurrent a:link,
+.minipagelink a:active,
+.minipagelink a:visited,
+.minipagelink a:link,
+.minipagelinklast a:active,
+.minipagelinklast a:visited,
+.minipagelinklast a:link{
+	text-decoration: none;
+}
+
+
+
+/* @end */
+
+/* fake button effect for some links */
+.fauxbutton{
+	font-size: 11px;
+	font-weight: bold;
+	padding: 4px;
+}
+
+.fauxbutton a:link,
+.fauxbutton a:visited,
+.fauxbutton a:active{
+	text-decoration: none;
+}
+
+.forumdesc,
+.forumdesc a:link,
+.forumdesc a:visited,
+.forumdesc a:active{ 
+	background: transparent;
+	font-size: 11px; 
+	color: #666;
+	line-height: 135%;
+	margin: 2px 0 0 0;
+	padding: 0;
+}
+
+/* =================================================================================== */
+/* =================================================================================== */
+/* =================================================================================== */
+
+.searchlite {
+	background-color:yellow;
+	font-weight:bold;
+	color: red;
+}
+
+.activeusers{
+	background: #FFF;
+	border: 3px solid #d7d7d7;
+	color: #000;
+	margin: 0px;
+	padding: 0px;
+}
+
+.activeuserposting a:link,
+.activeuserposting a:visited,
+.activeuserposting a:active,
+.activeuserposting
+{
+	font-style:italic;
+	text-decoration: none;
+	border-bottom:1px dotted black;
+}
+
+fieldset.search{ 
+	line-height: 150%;
+	padding: 6px; 
+}
+
+label{ 
+	cursor: pointer; 
+}
+
+img.attach{ 
+	background: #808080 url(style_images/ip.boardpr/click2enlarge.gif) no-repeat top right;
+	border: 1px solid #808080;
+	margin: 0 2px 0 0;
+	padding: 11px 2px 2px 2px;
+}
+
+li.helprow{ 
+	margin: 0 0 10px 0;
+	padding: 0; 
+}
+
+ul#help{ 
+	padding: 0 0 0 15px; 
+}
+
+.warngood,
+.warnbad{ 
+	color: #0B9500;
+	font-weight: bold;
+}
+
+.warnbad{ 
+	color: #DD0000;
+}
+
+#padandcenter{ 
+	margin: 0 auto 0 auto;
+	padding: 14px 0 14px 0;
+	text-align: center;
+}
+
+#profilename{ 
+	font-size: 28px; 
+	font-weight: bold; 
+}
+
+#photowrap{ 
+	padding: 6px; 
+}
+
+#phototitle{ 
+	border-bottom: 1px solid #000; 
+	font-size: 24px; 
+}
+
+#photoimg{ 
+	margin: 15px 0 0 0;
+	text-align: center; 
+}
+
+/* @group User CP */
+
+#ucpmenu,
+#ucpcontent{ 
+	background: #f3f3f3;
+	border: 1px solid #c4c4c4;
+	padding: 1px;
+	line-height: 150%;
+}
+
+#ucpmenu p{ 
+	margin: 0; 
+	padding: 2px 5px 6px 9px;
+}
+
+#ucpmenu a:link, 
+#ucpmenu a:active, 
+#ucpmenu a:visited{ 
+	text-decoration: none; 
+}
+
+#ucpcontent{ 
+	width: auto;
+}
+
+#ucpcontent p{ 
+	margin: 0;
+	padding: 10px;
+}
+
+
+
+/* @end */
+
+.activeuserstrip{ 
+	background: #BCD0ED;
+	padding: 6px;
+}
+
+/* Topic View elements */
+.signature{  
+	background: transparent;
+	color: #737373; 
+	font-size: 10px;
+	line-height: 150%;
+}
+
+.postdetails{ 
+	font-size: 11px;
+	line-height:140%;
+}
+
+.postcolor{ 
+	font-size: 13px; 
+	line-height: 160%;
+}
+
+.normalname{ 
+	color: #003;
+	font-size: 12px; 
+	font-weight: bold; 
+}
+
+.normalname a:link, 
+.normalname a:visited, 
+.normalname a:active{ 
+	font-size: 12px;
+}
+
+.post_head {
+}
+
+.post1,
+.bg1,
+.post2,
+.bg3,
+.post1.post_left,
+.post2.post_left
+{ 
+}
+
+.row2shaded,
+.post1shaded { background-color: #DEDBE4 }
+.row4shaded,
+.post2shaded { background-color: #E3DFE7 }
+
+.row1{ 
+}
+
+.row2{  
+}
+
+.ipbtable .row1,
+.ipbtable .row2 {
+}
+
+.rowhighlight{
+	background-color: #FFF9BA;
+}
+
+.darkrow1,
+.darkrow3{ 
+}
+
+/* tableborders gives the white column / row lines effect */
+.plainborder,
+.tablefill,
+.tablepad{ 
+	background: #f5f5f5;
+	border: 1px solid #345487;
+}
+
+.tablefill,
+.tablepad{ 
+	padding: 6px;  
+}
+
+.tablepad{ 
+	border: 0 !important;
+}
+
+.wrapmini{ 
+	float: left;
+	line-height: 1.5em;
+	width: 25%;
+}
+
+.pagelinks{
+	float: left;
+	line-height: 1.2em;
+	width: 35%;
+}
+
+.desc{ 
+	font-size: 11px; 
+}
+
+.lastaction
+{
+	font-size: 11px; 
+}
+
+.edit{ 
+	font-size: 9px;
+}
+
+.thin{ 
+	border: 1px solid #FFF;
+	border-left: 0;
+	border-right: 0;
+	line-height: 150%;
+	margin: 2px 0 2px 0;
+	padding: 6px 0 6px 0;
+}
+
+/* @group Calendar */
+
+.calmonths{ 
+	background: #eeeeee;
+	font-size: 18px; 
+	font-weight: bold; 
+	margin: 5px 0 5px 0;
+	padding: 8px;
+	text-align: center;
+}
+
+.weekday{
+	font-size: 14px;
+	font-weight: bold;
+}
+
+.calmonths a{
+	text-decoration: none;
+}
+
+.calday,
+.calweekday{ 
+	background: #e8e8e8;
+	color: #4b4b4b;
+	font-size: 11px;
+	font-weight: bold;
+	margin: 0;
+	padding: 4px;
+	text-align: right;
+}
+
+.calweekday{
+	border-right: 1px solid #AAA;
+	color: #222;
+	font-size: 14px;
+	padding: 6px;
+	text-align: center;
+}
+
+.celltodayshaded,
+.celldateshaded,
+.cellblank,
+.celldate,
+.celltoday,
+.mcellblank,
+.mcelldate,
+.mcelltoday{
+	background: #f5f5f5; 
+	height: 100px;
+	margin: 0;
+	padding: 0;
+	vertical-align: top;
+}
+
+.celltodayshaded,
+.celldateshaded
+{
+	background: #E3DFE7;
+}
+
+.mcellblank,
+.mcelldate,
+.mcelltoday{
+	height: auto;
+}
+
+.cellblank,
+.mcellblank{
+	background: #d1d1d1;
+}
+
+.celltoday,
+.celltodayshaded,
+.mcelltoday{
+	border: 2px solid #8B0000;
+}
+
+.calranged
+{
+	border: 2px outset #C2CFDF;
+	background: #C2CFDF;
+	padding:4px;
+}
+
+.calitem
+{
+	border-bottom: 1px dotted #C2CFDF;
+	padding:4px;
+}
+
+
+
+/* @end */
+
+/* @group Input elements */
+
+.input-warn,
+.input-green,
+.input-checkbox,
+input,
+textarea,
+select{
+	font-family: verdana, helvetica, sans-serif;
+	font-size: 11px;
+	margin: 5px;
+	padding: 2px;
+	vertical-align: middle;
+}
+
+select
+{
+	margin: 0px;
+}
+
+.input-checkbox
+{
+	border: none;
+}
+
+.input-warn,
+.input-warn-content
+{
+	border: 1px solid #C00;
+}
+
+.input-ok,
+.input-ok-content
+{
+	border: 1px solid #0C0;
+}
+
+.input-warn-content
+{
+	padding: 4px;
+	margin: 4px;
+	background-color: #FCC;
+}
+
+.input-ok-content
+{
+	padding: 4px;
+	margin: 4px;
+	background-color: #CFC;
+}
+
+
+.input-text
+{
+	color: #900;
+}
+
+input.button{
+	margin: 0;
+	width: auto;
+	cursor: pointer;
+}
+
+optgroup option{
+	font-family: verdana, helvetica, sans-serif;
+	font-size: 12px;
+}
+
+.codebuttons{ 
+	font-family: Verdana, Helvetica, Sans-Serif; 
+	font-size: 10px; 
+	vertical-align: middle;
+	margin:2px;
+}
+
+.textarea,
+.searchinput,
+.button,
+.gobutton{
+	font-family: Verdana, Helvetica, Sans-Serif;
+	font-size: 11px;
+	padding: 2px;
+	vertical-align: middle;
+}
+	
+.button{
+}
+
+.gobutton{
+	background: transparent;
+	border: 0;
+	color: #072A66;
+	margin: 0;
+	vertical-align: middle;
+}
+
+.radiobutton,
+.checkbox,
+.helpbox { 
+	border: 0;
+	vertical-align: middle;
+	background: transparent;
+}
+
+
+
+/* @end */
+
+.formtable{
+	background: transparent;
+}
+
+.formtable td,
+.pformleft,
+.pformleftw,
+.pformright{
+	border-left: 0;
+	font-weight: bold;
+	margin: 1px 0 0 0;
+	padding: 6px;
+	width: 25%;
+}
+
+.pformleft,
+.pformleftw {
+	background-color: #e4e6e9;
+}
+
+.pformright {
+	background-color: #eff1f3;
+}
+
+.formtable td.wider,
+.pformleftw,
+.pformright{
+	width: 40%;
+}
+
+.formtable td.formright,
+.pformright{
+	border-right: 0px;
+	font-weight: normal;
+	width: auto;
+} 
+
+.formtable td.formtitle,
+.formsubtitle{
+	background: #dcdcdc;
+	border: 1px solid #9FB9D4; 
+	border-bottom: 0;
+	border-left: 0;
+	border-right: 0;
+	font-weight: normal;
+}
+
+.formsubtitle{ 
+	border: 0;
+	color: #474747;
+	font-weight: bold;
+	padding: 5px;
+}
+
+.formtable td.formstrip{
+	background: #DDE8F2;
+	border: 1px solid #9FB9D4;
+	border-left: 0;
+	border-right: 0;
+	font-weight: normal;
+}
+
+/* 
+ * ========================================
+ * new style quote and code wrappers MATT's DESIGN 
+ * ========================================
+ */
+
+.quotetop{
+	background: #E4EAF2 url(style_images/ip.boardpr/css_img_quote.gif) no-repeat right;
+	border: 1px dotted #000;
+	border-bottom: 0;
+	border-left: 4px solid #8394B2;
+	color: #000;
+	font-weight: bold;
+	font-size: 10px;
+	margin: 2px auto 0 auto;
+	padding: 3px;
+}
+
+.quotemain{
+	background: #FAFCFE;
+	border: 1px dotted #000;
+	border-left: 4px solid #8394B2;
+	border-top: 0;
+	color: #465584;
+	padding: 4px;
+	margin: 0 auto 0 auto;
+}
+
+.codetop,
+.sqltop,
+.htmltop{
+	background: #FDDBCC url(style_images/ip.boardpr/css_img_code.gif) no-repeat right;
+	color: #000;
+	font-weight: bold;
+	margin: 0 auto 0 auto;
+	padding: 3px;
+}
+
+.codemain,
+.sqlmain,
+.htmlmain{
+	background: #FAFCFE;
+	border: 1px dotted #000;
+	color: #465584;
+	font-family: Courier, "Courier New", Verdana, Arial;
+	margin: 0 auto 0 auto;
+	padding: 2px;
+}
+
+/* 
+ * ========================================
+ * old school quote and code styles - backwards compatibility 
+ * ========================================
+ */
+
+#QUOTE,
+#CODE{  
+	background: #FAFCFE; 
+	border: 1px solid #000; 
+	color: #465584; 
+	font-family: Verdana, Arial; 
+	font-size: 11px; 
+	padding: 2px; 
+	white-space: normal;
+}
+
+#CODE{ 
+	font-family: Courier, "Courier New", Verdana, Arial;
+}
+
+/* 
+ * ========================================
+ * All New Styles 
+ * ========================================
+ */
+.cleared{
+	clear: both;
+}
+
+.borderwrap,
+.borderwrapm{ /* this will affect the outlining border of all the tables and boxes through-out the skin. */
+	background: #FFF;
+	padding: 1px; 
+	margin: 0px; 
+}
+
+.borderwrapm{
+	margin: 5px;
+}
+
+.borderwrap h3,
+.maintitle,
+.maintitlecollapse{
+	font-size: 13px;
+	font-weight: bold; 
+	margin: 0px;
+	padding: 8px 8px 8px 15px;
+}
+
+.maintitle td { 
+	font-size: 13px;
+	font-weight: bold;
+}
+
+
+.maintitlecollapse{
+}
+
+.maintitle p,
+.maintitlecollapse p,
+.formsubtitle p{
+	background: transparent !important;
+	border: 0 !important;
+	margin: 0 !important;
+	padding: 0 !important;
+}
+
+.maintitle p.expand,
+.maintitle p.goto,
+.maintitlecollapse p.expand,
+.formsubtitle p.members{
+	float: right;
+	width: auto !important;
+}
+
+.maintitle a:link, 
+.maintitle a:visited,
+.maintitlecollapse a:link, 
+.maintitlecollapse a:visited{ 
+	background: transparent;
+	text-decoration: none;
+}
+
+.maintitle a:hover, 
+.maintitle a:active,
+.maintitlecollapse a:hover, 
+.maintitlecollapse a:active{ 
+	background: transparent;
+}
+
+table th,
+.borderwrap table th,
+.subtitle,
+.subtitlediv,
+.postlinksbar{ 
+	font-size: 12px;
+	font-weight: bold;
+	margin: 0; 
+	padding: 5px; 
+}
+
+.subtitlediv{
+	text-align: right;
+}
+
+.borderwrap table th a:link,
+.subtitle a:link,
+.subtitlediv a:link,
+.borderwrap table th a:visited,
+.subtitle a:visited, 
+.subtitlediv a:visited, 
+.borderwrap table th a:active,
+.subtitle a:active,
+.subtitlediv a:active
+{ 
+	background: transparent;
+	text-decoration: none;
+}
+
+.borderwrap table th a:hover,
+.subtitle a:hover,
+.subtitlediv a:hover
+{
+	
+}
+
+.borderwrap h4{
+	background: #DDE6F2;
+	border: 1px solid #FFF;
+	border-bottom: 1px solid #5176B5;
+	border-top: 1px solid #5176B5;
+	color: #5176B5; 
+	font-size: 12px;
+	font-weight: bold; 
+	margin: 0;
+	padding: 5px;
+}
+
+.borderwrap p{
+	background: #F9F9F9;
+	border: 1px solid #CCC;
+	margin: 5px;
+	padding: 10px;
+	text-align: left;
+}
+
+
+td.formbuttonrow,
+.formbuttonrow,
+.pformstrip,
+.borderwrap p.formbuttonrow,
+.borderwrap p.formbuttonrow1{
+	margin: 0px !important;
+	padding: 5px !important;
+	text-align: center;
+}
+
+td.formbuttonrow{
+	border-bottom: 0;
+	border-left: 0;
+	border-right: 0;
+}
+
+.borderwrap p.formbuttonrow1{
+	background: #F9F9F9 !important;
+	border: 0;
+	border-top: 1px solid #CCC;
+}
+
+.bar,
+.barb,
+.barc{
+
+}
+
+.barc{
+	border-bottom: 0;
+}
+
+.bar p,
+.barb p,
+.barc p{
+	background: transparent;
+	border: 0;
+	font-size: 11px;
+	margin: 0;
+	padding: 5px;
+	text-align: left;
+}
+
+.barb p{
+	text-align: right;
+}
+
+.bar p.over,
+.bar p.overs,
+.barc p.over,
+.barc p.overs{
+	float: right;
+}
+
+.barb p.over,
+.barb p.overs{
+	float: left;
+}
+
+.bar p.overs,
+.barb p.overs,
+.barc p.overs{
+	position: relative;
+	top: 5px;
+}
+
+.catend{
+	font-size: 1px;
+	height: 5px;
+}
+
+.newslink{
+	background: #eeeeee;
+	margin: 0;
+	width: 100%;
+}
+
+.newslink td{
+	color: #222;
+	font-size: 11px;
+	padding: 5px 5px 5px 10px;
+}
+
+.newslink span{
+	background: transparent;
+	font-style: italic;
+	font-weight: normal;
+}
+
+.newslink input{
+	font-size: 10px;
+	padding: 3px;
+	vertical-align: middle;
+	width: auto;
+}
+
+.newslink input.button{
+	background: transparent;
+	border: 0;
+	color: #072A66;
+	vertical-align: middle;
+}
+
+.fieldwrap{
+	background: #F9F9F9;
+	border: 1px solid #CCC;
+	border-top: 0;
+	margin: 5px;
+	padding: 0;
+	text-align: left;
+}
+
+.fieldwrap h4{
+	background: #EEE;
+	border: 1px solid #CCC;
+	border-left: 0;
+	border-right: 0;
+	color: #444; 
+	font-size: 12px;
+	font-weight: bold; 
+	margin: 0;
+	padding: 5px;
+}
+
+.errorwrap {
+	background: #F2DDDD;
+	border: 1px solid #992A2A;
+	border-top: 0;
+	margin: 5px;
+	padding: 0;
+}
+
+
+.errorwrap h4 {
+	background: #E3C0C0;
+	border: 1px solid #992A2A;
+	border-left: 0;
+	border-right: 0;
+	color: #992A2A; 
+	font-size: 12px;
+	font-weight: bold; 
+	margin: 0;
+	padding: 5px;
+}
+
+.errorwrap p {
+	background: transparent;
+	border: 0;
+	color: #992A2A;
+	margin: 0;
+	padding: 8px;
+}
+
+
+.ruleswrap{
+	background: #F2DDDD;
+	border: 1px solid #992A2A;
+	color: #992A2A; 
+	margin: 5px 0 5px 0;
+	padding: 5px;
+}
+
+#redirectwrap{
+	background: #FFF;
+	border: 1px solid #c4c4c4;
+	padding: 1px;
+	margin: 200px auto 0 auto;
+	text-align: left;
+	width: 500px;
+}
+
+#redirectwrap h4{
+	font-size: 11px;
+	font-weight: bold;
+	margin: 0; 
+	padding: 5px;
+}
+
+#redirectwrap p{
+	margin: 0;
+	padding: 5px;
+}
+
+#redirectwrap p.redirectfoot{
+	margin: 0px !important;
+	padding: 5px !important;
+	text-align: center;
+}
+
+
+#gfooter{
+	margin: 5px 0 5px 0;
+	padding: 0;
+	width: 100%;
+}
+
+#gfooter td{
+	font-size: 10px;
+	padding: 7px;
+}
+
+#gfooter a:link,
+#gfooter a:visited{
+}
+
+#logostrip{ 
+	height: 68px;
+	margin: 0;
+	padding: 0;
+	text-align: left;
+}
+
+#logographic{
+	background: transparent url(style_images/ip.boardpr/logo4.gif) no-repeat left;
+	height: 68px;
+	margin: 0;
+	padding: 0;
+}
+
+#submenu{ 
+	margin: 0;
+	height: 30px;
+	text-align: right;
+}
+
+	#submenu_left a {
+		float: left;
+	}
+	
+	#submenu_right a {
+		float: right;
+	}
+	
+	#submenu a {
+		display: block;
+		padding: 7px;
+		text-decoration: none;
+	}
+	
+		#submenu a:hover {
+		
+		}
+
+#userlinks,
+#userlinksguest{ 
+	margin: 0px 0 5px 0;
+	padding: 0 5px 0 5px;
+	clear: both;
+}
+
+#userlinksguest{ 
+	
+}
+
+#userlinks p,
+#userlinksguest p{
+	background: transparent !important;
+	border: 0 !important;
+	font-size: 11px;
+	font-weight: bold; 
+	letter-spacing: 1px;
+	margin: 0 !important;
+	padding: 7px 0 7px 0; 
+	text-align: right;
+}
+
+#userlinks p,
+#userlinksguest p{
+	font-weight: normal;
+	letter-spacing: 0;
+}
+
+#userlinksguest p.pcen{
+	text-align: center;
+}
+
+#userlinks p.home,
+#userlinksguest p.home{
+	float: left;
+}
+
+#navstrip{ 
+	font-size: 12px;
+	font-weight: bold;
+	margin: 0 0 5px 0;
+	padding: 5px 0px 8px 0px; 
+}
+
+#navstrip a:link, 
+#navstrip  a:visited{ 
+	text-decoration: none;
+}
+
+#navstrip a:hover, 
+#navstrip a:active{
+ 
+}
+
+.toplinks{
+	background: transparent;
+	color: #565656;
+	margin: 0;
+	padding: 0 0 5px 0;
+	text-align: right;
+}
+
+.toplinks span{
+	color: #565656;
+	font-size: 11px;
+	font-weight: bold;
+	margin: 0;
+	padding: 5px;
+}
+
+.toplinks a {
+	color: #686868;
+}
+
+.copyright{ 
+	font-size: 11px; 
+	margin: 0 0 5px 0;
+	padding: 8px;
+}
+
+/* @group Print styles */
+
+#print{
+	margin: 20px auto 20px auto;
+	padding: 0;
+	text-align: left;
+	width: 85%;
+}
+
+#print h1,
+#print h2,
+#print h3,
+#print h4,
+#print p{
+	color: #036;
+	font-size: 18px;
+	font-weight: bold;
+	margin: 0;
+	padding: 8px;
+}
+
+#print h2,
+#print h3,
+#print p{
+	border-bottom: 1px solid #999;
+	font-size: 11px;
+	font-weight: normal;
+}
+
+#print h3{
+	background: #F5F5F5;
+	font-size: 12px;
+	font-weight: bold;
+	margin: 0 0 10px 0;
+}
+
+#print h4{
+	background: #F9F9F9;
+	font-size: 11px;
+}
+
+#print p{
+	margin: 0 0 5px 0;
+	padding: 10px;
+}
+
+#print p.printcopy{
+	border: 0;
+	color: #000;
+	text-align: center;
+}
+
+.dny-edit-title
+{
+	border:0px;
+	padding:3px;
+	margin:0px;
+	background: #D1DCEB; 
+	color: #3A4F6C; 
+}
+
+
+
+/* @end */
+
+
+/* ======================================== */
+/* TABS
+/* ======================================== */
+
+.tabon
+{
+	border-width: 1px 1px 0px 1px;
+	border-style: solid;
+	padding:8px;
+	float:left;
+	width:auto;
+	margin-top:1px;
+	font-size:11px;
+}
+
+.taboff
+{
+	border-width: 1px 1px 0px 1px;
+	border-style: solid;
+	padding:8px;
+	float: left;
+	width: auto;
+	margin-top:1px;
+	font-size:11px;
+}
+
+.tabon a:link, 
+.tabon a:visited, 
+.tabon a:active
+{
+	text-decoration:none;
+}
+
+.taboff a:link, 
+.taboff a:visited, 
+.taboff a:active
+{
+	text-decoration:none;
+}
+
+.mya-back
+{
+	background: #eaeaea;
+	margin:1px;
+	padding: 1px;
+}
+
+.mya-content
+{
+	background: #FFF;
+	padding:8px;
+	margin: 1px;
+	border: 1px solid #777;
+}
+
+.mya-content-tbl
+{
+   background: #F0F5FA;
+   border: 1px solid #777;
+   text-align:left;
+   font-size:10px;
+   white-space:nowrap;
+   margin:1px;
+}
+
+.mya-fieldwrap
+{
+	background: transparent;
+	margin-top: 2px;
+	margin-bottom: 2px;
+	padding: 4px;
+	border: 1px solid #C5C7CD;
+	-moz-border-radius: 5px;
+	width: auto;
+	display: block;
+}
+
+/* -------------------------------- */
+/* Create PM box defaults           */
+/* -------------------------------- */
+
+.iframeshim
+{
+	position:absolute;
+	display:none;
+	background: #FFF;
+	border:0px;
+	width:auto;
+	height:auto;
+}
+
+
+
+/* -------------------------------- */
+/* Experimental                     */
+/* -------------------------------- */
+
+/* @group Popup Menus */
+
+.popupmenu,
+.popupmenu-new
+{
+   background: #f4f4f4;
+   border: 1px solid #989898;
+   text-align:left;
+   font-size:11px;
+   white-space:nowrap;
+   /*padding:3px 5px 3px 3px;*/
+   /*width:300px;*/
+}
+
+.popupmenu-item
+{
+	padding: 5px;
+	/*margin-top:4px;*/
+	white-space: nowrap;
+	border-bottom: 1px solid #d0d0d0;
+	color:  #000000;
+	font-weight: normal;
+}
+
+.popupmenu-item-last
+{
+	padding: 5px;
+	/*margin-top:4px;*/
+	white-space: nowrap;
+	color:  #000000;
+	font-weight: normal;
+}
+
+.popmenubutton-new,
+.popmenubutton
+{
+	white-space:nowrap;
+	background-color: #f0f0f0;
+	border: 1px solid #adadad;
+	color: #30343b;
+	font-weight:bold;
+	float:right;
+	text-align:center;
+	margin:0px;
+	font-size:11px;
+	padding: 2px 8px 2px 8px;
+}
+
+.popmenubutton-new,
+.popmenubutton-new-out
+{
+	float:none;
+	width:auto;
+	text-align:left;
+	height:auto;
+	padding:4px;
+	font-weight:normal;
+	background-color:#f0f0f0;
+	background-image: url(style_images/ip.boardpr/menu_action_down-padded.gif);
+	background-repeat: no-repeat;
+	background-position: right;
+}
+
+.popmenubutton-new-out
+{
+	padding: 4px;
+	background-color:#dce1e8;
+	border: 1px solid #a9b0bb;
+}
+
+
+.popupmenu-new
+{
+	background-color: #f4f4f4;
+}
+
+.maintitle .popmenubutton {
+	margin: -3px 0px -3px 5px;
+}
+
+.popmenubutton a:link, 
+.popmenubutton a:visited,
+.popmenubutton-new a:link, 
+.popmenubutton-new a:visited,
+.popmenubutton-new-out a:link,
+.popmenubutton-new-out a:visited,
+.popupmenu-item a:link, 
+.popupmenu-item a:visited,
+.popupmenu-item-last a:link, 
+.popupmenu-item-last a:visited
+{ 
+	text-decoration: none;
+	-moz-outline: none;
+}
+
+.popmenubutton a:hover,
+.popmenubutton-new a:hover,
+.popupmenu-item a:hover, 
+.popupmenu-item-last a:hover
+{  
+	text-decoration: none;
+}
+
+.popupmenu-category
+{
+	background-color: #aaaaaa; 
+	color: #464646; 
+	font-size: 11px;
+	font-weight: bold; 
+	letter-spacing: 1px;
+	margin: 0; 
+	padding: 5px; 
+}
+
+
+
+/* @end */
+
+/* -------------------------------- */
+/* Loading box
+/* -------------------------------- */
+
+#loading-layer-inner
+{
+	width:220px;
+	height:28px;
+	padding:18px 10px 10px 10px;
+	text-align:center;
+	color: #000;
+	border: 1px solid;
+	border-color:#CCC #666 #666 #CCC;
+	background-color: #FCF8C7;
+}
+
+/* -------------------------------- */
+/* Message in a bo(x|ttle)
+/* -------------------------------- */
+
+#ipd-msg-wrapper
+{
+	display: none;
+	width: 220px;
+}
+
+#ipd-msg-inner
+{
+	width:100%;
+	height:45px;
+	padding: 6px 4px 4px 4px;
+	margin: 0px;
+	text-align:center;
+	color: #000;
+	border: 1px solid;
+	border-color:#ccc #666 #666 #ccc;
+	background-color: #FCF8C7;
+	filter:alpha(opacity=75);
+	opacity:.75
+}
+
+#ipd-msg-title
+{
+	width: 100%;
+	height:20px;
+	margin: 0px;
+	padding: 6px 4px 4px 4px;
+	background: transparent url(style_images/ip.boardpr/css_pp_header.gif);
+	border: 1px solid #3A4F6C;
+	border-bottom: 0px;
+	color: #FFF;
+}
+
+.linked-image
+{
+	margin: 0px;
+	padding: 0px;
+	border: 0px;
+}
+
+.resized-linked-image
+{
+	margin: 1px 0px 0px 0px;
+	padding: 0px;
+	background-color: #000;
+	border: 0px;
+	color: #FFF;
+	font-size: 10px;
+	width: auto;
+	-moz-border-radius-topleft: 7px;
+	-moz-border-radius-topright: 7px;
+}
+
+.resized-linked-image-zoom
+{
+	width: 200px;
+	height: 30px;
+	filter:alpha(opacity=85);
+	opacity:.85;
+	background-color: #FFF;
+	padding-top: 6px;
+	padding-left: 5px;
+	top: 0px;
+	left: 0px;
+	position: absolute;
+	display: none;
+}
+
+/* -------------------------------- */
+/* Edit post reason
+/* -------------------------------- */
+
+.post-edit-reason
+{
+	background: #E7EAEF;
+	margin-top: 9px;
+	margin-bottom: 0px;
+	padding: 4px;
+	color: #333;
+	font-size: 10px;
+	border: 1px solid #C5C7CD;
+	-moz-border-radius: 5px;
+	width: auto;
+	display: block;
+}
+
+/* -------------------------------- */
+/* Personal Profile
+/* -------------------------------- */
+
+.pp-name
+{ 
+	background: #eeeeee;
+	margin: 0px;
+	padding: 10px;
+}
+
+/* @group Personal Profile */
+
+.pp-name h3
+{
+	margin:0px;
+	padding:0px 0px 5px 0px;
+	font-size:24px;
+}
+
+.pp-header
+{ 
+	font-size: 10px;
+	font-weight: bold; 
+	margin: 0px 0px 1px 0px; 
+	padding: 5px; 
+}
+
+.pp-title
+{
+	font-size: 12px;
+	font-weight: bold; 
+	margin: 0px;
+	padding: 8px;
+}
+
+.pp-datebox
+{
+	text-align: center;
+	background: #FFFFFF;
+	border: 1px solid #8e8e8e;
+	padding: 4px;
+	margin: 0px;
+	font-size:18px;
+	font-weight:bold;
+	line-height: 100%;
+	letter-spacing: -1px;
+	float:right;
+	width: auto;
+}
+
+.pp-datebox em
+{
+	color: #AAA;
+	font-weight: normal;
+	font-style: normal;
+}
+
+.pp-contentbox-back
+{
+	background-color: #cacaca;
+	padding: 6px;
+}
+
+.pp-contentbox-entry,
+.pp-contentbox-entry-noheight,
+.pp-contentbox-entry-noheight-mod,
+.pp-contentbox-entry-noheight-sel
+{
+	background-color: #f7f7f7;
+	border: 1px solid #8e8e8e;
+	line-height: 140%;
+	padding: 8px;
+	margin-bottom: 6px;
+	height: 200px;
+	overflow: auto;
+	overflow-x: auto;
+}
+
+.pp-contentbox-entry-noheight-sel
+{
+	background-color:#FCECCD;
+}
+
+.pp-contentbox-entry-noheight-mod
+{
+	background-color:#FDF1DA;
+}
+
+.pp-contentbox-entry-noheight,
+.pp-contentbox-entry-noheight-mod,
+.pp-contentbox-entry-noheight-sel
+{
+	height: auto;
+	margin-bottom: 1px;
+}
+
+.pp-image-thumb-wrap,
+.pp-image-thumb-wrap-floatright,
+.pp-image-mini-wrap,
+.pp-image-mini-wrap-floatright
+{
+	width: 52px;
+	height: 52px;
+	text-align: center;
+	background: #FFFFFF;
+	border: 1px solid #555555;
+	padding: 4px;
+	margin-top: auto;
+	margin-bottom: auto;
+}
+
+.pp-image-mini-wrap,
+.pp-image-mini-wrap-floatright
+{
+	width: 27px;
+	height: 27px;
+	margin-top: auto;
+	margin-bottom: auto;
+}
+
+.pp-image-thumb-wrap-floatright,
+.pp-image-mini-wrap-floatright
+{
+	float:right;
+}
+
+.pp-tiny-text
+{
+	color: gray;
+	font-size: 10px;
+}
+
+.pp-mini-content-entry,
+.pp-mini-content-entry-noheight,
+.pp-mini-entry-noheight-shaded
+{
+	background-color: #F5F9FD;
+	padding: 6px;
+	border-bottom: 1px dotted #555555;
+	clear:both;
+	width: auto;
+	height: 60px;
+}
+
+.pp-mini-entry-noheight-shaded
+{
+	background-color: #E3DFE7;
+}
+
+.pp-mini-content-entry-noheight,
+.pp-mini-entry-noheight-shaded
+{
+	height: auto;
+}
+
+.pp-tabclear,
+.pp-maintitle
+{
+	font-size: 13px;
+	font-weight: bold; 
+	margin: 0px;
+	padding: 8px;
+}
+
+.pp-tabclear
+{
+	border:0px;
+}
+
+.pp-tabon
+{
+	border-width: 1px 1px 0px 1px;
+	border-style: solid;
+	padding:8px;
+	float:left;
+	width:auto;
+	margin-top:1px;
+	font-size:11px;
+}
+
+.pp-taboff,
+.pp-tabshaded
+{
+	border-width: 1px 1px 0px 1px;
+	border-style: solid;
+	padding:8px;
+	float: left;
+	width: auto;
+	margin-top:1px;
+	font-size:11px;
+}
+
+.pp-tabshaded
+{
+	background-image: url(style_images/ip.boardpr/css_pp_tab_shaded.gif);
+	background-repeat: repeat-x;
+	background-position: left bottom;
+	color: #516795;
+	border-top: 1px solid #7f9BBC;
+	border-left: 1px solid #7f9BBC;
+	border-right: 1px solid #7f9BBC;
+}
+
+.pp-tabon a:link, 
+.pp-tabon a:visited, 
+.pp-tabon a:active
+{
+	text-decoration:none;
+}
+
+.pp-taboff a:link, 
+.pp-taboff a:visited, 
+.pp-taboff a:active,
+.pp-tabshaded a:link, 
+.pp-tabshaded a:visited, 
+.pp-tabshaded a:active
+{
+	text-decoration:none;
+}
+
+.pp-tabwrap
+{
+	height: 34px;
+	margin:0px;
+	padding:0px;
+}
+
+
+
+/* @end */
+
+/* Small blog fix */
+
+#myblogset-info .fieldwrap {
+	background: transparent;
+	border: 0px;
+	border-top: 0;
+    margin: 0px;
+	padding: 0;
+	text-align: left;
+}
+
+
+/* GALLERY STYLES */
+
+.gallery_block {
+	padding: 3px !important;
+	margin: 0px;
+}
+
+.gal_caption {
+	font-size: 14px;
+	padding-bottom: 5px;
+	font-weight: normal;
+}
+
+.gal_cat a {
+	text-decoration: none;
+}
+
+.gal_curr {
+}
+
+.gal_noncurr {
+}
+
+.thumbwrap,
+.thumbwrapp,
+.fullimagewrap
+{
+	margin: 1px;
+	background-color: #fff;
+	border: 1px solid #8e8e8e !important;
+}
+
+.thumbwrapp{
+	border: 2px solid #660707;
+}
+
+.fullimagewrap{
+	background: #F5F9FD;
+	text-align: center;
+	margin: 5px 0 5px 0;
+	padding: 5px;
+}
+
+.thumbwrap h4,
+.thumbwrapp h4{	
+	background: #DDE6F2;
+	border: 0 !important;
+	color: #5176B5; 
+	font-size: 12px;
+	font-weight: bold; 
+	margin: 0;
+	padding: 5px;
+}
+
+.thumbwrap p,
+.thumbwrapp p{
+	border-bottom: 0px !important;
+	margin: 0 !important;
+	padding: 5px !important;
+	text-align: left;
+}
+
+.thumbwrap p.alt,
+.thumbwrapp p.alt{
+	border-bottom: 0px !important;
+	margin: 0 !important;
+	padding: 5px !important;
+	text-align: left;
+}
+
+.thumbwrapp p.pin{
+	background: #EFDFDF !important;
+	text-align: center !important;
+}
+
+.thumbwrap img.galattach,
+.thumbwrapp img.galattach{
+	background: #FFF url(style_images/ip.boardpr/img_larger.gif) no-repeat bottom right;
+	border: 1px solid #424242;
+	margin: 5px;
+	padding: 2px 2px 10px 2px;
+}
+
+/* This is a little hack to fix the
+* scrollbar that appears in the emoticon
+* pane of the post screen */	
+#post_screen_hack table tr td {
+	padding: 0px !important;
+}
+</style>
+<style type='text/css'>
+@import url( "http://www.ambmuggia.it/forum/style_images/ip.boardpr/folder_editor_images/css_rte.css" );
+</style> 
+</head> 
+<body>
+<!--ipb.javascript.start-->
+<script type="text/javascript">
+ //<![CDATA[
+ var ipb_var_st            = "0";
+ var ipb_lang_tpl_q1       = "Inserisci il numero della pagina da visualizzare compreso tra 1 e";
+ var ipb_var_s             = "72040644a67467514762eec7f8280932";
+ var ipb_var_phpext        = "php";
+ var ipb_var_base_url      = "http://www.ambmuggia.it/forum/index.php?s=72040644a67467514762eec7f8280932&";
+ var ipb_var_image_url     = "style_images/ip.boardpr";
+ var ipb_input_f           = "27";
+ var ipb_input_t           = "6759";
+ var ipb_input_p           = "0";
+ var ipb_var_cookieid      = "";
+ var ipb_var_cookie_domain = "";
+ var ipb_var_cookie_path   = "/";
+ var ipb_md5_check         = "880ea6a14ea49e853634fbdc5015a024";
+ var ipb_new_msgs          = 0;
+ var use_enhanced_js       = 1;
+ var use_charset           = "iso-8859-1";
+ var ipb_myass_chars_lang  = "Not enough characters";
+ var ajax_load_msg		   = "Caricamento...";
+ //]]>
+</script>
+<script type="text/javascript" src='jscripts/ips_ipsclass.js'></script>
+<script type="text/javascript" src='jscripts/ipb_global.js'></script>
+<script type="text/javascript" src='jscripts/ips_menu.js'></script>
+<script type="text/javascript" src='style_images/ip.boardpr/folder_js_skin/ips_menu_html.js'></script>
+<script type="text/javascript" src='cache/lang_cache/9/lang_javascript.js'></script>
+<script type="text/javascript">
+//<![CDATA[
+var ipsclass = new ipsclass();
+ipsclass.init();
+ipsclass.settings['do_linked_resize'] = parseInt( "0" );
+ipsclass.settings['resize_percent']   = parseInt( "50" );
+//]]>
+</script>
+<!--ipb.javascript.end-->
+	<div id="logostrip"><a href='http://www.ambmuggia.it/forum/index.php?s=72040644a67467514762eec7f8280932&amp;'><!--ipb.logo.start--><img src='style_images/14_logoforum2.jpg' alt='IPB' style='vertical-align:top' border='0' /><!--ipb.logo.end--></a></div>
+	<div id="submenu">
+		<!--ipb.leftlinks.start-->
+		<div id='submenu_left'>
+		
+			<a href="http://ambmuggia.it">Home di ambmuggia.it</a>
+		
+			
+		
+	<div class='ipb-top-left-link'><a href="http://www.ambmuggia.it/forum/index.php?s=72040644a67467514762eec7f8280932&amp;act=boardrules">-->> Iscrizioni  e regole</a></div>
+
+		</div>
+		<!--ipb.leftlinks.end-->
+		<!--ipb.rightlinks.start-->
+		<div id='submenu_right'>
+			<a href="http://www.ambmuggia.it/forum/index.php?s=72040644a67467514762eec7f8280932&amp;act=Help">Aiuto</a>
+			<a href="http://www.ambmuggia.it/forum/index.php?s=72040644a67467514762eec7f8280932&amp;act=Search&amp;f=27" id="ipb-tl-search">Cerca</a>
+			<a href="http://www.ambmuggia.it/forum/index.php?s=72040644a67467514762eec7f8280932&amp;act=Members">Utenti</a>
+			<a href="http://www.ambmuggia.it/forum/index.php?s=72040644a67467514762eec7f8280932&amp;act=calendar">Calendario</a>
+			
+			<div class='popupmenu-new' id='ipb-tl-search_menu' style='display:none;width:210px'>
+				<form action="http://www.ambmuggia.it/forum/index.php?s=72040644a67467514762eec7f8280932&amp;act=Search&amp;CODE=01" method="post">
+					<input type='hidden' name='forums' id='gbl-search-forums' value='all' /> 
+					<input type="text" size="20" name="keywords" id='ipb-tl-search-box' />
+					<input class="button" type="image" style='border:0px' src="style_images/ip.boardpr/login-button.gif" />
+					
+						<br /><input type='checkbox' id='gbl-search-checkbox' value='1' onclick='gbl_check_search_box()' checked='checked' /> Cercare solo in questo forum?
+					
+				</form>
+				<div style='padding:4px'>
+					<a href='http://www.ambmuggia.it/forum/index.php?s=72040644a67467514762eec7f8280932&amp;act=Search'>Altre opzioni di ricerca</a>
+				</div>
+			</div>
+			<script type="text/javascript">
+				ipsmenu.register( "ipb-tl-search", 'document.getElementById("ipb-tl-search-box").focus();' );
+				gbl_check_search_box();
+			</script>
+		</div>
+		<!--ipb.rightlinks.end-->
+	</div>
+
+<script type="text/javascript" src='jscripts/ips_xmlhttprequest.js'></script>
+<script type="text/javascript" src='jscripts/ipb_global_xmlenhanced.js'></script>
+<script type="text/javascript" src='jscripts/dom-drag.js'></script>
+<div id='get-myassistant' style='display:none;width:400px;text-align:left;'>
+<div class="borderwrap">
+ <div class='maintitle' id='myass-drag' title='Clicca e trascina per spostare questa finestra'>
+  <div style='float:right'><a href='#' onclick='document.getElementById("get-myassistant").style.display="none"; return false;' title='Chiudi finestra'>[X]</a></div>
+  <div>Assistente</div>
+ </div>
+ <div id='myass-content' style='overflow-x:auto;'></div>
+ </div>
+</div>
+<!-- Loading Layer -->
+<div id='loading-layer' style='display:none'>
+	<div id='loading-layer-shadow'>
+	   <div id='loading-layer-inner'>
+	 	<img src='style_images/ip.boardpr/loading_anim.gif' border='0' alt='Lettura in corso, attendi...' />
+		<span style='font-weight:bold' id='loading-layer-text'>Lettura in corso, attendi...</span>
+	    </div>
+	</div>
+</div>
+<!-- / Loading Layer -->
+<!-- Msg Layer -->
+<div id='ipd-msg-wrapper'>
+	<div id='ipd-msg-title'>
+		<a href='#' onclick='document.getElementById("ipd-msg-wrapper").style.display="none"; return false;'><img src='style_images/ip.boardpr/close.png' alt='X' title='Close Window' class='ipd' /></a> &nbsp; <strong>Messaggio del sito</strong>
+	</div>
+	<div id='ipd-msg-inner'><span style='font-weight:bold' id='ipd-msg-text'></span><div class='pp-tiny-text'>(Il messaggio sar&agrave; chiuso in 2 secondi)</div></div>
+</div>
+<!-- Msg Layer -->
+
+<!-- / End board header -->
+
+<div id="userlinksguest">
+	<p class="pcen"><b>Benvenuto Visitatore</b> ( <a href="http://www.ambmuggia.it/forum/index.php?s=72040644a67467514762eec7f8280932&amp;act=Login&amp;CODE=00">Log In</a> | <a href="http://www.ambmuggia.it/forum/index.php?s=72040644a67467514762eec7f8280932&amp;act=Reg&amp;CODE=00">Registrati</a> )
+
+
+
+
+
+
+
+	</p>
+</div>
+<div id="ipbwrapper">
+<div id="navstrip"><img src='style_images/ip.boardpr/nav.gif' border='0'  alt='&gt;' />&nbsp;<a href='http://www.ambmuggia.it/forum/index.php?s=72040644a67467514762eec7f8280932&amp;act=idx'>Forum di Micologia AMB Gruppo di Muggia e del Carso  </a>&nbsp;>&nbsp;<a href='http://www.ambmuggia.it/forum/index.php?s=72040644a67467514762eec7f8280932&amp;showforum=66'>BASIDIOMYCETES - Schede di Micologia</a>&nbsp;>&nbsp;<a href='http://www.ambmuggia.it/forum/index.php?s=72040644a67467514762eec7f8280932&amp;showforum=22'>HYMENOMYCETIDAE</a>&nbsp;>&nbsp;<a href='http://www.ambmuggia.it/forum/index.php?s=72040644a67467514762eec7f8280932&amp;showforum=27'>CORTINARIALES</a></div>
+<!--IBF.NEWPMBOX-->
+<script type="text/javascript">
+<!--
+var ipb_lang_tt_prompt = "Copia manualmente il link al messaggio riportato qui sotto per inserirlo negli appunti del tuo computer";
+var ipb_lang_js_del_1  = "Sei sicuro di voler eliminare questo messaggio?";
+var ipb_lang_js_del_2  = "Azione annullata";
+var addquotebutton     = "style_images/ip.boardpr/p_mq_add.gif";
+var removequotebutton  = "style_images/ip.boardpr/p_mq_remove.gif";
+var unselectedbutton = "style_images/ip.boardpr/topic_unselected.gif";
+var selectedbutton   = "style_images/ip.boardpr/topic_selected.gif";
+var lang_gobutton    = "Applica";
+var lang_suredelete  = "Sei sicuro di voler eliminare questi messaggi?";
+var js_error_no_permission = "Spiacente, non hai i permessi per modificare questo messaggio";
+var js_no_empty_post = "Non puoi inviare un messaggio vuoto";
+//-->
+</script>
+<script type="text/javascript" src="jscripts/ipb_topic.js"></script>
+<script type="text/javascript" src="jscripts/ips_text_editor_lite.js"></script>
+<script type='text/javascript'>
+//<![CDATA[
+topic_rate = new topic_rate();
+//]]>
+</script>
+<a name="top"></a>
+
+
+<table class='ipbtable' cellspacing="0">
+	<tr>
+		<td style='padding-left:0px' width="40%" valign="middle" nowrap="nowrap"><div>&nbsp;</div></td>
+		<td class='nopad' style='padding:0px 0px 5px 0px' align="right" width="60%" valign="middle"><img src='style_images/ip.boardpr/t_closed.gif' border='0'  alt='Closed Topic' /><a href="http://www.ambmuggia.it/forum/index.php?s=72040644a67467514762eec7f8280932&amp;act=post&amp;do=new_post&amp;f=27" title="Crea una nuova discussione"><img src='style_images/ip.boardpr/t_new.gif' border='0'  alt='Start new topic' /></a></td>
+	</tr>
+</table>
+
+<div class="borderwrap">
+	<div class="maintitle">
+	<!-- TABLE FIX FOR MOZILLA WRAPPING-->
+	<table width='100%' style='padding:0px' cellspacing='0' cellpadding='0'>
+	<tr>
+	 <td width='99%' style='word-wrap:break-word;'><div><b>Hebeloma gigaspermum</b></div></td>
+	 
+	 <td width='1%' align='right' nowrap='nowrap'>
+		
+		
+			
+		
+		
+     </td>
+	 <td width='1%' align='right' nowrap='nowrap'>
+	    <div class='popmenubutton' id='topicmenu-options'><a href='#topicoptions'>Opzioni</a> <img src='style_images/ip.boardpr/menu_action_down.gif' alt='V' title='Apri menu' border='0' /></div>
+	 </td>
+	</tr>
+  </table>
+	 
+ </div>
+ <!--{IBF.POLL}-->
+<script type="text/javascript">
+<!--
+menu_build_menu(
+"topicmenu-options",
+new Array(   img_item + " <a href='http://www.ambmuggia.it/forum/index.php?s=72040644a67467514762eec7f8280932&amp;act=usercp&amp;CODE=start_subs&amp;method=topic&amp;tid=6759'>Sottoscrivi questa discussione</a>",
+ 			 img_item + " <a href='http://www.ambmuggia.it/forum/index.php?s=72040644a67467514762eec7f8280932&amp;act=Forward&amp;f=27&amp;t=6759'>Invia tramite Email</a>",
+ 			 img_item + " <a href='http://www.ambmuggia.it/forum/index.php?s=72040644a67467514762eec7f8280932&amp;act=Print&amp;client=printer&amp;f=27&amp;t=6759'>Stampa questa discussione</a>",
+             img_item + " <a href='http://www.ambmuggia.it/forum/index.php?s=72040644a67467514762eec7f8280932&amp;act=Print&amp;client=choose&amp;f=27&amp;t=6759'>Download / Stampa questa Discussione</a>",
+ 			 img_item + " <a href='http://www.ambmuggia.it/forum/index.php?s=72040644a67467514762eec7f8280932&amp;act=usercp&amp;CODE=start_subs&amp;method=forum&amp;fid=27'>Sottoscrivi questo Forum</a>",
+ 			 "~~NODIV~~<div class='popupmenu-category' align='center'>Modalit&agrave; di visualizzazione</div>",
+ 			 img_item + " <a href='http://www.ambmuggia.it/forum/index.php?s=72040644a67467514762eec7f8280932&amp;showtopic=6759&amp;mode=threaded'>Passa a: Outline</a>",
+ 			 img_item + " <strong><em><a href='http://www.ambmuggia.it/forum/index.php?s=72040644a67467514762eec7f8280932&amp;showtopic=6759&amp;mode=linear'>Normale</a></em></strong>",
+ 			 img_item + " <a href='http://www.ambmuggia.it/forum/index.php?s=72040644a67467514762eec7f8280932&amp;showtopic=6759&amp;mode=linearplus'>Passa a: Lineare</a>"
+	    ) );
+topic_rate.settings['allow_rating']       = parseInt("0");
+topic_rate.settings['default_rating']     = parseInt("0");
+topic_rate.settings['img_base_url']       = ipb_var_image_url + '/folder_topic_view';
+topic_rate.settings['div_rating_wrapper'] = 'topic-rating-wrapper';
+topic_rate.settings['text_rating_image']  = 'topic-rating-img-';
+topic_rate.languages['img_alt_rate']      = "Vota questa discussione, clicca sulla stella desiderata";
+topic_rate.languages['rate_me']           = "Voto:";
+topic_rate.init_rating_images();
+-->
+</script><!--Begin Msg Number 75653-->
+<table class='ipbtable' cellspacing="0">
+	<tr>
+		<td valign="middle" class="post_head" width="1%">
+			<a name="entry75653"></a>
+			
+				<div id="post-member-75653" class='popmenubutton-new-out'>
+					<span class="normalname">
+	<img src='style_images/ip.boardpr/folder_profile_portal/user-offline.png' alt='' border='0' /><a href='http://www.ambmuggia.it/forum/index.php?s=72040644a67467514762eec7f8280932&amp;showuser=3'>marinetto</a></span>
+				</div>
+				<!-- member menu -->
+				<div class='popupmenu-new' id='post-member-75653_menu' style='display:none;width:230px'>
+					<div class='popupmenu-item-last'>
+						
+						<div style='float:right'>
+							<div class='pp-image-thumb-wrap'>
+								<img src='style_images/ip.boardpr/folder_profile_portal/pp-blank-thumb.png' width='50' height='50' alt='' />
+							</div>
+							
+						</div>
+						<div class='popupmenu-item'>
+							
+	
+		<img src='style_images/ip.boardpr/folder_profile_portal/gender_male.png' id='pp-entry-gender-img-3' style='vertical-align:top' alt='' border='0' />
+	
+ <a href="http://www.ambmuggia.it/forum/index.php?s=72040644a67467514762eec7f8280932&amp;showuser=3">Visualizza Profilo</a>
+						</div>
+							
+							
+						
+					</div>
+				</div>
+				<!-- member menu -->
+				<script type="text/javascript">
+					ipsmenu.register( "post-member-75653", '', 'popmenubutton-new', 'popmenubutton-new-out' );
+				</script>
+			
+			
+		</td>
+		<td class="post_head" valign="middle" width="99%">
+			<!-- POSTED DATE DIV -->
+			<div style="float: left;">
+				<span class="postdetails"> <img src='style_images/ip.boardpr/to_post_off.gif' alt='messaggio' border='0' style='padding-bottom:2px' />  4 Jan 2009 - 17:09</span>
+			</div>
+			<!-- REPORT / DELETE / EDIT / QUOTE DIV -->
+			<div align="right">
+				<span class="postdetails"> Messaggio
+					<a title="Mostra il link a questo messaggio" href="http://www.ambmuggia.it/forum/index.php?showtopic=6759&view=findpost&p=75653" onclick="link_to_post(75653); return false;">#1</a>
+					
+				</span>
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td valign="top" class="post2 post_left">
+        	<span class="postdetails">
+				
+					<a href="http://www.ambmuggia.it/forum/index.php?s=72040644a67467514762eec7f8280932&amp;showuser=3" title="Visualizza Profilo"><img src='http://www.ambmuggia.it/forum/uploads/av-3.jpg' border='0' width='64' height='64' alt='' /></a><br /><br />
+				
+        		Utente Avanzato<br />
+        		<img src='style_images/ip.boardpr/pip.gif' border='0'  alt='*' /><img src='style_images/ip.boardpr/pip.gif' border='0'  alt='*' /><img src='style_images/ip.boardpr/pip.gif' border='0'  alt='*' /><br /><br />
+        		Gruppo: Moderatore<br />
+        		Messaggi: 26.322<br />
+        		Iscritto il: 28-January 03<br />
+        		Da: Muggia (TS)<br />
+        		Utente Nr.: 3<br />
+				
+				<br />
+        		 
+        	</span><br />
+        	<img src="style_images/ip.boardpr/spacer.gif" alt="" width="160" height="1" /><br /> 
+       </td>
+       <td width="100%" valign="top" class="post2" id='post-main-75653'>
+			<!-- THE POST 75653 -->
+			<div class="postcolor" id='post-75653'>
+				<div align='center'><i><b>Hebeloma gigaspermum </b></i>Gröger &amp; Zschiesch., <i>Z. Mykol</i>. 47(2): 201 (1981)</div><br /><br /><b>Sinonimi</b>: <i>Hebeloma groegeri </i>Bon, <i>Docums Mycol</i>. 31 (no.123): 27 (2002)<br /><br /><b>Descrizione della raccolta</b>: &#8220;parzialmente desunta dalle fotografie della raccolta e dall&#39;exsiccatum&#8221;.<br /><b>Pileo  </b>Ø fino a 30 mm, all&#8217;inizio convesso in seguito piano-emisferico, con largo umbone ottuso, margine brevemente scanalato lievemente involuto, un po&#39; debordante, filo denticolato; superficie pileica di colore ocra chiaro, crosta di pane al disco, più chiara verso il bordo, margine biancastro, senza evidenti resti di velo, non viscido, non igrofano, (in exsiccatum evidentemente discolore).<br /><b>Lamelle </b>sub-ventricose, sinuose, adnate al gambo, distanti, intercalate da lamellule, in gioventù biancastre, in seguito ocraceo- rosate , infine marrone-grigiastro, filo lamellare più chiaro, fortemente crenulato, non notate ne micro gocciole ne macule scure.<br /><b>Stipite </b>25-40 x 0,3-0.5-(10) mm, cilindrico, diritto nella parte superiore, anche ricurvo in basso, base da più o meno dilatata fino a claviforme, pieno, di colore biancastro, poi ocraceo chiaro, ocraceo più scuro nella parte bassa; pruinoso scagliosetto, ornamentato da piccole squame infere e fioccosità biancastre tendenti a colorarsi di ocraceo con l&#39;età.<br /><b>Carne </b>soda nel giovane, bianca, ocracea negli esemplari maturi, imbrunente nella zona basale e dove morsicata dalle larve; sapore dolciastro, piacevole, quasi caramelloso, anche dopo prolungata masticazione (da exsiccatum), odore non verificato; basidiomi parzialmente e moderatamente annerenti in exsiccatum, in particolar modo al centro del pileo e alla base dello stipite. In exsiccatum i reperti hanno dimostrato una consistenza rigida ma estremamente fragile, vetrificata.<br /><br /><b>Microscopia</b>.<br /><b>Spore </b>(12,64) 13,04-14,89 (16,10) x (6,68) 7,30-8,22 (8,53) µm, in media 13,98 x 7,78 µm, Q. = (1,4) 1,6-1,9 (2,0), Qm, = 1,8; Vol. = (297,6) 373,9-514,7 (557,8), Vol.m.= 444,2, da amigdaliformi a citriformi, con evidente papilla apicale indestrinoide, sporadicamente subfusiformi in proiezione frontale, fortemente destrinoidi, gialle in ammoniaca, mediamente ornamentate, episporio aderente, in alcuni casi, scollato, parete spessa, apicolo indestrinoide ben pronunciato.<br /><b>Basidi </b>32,70-41,9 x  9,9-12,8 µm, in media 37,3 x 11,1µm, clavati, spesso con lieve costrizione nella zona mediana, sterigmi lunghi fino a 9 µm, in maggioranza tetrasporici ma sono numerosi anche quelli bisporici.<br /><b>Cheilocistidi</b>: lunghezza (26,6) 32,3-62,9 (66,1) µm, in media 49,0 µm; apice  Ø (3,4) 5,0-15,6 (23,7) µm, in media 8,9 µm; centro Ø (5,1) 5,8-10,1 (12,4) µm, in media 7,5 µm; base Ø (2,0) 2,8-10,3 (12,2) µm, in media 5,9 µm; per la  maggior parte di forma cilindrica con testa non allargata, frammisti ai quali si sono notate forme cilindriche con testa da mediamente a fortemente capitulata, altri, da strettamente a largamente clavati, altri ancora lageniformi o fusiformi. Filo lamellare sterile. Nella zona subimeniale si sono notati alcuni pleurocistidi clavati non più notati nelle zone inferiori; trama lamellare formata da ife cilindriche, ialine.<br /><b>Pileipellis </b>in ixocute spessa 250 - 300 µm, formata da ife, disposte disordinatamente ed immerse in un gel, filiformi, cilindriche, Ø (1,9) 2,2-3,8 (4,1) µm, , terminali allargati, Ø fino a 5,5 µm.<br /><b>Caulopellis </b>formata da ife parallele  Ø 3,5-6,5 µm.<br /><b>Caulocistidi</b>: lunghezza (34,6) 35,6-61,2 (63,2) µm, in media 47,5 µm; apice Ø  (4,3) 4,3-10,1 (10,8) µm, Ø medio 5,9 µm; centro Ø (8,8) 9,4-22,8 (23,3) µm, Ø medio 16,3 µm; base Ø (3,6) 3,7-9,2 (10,0) µm, in Ø medio 5,6 µm; lageniformi, fusiformi, clavati, riuniti in piccoli mazzetti presenti soltanto all&#39;apice dello stipite.<br />Giunti a fibbia abbondantemente presenti in tutti i tessuti del basidioma.<br /><br /><b>Osservazioni</b>.<br />Premetto che l&#39;odore dei basidiomi freschi non ci è dato a sapere, in ogni caso, supponendo che esso sia simile a quello dei taxa inseriti nel <i>Sacchariolens </i>group, la raccolta in oggetto dimostra un quadro microscopico alquanto ambiguo, quasi si trattasse di un coagulo di specie raggruppate in un solo taxon.<br />Interpretando, a grandi linee, la tabella esposta di seguito, abbiamo tenuto conto soprattutto della forma delle spore, della loro misura e della forma dei cheilocistidi (la loro misura risulta determinante solo in un caso), in secondo luogo dell&#39;annerimento nell&#39;exsiccatum, quindi delle esigenze ecologiche e del colore dei basidiomi freschi, siamo arrivati a considerare la nostra determinazione come la più verosimile..<br />Ipotizzando, per i nostri basidiomi, un odore non confacente con il gruppo sopra citato e quindi supponendo un&#39;odore rafanoide, o differente (cacao),  abbiamo intrapreso anche altre strade determinative.<br />Una di queste ci ha portato a considerare <i>Hebeloma cremeopallidum </i>(Esteve-Rav. &amp; Heykoop) Esteve-Rav. &amp; Heykoop 1997, già <i>Hebeloma vaccinum </i>var. <i>cremeopallidum </i>Esteve-Rav. &amp; Heykoop, <i>Cryptog </i>1990, come presunta specie, in quanto, molte caratteristiche si allineavano con quanto da noi osservato nella raccolta in poggetto, se non che, <i>H. cremeopallidum </i>si è dimostrato essere un sinonimo di <i>H. fusisporum </i><i><b>(F. ESTEVE-RAVENTÓS, M. HEYKOOP 1998).</b></i><br />Le altre specie, da noi prese in esame, che, per qualche motivo, potevano associarsi alla raccolta, si sono dimostrate differenti o per caratteristiche macroscopiche o microscopiche o, ancora meglio in entrambe le cose. <br /><div align='center'><br /><img src="http://www.ambmuggia.it/forum/uploads/post-3-1231089109.jpg" class='linked-image' alt="Immagine Allegata" /></div><br /><br /><i><b>Nota</b></i>: nel dare il nostro giudizio sul sapore della carne, ci siamo basati sull&#39;assaggio di diverse porzioni di basidioma  e della sua carne pileica comprensiva di lamelle, la quale, si è dimostrata decisamente dolce (evocante un gusto caramelloso, misto a cioccolatoso), anche dopo prolungata masticazione, in ogni caso  nulla a che fare con un gusto rafanoide.<br />Per paragone, abbiamo assaggiato alcune piccole porzioni di carne di <i>H. sinapizans</i>, le quali, hanno manifestato quasi istantaneamente un sapore decisamente rafanoide (richiamante il suo tipico odore), debolmente amaro e leggermente piccantino<br /><br /><b>Habitat e Raccolte studiate</b>: N. scheda: 3912. Data di ritrovamento: 07/10/2008. Località: Magliano di S.Stefano. Comune: Torricella Sicura. Coordinate geografiche: 339; III; TERAMO. Altezza slm: f. 3. Habitat: a terra, in zona molto umida composta prevalentemente da  <i>Salix</i>,  presente anche <i>Carpinus, Corylus </i>e <i>Quercus</i>, sottobosco formato da forte  presenza di <i>Rubus</i>.<br />Legit: Bruno de Ruvo B.  Determinatore: Marino Zugna.<br /><br /><b>Bibliografia</b>:<br />BON M., 2002 - <i>Clé de determination du genre Hebeloma</i>. Documents mycologiques, Tome XXXI, Fascicule n°123, 3-40.<br />F. ESTEVE-RAVENTÓS, M. HEYKOOP , 1998 - <i>&#39;&#39;Studies on the genus Hebeloma (Cortinariaceae) in the Iberian Peninsula, II. New and final observations on H. Cremeopallidum, a synonym of H. Fusisporum&#39;&#39;</i>. Documents Mycologiques (Lille), XXVIII (109-110): 17-19, (1998)<br />VESTERHOLT J., 2005 - <i>The genus Hebeloma; Fungi of Northern Europe</i>, Vol. 3.<br /><br /><div align='center'><img src="http://www.ambmuggia.it/forum/uploads/post-3-1231100270.jpg" class='linked-image' alt="Immagine Allegata" /><br />foto Bruno de Ruvo<br /><br /><br /><img src="http://www.ambmuggia.it/forum/uploads/post-3-1231100279.jpg" class='linked-image' alt="Immagine Allegata" /><br />foto Bruno de Ruvo<br /><br /><br /><img src="http://www.ambmuggia.it/forum/uploads/post-3-1231100287.jpg" class='linked-image' alt="Immagine Allegata" /><br />foto Bruno de Ruvo</div>
+				
+				
+				<!--IBF.ATTACHMENT_75653-->
+			</div>
+			
+			<br /><br />--------------------<br />
+<div class="signature">Marino Zugna <br /><i>A.M.B. Gruppo di Muggia e del Carso</i></div>
+			<!-- THE POST -->		
+		</td>
+	</tr>
+	<tr>
+		<td class="formbuttonrow" nowrap="nowrap">
+			<div style='text-align:left'><a href="javascript:scroll(0,0);"><img src='style_images/ip.boardpr/p_up.gif' border='0'  alt='Go to the top of the page' /></a></div>
+		</td>
+		<td class="formbuttonrow" nowrap="nowrap">
+			<!-- PM / EMAIL / WWW / MSGR -->
+			<div style="float: left;">
+				&nbsp;
+			</div>
+			<!-- REPORT / UP -->
+         	<div align="right">
+         		<a href="#" onclick="multiquote_add(75653); return false;" title="Elimina Multi-Quote"><img src="style_images/ip.boardpr/p_mq_add.gif" name="mad_75653" alt="+" /></a><a href="http://www.ambmuggia.it/forum/index.php?s=72040644a67467514762eec7f8280932&amp;act=Post&amp;CODE=02&amp;f=27&amp;t=6759&amp;qpid=75653" title="Rispondi direttamente a questo messaggio"><img src='style_images/ip.boardpr/p_quote.gif' border='0'  alt='Quote Post' /></a>
+         	</div>
+         </td>
+	</tr><tr>
+	<td class="catend" colspan="2">
+	<!-- no content -->
+	</td>
+</tr>
+</table>
+<!--Begin Msg Number 75658-->
+<table class='ipbtable' cellspacing="0">
+	<tr>
+		<td valign="middle" class="post_head" width="1%">
+			<a name="entry75658"></a>
+			
+				<div id="post-member-75658" class='popmenubutton-new-out'>
+					<span class="normalname">
+	<img src='style_images/ip.boardpr/folder_profile_portal/user-offline.png' alt='' border='0' /><a href='http://www.ambmuggia.it/forum/index.php?s=72040644a67467514762eec7f8280932&amp;showuser=3'>marinetto</a></span>
+				</div>
+				<!-- member menu -->
+				<div class='popupmenu-new' id='post-member-75658_menu' style='display:none;width:230px'>
+					<div class='popupmenu-item-last'>
+						
+						<div style='float:right'>
+							<div class='pp-image-thumb-wrap'>
+								<img src='style_images/ip.boardpr/folder_profile_portal/pp-blank-thumb.png' width='50' height='50' alt='' />
+							</div>
+							
+						</div>
+						<div class='popupmenu-item'>
+							
+	
+		<img src='style_images/ip.boardpr/folder_profile_portal/gender_male.png' id='pp-entry-gender-img-3' style='vertical-align:top' alt='' border='0' />
+	
+ <a href="http://www.ambmuggia.it/forum/index.php?s=72040644a67467514762eec7f8280932&amp;showuser=3">Visualizza Profilo</a>
+						</div>
+							
+							
+						
+					</div>
+				</div>
+				<!-- member menu -->
+				<script type="text/javascript">
+					ipsmenu.register( "post-member-75658", '', 'popmenubutton-new', 'popmenubutton-new-out' );
+				</script>
+			
+			
+		</td>
+		<td class="post_head" valign="middle" width="99%">
+			<!-- POSTED DATE DIV -->
+			<div style="float: left;">
+				<span class="postdetails"> <img src='style_images/ip.boardpr/to_post_off.gif' alt='messaggio' border='0' style='padding-bottom:2px' />  4 Jan 2009 - 21:22</span>
+			</div>
+			<!-- REPORT / DELETE / EDIT / QUOTE DIV -->
+			<div align="right">
+				<span class="postdetails"> Messaggio
+					<a title="Mostra il link a questo messaggio" href="http://www.ambmuggia.it/forum/index.php?showtopic=6759&view=findpost&p=75658" onclick="link_to_post(75658); return false;">#2</a>
+					
+				</span>
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td valign="top" class="post1 post_left">
+        	<span class="postdetails">
+				
+					<a href="http://www.ambmuggia.it/forum/index.php?s=72040644a67467514762eec7f8280932&amp;showuser=3" title="Visualizza Profilo"><img src='http://www.ambmuggia.it/forum/uploads/av-3.jpg' border='0' width='64' height='64' alt='' /></a><br /><br />
+				
+        		Utente Avanzato<br />
+        		<img src='style_images/ip.boardpr/pip.gif' border='0'  alt='*' /><img src='style_images/ip.boardpr/pip.gif' border='0'  alt='*' /><img src='style_images/ip.boardpr/pip.gif' border='0'  alt='*' /><br /><br />
+        		Gruppo: Moderatore<br />
+        		Messaggi: 26.322<br />
+        		Iscritto il: 28-January 03<br />
+        		Da: Muggia (TS)<br />
+        		Utente Nr.: 3<br />
+				
+				<br />
+        		 
+        	</span><br />
+        	<img src="style_images/ip.boardpr/spacer.gif" alt="" width="160" height="1" /><br /> 
+       </td>
+       <td width="100%" valign="top" class="post1" id='post-main-75658'>
+			<!-- THE POST 75658 -->
+			<div class="postcolor" id='post-75658'>
+				Hebeloma gigaspermum Gröger &amp; Zschiesch., Z. Mykol. 47(2): 201 (1981)<br /><br />in foto: pileipellis<br /><br /><img src="http://www.ambmuggia.it/forum/uploads/post-3-1231104147.jpg" class='linked-image' alt="Immagine Allegata" />
+				
+				
+				<!--IBF.ATTACHMENT_75658-->
+			</div>
+			
+			<br /><br />--------------------<br />
+<div class="signature">Marino Zugna <br /><i>A.M.B. Gruppo di Muggia e del Carso</i></div>
+			<!-- THE POST -->		
+		</td>
+	</tr>
+	<tr>
+		<td class="formbuttonrow" nowrap="nowrap">
+			<div style='text-align:left'><a href="javascript:scroll(0,0);"><img src='style_images/ip.boardpr/p_up.gif' border='0'  alt='Go to the top of the page' /></a></div>
+		</td>
+		<td class="formbuttonrow" nowrap="nowrap">
+			<!-- PM / EMAIL / WWW / MSGR -->
+			<div style="float: left;">
+				&nbsp;
+			</div>
+			<!-- REPORT / UP -->
+         	<div align="right">
+         		<a href="#" onclick="multiquote_add(75658); return false;" title="Elimina Multi-Quote"><img src="style_images/ip.boardpr/p_mq_add.gif" name="mad_75658" alt="+" /></a><a href="http://www.ambmuggia.it/forum/index.php?s=72040644a67467514762eec7f8280932&amp;act=Post&amp;CODE=02&amp;f=27&amp;t=6759&amp;qpid=75658" title="Rispondi direttamente a questo messaggio"><img src='style_images/ip.boardpr/p_quote.gif' border='0'  alt='Quote Post' /></a>
+         	</div>
+         </td>
+	</tr><tr>
+	<td class="catend" colspan="2">
+	<!-- no content -->
+	</td>
+</tr>
+</table>
+<!--Begin Msg Number 75659-->
+<table class='ipbtable' cellspacing="0">
+	<tr>
+		<td valign="middle" class="post_head" width="1%">
+			<a name="entry75659"></a>
+			
+				<div id="post-member-75659" class='popmenubutton-new-out'>
+					<span class="normalname">
+	<img src='style_images/ip.boardpr/folder_profile_portal/user-offline.png' alt='' border='0' /><a href='http://www.ambmuggia.it/forum/index.php?s=72040644a67467514762eec7f8280932&amp;showuser=3'>marinetto</a></span>
+				</div>
+				<!-- member menu -->
+				<div class='popupmenu-new' id='post-member-75659_menu' style='display:none;width:230px'>
+					<div class='popupmenu-item-last'>
+						
+						<div style='float:right'>
+							<div class='pp-image-thumb-wrap'>
+								<img src='style_images/ip.boardpr/folder_profile_portal/pp-blank-thumb.png' width='50' height='50' alt='' />
+							</div>
+							
+						</div>
+						<div class='popupmenu-item'>
+							
+	
+		<img src='style_images/ip.boardpr/folder_profile_portal/gender_male.png' id='pp-entry-gender-img-3' style='vertical-align:top' alt='' border='0' />
+	
+ <a href="http://www.ambmuggia.it/forum/index.php?s=72040644a67467514762eec7f8280932&amp;showuser=3">Visualizza Profilo</a>
+						</div>
+							
+							
+						
+					</div>
+				</div>
+				<!-- member menu -->
+				<script type="text/javascript">
+					ipsmenu.register( "post-member-75659", '', 'popmenubutton-new', 'popmenubutton-new-out' );
+				</script>
+			
+			
+		</td>
+		<td class="post_head" valign="middle" width="99%">
+			<!-- POSTED DATE DIV -->
+			<div style="float: left;">
+				<span class="postdetails"> <img src='style_images/ip.boardpr/to_post_off.gif' alt='messaggio' border='0' style='padding-bottom:2px' />  4 Jan 2009 - 21:25</span>
+			</div>
+			<!-- REPORT / DELETE / EDIT / QUOTE DIV -->
+			<div align="right">
+				<span class="postdetails"> Messaggio
+					<a title="Mostra il link a questo messaggio" href="http://www.ambmuggia.it/forum/index.php?showtopic=6759&view=findpost&p=75659" onclick="link_to_post(75659); return false;">#3</a>
+					
+				</span>
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td valign="top" class="post2 post_left">
+        	<span class="postdetails">
+				
+					<a href="http://www.ambmuggia.it/forum/index.php?s=72040644a67467514762eec7f8280932&amp;showuser=3" title="Visualizza Profilo"><img src='http://www.ambmuggia.it/forum/uploads/av-3.jpg' border='0' width='64' height='64' alt='' /></a><br /><br />
+				
+        		Utente Avanzato<br />
+        		<img src='style_images/ip.boardpr/pip.gif' border='0'  alt='*' /><img src='style_images/ip.boardpr/pip.gif' border='0'  alt='*' /><img src='style_images/ip.boardpr/pip.gif' border='0'  alt='*' /><br /><br />
+        		Gruppo: Moderatore<br />
+        		Messaggi: 26.322<br />
+        		Iscritto il: 28-January 03<br />
+        		Da: Muggia (TS)<br />
+        		Utente Nr.: 3<br />
+				
+				<br />
+        		 
+        	</span><br />
+        	<img src="style_images/ip.boardpr/spacer.gif" alt="" width="160" height="1" /><br /> 
+       </td>
+       <td width="100%" valign="top" class="post2" id='post-main-75659'>
+			<!-- THE POST 75659 -->
+			<div class="postcolor" id='post-75659'>
+				Hebeloma gigaspermum Gröger &amp; Zschiesch., Z. Mykol. 47(2): 201 (1981)<br /><br />in foto: cheilocistidi<br /><br />rosso congo ammoniacale<br /><img src="http://www.ambmuggia.it/forum/uploads/post-3-1231104195.jpg" class='linked-image' alt="Immagine Allegata" /><br /><br /><img src="http://www.ambmuggia.it/forum/uploads/post-3-1231104203.jpg" class='linked-image' alt="Immagine Allegata" /><br /><br /><img src="http://www.ambmuggia.it/forum/uploads/post-3-1231104210.jpg" class='linked-image' alt="Immagine Allegata" /><br /><br /><br />KOH 3%<br /><img src="http://www.ambmuggia.it/forum/uploads/post-3-1231104218.jpg" class='linked-image' alt="Immagine Allegata" /><br /><br /><img src="http://www.ambmuggia.it/forum/uploads/post-3-1231104225.jpg" class='linked-image' alt="Immagine Allegata" /><br /><br /><img src="http://www.ambmuggia.it/forum/uploads/post-3-1231104232.jpg" class='linked-image' alt="Immagine Allegata" /><br /><br /><img src="http://www.ambmuggia.it/forum/uploads/post-3-1231104239.jpg" class='linked-image' alt="Immagine Allegata" /><br /><br /><img src="http://www.ambmuggia.it/forum/uploads/post-3-1231104247.jpg" class='linked-image' alt="Immagine Allegata" /><br /><br /><img src="http://www.ambmuggia.it/forum/uploads/post-3-1231104254.jpg" class='linked-image' alt="Immagine Allegata" />
+				
+				
+				<!--IBF.ATTACHMENT_75659-->
+			</div>
+			
+			<br /><br />--------------------<br />
+<div class="signature">Marino Zugna <br /><i>A.M.B. Gruppo di Muggia e del Carso</i></div>
+			<!-- THE POST -->		
+		</td>
+	</tr>
+	<tr>
+		<td class="formbuttonrow" nowrap="nowrap">
+			<div style='text-align:left'><a href="javascript:scroll(0,0);"><img src='style_images/ip.boardpr/p_up.gif' border='0'  alt='Go to the top of the page' /></a></div>
+		</td>
+		<td class="formbuttonrow" nowrap="nowrap">
+			<!-- PM / EMAIL / WWW / MSGR -->
+			<div style="float: left;">
+				&nbsp;
+			</div>
+			<!-- REPORT / UP -->
+         	<div align="right">
+         		<a href="#" onclick="multiquote_add(75659); return false;" title="Elimina Multi-Quote"><img src="style_images/ip.boardpr/p_mq_add.gif" name="mad_75659" alt="+" /></a><a href="http://www.ambmuggia.it/forum/index.php?s=72040644a67467514762eec7f8280932&amp;act=Post&amp;CODE=02&amp;f=27&amp;t=6759&amp;qpid=75659" title="Rispondi direttamente a questo messaggio"><img src='style_images/ip.boardpr/p_quote.gif' border='0'  alt='Quote Post' /></a>
+         	</div>
+         </td>
+	</tr><tr>
+	<td class="catend" colspan="2">
+	<!-- no content -->
+	</td>
+</tr>
+</table>
+<!--Begin Msg Number 75660-->
+<table class='ipbtable' cellspacing="0">
+	<tr>
+		<td valign="middle" class="post_head" width="1%">
+			<a name="entry75660"></a>
+			
+				<div id="post-member-75660" class='popmenubutton-new-out'>
+					<span class="normalname">
+	<img src='style_images/ip.boardpr/folder_profile_portal/user-offline.png' alt='' border='0' /><a href='http://www.ambmuggia.it/forum/index.php?s=72040644a67467514762eec7f8280932&amp;showuser=3'>marinetto</a></span>
+				</div>
+				<!-- member menu -->
+				<div class='popupmenu-new' id='post-member-75660_menu' style='display:none;width:230px'>
+					<div class='popupmenu-item-last'>
+						
+						<div style='float:right'>
+							<div class='pp-image-thumb-wrap'>
+								<img src='style_images/ip.boardpr/folder_profile_portal/pp-blank-thumb.png' width='50' height='50' alt='' />
+							</div>
+							
+						</div>
+						<div class='popupmenu-item'>
+							
+	
+		<img src='style_images/ip.boardpr/folder_profile_portal/gender_male.png' id='pp-entry-gender-img-3' style='vertical-align:top' alt='' border='0' />
+	
+ <a href="http://www.ambmuggia.it/forum/index.php?s=72040644a67467514762eec7f8280932&amp;showuser=3">Visualizza Profilo</a>
+						</div>
+							
+							
+						
+					</div>
+				</div>
+				<!-- member menu -->
+				<script type="text/javascript">
+					ipsmenu.register( "post-member-75660", '', 'popmenubutton-new', 'popmenubutton-new-out' );
+				</script>
+			
+			
+		</td>
+		<td class="post_head" valign="middle" width="99%">
+			<!-- POSTED DATE DIV -->
+			<div style="float: left;">
+				<span class="postdetails"> <img src='style_images/ip.boardpr/to_post_off.gif' alt='messaggio' border='0' style='padding-bottom:2px' />  4 Jan 2009 - 21:26</span>
+			</div>
+			<!-- REPORT / DELETE / EDIT / QUOTE DIV -->
+			<div align="right">
+				<span class="postdetails"> Messaggio
+					<a title="Mostra il link a questo messaggio" href="http://www.ambmuggia.it/forum/index.php?showtopic=6759&view=findpost&p=75660" onclick="link_to_post(75660); return false;">#4</a>
+					
+				</span>
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td valign="top" class="post1 post_left">
+        	<span class="postdetails">
+				
+					<a href="http://www.ambmuggia.it/forum/index.php?s=72040644a67467514762eec7f8280932&amp;showuser=3" title="Visualizza Profilo"><img src='http://www.ambmuggia.it/forum/uploads/av-3.jpg' border='0' width='64' height='64' alt='' /></a><br /><br />
+				
+        		Utente Avanzato<br />
+        		<img src='style_images/ip.boardpr/pip.gif' border='0'  alt='*' /><img src='style_images/ip.boardpr/pip.gif' border='0'  alt='*' /><img src='style_images/ip.boardpr/pip.gif' border='0'  alt='*' /><br /><br />
+        		Gruppo: Moderatore<br />
+        		Messaggi: 26.322<br />
+        		Iscritto il: 28-January 03<br />
+        		Da: Muggia (TS)<br />
+        		Utente Nr.: 3<br />
+				
+				<br />
+        		 
+        	</span><br />
+        	<img src="style_images/ip.boardpr/spacer.gif" alt="" width="160" height="1" /><br /> 
+       </td>
+       <td width="100%" valign="top" class="post1" id='post-main-75660'>
+			<!-- THE POST 75660 -->
+			<div class="postcolor" id='post-75660'>
+				Hebeloma gigaspermum Gröger &amp; Zschiesch., Z. Mykol. 47(2): 201 (1981)<br /><br />in foto: basidi<br /><br /><img src="http://www.ambmuggia.it/forum/uploads/post-3-1231104382.jpg" class='linked-image' alt="Immagine Allegata" />
+				
+				
+				<!--IBF.ATTACHMENT_75660-->
+			</div>
+			
+			<br /><br />--------------------<br />
+<div class="signature">Marino Zugna <br /><i>A.M.B. Gruppo di Muggia e del Carso</i></div>
+			<!-- THE POST -->		
+		</td>
+	</tr>
+	<tr>
+		<td class="formbuttonrow" nowrap="nowrap">
+			<div style='text-align:left'><a href="javascript:scroll(0,0);"><img src='style_images/ip.boardpr/p_up.gif' border='0'  alt='Go to the top of the page' /></a></div>
+		</td>
+		<td class="formbuttonrow" nowrap="nowrap">
+			<!-- PM / EMAIL / WWW / MSGR -->
+			<div style="float: left;">
+				&nbsp;
+			</div>
+			<!-- REPORT / UP -->
+         	<div align="right">
+         		<a href="#" onclick="multiquote_add(75660); return false;" title="Elimina Multi-Quote"><img src="style_images/ip.boardpr/p_mq_add.gif" name="mad_75660" alt="+" /></a><a href="http://www.ambmuggia.it/forum/index.php?s=72040644a67467514762eec7f8280932&amp;act=Post&amp;CODE=02&amp;f=27&amp;t=6759&amp;qpid=75660" title="Rispondi direttamente a questo messaggio"><img src='style_images/ip.boardpr/p_quote.gif' border='0'  alt='Quote Post' /></a>
+         	</div>
+         </td>
+	</tr><tr>
+	<td class="catend" colspan="2">
+	<!-- no content -->
+	</td>
+</tr>
+</table>
+<!--Begin Msg Number 75661-->
+<table class='ipbtable' cellspacing="0">
+	<tr>
+		<td valign="middle" class="post_head" width="1%">
+			<a name="entry75661"></a>
+			
+				<div id="post-member-75661" class='popmenubutton-new-out'>
+					<span class="normalname">
+	<img src='style_images/ip.boardpr/folder_profile_portal/user-offline.png' alt='' border='0' /><a href='http://www.ambmuggia.it/forum/index.php?s=72040644a67467514762eec7f8280932&amp;showuser=3'>marinetto</a></span>
+				</div>
+				<!-- member menu -->
+				<div class='popupmenu-new' id='post-member-75661_menu' style='display:none;width:230px'>
+					<div class='popupmenu-item-last'>
+						
+						<div style='float:right'>
+							<div class='pp-image-thumb-wrap'>
+								<img src='style_images/ip.boardpr/folder_profile_portal/pp-blank-thumb.png' width='50' height='50' alt='' />
+							</div>
+							
+						</div>
+						<div class='popupmenu-item'>
+							
+	
+		<img src='style_images/ip.boardpr/folder_profile_portal/gender_male.png' id='pp-entry-gender-img-3' style='vertical-align:top' alt='' border='0' />
+	
+ <a href="http://www.ambmuggia.it/forum/index.php?s=72040644a67467514762eec7f8280932&amp;showuser=3">Visualizza Profilo</a>
+						</div>
+							
+							
+						
+					</div>
+				</div>
+				<!-- member menu -->
+				<script type="text/javascript">
+					ipsmenu.register( "post-member-75661", '', 'popmenubutton-new', 'popmenubutton-new-out' );
+				</script>
+			
+			
+		</td>
+		<td class="post_head" valign="middle" width="99%">
+			<!-- POSTED DATE DIV -->
+			<div style="float: left;">
+				<span class="postdetails"> <img src='style_images/ip.boardpr/to_post_off.gif' alt='messaggio' border='0' style='padding-bottom:2px' />  4 Jan 2009 - 21:28</span>
+			</div>
+			<!-- REPORT / DELETE / EDIT / QUOTE DIV -->
+			<div align="right">
+				<span class="postdetails"> Messaggio
+					<a title="Mostra il link a questo messaggio" href="http://www.ambmuggia.it/forum/index.php?showtopic=6759&view=findpost&p=75661" onclick="link_to_post(75661); return false;">#5</a>
+					
+				</span>
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td valign="top" class="post2 post_left">
+        	<span class="postdetails">
+				
+					<a href="http://www.ambmuggia.it/forum/index.php?s=72040644a67467514762eec7f8280932&amp;showuser=3" title="Visualizza Profilo"><img src='http://www.ambmuggia.it/forum/uploads/av-3.jpg' border='0' width='64' height='64' alt='' /></a><br /><br />
+				
+        		Utente Avanzato<br />
+        		<img src='style_images/ip.boardpr/pip.gif' border='0'  alt='*' /><img src='style_images/ip.boardpr/pip.gif' border='0'  alt='*' /><img src='style_images/ip.boardpr/pip.gif' border='0'  alt='*' /><br /><br />
+        		Gruppo: Moderatore<br />
+        		Messaggi: 26.322<br />
+        		Iscritto il: 28-January 03<br />
+        		Da: Muggia (TS)<br />
+        		Utente Nr.: 3<br />
+				
+				<br />
+        		 
+        	</span><br />
+        	<img src="style_images/ip.boardpr/spacer.gif" alt="" width="160" height="1" /><br /> 
+       </td>
+       <td width="100%" valign="top" class="post2" id='post-main-75661'>
+			<!-- THE POST 75661 -->
+			<div class="postcolor" id='post-75661'>
+				Hebeloma gigaspermum Gröger &amp; Zschiesch., Z. Mykol. 47(2): 201 (1981)<br /><br />in foto: spore in Melzer<br /><br /><img src="http://www.ambmuggia.it/forum/uploads/post-3-1231104443.jpg" class='linked-image' alt="Immagine Allegata" /><br /><br /><img src="http://www.ambmuggia.it/forum/uploads/post-3-1231104454.jpg" class='linked-image' alt="Immagine Allegata" /><br /><br /><br />perisporio distaccato )rosso congo ammoniacale)<br /><img src="http://www.ambmuggia.it/forum/uploads/post-3-1231104461.jpg" class='linked-image' alt="Immagine Allegata" /><br /><br />perisporio distaccato (melzer)<br /><img src="http://www.ambmuggia.it/forum/uploads/post-3-1231104469.jpg" class='linked-image' alt="Immagine Allegata" />
+				
+				
+				<!--IBF.ATTACHMENT_75661-->
+			</div>
+			
+			<br /><br />--------------------<br />
+<div class="signature">Marino Zugna <br /><i>A.M.B. Gruppo di Muggia e del Carso</i></div>
+			<!-- THE POST -->		
+		</td>
+	</tr>
+	<tr>
+		<td class="formbuttonrow" nowrap="nowrap">
+			<div style='text-align:left'><a href="javascript:scroll(0,0);"><img src='style_images/ip.boardpr/p_up.gif' border='0'  alt='Go to the top of the page' /></a></div>
+		</td>
+		<td class="formbuttonrow" nowrap="nowrap">
+			<!-- PM / EMAIL / WWW / MSGR -->
+			<div style="float: left;">
+				&nbsp;
+			</div>
+			<!-- REPORT / UP -->
+         	<div align="right">
+         		<a href="#" onclick="multiquote_add(75661); return false;" title="Elimina Multi-Quote"><img src="style_images/ip.boardpr/p_mq_add.gif" name="mad_75661" alt="+" /></a><a href="http://www.ambmuggia.it/forum/index.php?s=72040644a67467514762eec7f8280932&amp;act=Post&amp;CODE=02&amp;f=27&amp;t=6759&amp;qpid=75661" title="Rispondi direttamente a questo messaggio"><img src='style_images/ip.boardpr/p_quote.gif' border='0'  alt='Quote Post' /></a>
+         	</div>
+         </td>
+	</tr><tr>
+	<td class="catend" colspan="2">
+	<!-- no content -->
+	</td>
+</tr>
+</table>
+<!--Begin Msg Number 75662-->
+<table class='ipbtable' cellspacing="0">
+	<tr>
+		<td valign="middle" class="post_head" width="1%">
+			<a name="entry75662"></a>
+			
+				<div id="post-member-75662" class='popmenubutton-new-out'>
+					<span class="normalname">
+	<img src='style_images/ip.boardpr/folder_profile_portal/user-offline.png' alt='' border='0' /><a href='http://www.ambmuggia.it/forum/index.php?s=72040644a67467514762eec7f8280932&amp;showuser=3'>marinetto</a></span>
+				</div>
+				<!-- member menu -->
+				<div class='popupmenu-new' id='post-member-75662_menu' style='display:none;width:230px'>
+					<div class='popupmenu-item-last'>
+						
+						<div style='float:right'>
+							<div class='pp-image-thumb-wrap'>
+								<img src='style_images/ip.boardpr/folder_profile_portal/pp-blank-thumb.png' width='50' height='50' alt='' />
+							</div>
+							
+						</div>
+						<div class='popupmenu-item'>
+							
+	
+		<img src='style_images/ip.boardpr/folder_profile_portal/gender_male.png' id='pp-entry-gender-img-3' style='vertical-align:top' alt='' border='0' />
+	
+ <a href="http://www.ambmuggia.it/forum/index.php?s=72040644a67467514762eec7f8280932&amp;showuser=3">Visualizza Profilo</a>
+						</div>
+							
+							
+						
+					</div>
+				</div>
+				<!-- member menu -->
+				<script type="text/javascript">
+					ipsmenu.register( "post-member-75662", '', 'popmenubutton-new', 'popmenubutton-new-out' );
+				</script>
+			
+			
+		</td>
+		<td class="post_head" valign="middle" width="99%">
+			<!-- POSTED DATE DIV -->
+			<div style="float: left;">
+				<span class="postdetails"> <img src='style_images/ip.boardpr/to_post_off.gif' alt='messaggio' border='0' style='padding-bottom:2px' />  4 Jan 2009 - 21:31</span>
+			</div>
+			<!-- REPORT / DELETE / EDIT / QUOTE DIV -->
+			<div align="right">
+				<span class="postdetails"> Messaggio
+					<a title="Mostra il link a questo messaggio" href="http://www.ambmuggia.it/forum/index.php?showtopic=6759&view=findpost&p=75662" onclick="link_to_post(75662); return false;">#6</a>
+					
+				</span>
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td valign="top" class="post1 post_left">
+        	<span class="postdetails">
+				
+					<a href="http://www.ambmuggia.it/forum/index.php?s=72040644a67467514762eec7f8280932&amp;showuser=3" title="Visualizza Profilo"><img src='http://www.ambmuggia.it/forum/uploads/av-3.jpg' border='0' width='64' height='64' alt='' /></a><br /><br />
+				
+        		Utente Avanzato<br />
+        		<img src='style_images/ip.boardpr/pip.gif' border='0'  alt='*' /><img src='style_images/ip.boardpr/pip.gif' border='0'  alt='*' /><img src='style_images/ip.boardpr/pip.gif' border='0'  alt='*' /><br /><br />
+        		Gruppo: Moderatore<br />
+        		Messaggi: 26.322<br />
+        		Iscritto il: 28-January 03<br />
+        		Da: Muggia (TS)<br />
+        		Utente Nr.: 3<br />
+				
+				<br />
+        		 
+        	</span><br />
+        	<img src="style_images/ip.boardpr/spacer.gif" alt="" width="160" height="1" /><br /> 
+       </td>
+       <td width="100%" valign="top" class="post1" id='post-main-75662'>
+			<!-- THE POST 75662 -->
+			<div class="postcolor" id='post-75662'>
+				Hebeloma gigaspermum Gröger &amp; Zschiesch., Z. Mykol. 47(2): 201 (1981)<br /><br />in foto: spore KOH 3%<br /><br /><img src="http://www.ambmuggia.it/forum/uploads/post-3-1231104571.jpg" class='linked-image' alt="Immagine Allegata" /><br /><br /><br /><br /><img src="http://www.ambmuggia.it/forum/uploads/post-3-1231104586.jpg" class='linked-image' alt="Immagine Allegata" /><br /><img src="http://www.ambmuggia.it/forum/uploads/post-3-1231104594.jpg" class='linked-image' alt="Immagine Allegata" /><br /><br /><br /><img src="http://www.ambmuggia.it/forum/uploads/post-3-1231104602.jpg" class='linked-image' alt="Immagine Allegata" /><br /><img src="http://www.ambmuggia.it/forum/uploads/post-3-1231104615.jpg" class='linked-image' alt="Immagine Allegata" /><br /><br /><br /><img src="http://www.ambmuggia.it/forum/uploads/post-3-1231104622.jpg" class='linked-image' alt="Immagine Allegata" /><br /><img src="http://www.ambmuggia.it/forum/uploads/post-3-1231104628.jpg" class='linked-image' alt="Immagine Allegata" /><br /><br /><br /><img src="http://www.ambmuggia.it/forum/uploads/post-3-1231104635.jpg" class='linked-image' alt="Immagine Allegata" /><br /><img src="http://www.ambmuggia.it/forum/uploads/post-3-1231104643.jpg" class='linked-image' alt="Immagine Allegata" /><br /><img src="http://www.ambmuggia.it/forum/uploads/post-3-1231104651.jpg" class='linked-image' alt="Immagine Allegata" />
+				
+				
+				<!--IBF.ATTACHMENT_75662-->
+			</div>
+			
+			<br /><br />--------------------<br />
+<div class="signature">Marino Zugna <br /><i>A.M.B. Gruppo di Muggia e del Carso</i></div>
+			<!-- THE POST -->		
+		</td>
+	</tr>
+	<tr>
+		<td class="formbuttonrow" nowrap="nowrap">
+			<div style='text-align:left'><a href="javascript:scroll(0,0);"><img src='style_images/ip.boardpr/p_up.gif' border='0'  alt='Go to the top of the page' /></a></div>
+		</td>
+		<td class="formbuttonrow" nowrap="nowrap">
+			<!-- PM / EMAIL / WWW / MSGR -->
+			<div style="float: left;">
+				&nbsp;
+			</div>
+			<!-- REPORT / UP -->
+         	<div align="right">
+         		<a href="#" onclick="multiquote_add(75662); return false;" title="Elimina Multi-Quote"><img src="style_images/ip.boardpr/p_mq_add.gif" name="mad_75662" alt="+" /></a><a href="http://www.ambmuggia.it/forum/index.php?s=72040644a67467514762eec7f8280932&amp;act=Post&amp;CODE=02&amp;f=27&amp;t=6759&amp;qpid=75662" title="Rispondi direttamente a questo messaggio"><img src='style_images/ip.boardpr/p_quote.gif' border='0'  alt='Quote Post' /></a>
+         	</div>
+         </td>
+	</tr><tr>
+	<td class="catend" colspan="2">
+	<!-- no content -->
+	</td>
+</tr>
+</table>
+<!--Begin Msg Number 75663-->
+<table class='ipbtable' cellspacing="0">
+	<tr>
+		<td valign="middle" class="post_head" width="1%">
+			<a name="entry75663"></a>
+			
+				<div id="post-member-75663" class='popmenubutton-new-out'>
+					<span class="normalname">
+	<img src='style_images/ip.boardpr/folder_profile_portal/user-offline.png' alt='' border='0' /><a href='http://www.ambmuggia.it/forum/index.php?s=72040644a67467514762eec7f8280932&amp;showuser=3'>marinetto</a></span>
+				</div>
+				<!-- member menu -->
+				<div class='popupmenu-new' id='post-member-75663_menu' style='display:none;width:230px'>
+					<div class='popupmenu-item-last'>
+						
+						<div style='float:right'>
+							<div class='pp-image-thumb-wrap'>
+								<img src='style_images/ip.boardpr/folder_profile_portal/pp-blank-thumb.png' width='50' height='50' alt='' />
+							</div>
+							
+						</div>
+						<div class='popupmenu-item'>
+							
+	
+		<img src='style_images/ip.boardpr/folder_profile_portal/gender_male.png' id='pp-entry-gender-img-3' style='vertical-align:top' alt='' border='0' />
+	
+ <a href="http://www.ambmuggia.it/forum/index.php?s=72040644a67467514762eec7f8280932&amp;showuser=3">Visualizza Profilo</a>
+						</div>
+							
+							
+						
+					</div>
+				</div>
+				<!-- member menu -->
+				<script type="text/javascript">
+					ipsmenu.register( "post-member-75663", '', 'popmenubutton-new', 'popmenubutton-new-out' );
+				</script>
+			
+			
+		</td>
+		<td class="post_head" valign="middle" width="99%">
+			<!-- POSTED DATE DIV -->
+			<div style="float: left;">
+				<span class="postdetails"> <img src='style_images/ip.boardpr/to_post_off.gif' alt='messaggio' border='0' style='padding-bottom:2px' />  4 Jan 2009 - 21:32</span>
+			</div>
+			<!-- REPORT / DELETE / EDIT / QUOTE DIV -->
+			<div align="right">
+				<span class="postdetails"> Messaggio
+					<a title="Mostra il link a questo messaggio" href="http://www.ambmuggia.it/forum/index.php?showtopic=6759&view=findpost&p=75663" onclick="link_to_post(75663); return false;">#7</a>
+					
+				</span>
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td valign="top" class="post2 post_left">
+        	<span class="postdetails">
+				
+					<a href="http://www.ambmuggia.it/forum/index.php?s=72040644a67467514762eec7f8280932&amp;showuser=3" title="Visualizza Profilo"><img src='http://www.ambmuggia.it/forum/uploads/av-3.jpg' border='0' width='64' height='64' alt='' /></a><br /><br />
+				
+        		Utente Avanzato<br />
+        		<img src='style_images/ip.boardpr/pip.gif' border='0'  alt='*' /><img src='style_images/ip.boardpr/pip.gif' border='0'  alt='*' /><img src='style_images/ip.boardpr/pip.gif' border='0'  alt='*' /><br /><br />
+        		Gruppo: Moderatore<br />
+        		Messaggi: 26.322<br />
+        		Iscritto il: 28-January 03<br />
+        		Da: Muggia (TS)<br />
+        		Utente Nr.: 3<br />
+				
+				<br />
+        		 
+        	</span><br />
+        	<img src="style_images/ip.boardpr/spacer.gif" alt="" width="160" height="1" /><br /> 
+       </td>
+       <td width="100%" valign="top" class="post2" id='post-main-75663'>
+			<!-- THE POST 75663 -->
+			<div class="postcolor" id='post-75663'>
+				Hebeloma gigaspermum Gröger &amp; Zschiesch., Z. Mykol. 47(2): 201 (1981)<br /><br />in foto: spore, le misure<br /><br /><img src="http://www.ambmuggia.it/forum/uploads/post-3-1231104738.jpg" class='linked-image' alt="Immagine Allegata" />
+				
+				
+				<!--IBF.ATTACHMENT_75663-->
+			</div>
+			
+			<br /><br />--------------------<br />
+<div class="signature">Marino Zugna <br /><i>A.M.B. Gruppo di Muggia e del Carso</i></div>
+			<!-- THE POST -->		
+		</td>
+	</tr>
+	<tr>
+		<td class="formbuttonrow" nowrap="nowrap">
+			<div style='text-align:left'><a href="javascript:scroll(0,0);"><img src='style_images/ip.boardpr/p_up.gif' border='0'  alt='Go to the top of the page' /></a></div>
+		</td>
+		<td class="formbuttonrow" nowrap="nowrap">
+			<!-- PM / EMAIL / WWW / MSGR -->
+			<div style="float: left;">
+				&nbsp;
+			</div>
+			<!-- REPORT / UP -->
+         	<div align="right">
+         		<a href="#" onclick="multiquote_add(75663); return false;" title="Elimina Multi-Quote"><img src="style_images/ip.boardpr/p_mq_add.gif" name="mad_75663" alt="+" /></a><a href="http://www.ambmuggia.it/forum/index.php?s=72040644a67467514762eec7f8280932&amp;act=Post&amp;CODE=02&amp;f=27&amp;t=6759&amp;qpid=75663" title="Rispondi direttamente a questo messaggio"><img src='style_images/ip.boardpr/p_quote.gif' border='0'  alt='Quote Post' /></a>
+         	</div>
+         </td>
+	</tr><tr>
+	<td class="catend" colspan="2">
+	<!-- no content -->
+	</td>
+</tr>
+</table>
+<!--Begin Msg Number 75664-->
+<table class='ipbtable' cellspacing="0">
+	<tr>
+		<td valign="middle" class="post_head" width="1%">
+			<a name="entry75664"></a>
+			
+				<div id="post-member-75664" class='popmenubutton-new-out'>
+					<span class="normalname">
+	<img src='style_images/ip.boardpr/folder_profile_portal/user-offline.png' alt='' border='0' /><a href='http://www.ambmuggia.it/forum/index.php?s=72040644a67467514762eec7f8280932&amp;showuser=3'>marinetto</a></span>
+				</div>
+				<!-- member menu -->
+				<div class='popupmenu-new' id='post-member-75664_menu' style='display:none;width:230px'>
+					<div class='popupmenu-item-last'>
+						
+						<div style='float:right'>
+							<div class='pp-image-thumb-wrap'>
+								<img src='style_images/ip.boardpr/folder_profile_portal/pp-blank-thumb.png' width='50' height='50' alt='' />
+							</div>
+							
+						</div>
+						<div class='popupmenu-item'>
+							
+	
+		<img src='style_images/ip.boardpr/folder_profile_portal/gender_male.png' id='pp-entry-gender-img-3' style='vertical-align:top' alt='' border='0' />
+	
+ <a href="http://www.ambmuggia.it/forum/index.php?s=72040644a67467514762eec7f8280932&amp;showuser=3">Visualizza Profilo</a>
+						</div>
+							
+							
+						
+					</div>
+				</div>
+				<!-- member menu -->
+				<script type="text/javascript">
+					ipsmenu.register( "post-member-75664", '', 'popmenubutton-new', 'popmenubutton-new-out' );
+				</script>
+			
+			
+		</td>
+		<td class="post_head" valign="middle" width="99%">
+			<!-- POSTED DATE DIV -->
+			<div style="float: left;">
+				<span class="postdetails"> <img src='style_images/ip.boardpr/to_post_off.gif' alt='messaggio' border='0' style='padding-bottom:2px' />  4 Jan 2009 - 21:33</span>
+			</div>
+			<!-- REPORT / DELETE / EDIT / QUOTE DIV -->
+			<div align="right">
+				<span class="postdetails"> Messaggio
+					<a title="Mostra il link a questo messaggio" href="http://www.ambmuggia.it/forum/index.php?showtopic=6759&view=findpost&p=75664" onclick="link_to_post(75664); return false;">#8</a>
+					
+				</span>
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td valign="top" class="post1 post_left">
+        	<span class="postdetails">
+				
+					<a href="http://www.ambmuggia.it/forum/index.php?s=72040644a67467514762eec7f8280932&amp;showuser=3" title="Visualizza Profilo"><img src='http://www.ambmuggia.it/forum/uploads/av-3.jpg' border='0' width='64' height='64' alt='' /></a><br /><br />
+				
+        		Utente Avanzato<br />
+        		<img src='style_images/ip.boardpr/pip.gif' border='0'  alt='*' /><img src='style_images/ip.boardpr/pip.gif' border='0'  alt='*' /><img src='style_images/ip.boardpr/pip.gif' border='0'  alt='*' /><br /><br />
+        		Gruppo: Moderatore<br />
+        		Messaggi: 26.322<br />
+        		Iscritto il: 28-January 03<br />
+        		Da: Muggia (TS)<br />
+        		Utente Nr.: 3<br />
+				
+				<br />
+        		 
+        	</span><br />
+        	<img src="style_images/ip.boardpr/spacer.gif" alt="" width="160" height="1" /><br /> 
+       </td>
+       <td width="100%" valign="top" class="post1" id='post-main-75664'>
+			<!-- THE POST 75664 -->
+			<div class="postcolor" id='post-75664'>
+				Hebeloma gigaspermum Gröger &amp; Zschiesch., Z. Mykol. 47(2): 201 (1981)<br /><br />in foto: caulocistidi<br /><br /><img src="http://www.ambmuggia.it/forum/uploads/post-3-1231104775.jpg" class='linked-image' alt="Immagine Allegata" /><br /><br /><br /><img src="http://www.ambmuggia.it/forum/uploads/post-3-1231104783.jpg" class='linked-image' alt="Immagine Allegata" /><br /><br /><br /><img src="http://www.ambmuggia.it/forum/uploads/post-3-1231104791.jpg" class='linked-image' alt="Immagine Allegata" />
+				
+				
+				<!--IBF.ATTACHMENT_75664-->
+			</div>
+			
+			<br /><br />--------------------<br />
+<div class="signature">Marino Zugna <br /><i>A.M.B. Gruppo di Muggia e del Carso</i></div>
+			<!-- THE POST -->		
+		</td>
+	</tr>
+	<tr>
+		<td class="formbuttonrow" nowrap="nowrap">
+			<div style='text-align:left'><a href="javascript:scroll(0,0);"><img src='style_images/ip.boardpr/p_up.gif' border='0'  alt='Go to the top of the page' /></a></div>
+		</td>
+		<td class="formbuttonrow" nowrap="nowrap">
+			<!-- PM / EMAIL / WWW / MSGR -->
+			<div style="float: left;">
+				&nbsp;
+			</div>
+			<!-- REPORT / UP -->
+         	<div align="right">
+         		<a href="#" onclick="multiquote_add(75664); return false;" title="Elimina Multi-Quote"><img src="style_images/ip.boardpr/p_mq_add.gif" name="mad_75664" alt="+" /></a><a href="http://www.ambmuggia.it/forum/index.php?s=72040644a67467514762eec7f8280932&amp;act=Post&amp;CODE=02&amp;f=27&amp;t=6759&amp;qpid=75664" title="Rispondi direttamente a questo messaggio"><img src='style_images/ip.boardpr/p_quote.gif' border='0'  alt='Quote Post' /></a>
+         	</div>
+         </td>
+	</tr><tr>
+	<td class="catend" colspan="2">
+	<!-- no content -->
+	</td>
+</tr>
+</table>
+<!-- END TABLE -->
+
+<!-- TABLE FOOTER -->
+<div class="barc">
+	<div style="float: right; padding: 5px 5px 0 0;"><a href="http://www.ambmuggia.it/forum/index.php?s=72040644a67467514762eec7f8280932&amp;showtopic=6759&amp;view=old" style='text-decoration:none'>&laquo; Disc. Precedente</a>
+	&middot; <a href="http://www.ambmuggia.it/forum/index.php?s=72040644a67467514762eec7f8280932&amp;showforum=27" style='font-weight: bold;text-decoration:none'>CORTINARIALES</a>
+	&middot; <a href="http://www.ambmuggia.it/forum/index.php?s=72040644a67467514762eec7f8280932&amp;showtopic=6759&amp;view=new" style='text-decoration:none'>Disc. Successiva &raquo;</a></div>
+	<div>
+		<form action="http://www.ambmuggia.it/forum/index.php?s=72040644a67467514762eec7f8280932&amp;" method="post" name="search">
+			<input type="hidden" name="forums" value="27" />
+			<input type="hidden" name="topic" value="6759" />
+			<input type="hidden" name="act" value="Search" />
+			<input type="hidden" name="CODE" value="searchtopic" />
+			<input type="text" size="25" name="keywords" class="searchinput" value="Inserisci parole chiave..." onfocus="this.value = '';" />&nbsp;
+			<input type="submit" value="Cerca nella discussione" class="button" />
+		</form>
+	</div>
+</div>
+</div>
+<br />
+<!--IBF.MOD_FULL_WRAPPER-->
+
+<table class='ipbtable' cellspacing="0">
+	<tr>
+		<td style='padding-left:0px' width="30%" nowrap="nowrap" valign="middle"><div></div></td>
+		<td class='nopad' style='padding:5px 0px 5px 0px' align="right" width="70%"><!--IBF.QUICK_REPLY_CLOSED--><img src='style_images/ip.boardpr/t_closed.gif' border='0'  alt='Closed Topic' /><a href="http://www.ambmuggia.it/forum/index.php?s=72040644a67467514762eec7f8280932&amp;act=post&amp;do=new_post&amp;f=27" title="Crea una nuova discussione"><img src='style_images/ip.boardpr/t_new.gif' border='0'  alt='Start new topic' /></a></td>
+	</tr>
+</table>
+<div class="borderwrap" style='padding-bottom:1px;'>
+	<div class="formsubtitle" style="padding: 4px;">1 utenti stanno leggendo questa discussione (1 visitatori e 0 utenti anonimi)</div>
+	<div class="row1" style="padding: 4px;">0 utenti: </div>
+</div>
+<!--IBF.QUICK_REPLY_OPEN-->
+<br />
+<div class="borderwrap">
+	<div class="row2" style="padding: 5px;">
+		
+		<div align="right"><form onsubmit="if(document.jumpmenu.f.value == -1){return false;}" action='http://www.ambmuggia.it/forum/index.php?s=72040644a67467514762eec7f8280932&amp;act=SF' method='get' name='jumpmenu'>
+			             <input type='hidden' name='act' value='SF' />
+<input type='hidden' name='s' value='72040644a67467514762eec7f8280932' />
+			             <select name='f' onchange="if(this.options[this.selectedIndex].value != -1){ document.jumpmenu.submit() }" class='dropdown'>
+			             <optgroup label="Men&ugrave; Sito">
+			              <option value='sj_home'>Home Forum</option>
+			              <option value='sj_search'>Cerca</option>
+			              <option value='sj_help'>Aiuto</option>
+			             </optgroup>
+			             <optgroup label="Vai al forum"><option value="61">Micologia Generale</option>
+<option value="2">&nbsp;&nbsp;&#0124;-- Ritrovamenti</option>
+<option value="3">&nbsp;&nbsp;&#0124;-- Discussioni Micologiche</option>
+<option value="78">&nbsp;&nbsp;&#0124;-- Schede di Micologia - Società Veneziana di Micologia</option>
+<option value="6">&nbsp;&nbsp;&#0124;-- A.M.B. Muggia e Carso</option>
+<option value="66">BASIDIOMYCETES - Schede di Micologia</option>
+<option value="22">&nbsp;&nbsp;&#0124;-- HYMENOMYCETIDAE</option>
+<option value="28">&nbsp;&nbsp;&#0124;---- AGARICALES</option>
+<option value="24">&nbsp;&nbsp;&#0124;---- AMANITALES</option>
+<option value="30">&nbsp;&nbsp;&#0124;---- BOLETALES</option>
+<option value="27" selected="selected">&nbsp;&nbsp;&#0124;---- CORTINARIALES</option>
+<option value="26">&nbsp;&nbsp;&#0124;---- ENTOLOMATALES</option>
+<option value="25">&nbsp;&nbsp;&#0124;---- PLUTEALES</option>
+<option value="29">&nbsp;&nbsp;&#0124;---- RUSSULALES</option>
+<option value="23">&nbsp;&nbsp;&#0124;---- TRICHOLOMATALES</option>
+<option value="67">&nbsp;&nbsp;&#0124;---- Osservazioni su ...</option>
+<option value="31">&nbsp;&nbsp;&#0124;-- APHYLLOPHOROMYCETIDIAE</option>
+<option value="37">&nbsp;&nbsp;&#0124;---- CANTHARELLALES</option>
+<option value="38">&nbsp;&nbsp;&#0124;---- CLAVARIALES</option>
+<option value="32">&nbsp;&nbsp;&#0124;---- CORTICIALES</option>
+<option value="33">&nbsp;&nbsp;&#0124;---- GANODERMATALES</option>
+<option value="39">&nbsp;&nbsp;&#0124;---- HERICIALES</option>
+<option value="35">&nbsp;&nbsp;&#0124;---- HYMENOCHAETALES</option>
+<option value="34">&nbsp;&nbsp;&#0124;---- POLYPORALES</option>
+<option value="36">&nbsp;&nbsp;&#0124;---- THELEPHORALES</option>
+<option value="69">&nbsp;&nbsp;&#0124;---- Osservazioni su...</option>
+<option value="40">&nbsp;&nbsp;&#0124;-- GASTROMYCETIDAE</option>
+<option value="46">&nbsp;&nbsp;&#0124;---- HYMENOGASTRALES</option>
+<option value="42">&nbsp;&nbsp;&#0124;---- LYCOPERDALES</option>
+<option value="44">&nbsp;&nbsp;&#0124;---- NIDULARIALES</option>
+<option value="45">&nbsp;&nbsp;&#0124;---- PHALLALES</option>
+<option value="43">&nbsp;&nbsp;&#0124;---- SCLERODERMATALES</option>
+<option value="71">&nbsp;&nbsp;&#0124;---- Osservazioni su...</option>
+<option value="41">&nbsp;&nbsp;&#0124;-- PHRAGMOBASIDIOMYCETIDAE</option>
+<option value="55">&nbsp;&nbsp;&#0124;---- AURICOLARIALES</option>
+<option value="56">&nbsp;&nbsp;&#0124;---- TREMELLALES</option>
+<option value="57">&nbsp;&nbsp;&#0124;---- ORDINE DI TRANSIZIONE</option>
+<option value="72">&nbsp;&nbsp;&#0124;---- Osservazioni su...</option>
+<option value="65">ASCOMYCETES s.l. - Schede di Micologia</option>
+<option value="49">&nbsp;&nbsp;&#0124;-- PYRENOMYCETES</option>
+<option value="52">&nbsp;&nbsp;&#0124;---- PYRENOMYCETES</option>
+<option value="73">&nbsp;&nbsp;&#0124;---- Osservazioni su...</option>
+<option value="50">&nbsp;&nbsp;&#0124;-- DISCOMYCETES</option>
+<option value="53">&nbsp;&nbsp;&#0124;---- DISCOMYCETES</option>
+<option value="74">&nbsp;&nbsp;&#0124;---- Osservazioni su...</option>
+<option value="51">&nbsp;&nbsp;&#0124;-- LOCULOASCOMYCETES</option>
+<option value="54">&nbsp;&nbsp;&#0124;---- LOCULOASCOMYCETES</option>
+<option value="75">&nbsp;&nbsp;&#0124;---- Osservazioni su...</option>
+<option value="62">MYXOMYCETES - Schede di micologia</option>
+<option value="20">&nbsp;&nbsp;&#0124;-- MIXOMYCETES</option>
+<option value="58">&nbsp;&nbsp;&#0124;---- MIXOMYCETES: CERATIOMYCETES, ACRASIOMYCETES</option>
+<option value="76">&nbsp;&nbsp;&#0124;---- Osservazioni su...</option>
+<option value="63">Funghi a tavola</option>
+<option value="8">&nbsp;&nbsp;&#0124;-- I funghi in cucina</option>
+<option value="9">&nbsp;&nbsp;&#0124;-- Commestibilità dei funghi</option>
+<option value="64">Off-Board</option>
+<option value="13">&nbsp;&nbsp;&#0124;-- A parte .... i funghi</option>
+<option value="77">&nbsp;&nbsp;&#0124;---- un pò di piante</option>
+<option value="5">&nbsp;&nbsp;&#0124;-- L&#39;angolo tecnologico</option>
+<option value="12">&nbsp;&nbsp;&#0124;-- Comunicazioni</option>
+<option value="11">&nbsp;&nbsp;&#0124;-- Prove e aiuto</option>
+</optgroup>
+</select>&nbsp;<input type='submit' value='Vai' class='button' /></form></div>
+	</div>
+</div>
+<br />
+<!-- NON JS STUFF -->
+<div id='topicoptionsjs'>
+ <a name='topicdisplay'></a>
+ <div class='borderwrap'>
+  <div class="bar" style="padding: 5px;text-align:center">
+  <strong>Modalit&agrave; di visualizzazione:</strong> <strong><em><a href='http://www.ambmuggia.it/forum/index.php?s=72040644a67467514762eec7f8280932&amp;showtopic=6759&amp;mode=linear'>Normale</a></em></strong> &middot;
+  <a href='http://www.ambmuggia.it/forum/index.php?s=72040644a67467514762eec7f8280932&amp;showtopic=6759&amp;mode=linearplus'>Passa a: Lineare</a> &middot;
+  <a href='http://www.ambmuggia.it/forum/index.php?s=72040644a67467514762eec7f8280932&amp;showtopic=6759&amp;mode=threaded'>Passa a: Outline</a>
+  </div>
+ </div>
+ <br />
+ <a name='topicoptions'></a>
+ <div class='borderwrap'>
+  <div class="bar" style="padding: 5px;text-align:center">
+  <a href='http://www.ambmuggia.it/forum/index.php?s=72040644a67467514762eec7f8280932&amp;act=usercp&amp;CODE=start_subs&amp;method=topic&amp;tid=6759'>Sottoscrivi questa discussione</a> &middot;
+  <a href='http://www.ambmuggia.it/forum/index.php?s=72040644a67467514762eec7f8280932&amp;act=Forward&amp;f=27&amp;t=6759'>Invia tramite Email</a> &middot;
+  <a href='http://www.ambmuggia.it/forum/index.php?s=72040644a67467514762eec7f8280932&amp;act=Print&amp;client=printer&amp;f=27&amp;t=6759'>Stampa questa discussione</a> &middot;
+  <a href='http://www.ambmuggia.it/forum/index.php?s=72040644a67467514762eec7f8280932&amp;act=usercp&amp;CODE=start_subs&amp;method=forum&amp;fid=27'>Sottoscrivi questo Forum</a>
+  </div>
+ </div>
+ <br />
+
+</div>
+<script type='text/javascript'>
+//<![CDATA[
+document.getElementById('topicoptionsjs').style.display = 'none';
+ 
+// Scroll to PID?
+topic_scroll_to_post( parseInt("0") );
+//]]>
+</script><!--TASK--><img src='http://www.ambmuggia.it/forum/index.php?s=72040644a67467514762eec7f8280932&amp;act=task' border='0' height='1' width='1' alt='' /><!--ETASK-->
+<table cellspacing="0" id="gfooter">
+	<tr>
+		<td width="45%"> </td>
+		<td width="10%" align="center" nowrap="nowrap"><a href="lofiversion/index.php?t6759.html"><b>Versione Lo-Fi</b></a></td>
+		<td width="45%" align="right" nowrap="nowrap">Oggi &egrave; il:  1 Nov 2010 - 22:36</td>
+	</tr>
+</table>
+<script type='text/javascript'>
+//<![CDATA[
+menu_do_global_init();
+show_inline_messages();
+// Uncomment this to fix IE png images
+// causes page slowdown, and some missing images occasionally
+// if ( is_ie )
+// {
+//	 ie_fix_png();
+// }
+
+//]]>
+</script>
+ 
+<!-- Copyright Information -->
+        				  <div align='center' class='copyright'>
+        				  	Powered By <a href='http://www.invisionboard.com' style='text-decoration:none' target='_blank'>IP.Board</a>
+        				  	2.3.5 &copy; 2010 &nbsp;<a href='http://www.invisionpower.com' style='text-decoration:none' target='_blank'>IPS, Inc</a>.
+        				  <div>Licensed to: Gianpiero Lui, A.M.B. - Gruppo di Muggia e del Carso - 18.02.2003<br>Powered by <a href='http://www.Eurologon.com' target='blank'>Eurologon</a></div></div>
+		<!-- / Copyright -->
+</div>
+</body> 
+</html>

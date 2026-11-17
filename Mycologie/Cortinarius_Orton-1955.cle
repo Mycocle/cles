@@ -1,0 +1,556 @@
+ µm 
+titre $ ORTON Key to the Friesian subgenera of Cortinarius
+com$ adapt GF sept 2014
+rem$LANGUE$Anglais
+
+
+1,0$source : P. D. ORTON CORTINARIUS I et II  1955
+1,0$
+
+rem$titre $ Key to the Friesian subgenera of Cortinarius
+1,2 $ Cap and sometimes also stem viscid, at least when young
+1,3 $ Cap and stem dry
+1,0$
+1,cs2$Key 1. Key to the Species of Sericeocybe, Cortinarius and Dermocybe$$s"Sericeocybe, Cortinarius and Dermocybe"
+1,cs3$Key 2. Alternative key to section Anomali $$s"Anomali
+1,cs4$key 3. Alternative key to section Cinnamomei, based primarily on spore size from spore print $$s"Cinnamomei"
+
+
+
+2,CS1 $ Cap and stem viscid I. $ Myxacium
+2,CS1 $ Cap viscid, stem dry II. $ Phlegmacium
+3,4 $ Cap not hygrophanous
+3,5 $ Cap hygrophanous
+4,0 $ Cap innately scaly, fibrillose or silky, flesh rather thick; stem typically stout, ± clavato-bulbous III. $ Inoloma
+4,0 $ Cap innately silky at first (rarely velvety-scaly), generally becoming smooth, flesh thin; stem typically slender, ±equal or attenuated upwards IV. $ Dermocybe
+5,0 $ Stem peronate or annulate from the remains of the veil in addition to the cortinaV. $ Telamonia
+5,0 $ Stem with cortina ± fugacious, more rarely leaving traces near base, without veil in addition VI. $ Hydrocybe
+
+
+cs1,0$
+rem$ Orton : Key to the species Myxacium and Phlegmacium
+
+1,2 $ Cap and stem viscid, at least at first; flesh soon soft - $$s" I. Myxacium"
+1,21 $ Cap viscid at least at first, stem dry; flesh firm or soft $$s" II Phlegmacium"
+
+I. MYXACIUM
+2,3 $ Taste immediately bitter, at least in cap cuticle; spores less than long, punctate to almostsmooth, if subglobose, smaller, 4½-6/3½-4½ µm 
+2,9 $ Taste mild (rarely with sl. bitter after taste) ; spores rough to very rough, mostly over10 µm  long, or subglobose, 6½ -10/6-8 µm 
+3,0 $ Cap pale to deep violaceous at first, soon discolouring pale ochraceous; (stem ventricose-fusiform ± pointed at base; under beech) $ croceo-caeruleus (14)
+3,4 $ Cap never violaceous
+4,0 $ Cap bright orange-yellow or golden-tawny with paler non-striate margin; cap cuticle and flesh bitter; stem white, ventricose-fusiform or clavate, ± pointed at base; spores elliptic- to ovate-pruniform, 6½-8/4½-5½ µm  $ vibratilis (15)
+4,5 $ Cap paler in colour, white to ochraceous or buff, or if tinged tawny or orange, cap margin striate or cap cuticle only bitter or stem coloured slightly or spores different shape
+5,0 $ Flesh mild, cap cuticle bitter; stem firm; flesh and gills becoming rather deep coloured (yellowish or ochraceous-buff)$causticus (16)
+5,6 $ Both flesh and cap cuticle bitter; stem often soon soft (except ochroleucus (20)); flesh on the whole paler
+6,0 $ Cap and stem nearly always dry; stem firm and tough; cap with white silky sheen; (spores elliptic-pruniform, 7-8/4-5 µm ; esp. under oaks) $ ochroleucus (20)
+6,7 $ Cap and stem viscid at least when young; stem soon ± soft; cap with or without white silky sheen
+7,0 $ Cap small, 12-30(40) mm., disc often tinged tawny, margin striate when moist; gills rather broad and distant, very pale; stem equal or sl. swollen below, often flexuose, very soft and slender, often remaining viscid; (spores elliptic or sl. amygdaliform, 6½ -8/4- 5 µm ) $ pluvius (17)
+7,8 $ Cap medium to large, rarely small, (15)30-100 mm., paler, margin never striate; gills often narrower and more crowded or darker; stem equal to fusiform with ± pointed base, often firmer at first and more robust, soon dry
+8,0 $ Spores subglobose to broadly ovate, 4½-6/3½-4½ µm ; stem often fusiform or attenuated downwards; gills often narrowly adnate and narrow $ cristallinus (19)
+8,0 $ Spores elliptic-amygdaliform, 7-9/4-5 µm ; stem equal or sl. swollen near ± pointed base; gills often emarginato-adnate and ± ventricose $ emollitus (18)
+9,10 $ Spores subglobose or broadly ovate, 6½-io/6-8 µm ; viscid veil on stem smooth making the stem look varnished when dry
+9,13 $ Spores ± amygdaliform to limoniform, more than 10 µm  long (rarely less than 10 µm  and then elliptic); viscid veil on stem often floccose .
+10,0 $ Cap bright blue or violaceous at first; (stem ventricose or clavate-acuminate, blue at first $ salor (12)
+10,11 $ Cap without distinct blue or violaceous tints at first (sometimes with sl. violaceous flush in epipoleus (13))
+11,0 $ Gills deep blue or blue violaceous at first; common species; (cap ± yellow sometimes tinged tawny; stem ± clavate, white, often smeared with yellowish veil below cortinal zone) $ delibutus (10)
+11,12 $ Gills not blue or violaceous at first; uncommon species
+12,0 $ Cap pale- to golden-yellow; gills pinkish- or ochraceous-clay, then buff; stem clavate  or swollen at base, white, or tinged ochraceous below; (resembling a slender delibutus,  but without blue tints) $ illibatus (11)
+12,0 $ Cap ochraceous-grey with olive-violaceous flush then dingy white with livid ochre  centre; gills clay at first; stem clavate or fusiform, ± pointed at base $ epipoleus (13)
+13,14 $ Gill edge with conspicuous balloon-shaped, pyriform or clavate cystidia, 10-30 µm  wide;  cap with markedly striate or wrinkled margin or smooth; spores amygdaliform to limoniform
+13,17 $ Gill edge without such conspicuous cystidia, but sterile 4- clavate cells about 8-12 µm   wide resembling basidia may be present; cap with smooth or more rarely sl. striate or  grooved margin; spores elliptic to limoniform
+14,0 $ Gills violaceous at first, then violaceous rusty or purplish-umber, always rather dark  coloured, often interveined and veined on the sides; cap remaining conical or conicoexp.  for a long time, margin strongly wrinkled-striate; stem often rather long and robust,  ± ventricose $ elatior (6)
+14,15 $ Gills never violaceous, paler in colour, ochraceous-clay to rusty- buff, rarely interveined  but sometimes veined on the sides; cap often expanding, if ±- conical margin smooth or  sl. wrinkled-striate or colours paler; stem slender or robust, equal or ventricose 
+15,0$ Cap pale to deep yellowish or ochraceous, often with tawny tinge at disc, margin smooth  or almost so; stem rather long, almost pure white, sometimes with sl. violaceous tinge$pseudosalor (8)
+15,16 $ Cap never so brightly coloured, at least disc not ochraceous but livid or olivaceous,  margin smooth or not; stem short or long, ± violaceous or bluish at least in part
+16,0 $ Stem rather slender and soft; cap often small, 18-50 mm., at first covered with blue-violaceous  gluten then greyish- or livid-brown with smooth margin; gills subdistant, ± ventricose $ stillatitius (9)
+16,0 $ Stem often stouter and firmer;cap generally larger, 30-110 mm., livid- or olive-brown,  never violaceous, margin often striate or grooved; gills f. crowded, not or sl. ventricose $ mucifluus (7)
+17,18 $ Stem with conspicuous whitish or pale bluish scales on a darker (tawny, chestnut or baybrown)  background
+17,19 $ Stem without pale scales on a darker background, white, violaceous or tinged ochraceous
+18,0 $ Cap bright coloured, ± tawny; spores 12-15/7-8 µm  or larger; stem apex and gills sometimes  bluish at first; typically under conifers, also under beech $ collinitus (1)
+18,0 $ Cap duller coloured, clay- or bay-brown but sometimes with tawny tinge at margin;  spores 10-13/6-7 µm ; no blue tints anywhere; under deciduous trees, generally in wet places $ trivialis (2)
+19,0 $ Cap becoming greyish with silky sheen at least in part; stem violaceous in part; spores  elliptic, 7½ -9/4½-5 µm  $ livido-ochraceus (4)
+19,20 $ Cap never greyish with silky sheen; stem not violaceous; spores elliptic-amygdaliform to  sublimoniform, 10½-16/5½-7 µm 
+20,0 $ Cap ± chestnut, then yellow-brown esp. at margin; gills not  violaceous at first; stem equal, white; spores elongate sublimoniform, 13-16/6-7 µm . $ mucosus (3)
+20,0 $ Cap egg- or orange-yellow; gills pale violaceous at first; stem ± clavate, whitish sometimes  tinged yellowish in part; spores elliptic-amygdaliform, 10½-11/5½-6 ¾  µm . $ Metrodi (5)
+
+II. PHLEGMACIUM.
+
+21,22 $ Gills and flesh discolouring ± deep violet or purplish when bruised or rubbed; (spores 8-11/5-6 µm )
+21,24 $ Not so (not : Gills and flesh discolouring ± deep violet or purplish when bruised or rubbed )
+22,0 $ Gills at first pale to pallid-buff (rarely with sl. lilac tinge); cap yellow-buff to pallid  date-brown, not violet $ subpurpurascens (54)
+22,23 $ Gills at first deep violet; cap pale yellowish to dark umber, sometimes ± violaceous esp.  near margin
+23,0 $ Cap tawny-buff to dark umber, margin often deep violet at first; stem  with varia $ purpurascens (53)
+23,0 $ Cap pale yellowish to pale date-brown, sometimes with sl. violaceous tinge, margin  never deep violet; stem less robust, equal or sl. clavate; small to medium, rarely larger $ porphyropus (55)
+24,25 $ Stem with well-marked wide marginate (Fig. 1) or rounded marginate (Fig. 6) bulb,  more rarely variable and then sometimes immarginately bulbous $$s"   Scauri"
+24,84 $ Stem not marginately bulbous, equal, clavate or irregularly bulbous $$s"   Cliduchi-elastici"
+
+
+A. SCAURI. (See also § 22)
+25,26 $ Young gills white, whitish or clay $$s"   Leucophylli"
+25,41 $ Young gills lilac, bluish or violaceous $$s"   Cyanophylli"
+25,66 $ Young gills yellow to olive or greenish $$s"   Xanthophylli" 
+
+
+a. LEUCOPHYLLI
+26,0 $ Smell strong and persistent, fragrant, of orange blossom; (cap yellowish-buff with  yellower margin; spores amygdaliform, 9-10/5-6 µm ) $ evosmus (30)
+26,27 $ If smell strong, not of orange blossom
+27,28 $ Cap at first white, whitish, clay or pale creamy-ochre
+27,32 $ Cap at first pale yellow to chestnut
+28,29 $ Stem with conspicuous wide marginate bulb; flesh sometimes with bluish tinge
+28,30 $ Stem with ± rounded or narrow free-edged marginate bulb, rarely almost immarginate; flesh never  bluish
+29,0 $ Spores amygdaliform to sublimoniform, 10-12/6-6½ µm -,a; cap white at first discolouring to ochraccous-  buff; flesh of stem apex with fugacious bluish tinge; generally robust $ caroviolaceus (34)
+29,0 $ Spores elliptic-pruniform, 7¼ -9/4-5 µm ; cap whitish or pale clay to pale buff; flesh not bluish at stem  apex; generally less robust $ rapaceus (33)
+30,0 $ Spores elliptic-amygdaliform, 10-11/5½-6 µm  cap almost unicolorous pale creamy-ochre;  (stem with f. conspicuous but rounded marginate bulb; taste mild) * $ ochropallidus (23)
+30,31 $ Spores elliptic-amygdaliform to sublimoniform, less than 10 µm , long; cap pale clay to ochraceous or  buff, disc often darker
+31,0 $ Cap pale clay to pale ochraceous or buff; cap cuticle often bitter; stem bulb narrow marginate to  rounded marginate, often inconspicuous; spores elliptic-amygdaliform, 8-10/4½-5½ µm  $ amarescens (25)
+31,0 $ Cap creamy-ochre, often tinged tawny-ochre at disc; taste mild; stem bulb f. conspicuous, rounded  marginate; spores amygdaliform to sublimoniform, 6-7½/4-4½ µm ; (cap 30-50 mm.; stem 40-60/5-8  mm. (8-12 mm. in bulb); mixed woods) . * ( ($minus Vel.)
+32,0 $ Cap unicolorous tawny-reddish at first, then paler at disc; spores ±elliptic 8½-10/4½-5½ µm ; (stem  with conspicuous ± rounded marginate bulb, becoming tinged with colour of cap) $ allutus (24)
+32,33 $ Cap from yellow to chestnut at first, if with a tendency to be tawny-reddish spores more than 10 µm   long or differently shaped
+33,0 $ Cap at first pale primrose or chrome-yellow, then deeper yellow with disc generally tinged ochraceous;  gills for a long time white; stem with ± conspicuous wide marginate bulb; flesh soon tinged ochraceousyellow,  very firm at first; spores elliptic-amygdaliform 8-10(11)/5-6 µm  $ Langei (29)
+33,34 $ If cap pure yellow at first characters otherwise
+34,35 $ Stem with variable sharply marginate, rounded marginate or almost immarginate never wide marginate  bulb; cap yellow-ochraceous or buff generally with yellower margin; flesh soon soft and ± yellowish
+34,36 $ Stem with wide marginate bulb, or if less marked, then cap with marked orange tints, or stem with  violaceous veil when young; if cap yellowish or ochraceous, flesh firmer and often white
+35,0 $ Spores ± limoniform, 10-11/5½-6½ µm ; smell often strong, of apples or acid $ multiformis (21)
+35,0 $ Spores elliptic to elliptic-amygdaliform, 8-9/4½-5 µm ; smell faint or strong of honey $ melliolens (22)
+36,0 $ Spores subglobose to ovato-pruniform, 8-12/6½-8 µm ; cap ochraceous or rusty, margin often with olivaceous  tinge $ turbinatus (31)
+36,37 $ Spores amygdaliform to limoniform, rarely elliptic fusiform, sizes various; cap rarely with olivaceous  tints
+37,0 $ Spores broadly amygdaliform, punctate-rough, 7-8/4-5 µm ; (cap 40-70 mm., bright orange-yellow to orange-  brown, sometimes with yellower margin; stem 30-60/13-25 mm. (20-30 mm. in bulb), with distinct  or almost immarginate bulb; flesh pale yellowish-white, very hard; in fir and mixed woods) *($aurantiacus Moser)
+37,0 $ Spores elliptic fusiform, almost smooth, 7½ -9/3 ½-4 µm ; (cap pale ochraceous to brick-red, innately fibrillose;  stem white, discolouring when touched; flesh white; under conifers)  * ($roseo-limbatus Secr, var marginatus Bres.)
+37,38 $ Spores more than 9 µm , long, ± rough; (stem bulb generally well marked)
+38,0 $ Stem with remains of violaceous veil at base at least when young, sometimes sl. bluish or glaucous  at apex; (cap yellowish-ochraceous or buff with innate reddish-brown fibrils, margin sometimes  reddish- or tawny-brown; under pines) * $ pinetorum (32)
+38,39 $ Stem never with violaceous veil or bluish tints
+39,0 $ Cap chestnut or date-brown-tawny to smoky-brown, very viscid, smooth; spores amygdaliform  to ± limoniform, 12-15/7-9 µm ; in coniferous woods $ napus (26)
+39,40 $ Cap paler, either soon dry and flocculose, or less viscid and with scattered  whitish patches of veil at first; spores smaller
+40,0 $ Cap rusty or pallid clay-brown often with darker spots, soon dry, opaque and flocculose; spores  sublimoniform to almost fusiform, 9-12/4-5(6) µm ; mountainous conifer woods $ corrosus (27)
+40,0 $ Cap ochraceous-, tawny- or rusty-buff, at first with whitish patches of veil and yellowish margin;  spores ± limoniform, 10-14/6-7½ µm  beech woods, often on chalk . $ subturbinatus (28)(b)
+
+ CYANOPHYLLI.
+41,42 $ Cap bluish, lilac or violaceous, at least in part or when young
+41,51 $ Cap without bluish or violaceous tints
+42,43 $ Smell strong, of orange blossom or of meal
+42,44 $ If smell strong, not of orange blossom or meal
+43,0 $ Smell strong, persistent, fragrant, of orange blossom; cap 50-80 mm., pale ochraceous or milky-coffee  with lilac margin; stem 90-100/20 mm. o (30 mm. in bulb), with wide marginate bulb, lilac above,  pale yellowish below; flesh whitish-lilac under the cuticle, pale yellowish elsewhere; spores ± limoniform,  12-13½(15)/6½-7(8) µm ; under beeches * ($suaveolens Bataille & Joachim)
+43,0 $ Smell strong of meal, esp. when cut; cap 40-60 mm., grey-blue, ochraceous, olivaceous or clay-brown;  stem 40-100/5-13 mm. (12-20 mm. in bulb), with wide marginate to almost immarginate bulb, blue-violaceous  above, paler or yellowish below; flesh whitish in cap, violaceous in stem apex, ochraceous  in bulb; spores ± limoniform, 9½-12/4¾-7 µm ; in deciduous or coniferous woods, esp. beech on chalk ($Dionysae Hry.)
+44,45 $ Flesh bitterish to very bitter, + NaOH rose-red; (gill edge with ± conspicuous sometimes characteristically  shaped sterile cells; spores amygdaliform to sublimoniform, 12-14/6-6½ µm 
+44,46 $ Flesh mild, + NaOH never rose-red; (cap cuticle sometimes bitter)
+45,0 $ Both flesh and cap cuticle very bitter; sterile cells on gill edge cylindric clavate to irregular or pistolshaped;  generally robust; under conifers $ dibaphus (40)
+45,0 $ Flesh bitterish, cap cuticle mild; sterile cells cylindric clavate or forked at apex; often less robust; under  deciduous trees $ nemorosus (41)
+46,0 $ Cap cuticle bitterish, + NaOH bright red to purplish-red (cap pale to deep blue-violaceous discolouring  ochraceous or buff from disc outwards, not innately fibrillose; spores amygdali form to sublimoniform,  10-12/5½-6½ µm ) $ sodagnitus (39)
+46,0 $ Cap cuticle bitterish, + NaOH wine-red; (cap 40-60 mm., grey or bluish-grey becoming pale  ochraceous from disc out, with darker innate fibrils; stem 60-70/15 mm., with oblique marginate  bulb, pale violaceous above, yellowish below; flesh whitish in cap, dirty violaceous in stem,  yellowish in bulb; smell faint, fruity; spores amygdaliform, 9-10/5-5½ µm  under conifers)  * ($caesio-stramineus Hry.)
+46,47 $ Cap cuticle mild, + NaOH ± nil to brownish
+47,0 $ Spores elliptic-amygdaliform, 8-10(11)/4-5 µm  (entirely pale blue or greyish-blue at first, cap discolouring  pale ochraceous from disc out, margin innately fibrillose; smell often strong, musty; under  beech) $ caesiocyaneus (37)
+47,48 $ Spores more than 10 µm  long
+48,0 $ Cap grey-blue at first, then ± olivaceous at disc, finally tan, finely streaky or spotted; gills blue-violaceous,  then smoky-blue, finally clay-cinnamon; spores amygdaliform to subfusiform, 11-16/6½-  7½ µm ; (cap 50-80 mm.; stem 40-50/20 mm., ± violaceous, paler below; flesh pale bluish, yellowish below;  inodorous ; mountainous conifer woods) * ($herpeticus Fr. sensu Hry.)
+48,49 $ No olive tints in cap; gills never smoky-blue; spores ± amygdali-forin, 10-12/4½-7 µm .
+49,0 $ Gills ± deep blue-violaceous at first, finally clay- or rusty-brown; cap dingy violet or grey-blue-violaceous  at first, not innately fibrillose; smell faint or stronger when old, unpleasant $ caerulescens (35)
+49,50 $ Gills pale bluish, lilac or grey-bluish at first, finally ochraceous or milky coffee; cap pale to deeper  blue-violaceous at first, innately fibrillose; smell faint, or strong ± fruity
+50,0 $ Cap deep violet at first, becoming paler with ± ochraceous disc; stem distinctly blue-violaceous  when young; smell none or faint of radish; (if cap and stem somewhat deeper violet and smell often  strong fruity var.* $ Juranus Hry (36a)) Mairei (36)
+50,0 $ Cap greyish-white or greyish-violet then ± ochraceous; stem at most greyish-blue when young;  smell none or faint fruity * $ Boudieri (38)
+51,0 $ Smell ± strong of meal; taste bitterish; (cap 80-120 mm., whitish, then pale ochraceous; gills pale lilac  at first; stem 50-70/10-20 mm. (up to 40 mm. in bulb), white; flesh white; spores amygdaliform  10-I2/6-7 µm ; mountainous conifer woods) * ($aleuriosmus Maire)
+51,0 $ Smell ± strong of meal; taste mild; (cap ochraceous or clay-brown; $ see §43, Dionysae).
+51,52 $ Smell none or not mealy; taste generally mild, less commonly cap cuticle bitter, or flesh with sl. bitter  after taste
+52,53 $ Spores less than 9 µm  long; young cap ochraceous to buff or tawny, often with greenish or olive tints  esp. near margin; flesh in bulb rather deep yellow or ochraceous
+52,55 $ Spores more than 9 µm  long; young cap rarely with greenish or olive tints; flesh in bulb white to paler  yellowish or ochraceous
+53,0 $ Cap olive-brown then hazelnut or dirty buff; gills at first grey-blue then sooty-blue; stem with conspicuous  wide marginate bulb $ herpeticus (51)
+53,54 $ Cap paler or brighter coloured; gills pale bluish-lilac to grey-blue at first, never sooty-blue; stem bulb  variable, from wide marginate to almost immarginate
+54,0 $ Robust; cap pale tawny or buff often tinged olive with greenish margin, then unicolorous tawny buff  and conspicuously innately fibrillose; stem bulb from wide to barely marginate; typically under  conifers, also under deciduous trees $ glaucopus (50)
+54,0 $ More slender; cap pale ochraceous with greenish margin then rusty-buff with olivaceous margin,  not so conspicuously in nately fibrillose; stern with narrow marginate bulb; under beech  on chalk $ parherpeticus (52)
+55,56 $ Cap whitish or pale yellowish at first
+55,59 $ Cap ± deep yellow or ochraceous to orange-brown or chestnut at first .
+56,0 $ Cap cuticle ± bitter, flesh mild; stem with yellowish patches of veil at base and on ± rounded marginate  bulb; smell at first faint but distinct, fruity (of plums); spores ± limoniform, very rough  (10-13/6-7 µm ) $ amoenolens (49)
+56,57 $ Cap cuticle and flesh mild; smell none or faint, of radish; stem without patches of yellowish veil at  base; spores ± amygdaliform, rough
+57,0 $ Cap whitish, then pale buff; stem white with abundant pale bluish or lilac cortina and conspicuous marginate  bulb, often bluish on the edge; (cap 70-100 mm.; gills pale clay-bluish or lilac at first; stem 60-  70/15-20 mm. (30-35 mm. in bulb); inodorous; spores 10-11/5-6 µm  under deciduous trees) ($Rickenianus Maire)
+57,58 $ Cap pale straw-yellow or ochraceous at first; stem blue-violaceous at first, soon, whitish, discolouring  yellowish or ochraceous from the base up, bulb not so conspicuously wide marginate
+58,0 $ Slender with ± regular and orbicular soon cvx.-exp. cap; stem with small but distinct marginate  bulb, pale lilac then whitish or ochraceous at base; cortina whitish, rather sparse; spores 9-10½/5-6 µm  $ parvus(43)
+58,0 $ More robust with less regular cap, not expanding so soon; stem with variable ± rounded marginate  to immarginate bulb blue-violaceous discolouring yellowish or ochraceous from the base up;  cortina abundant, blue-violaceous; spores 10-14/6-7 µm  $ cyanopus (48)
+59,0 $ Cap chestnut or reddish-brown with olive-yellow margin- olive-yellow veil forming patches on  stem and bulb; (cap 50-80 mm.; stem 50-70/12-15 mm. (up to 25 mm. in bulb), pale with violaceous  tinge bulb top-shaped; spores ± amygdaliform, 12-15/7-8 µm ; esp. in coniferous woods)  * ($subatkinsonianus Hry.)
+59,60 $ Cap paler at first or spores smaller, margin not olive tinged (but see §70 montanus, which has gills  rarely grey-violaceous at first); golden- or pale-yellow veil present or absent; spores smaller
+60,0 $ Cap orange- to reddish-brown at first; stem often short, with inconspicuous marginate or  almost non-existent bulb, often flattened at base; (cortina pale ochraceous to yellowish;  spores 10-12/6-6- µm  $ pansa (47)
+60,61 $ Cap yellow or ochraceous at first; stem short or long, often with ± conspicuous wide marginate  bulb
+61,62 $ Bulb with golden-yellow or yellowish patches of veil; cap bright yellow then ochraceous or tawnybuff  at disc
+61,63 $ Bulb without patches of veil (sometimes white-tomentose beneath); cap pale to bright yellow,  ochraceous or buff
+62,0 $ Bulb with golden-yellow veil; flesh pale violaceous esp. under cap cuticle and in stem apex, then  whitish, ± yellowish in bulb; NaOH -f cap cuticle immediately bright orange-red then bloodred,  finally purplish-brown; often rather small; spores 11-13/6-6½ µm  $ aureopulverulentus (44)
+62,0 $ Bulb with yellowish veil; flesh pale ochraceous-yellow; NaOH + cap cuticle variable, ± brickred  to reddish-brown; generally more robust; spores 9-11(12)/4½-5 µm  * $ arquatus (45)
+63,64 $ Stem blue-violaceous, at least at apex; generally rather small
+63,65 $ Stem white or tinged yellowish or rusty, without blue tints externally; small to large
+64,0 $ Cap pale ochraceous to yellowish then ± rusty in places; stem slender, pale violaceous then  whitish or pale ochraceous below; flesh pale violaceous in stem, rather thin at disc $ parvus (43)
+64,0 $ Cap ochraceous-buff with paler margin; stem rather stouter, apex pale violaceous when young,  soon ochraceous-buff from base up; flesh white, sl. bluish in stem apex, tinged ochraceous in bulb,  thicker at disc * $ subarquatus (46)
+65,0 $ Gills bright violet at first; flesh white or whitish, often yellowish under cap cuticle or in bulb, without  blue tints; gill edge sterile with f. conspicuous ± clavate cells, 6-14/22 µm  wide $ calochrous (42)
+65,0 $ Gills pale bluish or lilac at first; flesh white in cap and bulb, greyish-blue in stem; gill edge fertile;  (cap 60-80 mm., tawny-yellow with yellower margin; stem 80/20 mm. (40 mm. in bulb), white or yellowish,  cortina bluish-white; spores elliptic-amygdaliform, 10/5½ µm ; deciduous or mixed woods ($Cookeianus Hry.) 
+c. XANTHOPHYLLI
+66,67 $ Blue or violaceous tints in cap, stem or flesh
+66,71 $ Without blue or violaceous tints
+67,0 $ Cap sulphur or lemon-yellow at first, discolouring rusty; gills pale olive-sulphur at first; stem  greenish-yellow or sulphur discolouring ± rusty below; flesh rather deep azure-blue in centre of cap  and stem apex (whitish when old) $ cedretorum (56)
+67,68 $ Not combining azure-blue flesh with yellow cap, gills and stem
+68,69 $ Cap reddish-copper to purplish or lilac, sometimes yellowish in part; stem with wide marginate  bulb, greyish-lilac to reddish or sulphur with reddish-purple apex
+68,70 $ Cap from ochraceous to chocolate brown, umber, olive or greenish; stem with variable rarely  wide-marginate often inconspicuous bulb, often bluish or greenish at apex and ochraceous or brownish  below
+69,0 $ Cap reddish-copper to reddish purple; gills greenish-olive or lemon-yellow .it lirst; attorn greyish lilac  to ± reddish, rarely sl. yellowish; flesh lilac or violaceous under cuticle, ± reddish-purple in bulb, white or  greenish-yellow elsewhere, + NaOH sulphur-yellow; spores 11-14/7-8 µm  $ rufo-olivaceus (57)
+69,0 $ Cap purplish, then lilac and yellowish mixed; gills ± sulphur-yellow ai first; stem sulphur-yellowish  with narrow purplish-red zone at apex. flesh whitish, violaceous under cap cuticle, yellow at periphery of  stem; spores 10½-11½/6-6½ µm  $ xanthophyllus (58)
+70,0 $ Cap olive- to date-brown with darker smoky-brown or chocolate generally spotted margin; gills olive-  bistre to olive-cinnamon; spores 10-13/6-8 µm ; damp conifer woods or moorlands $ scaurus (59)
+70,0 $ Cap pale ochraceous or buff with olive-yellow to chocolate or umber not spotted margin; gills  typically olive-yellow at first, occ. pale grey-violaceous; spores 9-11/5½-6½ µm ; in damp conifer woods;  (cap 35-80 mm.; stem 40-70/10-20 mm., bluish or greenish above, brownish or purplish below;  flesh pale dirty brownish, sometimes bluish in stem apex) * ($montanus Kauff. ssp. europaeus Moser)
+70,0 $ Cap ochraceous or buff with darker streaks and olive or greenish margin; gills dark greenish-olive  then rusty-olive; spores 10-12/5-6½ µm  ; deciduous and coniferous woods; (cap 50-80 mm.; stem 60-  80/10-15 mm., pale greenish with grey-bluish apex, becoming ± ochraceous below; flesh pale, greenish  or bluish at stem apex) * ($subvirentophyllus Hry.)
+71,72 $ Cap, gills and stem straw-, chrome- or golden-yellow to ochraceous, tawny or rusty, without distinct  sulphur, lemon yellow, olive or greenish tints (except sometimes gills becoming olivaceous when old).
+71,76 $ Cap or gills or stem with some distinct sulphur, lemon-yellow, olive or greenish tints at least when  young
+72,73 $ Cap with distinct darker scales at least on disc
+72,74 $ Cap smooth or innately fibrillose or with whitish scales from veil but without darker scales
+73,0 $ Spores 8-12/5-6½ µm  ; stem golden-yellow to rusty-orange with white or pale yellow apex $ fulmineus (62)
+73,0 $ Spores 13-14/7-8 µm  or larger; stem yellow or golden-yellow tinged rusty in places, apex yellow $ parafulmineus (63)
+74,0 $ Gills pale straw-yellow then pale cinnamon, sometimes tinged olivaceous when old ; cap  straw then ochraceous or buff with pale yellowish margin, sometimes with whitish scales from veil;  (spores 11-12/6-7 µm ) $ lutescens (64)
+74,75 $ Gills pale or deep yellow then rusty-buff, -golden or -orange; cap golden-yellow to orange-tawny or  darker, smooth or innately fibrillose
+75,0 $ Cap with conspicuous darker innate fibrils; spores 9-12/6-7 µm  $ fulgens sensu Fries (60)
+75,0 $ Cap smooth; spores 9-10/5 6 µm  $ fulgens sensu Cooke (61)
+76,77 $ Cap predominantly green, sometimes with" olive tinge but without yellow tints; spores 10-12/5-7 µm 
+76,78 $ Cap pale sulphur or lemon-yellow to reddish-copper, sometimes olivaceous but then also with yellow  tints; spores 10-17/5-10 µm 
+77,0 $ Cap dark- to olive-green with paler margin; gills, stem and flesh at first sulphur yellow $ atrovirens (73)
+77,0 $ Cap olivaceous to grass-green, disc sometimes with sl. brownish tinge; gills and flesh never sulphuryellow $ prasinus (72)
+78,79 $ Almost unicolorous sulphur- or lemon-yellow at first, except sometimes disc of cap may be olivebrown;  mycelium at base of bulb sulphur or lemon-yellow; spores 9-11/5-6 µm 
+78,81 $ Cap, gills and stem not unicolorous at first, or if almost so spores larger; mycelium at base of  bulb white or whitish; spores 10-16/6-10 µm 
+79,0 $ Entirely sulphur-yellow at first; disc of cap sometimes becoming tinged reddish-brown or with scattered  reddish-brown scales; cap cuticle + NaOH deep red or red-brown or purplish-brown; typically  rather small, less commonly large $ splendens (65)
+79,80 $ Unicolorous ± deep lemon-yellow, or pale lemon-yellow with olive-brown cap except for margin ; cap  cuticle + NaOH deep olive or olive-brown ; typically medium to large
+80,0 $ Entirely ± deep lemon-yellow; disc of cap later sometimes tinged sl. olivaceous, ± smooth; cap  cuticle + NaOH rather deep olive $ citrinus (66)
+80,0 $ Gills and stem pale lemon-yellow at first, gills later olive-yellow; cap olive-brown with pale lemonyellow  margin, often spotted or streaky; cap cuticle + NaOH ± olive-brown $ sulphureus (67)
+81,82 $ Cap reddish-copper or tawny-brick, with yellowish, greenish or glaucous (rarely sl. bluish) margin,disc sometimes with darker scales; smell often strong, either of fennel or anise; spores amygdaliform to  + limoniform, rough, 10-13/6-8 µm 
+81,83 $ Cap straw yellow, sulphur or tawny-orange to rusty-buff, sometimes with olivaceous tinge, with paleto  sulphur-yellow margin, smooth or innately fibrillose, sometimes spotted but not distinctly scaly;  smell none to rather sickly sweet (aromatic), sometimes resembling fennel;  spores limoniform, very rough, 12-17/8-10 µm 
+82,0 $ Smell of fennel; flesh white or whitish with yellowish or greenish-yellow outline, often becoming  reddish-brown in bulb; stem pale greenish-yellow $ orichalceus (70)
+82,0 $ Smell of anise; flesh bright greenish-yellow or sulphur, sometimes greener in stem or reddishbrown  in bulb; stem rather bright greenish-yellow, sometimes yellower or browner in places *$odorifer (71)
+83,0 $ Cap straw-yellow to tawny-buff often with olive tinge, innately fibrillose, margin paler; flesh pale yellowish  or whitish then darker (tawny-rusty) in bulb; smell none, or faint, pleasant; in coniferous or deciduous  woods $ elegantior (68)
+83,0 $ Cap sulphur-yellow, disc ± rusty-buff or tawny-tinged, smooth; flesh white with sulphur outline, or  sulphur in bulb; smell often strong, aromatic, sickly sweet; under beech $ elegantissimus (69)B. 
+
+CLIDUCHI-ELASTICI
+84,85 $ Young gills white whitish or clay
+84,107 $ Young gills blue or violaceous
+84,117 $ Young gills yellow or olive
+85,86 $ Cap bluish or violaceous at least at margin; stem sometimes with violaceous or whitish scales from  veil near base
+85,89 $ Cap whitish, yellowish, tawny or brown, without blue tints; scales from veil, if present, white, yellowish,  ochraceous or brown (violaceous only in roseo-limbatus-see § 105)
+86,0 $ Very large and robust; cap 75-200 mm. chestnut or chocolate with grey- or darker-violaceous  margin, often with thick whitish patches of veil at first, later paler with ± sulcate margin; similar  patches of violaceous or whitish veil on stem; spores ± limoniform, 13-18/8-10 µm  $ praestans (90)
+86,87 $ Slenderer species with smaller spores and other characters
+87,0 $ Cap soon dry and felty-fibrillose, cuticle not peeling easily, dull (cork- or tobacco-) brown with narrow  sometimes fugacious lilac or violaceous zone at margin; (generally under conifers) $ balteatus (89)
+87,88 $ Cap smooth and shiny or sl. matt when dry, sometimes innately fibrillose at margin, cuticle peeling or  not, with wider or deeper violet marginal zone to almost entirely violaceous or with brighter (ochraceous  or wine-red) disc
+88,0 $ Cap cuticle peeling easily, reddish brown or wine-red with narrow but often bright violet marginal  zone; stem with patches of rather fugacious or inconspicuous blue-violaceous veil; spores ±  amygdaliform, 10 12/5 ½- 6 ½  µm ; decid. woods, esp. beech $ balteato-cumatilis (88)
+88,0 $ Cap cuticle not peeling easily, grey-blue to violet, disc becoming ochraceous, wine-red or sepiatinged;  patches of violaceous veil on stem often conspicuous; spores elliptic-fusiform,  9-12/4 ½ -6/ µm ; coniferous and mixed woods $ cumatilis (87)
+89,3 $ Taste bitter, at least in cap cuticle; colours generally pale, or rather dull. white to ochraceous or buff;  stem ± viscid at first but often soon 9 drying smooth or striate, less commonly sl. floccose; (spores less  than 10 µm  long, often pale in mass (ochraceous to ochraceous-rusty))
+89,90 $ Taste mild; colours various but often brighter; stem smooth or scaly, never viscid ; spores various, often  longer and darker rusty in mass
+90,91 $ Stem often clavate at first either with white, yellowish, ochraceous or brownish floccose scales  forming ring-like zones or scattered near base or cortina forming thick white floccose ring-zone  near apex
+90,102 $ Stem equal to clavate or irregularly, rarely rounded bulbous, smooth or striate (rarely with traces  of violaceous veil at base), cortina not forming thick ring-zone
+91,92 $ Scales on stem soon coloured yellowish, ochraceous or olive-brown; cap margin never white floccososcaly  but sometimes appendiculate with remains of cortina
+91,97 $ Scales on stem white or sl. coloured at tips, or cortina forming thick white ring-zone; cap margin often  white floccoso-scaly or silky hoary
+92,93 $ Scales on stem thick, woolly, ± persistent, forming ± conspicuous ring-like zones below cortinal  zone; cap yellow to ochraceous or tawny, generally rather bright in colour; usually robust and ± inodorous
+92,95 $ Scales on stem thinner, less conspicuous, often reduced to a few near the base, sometimes fugacious;  cap generally dull in colour, pale yellow or ochraceous to reddish-brown; medium to large,  often with strong smell
+93,0 $ Spores elliptic-fusiform, 12-15/6-7 ½  µm ; cap yellow- to ochraceous-tawny with ± bright yellow margin,  disc often with small adpressed crowded scales; under conifers and birch; (NaOH + flesh bright  or golden yellow) $ triumphans (74)
+93,94 $ Spores ± amygdaliform, 9-12 ½/5-7 ½ µm ; cap pale to bright yellow or tinged tawny, margin pale yellow  or ochraceous, with or without scales at disc; coniferous or deciduous woods
+94,0 $ Cap pale to bright yellow, disc sometimes tinged tawny or butt, it smooth except sometimes for  small scales on disc from veil; gills creamy-white or grey-blue at first; scales on stem often rather  thin, yellowish or yellow-tawny; typically under birch $ crocolitus (76)
+94,0 $ Cap ochraceous to orange-yellow, sometimes with olivaceous tinge, with distinct reddish-brown  innate fibrils, margin yellow or sL olivaceous; gills never bluish; scales on stem 'thick, woolly, ochraceous  or olivaceous; conifers or mixed woods * $ subtriumphans (75)
+95,0 $ Smell of new-mown hay when cut; cap and stem often with olive tints; flesh white; spores 8-10½ /4½-  5½ µm  * $ cephalixus (78)
+95,96 $ Smell unpleasant often strong, rank or foetid; cap and stem without olive tints; flesh white or pale yellow-  brown; spoils 9-12/5½-6 µm 
+96,0 $ Cap ochraceous, yellow or butt with paler margin, smooth or with small darker adpressed scales at  disc; stem base with scattered yellowish or butt scales at least when young; flesh white, some-times  yellowish under the cuticle; smell rank; spores ± amygdaliform 10-12/5½-6 µm ; decid. or mixed woods  often under beech $ olidus(77)
+96,0 $ Cap reddish-brown with pale yellowish-brown margin which is fibrillose at first ; stem with creamochraceous  floccose scales at first; flesh pale yellowish-brown, white at first in stem; smell foetid;  spores elliptic, 9-11/5½-6 µm m,; under conifers or in Sphagnum; (cap up to 125mm; stem 70-110/15-23  mm. (up to 35 mm. below) * ($validus Favre)
+97,98 $ Smell strong, unpleasant, rank; cap red-brown with conspicuous white silky marginal zone; spores  elliptic-amygdaliform to sublimoniform I2-14/7-8 µm  (under beech, esp. on chalk) albomarginatus (80)  97. Smell none, or faint pleasant ; cap or spores otherwise
+98,0 $ Stem equal or attenuated downwards, hard and rigid white, white-floccose at first, then silky striate  below ± thick per-sistent, floccose cortinal ring-zone; (cap yellowish or ochraceous with darker disc;  flesh white; spores elliptic-amygdaliform, 8-10/4-4-½  µm ) $ turmalis (83)
+98,99 $ Stem with ± persistent white or whitish floccose scales below rather thin often fugacious cortinal  zone, equal to clavate or fusiform-bulbous; (spores often larger)
+99,0 $ Spores subglobose or broadly ovate, 8-9/6½ -8 µm ; cap ± bright yellow at least in part; (stem robust,  clavate or fusiform-bulbous ; flesh white, ± ochraceous in base of stem). $ saginus (82)
+99,100 $ Spores elliptic-pruniform to ± limoniform, larger or smaller; if cap yellow, not so bright
+100,0 $ Spores elliptic-fusiform to ±limoniform, 7-9(10) /3½-5 µm ; (cap 50-90 mm., ochraceous or yellowish  with darker often reddish- qj brown disc, silky-hoary; stem 60-70/12-15 mm., equal or sl. thicker or  thinner at base, hard and firm, with some whitish later ochraceous-buff zones below; flesh white; coniferous  and deciduous woods) * ($subclaricolor Moser)
+100,101 $ Spores larger, elliptic-pruniform to sublimoniform 10-15/6-8 µm 
+101,0 $ Spores elliptic-pruniform, 10-14/7-8 µm ; cap small to medium, pale buff to reddish-brown with  darker disc; stem ± equal, f. firm at first $ fraudulosus (81)
+101,0 $ Spores amygdaliform to sublimoniform, 11-15/6-8 µm ; cap medium to large, yellowish, ochraceous or  pale reddish; stem more robust, clavate or ventricose, sometimes attenuated at base, hard and firm $ claricolor (79)
+102,0 $ Cap pure white then creamy or sl. yellowish at disc; smell strong of meal; spores small, elliptic-oval,  6-7/3½-4 µm  $ lustratus (86)
+102,103 $ Cap never so pale in colour; smell none or not of meal; spores mostly more than 7 µm  long
+103,0$ Spores very small, elliptic-oval, 4-5/3-4 µm  (cap 30-70 mm., tawny yellow, redder at disc, with paler  sl. white pruinose margin; gills whitish clay then pale milky-coffee to ochraceous; stem 30-60/7-15  mm., ± clavate, white or whitish ; flesh whitish ; under conifers) ($microspermus Lange)
+103,104 $ Spores more than 7 µm  long
+104,0 $ Spores subgloblose 7-9/5-7 µm ; (cap 20-50 mm. pale ochraceous-buff or tan, margin often sl. streaky;  gills whitish then clay-cinnamon often with uneven edge; stem 35-70/5-8 mm- (7-14 mm. below), ±  clavate, white discolouring yellowish from base up, apex occ. with vague bluish tinge ; flesh white  sometimes yellowish in places; deciduous (more rarely coniferous) woods (C. (Dermo.) $ tabularis Fr.)
+104,105 $ Spores elliptic fusiform 7-10/3-4 µm ; (see notes on sebaceus)
+104,106 $ Spores elliptic, amygdaliform or ± limoniform, broader, 8-11/4½-6½ µm 
+105,0 $ Cap pale ochraceous or sl. yellowish to almost brick-red, ± conspicuously innato-fibrillose; stem  equal or thicker at base (marginately bulbous in var. marginatus Bres.), white at first, sometimes with  fugacious violaceous patches of veil at base; flesh pure white; in coniferous woods; (cap 50-100 mm.;  stem 50-90/10-15(30) mm.; gills white then pale ochraceous to clay-buff) * ($roseo-limbatus Secr.)
+105,0 $ Cap ochraceous-yellow or buff, white silky hoary or sl. innato-fibrillose ;stem attenuated upwards with  ± clavate (rarely attenuated) base, white, discolouring yellowish from base up, without patches of veil;  flesh whitish to ochraceous or buff; coniferous and deciduous woods $ sebaceus (84)
+106,0 $ Cap ochraceous to reddish brown, smooth or with yellowish patches of veil margin sometimes ±  fibrillose; stem firm, ± equal or sl. Ventricose or bulbous, pallid or buff with paler apex; flesh white,  sometimes pallid or watery in centre of cap; smell none or fain rank; (spores amygdaliform, 9-10/5-  6 µm ) * $ crassus (85)
+106,107 $ . Cap ochraceous or buff often with darker disc and yellower margin either white silky hoary or with  whitish adpressed fragments of veil or smooth, sometimes innately fibrillose; stem soon rather soft  with variable normally ± marginate sometimes immarginate bulb white soon yellowish or tinged rusty;  flesh white soon yellowish at least in stem ; smell faint or strong of apples, acid or honey 35
+107,108 $ Cap bluish or violaceous at least in part or when young
+107,111 $ Cap whitish, yellowish, tawny or brown
+
+erreur src 108 non appelé  : 108 au lieu de 103 en 107
+
+108,0 $ Very large and robust; cap 75-200 mm., chestnut or chocolate with grey- or darker-violaceous  margin, often with thick whitish patches of veil at first, later paler with ± sulcate margin; gills whitish  or pale clay, sometimes tinged lilac or violaceous at first; spores ± limoniform, 13-18/8-10 µm  . $ praestans (90)
+108,109 $ Cap rarely so large, never with whitish patches of veil or sulcate margin; gills bluish-grey-clay to  deep violet at first; spores smaller, ± amygdaliform, 9-12/5-7 µm 
+109,0 $ Cap pale lilac or blue-violaceous, disc soon ± buff or reddish-brown, soon dry and shiny ; flesh firm at  first but soon soft, + NH4OH slowly pale yellowish (occ. slowly deeper yellowish) ; smell faint, pleasant  or sl. rank when old $ largus (93)
+109,110 $ Cap at first either entirely violet, or date brown to sepia with violet margin, soon dry, smooth or  strongly innato-fibrillose; flesh esp. of stem persistently hard and firm, + NH4OH deep chrome or golden  yellow; smell often strong, rank
+110,0 $ Often robust; cap rarely entirely violet at first, usually date-brown or sepia with violet margin, ±  smooth; in coniferous woods especially in hilly countr $ variicolor (91)
+110,0 $ Less robust, cap often entirely violet at first, discolouring to dirty buff or date:brown with violaceous  or bluish margin, often finally entirely livid brown, innately fibrillose often strongly so, in deciduous  or coniferous woods, esp. in low-lying country $ nemorensis (92)
+111,0 $ Stem with ± persistent yellowish or yellow-tawny scales forming con-spicuous ring-like zones below  cortinal zone; ( see § 94) $ crocolitus (76)
+111,112 $ Stem without coloured scales forming ring-like zones
+112,0 $ Cap straw-yellowish or pale buff then yellowish-clay to pale milky coffee; spores ± amygdaliform,  10-14/6-7/ µm ; (mature gills rusty cinnamon to almost chocolate; stem blue-violaceous soon whitish and  discoloured yellowish from base up, with variable bulb, rounded to almost clavate) $ cyanopus(48)
+112,113 $ ochraceous to rusty-tawny or orange-brown, rarely so pale, if so, spores different
+113,0 $ Spores subglobose, 8-9/-7 µm  cap predominantly yellow; stem whitish or discoloured ochraceous at base  with lilac or bluish apex $ decolorans(95)
+113,114 $ Spores ± amygdaliform or elongate elliptic; cap predominantly ochraceous to rusty-tawny, not yellow  except in part
+114,0 $ Spores elongate elliptic or subfusiform, 13-15/6- µm  (cap ochraceous to tawny-yellow; stem lilac  then ochraceous with bluish apex) $ Reideri(96)
+114,115 $ Spores ± amygdaliform, not more than 12 µm  long
+115,0 $ Spores 7-10/4-6 µm ; flesh bluish-grey in periphery of stem; cap pale ochraceous-buff sometimes with  reddish-brown disc; (stem rather slender, equal to sl. clavate, whitish to ochraceous buff with bluish or  greyish apex) $ decoloratus (97)
+115,116 $ Spores to 12/6-7 µm ; flesh without blue tints; cap darker and often brighter in colour
+116,0 $ Stem clavate or with rounded bulb, often attenuated upwards, pure white, discolouring pale yellowish,  rarely pale bluish at apex; cap yellow-ochre to rusty-tawny, disc sometimes darker  and margin yellower $ varius (94)
+116,0 $ Stem ± equal with inconspicuous marginate to almost non-existent bulb, often flattened at base,  yellowish or ochraceous with whitish or violaceous apex; cap orange- to rusty-brown with paler ochraceous  or yellowish margin $ pansa (47)
+117,118 $ Young gills sulphur or lemon.yellow; taste mild or bitter; spores ±amygdaliform, 12-15/6½-8 µm 
+117,120 $ Young gills pale to sooty-olive; taste bitter; spores subglobose, broadly ovate or elliptic pruniform,  7-12/5-7 µm 
+118,0 $ Taste bitter; smell strong, disagreeable, of gas-tar (like Tricholoma sulphureum); (cap ± coppery red  with yellowish to olive margin) $ russeus (100)
+118,119 $ Taste mild; smell either strong, aromatic, of marjoram, or faint, of raw apples
+119,0 $ Smell strong, aromatic, of marjoram; flesh sulphur yellow; cap ochraceous-buff to golden-yellow,  disc sometimes tinged rusty, margin more lemon-yellow $ percomis (98)
+119,0 $ Smell faint of raw apples; flesh pale sulphur-yellow, darker under cap cuticle and at base of stem; cap  reddish-copper or chestnut with greenish-yellow or orange margin . * $ Nanceiensis (99)
+120,0 $ Spores elliptic pruniform, 10-12/5-7 µm ; (cap 40-50 mm., olive-bistre with paler margin; gills pale  olive then olive-bistre; stem with yellow base; flesh violaceous then reddish; damp conifer woods or in  Sphagnum) * ($olivascens (Batsch) Fr. sensu Bataille)
+120,121 $ Spores subglobose or broadly ovate, 7-10/5-7 µm 
+121,0 $ Facial and marginal cystidia present; cap pale straw-yellow then bright yellow-buff or tinged tawny,  finally tawny-buff; gills, flesh and stem pale olive at first, gradually discolouring ± rusty; in damp woods  or in Sphagnum esp. on high ground $ subtortus (102)
+121,0 $ No facial or marginal cystidia present; cap chestnut or olive-brown, sometimes tinged greenish or violaceous;  gills sooty-olive to dark olive-rusty then umber; flesh and stem whitish, sometimes tinged greyish,  ochraceous or olivaceous, rarely violaceous; in deciduous woods esp. beech, also in coniferous  woods . $ infractus (101)
+
+
+cs2,0$
+rem$ P27Key 1. Key to the Species of Sericeocybe, Cortinarius and Dermocybe,(If possible find out the following data about your collection before using the key - spore size and shape from spore-print, colour of young gills and cap and subsequent colour changes, presence or absence of second veil (best seen in young specimens), habitat.)
+*
+µm
+
+(If possible find out the following data about your collection before using the key - spore size and
+shape from spore-print, colour of young gills and cap and subsequent colour changes, presence
+or absence of second veil (best seen in young specimens), habitat.)
+
+1,2 $ Bluish or violaceous tints present in some part at least when young $$s"Species with blue or violaceous tints"
+
+1,27 $ Bluish or violaceous tints absent even when young (suillus, opimus s. Ricken and urbicus s. Lange  may show a very vague bluish tinge in stem-apex or gills when quite young) 
+
+Species with blue or violaceous tints
+2,0 $ Almost unicolorous dark-violaceous or blackish-violet discolouring blackish-brown with sl.  violaceous tinge (flesh sl. paler in part and gills becoming rusty-bay or purplish umber);  cap entirely velvety-scaly; spores large, ± amygdaliform, 11-15/7-9 µm ; facial and marginal  ± lageniform or fusiform-cylindric cystidia present $ violaceus (131)
+2,3 $ Not so; (if ± unicolorous blue-violaceous, spores smaller and facial and marginal cystidia  absent)
+3,4 $ Lower part of stem and often also cap with distinct red, reddish-brown, sepia or dark-brown scales  on a paler background; blue-violaceous tints confined to young gills and sometimes also stemapex
+3,6 $ Not so
+4,0 $ Scales on cap and lower part of stem crowded, ± erect, pointed, sepia or dark-brown; (gills  and stem-apex blue-violaceous at first; spores broadly elliptic, 6½-8½/5-6 µm ; deciduous  woods, esp. birch) $ pholideus (140)
+4,5 $ Scales on lower part of stem and/or cap brighter coloured or more scattered, scarlet-red,  reddish or reddish-brown
+5,0 $ Lower part of stem whitish with scattered reddish or reddish-brown adpressed fibrillose scales; cap  sometimes also with similar scales on a pinkish-clay-white or reddish-buff background; spores  6-8(9)/5-6½(7) µm  subglobose or broadly ovate; gills and stem-apex grey-violaceous at first;  woods, esp. heathy birch and pine. $ spilomeus (129)
+5,0 $ Lower part of stem straw-coloured with ± longitudinal scarlet-red fibrils; cap lacerate, with broad  scarlet-red fibrillose scales on a pinkish-ochraceous background; spores 10-14/6½ µm , oblong sec  Henry; violaceous tints confined to young gills; flesh white or whitish, cream coloured in stem;  mixed woods, esp. conif.; (cap 30-70 mm.; stem ± clavate, 7-10 mm. in diam.)  * ($pavonius Fr.)
+6,7 $ Smell strong, penetrating, unpleasant, sickly sweet, of goats, burnt-horn, acetylene or sweat;  (under conifers, esp. pine)
+6,9 $ Smell none or different (if unpleasant, weak or different)
+7,8 $ Gills lilac or blue-violaceous at first as well as cap and stem; flesh blue- violaceous or whitish,  sometimes pallid or rusty-yellowish in part; smell of goats, burnt horn or sweat
+7,0 $ Blue colours confined to stem and sometimes cap margin at first; gills yellow-ochraceous at first  then ± rusty; flesh pallid-yellowish in cap, deeper ochraceous or rusty in stem; smell sickly  sweet or of acetylene $ traganus (112)
+8,0 $ Flesh whitish or blue-violaceous often deeper at stem-apex then pallid or dirty-yellowish,  finally ± unicolorous ochraceous-yellowish; cap and stem becoming rusty-ochraceous  or tawny-buff at least in part; smell of goats or burnt horn; spores ± amygdaliform,  9-    11/5-6 µm  $ hircinus (111)
+8,0 $ Flesh lilac or blue-violaceous becoming whitish or cream-colour in the stem; cap and stem  lilac or blue-violaceous, only becoming sl. pallid or brownish in places; smell penetrating  of sweat or raw potato; spores elliptic-oblong, 11/5½ µm  sec Henry; (cap 50-70 mm.;  stem ± clavate, 60-80/15 or more mm., woolly peronate at first)  * ($camphoratus(FR.) Fr. S. Henry non Ricken)
+9,0 $ Flesh slowly turning rose-red, wine red wine-red or reddish-violaceous when cut or bruised (after  30 sees, or more); cap, gills and stem grey-violaceous or prussian blue at first; cap ± viscid at  first; spores ± amygdaliform, 8-10/5-6 µm ) $ cyanites (109)
+9,10 $ Flesh not changing colour markedly when cut or bruised
+10,11 $ Cap and stem silvery-whitish or pale bluish-white sometimes disclourig pale ochraceous  or pallid with age, never deeper violaceous except at stem-apex (but gills and flesh may  be so); stem clavate-bulbous, 7-25 mm. at base; spores elliptic or amvgdaliform, 7½-  10.5-6 µm 
+10,13 $ Cap and stem deeper blue-violaceous or differently coloured from the first; stem clavate bulbous  or not
+11,0 $ Gills not blue-violaceous at first, whitish then clay; pale bluish tints confined to young cap  (whitish-lilac); spores ± amygdaliform, 8-9/5 µm  $ argentatus (114)
+11,0 ,n$see § 82 (see also urbicus s. Lange, § 82)
+11,12 $ Gills pale or deep blue-violaceous at first; spores elliptic (7½)8-10/5-6 µm 
+12,0 $ Stem peronate with pale bluish-white or lilac veil, forming ± persistent and well-marked  ring-zone; cap, stem and gills ± unicolorous pale blue-violaceous or bluish-white at first  (but deeper blue-violaceous at stem-apex); generally more robust (cap 30-90 mm., stem  12-25 mm. at base) $ alboviolaceus (103)
+12,0 $ Stem without second veil, white silky-smooth below cortinal zone, surface sometimes sl.  broken up when old; cap and stem at first silvery-white or with soon fugacious faint  blue-violaceous tinge but stem-apex deeper blue-violaceous, gills relatively deep  blue-violaceous at first but soon becoming paler; generally less robust (cap 30-55 mm.,  stem 7-18 mm. at base) $ kanffmannianus (104)
+12,0 $ with spores elliptic or sl. amygdaliform, 7½-9(10)/4½-  5½ µm , found under conifers) $(See also malachius (105), § 26,
+13,0 $ Vague bluish tints confined to young gills and stem-apex; cap pale ochraceous or tan, minutely  tomentose-scaly; stem whitish, short and stout, ± pointed at base, very hard and firm; spores  subglobose, 8-9/7-8 µm  $ opimus (119)
+13,14 $ If bluish tints confined to young gills and stem-apex, stem not short, stout and hard, cap not  tomentose-scaly or colours and spores otherwise
+14,0 $ Cap fuliginous tinged with lilac becoming white-silky-hoary, not turning reddish; gills  rather persistently amethyst-blue then clay-bluish, not turning purplish; stem without  distinct second veil; spores elliptic-oblong, about 10 µm  long sec Quélet, Henry $ myrtillinus (130)
+14,15 $ Not so; (note - azureus (126), may be similarly coloured but has cap becoming pallid-buff  or tinged tawny and subglobose spores)
+15,16 $ Spores subglobose or broadly ovate; cap either soon ± plane, orbicular and rather thin-fleshed  or broadly umbonate or cvx.-truncate and thick-fleshed at disc, with marked silky-atomate  sheen when dry (sometimes sl. viscid when fresh and moist) - section Anomali (see also Key  2)
+15,22 $ Spores ± amygdaliform, elliptic or broadly elliptic; ckp less commonly plane and regular,  generally thick-fleshed, with or without strong silky sheen when dry
+16,17 $ Second veil ± conspicuous, forming ± distinct ring-zone and patches below cortinal zone  (examine young specimens!)
+16,20 $ Second veil absent, stem white silky or silky-striate below cortinal zone, surface occ. sl.  broken up when old
+17,0 $ Cap soon reddish-brown, date-brown or umber, when young sometimes with blue-violaceous  margin, generally becoming expanded ± orbicular, often thin-fleshed; habit rather slender;  stem 4-12 mm. in diam.; spores 6½-8½/5-7 µm  (stem blue-violaceous above, whitish or pale  dirty yellowish below then entirely whitish or dirty yellowish; decid. and conif. woods $ lepidopus (127)
+17,18 $ Cap differently coloured, generally broadly umbonate or habit more robust, stem 10-30 mm. in  diam
+18,19 $ Habit generally robust; stem usually distinctly clavate-bulbous, 10-30 mm. at base; cap with  strong silky atomate sheen sometimes becoming wrinkled or rugulose, either soon bright  tawny-buff or rusty or ochraceous or yellowish-buff often with paler or bluish margin at  first
+18,0 $ Habit less robust; stem ± equal or with clavate or sl. thickened base, 5-13 mm. at base; cap  minutely adpressed grey-silky at first then with strong atomate sheen, ashy-sepia or  pallid-grey gradually discolouring dirty ochraceous, olive-grey or pallid-buff, disc sometimes  with sl. reddish-brown tinge, finally ± unicolorous pallid-tan or rusty-buff $ anomalus (122)
+19,0 $ Cap soon rather bright tawny-buff or rusty-tawny to rusty-brown, at first clay-brownish, sometimes with sl. blue-violaceous tinge; smell none or faint; especially under conifers caninus (124)  19. Cap pale bluish-clay or ochraceous-buff, then ochraceous or yellowish-buff, not becoming bright  tawny or rusty, often with paler bluish or whitish ochraceous margin at first, sometimes  becoming wrinkled or rugulose; smell fairly strong when cut, sickly-aromatic; deciduous woods,  especially birch (not yet recorded from under conifers) $ azureovelatus (123)
+20,0 $ Almost entirely blue-violaceous at first; cap and stem discolouring pallid or yellowish with  age, disc of cap sometimes tinged tawny when old; gills and stem rather persistently  blue-violaceous; gills finally violaceous-umber $ azureus (126)
+20,21 $ Cap not blue-violaceous when young; blue tints in gills, stem and flesh more fugacious; gills  becoming clay-buff or rusty-buff
+21,0 $ Rather fugacious blue-violaceous tints restricted to young gills; stem and flesh white at first,  discolouring sl. ochraceous or pallid; cap soon date-brown, bright tawny-buff or rusty-tawny  except sometimes at margin, ochraceous, tawny-buff or pale date-brownish at first, with atomate  silky sheen; spores 8-11(12)/6-8(8½) µm  (Fig. 10); often growing in grass, especially on basic  soils $ epsomiensis (125)
+21,0 $ Stem-apex and flesh blue-violaceous at first as well as gills, discolouring yellowish; cap brownish  then rusty-buff with white silky sheen, often with wrinkled disc; spores 8-10/7-8 µm  sec Ricken;  under beech (cap 40-50 mm.; stem 50-60/8-15 mm. sec Ricken) $ diabolicus Fr.
+22,0 $ Spores ± amygdaliform, 13-15/7-8 µm ; (cap violaceous soon becoming reddish-brown from  disc out; stem robust and firm, 15-40 mm. in diam. at base; small peculiar, specific sec  Ricken; under conifers) $ muricinus (108)
+22,23 $ Spores broadly elliptic to ± amygdaliform, smaller, mostly less than 7 µm  in diam.
+23,0 $ Spores 6-8(8½)/3-4 µm , elliptic sl. amygdaliform (Fig. 3); (cap hoary ochraceous-buff then reddishbuff,  minutely tomentose; stem with peronate lavender-blue veil (often also present at cap  margin); mixed woods) $ pearsonii (107)
+23,24 $ Spores larger, 4½ µm  or more in diam.
+24,25 $ Smell ± radishy at least when cut; gills soon dark violaceous-date-brown or umber; cap lilac  or blue-violaceous then pale reddish-or dull date-brown to grey-brown, margin often  remaining lilac for some time
+24,26 $ Smell none or faint, pleasant; gills blue-violaceous or pale violaceous-umber then dull  rusty-clay or watery-buff to rusty-buff; cap blue-violaceous or lilac-greyish then clay-buff,  pallid or dirty ochraceous sometimes with tawny or reddish-brown tinge at disc when  old
+25,0 $ Spores broadly elliptic, 7-8½/5-6 µm  (Fig. 8); cap 24-60 mm., matt, often innately fibrillose or  fibrillose-tomentose in places esp. near margin; stem ± clavate, with pale lilac or lavender-blue  peronate veil forming ± well-marked ring-zone and patches below this $ simulatus (110)
+25,0 $ Spores elliptic-amygdaliform, 10-12/6-7½ µm ; cap 40-80 mm., silky then punctate-scaly; stem  clavate-bulbous, 50-70/15-25 mm., scaly peronate; (deciduous and coniferous woods)  * ($violaceo-cinereus (Pers. ex Fr.) Fr. s. Ricken)
+26,0 $ Spores elliptic or sl. amygdaliform; 7½-10 µm ½-5½ µm  (Fig.1); cap blue-violaceous at first,  gradually discoluoring clay-buff or dirty ochraceous, sometimes tawny-ochre when old,  esp. at disc; under conifers, esp. pine $ malachius (105)
+26,0 $ Spores elliptic-amygdaliform with rather large apiculus, 9½-12/5½-6½ µm  (Fig 2) cap pale  lilac-greyish or silvery-violaceous then pallid or clay-buff sometimes with reddishbrown  tinge at disc; conif. and decid. woods $ malachioides (106)
+27,28 $ Lower part of stem and/or cap with distinct red or darker ± erect fibrillose scales or conspicuous  blackish fibrils on a paler background$$s"Species with distinct darker scales at least on lower part of stem"
+27,41 $ Lower part of stem and cap without distinct darker scales (some species may have ± concolorous  or sl. darker tomentose scales on the cap, or the lower part of the stem may be somewhat  fibrillose)
+
+Species with distinct darker scales at least on lower part of stem
+28,0 $ Scales pinkish- or scarlet-red on yellowish background, entirely covering cap and lower  part of stem; flesh at least at stem-base turning deep yellow when cut or bruised, cuticle  also bruising; yellowish or deep red; (gills pale ochraceous or cream then milky-coffee to  rusty-buff; spores subglobose 6-7½ µm ½-5½ µm ) $ bolaris (136) 
+28,0 ,n$ See also rubicundulus, 137, which has a similar flesh colour-change but different spores and  cap and stem without red scales; see §50)
+28,29 $ If scales reddish characters otherwise; flesh and cuticle without striking colour change when  cut or bruised
+29,0 $ Cap and lower part of stem with conspicuous hispid or net-like blackish fibrils on an olivegreenish  or yellowish background; cap 30-66 mm.; stem ± clavate-bulbous; spores small,  5½-6/3½-4 µm ; smell of radish and habit of Armillaria mellea sec Fries * ($phrygianus (Fr.) Fr.)
+29,30 $ Not so
+30,0 $ Cap and lower part of stem with distinctly reflexed golden or rusty-tawny scales on a  chrome- or ochraceous-yellow back. ground; cap ± persistently conical of acutely umbonate;  smell pleasant, like Pholiota squarrosa (general appearance also. like a small solitary  Ph. Squarrosa); stem f. robust, 3½-10 mm. in diam.; spores 8-10/5-6 µm , elliptic or sl.  Amygdaliform; inbeech woods $ humicolus (141)
+30,31 $ Not so; if in beech woods, spores smaller or characters different
+31,32 $ Spores subglobose to broadly elliptic, 6-9/5-7 µm ; habit slender or robust
+31,38 $ Spores elliptic or elliptic-amygdaliform, either narrower (3½-5 µm  in diam.) or longer (9-  11(12) µm ); habit slender or rather slender
+32,33 $ Scales or background ± olivaceous
+32,34 $ Scales or background never olivaceous
+33,0 $ Habit robust, cap 40-105 mm., stem clavate-bulbous, up to 36 mm. at base; scales small,  velvety-pilose, ± olive-brown on olivaceous or yellowish background; gills olive-yellow then  brownish-olive, finally rusty-buff; spores 7½ -9/5-7 µm ; decid. woods, esp. beech and oak $ cotoneus (138)
+33,0 $ Habit more slender, cap 25-36 mm., stem ± clavate or attenuated upwards, 50/6-8 mm.; scales  dark-brown or blackish on a brownish-yellow-olive background, disc of cap almost woolly tomentose;  gills yellowish-cinnamon; spores 6½ -8/5-5 µm ; decid. woods *(melanotus Kalchb.)  (Note: the rather slender $ venetus (139)
+ 33,0 ,n$might run down here; see § 55.)
+34,35 $ Spores subglobose or broadly ovate, 6-9/5-7 µm  (as Fig. 6)
+34,37 $ Spores, broadly elliptic, 6½ -9/5-6 µm  (as Fig. 8)
+35,0 $ Habit robust, cap 32-100 mm., stem clavate-bulbous, 20-35 mm. at base; in beech  woods; scales golden or tawny-rusty on yellow or golden background; (spores  7-9/5 ½ -7 $ tofaceus (133)
+35,36 $ Habit more slender, cap 18-55(70) mm., stem ± equal or sl. clavatc, 5-10 mm. in diam.;  conif. or decid. woods; scales red, reddish-brown or dark brown
+36,0 $ Scales red or reddish-brown on pinkish-clay-white or pallid-reddish background;  gills and stem-apex grey-violaceous at first soon pallid-ochraceous; cap cvx.  then plane with sl. incurved margin, not or sl. umbonate; spores 6-8(9)/5-6½  (7) µm  $ spilomeus (129)
+36,0 $ Scales dark-brown on pale ochraceous or yellowish-buff background; buff with  paler yellowish margin, reddish-brown when touched; never blue-violaceous  in any part; cap becoming exp. umbonate; spores 6-7/5 µm  sec Ricken; (cap  40-55 mm.; stem 8-9 mm. in diam.; conif. woods) * ($penicillatus s. Ricken)
+37,0 $ Scales erect, pointed, sepia or dark-brown on ochraceous-buff or pale date-brown  background; habit f. robust, cap 30-100 mm., stem ± clavate, 8-25 mm. at base;  gills and stem-apex blue-violaceous at first then watery- or pallid-buff; spores  7-9/5-6 µm ; decid. woods, esp. birch $ pholideus (140)
+37,0 $ Scales tawny-buff, rusty-ochraceous or golden on yellowish or golden background;  habit rather slender, cap 20-50 mm., stem ± equal, 2-5(8) mm. in diam.; never  blue-violaceous in any part; spores 6½-9/5-6 µm ; conif. and decid. woods . $ psammocephalus (143)
+38,0 $ Spores 9-11(12)/5-6(7) µm , elliptic-pruniform; (scales rusty-brown on ochraceousolive  or reddish-brown background; cap 15-32 mm., margin rather persistently  olivaceous-yellowish; stem ± equal, 25-45/3-6 mm.; under firs) *($arenatus (Pers.) Fr. s. Konrad)
+38,39 $ Spores smaller, either 5-7/3½-5 µm  or 7-10 µm -5 µm 
+39,40 $ . Spores 5-7 µm  long; gills either yellowish then buff or bright chrome-yellow then tawny-  ochre 
+39,0 $ Spores 7-10 µm  long; gills clay- or pallid-ochraceous then date-brown-rusty or rustyumber;  (scales rusty-umber to dark-brown on pale tawny-ochraceous or rusty-buff  background; stem ± equal, 2-6 mm. in diam.; spores 7-10/4-5 µm , elliptic sl.  amygdaliform; woods, esp. oak and pine) $ penicillatus s. Rea (142)
+40,0 $ Gills bright chrome-yellow soon tawny-ochre; scales rusty-orange on yellow or  ochre background; stem ± equal, 2-3 mm. in diam.; spores 5-6 ½ (7)/3½-4½ µm ,  elliptic or sl. amygdaliform (Fig. 14); cap 15-30 mm; coniferous woods $ croceofolius (152)
+40,0 $ Gills yellowish then buff; scales dark-brown on pale brownish or sl. olivaceous  background; stem often thickened downwards, about 6-10 mm. in diam.; spores  6-7/4-5 µm , obliquely elliptic; cap 30-70 mm.; decid. and conif. Woods *($arenatus (Pers.) Fr. s. Moser
+41,42 $ In some part bright yellow, orange, tawny, brick-red, scarlet-red, blood-red, deep  chestnut, purplish-bay, or olive $$s"Species in some part bright coloured (yellow, olive, red, tawny or deep chestnut)"
+41,73 $ Colours whitish, ochraceous or dingy, never olivaceous (cap sometimes rusty-buff or  tinged tawny when old) 
+
+
+Species in some part bright coloured (yellow, olive, red, tawny or deep chestnut)
+42,43 $ Gills bright-red, blood-red, purplish-blood-red, purplish-chestnut or deep  chestnut from the start
+42,49 $ Gills yellowish, ochraceous, tawny or olive at first sometimes becoming  golden-red, tawny-red or tawny-red-rusty, never bright red, blood-red or purplish-  red (bruising blood-red sometimes in rubicundulus, 137)
+43,44 $ Cap and stem some shade of red, purplish-red or chestnut from the start
+43,48 $ Cap and stem yellowish, olivaceous or ochraceous. often becoming red-brown or  chestnut, stem sometimes pink or reddish tomentose at base
+44,45 $ Cortina bright red, scarlet or blood-red; almost unicolorous red lead, scarlet red or  blood-red from the first, scarcely changing colour with age, except for gills acquiring  a ± rusty tinge
+44,46 $ Cortina ochraceous or brownish, or if reddish, fungus not ± unicolourous, bright or  blood red; either ± unicolorous deep chestnut or dark blood-red-brown or purplishlilac  tints present at least in flesh
+45,0 $ Entirely red-lead or bright scarlet-red; cortina bright red; smell and taste radishy; spores  7½-9½/4½-5 µm , elliptic or sl. amygdaliform; in beech woods $ cinnabarinus (145)
+45,0 $ Almost unicolorous deep carmine- or dark blood-red; cortina blood-red; smell and taste not  distinctly radishy; spores 7-9/4-5 µm , elliptic; in deciduous or coniferous woods $ sanguineus (144)
+46,0 $ Almost unicolorous deep chestnut or dark blood-red-brown; flesh concolorous or  paler; spores 7½ -9½ /5-6 µm , broadly elliptic or sl. amygdaliform $ anthracinus (146)
+46,47 $ Colours different or not unicolorous; purplish-blood-red, purplish-bay or purplishlilac  at least in part; flesh lilac or purplish-blood-red; spores narrower (4-5½/4 µm  in  diam.), elliptic
+47,0 $ Gills intense purplish-blood-red or purplish-chestnut from the start; cap purplish-blood-red  or purplish-bay, sometimes at first with paler carmine or rose-tinted margin, fibrillose tomentose  or radially innately fibrillose to ± smooth, rather shiny or sl. paler when dry;  stem purplish-blood-red, apex often with ochraceous or golden-brown tinge from cortina;  spores 6½-8(8½)/4-4½(5) µm  $ puniceus (147)
+47,0 $ Gills ochraceous-buff then reddish-rusty or tawny-reddish-umber; cap purplish-date-brown  or purplish-bay, drying paler ochraceous or tawny at least at disc in larger specimens, ±  smooth, often shiny when dry; stem concolorous or paler, often with orange-red or  vermilion fibrils from veil; cap 10-35 mm.; stem 35-70/1½-5 mm.; in woods, esp. birch  spores 7½ -9½ /4½ -5 µm  †C. (Hydro.) $purpureo-badius Karsten  
+47,0 ,n$ included here since it sometimes appears ± unicolorous purplish-date-brown, resembling  puniceus, 147, at first sight, but in reality a hygrophanous species to be described in Part  III )
+48,0 $ Stem ochraceous or yellowish with tawny-ochre or red fibrils below cortinal zone,  base yellowish or pinkish tomentose; flesh dirty ochraceous or buff, reddish under  cap cuticle and at stem-apex, sometimes also at stem-base; spores 6-8/3½-  4(4½) µm , elliptic-amygdaliform or -fusiform (Fig. 5); cap ochre-buff soon red-brown  or chestnut $ phoeniceus (148)
+48,0 $ Stem yellow-ochraceous or olivaceous, often with brownish or olivaceous fibrils but  without red fibrils, base yellowish, pinkish or carmine-red tomentose; flesh ochraceous  or olive-buff, without red tints except sometimes at very base of stem; spores  6-8(8½)/4-4½ (5) µm , elliptic (Fig. 4); cap ochraceous- or olive-buff, sometimes  tawny-date-brown at disc when old $ semisanguineus (149)
+49,50 $ Either flesh at least in part and stem-base turning chrome-yellow or rusty-orange when cut  or bruised or cap and stem-cuticle bruising blood-red then brownish
+49,51 $ Not so
+50,0 $ Flesh at least in part and stem-base turning chrome-yellow or rusty-orange when cut  or bruised; cap and gills yellow or ochraceous, bruising ± blood-red or orange-rusty;  spores 6½ -8/3½-4½ µm , elliptic-fusiform $ rubicundulus (137)
+50,0 $ Cap and stem cuticle pale ochraceous turning immediately blood-red when touched  then fading to brownish; flesh whitish, unchangeable; gills clay then pale buff;  spores 9-10/5 µm , elliptic $ fuscotinctus (118)
+51,52 $ spores subglobose or broadly ovate, 6-9/5-7 µm  or 9-12½/6½-8 µm ; stem rather thick and robust;  (cap minutely tomentose-scaly or becoming smooth, bright tawny-yellow, tawnyorange,  olivaceous or greenish)
+51,56 $ spores elliptic or amygdaliform, sizes various; stem slender or robust
+52,53 $ Cap and stem ± tawny-yellow, tawny orange or rusty-tawny
+52,55 $ Cap and stem ± olivaceous or greenish; (spores 6-9/5-7 µm )
+53,54 $ Spores 6 ½ -9/5 ½ -7 µm .; gills yellowish at first then tinged tawny or rusty, finally  tawny-ochre or rusty-tawny
+53,0 $ Spores 9-12/6½-8½ µm ; gills ochraceous at first, soon tawny-ochre or deep tawny-redrusty;  (cap acutely or obtusely umbonatc, tawny-reddish or tawny-date-brown with  paler ochre, tawny-buff or tawny-ochre margin; stem ochre then tawny or rusty in  places, with yellowish ring-zone or patches of veil; basidia very large, 40-50/12-15 µm ;  in coniferous woods) $ speciosissimus (135)
+54,0 $ Flesh pale golden-yellow, deep rusty-tawny in lower part of stem, often ± tawny  under cap cuticle; under conifers, esp. pine; cap minutely yellow-fibrillose-scaly or  innately-fibrillose, often becoming ± smooth $ callisteus (132)
+54,0 $ Flesh white or whitish in cap, ± ochraceous or tawny in lower part of stem,  sometimes yellowish under cap cuticle; under beech; cap ± entirely distinctly tomentose-  scaly, less commonly ± smooth in places $ tofaceus (133)
+55,0 $ Robust: cap 40-105 mm., stem ± clavate-bulbous, up to 36 mm. in bulb; cap pilose- or  tomentose-scaly at first, yellowish-olive to tawny-olive-brown or dark olive-brown $ cotoneus (138)
+55,0 $ Rather slender: cap 20-60 mm., stem ± equal or sl. thickened at base, 5-12 mm. in diam.;  cap minutely tomentoso-floccose-scaly at first, greenish-yellow or greenish-olive  then ochraceous- or brownish-olive $ venetus (139)
+56,57 $ Stem peronate-scaly with ± distinct fibrillose scales, similar scales also on cap;  colours predominantly golden-yellow or tawny-buff never olivaceous
+56,58 $ Stem not scaly, ± silky-striate or fibrillose, sometimes with a few darker adpressed  fibrils in lower part; cap from ± smooth to minutely tomentose-scaly; colours  various
+57,0 $ Stem gen. rather thick, 3 ½ -10 mm. in diam.; cap conical or exp.-conical, f. thick-fleshed  at least at disc, entirely covered with reflexed fibrillose rusty-tawny or golden scales;  spores 8-10/5-6 µm , elliptic or sl. amygdaliform; under beech $ humicolus (141)
+57,0 $ Stem gen. rather slender, 2-5(8) mm. in diam.; cap cvx. then exp. often umbonate,  sometimes acutely so, rather thin-fleshed, entirely minutely fibrillose-scurfy-scaly,  scales tawny-buff, yellowish -ochraceous or golden; spores 7-9/5-6 µm , broadly  elliptic; conif. and decid. woods $ psammocephalus (143)
+58,59 $ Cap bright tawny-ochre, orange-tawny or tawny-brick to tawny-umber; stem  yellowish or concolorous, 3-12 mm. in diam., often rather thick for size of cap; cap  15-70 mm.; spores 8-12/5-6½(7) µm , elliptic or sl. amygdaliform $ 59  (See also pseudocrassus, 121, with facial and marginal cystidia, robust habit and  spores 7-9/4-5 µm , § 78.)
+58,60 $ Cap colour otherwise or if tawny, stem slender, 2-4 mm. in diam. or flesh deep olive  at least when moist or spores smaller; section Cinnamomei (see also Key 3) 
+58,60,n $If with purplish-red flesh see C. (Hydro.) purpureo-badius, § 47, specimens of which with ochre or rusty-ochre gills may run down here.)
+59,0 $ Gills ochre-yellow soon bright tawny or tawny-orange, finally rusty-tawny; cap minutely  tomentose-scaly, ± obtusely umbonate; flesh yellowish or tawny-yellowish, sometimes  reddish-brown in cap; decid. woods $ orellanus (134)
+59,0 $ Gills bright lemon-yellow then ochre- or -tawny-buff sometimes with sl. olivaceous tinge;  cap minutely yellowish silky-fibrillose or innately fibrillose with silky sheen when dry;  acutely or obtusely umbonate or ± plane; flesh lemon-yellow, bright lemon or sulphur  in centre of stem, often tinged tawny or pallid-reddish in cap; always in swampy woods  or wet places, gen. under willow or alder $ uliginosus (155)
+60,61 $ Gills ± bright chrome or lemon-yellow then golden-red, tawny, ochre or rusty
+60,70 $ Gills lemon-yellow or olive-yellow hardly changing colour or becoming ochraceous-  olive or olive-rusty
+61,0 $ Gills soon vermillion-yellow to tawny-orange or bright golden-red; cap soon olive-red brown  to bright red-brown, coppery or date-brown, margin often remaining ± olivaceous,  at least middle portion of stem becoming flushed with similar colours; spores  6½-8(8½)/4-4½(5) µm , elliptic or sl. amygdaliform (Fig. 15); sometimes f. robust: stem  2-10 mm. in diam., cap 12-90 mm.; (often under conifers) $ cinnamomeus (150)
+61,62 $ Gills never bright golden-red, if ± ½ µm  tawny-orange then cap less deeply coloured and  stem more slender or spores different
+62,63 $ Gills soon becoming ± tawny or tawny-orange then rusty or rusty-tawny
+62,68 $ Gills becoming yellow-ochre, ochre-buff, rusty-ochre or olive-rusty, (amber when  old in cinnamomeo-badius)
+63,0 $ Cap and stem ± bright tawny-orange or tawny-brick to tawny-bay; spores 8-11/5-6 µm ,  elliptic or sl. amygdaliform; in swampy woods or wet places gen. under willow or alder $ uliginosus (155)
+63,64 $ If cap and stem so coloured, spores or habitat different
+64,0 $ Cap dirty ochraceous-buff or sepia-buff, ± adpressedly brown fibrillose; spores  9-12/5-6 µm , elliptic or elliptic-oblong to sl. amygdaliform (Fig. 11) $ aureofolius (153)
+64,65 $ Cap brighter coloured, yellow, ochraceous or tawny in part at least when young,  often silky-fibrillose or ± smooth; spores rarely more than 9 µm  long
+65,0 $ Flesh deep olive when moist esp. in cap, paler yellowish-olive in places when dry; stem  often tinged olivaceous; (cap olive-brown to ± rusty-tawny-with golden-yellow margin,  ± silky-tomentose; spores (5½)6-8/4-5 µm  elliptic or sl. amygdaliform; under conifers) $ malicorius (151)
+65,66 $ flesh lemon- or golden-yellow, not or hardly olive whether moist or dry; when dry; stem  not tinged olivaceous
+66,0 $ Rather small; cap 15-30 mm., stem 2-4 mm. in diam.; cap and stem soon ±  unicolorous yellow-ochre or rusty-orange; cap minutely fibrillose or fibrillosescaly;  spores small, 5-6½(7)/3½-4½ µm , elliptic or elliptic-amygdaliform (Fig. 14);  under conifers $ croceofolius (152)
+66,67 $ If small species, cap characters different and spores larger
+67,0 $ Slender to f. robust: cap 12-90 mm., stem 2-10 mm. in diam.; cap obtusely or acutely  umbonate or ± plane, rarely conical, innately-fibrillose or ± smooth; cap and stem soon  deep red-brown, coppery or date-brown at least in part; gills becoming bright golden red;  spores 6½-8(8½)/4-4½(5)  µm , elliptic or sl. amygdaliform (Fig. 15) $ cinnamomeus (150)
+67,0 $ Always rather small: cap 10-40 mm.; stem 2-5 mm. in diam.; cap ± persistently conical,  tawny-brick or tawny-buff often with darker disc and yellower margin, ± smooth; gills  becoming tawny-ochre or rusty-buff; spores 7½-9i(10)/4½-5½(6) µm , elliptic (Fig. 17) $ croceoconus (154)
+68,0 $ Spores 6-7½ (8)/4-4½(5) µm ; (gills lemon- or deep-yellow then ochre-yellow; cap  20-45 mm., ochre-yellow, ochre-buff or olive-ochre, sometimes with reddishbrown  disc; stem 30-80/3-6 mm., lemon to chrome-yellow then golden, not or  hardly discolouring but with some darker fibrils; flesh lemon- or golden-yellow,  sometimes sl. olive-tinted in stem; sec Kauffmann on moist rich ground in decid.  or cf. woods, very decayed wood or in Sphagnum) *($cinnamomeus sensu Kauffmann)  
+68,0 ,n$ included here provisionally since I believe I have seen this in damp birch woods  in Scotland, but I prefer to gather more material before recording and renaming it)
+68,69 $ Spores longer (6½)7-10/(4)4½-5½(6) µm .
+69,0 $ Gills ± persistently lemon- or olive-yellow, hardly changing colour, ochraceous-olive or  olive-rusty only when quite old; cap lemon-, olive-yellow or olive-buff, sometimes  becoming reddish-brown at disc; spores 7 ½-10(11)/4½-5½(6) µm , elliptic or sl. amygdaliform  (Fig. 12) $ cinnamomeo-lutescens (157)
+69,0 $ Gills chrome- or golden-yellow then ochre-buff to rusty-ochre or amber; cap ochraceous buff  with lemon-yellow margin, soon reddish-bay, chestnut or chestnut-umber often with  yellowish margin; spores 6½-9/(4) 4½-5 µm  elliptic or sl. amygdaliform (Fig. 16) $ cinnamomeo-badius (156)
+70,0 $ Cap, gills and stem ± persistently lemon- or olive-yellow; gills hardly changing  colour until quite old, cap and stem sometimes becoming reddish-brown in part;  spores 7½-10 (11)/4½-5½(6) µm , elliptic or sl. amygdaliform (Fig. 12) $ cinnamomeo-lutescens (157)
+70,71 $ Cap either olive-buff or olive-brown or chestnut to bay with olive-yellow or  olive-brown margin; spores shorter or sl. narrower
+71,0 $ Rather robust species: cap 25-100 mm., stem 5-15 mm. in diam.; smell strong, radishy,  taste ± bitter; typically under beech (spores 6½-8/4½-5½ µm  elliptic) $ raphanoides (160)
+71,72 $ More slender species: cap 17-40 mm., stem 3-6(10) mm. in diam.; smell none or faintly  radishy, taste none or sl. bitterish; under beech or in $ Sphagnum or other damp moss
+72,0 $ Typically in Sphagnum, occ. in other damp moss (Aulacomnium); spores 7½-  9½/(4¼)4½-5 µm  elliptic-amygdaliform (Fig. 13); cap gen. soon ± plane $ sphagneti (158)
+72,0 $ Under beech, esp. on chalk soil; spores (5½)6-8/(3¾)4-5 µm , elliptic; cap gen. ± umbonate $ olivaceofuscus (159)  
+72,0 ,n$See also C. schaefferi Bres., alternative key to 'Cinnamomei' § 8)Whitish, ochraceous or dingy coloured species
+73,0 $ Predominantly grey, esp. cap, stem, cortina and veil; (cap 30-70 mm., sometimes with sl.  brownish-red tinge, minutely grey-silky-floccose; stem, firm, ± equal, 50-100/10-15  mm., greyish-fibrillose and occ. vaguely violaceous above, brownish below; gills cream  colour then pale ochraceous-rusty; spores 10-11/6½ µm  ovoid sec Henry) *($sordescens Henry)
+73,74 $ Not so
+74,75 $ Spores subglobose or broadly ovate
+74,76 $ Spores elliptic, oblong, amygdaliform or limoniform
+75,0 $ Stem 25-50/20-50 mm., very hard and firm, short and stout with ± pointed base, white or  whitish; cap dry, minutely tomentose, pale ochraceous to rusty-buff; spores 8-9/6½-8 µm  $ opimus (119)
+75,0 $ Stem 35-120/4-9 mm. (6-15 mm. at base), gen. elongate, ± equal with thickened or sl.  clavate base, white or whitish discolouring pallid or pale yellowish; cap smooth with  silky-atomate sheen when dry, sl. viscid when fresh and moist, pallid-whitish to dirty  ochraceous-buff or pallid-ochraceous; spores 7-9(9½)/5½-6½(7) µm  (Fig. 7) $ tabularis (128)
+76,0 $ Spores limoniform, 12-13/7½-8½ µm ; (flesh hard; stem ventricose with rooting often  incurved base; smell like Tricholoma album) $ argutus (120)
+76,77 $ Spores smaller, not limonform
+77,0 $ Stem 25-40/25-40 mm., short and stout ± attenuated at base, dirty white, white cortinate at  apex; cap rimose-rivulose, pale ochraceous; gills clay-rusty; flesh whitish; spores 7-9/5-  6 µm , oblong sec Bres. * ($opimus s. Bres.,  µm Hry.)
+77,78 $ Not so
+78,0 $ Marginal cystidia ± lageniform 44-64/5-7 µm , facial cystidia ± cylindric or awlshaped,  40-60/6-8 µm ; spores 7-9/4-5 µm , elliptic-amygdaliform; cap innately fibrillose  or tomentose esp. near margin, ochraceous to rusty, often with paler  patches, thick-fleshed; stem robust and firm, 15-35 mm. at base, pale dirty  ochraceous $ pseudocrassus (121)
+78,79 $ Marginal and facial cystidia absent; if spores about 7-9/4-5 µm , cap silky-smooth or  habit less robust
+79,0 $ Cap soon ochraceous-buff or pale rusty-pallid, sometimes with tawny or date-brown  tinge at disc or when young with vague violaceous flush; flesh whitish then pale sepia  or reddish-brown, bruising pallid or darker sepia in base of stem; spores 9-11/5½-  6½ µm , elliptic or sl. amygdaliform; under beech $ suillus (116)
+79,80 $ Cap without rusty or tawny tinge; flesh white or whitish sometimes discolouring sl.;  spores and habitats various (Note: old discoloured malachius, 105, might run down  here, but grows under pines and has spores 7½-10/4½-5½ µm ).
+80,81 $ Taste mild; stem often clavate-bulbous, more robust, 10-45 mm. in diam. at base,  but 7-10 mm. in diam in decumbens and urbicus s. Lange
+80,0 $ Taste bitter; stem ± ventricose with pointed base, 5-12 mm. in diam.; (spores  7-8/4-5 µm , elliptic-pruniform; cap whitish then pale pallid with ± ochraceous  disc; stem white silky) C. (Myx.) $ ochroleucus, 20 (see Part I, p. 26)
+81,82 $ Cap at first lilac-whitish soon clay-whitish or silvery-shiny; spores not more than 9 µm   long
+81,83 $ Cap white or silvery-white then pallid or pale milky-coffee or pale yellowish; spores 9 µm   or more long
+82,0 $ Habit robust: cap 40-100 mm., stem 80-100/10-20 mm.; gills whitish or clay then  watery- or rusty-buff; spores 8-9/5 µm , ± amygdaliform; disc of cap or base of  stem discolouring sl. ochraceous or yellowish; veil forming ± fugacious ring zone  or patches; decid. and conif. woods . $ argentatus (114)
+82,0 $ Habit less robust: cap 40-50 mm., stem 40-50/10 mm.; gills watery-ferruginous  with sl. purplish tinge sec Lange; spores 7½-8/4½ µm , elliptic; cap and stem  clay-whitish or watery-greyish with sl. pallid tinge; veil peronate, forming torn  ring-zone; under willows * ($urbicus (Fr.) Fr. s. Lange)
+83,0 $ Flesh whitish soon ± unicolorous pale milky-coffee or dirty brownish; smell f. strong  when cut, fruity; cap and stem silvery white then pallid or pale milky-coffee; white  veil forming adpressed tomentose patches on lower part of stem; (spores 9-10½/5-6 µm ,  elliptic) $ hillieri (115)
+83,84 $ Flesh white or whitish, only discolouring sl. with age; smell none or sl. fungussy; cap  and stem white or clay-whitish then pale buff or sl. yellowish; silky white veil forming  ± fugacious ring-zone or absent
+84,0 $ Habit robust: cap 40-100 mm., stem 13-45 mm. at base, often stoutly clavate bulbous;  spores 9-10½/6-6½ µm , elliptic or sl. amygdaliform; cap with strong  silvery-shiny silky sheen; under beech $ turgidus (113)
+84,0 $ Habit less robust: cap 30-60 mm., stem 7-10 mm. in diam., ± clavate-bulbous or  irregular; spores 9-12/5-6 µm , elliptic; cap silky-shiny and smooth but innately  fibrillose; in grassy places esp. under conifers $ decumbens (117)
+
+
+cs3,0$
+
+rem$ Key 2. Alternative key to section Anomali(including two other species which might be thought to belong to this section).
+
+1,0 $ Lower part of stem and sometimes also cap with distinct reddish or reddish-brown  scales on a paler background $ spilomeus (129)
+1,2 $ Not so
+2,0 $ Gills rather persistently amethyst-blue then clay-bluish not turning purplish; cap  fuliginous tinged with lilac, becoming white-silky-noary, not turning reddish;  stem without distinct second veil; (spores elliptic-oblong, 10 µm  long sec Quélet $ myrtillinus (130)
+2,3 $ If gills rather persistently bluish, cap becoming tinged reddish, tawny-buff or umber  or distinct second veil present
+3,0 $ Spores broadly elliptic, 7-8½/5-6 µm , Fig. 8); smell ± radishy at least when cut; stem with lilac  or blue-violaceous peronate veil in addition to cortina; (gills becoming dark violaceousdate-  brown or umber) $ simulatus (110)
+3,4 $ Spores subglobose or broadly ovate, 6½-9/5-7 µm , (Figs. 6,7) or 8-11/6-8 µm , (Figs. 9, 10);  smell not radishy; second veil, if present, yellowish or pallid.
+4,0 $ Entirely without blue-violaceous tints even when young (except very occ. a vague  bluish tinge at stem-apex); cap and stem pallid-whitish or pale buff then pallid- or  yellowish-ochraceous; (gills whitish or clay at first; stem with sparse second veil;  spores 7-9 (9½)/5½- 6½ (7) µm  (Fig. 7) $ tabularis (128)
+4,5 $ At least gills blue- or grey-violaceous at first, often also stem-apex; cap dirty  ochraceous or pallid-grey to ochraceous-buff, date-brown or umber, sometimes  changing to tawny-buff or rusty
+5,0 $ Spores 6½-8½/5-7 µm ; gills, stem-apex and sometimes cap margin blue-violaceous at first;  stem with adpressed sometimes fugacious yellowish or dirty patches of veil below  cortinal zone, sl. clavate, 4-12 mm. in diam.; cap soon reddish-brown, date-brown or  umber, generally becoming expanded ± orbicular, less commonly umbonate often thin fleshed $ lepidopus (127)
+5,6 $ Spores 8-11/6-8 µm ; from entirely blue-violaceous to blue-violaceous only in young gills;  stem with or without second veil; cap colours various, often broadly umbonate and ±  thick-fleshed at least at disc
+6,7 $ Cap soon bright tawny-buff or rusty-tawny to rusty-brown, clay-brownish or ochraceous-  buff to date-brownish at first (sometimes tinged sl. blue-violaceous in $ caninus)
+6,8 $ Cap blue-violaceous, pallid-grey, ochraceous-buff or brownish, if becoming rusty or  tawny-tinged only so when quite old
+7,0 $ Stem clavate, often robust (10-20 mm. in diam.) with pallid or dirty-brownish veil forming  ± distinct ring-zone below cortinal zone; flesh blue-violaceous in stem-apex at first; in  woods, especially under conifers $ caninus (124)
+7,0 $ Stem ± equal or clavate, generally slender (3-10 mm. in diam., up to 18 mm. at base),  without second veil, white silky striate below cortinal zone; flesh and stem white at first;  in grass, especially on basic soils, probably also in woods $ epsomiensis (125)
+8,0 $ Habit generally robust; stem usually distinctly clavate-bulbous, 10-30 mm. at base;  smell fairly strong when cut, sickly sweet; (cap ochraceous or yellowish-buff with  or without bluish or paler margin, sometimes becoming wrinkled or rugulose; in  woods especially birch, probably also conifers) $ azureovelatus (123)
+8,9 $ Habit relatively slender; stem clavate or not, 5-15 mm. at base; smell none or faintly  sickly-sweet .
+9,0 $ Almost entirely blue-violaceous at first; gills rather persistently blue-violaceous, finally  violaceous-umber; (cap and stem discolouring pallid or yellowish with age, disc of cap  sometimes tinged tawny when old) $ azureus (126)
+9,10 $ Blue-violaceous colours restricted to gills, stem-apex and flesh when young; gills becoming  clay-buff or milky-coffee then rusty-buff.
+10,0 $ Stem with distinct yellowish second veil; cap pallid-grey or ashy-sepia discolouring  dirty ochraceous, olive-grey or pallid-buff, finally pallid-tan or rusty-buff, grey silky  at first with strong silky-atomate sheen; in woods $ anomalus (122)
+10,0 $ Stem without second veil, smooth below cortinal zone; cap brownish then rusty-buff  with white silky sheen, disc often becoming wrinkled; in beech woods  *(C. $ diabolicus Fr.)
+
+
+CS4,0$
+
+Key 3. Alternative key to section Cinnamomei, based primarily on spore size from spore print
+
+1,0 $ Spores 5-6½(7)/3½-4 µm , elliptic or elliptic-amygdaliform (Fig. 14); often rather small:  cap 15-30 mm., stem 25-80/2-4 mm.; gills bright chrome-yellow then orange-ochraceous;  flesh chrome- or golden-yellow; cap yellow-ochre or rusty-orange, minutely  fibrillose or fibrillose-scaly; under conifers $ croceofolius (152)
+1,2 $ Spores rarely less than 6½ µm  long, if so flesh olivaceous or other characters different
+2,3 $ Spores 8-12/5-6 µm , elliptic or elliptic-amygdaliform, sometimes sl. oblong
+2,6 $ Spores smaller; not more than 7½-10/4½-5½ µm (6) µm 
+3,0 $ Cap bright tawny-orange or tawny-brick to tawny-bay; gills lemon-yellow then ochre or  tawny-buff; stem f. robust, 3-9 mm. in diam., concolorous with cap, yellow at apex;  in wet woods, esp. under willow and alder $ uliginosus (155)
+3,4 $ Not so
+4,0 $ Cap dirty ochraceous-buff or sepia-buff then tawny-date-brown, ± adpressedly  brown fibrillose; gills chrome then tawny-ochre; conif. Woods $ aureifolius (153)
+4,5 $ Cap yellow, tawny-brick or dark brown, minutely fibrillose to ± smooth; gills  lemon-olive- or chrome-yellow at first; decid. and conif. woods
+5,0 $ Cap, gills and stem ± unicolorous lemon- or olive-yellow at first; cap variously shaped,  discolouring olive-buff or reddish-brown from disc out; gills rather persistently olive-  yellow $ cinnamomeo-lutescens (157)
+5,0 $ Cap tawny-brick or tawny-buff, often with dark-brown disc and yellower margin; gills  pale or golden-yellow then tawny-ochre or rusty-buff; stem yellow, discolouring  tawny-ochre from base up; cap rather persistently conical or acutely umbonate $ croceoconus (154)
+6,7 $ Spores 5½-8/4-5 µm , elliptic to ± amygdaliform
+6,0 $ Spores 6½-8/4½-5½ µm , elliptic; (robust: cap 25-100 mm., stem 5-15 mm., in diam.;  predominantly olivaceous species typically in beech woods; smell strong radishy,  taste ± bitter; gills olive then olive- to rusty-buff) $ raphanoides (160)
+6,11 $ Spores 7½-10/(4)4½-5½(6) µm , elliptic to ± amygdaliform
+7,0 $ Gills soon vermilion-yellow, tawny-orange or bright golden-red; cap and stem becoming  bright red-brown or coppery; flesh lemon- or chrome-yellow; (sometimes f. robust:  cap 12-90 mm., stem 2-10 mm. in diam.; spores 6½-8(8½)/4-4½(5) µm , elliptic or sl.  amygdaliform (fig. 15)) $ cinnamomeus (150)
+7,8 $ If gills with tawny tinge, flesh deep olive when moist, yellowish-olive when dry
+8,0 $ Gills olive-yellow then olive-ochre or olive-rusty; (cap soon chestnut or bay-brown  with bright olive-yellow margin; flesh olive-yellow to olive-greenish; spores  (5½)6-8/(3¾)4-5 µm , elliptic; under beech esp. on basic soils $ olivaceofuscus (159)
+8,0 ,n$ (See also the duller-coloured C. schaefferi, Bres. (Bres 648); cap 20-30 mm.,  'fusco-olivaceus dein brunneus, sericeo-puberulus, glabrescens; lamellae  olivaceo-cinnamomeae; stipes 35-50/4-6 mm., cylindraceus, pallido olivaceus,  velum albidum mox evanidum; caro pallide olivacea, inodora et insapora;  sporae obovato-amygdaliformes, 6½-8/4-5 µm ; in silvis'.)
+8,9 $ Gills chrome- or golden-yellow then ochre-buff or bright tawny-yellow to rusty golden,  not distinctly olive
+9,10 $ Spores 5½-7½(8)/4-5/½ µm ; flesh lemon, chrome-yellow or deep olive (at least in moist  cap)
+9,0 $ Spores (6½) 7-10/(4)4-½-5 µm ; flesh lemon or chrome-yellow, sometimes becoming pallid  olivaceous in stem, not deep olive in cap when moist; (stem ± slender, 2-5 mm. in diam.;  gills chrome-yellow then ochre-buff or rusty-ochre; cap ochre-buff with lemon-yellow  margin soon reddish-bay or chestnut from disc out; decid. or conif. woods, sometimes  in pastures (esp. on basic soils) $ cinnamomeo-badius (156)
+10,0 $ Flesh deep olive when moist, esp. in cap, yellowish-olive when dry; stem often  rather robust, 5-12 mm. in diam.; gills rusty- or bright tawny-yellow then dark  rusty-golden; cap olive-brown or rusty-tawny with golden-yellow margin; under  conifers; spores (5½)6-8/4-5 µm , elliptic or sl. amygdaliform $ malicorius (151)
+10,0 $ Flesh lemon or golden-yellow, sometimes sl. olive-tinted in stem; stem 3-6 mm. in  diam.; gills lemon- or deep yellow then ochre-yellow; cap 20-45 mm., ochre yellow,  ochre-buff or olive-ochre sometimes with reddish-brown disc; on moist  rich ground, very decayed wood or in Sphagnum', spores 6-7½(8)/4-4½(5) µm ,  elliptic; (see main key § 68) . *( $ cinnamomeus sensu Kauffmann)
+11,12 $ Gills lemon, chrome or olive-yellow then rusty-ochre or olive-rusty; cap olive- or lemonyellow  to reddish-brown or chestnut-umber, ± fibrillose-tomentose at least around  margin, rarely conical but sometimes acutely umbonate
+11,0 $ Gills pale or golden-yellow then tawny-ochre or rusty-buff; cap tawny-brick or tawnybuff  with darker disc and yellower margin, almost smooth, often ± conical; (stem yellow  with paler apex then tawny-ochre or rusty from base up; spores 7½-9½(10)/4½-5½(6) µm ,  elliptic (Fig. 17) $ croceoconus (154)
+12,0 $ Spores elliptic-amygdaliform (fig. 13), 7½-9½/(4¼)4½-5 µm ; ± uni-colorous olive yellow  or olive-buff at first; flesh olive-yellow to olive, often darker olive in  stem-cuticle; stem with olive-brown fibrils, base olive-yellow or pale olive tomentose;  in Sphagnum, occ. in other damp moss (Aulacomnium) $ sphagneti (158)
+12,13 $ Spores elliptic or sl. amygdaloid (Figs. 12, 16), (6½)7-10(1 i)/4-5½(6) µm ; colours  much less olive, esp. of flesh; on soil in coniferous or deciduous woods, or in  grass, occ. in Sphagnum (esp. $ cinnamomeo-badius) 13
+13,0 $ Gills rather persistently lemon- or olive-yellow, finally yellow- or olive-rusty; ± unicolorous  lemon- or olive-yellow at first, changing colour only when relatively old or not at  all, but stem sometimes discolouring sl. rusty from base up; flesh ± persistently lemonyellow,  not distinctly olive; spores 7-10(11)/4½5½(6) µm  $ cinnamomeo-lutescens (157)
+13,0 $ Gills chrome or golden then ochre-buff to rusty-ochre; cap and stem soon reddish-brown  to chestnut-umber at least in part, stem sometimes becoming pallid olivaceous below;  flesh bright chrome- or lemon-yellow, sometimes becoming sl. olivaceous over gills or  in stem cuticle; spores (6½)7-10/(4)4½-5 µm  $ cinnamomeo-badius (156)
+
+
+

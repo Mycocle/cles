@@ -1,0 +1,72 @@
+titre$ species of Marasmiellus in Europe Antonin-Noordeloos 2010
+com$adapt G Fannechere 28 sept 2019
+rem$ Clé utilisable via le logiciel Mycoclé : http://mycolim.free.fr/DOC_SML/mycoCLE/Charg_Mycocle.htm
+
+1,0$source :Vladimir Antonin & Machiel E. Noordeloos ///A monograph of marasmioid and collybioid fungi in Europe VERLAG 2010
+1,0$Ne pas diffuser !
+1,0$
+µm 
+
+
+1,2 $Basidiocarps cupulate then pleurotoid or flabelliform with reduced, excentric or latéral stipe
+1,6 $Basidiocarps omphalioid, marasmoid or collybioid with central, well devcloped stipe; never entirely white when mature
+2,3 $(1) Spores oblong to subcylindrical
+2,4 $Spores (sub)globose
+3,0 $Stipe absent or rudimentary présent in young specimens only; spores 5.5-7.0 x 2.5-3.0 µm ; chcilocystidia lageniform $M. lateralis
+3,0 $Stipe present, lateral; spores 9.0-11.5 x 5.0-7.0 |am; cheilocystidia coralloid $M. spec.
+4,0 $(2) Pileus cream-brown to grey . $M phaeomarasmioides
+4,5 $Pileus white
+5,0 $(4) Basidiocarps minute; pileus up to 2 mm broad; lamellae well-developed, vein-like to absent; stipe 0.5-1.2 x 0.1 mm $M. margaritifer
+5,0 $Basidiocarps larger; pileus 3-12 mm broad; lamellae well-developed; stipe up to 8 x 0.8-1.5 mm $Gymnopus sphaerosporus
+6,7 $(1) Pileus pink, lilaceous-pink, flesh-coloured, brownish ochraceous or pinkish brown, sometimes with yellow or violaceous tinge
+6,11 $Pileus white, cream-colour, ochraceous, yellow, grey, red-brown or brown, sometimes with rather dark blackish-brown center .
+7,0 $(6 ) Basidiocarps omphalioid with distinct umbilicate to funnel-shaped, pink or pinkish-lilacinous pileus, lamellae deeply decurrent, purcly pink . $(Contumyces roselllus, .treated in vol. 1 as Marasmiellus, sec Antonin & NOORDELOOS 2004).
+7,8 $Basidiocarps collybioid or marasmoid with convex to applanatc, sometimes slightly papillatc or slightly depressed, flesh-coloured, brownish ochraceous to pinkish brown pileus; lamellae adnate to subdecurrent .
+8,0 $(7) Spores small, 5.0-6.0 (7.0) x 3.25-4.0 (4.5) µm . $Gymnopus inexpectatus
+8,9 $Spores larger, 7.5-14.5 µm long 
+9,0 $x(8) Spores 7.5-12.5 µm long; cheilocystidia clavate to broadly clavate $M carneopallidus
+9,10 $Spores 10-14.5 µm long; cheilocystidia, if present, subcylindrical-coralloid .
+10,0 $(9) Cheilocystidia abundant; spores 5-7.5 µm broad, E = 1.6-2.2; on Gramineae $M. mesosporus
+10,11 $* Cheilocystida absent or very sparse; spores 4-6 µm broad, E = 1.8-3.0; on Juncus maritimus
+11,12 $(6 ) Spores longer than 11.0 µm .
+11,21 $Spores shorter than 11.0 µm .
+12,0 $(11) Pileus usually purcly white, 10-20 mm broad; pileipellis without Rameales-structure $M. candidus
+12,13 $Pileus sordid white, cream-colored, pale brown, grey or grey-brown; pileipellis with distinct Rameales-structure or with distinctly diverticulate hyphae
+13,14 $(12) Stipc white, cream-colored or ochraceous above, often brown below, blackish brown at very base only
+13,16 $Stipe, apart from apex, greenish-brown, blackish brown or black in lower part 
+14,0 $x(13) Basidia 2-spored, spores 10.0-16.5 x 3.0-5.0 µm , E = 2.5-3.7 (4.5), Q = 3.4, cylindrical- clavate to sublacrimoid; on twigs and wooden remuants of deciduous trees $M. ramealis var. macrosporus
+14,15 $Basidia 4-spored; on vegetal or on woody d e b r is 
+15,0 $Spores (9) 10-12 (13.5) x 5-6.5 (7.5) µm , E = 2.0-2.6, Q = 2.4, ellipsoid; on vegetal debris $M. maasgeesterani
+15,0 $Spores 9.0-12.5 x 3.5-4.5 µm , E = 2.5-3.3, Q = 2.8, narrowly ellipsoid to cylindrical; on litter and twigs of Quercus ilex . $M. corsicus
+16,17 $(13) Pilcitrama not gelatinized; on roots and basai parts of grasses in grassland or on wood of deciduous trees 
+16,20 $Pilcitrama gelatinized; on leaf-sheaths of Juncaceae or Gramineae in relative sait habitats (salt-marshes; primary Coastal dunes) .
+17,0 $(16) Pileus greyish ail over with darker greyish brown to blackish centre, later on more greyish ochraceous, adpressedly fibrillose to virgate . $M. virgatocutis
+17,18 $Pileus whitish or yellow, more or less smooth, never strongly fibrillose to virgate .
+18,0 $(17) Basidia 2- or 1-spored; pileipcllis with diverticulate hyphae, but not a truc Rameales structure . $M. brevisporus
+18,19 $Basidia 4-spored; pileipcllis a truc Raineales-structure .
+19,0 $xx(18) Lamellar cdgc fertile or with very scattered, inconspicuous cheilocystidia . $M. tricolor var. tricolor
+19,0 $Lamellar edge with abundant cheilocystidia $M. tricolor var. graminis
+20,0 $( 16) Spores ( 11.5) 12.5-17.5 x 5.5-8.0 |Lim . $M. trabutii var. trabutii
+20,0 $Spores 15-24.5 x 4.5-7.0 µm $M. trabutii var. longisporus
+21,22 $(11) Pilcipellis with distinctly developed Rameales-structure 
+21,26 $Pileipcllis without or with poorly developed Rameales-structure, but sometimes with diverticulate or nodulose hyphal elements .
+22,23 $(21 ) Cheilocystidia absent, or scattered and inconspicuous .
+22,24 $Cheilocystidia always numerous 
+23,0 $(22) Pileus very dark blackish-grey with greenish tinges at margin when fresh $M. caesioater
+23,0 $Pileus pallid, whitish-cream-coloured $M. tricolor v ar. tricolor (form with small spores)
+24,0 $(22) Basidiocarps minute: pileus up to 4 mm broad, stipe 2-3 x 0.1-0.2 mm; spores elongatc, almost cylindrical, 2.0-3.5 µm w id e . $M. humillimus
+24,25 $Basidiocarps larger, pileus up to 20 mm broad, stipe up to 20 x 1.5 mm; spores never cylindrical, 2.5-4.5 (5.5) or 5.2-6.5 (7) µm wide 
+25,0 $(24) Spores subcylindrical to bean-shaped, 2.5-4.5 (5.5) µm wide; on wood, rarely on herbaccous plants, grasses and sedges $M. ramealis var. ramealis
+25,0 $Spores ellipsoid-fusoid or lacrimiform, 5.2-6.5 (7) µm wide; on twigs of Quercus . $M. virgatocutis var. parvisporus
+26,0 $(21) Pileus and stipe with long, pointed h a i r s $M. omphaliformis
+26,27 $Pileus and stipe without long pointed hairs
+27,0 $(26) Pilcipellis an ixocutis of slightly gelatinized, nodulose hyphae; basidia 2-, 1-, rarely 3- spored; spores 7.0-8.5 x 4.0-5.0 p m $Gymnopus bisporiger
+27,28 $Pileipcllis a dry cutis; basidia 4-, rarely 2-spored, but then spores distinctly larger .
+28,29 $(27) Pileus and stipe brown; lamellae distant, thick, often with thickened edge .
+28,30 $Pileus and stipe differently coloured; lamellae thin with normally thick e d g e .
+29,0 $(28) Cheilocystidia clavate, often incrusted; spores (6.0) 6.5-8.0 (10.5) x 4.5-5.5 (7.0) µm , E = 1 .4 -1 .7 $M. pachycraspedum
+29,0 $Cheilocystidia elavate or cylindrical-capitatc, sometimes septate, with hyaline or yellow, non-incrusted walls; spores 6.0-8.5 x 3.0-4.0 µm , E = 1.7-2.4 $M. pseudoramealis
+30,0 $(28) Pilco- and caulocystidia at least in part lageniform; on leaves of Primula auricula . $M. primulae
+30,31 $Cheilocystidia distinctly lobed with two or more bladder-like apical projections; caulocystidia irregularly cylindrical-flexuous; usually on grasses, sedges, and herbaceous plants 
+31,0 $(30) Pileus white to sordid ochraceous-cream with slightly darker centre when moist, darker pinkish brown or yellow-brown when dry, usually with small papilla; spores (6.5) 7.0- 10.0 x 3.0-4.5 (5.0) µm $M. vaillantii
+31,0 $Pileus pure white, without papilla; spores 6.0-8.2 x 3.0-3.7 µm $M. dealbatus

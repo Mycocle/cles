@@ -1,0 +1,685 @@
+Titre$ T E L A M O N I A - ANDRE DE HAAN & Al. (2013)
+Com$ Cortinarius subg. Telamonia in Vlaanderen, Sterbeckia 32 - Adapté par Paul Bertéa 2-13/12/2013
+REM$LANGUE$Français
+
+1,cs1 $ Spores subglobuleuses à courtement ellipsoïdes, Q = 1,2-1,3, max. 1,4 $$s"clé partielle 1"
+1,2 $ Spores non subglobuleuses, Q > (1,3) 1,4
+
+2,cs2 $ Voile coloré (rouge, violet, jaune, brun, beige ou grisâtre) $$s"clé partielle 2"
+2,3 $ Voile blanc à crème
+
+3,cs3 $ Surface du pied pâle sous le voile (blanchâtre, gris-blanc, beige clair) $$s"clé partielle 3"
+3,4 $ Surface du pied sombre sous le voile ou remarquablement colorée (ocre, orange, brun-orange, brun-rouge à brun foncé)
+
+4,cs4 $ Spores allongées, Q > (1,7) 1,8 $$s"clé partielle 4"
+4,5 $ Spores non allongées, Q < 1,7 (1,8)
+
+5,6 $ Espèces élancées ; pied mince, de diamètre < 5 (7) mm
+5,7 $ Espèces robustes ; pied épais, de diamètre > 7 mm
+
+6,cs5 $ Chapeau de couleur sombre, terne (brun, brun marron à brun-noir) $$s"clé partielle 5"
+6,cs6 $ Chapeau avec des couleurs claires (brun-jaune, brun-ocre, brun-orange ou brun roux) $$s"clé partielle 6"
+
+7,cs7 $ Chapeau de couleur sombre, terne (brun, brun marron à brun-noir) $$s"clé partielle 7"
+7,cs8 $ Chapeau avec des couleurs claires (violet, brun-jaune, brun-ocre, brun-orange ou brun-roux) $$s"clé partielle 8"
+
+
+
+Cs1,0 $ clé partielle 1 : Espèces à spores subglobuleuses à courtement ellipsoïdes (Q = 1,2-1,3, max. 1,4) pb 02-12-2013
+
+1,2 $ Voile rouge, jaune, beige, brun
+1,7 $ Voile blanchâtre
+
+2,0 $ Voile rouge ; chapeau et pied à squames rouges ; chair jaune de chrome au froissement $ C. bolaris
+2,0,N$ Si le voile est blanc mais rougit au froissement, voir C. miraculosus
+2,3 $ Voile jaune, beige, brun ; chair ne jaunissant pas au froissement
+
+3,4 $ Voile beige à brun
+3,6 $ Voile jaune pâle à jaune
+
+4,0 $ Chapeau et pied couverts d'écailles brunes dressées $ C. pholideus
+4,5 $ Chapeau et pied sans écailles dressées
+
+5,0 $ Chair du stipe brune ; odeur raphanoïde ; spores courtement ellipsoïdes, Q = 1,4 $ C. raphanoides
+5,0 $ Chair du stipe blanche ; odeur non raphanoïde ; spores subglobuleuses, Q = 1,2 $ C. ochrophyllus
+
+6,0 $ Spores de 7-8 x 5,5-6,5 µm ; pileipellis avec hyphes dressées $ C. anomalus f. anomalus
+6,0 $ Spores de 5,5-7 x 4,5-5,5 µm ; pileipellis avec hyphes couchées $ C. anomalus f. lepidopus
+
+7,8 $ Spores petites, de 5,5-6,5 x 4-5 µm, longueur moyenne < 6,3 µm
+7,10 $ Spores plus grandes, longueur moyenne > 7 µm (si ± 6,8 µm, voir C. miraculosus)
+
+8,0 $ Chapeau pâle, brunâtre avec des teintes cuivrées ; chair du pied blanche $ C. hoeftii
+8,9 $ Chapeau sombre, brun marron à acajou ; chair du pied brune
+
+9,0 $ Hyphes de la trame nettement incrustées ; pied devenant vite creux $ C. illuminus
+9,0 $ Hyphes de la trame non incrustées ; pied ne se creusant pas $ C. abietinus
+
+10,11 $ Chair du pied blanche dans les jeunes exemplaires (un peu beige dans les exemplaires plus âgés)
+10,15 $ Chair du pied brune dans les jeunes exemplaires
+
+11,0 $ Espèce assez petite, chapeau < 40 mm de diamètre ; voile beige ; longueur moyenne des spores ± 7 µm $ C. ochrophyllus
+11,12 $ Espèces plus grandes, chapeau > 40 mm de diamètre ; voile blanc ; longueur moyenne des spores > 8 µm
+
+12,0 $ Spores courtement ellipsoïdes ; solution de KOH sur la chair : brun-noir $ C. lucorum
+12,13 $ Spores subglobuleuses ; solution de KOH sur la chair : brun à olive
+
+13,0 $ Espèce robuste, diamètre du pied jusqu'à 20 mm (jusqu'à 25 mm à la base) ; chapeau brun-ocre roussâtre ; jeunes lamelles nettement teintées de violet $ C. diabolicus
+13,14 $ Espèces moins robustes, diamètre du pied atteignant 10 (14) mm, base jusqu'à 15 (18) mm ; chapeau brun-beige ; teintes violettes absentes ou faibles sur les jeunes lamelles
+
+14,0 $ Cheilocystides élancées, cylindriques, atteignant 70 µm de longueur ; hyphes du pileipellis fortement dressées ; chapeau et pied (jeune) avec de faibles teintes violettes $ C. tabulons
+14,0 $ Cheilocystides courtes, en ballon, longues de < 30 µm ; hyphes du pileipellis faiblement dressées ; chapeau et pied (jeune) nettement teintés de violet $ C. albocyaneus
+
+15,0 $ Chapeau brun-orange ; pied brun-jaune, avec un anneau bien visible ; odeur de moisi, de terre ; lamelles espacées $ C. hinnuleus
+15,16 $ Chapeau et pied avec d'autres couleurs ; pas d'anneau bien marqué ; pas d'odeur de moisi ; lamelles moins espacées
+
+16,17 $ Hyphes du pileipellis lisses
+16,19 $ Hyphes du pileipellis nettement incrustées
+
+17,0 $ Espèce assez grande, chapeau atteignant 65 mm de diamètre, base du pied atteignant 15 mm de diamètre ; spores de 7-8 x 5-6,5 µm, subglobuleuses, avec une ornementation bien visible ; jeunes lamelles et sommet du pied avec des teintes lilacines $ C. caninus
+17,18 $ Espèce plus petite, chapeau de < 35 mm de diamètre, base du pied < 7 mm de diamètre ; spores de 6,5-7,5 x 4,5-5 µm, courtement ellipsoïdes, presque lisses, une ornementation saillante n'étant observable que sur le sommet de la spore ; pas de teintes lilacines
+
+18,0 $ Voile se colorant souvent de rouge au toucher $ C. miraculosus var. miraculosus
+18,0 $ Voile ne se colorant pas de rouge ; carpophore ressemblant à un Laccaria $ C. miraculosus var. laccarioides
+
+19,0 $ Chapeau avec des squamules dressées (surtout chez les vieux exemplaires et par temps sec) ; hyphes de la trame incrustées ; spores avec une ornementation modérément développée $ C. comptulus
+19,0 $ Chapeau non squamuleux ; partie inférieure du pied avec des teintes roses à lilas ; hyphes de la trame lisses ; spores avec une ornementation forte et anguleuse $ C. vernus var. vernus
+
+
+
+Cs2,0 $ clé partielle 2 Voile coloré (rouge, violet, jaune, brun, beige ou grisâtre) pb 02-12-13
+
+1,2 $ Voile rouge-rose à rouge
+1,7 $ Voile grisâtre, jaune, beige, brun ou violet
+
+2,0 $ Spores boletoïdes, Q > 2,5 $ C. heterosporus
+2,3 $ Spores non boletoïdes, Q < 2
+
+3,4 $ Espèces peu charnues, diamètre du pied < 5 (7) mm
+3,6 $ Espèces plus robustes, diamètre du pied atteignant 10 (15) mm
+
+4,0 $ Chapeau et pied teintés de rouge vineux ; voile nettement rouge ; hyphes de l'hypoderme et de la trame avec des incrustations rouge vineux qui se dissolvent dans une solution de KOH $ C. anthracinus
+4,5 $ Chapeau et pied sans teintes rouge vineux ; voile d'abord blanc (rougissant au toucher) ou un peu rouge-rose ; pas d'hyphes à incrustations rouge vineux dans la trame ou l'hypoderme
+
+5,0 $ Voile blanc, se colorant souvent de rouge au toucher ; spores courtement ellipsoïdes, Q = 1,4, avec une ornementation peu marquée, de fortes verrues seulement au sommet $ C. miraculosus var. miraculosus
+5,0 $ Voile blanc mais avec quelques (faibles) bandes rouge-rose sur le pied ; spores amygdaliformes, Q = 1,55, avec une ornementation bien visible sur toute leur surface $ C. fulvescens
+
+6,0 $ Pied avec des bandes de voile rouge-orange en guirlandes ; pas de feutrage mycélien rose à base du pied ; spores de 9-10,5 x 5,5-6,5 µm $ C. armillatus
+6,0 $ Pied sans bandes de voile rouge-orange ; voile rosissant au froissement ; bas du pied avec une zone de feutrage mycélien rose ; spores de 7,5-9 x 5-6 µm $ C. vernus var. rubescens
+
+7,8 $ Espèces montrant des teintes lilas à violettes sur le chapeau, les lamelles et le pied
+7,9 $ Espèces dépourvues de teintes lilas à violettes sur le chapeau et le pied (parfois avec une faible teinte lilacine sur les lamelles ou le bas du pied)
+
+8,0 $ Espèce robuste et violette, diamètre du chapeau atteignant 60 mm ; voile d'abord violet, puis jaunâtre ; avec une forte odeur de pommes de terre brûlées ; spores de 8-10 x 5-5,5 µm ; bois de conifères $ C. camphoratus
+8,0 $ Petite espèce brun-lilas foncé, diamètre du chapeau < 30 mm ; voile beige pâle ; pas d'odeur notable ; spores de 7-8 x 4,5-5 µm ; dans les bois marécageux $ C. americanus
+
+9,10 $ Voile jaune (tirant parfois sur le brun-orange)
+9,13 $ Voile grisâtre, beige à brun
+
+10,0 $ Spores allongées, Q = 1,9 $ C. aureovelatus
+10,11 $ Spores moins allongées, Q < 1,7
+
+11,0 $ Dans les bois marécageux ; chapeau et pied avec des flocons de voile jaune ; lames avec des teintes lilacines ; spores de 8-10 x 5-6,5 µm, faiblement ornementées $ C. helvelloides
+11,12 $ Pas typique des bois marécageux ; non couvert de flocons de voile jaune ; spore petites, en moyenne < 8,5 x 5,5 µm, avec une ornementation bien marquée
+
+12,0 $ Chapeau et pied brun-orange ; pied avec un anneau bien visible ; avec des teintes lilacines dans les lamelles jeunes et le feutrage mycélien ; spores de 8-9 x 5-6 µm, amygdaliformes à larmiformes ; basides avec un nécropigment brun foncé $ C. helvolus
+12,0 $ Chapeau et pied brun-jaune à brun-rouge ; voile sous forme de zones jaune pâle ; pas de teintes lilacines sur les lamelles et la base du pied ; spores de 7-8,5 x 5-6 µm, ellipsoïdes ; basides avec un nécropigment jaune pâle $ C. saniosus
+
+13,14 $ Q sporal > 1,9
+13,15 $ Q sporal < 1,9
+
+14,0 $ Espèce assez petite, diamètre du pied < 5 mm, diamètre du chapeau < 30 mm ; chapeau brun marron ; hyphes de la trame incrustées $ C. fusisporus f. fusisporus
+14,0 $ Espèce plus robuste, diamètre du pied atteignant 10 mm, diamètre du chapeau atteignant 60 mm ; chapeau brun-rouge à brun pourpre ; hyphes de la trame lisses $ C. fusisporus f. vinosobrunneus
+
+15,0 $ Voile grisâtre ; chapeau brun-gris pâle ; pied avec un anneau membraneux grisâtre et dressé ; avec une odeur douceâtre, sucrée $ C. torvus
+15,16 $ Voile beige à brun ; chapeau avec d'autres couleurs ; pied sans anneau membraneux et dressé ; pas d'odeur douceâtre
+
+16,17 $ Chapeau couvert de squamules brunes à brun-ocre
+16,19 $ Surface du chapeau non squamuleuse
+
+17,0 $ Diamètre du chapeau 30-60 mm ; spores subglobuleuses, Q = 1,35 $ C. pholideus
+17,18 $ Diamètre du chapeau < 30 mm ; spores de forme différente, Q = ± 1,6
+
+18,0 $ Voile sur le chapeau en petites squames pointues, incrustées ; spores de 7,5-8,5 x 4,5-5 µm $ C. psammocephalus
+18,0 $ Voile sur le chapeau en squamules laineuses brunes ; hyphes du pileipellis lisses à finement incrustées ; spores de 6 5-7 5 x 4-4,5 µm $ C. lanatus
+
+19,20 $ Voile beige pâle, espèces petites à moyennes, diamètre du chapeau < 45 mm
+19,21 $ Voile brun-jaunâtre pâle ; espèces plus robustes, diamètre du chapeau atteignant 50-80 mm
+
+20,0 $ Espèce hinnuloïde à chapeau brun-roux ; lamelles très espacées ; spores de 7-8,5 x 4,5-5,5 µm $ C. hinnuloides
+20,0 $ Petite espèce à chapeau brun foncé ; lamelles pas très espacées ; spores de 8,5-10 x 5,5-6 µm $ C. helobius
+
+21,0 $ Odeur insignifiante ; spores moyennement ornementées $ C. valgus
+21,0 $ Odeur raphanoïde ; spores fortement ornementées $ C. raphanoides
+
+
+
+Cs3,0 $ Surface du pied pâle sous le voile (blanchâtre, gris-blanc, beige clair) pb 02-12-2013
+
+1,2 $ Espèces élancées, diamètre du pied < 5 (6) mm
+1,6 $ Espèces plus robustes, diamètre du pied > 5 mm
+
+2,0 $ Spores allongées, Q = 1,85 $ C. fistularis
+2,3 $ Spores moins allongées, Q < 1,75
+
+3,0 $ Longueur moyenne des spores > 8,5 µm ; chapeau humide nettement strié $ C. leucopus
+3,4 $ Longueur moyenne des spores < 8,5 µm ; chapeau non ou très faiblement strié
+
+4,0 $ Chapeau brun noisette, moyennement hygrophane ; hyphes du pileipellis fortement incrustées $ C. biformis
+4,5 $ Chapeau plus sombre, brun marron, très hygrophane ; hyphes du pileipellis lisses à faiblement incrustées
+
+5,0 $ Hyphes du pileipellis dressées, incolores dans une solution de NH3 ; basides avec un nécropigment brun pâle ; espèce élancée, pas d'umbo remarquable ; sur sols acides, sous Pinus $ C. jubarinus
+5,0 $ Hyphes du pileipellis couchées, brun-rose dans une solution de NH3 basides avec un nécropigment très sombre ; petite espèce, avec un umbo pointu bien marqué ; dans les dunes littorales, sous Salix repens $ C. dunensis
+
+6,7 $ Spores allongées, Q = 1,8-1,9, avec une ornementation très faible
+6,8 $ Spores moins allongées, Q < 1,8, normalement ornementées
+
+7,0 $ Spores de 6,5-7,5 x 3,5-4,5 µm, très faiblement ornementées ; odeur fongique à un peu raphanoïde $ C. pearsonii
+7,0 $ Spores un peu plus longues et étroites, de 7-8 x 3,5-4 µm, lisses à très finement ponctuées, (faible odeur d'abord un peu raphanoïde, puis assez agréable (odeur d'Hebeloma sacchariolens) $ C. alborufescens
+
+8,9 $ Base du pied se terminant en pointe
+8,13 $ Base du pied ne se terminant pas en pointe
+
+9,10 $ Longueur moyenne des spores > 8,5 µm
+9,11 $ Longueur moyenne des spores < 8 µm
+
+10,0 $ Voile formant un anneau membraneux et dressé sur le pied, celui-ci à base peu ou non épaissie $ C. torvus
+10,0 $ Pied sans anneau dressé, à base bulbeuse $ C. turgidus
+
+11,0 $ Base du pied claviforme ; chapeau faiblement hygrophane $ C. urbicus
+11,12 $ Pied à base non claviforme, chapeau très hygrophane
+
+12,0 $ Spores étroitement amygdaliformes, de 7-8 x 4-5 µm, faiblement ornementées ; hyphes du pileipellis couchées ; hyphes de la trame lisses ; croissant souvent en touffes ; pas d'odeur d'iode $ C. jacobi-langei
+12,0 $ Spores largement amygdaliformes à subovoïdes, de 7-8 x 5-5,5 µm, fortement ornementées ; hyphes du pileipellis dressées ; hyphes de la trame nettement incrustées ; ne croissant généralement pas en touffes ; odeur d'iodoforme $ C. rigens
+
+13,14 $ Chapeau et pied entièrement violet pâle à violet dans la jeunesse, puis devenant plus ocre
+13,15 $ Chapeau sans teinte violette, pied parfois avec des teintes lilacines au sommet
+
+14,0 $ Odeur forte et désagréable (cheveu brûlé ou pomme de terre brûlée) ; spores de 8-10 x 5,5-6 4 µm ; avec de grandes cheilocystides $ C. camphoratus
+14,0 $ Pas d'odeur désagréable ; spores de 6-7,5 x 4-5 µm ; pas de cheilocystides $ C. alboviolaceus
+
+15,0 $ Spores courtement ellipsoïdes, Q = 1,4 $ C. lucorum
+15,16 $ Spores plus allongées, Q >= 1,5
+
+16,0 $ Hyphes de la trame nettement incrustées ; base du pied non épaissie $ C. biformis
+16,17 $ Hyphes de la trame lisses ; base du pied généralement épaissie
+
+17,18 $ Odeur frappante, agréable ou d'abord raphanoïde puis agréable
+17,19 $ Odeur banale
+
+18,0 $ Espèce robuste, diamètre du pied atteignant 30 mm, sans anneau dressé ; odeur d'abord raphanoïde puis agréable (poires ou encens) $ C. diosmus
+18,0 $ Espèce moins robuste, diamètre du pied atteignant 10 mm, avec un anneau membraneux dressé ; odeur un peu douceâtre $ C. torvus
+
+19,20 $ Spores courtement ellipsoïdes à largement amygdaliformes, Q = ± 1,5
+19,21 $ Spores plus allongées, Q = 1,6-1,7
+
+20,0 $ Chapeau pâle, crème à beige ; dans les dunes mobiles, près de Pinus ; cheilocystides nombreuses $ C. pseudoprivignus
+20,0 $ Chapeau brun rouge ; dans d'autres biotopes ; pas de cheilocystides $ C. privignoides
+
+21,0 $ Chapeau brun-rouge sombre, très hygrophane $ C. cohabitans
+21,22 $ Chapeau plus pâle, faiblement hygrophane
+
+22,23 $ Voile faiblement développé, réduit à des fibrilles éparses à la marge du chapeau et sur le stipe
+22,24 $ Voile très développé, formant des bandes sur le pied et à la marge du chapeau
+
+23,0 $ Espèce robuste, base du pied claviforme, atteignant 20 mm de diamètre ; hypoderme avec des amas de pigments et des hyphes incrustées ; cheilocystides présentes ; largeur moyenne des spores > 5 µm ; basides avec un nécropigment brun foncé $ C. triformis
+23,0 $ Espèce plus élancée, base du pied peu épaissie, atteignant 10 (12) mm de diamètre ; hypoderme avec des hyphes lisses, sans amas de pigments ; cheilocystides absentes ; largeur moyenne des spores < 5 µm ; basides avec un nécropigment brun olive $ C. privignus
+
+24,0 $ Chapeau brun-gris pâle avec centre roussâtre ; hyphes du pileipellis dressées ; surtout sous Salix (saules) $ C. urbicus
+24,25 $ Chapeau avec des teintes brun-orange à brun-rouge ; hyphes du pileipellis couchées ; pas typiquement sous Salix
+
+25,0 $ Chapeau brun-orange pâle ; largeur moyenne des spores de 5,2 µm ; cheilocystides présentes $ C. bivelus
+25,0 $ Chapeau avec un centre brun-rouge ; largeur moyenne des spores de 4,4 µm ; cheilocystides absentes $ C. privignofulvus
+
+
+
+Cs4,0 $ Spores allongées, Q > (1,7) 1,8  pb 02-12-2013
+
+1,2 $ Spores très allongées, Q > 2
+1,4 $ Spores moins allongées, < 2
+
+2,0 $ Spores avec Q = 2,7, de forme bolétoïde $ C. heterosporus
+2,3 $ Spores avec Q < 2,5, de forme non bolétoïde
+
+3,0 $ Petite espèce brun marron, diamètre du pied < 6 mm, diamètre du chapeau < 40 mm ; hyphes de la trame incrustées $ C. fusisporus f. fusisporus
+3,0 $ Espèces plus robustes, brun-rouge sombre à brun pourpre, diamètre du pied atteignant 10 mm, diamètre du chapeau atteignant 60 mm ; hyphes de la trame lisses $ C. fusisporus f. vinosobrunneus
+
+4,5 $ Longueur moyenne des spores > 10 µm
+4,6 $ Longueur moyenne des spores < 9 (9,5) µm
+
+5,0 $ Chapeau brun marron à brun-noir ; hyphes du pileipellis incrustées ; spores de 10,5-12,5 x 5,5-6 µm ; cheilocystides absentes ; il y a également des récoltes avec des spores de 8-11 x 4-6 µm et Q = 1,8-1,9) $ C. casimiri
+5,0 $ Chapeau brun noisette à brun beige ; hyphes du pileipellis non incrustées ; spores de 10-11 x 5,5-6 µm ; cheilocystides présentes $ C. unimodus
+
+6,7 $ Chapeau de couleur brun terne : brun noisette, brun foncé à brun-noir
+6,18 $ Chapeau avec des couleurs plus claires : ochracé, brun-orange, brun-rouge à brun marron
+
+7,0 $ Espèce robuste mais élancée, diamètre du pied 6-13 mm ; pied avec de faibles teintes lilacines au sommet dans la jeunesse ; avec une bande de voile annuliforme à la marge du chapeau $ C. cohabitans
+7,8 $ Petites espèces, diamètre du pied < 5 (6) mm ; lorsque des teintes lilacines ou violettes sont présentes, alors elles le sont sur toute la longueur du pied ; pas de restes de voile à la marge du chapeau
+
+8,9 $ Pied violet pâle ou brun-rose sur toute sa longueur
+8,10 $ Pied entièrement brun ou rouge-rose à sa base
+
+9,0 $ Chair du pied devenant rapidement rouge-rose au froissement ; hyphes du pileipellis presque lisses ; cheilocystides absentes $ C. roseipes
+9,0 $ Chair du pied ne changeant pas de couleur au froissement ; hyphes du pileipellis fortement incrustées ; cheilocystides présentes $ C. pulchripes
+
+10,11 $ Dans les bois marécageux, sous Salix (saules) ou Alnus (aulnes)
+10,13 $ Pas typiquement dans les bois marécageux
+
+11,0 $ Sous Salix (saules), sur sol nu et humide ; base du pied avec feutrage mycélien rouge-rose, rougissant au froissement ; voile sur le pied très peu développé, ne formant pas de bandes ; hyphes de la trame lisses ; pied vite creux $ C. cavipes
+11,12 $ Surtout sous Alnus (aulnes) ; bas du pied non rougissant ; voile abondant sur le pied, sous forme de bandes et de flocons ; hyphes de la trame finement incrustées ; pied ne se creusant pas rapidement
+
+12,0 $ Chapeau brun-noir, couvert d'un voile épars ; cheilocystides présentes $ C. alnetorum f. alnetorum
+12,0,N$ Voir aussi l'observation sous C. casimiri 
+12,0 $ Chapeau brun-gris par le voile abondant ; cheilocystides absentes $ C. alnetorum f. illiopodius
+
+13,14 $ Chapeau feutré, souvent avec des squamules fibrilleuses ; pied avec des bandes de voile bien visibles
+13,15 $ Chapeau lisse, jamais squamuleux ; pied sans ou avec de faibles bandes de voile
+
+14,0 $ Chapeau (surtout jeune) avec des squamules fibrilleuses ; lamelles avec des teintes lilacines ; souvent avec une odeur de Pelargonium, spores vues de face subfusoïdes rétrécies au sommet et à la base, Q = 1,85 ; cheilocystides présentes $ C. diasesemospermus
+14,0 $ Chapeau fibrilleux, parfois avec des squamules blanchâtres à la marge ; pas d'odeur de Pelargonium ; spores, vues de face, obovoïdes à larmiformes, Q = 1,75 ; cheilocystides absentes $ C. rigidus
+
+15,16 $ Petites espèces, diamètre du chapeau atteignant 25 (27) mm ; chapeau strié par transparence jusqu'au centre ; diamètre du pied atteignant 3 mm
+15,17 $ Espèces généralement plus robustes, diamètre du chapeau atteignant 40 mm ; chapeau non strié par transparence ou seulement à la marge ; pied épais de 3-8 mm
+
+16,0 $ Espèce très élancée ; chair devenant brun-noir par une solution de KOH ; basides avec un nécropigment brun ; hyphes de la trame brun sale dans une solution de NH3 ; hyphes du pileipellis lisses à très finement incrustées $ C. rubenii
+16,0 $ Espèce moins élancée ; chair ne se colorant pas nettement avec une solution de KOH ; basides avec un nécropigment faiblement jaune pâle ; hyphes de la trame brun orange clair dans solution de NH3 ; hyphes du pileipellis finement mais nettement incrustées $ C. fulvostriatulus
+
+17,0 $ Base du pied souvent amincie ; spores de 8-10 x 5-5,5 µm, nettement ornementées ; cheilocystides nombreuses $ C. privus
+17,0 $ Base du pied non amincie ; spores de 7-9 x 4,5-5 µm, faiblement ornementées ; cheilocystides absentes $ C. romagnesii
+
+18,19 $ Espèces avec un habitus hinnuloïde, avec des couleurs brun-ocre à brun-orange et des lamelles très espacées
+18,21 $ Pas d'habitus hinnuloïde
+
+19,20 $ Chair se colorant de lilas avec une solution de KOH ; longueur moyenne des spores < 9 µm
+19,0 $ Chair ne se colorant pas de lilas avec une solution de KOH ; longueur moyenne des spores 9,8 µm $ C. incisior
+
+20,0 $ Base du pied égale ou faiblement épaissie $ C. safranopes var. safranopes
+20,0 $ Base du pied claviforme, atteignant 25 mm de diamètre $ C. safranopes var. bulbosus
+
+21,22 $ Espèces assez robustes mais élancées, diamètre du pied > 5 mm, diamètre du chapeau atteignant 50-60 mm
+21,2,N$ Voir aussi C. pearsonii, qui montre parfois des teintes lilacines dans le pied
+21,23 $ Espèces moins robustes, diamètre du pied < 5 (6) mm, diamètre du chapeau < 30 (40) mm
+
+22,0 $ Chapeau brun-rouge foncé ; sommet du pied jeune avec de faibles teintes lilacines ; avec un voile formant une zone annulaire sur le pied et à la marge du chapeau ; spores de 6,5-8,5 x 4-4,5 µm, cylindriques à ellipsoïdes, avec une ornementation bien visible $ C. cohabitans
+22,0 $ Chapeau brun-rouge plus clair ; sommet du pied sans teintes violettes ; voile épars sur le chapeau et le pied ; spores de 8-9 x 4,5-5 µm, étroitement amygdaliformes, faiblement ornementées $ C. salicticolus
+
+23,24 $ Avec un revêtement du stipe nettement blanc
+23,25 $ Revêtement du stipe pas remarquablement blanc
+
+24,0 $ Hyphes du pileipellis nettement incrustées ; spores de 8-10 x 5-6 µm, Q = ± 1,7  $ C. leucopus
+24,0 $ Hyphes du pileipellis lisses ; spores plus allongées, de 8-10 x 4,5-5 µm, Q = ± 1,85 $ C. fistularis
+
+25,0 $ Diamètre du chapeau atteignant 40 mm, diamètre du pied atteignant 6 mm ; chapeau brun noisette à marron ; base du pied souvent amincie ; spores de 8-10 x 5-5,5 µm ; hyphes du pileipellis couchées $ C. privus
+25,26 $ Espèces plus petites, diamètre du chapeau < 30 mm, diamètre du pied < 4 mm ; chapeau brun-ocre à brun-roux ; base du pied non amincie ; spores en moyenne < 8,5 x 5 µm ; hyphes du pileipellis dressées
+
+26,0 $ Habitus de Collybia, avec un chapeau largement campanulé ; cheilocystides absentes ; spores de 7-8 x 4-4,5 µm $ C. incisus
+26,27 $ Habitus de Galerina, avec un chapeau conique ; cheilocystides généralement présentes ; spores un peu plus grandes
+
+27,0 $ Chapeau brun-jaune à brun-ocre ; spores de 8,4 x 4,8 µm, ellipsoïdes à ovoïdes ; cheilocystides étroitement claviformes $ C. acutus
+27,0 $ Chapeau brun-ocre à brun-roux ; spores de 7,7 x 4,4 µm en moyenne, étroitement ellipsoïdes à subamygdaliformes ; cheilocystides courtement claviformes $ C. acutostriatulus
+
+
+
+Cs5,0 $ Chapeau de couleur sombre, terne (brun, brun marron à brun-noir) pb 05-12-2013
+
+1,0 $ Spores de 5,5-6,5 x 4-4,5 µm $ C. abietinus
+1,2 $ Spores nettement plus grandes
+
+2,0 $ Voile blanc, rougissant souvent au toucher ; spores de 6,5-7,5 x 4,5-5 µm, courtement ellipsoïdes, avec une ornementation peu marquée, de grandes verrues étant seulement présentes au sommet de la spore $ C. miraculosus var. miraculosus
+2,3 $ Voile non rougissant ; spores différentes [non : 6,5-7,5 x 4,5-5 µm, courtement ellipsoïdes]
+
+3,4 $ Espèces nettement teintées de rose, de lilas ou de violet
+3,10 $ Espèces sans teintes roses, lilas ou violettes
+
+4,5 $ Seulement le pied avec des teintes roses, lilas ou violettes
+4,8 $ Teintes roses, lilas ou violettes sur le pied ET également sur d'autres parties du carpophore
+
+5,6 $ Hyphes du pileipellis lisses à très finement incrustées
+5,7 $ Hyphes du pileipellis nettement à fortement incrustées
+
+6,0 $ Pied teinté de rose ; chair du pied devenant rapidement rouge-rose au froissement ; petite espèce, diamètre du chapeau < 25 mm, diamètre du pied < 5 mm $ C. roseipes
+6,0 $ Pied avec des tons violets au sommet ; chair du pied immuable au froissement ; diamètre du chapeau souvent > 30 mm ; diamètre du pied 3-10 mm $ C. sertipes
+
+7,0 $ Espèce assez robuste, diamètre du chapeau atteignant 50 mm, diamètre du pied atteignant 8 mm ; pied avec des teintes roses ; chapeau brun foncé à brun-noir ; spores courtement ellipsoïdes, de 6,5-8,5 x 5-6 µm, Q = ± 1,4, très fortement ornementées $ C. vernus var. vernus
+7,0 $ Espèce plus frêle, diamètre du chapeau atteignant 25 mm, diamètre du pied atteignant 4 mm ; pied teinté de violet ; spores amygdaliformes, de 7,5-8,5 x 4,5-5 µm, Q ± 1,7, plus faiblement ornementées $ C. pulchripes
+
+8,0 $ Chapeau avec de petites squamules dressées ; avec une forte odeur de Pelorgonium ; chapeau brun foncé ; lamelles et pied avec des tons lilacins $ C. flexipes var. flexipes
+8,9 $ Chapeau lisse, non squamuleux ; chapeau également avec des tons lilacins ou violets
+
+9,0 $ Chapeau, lamelles et pied brun-lilas foncé ; hyphes du pileipellis avec des cellules terminales dressées ; spores de 7-8 x 4,5-5 µm ; cheilocystides absentes $ C. americanus
+9,0 $ Chapeau, lamelles et pied brun-violet ; spores un peu plus grandes, de 7-9 x 5-6 µm ; pas de cellules terminales dressées dans le pileipellis ; cheilocystides présentes $ C. lilacinopusillus
+
+10,11 $ Chapeau avec de petites squamules dressées (parfois seulement bien visibles à la dessiccation) (voir aussi C. flabellus, parfois finement squamuleux à la marge du chapeau, et  C. rigidiusculus, finement squameux dans la vieillesse)
+10,14 $ Chapeau non squameux, mais finement fibrilleux radialement ou lisse
+
+11,0 $ Avec une forte odeur de Pelargonium $ C. flexipes var. flexipes
+11,12 $ Odeur de Pelargonium (faible ou) absente
+
+12,0 $ Spores amygdaliformes à étroitement ellipsoides, Q = 1,6 ; hyphes du pileipellis faiblement incrustées $ C. hemitrichus
+12,13 $ Spores courtement ellipsoïdes à ellipsoïdes, Q = 1,4-1,5 ; hyphes du pileipellis nettement à fortement incrustées
+
+13,0 $ Spores courtement ellipsoïdes, Q = 1,4 ; basides avec un faible nécropigment ; avec des cheilocystides claviformes $ C. comptulus
+13,0 $ Spores ellipsoïdes, Q = 1,5 ; basides avec un nécropigment brun foncé ; cheilocystides absentes $ C. flexipes var. inolens
+
+14,0 $ Petite espèce brune à brun pâle, diamètre du chapeau 10-20 mm ; chapeau avec une marge blanche évidente ; en touffes dans et sur la litière de Fagus (hêtre) $ C. fagetorum
+14,15 $ Pas cette combinaison de caractères [non : Petite espèce brune à brun pâle, diamètre du chapeau 10-20 mm ; chapeau avec une marge blanche évidente ; en touffes dans et sur la litière de Fagus]
+
+15,16 $ Longueur moyenne des spores < 7,5 (8) µm
+15,28 $ Longueur moyenne des spores > (7,5) 8 µm
+
+16,17 $ Hyphes du pileipellis nettement incrustées
+16,23 $ Hyphes du pileipellis non à très faiblement incrustées
+
+17,0 $ Avec une forte odeur de terre moisie ; espèce des sols acides, près des Betula (bouleaux) souvent tard dans l'année $ C. umbrinolens
+17,18 $ Pas d'odeur de terre moisie ; pas typiquement tard dans l'année ni près des Betula
+
+18,19 $ Espèces très petites, diamètre du chapeau < 20 mm, diamètre du pied < 3 mm
+18,20 $ Espèces plus grandes, diamètre du chapeau atteignant 25-40 mm, diamètre du pied atteignant 4-8 mm (voir aussi  C. depressus, hyphes du pileipellis parfois incrustées)
+
+19,0 $ Chapeau marron foncé à brun-noir ; pied avec des filaments de voile longitudinaux ; odeur raphanoïde ; basides avec un nécropigment brun pâle $ C. atropusillus
+19,0 $ Chapeau brun marron ; avec un voile en zone annulaire, flocons en guirlandes sur la moitié inférieure du stipe ; avec une odeur de Pelargonium à la dessiccation ; basides avec un nécropigment brun foncé $ C. rigidiusculus
+
+20,0 $ Chapeau avec des taches noires dans les blessures et à la dessiccation $ C. vandervekenianus
+20,21 $ Chapeau dépourvu de telles taches noires
+
+21,0 $ Hyphes du pileipellis sans cellules terminales dressées ; cheilocystides absentes $ C. flexipes var. inolens
+21,22 $ Hyphes du pileipellis avec des cellules terminales claviformes et dressées ; cheilocystides présentes
+
+22,0 $ Spores courtement ellipsoïdes, de 7-8 x 5-5,5 µm avec Q = 1,4 ; cheilocystides nombreuses (arête des lames quasiment stérile) $ C. comptulus
+22,0 $ Spores elliptiques, de 7-8,5 x 4,5-5 µm avec Q = 1,6 ; cheilocystides en petits groupes dispersés $ C. flabellus
+
+23,0 $ Hyphes de la trame nettement incrustées ; spores larmiformes vues de face ; souvent avec une odeur de Pelargonium $ C. rigidus
+23,24 $ Hyphes de la trame non à faiblement incrustées ; spores non larmiformes
+
+24,0 $ Habitus de Laccaria ; spores très faiblement ornementées, portant de grosses verrues seulement au sommet, Q ± 1,4 $ C. miraculosus var. laccarioides
+24,25 $ Pas d'habitus de Laccaria ; spores différentes [ne portent pas de grosses verrues seulement au sommet, Q ± 1,4]
+
+25,0 $ Petites espèces, diamètre du chapeau < 3 cm, diamètre du pied 2-4 mm ; profil des spores souvent subrhomboïde, de 7-8 x 4,5-5 µm ; hypoderme avec de gros amas de pigments $ C. subrhombisporus
+25,26 $ Espèces plus grandes ; spores jamais subrhomboïdes, un peu plus petites ; hypoderme sans amas de pigment
+
+26,0 $ Spores faiblement ornementées ; pied avec faible zone de voile $ C. depressus
+26,27 $ Spores nettement ornementées ; pied avec zone(s) de voile bien visible(s)
+
+27,0 $ Spores de 7,1 x 4,4 µm en moyenne ; voile formant une zone et des flocons de voile bien visibles sur le pied, pas de teinte violette au sommet du stipe $ C. stemmatus
+27,0 $ Spores de 7,9 x 5,1 µm en moyenne ; voile formant des zones annulaires sur le pied, souvent avec des teintes violettes au sommet $ C. sertipes
+
+28,29 $ Hyphes de la trame nettement incrustées
+28,39 $ Hyphes de la trame non ou faiblement incrustées
+
+29,0 $ Avec une forte odeur de terre moisie ; espèce des sols acides sous Betula (bouleau), souvent tard dans l'année $ C. umbrinolens
+29,30 $ Pas d'odeur de terre moisie ; pas typiquement sous bouleaux tard dans l'année
+
+30,0 $ Espèce assez petite mais compacte, sur sols calcarifères ; avec odeur de céleri ; base du pied épaissie fusiforme, se terminant en pointe ; spores fortement ornementées $ C. petroselineus
+30,31 $ Espèces élancées, avec d'autres caractères [que : odeur de céleri ; base du pied épaissie fusiforme, se terminant en pointe] 
+
+31,32 $ Hyphes du pileipellis nettement incrustées
+31,36 $ Hyphes du pileipellis non ou faiblement incrustées (voir aussi C. helobius et C. romagnesii, hyphes du pileipellis parfois incrustées)
+
+32,0 $ Spores de 8-10 x 5-5,5 µm, Q = 1,75 ; base du pied souvent amincie $ C. privus
+32,33 $ Spores plus petites, Q < 1,6 et/ou pied non aminci à la base
+
+33,34 $ Hyphes du pileipellis avec des cellules terminales claviformes et dressées ; cheilocystides présentes
+33,35 $ Hyphes du pileipellis sans cellules terminales dressées ; cheilocystides absentes
+
+34,0 $ Spores courtement ellipsoïdes, de 7-8 x 5-5,5 µm, Q = 1,4 ; cheilocystides très nombreuses $ C. comptulus
+34,0 $ Spores ellipsoïdes, de 7-8,5 x 4,5-5 µm, Q = 1,6 ; cheilocystides éparses $ C. flabellus
+
+35,0 $ Chapeau avec un umbo aigu bien marqué ; odeur faiblement raphanoïde ; parmi les sphaignes dans des pinèdes humides $ C. flos-paludis
+35,0 $ Chapeau sans umbo aigu bien marqué ; odeur fongique ; sous les feuillus sur des sols plus secs $ C. flexipes var. inolens
+
+36,0 $ Très petite espèce, diamètre du chapeau atteignant 20 mm, diamètre du pied 1-2 mm ; spores de 7-9 x 4-5 µm, faiblement ornementées ; hypoderme avec des amas de pigments $ C. rubenii
+36,37 $ Espèces plus grandes, diamètre du chapeau > 20 mm, diamètre du pied > 3 mm
+
+37,0 $ Spores larmiformes vues de face ; hypoderme avec amas de pigments ; souvent avec une odeur de Pelorgonium $ C. rigidus
+37,38 $ Spores non larmiformes ; hypoderme sans amas de pigments ; pas d'odeur de Pelargonium
+
+38,0 $ Spores de 8,5-10 x 5,5-6 µm, fortement ornementées ; cheilocystides présentes $ C. helobius
+38,0 $ Spores de 7-9 x 4,5-5 µm, faiblement ornementées ; cheilocystides absentes $ C. romagnesii
+
+39,40 $ Pied avec des bandes de voile (surtout chez les jeunes exemplaires)
+39,43 $ Pas de bandes de voile bien marquées
+
+40,0 $ Hyphes du pileipellis nettement incrustées ; basides longues de 35-45 µm ; presque exclusivement sous Alnus (aulne) ; spores allongées, Q = 1,8 $ C. alnetorum var. alnetorum
+ 40,0,N$ Voir aussi C. casimiri, parfois avec des spores < 10 µm long. et Q = 1,8-1,9
+40,41 $ Hyphes du pileipellis lisses ou très faiblement incrustées ; basides longues de moins de 35 µm ; pas exclusivement lié aux aulnes ; spores moins allongées, Q < 1,6
+
+41,0 $ Cheilocystides présentes ; spores à ornementation moyenne $ C. sertipes
+41,42 $ Cheilocystides absentes ; spores fortement ornementées
+
+42,0 $ Restes de voile sur la marge du chapeau absents ou ténus $ C. decipiens var. decipiens
+42,0 $ Marge du chapeau avec d'abondants restes de voile $ C. decipiens var. atrocoeruleus
+
+43,0 $ Petite espèce, diamètre du chapeau < 3 cm, diamètre du pied 2-4 mm ; spores à profil souvent subrhomboïde, de 7-8 x 4,5-5 µm ; hypoderme avec de gros amas de pigment $ C. subrhombisporus
+43,44 $ Espèces plus grandes ; spores jamais subrhomboïdes ; hypoderme sans amas de pigment
+
+44,0 $ Chapeau brun-rouge foncé à marron ; hyphes du pileipellis incrustées, avec un pigment brun-rouge sombre $ C. castaneus
+44,45 $ Chapeau brun foncé ; hyphes du pileipellis non ou peu incrustées
+
+45,0 $ Hyphes du pileipellis avec un pigment membranaire brun foncé, formant une couche bien distincte ; spores faiblement ornementées $ C. subdecipiens
+45,46 $ Hyphes du pileipellis sans pigment membranaire brun foncé ; spores plus fortement ornementées
+
+46,0 $ Spores de 8,5-10 x 5,516 µm ; cheilocystides présentes $ C. helobius
+46,47 $ Spores plus courtes, longues de 7-9 µm ; cheilocystides absentes
+
+47,0 $ Spores avec Q = 1,6, fortement ornementées ; hyphes de l’hypoderme lisses $ C. decipiens var. decipiens
+47,0 $ Spores avec Q - 1,7, moyennement ornementées ; hyphes de l'hypoderme finement incrustées $ C. romagnesii
+
+
+
+Cs6,0 $ Chapeau avec des couleurs claires (brun-jaune, brun-ocre, brun-orange ou brun)  pb 05-12-2013
+
+1,2 $ Longueur moyenne des spores < 7,5 (8) µm
+1,20 $ Longueur moyenne des spores > (7,5) 8 µm
+
+2,8 $ Hyphes du pileipellis avec les extrémités dressées
+2,3 $ Hyphes du pileipellis couchées
+
+3,0 $ Espèce élancée, à stipe long, de 45-95 x 3-6 mm, à base épaissie jusqu'à 12-15 mm de diamètre ; sous Pinus sur sol acide $ C. jubarinus
+3,4 $ Espèce plus petite, base du pied non ou peu épaissie ; non sous Pinus sur sol acide
+
+4,5 $ Hyphes du pileipellis nettement incrustées
+4,6 $ Hyphes du pileipellis non ou très faiblement incrustées
+
+5,0 $ Hyphes du pileipellis avec des cellules terminales claviformes ; sommet des spores avec une ornementation grossière ; cheilocystides présentes $ C. flabellus
+5,0 $ Hyphes du pileipellis sans cellules terminales claviformes ; spores très faiblement ornementées ; cheilocystides absentes $ C. incisus
+
+6,0 $ Cheilocystides présentes ; spores avec Q = 1,75 ; sans odeur remarquable $ C. acutostriatulus
+6,7 $ Cheilocystides absentes ; spores avec Q=1,5 -1,6 ; avec une odeur d'iodoforme (à la dessiccation)
+
+7,0 $ Lamelles espacées ; hyphes de l'hypoderme lisses à fortement incrustées par un pigment orange ; spores avec Q = 1,5 $ C. nanus
+7,0 $ Lamelles serrées ; hyphes de l'hypoderme lisses ; spores avec Q = 1,6 $ C. striatuloides
+
+8,9 $ Pied avec une ou plusieurs bandes de voile
+8,13 $ Pied sans bandes de voile bien visibles
+
+9,0 $ Spores très faiblement ornementées, allongées, avec Q = 1,75 ; odeur fongique $ C. incisus
+9,10 $ Spores avec une ornementation bien visible, moins allongées, avec Q = ± 1,6 ; odeur raphanoïde ou de bois de cèdre
+
+10,11 $ Petites espèces élancées, à odeur de bois de cèdre ; basides avec un nécropigment brun
+10,12 $ Espèces moins élancées ; odeur raphanoïde ; basides sans nécropigment brun
+
+11,0 $ Habitus de Pholiotina ; pied avec un petit voile annuliforme persistant et dressé $ C. parvannulatus f. parvannulatus
+11,0 $ Pied avec une zone de voile éphémère et de faibles bandes de voile dans la partie inférieure $ C. parvannulatus f. rigidiannulatus
+
+12,0 $ Espèce assez petite mais robuste, diamètre du pied atteignant 8 mm ; chapeau nu ; cheilocystides nombreuses ; spores en moyenne de 7,3 x 5 µm, Q = 1,45 $ C. holophaeus
+12,0 $ Espèce moins robuste, diamètre du pied atteignant 5 mm ; chapeau couvert de fibrilles de voile blanc ; cheilocystides absentes ; spores en moyenne de 7,1 x 4,4 µm, Q ± 1,6 $ C. stemmatus
+
+13,14 $ Cheilocystides frappantes, atteignant une longueur de 35-55 µm
+13,16 $ Cheilocystides absentes ou peu apparentes et plus courtes que 25 µm
+
+14,0 $ Pied terminé en pointe ; avec une nette odeur d'iodoforme $ C. ovatosporus
+14,15 $ Pied non terminé en pointe ; pas d'odeur d'iodoforme
+
+15,0 $ Chapeau brun-orange vif, diamètre 30-50 mm ; diamètre du pied 5-7 mm ; spores guttiformes en vue de face $ C. renidens
+15,0 $ Chapeau brun-ocre, diamètre atteignant 35 mm, diamètre du pied atteignant 4 mm ; spores ellipsoïdes en vue de face $ C. junghuhnii
+
+16,17 $ Hyphes de la trame et du pileipellis incrustées (voir aussi C. depressus, parfois avec des hyphes incrustées dans le pileipellis)
+16,18 $ Hyphes de la trame et du pileipellis non incrustées
+
+17,0 $ Spores avec une ornementation bien visible, Q = 1,6 $ C. striaepilus
+17,0 $ Spores avec une ornementation peu marquée, Q = 1,75 $ C. incisus
+
+18,0 $ Espèce très élancée ; pied long de 70-110 mm, avec des fibrilles de voile blanc et une zone éphémère de voile rouge-rose ; chapeau brun-rouge $ C. fulvescens
+18,19 $ Espèce moins élancée ; pied beaucoup plus court, pas de zone de voile rouge-rose ; chapeau pas brun-rouge
+
+19,0 $ Pied aminci à la base ; odeur d'iodoforme ; spores moyennement ornementées ; hyphes de l'hypoderme avec des incrustations orange $ C. obtusus
+19,0 $ Pied cylindrique ; odeur banale ; spores faiblement ornementées ; hyphes de l'hypoderme non incrustées $ C. depressus
+
+20,0 $ Chapeau et pied orange à brun roussâtre ; chapeau avec un umbo pointu ; sommet du pied avec de faibles teintes violettes dans la jeunesse ; pied avec une zone annulaire bien visible, souvent avec un feutrage mycélien lilas pâle ; sous Quercus (chênes) $ C. helvolus
+20,21 $ Pas avec cette combinaison de caractères [chapeau avec un umbo pointu ; sommet du pied avec de faibles teintes violettes dans la jeunesse ; pied avec une zone annulaire bien visible]
+
+21,22 $ Hyphes de la trame incrustées
+21,27 $ Hyphes de la trame lisses
+
+22,23 $ Hyphes du pileipellis avec éléments terminaux dressés
+22,24 $ Hyphes du pileipellis couchées
+
+23,0 $ Petite espèce, ressemblant à un Galerina ; chapeau étroitement campanulé, brun-ocre ; cheilocystides atteignant 50 µm de longueur ; spores avec une base largement arrondie, larges de 4,5-5 µm, Q = 1,75 $ C. acutus
+23,0 $ Espèce plus grande ; chapeau largement campanulé, brun noisette ; cheilocystides éparses, longues de moins de 20 µm ; spores rétrécies à la base, larges de 5-5,5 µm, Q = 1,6 $ C. flabellus
+
+
+
+24,0 $ Basides avec un nécropigment brun foncé bien visible ; pas de cheilocystides $ C. striaepilus
+24,25 $ Basides sans nécropigment ou avec un nécropigment peu évident, brun pâle ; cheilocystides présentes
+
+25,0 $ Chair du pied pâle ; hyphes de la trame faiblement incrustées ; basides longues de 30-40 µm $ C. leucopus
+25,26 $ Chair du pied brunâtre ; hyphes de la trame nettement à fortement incrustées ; basides atteignant ± 30 µm de longueur
+
+26,0 $ Chapeau brun orange à la dessiccation ; base du pied souvent nettement amincie ; spores de 3-10 x 5-5,5 µm $ C. privus
+26,0 $ Chapeau ocre pâle à la dessiccation ; base du pied non amincie ; spores de 7-8,5 x 4-5 µm $ C. acutostriatulus
+
+27,0 $ Pied long de 70-110 mm, avec des fibrilles de voile blanc et une éphémère zone de voile rouge-rose ; chapeau brun-rouge $ C. fulvescens
+27,28 $ Pied plus court, jamais orné d'une zone de voile rouge-rose ; chapeau pas brun-rouge
+
+28,0 $ Chair du pied pâle ; basides longues de 30-40 µm ; spores avec Q = 1,7 $ C. leucopus
+28,0 $ Chair du pied brune ; basides longues de 20-25 µm ; spores avec Q = 1,55 $ C. albovariegatus
+
+
+
+Cs7,0 $  Cle partielle 7 Especes robustes, à pied épais avec des couleurs sombres et ternes (brun, marron a brun-noir)- pb 13-12-2013
+
+1,2 $ Odeur remarquable de persil
+1,3 $ Odeur banale ou différente de celle du persil
+
+2,0 $ Chapeau brun, avec une teinte violette dans la jeunesse ; spores de 6,5-8,5 x 4,5-5 µm à ornementation faible, seulement bien visible au sommet ; hyphes du pilipilleis, hypoderme et trame non incrustées $ C. phaeosmus
+2,0 $ Chapeau brun-noir sans teinte violette dans la jeunesse ; spores de 8-9 x 5-5,5 µm avec une ornementation forte ; hyphes du pilipilleis, hypoderme et trame incrustées $ C. petroselineus
+
+3,4 $ Spores courtement ellipsoïdes à courtement amygdaliformes, Q = 1,4-1,5
+3,8 $ Spores plus allongées, de forme différente, Q > 1,55
+
+4,5 $ Spores petites, de 5,5-6,5 x 4-4,5 µm
+4,6 $ Spores plus grandes, longues de plus de 6,5 µm
+
+5,0 $ Hyphes de la trame nettement incrustées ; pied vite creux $ C. illuminus
+5,0 $ Hyphes de la trame non incrustées ; pied ne devenant pas vite creux $ C. abietinus
+
+6,0 $ Spores presque lisses, seul le sommet portant une ornementation plus saillante ; habitus de Laccaria ; pied sans teinte rose $ C. miraculosus var. laccarioides
+6,7 $ Spores fortement ornementées sur toute la surface ; pied souvent avec une teinte rose
+
+7,0 $ Hyphes de la trame lisses à finement incrustées ; spores de 6,5-8,5 x 5-6 µm, Q = 1,4 ; pas de feutrage mycélien coloré ; voile ne rougissant pas au froissement $ C. vernus var. vernus
+7,0 $ Hyphes de la trame nettement incrustées ; spores de 7,5-9 x 5-6 µm, Q = 1,5 ; base du pied avec un feutrage mycélien rouge vineux à rose ; voile rougissant au froissement $ C. vernus var. rubescens
+
+8,9 $ Chapeau avec de petites squamules blanches
+8,10 $ Chapeau dépourvu de squamules, tout au plus un peu fibrilleux
+
+9,0 $ Chapeau entièrement couvert de squamules blanches ; spores ovoïdes en vue de face, de 7-8,5 x 4,5-5,5 µm, Q = 1,6 ; hypoderme sans amas de pigments $ C. hemitrichus
+9,0 $ Chapeau squamuleux seulement à la marge ; spores larmiformes en vue de face, de 7,5-10 x 4,5-5,5 µm, Q = 1,75 ; hypoderme avec des amas de pigments brun foncé $ C. rigidus
+
+10,11 $ Hyphes de la trame fortement incrustées ; basides avec un necropigment brun foncé
+10,12 $ Hyphes de la trame lisses à finement incrustées ; basides sans necropigment ou seulement avec un faible necropigment pâle
+
+11,0 $ Chapeau brun-noir ; odeur de persil (à la dessiccation) ; pied sans zones de voile, base épaissie en fuseau, se terminant en pointe ; spores de 8-9 x 5-5,5 µm, Q= 1,6, fortement ornementées ; longueur des basides atteignant 40 µm $ C. petroselineus
+11,0 $ Chapeau brun marron ; odeur différente ; pied avec des zones de voile, non épaissies à la base ; spores de 7,5-10 x 4,5-5,5 µm, Q = 1,75, moyennement ornementées ; baside atteignant une longueur de 30 µm $ C. rigidus
+
+12,13 $ Espèces robustes, diamètre du chapeau atteignant 70 mm
+12,14 $ Espèces plus petites, diamètre du chapeau atteignant 50 mm
+
+13,0 $ Base du pied avec un bulbe atteignant 25 mm de diamètre et se terminant en pointe ; voile peu abondant à la marge du chapeau ; pas de teinte lilacine au sommet du stipe ; spores pas allongées, Q = 1,55 ; cheilocystides absentes $ C. sordescens
+13,0 $ Base du pied de moins de 20 mm de diamètre, ne se terminant pas en pointe ; marge du chapeau (jeune) avec un voile blanc abondant ; sommet du pied souvent avec des teintes lilacines ; spores allongées, Q = 1,75 ; cheilocystides présentes $ C. cohabitans
+
+14,0 $ Spores de 7,5-8,5 x 4,5-5,5 µm, nettement ornementées ; pied avec des zones de voile manifestes ; jeunes lamelles et sommet du pied souvent avec une teinte violette $ C. sertipes
+14,0 $ Spores de 6,5 7,5 x 4—4,5 µm, faiblement ornementées ; pied parfois avec une zone de voile peu marquée ; pas de teintes violettes $ C. depressus
+
+
+
+Cs8,0 $ Chapeau avec des couleurs claires (violet, brun-jaune, brun-ocre, brun-orange)  pb 05-12-2013
+
+1,2 $ Espèces nettement teintées de lilas violet ou violet pâle sur le chapeau, le pied et/ou les lamelles
+1,8 $ Teintes lilacines ou violettes absentes ou faibles et fugaces
+
+2,3 $ Jeunes exemplaires entièrement violets ou violet pâle
+2,4 $ Jeunes exemplaires jamais entièrement violets ou violet pâle
+
+3,0 $ Forte odeur de cheveu brûlé ou de pommes de terre brûlées ; spores de 8-10 x 5,5-6 µm ; avec de grandes cheilocystides $ C. camphoratus
+3,0 $ Pas d'odeur de cheveu brûlé ou de pommes de terre brûlées ; spores de 6-7,5 x 5,5-6 µm ; pas de cheilocystides $ C. alboviolaceus
+
+4,0 $ Pied avec un anneau bien net et dressé et une "chaussette" de voile ; odeur forte et agréable ; spores de 8-10 x 5,5-6,5 µm ; hyphes du pileipellis finement incrustées $ C. torvus
+4,5 $ Pied sans "chaussette" de voile, anneau incomplet ou absent ; pas d'odeur agréable bien perceptible ; spores plus petites ; hyphes du pileipellis lisses
+
+5,0 $ Chapeau pâle, brun-gris avec le centre roussâtre ; sous Salix (saule) $ C. urbicus
+5,6 $ Chapeau assez sombre, brun-roux, brun-rouge ou marron ; pas uniquement sous saule
+
+6,0 $ Chapeau d'abord brun marron, très hygrophane, devenant rapidement brun roussâtre en séchant ; avec un voile abondant à la marge ; base du pied peu épaissie ; hyphes du pileipellis couchées ; spores assez allongées, Q = 1,75 ; cheilocystides présentes $ C. cohabitans
+6,7 $ Chapeau brun-roux ou brun-rouge, faiblement hygrophane ; marge du chapeau avec un voile ténu ou fugace ; pied nettement épaissi à la base ; hyphes du pileipellis dressées ; spores peu allongées, Q = 1,5-1,6 ; cheilocystides absentes
+
+7,0 $ Croissance sous conifères ; chapeau avec centre brun-rouge et marge beige ; spores faiblement ornementées, de 6,5-8 x 4-5 µm $ C. impennis
+7,0 $ Croissance sous feuillus ; chapeau brun-roux ; spores nettement ornementées, de 7,5-9 x 5-6 µm $ C. venustus
+
+8,9 $ Avec cheilocystides bien apparentes, atteignant 50 µm de longueur
+8,10 $ Cheilocystides soit absentes, soit courtement claviformes et ne dépassant pas 25 µm de longueur
+
+9,0 $ Pied aminci vers la base et terminé en pointe ; odeur d'iodoforme (surtout à la dessiccation) ; spores ellipsoïdes, à base arrondie ; longueur des basides < 30 µm $ C. ovatosporus
+9,0 $ Pied cylindrique à base claviforme ; pas d'odeur remarquable ; spores obovoïdes, plus étroites à la base ; longueur des basides > 35 µm $ C. renidens
+
+10,11 $ Réaction lilas faible à évidente avec une solution de KOH sur la surface ou la chair du pied
+10,13 $ Pas de réaction lilas avec une solution de KOH sur la surface ou la chair du pied
+
+11,0 $ Spores ellipsoïdes, Q = 1,55 ; hyphes de la trame incrustées ; basides avec un nécropigment brun foncé $ C. subsafranopes
+11,12 $ Spores amygdaliformes, plus allongées, Q ± 1,75 ; hyphes de la trame lisses ; basides sans nécropigment ou avec un faible nécropigment orange pâle
+
+12,0 $ Base du pied égale à faiblement épaissie $ C. safranopes var. safranopes
+12,0 $ Base du pied claviforme, pouvant atteindre 25 mm de diamètre $ C. safranopes var. bulbosus
+
+13,0 $ Spores très petites, de 6-6,5 x 4,5-5 µm, avec Q =1,4 ; pied vite creux $ C. illuminus
+13,14 $ Spores plus grandes [que 6-6,5 x 4,5-5 µm] ; pied ne devenant pas vite creux
+
+14,0 $ Pied fusiforme, rétréci à la base, nettement radicant $ C. sordipes
+14,15 $ Pied non fusiforme ni rétréci à la base, non radicant
+
+15,0 $ Spores de 6,5-7,5 x 4-4,5 µm, très finement ornementées $ C. depressus
+15,16 $ Spores plus grandes, à ornementation plus nette, surtout au sommet de la spore
+
+16,17 $ Stature hinnuloïde, avec des lamelles très espacées ; spores à ornementation très forte, avec des verrues et des crêtes saillantes
+16,19 $ Stature non hinnuloïde, lamelles moins fortement espacées ; ornementation sporale moins saillante
+
+17,0 $ Odeur fongique ; pied sans voile annuliforme ; hyphes du pileipellis et de l'hypoderme nettement incrustées ; hypoderme avec des amas de pigments $ C. hinnuloides
+17,18 $ Odeur de moisi, de terre ou raphanoïde ; pied avec un voile annuliforme ; hyphes du pileipellis et de l'hypoderme lisses ou faiblement incrustées ; hypoderme sans amas de pigments
+
+18,0 $ Odeur raphanoïde, passant à l'odeur de moisi ou de terre ; spores courtement ellipsoïdes brun foncé de 7-8 x 4,5-5,5 µm, Q = 1,5 ; basides avec un nécropigment brun foncé ; cheilocystides absentes $ C. conicus
+18,0 $ Odeur forte, de moisi ou de terre ; spores courtement ellipsoïdes de 7-8 x 5-6 µm, Q = 1,3 ; basides avec un nécropigment brun pâle ; cheilocystides présentes $ C. hinnuleus
+
+19,0 $ Chapeau brun-beige pâle, faiblement hygrophane ; souvent sous Salix (saule) $ C. urbicus
+19,20 $ Chapeau plus sombre et/ou avec une autre couleur ; nettement à fortement hygrophane exclusivement sous les saules
+
+20,0 $ Chapeau avec un umbo bien marqué, souvent pointu ; base du pied avec feutrage mycélien lilas pâle $ C. helvolus
+20,21 $ Umbo sur le chapeau nul ou peu marqué ; base du pied sans feutrage mycélien lilas pâle
+
+21,22 $ Hyphes du pileipellis lisses
+21,25 $ Hyphes du pileipellis nettement incrustées
+
+22,0 $ Odeur rappelant le persil ; ornementation sporale peu marquée, seulement bien visible au sommet ; pied sans ceintures de voile ; hypoderme avec amas de pigments brun foncé $ C. phaeosmus
+22,23 $ Pas d'odeur de persil ; pied avec une zone de voile (dans la jeunesse) ; ornementation bien nette sur toute la surface de la spore ; hypoderme sans amas de pigments
+
+23,0 $ Chapeau brun marron ; fortement hygrophane et pâlissant rapidement en brun orange ; spores de 6,5-8,5 x 4-4,5 µm, Q = 1,75 $ C. cohabitans
+23,24 $ Chapeau brun orange ; spores moins allongées, Q =1,6
+
+24,0 $ Surface du chapeau feutrée, avec des restes de voile à la marge ; spores de 7,5-10 x 5-6 µm $ C. bivelus
+24,0 $ Surface du chapeau lisse, avec des fibrilles de voile à la marge seulement dans la jeunesse ; spores de 7-8,5 x 5-5,5 µm $ C. subbalaustinus
+
+25,0 $ Espèce robuste, pied avec un bulbe atteignant 25 mm de diamètre, se terminant en pointe à la base ; spores de 7,5-8,5 x 5-5,5 µm, Q = 1,55 ; cheilocystides absentes $ C. subsordescens
+25,0 $ Espèce moins robuste, base du pied atteignant 10 mm de diamètre, non terminée en pointe ; spores de 6,5-8 x 4,5-5,5 µm, Q = 1,45 ; cheilocystides présentes $ C. holophaeus
+
+
+
+
+

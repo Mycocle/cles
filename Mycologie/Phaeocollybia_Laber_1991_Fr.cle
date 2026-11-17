@@ -1,0 +1,53 @@
+Com$ Adaptée par Paul Bertéa – 2011
+rem$LANGUE$Français
+Titre$ phaeocollybia
+
+
+LABER D., 1991. Ergänzung zu « Die europäischen Arten der Gattung Ohaeocollybia und ihr Vorkommen im südlichen Schwarzwale », Zeits. f. Mykol. 57,1:109-116
+Com$Clé de Laber, 1991 – Traduite et adaptée par Paul Bertéa octobre 2010
+1,0$ source :/// LABER D., 1991. Ergänzung zu « Die europäischen Arten der Gattung Ohaeocollybia und ihr Vorkommen im südlichen Schwarzwale », Zeits. f. Mykol. 57,1:109-116
+
+
+1,0 $ ===> Retour au Kit $$f"phaeocollybia_Kit.cle"
+1,0 $ Clé originale en allemand - LABER D., 1991. Ergänzung zu « Die europäischen Arten der Gattung Phaeocollybia und ihr Vorkommen im südlichen Schwarzwald », Zeits. f. Mykol. 57,1:109-116 $$f"Phaeocollybia_Laber_1991_original.cle"
+REM$ 1,0,N$ LABER D., 1991. Ergänzung zu « Die europäischen Arten der Gattung haeocollybia und ihr Vorkommen im südlichen Schwarzwald », Zeits. f. Mykol. 57,1:109-116
+1,cs1$ Clé traduite en français
+1,cs2 $ Figures de la publication
+
+* Clé traduite en français
+Cs1,0$
+1,0 $ Hyphes bouclées. Cheilocystides claviformes, claviformes-capitées, cylindriques (fig. 2). Spores 5-7 x 3,5-4,5 µm, brunes, finement verruqueuses, avec pore germinatif ; petite espèce, chapeau jusqu'à 2,5 cm, rougeâtre à brun sombre. $ Phaeocollybia arduennensis Bon 1979 
+1,0,N$ /// - Synonymes : Ph. hilaris (Fr.) ss. Horak 1977, Ph. cidaris (Fr.) ss. Bresinsky 1960, Ph. jennyi (Karst.) Heim ss. Lange, ss. Moser. /// - Illustrations : Lge. 123 A, Mitteleurop. Pilze Pl. 137. (Ph. cidaris), Pareys Buch der. Pilze p. 247
+REM$ 1,0,N$ Photo arduennensis$$f "Phaeocollybia arduennensis.jpg"
+1,2 $ Hyphes non bouclées
+2,3 $ Spores dépassant 7 µm
+2,0 $ Spores inférieures à 7 µm. Cheilocystides cylindriques, faiblement claviformes (fig. 5). Spores 4,5-5,5 (6) x 3,0-3,5 (4) µm, brun ocre dans KOH, presque lisses, faiblement ponctuées ; chapeau jusqu'à 5 cm, brun rougeâtre, lames étroites et très serrées ; odeur et saveur fortement raphanoïde. $ Phaeocollybia jennyi (Karst.) Heim 1931.
+1,2,N$ Simocybe jennyi Karsten/// - Synonymes : Ph. christinae (Fr.) Heim ss. Heim 1930, Ph. christinae (Fr.) Smith 1957, Bresinsky 1960, Ph. cidaris (Fr.) ss. Kühner & Romagn. 1956/57./// - Illustrations : Mitteleurop. Pilze Pl. 137 (Ph. christinae), Handb. f. Pilzfreunde IV, 316. Ricken Pl. 59.3./// - Note du traducteur : voir description détaillée de Kühner dans : Suppl. Bull. Soc. Nat. D'Oyonnax 10-11:48 – Compléments à la Flore Analytique:358 (sub nom de Ph. cidaris).
+3,4 $ Cheilocystides effilées, à col allongé, terminées par de petits boutons (fig. 3)
+3,5 $ Cheilocystides claviformes ou cylindriques (fig. 4)
+4,0 $ Spores 6,5-8 x 4-4,8 µm, brunes, fortement verruqueuses ; petite espèce, chapeau jusqu'à 2 cm rouge orangé ; odeur et saveur distinctement farineux $ Phaeocollybia cidaris (Fr.) Heim 1931.
+4,0,N$ Simocybe cidaris (Fr.) Karsten./// - Synonymes : Ph. lugubris forme mineure Kühn. & Romagn. 1956/57/// - Note du traducteur : cette synonymie n'est pas certaine, Kühner (1957) signalant une "odeur prononcée de farine ou de rance" semblable à celle de Ph. lugubris (Suppl. Bull. Soc. Nat. D'Oyonnax 10-11:44 – Compléments à la Flore Analytique:354).
+4,0 $ Spores 7,5-9 x 4,5-5,5 µm, brunes, grossièrement verruqueuses ; chapeau jusqu'à 8 cm, ocre châtain ou brun rougeâtre ; odeur et saveur fortement raphanoïde $ Phaeocollybia lugubris (Fr.) Heim 1931.
+4,0,N$ /// - Synonymes : Ph. spadicea Smith 1957./// - Illustrations : Handbuch f. Pilzfreunde IV, 314, Ricken Pl, 59, 2, Pareys Buch der Pilze p. 247. /// - Note du traducteur : voir description détaillée de Kühner dans : Suppl. Bull. Soc. Nat. D'Oyonnax 10-11:42 – Compléments à la Flore Analytique:352.
+5,0 $ Spores 9-12 x 4,5-5,5 µm, brunes, verruqueuses ; chapeau jusqu'à 4 cm, rouge orangé, brun orangé rougeâtre ; odeur à composante de marcipan, ainsi que raphanoïde ou farineuse $ Phaeocollybia christinae (Fr.) Heim 1931.
+5,0,N$ /// - Synonymes : Ph. lateraria Smith 1957, Bresinsky 1958./// - Illustrations : Lge 123 D, Mitteleurop. Pilze Pl. 137 (Ph. laterarius), Pareys Buch der Pilze p. 247, Bres. 793.
+5,0 $ Spores 7,5-9 x 4,3-5,5 µm, brunes, grossièrement verruqueuses ; chapeau jusqu'à 6 cm, vert-olive foncé, brun à tonalités vert-olive, rarement brun foncé ; odeur et saveur raphanoïde $ Phaeocollybia festiva (Fr.) Heim 1931.
+5,0,N$ /// - Illustrations: Mitteleurop. Pilze Pl. 137, Handbuch f. Pilzfreunde IV, 315, Bres. 792, FRIC 48 C. /// - Note du traducteur : voir description détaillée de Kühner dans : Suppl. Bull. Soc. Nat. D'Oyonnax 10-11:44 – Compléments à la Flore Analytique:354.
+
+* Figures de la publication
+Cs2,1$
+1,0 $ Fig. 1 Pseudorhiza de Ph. festiva$$f"Phaeocollybia festiva_pseudorhiza_fig_1.jpg"
+1,0 $ Fig. 2 Cheilo de Ph. arduennensis$$f"Phaeocollybia arduennensis_fig_2.jpg"
+1,0 $ Fig. 3 Cheilos de Ph. lugubris et cidaris$$f"Phaeocollybia lugubris et cidaris_fig_3.jpg"
+Phaocollybia lugubris et cidaris_fig_3.jpg"
+1,0 $ Fig. 4 Cheilo de Ph. christinae et festiva$$f"Phaeocollybia christinae et festiva_fig_4.jpg"
+1,0 $ Fig. 5 Cheilo de Ph. jennyi$$f"Phaeocollybia jennyi_fig_5.jpg"
+1,0 $ Fig. 6 Phaeocollybia cidaris$$f"Phaeocollybia cidaris_fig_6.jpg"
+
+ Phaeocollybia cidaris_fig_6.jpg"
+1,0 $ Fig. 7 Phaeocollybia arduennensis$$f"Phaeocollybia arduennensis_fig_7.jpg"
+
+EOF
+
+
+

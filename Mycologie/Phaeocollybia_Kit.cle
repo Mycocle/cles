@@ -1,0 +1,90 @@
+Titre $ KIT des PHAEOCOLLYBIA
+Com $ Proposé par Paul Bertéa Octobre 2010-Septembre 2011
+
+Com$ Adaptée par Paul Bertéa – 2011
+rem$LANGUE$Français
+
+1,cs1 $ Clés de détermination $ CHOIX D’UNE CLE DE DETERMINATION
+1,cs2 $ Définition du genre $ AUTEURS PAR ORDRE ALPHABETIQUE 
+1,cs3 $ Descriptions détaillées $ CLASSEMENT ALPHABETIQUE DES ESPECES
+1,0,N$ Observation préliminaire du traducteur :///Il est souvent utile et très instructif de confronter les descriptions d'un même taxon par différents auteurs.
+1,cs4 $ Iconographie sélectionnée $ PHOTOS D’ORIGINE VARIEE, WEB OU OUVRAGES PAPIER
+1,0,N$ Observation préliminaire :///Marcel Bon [1992, DM XXI(84):44] fait observer à juste titre que, en raison de la relative homogénéité du genre, la plupart des espèces ne peuvent se séparer correctement sans examen microscopique ; seuls Ph. lugubris et Ph. festiva peuvent être reconnus sur le terrain et donc faire l'objet de photos discriminantes d'une réelle utilité pour la détermination. ///Cette petite réserve n’interdit en rien d’apprécier le talent et les qualités artistiques des photographes ainsi que les performances des appareils modernes…
+1,cs5$ Bibiographie $ AUTEURS PAR ORDRE ALPHABETIQUE
+
+* Clés de détermination
+cs1,0 $ 
+1,0 $ Bon 1984 [8 taxons]$$f"Phaeocollybia-Bon_1992_PB.cle"
+1,0 $ Horak 1977 [33 taxons dont 4 européens]$$f"Phaeocollybia_Horak_Sydowia_1977.cle"
+1,0 $ Horak 2005 [6 taxons]$$f"Phaeocollybia_Horak_RBE_2005.cle"
+1,0 $ Kühner & Romagnesi 1953 [3 taxons] $$f"Phaeocollybia_KR_1953.cle"
+1,0 $ Laber 1991 [6 taxons]$$f"Phaeocollybia_Laber_1991_Fr.cle"
+f"Phaeocollybia_Laber-fr.cle"       obsolete
+1,0 $ Moser 1978 [5 taxons]$$f"Phaeocollybia_Moser_1978.cle"
+1,0 $ Orton in BFF 7 1993 [4 taxons]$$f"Phaeocollybia_Orton in BFF_1993.cle"
+1,0 $ Smith 1957 (Amérique) [16 taxons] $$f"Phaeocollybia_Smith.cle"
+
+* Définition du genre
+cs2,0 $ Définition du genre
+1,0 $ Heim Roger, 1931. Le genre Inocybe : 70-71 ==> [Diagnose princeps]$$f"Phaeocollybia_Heim_1931_Def.pdf"
+1,0 $ Bon Marcel, 1984. Clé des espèces galéro-naucorioïdes. DM XXI(84):44 $$f"Phaeocollybia_Genre _Bon_1984.txt"
+1,0 $ Kühner Robert, 1957. Compléments à la Flore Analytique$$f"Phaeocollybia_Kuhner_1957_Def.pdf"
+1,0 $ Ludwig 
+1,0,n$(pour mémoire)
+1,0 $ Moser Meinhardt. 1978. KKF 4°éd.$$f"Phaeocollybia_Moser_KKF_Def.txt"
+1,0 $ Moser Meinhardt, FAB $$f"Phaeocollybia_Moser_FAB_Def.pdf"
+1,0, $ Orton P.D. in British Fungus Flora 7 :75$$ f"Phaeocollybia_Def_BFF_1993.pdf"
+1,0 $ Singer Rolf, 1986. The Agaricales in Modern Taxonomy:663-666$$f"Phaeocollybia_Singer_AMT_1986.pdf"
+1,0$ Watling Roy 
+1,0,n$(pour mémoire)
+
+
+* Descriptions détaillées
+Cs3,1$ 
+1,0 $ Phaeocollybia arduennensis : Bon M.,1979. Doc. Mycol. IX(35):42 (diagnose originale)$$f"Phaeocollybia_arduennensis_Bon_1979.pdf"
+1,0 $ Phaeocollybia arduennensis : Singer R., 1987. Myc. Helvetica 2(2):255. 
+1,0,n$(pour mémoire)
+1,0 $ Phaeocollybia arduennensis : Ludwig Eh., 2001. Pilzkompendium I:510.
+ 
+1,0 $ Phaeocollybia christinae : Ludwig Eh., 2001. Pilzkompendium I:511. 
+ 
+1,0 $ Phaeocollybia cidaris
+1,0 $ Phaeocollybia festiva : Kühner R., 1956. Suppl. Bull. Soc. Nat. d'Oyonnax 10-11:44 et 1977. Compléments à la Flore Analytique:354
+ 
+1,0 $ Phaeocollybia festiva : Ludwig Eh., 2001. Pilzkompendium I:511.
+ 
+1,0 $ Phaeocollybia jennyi : Kühner R., 1956. Suppl. Bull. Soc. Nat. d'Oyonnax 10-11:48 et 1977. Compléments à la Flore Analytique:358 (sub nom de Ph. cidaris)
+ 
+1,0 $ Phaeocollybia jennyi : Ludwig Eh., 2001. Pilzkompendium I:512.
+ 
+1,0 $ Phaeocollybia lugubris : Horak E., 1968. Synopsis generum Agaricalium:565 [sub Simocybe lugubris]$$f"Simocybe lugubris_Horak_1968.pdf"
+ 
+1,0 $ Phaeocollybia lugubris : Kühner R., 1956. Suppl. Bull. Soc. Nat. d'Oyonnax 10-11:42 et 1977. Compléments à la Flore Analytique:352
+ 
+1,0 $ Phaeocollybia lugubris : Ludwig Eh., 2001. Pilzkompendium I:509.
+ 
+
+* Iconographie sélectionnée
+Cs4,1$
+1,0 $ Phaeocollybia arduennensis $$f"Phaeocollybia arduennensis_Ph_1.jpg"
+1,0 $ Phaeocollybia arduennensis (JMM)$$f"Phaeocollybia%20arduennensis%201.jpg"
+
+1,0 $ Phaeocollybia christinae (Rép. tchèque) $$f"Phaeocollybia christinae_tchèque.jpg" 
+1,0 $ Paeocollybia cidaris (Rép. tchèque) $$f"Phaeocollybia_cidaris_1_1.jpg"
+1,0 $ Phaeocollybia festiva (Errati, Pays basque) $$f"Phaeocollybia festiva_Errati_623.jpg"
+1,0 $ Phaeocollybia jennyi (JKK) $$f"Phaeocollybia jennyae JMM_201.jpg"
+1,0 $ Phaeocollybia lugubris (Serge Poumarat) $$f"Phaeocollybia_lugubris_1_SP.jpg"
+1,0 $ Phaeocollybia lugubris (basque) $$f"Phaeocollybia_lugubris_ioi_070924.jpg"
+
+
+* Bibliographie
+cs5,0 $
+1,0 $ B I B L I O G R A P H I E $$f"Phaeocollybia_Biblio.doc"
+
+1,0  BON Marcel, 1984 : Clé des espèces galéro-naucorioïdes. DM XXI(84):44
+1,0  BRESINSKY
+1,0  SINGER Rolf
+
+EOF
+
+

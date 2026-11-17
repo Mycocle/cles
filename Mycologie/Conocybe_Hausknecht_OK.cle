@@ -1,0 +1,459 @@
+Titre$ C O N O C Y B E     HAUSKNECHT
+Com$ Adapté par Paul Bertéa décembre 2015
+
+1,0 $ ===> RETOUR AU KIT $$f"Conocybe_kit.cle"
+1,0,$
+1,0 $ Lamellae mature dark brown, spore print violaceous brown, spores in KOH chocolate $$s"Sect. Conocybella"
+1,0,N$/// Sect. Conocybella (extra-European) 
+1,2 $ Lamellae mature brownish yellow, yellow- to rubiginous; spore print mostly yellow-brown to rubiginous, rarely brownish yellow or dark brown; spores in KOH yellow, rubiginous to reddish brown, rarely hyaline 
+
+2,cs6 $ Basidiocarp large, with Tricholoma-habit, reminding of a Hebeloma; pileus up to 80 mm wide, stipe up to 80 x 15 mm $$s"Sect. Giganteae"
+2,3 $ Basidiocarp small to medium, with Mycena-habit; pileus mostly much smaller, if large then stipe slenderer and thinner
+
+3,cs7 $ Spore surface not smooth, but verrucose-punctate or rugulose-ridged, at least in scanning electron microscope; stipe with lecythiform caulocystidia or a mixture of lecythiform and non-lecythiform elements $$s"Sect. Ochromarasmius"
+3,4 $ Spore surface smooth, even in scanning electron microscope 
+
+4,0 $ Spores coarsely tuberculous, cruciform or almost triangular, with distinct germpore; stipitipellis consisting of non-lecythiform elements $$s"Sect. Nodulososporae"
+4,0,N$/// Sect. Nodulososporae (extra-European)
+4,5 $ Spores without tubercles, ellipsoid, amygdaliform, subcylindrical, rarely mitriform or hexagonal
+
+5,cs8 $ Veil present as volva, volva-like zone at stipe base or as fringes at pileus margin $$s"Sect. Singerella"
+5,6 $ Veil absent, even young
+
+6,0 $ Pileipellis consisting of spheropedunculate and fusiform, partly rostrate elements $$s"Sect. Obscurae"
+6,0,N$/// Sect. Obscurae (extra-European)
+6,7 $ Pileipellis only consisting of spheropedunculate to vesiculous elements; pileocystidia present or absent
+
+7,8 $ Pseudoparaphyses present, mature lamellae mostly deliquescent; pileus margin slightly to distinctly crenate, stipe often white, rarely pigmented
+7,9 $ Pseudoparaphyses absent, lamellae not deliquescent, pileus margin not crenate, but often translucently striate
+
+8,cs4 $ Caulocystidia piliform, cylindrical, fusiform to ellipsoid, not lecythiform $$s"Sect. Candidae"
+8,cs5 $ Caulocystidia mostly lecythiform $$s"Sect. Inopinatae"
+
+
+9,cs1 $ Caulocystidia mostly lecythiform, at stipe apex partly mixed with sorne piliform or non-Iecythiform elements $$s"Sect. Conocybe"
+9,10 $ Caulocystidia mostly non-Iecythiform or a mixture of lecythiform, piliform, ellipsoid to fusiform elements
+
+10,cs3 $ Caulocystidia mostly non-Iecythiform, also pilifonn, ellipsoid to fusiform; at stipe apex sometimes few lecythiform elements present $$s"Sect. Pilosellae"
+10,cs2 $ Stipitipellis a mixture of lecythiform, piliform, ellipsoid to fusiform elements, the proportion of lecythiform elements ca 25-75 % $$s"Sect. Mixtae"
+
+
+
+cs1,0 $  $ (Key A) - Sect. Conocybe
+
+1,2 $ Basidia mostly 2-spored
+1,9 $ Basidia mostly 4-spored
+
+2,3 $ Stipe distinctly radicant or directly connected to grass remnants
+2,7 $ Stipe not radicant
+
+3,0 $ Spores in average less than 10.0 x 6.0 µm, moderately thick-walled with small, often indistinct germ-pore; basidiocarp small, with pseudorhiza connected to grass remnants (31) $ Conocybe gracilis
+3,4 $ Spores in average exceeding 12.0 x 7.0 µm, thick-walled with large, distinct germpore; basidiocarp small to medium, pseudorhiza not connected to grass remnants
+
+4,0 $ Spores in average 13.7 x 8.8 µm, ellipsoid, slightly lacrimoid, not lentiform, with 1.5-2 µm thick wall and ca 1 µm wide germ-pore (37) $ Conocybe pragensis
+4,5 $ Spore wall at most 1-1.5 µm thick, germ-pore often reaching 1.5-2 µm
+
+5,0 $ Pileus 3-15 mm wide with distinct, often acute papilla, ochraceous-stramineous; lamellae very distant, stipe white with up to 5 mm long pseudorhiza; spores in average 12.2-12.4 x 7.8-8.2 µm, not lentiform (36) $ Conocybe papillata
+5,6 $ Pileus mostly 10-30 mm wide, hemispherical, fiat convex, papi lia indistinct, moist ochre-brown to reddish brown; lamellae crowded, stipe with up to 50 mm long pseudorhiza
+
+6,0 $ Stipe always white; pileus ochre- to orange-brown, rugose or not, hygrophanous, moist striate; spores in average 12.9-14.6 x 8.4-9.7 x 7.3-8.3 µm, distinctly lentiform, often irregular (34) $ Conocybe alboradicans
+6,0 $ Stipe from base upwards browning; pileus rubiginous, reddish brown, in centre rugose; spores in average 11.9-12.7 x 7.6-8.2 µm, not lentiform, regularly ellipsoid (35) $ Conocybe daamsii
+
+7,0 $ Spores in average 7.9-9.0 x 4.9-5.8, germ-pore absent (22 a) $ Conocybe enderlei var. variispora
+7,8 $ Spores in average exceeding 13.5 x 9.0 µm, with wide, distinct germ-pore
+
+8,0 $ Stipe with age from base upwards darkening, spores in average 13.6-14.3 x 9.1-9.5 x 8.1-8.7 µm, ellipsoid, slightly lentiform (10) $ Conocybe mexicana
+8,0 $ Stipe white for a long time, spores in average 15.6-17.7 x 8.9-9.9 µm, often subcylindrical, never lentiform (11) $ Conocybe striatipes
+
+9,10 $ Stipe distinctly radicant or pseudorhiza connected to dead grass or other herbs
+9,13 $ Stipe base bulbous or equal, not radicant, but base sometimes deeply inserted in sand
+
+10,0 $ Spores in average 8.6-9.7 x 6.6-7.7 x 5.1-6.0 µm, in face-view mitriform to hexagonal, distinctly lentiform; pseudorhiza up to 60 mm long (32) $ Conocybe antipus
+10,11 $ Spores ellipsoid, never lentiform; pseudorhiza or radicant stipe base at most 30 mm long
+
+11,0 $ Spores in average 10.3-12.9 x 6.0-7.4 µm, thick-walled with up to 1.5 µm wide germ-pore; on dung, compost or rotting plant debris (33) $ Conocybe rhizophora
+11,12 $ Spores in average hardly reaching 10 x 6 µm, moderately thick-walled with small germ-pore; always connected to dead grass or herbs
+
+12,0 $ Pileus moist dark rubiginous to dark brown, smooth; lamellae crowded; spores in average 8.0-9.4(-9.8) x 4.5-6.0 µm, Q= 1.4-2, rusty yellow to pale rusty brownish inKOH (29) $ Conocybe graminis
+12,0,N$ if spores much smaller, in average at most 6.5 x 4.0 µm, see also (99) Conocybe subleiospora with seemingly smooth spore surface in light microscope)
+12,0 $ Pileus moist yellow-brown to orange-brown, often rugose; lamellae distant; spores in average 8.0-9.3 x 5.5-6.2 ~lln, Q= 1.3-1.6, rusty- to reddish brown in KOH -30) $ Conocybe herbarum
+
+13,14 $ Stipe towards base enlarged and deeply inserted in sand or gravel
+13,16 $ Stipe base bulbous or equal
+
+14,0 $ Context in stipe base distinctly pale blue; spores in average 7.6 x 4.8 µm, rather thin-walled, ochre-yellow in KOH (12) $ Conocybe caeruleobasis
+14,15 $ Context in stipe base yellowish to brown, never with blue tinge; spores in average exceeding 9.2 x 5.3 µm, rubiginous to reddish brown in KOH
+
+15,0 $ Spores in average 9.2-10.2 x 5.3-5.9 µm; at stipe apex besides lecythiform caulocystidia also clavate or piliform elements intermixed; ammoniacal reaction often positive; pileus dark brown to brownish black (13) $ Conocybe sabulicola
+15,0 $ Spores in average 11.5-12.8 x 7.0-7.7 µm; only lecythiform caulocystidia present; ammoniacal reaction always negative; pileus brown, reddish brown to at most dark brown (14) $ Conocybe dunensis
+
+16,17 $ Cheilocystidia large, with wide body, capitulum 4-] 0.5 µm wide (in average exceeding 5 µm); caulocystidia often even wider
+16,23 $ Cheilocystidia narrower, with capitulum 2.5-5.5(-6.5) µm, in average less than 5 µm; caulocystidia of similar size
+
+17,18 $ Spores thin-walled with single or slightly double wall and at most 1 µm wide germpore, hyaline, yellow to at most brownish yellow in KüH, in average less than 9.7 x 5.4 µm
+17,20 $ Spores distinctly thick-walled with double wall and mostly more than 1 µm wide germpore, yellow-brown to reddish brown in KüH, in average exceeding 8.9 x 5.2 µm
+
+18,0 $ Spores with very thin wall, almost hyaline in KüH, germ-pore absent (25) $ Conocybe spiculoides
+18,19 $ Spore wall thicker, spores yellow to at most brownish yellow in KüH, with distinct germ-pore
+
+19,0 $ Pileus young and fresh dull, grey-brown, vinaceous brown, blackish brown, in exsiccate centre mostly grey-brown (26) $ Conocybe echinata
+19,0 $ Pileus young and fresh bright, yellow-brown, orange-brown, pale rubiginous, in exsiccate yellow, orange-yellow, grey tinges absent (27) $ Conocybe rickeniana
+
+20,0 $ Basidiocarps relatively large, pileus up to 45 mm wide, often relatively pale with olive tinges; stipe up to 110 x 3.5 mm, with up to 6 mm wide basal bulb; spores in average 10.3-13.5 x 5.8-7.8 µm; ammoniacal reaction mostly positive (7) $ Conocybe subovalis
+20,21 $ Basidiocarps small to medium, pileus at most 25 mm wide, always with brown colours; stipe slenderer and thinner, base hardJy distinctly bulbous; ammoniacal reaction always negative
+
+21,0 $ Spores in average 9.7-11.5 x 5.3-6.8 µm and cheilocystidia thickly ventricose (up to 20 µm) with up to 10.5 µm wide capitulum (28) $ Conocybe juniana var.juniana
+21,22 $ Spores in average smaller; if up to 10.2 x 5.5 µm, then cheilocystidia with at most 11 µm wide body and 6.5 µm wide capitulum
+
+22,0 $ Spores in average 9.2-10.2 x 5-5.5 µm and cheilocystidia 17.5-30 x 6.7-11 µm, with 4-6.5 µm wide capitulum; pileus up to 25 mm wide (28 a) $ Conocybe juniana var. sordescens
+22,0 $ Spores in average 8.9-9.4 x 5.2-5.8 µm and cheilocystidia 18-30 x 9-16 µm, with 5-9 µm wide capitulum; pileus mostly smaller, at most up to 18 mm wide (28 b) $ Conocybe juniana var. subsejuncta
+
+23,26 $ Caulocystidia similar to cheilocystidia, with in average less than 5.5 µm wide capitulum and thin body
+23,24 $ Caulocystidia partly thickly ventricose, with up to 7 µm wide capitulum
+
+24,0 $ Spores in average exceeding 9.0 x 5.0 µm $
+24,0,N$ ===> see (28 b) Conocybe juniana var.sordescens
+24,25 $* Spores in average less than 7.5 x 4.5 µm
+
+25,0 $ Spores phaseoliform $
+25,0,N$ ===> see (16 a) Conocybe microspora var. brunneola where scattered larger caulocystidia may be present
+25,0 $ Spores ellipsoid $
+25,0,N$ ===> see 98) Conocybe dumetorum var. dumetorum and (98 a) Conocybe dumetorum var. laricina with in Iight microscope seemingly smooth, but in scanning electron microscope rough spore surface
+
+26,27 $ Germ-pore absent, callus sometimes present
+26,30 $ Distinct germ-pore present, although sometimes small
+
+27,0 $ Spores distinctly lentiform, in average 7.4-8.9 x 5.8-6.2 x 5.0-5.2 µm; pileus extremely small, at most 6 mm wide; sun-exposed loess slopes (23) $ Conocybe minima
+27,28 $ Spores never lentiform, in average smaller; basidiocarps larger; other habitats
+
+28,0 $ Spores almost hyaline in KüH with very thin wall, in average 7.1 x 3.8 µm (24) $ Conocybe haglundii
+28,29 $ Spores distinctly coloured in KÜH, ochre-yellow, rusty yellow, with single, but thickish wall
+
+29,0 $ Spores in average 6-7.6 x 4.1-4.6 µm, callus absent; pileus 7-25 mm wide, yellowbrown (22) $ Conocybe enderlei var. enderlei
+29,0 $ If spores narrower, in average only up to 3.9 µm wide, often with callus, pileus hardly 10 mm wide and dark brown to brownish black
+29,0,N$ ===> see (98 b) Conocybe dumetorum var. phaeoleiospora with in light microscope seemingly smooth spores
+
+30,0 $ Pileocystidia absent or extremely rare in very young basidiocarps; spores in average 8.4-10.0 x 4.6-5.5 µm, ammoniacal reaction mostly spontaneous positive (1) $ Conocybe macrocephala
+30,31 $ Pileocystidia mostly abundant even in mature basidiocarps
+
+31,32 $ Spores in average more than 10.0 µm long; if slightly shorter, then thick-walled, in KOH brownish orange to reddish brown
+31,40 $ Spores in average less than 10.0 µm long, thin-waIJed, yellow, pale brownish yellow to rubiginous
+
+32,33 $ Spores distinctly lentifonn
+32,34 $ Spores not or only indistinctly lentiform
+
+33,0 $ Pileus 4-12(-20) mm wide, moist at most pale brown, soon fading to yellowish, surface smooth; lamellae distant, remaining a long time pale yellow, then rusty yellow; stipe up to 55 x 1.5 mm; spores in average 10.4-12.1 x 6.8-7.2 x 6.2-6.6 µm (9) $ Conocybe subxerophytica var. subxerophytica
+33,0 $ Pileus 8-15(-20) mm wide, moist orange-brown to pale reddish brown, dry dark ochre, orange-ochre, surface often n1gose; lamellae crowded, soon rubiginous; stipe up to 45 x 2 mm; spores in average 10.7-11.5 x 6.6-7.9 x 6-7 µm (9 a) $ Conocybe subxerophytica var. brunnea
+
+34,35 $ Spores weakly to distinctly amygdalifonn to Iimonifonn with often slightly tapermg
+apex
+34,37 $ Spores ellipsoid with mostly obtuse apex
+
+35,0 $ Spores brownish orange, reddish yeIlow-orange in KOH with distinctly thicker wall, in average 9.5-11.9 x 5.4-7.1 µm; pileus warm to bright brown, moist distinctly striate (6) $ Conocybe tenera
+35,36 $ Spores yellow, ochre-yellow, pale orange-yellow in KOH with only moderately
+thickened wall
+
+36,0 $ Pileus dark blond to pale brown, moist only weakly striate; at stipe apex many piliform elements present, lecythiform caulocystidia with long neck; spores in average 9.9-11.5 x 5.3-6.4 µm, yellow to ochre-yellow in KOH (2) $ Conocybe subpallida
+36,0 $ Pileus chestnut-brown to dark brown, often non-striate; caulocystidia almost exclusively lecythifonn with short neck; spores in average 10.1 -11.3 x 5.6-6.5 µm, pale orange-yellow to brownish yellow in KOH (3) $ Conocybe subalpina
+
+37,0 $ Pileus white to whitish, in centre at most pale yellowish, even moist non-striate; (34) spores in average 10.7-11.0 x 6.1-6.6 µm, thick-walled with wide germ-pore, pale yellow-brown to orange-brown in KOH (5) $ Conocybe hololeuca
+37,38 $ Pileus always distinctly coloured, bright yellow, orange-brown to brown
+
+38,0 $ Pileus moist bright yellow, orange-yellow, when wet even brownish orange, only fresh slightly striate; exsiccate yellow to golden yeIlow; spores in average 10.3-12.2 x 6.0-7.0 µm (4) $ Conocybe aurea
+38,39 $ PiJeus moist brown, rubiginous, greyish brown, striate, but soon non-striate; exsiccate brownish to rubiginous, mostly with distinctly contrasting, darker lamellae
+
+
+39,0 $ Spores in average (10.0-) 10.6-14.1 x 6.0-7.9 µm, pileus mostly hemispherical (8) $ Conocybe semiglobata var. semiglobata
+39,0 $ Spores in average 14.3-16.1 x 7.4-8.9 µm, pileus mostly campanulate (8 a) $ Conocybe semiglobata var. campanulata
+
+40,41 $ Spores in average more than 8.0 µm long
+40,44 $ Spores in average less than 8.0 µm long 
+
+41,0 $ Basidiocarps very small, pileus up to 8 mm wide, stipe up to 1mm thick, waxy-hyaline, young distinctly pink to watery-incarnate; spores in average 7.9-8.7 x 4.9-5.4 µm, in KOH rusty brownish; sun-exposed loess slopes (21) $ Conocybe roseipes
+41,42 $ Basidiocarps larger and stipe thicker; stipe even young without pink or incarnate
+tinges, spores in KüH paler; habitat different
+
+42,0 $ Pileus bright, orange to brownish orange, centre up to orange-brown, fading to pale orange or yellowish, stipe pale yellow to orange-yellow; exsiccate pale yellow, orange-yellow, rusty yeJlow; spores in average (7.3-)7.9-9.7 x (4.2-) 4.5-6.0 µm; ammoniacal reaction negative (19) $ Conocybe mesospora
+42,43 $ Pileus du 11er, brown, dull brown, umber to blackish brown, stipe dirty whitish,
+brownish to dirty rubiginous, exsiccate without yellow or orange tinges
+
+43,0 $ Pileus in centre almost black to brownish black, elsewhere dirty brown, even moist only indistinctly striate; spores in average 8.5-9.1 x 5.0-6.1 µm; pigment in pi leipellis coarsely incrusting (20) $ Conocybe nigrodisca
+43,0 $ Pileus moist brown, dirty brown, umber, almost up to centre striate; spores in average 6.8-9.1 x 4.1-5.1 µm, pigment only weakly incrusting (17) $ Conocybe brachypodii
+43,0,N$ ///if spores in average 8.4-10.0 x 4.6-5.5 µm, cheilo- and caulocystidia with wide capitula up to 5.5(-7.0) µm and ammoniacal reaction sponaneously positive see (1) Conocybe macrocephala with scattered pileocystidia]
+
+44,0 $ Cheilocystidia 25-40 µm long, with long neck tapering towards capitulum, often almost lecythiform 
+44,0,N$ ===> see (15) Pholiotina brunnea with lost veil
+44,45 $ Cheilocystidia up to 25 µm long, typically lecythiform with short neck
+
+45,0 $ Pileus very pale, alabaster, dirty whitish, in centre at most pale brown-orange, even moist never striate; spores in average 6.8-7.8 x 4.5-5.0 µm; caulocystidia lecythiform, but often mixed with few c1avate to subcylindrical elements (18) $ Conocybe ochroalbida
+45,46 $ Pileus moist always darker, stipitipellis almost exclusively consisting of lecythiform caulocystidia
+
+46,0 $ Basidiocarps large, with up to 35 mm wide pileus and 2.5 mm thick stipe; spores in average 7.0-8.0 µm long, ammoniacal reaction positive $
+46,0,N$///small-spored forms of (17) Conocybe brachypodiî;///if pileus bright yellow-orange to orange and ammoniacal reaction always negative///see also small-spored forms of (19) Conocybe mesospora
+46,47 $ Basidiocarps mostly smaller with thin stipe; spores in average 6.0-7.5 µm long
+ammoniacal reaction always negative
+
+47,0 $ Spores in average 6.8-7.0 x 4.6-4.7 x 4.3-4.7 µm, broadly ellipsoid-oviform, Q = 1.3-1.6, not or only minimally lentiform; pileus 4-10 mm wide, up to 4 mm high, lamellae distant (15) $ Conocybe roberti
+47,48 $ Spores narrower, 3.5-4.3 µm wide, ellipsoid to phaseoliform, never lentiform, Q = 1.5-2.1; pileus 6-25 mm wide, up to 10 mm high, lamellae very crowded
+
+48,0 $ Spores distinctly phaseoliform, in average 6.2-7.2 x 3.5-4.2 µm (16 a) $ Conocybe microspora var. brunneola
+48,0 $ Spores ellipsoid, not phaseoliform, in average 6.5-7.5 x 3.7-4.3 µm (16) $ Conocybe microspora var. microspora
+48,0,N$///Collections of (97) Conocybe dumetorum var. dumetorum and (97 b) Conocybe dumetorum var. phaeoleiospora with rough, but in light microscope seemingly smooth spore surface key out here, too; in case of doubt examination in scanning electron microscope necessary
+
+
+
+cs2,0 $ $ (Key B) - Sect. Mixtae
+
+1,2 $ Stipe distinctly radicant or stipe base deeply inserted in sand
+1,5 $ Stipe base bulbous or equal, not radicant or inserted in sand
+
+2,0 $ Spores in average more than 16.0 µm long $
+2,0,N$ ===> see (77) Conocybe watlingii (sometimes in places relatively many lecythiform caulocystidia present)
+2,3 $ Spores in average at most 14.0 µm long
+
+3,0 $ Spores remarkably naviculiform, in average 12.8-13.2 x 6.8-7.0 µm, basidia mostly 4-spored; stipe base deeply inserted in sand dunes (46) $ Conocybe naviculospora
+3,4 $ Spores ellipsoid to weakly limoniform, basidia 2-spored
+
+4,0 $ Spores in average 10.0-11.5 x 6.1-7.2 µm; pileus brown, ochre-brown, hazel, fading to ochre-orange, moist distinctly striate; stipe white, longtimes remaining so; on dung or fertilised soil (45) $ Conocybe cettoiana
+4,0 $ Spores in average 12.8-14.1 x 8.1-8.5 µm; pileus liver-brown, dark brown, dry hardly paler, even moist non-striate; stipe young cream, soon uniformely orangebrownish; on sandy-Ioamy soils, even in sand dunes (47) $ Conocybe fiorii
+
+5,6 $ Basidia mostly 2-spored or mixed 1-,2-,3-, 4-spored
+5,9 $ Basidia predominantly 4-spored
+
+6,0 $ Basidia mixed 1-, 2-, 3-, 4-spored, but 2-spored ones prevailing; spores very variable in shape and size, in average 8.1-11.2 x 5.6-6.8 µm, thick-walled, germ-pore absent or small; pileus 3-12 mm wide, red-brown, mostly rugose (51) $ Conocybe lobauensis
+6,7 $ Basidia almost exclusively 2-spored; spores larger, with wide germ-pore; basidiocarps
+larger
+
+7,0 $ Spores distinctly naviculiform or limoniform with papillate germ-pore, pale yellow to ochre-yeUow in KOH; spores in average 11.8-14.2 x 6-8.1 µm; caulocystidia at stipe apex mostly lecytiform (43) $ Conocybe ambigua
+7,8 $ Spores ellipsoid, orange-brown to reddish brown in KOH
+
+8,0 $ Spores in average 12.8-15.1 x 6.8-8.6 µm, germ-pore J.5-2.5 µm wide (40) $ Conocybe merdaria
+8,0 $ Spores in average 15.1-19.0 x 7.8-10.6 µm, germ-pore up to 4µm wide (42) $ Conocybe macrospora
+
+9,0 $ Ammoniacal reaction spontaneous or after 12 hours distinctly positive $
+9,0,N$/// ===> see Key (5) A, 35 ff. Series Tenera (species with scattered non-lecythiform caulocystidia)
+9,10 $ Ammoniacal reaction always absolutely negative
+
+10,11 $ Spores in average 11.0-18.0 µm long, thick-walled with 1.5-2 µm wide germ-pore, orange-brown, reddish brown in KOH
+10,13 $ Spores in average 6.0-11.0 µm long, if up to 12.0 µm, then thin-walled, without or with at most 1 µm wide germ-pore; pale yellow, yellow, orange-yellow in KOH
+
+11,0 $ Basidiocarps tender, stipe thin; pileus mostly higher than wide, lamellae distant, in grassland; spores in average 12.4-15.2 x 6.9-9.1 µm (39) $ Conocybe pulchella
+11,12 $ Basidiocarps stout with thicker stipe, pileus mostly wider than high, lamellae crowded; inleaf and needle litter or on dung, compost, fertilised soils
+
+12,0 $ Spores in average 14.0-18.5 x 8.0-10.0 µm; usually on dung, compost, fertilised soils (41) $ Conocybe pubescens
+12,0 $ Spores in average 10.9-14.1 x 6.3-7.9 µm; usually in leaf and needle litter in forests (38) $ Conocybe subpubescens
+
+13,0 $ Basidiocarps large; pileus 20-40 mm wide, stipe 35-80 x 2-3 mm; spores in average (10) 9.5-10.2 x 5.5-5.8 µm, with slightly double wall and up to 1 µm wide germ-pore (44) $ Conocybe zuccherellii
+13,14 $ Basidiocarps small to medium; pileus at most 15-20 mm wide, stipe 1-1.5 mm thick; germ-pore present or absent
+
+14,15 $ Spores without or with indistinct germ-pore or callus, in average 5.8-6.6 x 3.6-4.0 µm
+14,16 $ Spores with distinct up to 1 µm wide germ-pore, in average more than 7.5 µm long
+
+15,0 $ Lecythiform caulocystidia frequent on entire stipe length, relation usually more than 50 % (50) $ Conocybe tuxlaensis
+15,0 $ Lecythiform caulocystidia absent or exceptionally very scattered at stipe apex, basidiocarp mostly larger $
+15,0,N$ ===> see (52) Conocybe pilosella
+
+16,0 $ Spores in average 7.6-7.8 x 4.3-4.5 µm; pileus fresh orange-brown, rubiginous, distinctly striate (48) $ Conocybe monicae
+16,0 $ Spores in average 9.5-12.0 x 5.2-6.5 µm; pileus fresh orange-yellow to cream, non striate (49) $ Conocybe tetrasporoides
+
+
+
+cs3,0 $   $ (Key C) - Sect. Pilosellae
+1,2 $ Basidia mostly 2-spored
+1,14$ Basidia mostly 4-spored
+
+2,3 $ Spores in average less than 13.0 µm long, thin- to moderately thick-walled with small to medium wide germ-pore
+2,9 $ Spores in average more than 13.0 µm long, thick-walled with wide, partly huge germ-pore
+
+3,4 $ Stipe radicant
+3,5 $ Stipe not radicant
+
+4,0 $ Spores fusiform-Iimoniform, in average at most 6.5 µm wide, not lentiform, yellow to brownish yeHow in KOH; also 1-, 3-, and 4-spored basidia present; pileus reddish orange-brown (66) $ Conocybe leporina
+4,0 $ Spores broadly ellipsoid, in average more than 7 µm wide, sligtly lentiform, rubiginous in KOH, basidia exclusively 2-spored; pileus dark brown, dark reddish brown (67) $ Conocybe microrrhiza var. microrrhiza
+
+5,0 $ Pileus very dark and dull, grey-brown, dark brown, blackish brown, exsiccate remarkably bicolored with ± greyish tinged pileus and vinaceous stipe; spores in average 10.6-12.6 x 6.7-7.8 x 5.2-7.4 µm, ellipsoid, distinctly lentiform (59 a) $ Conocybe moseri var. bisporigera
+5,6 $ Pileus at most dark brown or with paler, brighter colours, exsiccate not remarkably bicolored; spores remarkably cylindrical or fusiform-Iimoniform, never lentiform
+
+6,0 $ Spores in face-view remarkably cylindrical, in side-view elongate-limoniform, 12-13 x 6-7 µm, in average more than 12.5 µm long, with wide, truncate germpore; as yet only known from the type locality in a greenhouse (65 a) $ Conocybe umbellula var.lednicensis
+6,7 $ Spores fusiform-limoniform with papillate apex, in average hardly 12.0 µm long
+
+7,0 $ Basidiocarps very small, pileus less than 10 mm wide, stipe up to 1 mm thick, lamellae remarkably distant; spores in average 9.6-10.5 x 5.3-5.6 µm, ochre-yellow to rusty brownish in KOH (64) $ Conocybe ingridiae
+7,8 $ Basidiocarps larger, pileus mostly 10-25 mm wide, stipe 1-3 mm thick, lamellae crowded; spores in average exceeding 10.5 x 6.0 µm
+
+8,0 $ Spores in average 10.5 x \2.\ x 5.8-7.0 µm, rusty to reddish brown in KOH (63) $ Conocybe bispora
+8,0 $ If spores larger, only pale yellow to yellow in KOH and stipe with many lecythiform caulocystidia
+8,0,N$ ===> see (43) Conocybe ambigua
+
+9,0 $ Pileus young spherical, hardly expanding, dark brown, chestnut-brown, margin even old involute and strongly pruinose from extremely frequent pileocystidia; spores in average 14.0 x 8.2 µm, in a flower pot (72) $ Conocybe velutinomarginata
+9,10 $ Pileus not spherical, saon expanding, pruinose or not; pileocystidia mostly present, but not sa frequent
+
+10,0 $ Spores in average 18.3-20.1 x 10.4-11.6 µm, with eccentrical, up to 4 µm wide germ-pore; pileus young dark brown, blackish brown, often with olive tinges(84) $ Conocybe gigasperma
+10,11 $ Spores in average at most 18.0 x 10.0 µm, with central, up to 2.5 µm wide germpore; pileus young paler
+
+11,0 $ Stipe 2-8 mm thick, with up to 14 mm wide basal bulb; pileus fresh reddish brown, rubiginous; spores in average 13.3-J8.0 x 7.7-10.1 µm (70) $ Conocybe inocybeoides
+11,12 $ Stipe 1-4 mm thick, base equal or only moderately swollen (up to 5 mm); pileus fresh paler, at most brownish yellow, if brown, then growing fasciculate; spores in average up to 16.0 x 9.5 µm
+
+12,0 $ Growing densely fasciculate; pileus fresh yellow-brown, reddish yellow-brown, brown to dull brown, dry strongly fading up to whitish, margin slightly striate; spores in average 13.0-16.5 x 7.5-9.0 µm; a small number of 3-, 4-spored basidia present (61) $ Conocybe caespitosa
+12,13 $ Growing single or gregarious; pileus young paler, at mast dirty ochre brownish or ochre-olive, even moist non-striate, dry less fading; basidia exclusively 2-spored
+
+13,0 $ Pileus 9-50 mm wide, fresh with distinct olive hue, surface greasy; stipe 1-4 mm thick; on dung, compost, fertilised soils (75) $ Conocybe rickenii
+13,0 $ Pileus 5-15 mm wide, fresh brownish or dirty pale brown to almost white, never with olive hue; stipe at most 1.5 mm thick; in grass, along paths, on rather poor soils, not directly on dung (74) $Conocybe siliginea
+
+14,15 $ Stipe radicant
+14,19 $ Stipe not radicant
+
+15,0 $ Pileus and stipe fresh with remarkably red colours; spores in average 7.9-8.9 x 4.5-5.1 µm (68) $ Conocybe incarnata
+15,16 $ Pileus and especially stipe never red, pileus at most rubiginous, reddish brown
+
+16,17 $ Spores in average less th an 11.0 µm long; basidiocarps not on dung
+16,18 $ Spores in average more than 11.0 µm long, basidiocarps directly on dung
+
+17,0 $ Spores ellipsoid, in average 8.7-10.7 x 5.2-7.0 µm, pileus reddish brown to dark brown (67 b) $ Conocybe microrrhiza var. tetraspora
+17,0 $ Spores slightly phaseoliform, in average 7.7-8.1 x 4.6-4.7 µm, pileus brown, yell0w-brown (67 a) $ Conocybe microrrhiza var. parvispora
+
+18,0 $ Spores 11.3-12.3 x 7.1-7.6 x 6.2-6.9 flm, slightly lentiform; caulocystidia almost exclusively non-Iecythiform (76) $ Conocybe fimetaria
+18,0 $ Spores 16.0-16.7 x 8.4-8.9 flm, ellipsoid; lecythiform caulocystidia present in small proportion (5-10 %) (77) $ Conocybe watlingii
+
+19,20 $ Spores distinctly lentiform and additionally slightly hexagonal or submitriform
+19,22 $ Spores ellipsoid, if lentiform, then never hexagonal or submitriform
+
+20,0 $ Spores in average 13.2-13.5 x 8.9-9.2 x 7.5-7.8 µm, thick-walled, rubiginous in KOH (87) $ Conocybe pulchra
+20,21 $ Spores in average not more than 12.0 µm long, moderately thick-walled, at most pale rusty orange in KOH
+
+21,0 $ Spores in face-view less than 7 flm wide, in average 8.7-9.1 x 6.3-6.5 x 5.2-5.5 µm, in forests on poor soils (85) $ Conocybe hexagonospora
+21,0 $ Spores in face-view 7-9 µm wide, in average 9.9-12.1 x 7-8.7 x 5.6-7.6 µm, mostly in meadows, on fertilised places, or on dung and rotting plant debris (86) $ Conocybe brunneidisca
+
+22,23 $ Spores in average less than 8.5 µm long, germ-pore absent or indistinct; pileus moist distinctly striate
+22,25 $ Spores in average more than 8.5 µm long, if slightly shorter, then with distinct, ca 1 µm wide germ-pore; pileus moist striate or not
+
+23,0 $ Spores thin-walled, almost hyaline in KÜH, with indistinct germ-pore, in average 6.2-8.2 x 3.6-4.9 µm (53) $ Conocybe pallidospora
+23,24 $* Spores distinctly coloured in KüH, pale yellow to ochre-yellow, germ-pore absent or only with callus
+
+24,0 $ Pileus moist brown, yellow-brown to at most dark brown, surface smooth; spores in average 5.6-8.1 x 3.5-4.7 µm (52) $ Conocybe pilosella var. pilosella
+24,0 $ Pileus moist brownish black to almost black, surface greasy; spores in average 6.2-7.4 x 3.7-4.2 µm (52 a) $ Conocybe pilosella var. brunneonigra
+
+25,0 $ Pileus doliform, margin even old strongly involute, not distinctly expanding, pale grey-brown, soon grey to ash-grey; spores 9.3-10.9 x 6.4-7.0 x 5.5-6.2 µm, slightly lentiform; Mediterranean (71) $ Conocybe cylindracea
+25,26 $ Pileus not doliform, soon expanding, margin later never involute
+
+26,27 $ Spores in average more than 14.0 )lm long (if about 14.0 µm and context with strong farinaceous smell see 26* ff.)
+26,29 $ Spores in average less than 14.0 µm long
+
+27,0 $ Pileus 5-12 mm wide, stipe up to 30 x 1.5 mm, cylindrical with equal base, spores in average 14.6-17.0 x 8.3-9.3 µm; on dung (83) $ Conocybe magnispora
+27,28 $ Pileus 15-40 mm wide, stipe up to 110 x 4 mm, with slightly enlarged to distinctly
+bulbous base (up to 14 mm)
+
+28,0 $ Pileus bright orange-brown, without olive hue; stipe base abruptly bulbous, spores in average 14.1-16.7 x 8.2-9.7 µm; on dung, compost, fertilised soil (81) $ Conocybe singeriana
+28,0 $ Pileus at least young brown with olive hue; stipe base mostly only slightly bulbous, spores in average 15.4-15.8 x 9.4-9.5 µm; in needle litter (82) $ Conocybe pinetorum
+
+29,0 $ Smell and taste distinctly farinaceous; stipe with few lecythiform caulocystidia with short, thick neck; spores in average 13.0-14.1 x 7.7-8.4 µm (80) $ Conocybe farinacea
+29,30 $ Smell absent or at most slightly raddish-like; if scattered lecythiform caulocystidia present, then with thin neck
+
+30,0 $ Pileus young grass-green, olive-green, margin lemon-yellow, older whole pileus olive-brown; spores in average 10.8 x 6.4 x 6.0 µm, slightly lentiform; on dung (78) $ Conocybe viridibrunnescens
+30,31 $ Pileus young without green or lemon-yellow tinges
+
+31,32 $ Pileus moist untypical1y dark and dull for the genus, umber, grey-brown, mousegrey to violaceous black
+31,35 $ Pileus moist ochraceous, yellow-brown, brown, ochre-brown, orange-brown to rubiginous
+
+32,0 $ Spores very variable in size and shape, distinctly lentiform, in average 8.5-10.7 x 6.1-7.6 x 5.5-6.6 µm; many 2-spored basidia intermixed; pileus up to 35 mm, stipe rather stiff (59 b) $ Conocybe moseri var. robustior
+32,33 $ Spores more regular, never lentiform; 2-spored basidia absent or extremely rare
+
+33,0 $ Spores in average 11.7-11.9 x 6.9-7.1 µm, with distinct, often slightly eccentrical germ-pore; basidiocarp with Panaeolus-habit, pileus dirty reddish brown, mousegrey to violaceous black, moist non-striate, darker spotted; on dung (79) $ Conocybe murinacea
+33,34 $ Spores smaller, pileus dirty brown, dark brown to black, moist distinctly striate
+
+34,0 $ Context not blackening when old and drying; spores in average 8.8-1 0.6(-11.5) x 5.1-6.3(-6.7) µm, moderately thick-wal1ed (59) $ Conocybe moseri var. moseri
+34,0 $ Context distinctly blackening; spores in average 7.6-9.1 x 4.7-5.4 µm, thin-walled; as yet only in greenhouses (58) $ Conocybe nigrescens
+
+35,0 $ Spores in average 11.0-13.5 x 6.5-7.2 µm, thick-walled with wide germ-pore; pileus only very fresh pale brown, soon fading to white, guickly expanding; stipe purely white, with strongly bulbous base (69) $ Conocybe apala
+35,0,N$///if pileus young pure white or yellowish, longtimes barrel-shaped, hymenium with pseudoparaphyses and spores wider, in average 7-9 µm, see (88) Conocybe albipes
+35,36 $ Spores in average smaller; if approximately egually large, then pileus with different colours, never fading to white, and stipe coloured
+
+36,37 $ Spores distinctly lentiform, but not hexagonal (if so, see 20 ff.)
+36,39 $ Spores ellipsoid, limoniform, never lentiform
+
+37,0 $ Basidiocarps robust, pileus 15-45 mm wide, ochre-brown to blackish brown, stipe up to 80 x 3 mm, base slightly enlarged; spores 10.4-13.0 x 6.0-7.4 x 5.4-7.0 µm, often subcylindrical; on dung, fertilised soils, bumt places (60) $ Conocybe anthracophila var. anthracophila
+37,0,N$///if spores wider, ellipsoid or distinctly subcylindrîcal, pileus up to 60 mm wide, brighter orange-brown, stipe 40-140 x 1.5-10 mm, with up to 14 mm wide bulb, see (100) Conocybe hornana var. hornana and 100 a) Conocybe hornana var. subcylindrospora with overlooked volva)
+37,38 $ Basidiocarps tender, pileus 8-16 mm wide, stipe 1-2 mm thick; spores never subcylindrical, wider
+
+38,0 $ Spores 10.1-12.3 x 6.6-7.8 x 5.6-7.2 µm, on poor soils, in meadows, forests (62) $ Conocybe velutipes var. velutipes
+38,0,N$///if spores ofsimilar size, but basidiocarp on dung, see also (76) Conocybe fimetaria with overlooked or broken pseudorhiza
+38,0 $ Spores 12.3-13.9 x 7.5-9 x 6.8-7.7 µm, with slightly bulbous base, on dung, compost, fertilised soils (62 a) $ Conocybe velutipes var. nitrophila
+
+39,0 $ Pileus even moist very pale, pale brownish grey, yellowish brown, never striate, surface slightly greasy; spores 10.0-11.8 x 6.1-6.9 µm, ellipsoid; on dung, compost, fertilised soil (73) $ Conocybe fuscimarginata
+39,40 $ Pileus moist always darker, yellow-brown, rubiginous, reddish brown, mostly striate
+
+40,41 $ Spores ellipsoid, ellipsoid-ovifonn with obtuse apex
+40,43 $ Spores amygdalifonn to limoniform with slightly to distinctly acute apex
+
+41,0 $ On haline soils, in salt steppes, also near Juncus; stipe distinctly longitudinally striate; spores 9.5-10.2 x 5.8-6.2 µm, often with eccentrical genn-pore (56) $ Conocybe halophila
+41,42 $ Habitat different; stipe hardly longitudinally striate; spores with central genn-pore
+
+42,0 $ Basidiocarps robust, pileus up to 45 mm wide, stipe up to 3 mm thick with bulbous base; spores in average 8.8-10.7 x 5.3-6.6 µm (60 a) $ Conocybe anthracophila var. ovispora
+42,0 $ Basidiocarps smaller, pileus 5-20 mm wide, stipe up to 1 mm thick, cylindrical; spores in average 7.5-9.4 x 4.4-5.9 µm (55) $ Conocybe sienophylla
+ 
+43,0 $ Spores 10.1-12 x 5.8-6.8 µm, thick-walled, orange-brown to rubiginous in KOH; alpine (57 a) $ Conocybe ochrostriata var.favrei
+43,44 $ Spores thin-walled, yellow to pale brownish yellow in KOH; colline to montane, rarely subalpine
+
+44,0 $ Spores 6.5- [1 x 4-6.5 µm, in average 7.3-9.6 x 4.2-6.0 µm (54) $ Conocybe rostellata
+44,0,N$///if spores slightly phaseoliform, see also (67 a) Conocybe microrrhiza var. parvispora with overlooked pseudorhiza)
+44,0 $ Spores 8.5-14.5 x 5-7 µm, in average 9.5-12.4 x 5.8-6.8 µm (57) $ Conocybe ochrostriata var. ochrostriata
+
+
+
+cs4,0 $   (Key D) - Sect. Candidae
+
+1,0 $ Pileus barrel-shaped with strongly involute margin, soon very slimy; at first whitish, soon up to yellow-brown; entire basidiocarp very brittle, deliquescent within few hours; stipe in relation to pileus very long, soon bent; spores in average 10.5-12.1 x 7.0-7.6 µm (95) $ Conocybe deliquescens
+1,2 $ Pileus campanulate to conical-campanulate, margin not strongly involute, never so strongly slimy; pileus not so quickly deliquescent, stipe length in relation to pileus normal
+
+2,0 $ Spores very small, 5-7 x 3-4 µm, in average not exceeding 6.0 x 4.0 µm, thinwalled, ellipsoid (93) $ Conocybe karinae
+2,3 $ Spores much larger (>5-7 x 3-4 µm), ellipsoid or not, with thicker walls
+
+3,0 $ Spores in face-view mitriform, broadly lentiform, in average 8.8-10.1 x 6.1-7.1 x 5.4-6.0 µm (94) $ Conocybe umbonata
+3,4 $ Spores larger, ellipsoid, not or only weakly lentiform, never mitriform
+
+4,0 $ Spores hyaline in KOH, germ-pore absent; whole basidiocarp waxy, almost translucent (89) $ Conocybe romagnesii
+4,5 $ Spores coloured in KOH, with distinct germ-pore; basidiocarp not waxy-hyaline
+
+5,6 $ Spores ellipsoid, slightly lentiform
+5,7 $ Spores never lentiform
+
+6,0 $ Pileus white to whitish, in centre up to yellow, mostly distinctly rugose; spores in average 11.3-11.6 x 7.8-8 x 7-7.1 µm, slightly angular (88 a) $ Conocybe albipes var. rugata
+6,0 $ Pileus orange-red, brown-orange to brown; spores in average 11.8-13.1 x 7.8-8.2 x 7.2-7.7 µm (92) $ Conocybe zeylanica var. zeylanica
+
+7,0 $ Basidia 2-spored; spores in average 11.9-13.5 x 7.5-8.5 µm (90) $ Conocybe pseudocrispa
+7,8 $ Basidia 4-spored
+
+8,0 $ Pileus milk-white to at most pale yellow in centre, often higher than wide; spores in average 11.2-14.4 x 7.0-9.0 µm (88) $ Conocybe albipes var. albipes
+8,0 $ Pileus ochre, dark blond to leather-brown, mostly wider than high; spores in average 11.8-13.2 x 7.8-8.2 µm (91) $ Conocybe crispella
+
+
+cs5,0 $    (Key E) - Sect. Inopinatae
+1,0 $ Single representative $ Conocybe inopinata
+
+
+
+cs6,0 $ (Key F) - Sect. Giganteae
+1,0 $ Single representative $ Conocybe intrusa  
+
+
+
+cs7,0 $  (Key G) - Sect. Ochromarasmius
+
+1,0 $ Stipe distinctly radicant; pileus 22-27 mm wide, stipe up to 40 x 2 mm; spores in average 5.8-6.2 x 3.6-4.1 µm, in light microscope almost smooth, in scanning electron microscope irregularly rugose-rough (99) $ Conocybe subleiospora
+1,2 $ Stipe not radicant, with slightly bulbous base; pileus 3-11 mm wide, stipe up to 20 x 1 mm; spores in light microscope distinctly rough to almost smooth, in scanning electron microscope with obtuse, isolated verrucae
+
+2,0 $ Spores in average 5.6-6.9 x 3.4-4 µm, with papillate germ-pore, verrucae in scanning electron microscope towards germ-pore lower or absent (98 a) $ Conocybe dumetorum var. laricina
+2,3 $ Germ-pore not papillate, verrucae on entire spore surface equally high, even near the germ-pore
+
+3,0 $ Spores thin-walled, in light microscope distinctly rough, in average 5.8-6.1 x 3.4-3.6 µm; in forests, in litter layer, also on wood (98) $ Conocybe dumetorum var. dumetorum
+3,0 $ Spores thick-walled, in light microscope seemingly smooth, in average 5.6-6.6 x 3.4-3.9 µm; in poor grassland, often on sandy or gravely soils (98 b) $ Conocybe dumetorum var.phaeoleiospora
+
+
+cs8,0 $   (Key H) - Sect. Singerella
+1,0 $ Spores in average 9.5 x 6.2 x 5.5 µm, distinctly lentiform, in face-view slightly angular to mitriform; pileus 9-17 mm wide, stipe up to 30 x 2 mm, with up to 3 mm wide bulbous base (101) $ Conocybe thermophila
+1,2 $ Spores in average 11.0 x 7.0 µm or larger, lentiform or not, ellipsoid or subcylindrical; pileus 10-60 mm wide, stipe up to 140 x 10 mm, with up to 14 mm wide bulb
+
+2,0 $ Spores in average 10.9-13.4 x 7.2-8.3 x 6.5-7.5 µm, ellipsoid-oviform, slightly lentiform (100) $ Conocybe hornana var. hornana
+2,0 $ Spores in average 13.8-14.1 x 7.1-7.7 µm, not lentiform, subcylindrical to elongate ellipsoid (100 a) $ Conocybe hornana var. subcylindrospora
+
+
+

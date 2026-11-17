@@ -1,0 +1,74 @@
+titre$ Clé des hépatiques à feuilles :
+
+com$ cf "Les bryophytes aquatiques et supra aquatiques" Agence de l'Eau Adour-Garonne  / adapt aout 08
+rem$ CLE D’IDENTIFICATION DES BRYOPHYTES AQUATIQUES (et supra aquatiques)  pour la mise en œuvre de l'Indice Biologique Macrophytique en Rivière (I.B.M.R.) 
+rem$ accompagnée d’un REPERTOIRE DES PRINCIPALES ESPECES et d’un GLOSSAIRE ILLUSTRE
+
+
+
+rem$ (une description des espèces surlignées en gras, est proposée dans le répertoire)
+rem$ Rappel : Plantes généralement complanées (aplaties dorso-ventralement), à feuilles insérées sur deux ou trois rangs (le troisième étant occupé par les amphigastres, insérés sur la face ventrale de la tige et étant
+rem$ généralement dissemblables des feuilles), feuilles toujours sans nervure, simples ou diversement lobées à laciniées (très profondément divisées), parfois condupliquées (pliées sur elles-mêmes).
+1,30$rappel
+1,2 $ A - Hépatiques à feuilles simples ou divisées en lobes, mais dans ce cas feuilles planes à concaves, non condupliquées
+1,21 $ B - Hépatiques à feuilles bilobées condupliquées, les deux lobes étant appliqués l'un sur l'autre (ces lobes pouvant être de forme et taille identiques ou très différentes, voire l'un minuscule).
+2,3 $ A - Feuilles simples, entières ou denticulées sur tout leur contour
+2,14 $ B - Feuilles divisées en plusieurs lobes par un sinus (échancrure) de longueur variable, pouvant être très court et ne former que 2 dents à l'apex de la feuille .
+3,0 $ A - Feuilles nettement dentées sur tout leur contour; feuilles souvent convexes, présentant parfois un pli à leur base; amphigastres très petits ou absents : $ Plagiochila asplenioides
+3,0 ,n$  (confusion possible avec Plagiochila porelloides qui se différencie par une plus petite taille, la présence de rameaux flagelliformes et une cuticule mamilleuse (lisse chez P. asplenioides)
+3,4 $ B - Feuilles à marges entières; feuilles planes ou concaves; amphigastres variables.
+4,5 $ A - Plante ne présentant pas d'amphigastres, même à l'apex des rameaux.
+4,10 $ B - Plante présentant des amphigastres, parfois réduits, mais présents au minimum à l'apex des rameaux.
+5,0 $ A - Plante présentant des rhizoïdes pourpres et une odeur de carotte : $ Jungermannia obovata
+5,6 $ B - Plante présentant des rhizoïdes brunâtres à incolores, sans odeur de carotte.
+6,7 $ A - Plante à feuilles orbiculaires à cordées, isodiamétriques ou plus larges que longues (de rapport longueur/largeur = 0.7-1/1).
+6,8 $ B - Plante à feuilles ovales, généralement plus longues que larges (de rapport longueur/largeur = 1-1.3/1).
+7,0 $ A - Plante fertile généralement prostrée, présentant (au minimum sur les feuilles périchétiales) une marge différenciée par des cellules, parfois élargies, à parois nettement épaissies ; feuilles présentant des parois cellulaires à trigones très petits ou absents :  $ Jungermannia gracillima (=Solenostoma crenulatum, Norme I.B.R.M. NF T90 - 395)
+7,0 $ B - Plante fertile généralement dressée, pouvant présenter une marge différenciée par des cellules élargies mais à parois fines, non épaissies ; feuilles présentant des parois cellulaires à trigones petits :  $ Jungermannia sphaerocarpa
+8,0 $ A - Feuilles à largeur maximale située entre leur 1/4 et leur 1/8e inférieur ; feuilles de rapport longueur/ largeur = 0.8-1.2/1 : $ Jungermannia exsertifolia ssp. cordifolia
+8,9 $ B - Feuilles à largeur maximale située entre leur 1/2 et leur 1/3 inférieur ; feuilles de rapport longueur/ largeur = 1.0-1.7/1.
+9,0 $ A - Feuilles de rapport longueur/largeur = 1.0- 1.7/1 (soit 0.3-1.2 x 0.3-1.0 mm) à largeur maximale proche de leur moitié ; plante de 0.3 à 1 cm de long : $ Jungermannia pumila
+9,0 $ B - Feuilles de rapport longueur/largeur = 1.0-1.3/1 (soit 0.6-1.8 x 0.6-1.5 mm) à largeur maximale proche de leur 1/3 inférieur ; plante de 0.5 à 4 cm de long : $ Jungermannia atrovirens (=Solenostoma triste, Norme I.B.R.M. NF T90 - 395)
+10,11 $ A - Plante présentant des amphigastres réduits, parfois présents seulement à l'apex des rameaux; feuilles insérées obliquement sur la tige, plante parfois comprimée latéralement ; feuilles à largeur réduite au niveau de leur insertion.
+10,12 $ B - Plante présentant des amphigastres généralement bien développés ou avortés (et laissant des cicatrices) sur toute la longueur de la tige ; feuilles insérées presque parallèlement à la tige ; feuilles à largeur non réduite au niveau de leur insertion
+11,0 $ A - Plante de 4 à 12 cm de long, comprimée latéralement, à feuilles réniformes, transparentes, fortement appliquées contre la tige ; plante présentant peu de rhizoïdes à l'extrémité des tiges ; parois cellulaires à trigones peu visibles à assez nets, jamais renflés : $ Nardia compressa
+11,0$ B - Plante de 1 à 3 cm de long, à feuilles orbiculaires à rondes, non transparentes, dressées non appliquées contre la tige; plante présentant de nombreux rhizoïdes à l'extrémité des tiges; parois cellulaires à trigones très nets et souvent renflés :  $ Nardia scalaris (=Nardia acicularis, Norme I.B.R.M. NF T90 - 395)
+12,0 $ A - Plante à feuilles opposées (insérées en face les unes des autres) ; amphigastres triangulaires, simples et à marges dentées : $ Saccogyna viticulosa
+12,13 $ B - Plante à feuilles alternes (insérées en quinconce), amphigastres lancéolés, bifides et à marges entières (vérifier l'absence d'un lobule minuscule; si présence, voir 23B)
+13,0 $ A - Feuilles présentant, pour la majorité, un apex échancré à très courtement bilobé; cellules de diamètre compris entre 35 et 50 µm; plante d'un vert plutôt pâle à feuilles généralement sub-imbriquées (se recouvrant partiellement) : $ Chiloscyphus pallescens
+13,0 $ B - Feuilles présentant, pour la majorité, un apex arrondi; cellules de diamètre compris entre 25 et 35 µm; plante d'un vert plutôt franc : $ Chiloscyphus polyanthos var. polyanthos
+13,0 $ C - Feuilles présentant, pour la majorité, un apex tronqué; cellules de diamètre compris entre 20 et 25 µm; plante d'un vert noirâtre à feuilles généralement distantes (ne se recouvrant pas) : $ Chiloscyphus polyanthos var. polyanthos fo. rivularis
+14,0 $ A - Plante d'aspect "plumeux"; feuilles laciniées, divisées presque jusqu'à leur base en 3 à 4 lobes, eux-mêmes souvent bi- à tri-pennés en lobes filamenteux, unisériés : $ Trichocolea tomentella
+14,15 $ B - Plante d'aspect différent ; feuilles divisés en deux lobes par un sinus de longueur variable, pouvant être très court et ne former que 2 dents à l'apex de la feuille.
+15,16 $ A - Plante à feuilles incubes (insérées à l'inverse des tuiles d'un toit).
+15,17 $ B - Plante à feuilles succubes (insérées comme les tuiles d'un toit).
+16,0 $ A - Feuilles bilobées dans leur 1/6e supérieur par deux lobes aigus et divergents ; sinus arrondi; cuticule papilleuse ; amphigastres divisés presque jusqu'à leur base en deux lobes étroits portant chacun une dent étroite et longue (de sorte que chaque lobe paraît être divisé en deux) : $ Calypogeia arguta
+16,0 $ B - Feuilles courtement bilobées dans leur 1/20e supérieur par deux lobes aigus et rapprochés, certaines feuilles pouvant être entières ou tronquées; sinus étroit ; cuticule lisse ; amphigastres divisés dans leur 1/2 aux 3/4 supérieurs en deux lobes portant généralement chacun une dent étroite et longue (de sorte que chaque lobe paraît être divisé en deux) : $ Calypogeia fissa 
+16,0,n $(confusion possible avec Chiloscyphus coadunatus et se différenciant par ses feuilles incubes)
+17,18 $ A - Plante à feuilles insérées presque parallèlement sur la tige ; sinus arrondi; amphigastres présents, bifides; trigones absents.
+17,19 $ B - Plante à feuilles insérées presque perpendiculairement sur la tige; sinus plus ou moins aigu; amphigastres absents; trigones différenciés, souvent noduleux (enflés)
+18,0 $ A - Feuilles très courtement bilobées par des lobes arrondis, à peine marqués, la majorité des feuilles présentant un apex échancré, plus rarement un apex arrondi : $ Chiloscyphus pallescens
+18,0 $ B - Feuilles bilobées dans leur 1/5e au 2/5e supérieur par des lobes à apex très aigu, formant comme deux grandes dents nettes à l'apex de la feuille :  $ Chiloscyphus coadunatus 
+18,0 ,n$(confusion possible avec Calypogeia arguta et se différenciant par ses feuilles succubes)
+19,0 $ A - Feuilles bilobées dans leur 1/2 au 1/4 supérieur; marge plane; plante plutôt molle : $ Marsupella sphacelata
+19,20 $ B - Feuilles bilobées dans leur 1/4 au 1/20e supérieur ; marge souvent révolutée ou ondulée à la base de la feuille ; plante plutôt raide.
+20,0 $ A - Feuilles bilobées dans leur 1/4 au 1/6e supérieur; plante de 1 à 5 cm, souvent rougeâtre :  $ Marsupella emarginata var. emarginata (=Marsupella emarginata, Norme I.B.R.M. NF T90 - 395)
+20,0 $ B - Feuilles bilobées dans leur 1/6e au 1/20e supérieur ; plante de 2 à 10 cm, rarement rougeâtre :  $ Marsupella emarginata var. aquatica (=Marsupella aquatica, Norme I.B.R.M. NF T90 - 395)
+21,22 $ A - Plante à feuilles incubes (insérées à l'inverse des tuiles d'un toit); amphigastres présents; lobes de formes différentes, de tailles comparées diverses .
+21,24 $ B - Plante à feuilles succubes (insérées comme les tuiles d'un toit); amphigastres absents; lobes de formes identiques ou presque, de tailles comparées diverses.
+22,0 $ A - Plante à amphigastres bilobés ; lobe ventral (lobule) plus ou moins rectangulaire à carré, de proportions diverses par rapport au lobe dorsal et généralement aussi large que la tige, parallèle à la marge du lobe dorsal, relié à ce dernier sur presque tout sa longueur : $ Lejeunea sp.
+22,23 $ B - Plante à amphigastres simples, ovales ; lobe ventral (lobule) lancéolé à ovale, mesurant environ 10-20 % du lobe dorsal et moins large que la tige, parallèle à la tige, libre par rapport au lobe dorsal, relié à ce dernier seulement à sa base.
+23,0 $ A - Lobe dorsal ovale, lobe ventral (lobule) lancéolé aigu, denté à sa base et longuement décurrent; amphigastres longuement décurrents, à marges récurvées et généralement dentées à leur base ; cellules de 28-40 µm de diamètre ; plante vert foncé à jaunâtre : $ Porella cordaeana
+23,0 $ B - Lobe dorsal ovale-rectangulaire, lobe ventral (lobule) sub-rectangulaire, entier à sa base et peu décurrent ; amphigastres peu décurrents, à marges planes et entières à leur base ; cellules de 16-28 µm de diamètre ; plante noirâtre à vert olive foncé :  $ Porella pinnata 
+23,0,n $(confusion possible avec Chiloscyphus polyanthus, dont elle diffère par ses feuilles bilobées à un lobe très petit)
+24,0 $ A - Feuilles à marge cilliée-dentée (dents composées de 2 à 3 cellules en ligne) : $ Scapania nemorea 
+24,0,n $(pouvant présenter des formes rougeâtres à dents plus courtes se différenciant de S. undulata par un lobe dorsal décurrent et de S. paludicola, S. paludosa et S. uliginosa par un sinus droit)
+24,25 $ B - Feuilles à marge entière ou denticulée (dents composées d'1 cellule), non ciliée-dentée .
+25,0 $ A - Plante à lobes de même forme, obovales souvent ondulés à la marge ; sinus droit; lobe dorsal non décurrent : $ Scapania undulata 
+25,0,n $(une forme d'un rouge vineux et à feuille non ondulée mais dentée existe aussi en cours d'eau très acides : Scapania undulata forma dentata)
+25,26 $ B - Plante à lobes de formes un peu différentes, le lobe dorsal (le plus petit) étant plus ou moins réniforme à cordé ; sinus semi-circulaire à fortement arqué; lobe dorsal généralement décurrent.
+26,0 $ A - Lobe ventral non à très peu décurrent ; propagules bicellulaires : $ Scapania paludicola
+26,27 $ B - Lobe ventral décurrent à longuement décurrent ; propagules unicellulaires, rares ou inconnues .
+27,0 $ A - Sinus assez court, légèrement arqué; lobe dorsal mesurant le 1/3 du lobe ventral sur les feuilles du milieu de la tige ; plante verte à teinte rougeâtre ; propagules unicellulaires très rares :  $ Scapania uliginosa
+27,0 $ B - Sinus long, très arqué ; lobe dorsal mesurant la 1/2 du lobe ventral sur les feuilles du milieu de la tige ; plante vert jaunâtre très molle ; propagules inconnues : $ Scapania paludosa
+30,0$Plantes généralement complanées (aplaties dorso-ventralement), à feuilles insérées sur deux ou trois rangs (le troisième étant occupé par les amphigastres, insérés sur la face ventrale de la tige et étant généralement dissemblables des feuilles), feuilles toujours sans nervure, simples ou diversement lobées à laciniées (très profondément divisées), parfois condupliquées (pliées sur elles-mêmes). $_rappel

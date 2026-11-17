@@ -1,0 +1,130 @@
+
+titre$ Phellinus M. PIERI & B. RIVOIRE
+com$ adapt G Fannechere 4 mai 2021
+1,0$ source : CLÉ DES ESPÈCES DU GENRE PHELLINUS s. 1. SIGNALÉES EN EUROPE OCCIDENTALE BSMF 2000
+ µm 
+1,0$
+1,cs1 $ a - Spores matures brunes à brun rouille observées dans 1' eau $cs1$ s"Clé A"
+1,2 $ b- Spores matures hyalines à jaunâtres observées dans l'eau
+2,cs2 $ a (l b) - Spores subsphéroïdales, à paroi cyan op hile et dextrinoïde $cs2$ s"Clé B"
+2,3 $ b - Spores cylindriformes, naviculaires, allantoïdes, ellipsoïdales ou subsphéroïdales, à paroi cyan op hile ou pas, mais non dextrinoïde
+3,cs3 $ a (2 b)- Hyphes sétales présentes dans la trame 5, souvent brusquement coudées; elles émergent alors de 1 'hyménium et peuvent faire penser à des soies hyméniales. Soies tramales et soies hyméniales absentes. Basidiome apiléé. Sur gymnosperme $cs3$s" Clé C"
+3,4 $ b- Hyphes sétales absentes. Soies tramales et soies hyméniales présentes ou pas. Basidiome piléé-sessile à apiléé, sur angiosperme ou sur gymnosperme·
+4,cs4 $ a (3 b) - À l'ouverture des pores, hyphes piquetées de masses cristallines pouvant même former des amas isolés. Soies hyméniales présentes; soies tramales et soies mycéliennes présentes ou non. Remarque : une coupe tangentielle à la surface hyménophorale permet d'observer sous le microscope les amas cristallins contre les tubes ou à l'intérieur des pores . $cs4$ s"Clé D"
+4,5 $ b- Masses cristallines absentes à l'ouverture des pores. Soies hyméniales souvent présentes
+5,cs5 $ a ( 4 b) - Pores grands, au nombre de 1-3 par mm. Basidiome se développant sur gymnosperme. Spores ovoïdes, subsphéroïdales à courtement ellipsoïdales, à paroi un peu épaissie et cyan op hile $cs5$ s"Clé E"
+5,6 $ b- Pores plus petits, (de 3 à) 4 par mm et plus. Basidiome se développant sur angiosperme ou sur gymnosperme. Spores subsphéroïdales à ellipsoïdales, à paroi mince à épaisse, cyanophile ou pas
+6,cs6 $ a (5 b) Ligne sombre présente dans le contexte ou à la limite avec le revêtement piléique, ou contre le support, pouvant constituer dans ce cas une croûte dure et sombre. Basidiome piléé-sessile, alors dimidié à étalé-réfléchi, ou apiléé, sur angiosperme ou sur gymnosperme $cs6$s" Clé F"
+6,cs7 $ b -Ligne sombre absente. Basidiome piléé-sessile à apiléé, sur angiosperme, très rarement sur gymnosperme $cs7$ s"Clé G"
+
+
+cs1,0$ Cle A
+1,0$ Note Clé A : Spores à paroi épaissie à épaisse, colorée en brun à brun rouille observées dans l'eau. Soies tramales et soies hyméniales présentes ou pas. Basidiome piléé-sessile à apiléé, sur angiosperme. Remarque : les spores de Ph. chrysoloma sont parfois brunâtres, mais cette espèce se développe sur gymnosperme (voir clé E).
+1,0$
+1,0 $ a Soies tramales et soies hyméniales présentes. Spores de 4,0-5,0 x 3,0-3,5 (3,8) µm . Stade anamorphe se présentant sous forme d'excroissance brun noir, avec présence de chlamydospores. Basidiome apiléé signalé sur Populus, spécialement sur P. alba $ Ph. pilatii Cerny 1968
+1,2 $ b -Soies tramales et soies hyméniales absentes. Stade anamorphe non observé, chlamydospores absentes. Basidiome piléé-sessile à apiléé
+2,0 $ a (1 b) Spores de (5,2) 5,5-7,0 x 4,5-5,5 (6,0) µm . Basidiome piléé-sessile. Face abhyménophorale d'abord lisse puis rimeuse. Pores au nombre de 4-6 par mm $ Ph. rimosus (Berk. 1845) Pilat 1940
+2,3 $ b- Spores plus petites
+3,0 $ a (2 b)- Basidiome piléé-sessile, rarement apiléé, remarquablement dense et dur. Base abhyménophorale constituée d'une croûte noirâtre dure et mate, pouvant être masquée chez les jeunes spécimens piléés-sessiles par le revêtement piléique; ou ligne noire à la limite du support ou à la marge des basidiomes apiléés. Spores de (4,5) 5,0-5,5-(6,0) x (3,0) 3,5--4,0 µm. Pores au nombre de 6-8 (10) par mm $ Ph. allardii (Bres. 1910) S. Ahmad 1972
+3,0 $ b - Basidiome apiléé, non remarquablement dense et dur. Ligne noire absente. Spores de 4,0-5,0 (5,5) x 3,5--4,5 (5,0) µm . Pores au nombre de 5-8 par mm $ Ph. cavicola Kotlaba et Pouzar 1995
+
+
+cs2,0$ Cle B
+Note : 
+1,0$ note clé B : Spores subsphéroïdales, à paroi épaissie ou épaisse cyanophile et dextrinoïde. Soies hyméniales et soies tramales présentes ou non. Basidiome piléé-sessile à apiléé, se développant sur angiosperme ou sur gymnosperme. ///Remarques: /// - seul Phellinus erectus présente parfois des hyphes sétales (voir 4 a); ///- bien que l'espèce possède un système hyphal monomitique, DAI {1999, p. 27) vient de transférer Inonotus dryadeus (Pers. 1799 : Fr.) Murrill 1908 dans le genre Fomitoporia Murrill dont les espèces, jusqu'à présent à système hyphal dîmitique, possèdent des spores à paroi cyanophile et dextrinoïde. Le genre Fomitoporia n.' est pas accepté par l'ensemble des polyporologues. Il regroupe les espèces de notre clé B. hyméniales et soies tramales présentes ou non. Basidiome piléé-sessile à apiléé, se développant sur angiosperme ou sur gymnosperme. Remarques: ///- seul Phellinus erectus présente parfois des hyphes sétales (voir 4 a); ///- bien que l'espèce possède un système hyphal monomitique, DAI {1999, p. 27) vient de transférer Inonotus dryadeus (Pers. 1799 : Fr.) Murrill 1908 dans le genre Fomitoporia Murrill dont les espèces, jusqu'à présent à système hyphal dîmitique, possèdent des spores à paroi cyanophile et dextrinoïde. Le genre Fomitoporia n.' est pas accepté par l'ensemble des polyporologues. Il regroupe les espèces de notre clé B.
+
+1,0$
+1,2 $ a- Soies hyméniales présentes; soies tramales et pseuaosoies 8 présentes ou pas
+1,5 $ b- Soies hyméniales et soies tramales absentes; pseudosoies présentes ou pas; spores de 6,0-8,0 x 5,0-7,0 µm
+2,3 $ a (1 a)- Basidiome piléé-sessile ou noduleux, claviforme à orbiculaire substipité 
+2,3$ b - Basidiome toujours apiléé et dans ce cas en plaque à pulviné. Spores de 6,5-7,5 x 5,5-7,0 µm. Pores au nombre de 6--8 par mm. Basidiome d'aspect fort semblable à Ph. punctatus. Sur angiosperme, rarement sur gymnosperme3
+2,3,n$note :Spores subsphéroïdales, à paroi épaissie ou épaisse cyanophile et dextrinoïde. Soies hyméniales et soies tramales présentes ou non. Basidiome piléé-sessile à apiléé, se développant sur angiosperme ou sur gymnosperme. ///Remarques: ///- seul Phellinus erectus présente parfois des hyphes sétales (voir 4 a); ///- bien que l'espèce possède un système hyphal monomitique, DAI {1999, p. 27) vient de transférer
+3,0 $ a (2 a)- Spores de 4,5-5,8 x 4,0-5,0 µm. Basidiome piléé-sessile, signalé, jusqu'à présent, uniquement sur angiosperme $ Ph. rosmarini Bemicchia 1990
+3,4 $ b- Spores plus grandes, de 6,5-7,5 x 5,5-6,5 (7,0) µm
+4,0 $ a (3 b)- Basidiome claviforme, en console à orbiculaire substipité, se développant à la base d'angiospermes et de gymnospermes. Pseudosoies absentes, soies tramales et hyphes sétales parfois présentes. Dissépiments minces $Ph. erectus A. David, Dequatre et Fiasson 1982
+4,0,n $ Syn. Ph. juniperinus Bernicchia et S. Curreli 1990.Remarque : nous avons récolté un basidiome claviforrne sur branche morte au sol.
+4,0 $ b- Basidiome piléé-sessile, et alors ongulé, triquètre à étalé-réfléchi, croissant directement sur angiospermes et non à leur base. Pseudosoies généralement présentes, soies tramales et hyphes sétales absentes. Dissépiments épais. Voir également ci-dessous (7 b) $ Ph. robustus (P. Karst. 1889) Bourdot et Galzin 1925
+5,6 $ a ( l b) - Sur angiosperme. Basidiome piléé-sessile à apiléé
+5,0 $ b- Sur gymnosperme. Basidiome piléé-sessile, rarement apiléé, généralement sur Abies, mais également sur d'autres gymnospermes. Pseudosoies absentes $ Ph. harûgii (Allesch. et Schnabl 1890) Pat. 1903 Remarque : Ph. punctatus est exceptionnellement signalé sur gymnosperme, mais le basidiome est alors typiquement pulviné. Voir ci-dessous (8 a).
+6,7 $ a (5 a)- Basidiome piléé-sessile, généralement nettement piléé, rarement étalé-réfléchi
+6,8 $ b - Basidiome apiléé et alors en plaque ou pulviné
+7,0 $ a (6 a)- Espèce signalée, jusqu'à présent, seulement sur Hippophae rhamnoides et Elaeagnus angustifolia, basidiome de petite taille. Pseudosoies absentes. Dissépiments minces $ Ph. hippophaecola H. Jahn 1976
+7,8 $ b- Pas sur ces supports, habituellement sur Quercus, mais également sur d'autres angiospermes, basidiome pouvant atteindre une grande taille. Pseudosoies généralement présentes,o Pseudosoie : élément stérile hyménial possédant :
+8,0 $ a ( 6 b)- Basidiome rapidement et typiquement pulviné, à marge très amincie; contexte nul ou très mince, atteignant 2 mm d'épaisseur. Pseudosoies absentes, eystidioles parfois assez abondantes. Sur angiosperme, exceptionnellement sur gyrrmosperme $ Ph. punctatus (P. Karst. 1882) Pilat 194 2
+8,0 $ b - Basidiome en plaque, parfois un peu pulviné, à marge localement en bourrelet; contexte de quelques millimètres à plusieurs centimètres d'épaisseur. Pseudosoies et cystidioles habituellement présentes. Forme apiléée de $ Ph. robustus (P. Karst. 1889) Bourdot et Galzin 1925
+
+
+cs3,0$ Cle C
+1,0$ note clé C : Hyphes sétales présentes dans la trame; souvent brusquement coudées, elles émergent alors de l'hyménium et peuvent faire penser à des soies hyméniales; soies trama! es et soies hyméniales absentes. Basidiome apiléé, sur gynmosperme.///Remarque : si spores à paroi dextrinoïde, voir Ph. erectus, Clé B.
+1,0$
+1,0$a- Spores cylindriformes à allantoïdes de 4,5-5,0 x 1,5-2,0 µm $ Ph. ferrugineofuscus (P. Karst. 1887) Bourdot 1932
+1,0$b - Spores ellipsoïdales de 2,8-4,0 x 1,5-2,0 µm. Chlamydospores présentes dans le contexte$ Ph. pouzarii Kotl. 1968
+
+cs4,0$ Cle D
+
+Note CléD À 1 'ouverture des pores, hyphes piquetées de masses cristallines pouvant même former des amas isolés. Soies hyméniales présentes, soies tramales et soies mycéliennes présentes ou non. Basidiome généralement apiléé, plus rarement piléé-sessile, sur gymnosperme ou sur angiosperme.
+1,0$
+1,2 $ a Spores de 1,5-2,5 µm d'épaisseur, nettement cylindriformes, parfois arquées en vue de profil. Soies hyméniales présentes, soies mycéliennes et soies tramales absentes. Basidiome
+1,3 $ b Spores de 3,0-4,5 µm d'épaisseur, sphéro-ellipsoïdales, ellipsoïdales à courtement cylindriformes
+2,0 $ a (1 a)- Spores de 5,0-7,5 x 2,0-2,5 µm . Soies hyméniales atteignant40 µm de longueur. Basidiome apiléé se développant sur angiosperme, rarement sur gyrrmosperme $ Ph.ferreus (Pers. 1825 :Fr.) Bourdot et Galzin 1925
+2,0 $ b Spores de 6,0-8,0 x 1,5-2,0 µm . Soies hyméniales de longueur dépassant 40 µm et émergeant nettement de l'hyménium. Basidiome apiléé à étalé-réfléchi; sur gymnosperme, rarement sur angiosperme $ Ph. viticola (Schw. 1828: Fr.) Donk 1966
+3,0 $ a ( 1 b) - Basidiome piléé-sessile typiquement au pied d'angiospermes, rarement à la base de gymnospermes. Soies hyméniales présentes, mais pouvant manquer. Spores de 4,0-6,0 x 3,0-4,0 µm $ Ph. torulosus (Pers. 1825) Bourdot et Galzin 1925
+3,4 $ b - Basidiome apiléé ne se développant pas au pied, mais directement sur le support ligneux. Soies hyméniales et soies tramales présentes, soies mycéliennes souvent visibles à la marge du basidiome, mais pouvant cependant manquer
+4,0 $ a (3 b)- Spores de 5,0-7,0 x 3,0-3,5 µm; pores au nombre de 2-3 par mm. Souvent avec une odeur de linge sale mouillé sur le frais. Généralement sur angiosperme, rarement sur gymnosperme $ Ph. contiguus (Pers. 1801 :Fr.) Pat. 1900
+4,0 $ b- Spores de 4,5-5,5 x 3,0-4,5 µm; pores au nombre de 5-7 (9) par mm. Odeur non remarquable. Généralement sur angiosperme, parfois sur gymnosperme typiquement en gradins sur support vertical $ Ph. ferruginosus (Schrad. 1792 : Fr.) Pat. 1900
+
+
+cs5,0$ Cle E
+1,0$ note clé E: Pores grands, irréguliers, au nombre de 1-3 par mm, face hyménophora1e pouvant être
+dédaloïde. Basidiome se développant sur gymnosperme. Spores ovoïdes, subsphéroïdales à
+courtement ellipsoïdales, à paroi un peu épaissie et cyanophile. Soies hyméniales présentes.
+Complexe encore mal débrouillé.
+
+rem$ CléE Pores grands, irréguliers, au nombre de 1-3 par mm, face hyménophora1e pouvant être dédaloïde. Basidiome se développant sur gymnosperme. Spores ovoïdes, subsphéroïdales à courtement ellipsoïdales, à paroi un peu épaissie et cyanophile. Soies hyméniales présentes. Complexe encore mal débrouillé.
+1,0 $ a- Spores subsphéroïdales de ( 4,0) 4,5-5,5 x (3,5) 4,0-4,5 µm, à paroi hyaline à brunâtre; soies hyméniales de 5-10 µm  d'épaisseur à la base. Basidiome piléé-sessile (et alors généralement étalé-réfléchi) à apiléé, habituellement sur Picea $ Ph. chrysoloma (Fr. 1861) Donk 1971 Remarques: - certains spécimens présentent 4-6 pores par mm;=- Ph. varax (Harkness 1879) Cerny 1985, parfois regardé comme synonyme, est un taxon non reconnu par l'ensemble des mycologues contemporains.
+1,0 $ b- Spores sphéro-ellipsoïdales de (4,5) 5,0--6,0 (7,0) x (4,0) 4,5-5,0 (5,5)µm, à paroi hyaline à jaunâtre; soies hyméniales de 5-16 µm d'épaisseur à la base. Basidiome généralement piléé-sessile, souvent triquètre, habituellement sur Pin us $ Ph. pini (Thore 1803 : Fr.) A. Ames 1913
+
+
+cs6,0$ Cle F
+1,0$ note clé F : Ligne sombre présente dans le contexte ou à la limite du revêtement piléique, ou encore contre le support et pouvant constituer dans ce cas une croûte dure et sombre. Basidiome piléé-sessile à api1éé, se développant sur angiosperme ou gymnosperme. Spores naviculaires, subsphéroïdales à ellipsoïdales.
+1,0 $ a- Spores naviculaires de 5,0--6,0 x 1,5-2,5 µm , souvent avec un apicule latéral éperonné; basidiome apiléé à croissance centripète , plus rarement étalé-réfléchi, sur gymnosperme. Basidiome très léger à l'état sec. Face hyménophorale ocre-brun mat à l'état frais $ Ph. nigrolimitatus (Romelll912) Bourdot et Galzin 1928
+1,2 $ b- Spores subsphéroïdales à ellipsoïdales; basidiome piléé-sessile, plus rarement apiléé; sur angiosperme 
+1,2,n $ Remarque :Ph. tuberculosus, à spores subsphéroïdales à courtement ellipsoïdales, présente parfois une ligne sombre discontinue entre le contexte et l 'hyménophore, ou entre les couches de tubes chez les basidiomes stratifiés (voir Clé G).
+2,0 $ a (1 b)- Spores subsphéroïdales de 4,5-6,5 x 4,0-5,0 µm ; soies hyméniales présentes dont certaines sont remarquables par leur apex cassé ou comme rongé. Basidiome se développant souvent sur Salix. Surface hyménophorale brun jaune, verdâtre, chatoyante. Système hyphal dimitique $ Ph. conchatus (Pers. 1795 : Fr.) Quél. 1886
+2,0 $ b- Spores ellipsoïdales de 3,0-4,0 x 2,5-3,0 µm ; soies hyméniales absentes. Basidiome se développant au pied d'angiospermes vivants, souvent sur Ribes et Evonymus. Système hyphal monomitique $ Ph. ribis (Schum. 1803 :Fr.) Quél. 1886
+
+
+
+cs7,0$ Cle G
+
+1,0$ note clé G : Basidiome piléé-sessile à apiléé, sur angiosperme, très rarement sur gymnosperme. Contexte jaunâtre brun, cannelle à brun rougeâtre sombre. Soies hyméniales présentes, spores subsphéroïdales à ellipsoïdales, à paroi mince à épaisse.Remarque : si le basidiome se développe sur gymnospermes en une partie autre que leur base, se reporter alors à la Clé E.
+1,0$
+1,0 $ a- Basidiome se développant typiquement au pied d'angiospermes, rarement à la base de gymnospermes. Spores de 4,0-6,0 x 3,0-4,0 µm . Basidiome piléé-sessile $ Ph. torulosus (Pers. 1825) Bourdot et Galzin 1925 Remarque : si spores de 3,0-4,0 x 2,5-3,0 µm , voir alors Ph. ribis (Clé F).
+1,2 $ b- Basidiome ne se développant pas au pied, mais ailleurs sur l'angiosperme
+2,0 $ a (1 b)- Contexte jaunâtre brun à cannelle; croît généralement sur les Rosaceae, typiquement sur Prunus, mais également sur Pyrus et sur Malus, plus rarement sur d'autres angiospermes. Spores de 4,5-5,5 (6,0) x 3,5-4,5 (5,0) µm . Basidiome piléé-sessile à apiléé et dans ce cas souvent pulviné à noduleux. Hyphes squelettiques de la trame en partie à paroi mince, souvent collapsées sur le sec $ Ph. tuberculosus (Baumg. 1790) Nieme!a 1982Remarques:-Ph. conchatus (Clé F) possède un contexte plus ou moins cannelle, mais diffère de Ph. tuberculosus par la présence de soies cassées; -Ph. /aevigatus présente parfois un contexte brun cannelle, mais les hyphes squelettiques de la trame non collapsées sur le sec sont à paroi épaisse. Voir ci-dessous (6 b).
+2,3 $ b - Contexte brun rougeâtre sombre
+3,4 $ a (2 b) - Hyphes de la trame parallèles entre elles 
+3,0,n$Remarque : les coupes s'écrasent généralement assez facilement dans la préparation, entre la lame et la lamelle. r.: orientation des hyphes s'observe sur coupe effectuée parallèlement aux tubes.
+
+3,7 $ b- Hyphes de la trame entremêlées·
+4,5 $ a (3 a)- Pores au nombre de 5-6 par mm 
+4,5,n $ Remarque :nous possédons une récolte de Ph. rhamni à grands pores; voir ci-dessous (6 a).
+4,6 $ b -Pores plus petits, au nombre de 6-9 par mm
+5,0 $ a (4 a) -Croît typiquement sur Populus; hyphes squelettiques de la trame à paroi épaisse. Basidiome piléé-sessile, alors souvent étalé-réfléchi, ou apiléé, et alors généralement noduleux; coeur mycélien plus ou moins visible. Parfois à odeur d'iris ou de banane. Fréquemment sur Populus tremula, P. tremuloides, P. canes cens, très rarement sur P. alba. Spores de 4,5 5,0 x 4,0-4,5 µm $ Ph. tremulae (Bondartsev 1912) Bondartsev et Borissov 1953
+5,0 $ b- Croît sur Rosaceae, généralement sur Prunus, parfois sur Pyrus et Malus, plus rarement sur d'autres angiospermes; hyphes squelettiques de la trame en partie à paroi mince, souvent collapsées sur le sec. Coeur mycélien absent. Pas d'odeur remarquable. Spores de 4,5-5,5 (6,0) x 3,5-4,5 (5,0) µm . Voir également ci-dessus (2 a) $ Ph. tuberculosus (Baumg. 1790) Niemela 1982
+6,0 $ a ( 4 b)- Hyménophore un peu rougeâtre, se craquelant en tous sens de façon remarquable en séchant; marge amincie; spores de ( 4,5) 5,0-6,0 x 4,0-5,0 µm . Fréquemment sur Rhamnus et sur Cytisus, parfois sur d'autres angiospermes $ Ph. rhamni (Bondartsev 1960) H. Jahn 1967
+6,0 $ b- Hyménophore brun cannelle, ne se craquelant pas de façon remarquable sur le sec; marge plus ou moins en bourrelet; spores de 4,0-5,0 x 3,0-4,0 µm. Généralement sur Betula, parfois sur d'autres angiospermes $ Ph. laevigatus (Fr. 1874) Bourdot et Galzin 1928 
+7,0 $ a (3 b) Soies atteignant 30 µm de longueur, longuement et progressivement subulées etpossédant un rapport longueur sur épaisseur (indice ou quotient) de 3 à 5; basidiome apiléé à étalé réfléchi. Hyphes squelettiques de la trame de 2-3 µm de diamètre. Spores ovoïdes à courtement ellipsoïdales de 4,5-6,0 x 4,0-5,0 µm, à contour adaxial à tendance rectiligne, et à paroi mince ou un peu épaissie. Coeur mycélien absent. Odeur nulle ou parfois rappelant la fleur d'oranger $ Ph. lundellii Niemela 1972
+7,8 $ b Soies plus courtes, jusqu'à 20(25) µm de longueur, progressivement subulées ou ventrues à la base et possédant un indice de 1 ,5 à 3 ; basidiome piléé-sessile. Coeur mycélien parfois présent. Odeur nulle ou rappelant l'anis ou le fenouil. Complexe encore mal débrouillé de Ph. igniarius 
+7,8,n$Remarque: Ph. tuberculosus, à spores de 4,5-5,5 (6,0) x 3,5--4,5 (6,0) µm, présente dans la trame des hyphes subparallèles et non entremêlées, et ses hyphes squelettiques sont en partie à paroi mince (voir 2 a et 5 b).
+8,0 $ a (7 b) Soies souvent mal formées, cassées ou comme rongées; spores ovoïdes à courtement ellipsoïdales de 5,0-6,0 x 4,0-5,0 µm, à contour adaxial à tendance rectiligne, et à paroi mince à un peu épaissie. Hyphes squelettiques de la trame de 3-4 µm de diamètre. Basidiome se développant dans les dépressions nécrosées dePopulus, souvent sur P. tremula $ Ph. populicola Niemelii 1975Remarque : Ph. conchatus (Clé F), présente également des soies cassées, mais elles sont plus longues que celles de Ph. populicola (20--50 fUll contre 15-22 (25) fUll, pour ce dernier).
+8,9 $ b- Soies ne présentant pas ce caractère; spores subsphéroïdales à ovoïdes de 5,0-6,5 x 4,5-6,0 µm , à paroi épaisse
+9,0 $ a (8 b)- Spores à paroi remarquablement épaisse, 0,8-1 µm d'épaisseur (à observer dans le plan médian de la spore); hyphes squelettiques de la trame de 2-4 µm de diamètre. Basidiome généralement en console, à marge aiguë et ayant souvent le profil de leur face hyménophorale rectiligne. Revêtement piléique lustré, habituellement noir, parfois gris brunâtre à la marge. Sur Betula mort resté en place, rarement sur d'autres angiospermes $ Ph. nigricans (Fr. 1821 :Fr.) P. Karst. 1899
+9,10 $ b- Spores à paroi moins épaisse, 0,5-0,8 Jlm; hyphes squelettiques de la trame de 4-6 µm de diamètre. Revêtement piléique d'aspect différent. Soies renflées dans la partie proximale, puis brusquement et courtement subulées dans la partie distale. Souvent avec une odeur anisée sur le frais
+10,11 $ a (9 b) Sur Salix
+10,12 $ b Sur d'autres angiospermes
+11,0 $ a (10 a)- En milieu ouvert, souvent dans les nécroses de gros Salix isolés, vivants ou morts. Marge restant obtuse à maturité du basidiome. Profil de la face hyménophorale à tendance convexe, pores répartis de façon irrégulière. Sur basidiome mature, bourrelets de la face abhyménophorale peu marqués et peu nombreux, 2-8 (sans compter la marge), croûte mate, gris noirâtre $ Ph. igniarius (L. 1753 :Fr.) Quél. 1886 var. igniarius
+11,0 $ b En milieu fermé et humide, sur troncs et branches de Salix vivants, rarement sur Salix morts. Marge généralement aiguë à maturité du basidiome. Profil de la face hyménophorale à tendance concave, pores répartis régulièrement. Face abhyménophorale à nombreux bourrelets, pouvant dépasser 20, croûte noirâtre à noire, plus ou moins brillante, entière sur le frais, craquelée en séchant $ Ph. igniarius var. trivialis (Bres. ex Killerm. 1928) Niemela 1975
+12,0 $ a (10 b) Revêtement piléique typiquement gris cendré, devenant noirâtre près du support, rimeux sur les vieux exemplaires. Espèce signalé, jusqu'à présent, seulement sur Betula, Tilla etAlnus incana $ Ph. cinereus (Niemela 1975) Fisch. 1995.
+12,0$ b -Revêtement piléique brun grisâtre à brun noirâtre, peu rimeux. Coeur mycélien parfois visible. Sur divers angiospermesPh. alni (Bondartsev 1912) Parmasto 1976
+

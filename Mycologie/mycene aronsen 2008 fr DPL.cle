@@ -1,0 +1,234 @@
+titre$ A key of Mycenas of Norway
+com$ http://home.online.no/~araronse/Mycenakey /adapt GF mars 08/ Trad deepL 2021
+
+
+1,2 $ Stipe émergeant d'un disque basal
+1,10 $ Stipe ne s'élevant pas à partir d'un disque basal
+2,3 $ Avec une pellicule séparable et gélatineuse
+2,8 $ Pileipellis non gélatineux
+3,0 $ Pousse sur les monocotylédones des zones humides (Juncus, Scirpus, Glyceria) : $ Mycena bulbosa
+3,0 $ Marge du disque basal ciliée. Sur les brindilles, les feuilles, les aiguilles de conifères, etc. tombées au sol : $ Mycena stylobates
+3,0 $ Pile grisâtre, pubescent à sétacé ; stipe entièrement pubère, issu d'un disque basal sétacé : $ Mycena longiseta
+3,0 $ Spores subglobuleuses ; pousse sur l'écorce des arbres à feuilles larges : $ Mycena clavularis
+3,0 $ Espèce minuscule, poussant sur les feuilles de chêne tombées au sol : $ Mycena mucor
+8,0 $ Pileus granuleux-floconneux à blanc-furfuraceux. Sur les brindilles tombées, les noisettes, etc : $ Mycena adscendens
+8,0 $ Très petit, blanc ; pousse sur Juncus : $ Mycena oligophylla
+10,11 $ Stipe saignant lorsqu'il est coupé
+10,17 $ Stipe ne contenant pas de liquide
+11,0 $ Jus rouge brunâtre ; stipitipellis diverticulé : $ Mycena sanguinolenta
+11,0 $ Jus rouge brunâtre ; stipitipellis lisse : $ Mycena haematopus
+11,0 $ Jus laiteux quand il est noir : b) $ Mycena leucogala
+11,0 $ Jus blanc laiteux : a) $ Mycena galopus ou noir : b)Mycena leucogala
+11,0 $ Jus laiteux aqueux. Goût très amer. Sur l'écorce des feuillus : $ Mycena erubescens
+11,0 $ Jus jaune orangé à rouge orangé ; dans les bois de Fagus : $ Mycena crocata
+11,0 $ Avec un jus aqueux, hyalin (ou presque pas) : $ Mycena abramsiirem 12. Jus blanc laiteux : a)Mycena galopus ou quand il est noir : b)Mycena leucogala
+17,18 $ Pileus recouvert d'une pellicule gélatineuse séparable.
+17,24 $ Pileus dépourvu d'une pellicule séparable
+18,0 $ Espèces plus grandes, avec des teintes verdâtres à buish sur le pileus ; stipe entièrement blanc-puberule : $ Mycena amicta
+18,0 $ Pileus visqueux, avec des couleurs jaunâtres : $ Mycena epipterygia
+18,0 $ Petite espèce, poussant sur l'écorce de bois de conifères. La base du stipe est bleu ciel : $ Mycena cyanorrhiza
+18,22 $ Pileus visqueux, de couleur grise à brunâtre
+22,0 $ Lamelles arquées, poussant dans les prairies ouvertes : $ Mycena agrestis
+22,0 $ Lamelles arquées , Pousse sous les conifères : $ Mycena vulgaris
+22,0 $ Lamelles ascendantes , Poussant dans les prairies ouvertes : $ Mycena pelliculosa
+24,25 $ Pileus rouge, rose, orange ou jaune foncé.
+24,43 $ Pileus différemment coloré
+24,225 $ Pileus de couleur blanche à crémeuse ou gris blanchâtre
+25,26 $ Bord lamellaire non jaune foncé
+25,28 $ Bord lamellaire jaune foncé à jaune pâle
+26,27 $ Champignon entier de couleur plus ou moins rosée
+26,33 $ Pileus et stipe non (colorés plus ou moins rose)
+27,0 $ Odeur indistincte, poussant dans les bois de conifères : $ Mycena rosella
+27,0 $ Odeur indistincte, petite espèce poussant sur des fougères en décomposition : $ Mycena pterigena
+27,0 $ Odeur indistincte ; pas de couches gélatineuses ; pousse sur Scirpus et Carex : $ Mycena riparia
+27,0 $ Odeur indistincte ; sur feuilles de Quercus tombées ou en décomposition : $ Mycena smithiana
+27,0 $ Odeur indistincte ; pileus recouvert d'une couche gélatineuse ; bord lamellaire gélatineux ; pousse sur les gaines de feuilles en décomposition de Juncus et Typha et sur les tiges de Scirpus dans les endroits humides : $ Mycena tubarioides
+27,0 $ Odeur raphanoïde ; grande espèce, poussant sur des sols calcaires sous Fagus ou Quercus : $ Mycena rosea
+28,0 $ bord lamellaire jaune foncé : $ Mycena oregonensis
+28,0 $ bord lamellaire jaune pâle : $ Mycena citrinomarginata
+33,34 $ Stipe rosâtre à blanc
+33,36 $ Stipe jaune orangé à citrine
+34,0 $ Pileus rouge-orange à rose-saumon, sans traces de jaune : $ Mycena adonisis 
+
+rem$ Mycena adonis
+
+34,0 $ Pileus rose-corail à saumon, devenant jaunâtre avec l'âge : $ Mycena floridula
+36,0 $ Pileus rouge orangé à orange à saumon pâle avec une marge jaune : $ Mycena acicula
+43,44 $ Pousse sur le bois
+43,91 $ Pousse en milieu terrestre ou sur d'autres substrats
+44,45 $ Sur le bois de conifères
+44,58 $ Sur le bois des arbres à feuilles caduques
+45,0 $ Pousse exclusivement sur Juniperus : $ Mycena juniperina
+
+45,47 $ Pousse sur d'autres arbres
+47,48 $ Bord lamellaire distinctement coloré
+47,51 $ Bord lamellaire concolore avec la face lamellaire
+48,0 $ Bord lamellaire violet foncé : $ Mycena purpureofusca
+48,0 $ Bord lamellaire vert olive ou brunâtre : $ Mycena viridimarginata
+48,0 $ Bord lamellaire brun rougeâtre : $ Mycena rubromarginata
+51,52 $ Pileus de moins de 6 mm de diamètre
+51,54 $ Pileus de plus de 6 mm de diamètre
+52,0 $ Cheilocystidia clavé, densément couvert de "verrues" : Mycena mirata
+52,0 $ Cheilocystidia lagéniforme à subcylindrique, lisse ou légèrement ramifié : $ Mycena clavata
+54,55 $ Odeur nitreuse
+54,57 $ Odeur indistincte
+55,0 $ Occurrence automnale, à 4 spores : $ Mycena stipata
+55,0 $ Vernal, se produisant en mai-juin ; 2 spores : $ Mycena silvae-nigrae
+57,0 $ Fasciculée, avec l'âge tachée de taches brun rougeâtre : $ Mycena maculata
+58,59 $ Espèces assez petites ; poussant sur l'écorce (le plus souvent recouverte de mousse)
+58,73 $ Espèce plus grande ; poussant sur des souches en décomposition
+59,60 $ Lamelles horizontales à arquées
+59,69 $ Lamelles ascendantes
+60,61 $ Spores globuleuses
+60,65 $ Spores globuleuses
+61,0 $ Pileus bleuâtre, au moins quand il est jeune : $ Mycena pseudocorticola
+61,0 $ Pileus lilas brunâtre à brun rougeâtre terne : $ Mycena meliigena
+61,0 $ Pileus blanc terne à crème, parfois brun pâle : $ Mycena alba
+61,0 $ Pileus brun sépia : $ Mycena supina
+65,0 $ Cheilocystidia densément recroquevillé avec de petites excroissances : $ Mycena mirata
+65,67 $ Cheilocystidia lisse
+67,0 $ Excroissances des hyphes du pileipellis simples à ramifiées, tendant à se gélatiniser. Espèces très communes : $ Mycena speirea
+67,0 $ Excroissances du pileipellis simples, ne se gélatinisant pas. Espèce non trouvée en Norvège : $ Mycena phaeophylla
+69,0 $ Chair rougissant à la coupe ; goût amer $ Mycena erubescens
+69,70 $ Chair ne rougissant pas ; goût non distinctif
+70,0 $ Cheilocystidia fusiforme, lisse : $ Mycena hiemalis
+70,0 $ Cheilocystidia de forme irrégulière, avec quelques excroissances grossières, inégalement espacées. Sur Quercus : $ Mycena polygramma (forme minuscule)
+70,0 $ Cheilocystidia densément recouvert de petites excroissances (" verrues ") : $ Mycena mirata
+73,74 $ Chair devenant brun rouge tachetée avec l'âge
+73,76 $ Ne devenant pas rouge brun tacheté
+74,0 $ Pas de pellicule séparable : $ Mycena maculata
+74,0 $ Pileus avec une pellicule gélatineuse, dure et complètement séparable : $ Mycena epipterygia var. viscosa
+76,0 $ Cheilocystidia densément couvert de "verrues" : $ Mycena arcangeliana
+76,77 $ Cheilocystidia de forme différente
+77,78 $ Cheilocystidia plus ou moins fusiforme, lisse
+77,84 $ Cheilocystidia ramifié
+78,79 $ Avec stipe jaune ou bord lamellaire brun rougeâtre
+78,81 $ De couleur différente
+79,0 $ Stipe jaune foncé ; lamelles parfois rouge-brun : $ Mycena renati
+79,0 $ Stipe gris-brun ; lamelles rouge-brun : $ Mycena rubromarginata
+81,0 $ Cheilocystidia plus petit, apical avec un cou mince typique : $ Mycena abramsii
+81,82 $ Cheilocystidia de grande taille, jusqu'à plus de 100 my.
+82,0 $ Stipe cartilagineux, gris-brun à brun sépia foncé : $ Mycena algeriensis
+82,0 $ Stipe fragile, avec un éclat satiné : $ Mycena niveipes
+84,0 $ Fascisculé ; surtout en hiver doux ; spores de moins de 6 my : $ Mycena tintinnabulum
+84,86 $ Pas ces caractères combinés (Fascisculé ; surtout en hiver doux ; spores de moins de 6 mu)
+86,0 $ Odeur farineuse, poussant fasciculée sur de vieilles souches de Quercus : $ Mycena inclinata
+86,87 $ Odeur indistinct ou non farineux
+87,0 $ Stipe gris argenté, grossièrement strié : $ Mycena polygramma
+87,89 $ Stipe lisse
+89,0 $ Goût farineux : $ Mycena galericulata
+89,0 $ Goût non farineux : $ Mycena maculata
+91,92 $ Odeur distinctive ; raphanoïde, nitreuse, farinacée
+91,117 $ Odeur indistincte ou non raphanoïde, nitreuse, farineuse
+92,93 $ Odeur et goût raphanoïde (du radis)
+92, 100 $ Odeur nitreuse
+92,116 $ Odeur farineuse
+93,94 $ Lamelles ascendantes
+93,98 $ Lamelles subhorizontales à décurrentes
+94,0 $ Lamelles devenant horizontales ; le bord lamellaire brun violacé foncé : $ Mycena pelianthina
+94,96 $ Le bord lamellaire non coloré
+96,0 $ Pileus lilacé à plus rosé : $ Mycena pura
+96,0 $ Pileus plus nettement rosé : $ Mycena rosea
+98,0 $ Pileus brun pâle avec une teinte lilacée ou rosée ; spores amyloïdes : $ Mycena kuehneriana
+98,0 $ Pile brun pâle avec une teinte lilacée ou rosée ; spores inamyloïdes : $ Mycena pearsoniana
+100,101 $ Se produit au printemps, mai - juin
+100,103 $ Occurrence en automne
+101,0 $ Sur les cônes de Picea tombés (surtout enterrés) : $ Mycena strobilicola
+101,0 $ Sur les racines et les souches pourries de Picea : $ Mycena silvae-nigrae
+103,104 $ Pousse sur le bois de conifères
+103,106 $ Terrestre
+104,0 $ Le bord lamellaire est de couleur vert olive à brunâtre : $ Mycena viridimarginata
+104,0 $ Le bord de la lamelle n'est pas coloré : $ Mycena stipata
+106,0 $ Le bord lamellaire coloré en brun-jaune à brun-rouge (parfois coloré seulement très près du bord du pileus) : $ Mycena olivaceomarginata
+106,0 $ Le bord de la lamelle est rouge-brun à brun violacé ; les côtés sont densément ponctués de minuscules points rouge-brun (pleurocystides) : $ Mycena capillaripes
+106,109 $ Le bord lamellaire n'est pas coloré
+109,110 $ Les hyphes de la couche corticale du stipe sont lisses.
+109,114 $ Les hyphes de la couche corticale du stipe sont diverticulées.
+110,0 $ Hyphes du pileipellis avec de grandes cellules terminales de formes variées, sans clams : $ Mycena austera
+110,0 $ Pileus manifestement noir (au moins) au centre, comme du bois brûlé : $ Mycena ustalis
+110,0 $ Stipe glabre ; cellules terminales rares, clavées : $ Mycena parca
+110,0 $ Stipe pruineux ; avec cellules terminales très gonflées : $ Mycena leptocephala
+114,0 $ Hyphes du pileipellis avec de grandes cellules terminales de formes variées, sans clavules : $ Mycena austera
+114,0 $ Le stipe, lorsqu'il est frais, exsude un liquide aqueux lorsqu'on l'incise, les chéilocystides ont un cou mince typique : $ Mycena abramsii
+116,0 $ Pileus brun foncé à gris pâle ; lamelles largement adnées à quelque peu décurrentes : $ Mycena cinerella
+117,118 $ Lamelles largement adnées à décurrentes : $ Mycena cinerella
+117,126 $ Lamelles ascendantes, plus ou moins étroitement adnées : $ Mycena cinerella
+
+118,0 $ Poussant densément en cépées sur les rhizomes de fougères : $ Mycena lohwagii
+118,0 $ Poussant exclusivement sur des chaumes morts de Phragmites australis, juste au-dessus du niveau de l'eau stagnante : $ Mycena belliae
+118,0 $ À deux spores, sans clams : $ Mycena pseudopicta
+118,122 $ À quatre spores, sans clameur : $ Mycena pseudopicta
+122,0 $ La base du stipe densément colorée par des fibrilles jaunes : $ Mycena picta
+122,124 $ Pas avec une telle couleur
+124,0 $ Stipe sec, poussant typiquement dans les Sphaignes : $ Mycena concolor
+124,0 $ Stipe glutineux à visqueux lorsqu'il est humide ; sur les lits d'aiguilles sous les conifères : $ Mycena clavicularis
+126,127 $ Bord lamellaire coloré en jaune pâle, orange ou rouge brun
+126,132 $ Bord lamellaire concolore avec les côtés lamellaires
+127,128 $ Bord lamellaire jaune
+127,130 $ Bord lamellaire olive, brunâtre, rouge-brun à orange vif
+128,0 $ Odeur indistincte ; cheilocystidia lisse à quelque peu ramifié : $ Mycena citrinomarginata
+128,0 $ Odeur de pommes de terre crues ; chéilocystides avec des "verrues" : $ Mycena flavescens
+130,0 $ Bord lamellaire orange vif ; la base du stipe avec des fibrilles orange : $ Mycena aurantiomarginata
+130,0 $ Bord lamellaire olive ou brunâtre ou rouge-brun : $ Mycena olivaceomarginata
+132,133 $ Cheilocystidia densément couvert de petites excroissances ("verrues")
+132,147 $ Cheilocystidia de forme différente
+133,134 $ Pileus jaunâtre ou avec une teinte jaune, ou verdâtre à vert olive
+133,137 $ Pileus dépourvu de couleurs jaunes
+134,0 $ Odeur d'iodoforme à la dessiccation ; les lamelles ont tendance à prendre une coloration rosâtre à chair avec l'âge : $ Mycena arcangeliana
+134,0 $ Odeur d'iodoforme au dessèchement ; lamelles ne devenant jamais rosées ; associé aux sols sablonneux des dunes côtières : $ Mycena chlorantha
+134,0 $ Odeur de pommes de terre crues écrasées : $ Mycena flavescens
+137,0 $ Pousse sur le bois : $ Mycena arcangeliana
+137,139 $ Pousse sur le sol
+139,140 $ Odeur d'iodoforme après avoir été conservé dans une boîte pendant un certain temps.
+139,143 $ Pas d'odeur d'iodoforme après avoir été conservé dans une boîte pendant un certain temps.
+140,0 $ Pileus entièrement fulvaire, devenant plus ocreux avec l'âge ; pousse dans les zones alpines : $ Mycena alexandri
+140,0 $ Pileus gris pâle à brun foncé, le plus souvent teinté de couleur chair ou rose vineux : $ Mycena metata
+140,0 $ Pileus gris pâle à brun assez foncé, sans aucune couleur rouge ou rosée : $ Mycena filopes
+143,0 $ Espèce alpine : $ Mycena alexandri
+143,0 $ Odeur indistincte ; pileus avec une teinte bleutée, au moins chez les jeunes spécimens : $ Mycena urania
+143,0 $ Odeur de pélargonium ; beaucoup de chéilocystides saccadées ou en forme de sablier : $ Mycena septentrionalis
+143,0 $ Odeur de pommes de terre crues lorsqu'elles sont écrasées ; bord lamellaire légèrement jaune à citrine : $ Mycena flavescens
+147,0 $ Stipe noyé dans une épaisse couche gélatineuse : $ Mycena rorida
+147,149 $ Stipe non noyé dans une matière gélatineuse : $ Mycena rorida
+149,0 $ Cheilocystidia fusiforme à clavé ; densément recouvert de courtes excroissances dans les parties les plus larges des cystidia : $ Mycena latifolia
+149,151 $ Cheilocystidia de forme différente aetites, aronseni
+151,0 $ Pousse sur les feuilles mortes de Fagus : $ Mycena fagetorum
+151,152 $ Pousse dans d'autres habitats
+152,153 $ Stipe généralement rainuré longitudinalement
+152,154 $ Stipe différent
+153,0 $ Stipe gris à gris brunâtre, argenté en séchant ; souvent accosté à Quercus : $ Mycena polygramma
+153,0 $ Stipe blanchâtre dessus, brun plus foncé dessous ; pousse dans différents habitats, souvent dans la sphaigne ou sur des sols tourbeux sous les conifères : $ Mycena megaspora
+154,0 $ Toutes les hyphes et les éléments hyméniaux sans clams : $ Mycena vitilis
+154,155 $ Hyphes avec connexions clampantes
+155,0 $ Hyphes de la couche corticale du stipe couverts d'excroissances courbes à plus ou moins enroulées : $ Mycena aronsenii
+155,0 $ Hyphes de la couche corticale du stipe couverts d'excroissances ; cellules terminales peu fréquentes et discrètes : $ Mycena aetites
+225,0 $ Pousse sur les gaines foliaires dans les touffes de Juncus : $ Mycena oligophylla
+225,226 $ Pousse sur les feuilles tombées et en décomposition.
+225,231 $ Pousse sur l'écorce (couverte de mousse) des arbres à feuilles caduques
+225,236 $ Pousse ailleurs
+226,227 $ Pousse sur les feuilles de Quercus
+226,0 $ Pousse sur les feuilles de Fagus $ Mycena capillaris
+226,0 $ Pousse sur les feuilles mortes de Salix $ Mycena terena
+227,0 $ Dépourvu de disque basal : $ Mycena poyadelpha
+227,0 $ Avec un petit disque basal : $ Mycena mucor
+231,232 $ Lamelles ascendantes
+231,234 $ Lamelles horizontales à arquées
+232,0 $ Hyphes du pileipellis diverticulés : $ Mycena hiemalis
+232,0 $ Hyphes du pileipellis lisses : $ Mycena olida
+234,0 $ Spores presque globuleuses : $ Mycena alba
+234,0 $ Spores en forme de pipette : $ Mycena speirea (forme blanche)
+236,237 $ Lamelles moins de 15 atteignant le stipe
+237,0 $ Pileus densément blanc-furfuracé à granuleux-floculé : $ Mycena adscendens
+237,0 $ Pileus pruineux à glabre, le plus souvent avec des nuances brunâtres : $ Mycena mirata
+237,239 $ Lamelles plus de 15 atteignant le stipe
+239,0 $ Sur bois en décomposition et souches de conifères : $ Mycena laevigata
+239,240 $ Terrestre
+240,0 $ Densément grégaire ; avec l'âge taché de taches rouge-brun : $ Mycena zephirus
+240,0 $ Densément grégaire ; avec l'âge taché de taches rouge-brun : $ Mycena zephirus
+240,0 $ Grégaire ; pileus jaunâtre pâle à ochracé au centre : $ Mycena flavoalba
+
+mycenes aronsen
+page 2 ex 25=>225
+page 3
+
+Traduit avec www.DeepL.com/Translator (version gratuite)

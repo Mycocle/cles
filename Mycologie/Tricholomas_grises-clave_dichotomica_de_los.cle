@@ -1,0 +1,37 @@
+Rem_CLAVE DICOTÓMICA DE LOS TRICHOLOMAS GRISES
+Rem_Autor   Roberto Fernández Sasia   
+1,2 $ A Especies de planifolios
+1,10 $ Especies de coníferas 
+2,3 $ Especies dulces 
+2,9 $ Especies acres y/o amargas 
+3,4 $ Especies con olor harinoso, fúngico u olor no definido 
+3,8 $ Especies con olor a especias, a pimienta 
+4,0 $ Especie muy oscura, tanto el sombrero como el pie, llegando a aparecer negra. Láminas fuertemente punteadas de negro. Borde del sombrero mostrando a veces restos de un velo plateado  $ Tr.triste(Scop.) Quélet
+4,0 $ Especie gris pálida, de olor harinoso y rápida y fuertemente amarilleante  $  Tr.scalpturatum [1](Almf)Jacobasch
+4,5 $ Especies no amarilleantes (o solo cerca de la putrefacción) 
+5,0 $ Especie ligada a Salix (sauces), provista de un anillo cotonoso en el pie  $  Tr.cingulatum(Fr.)Quélet.
+5,6 $ Pie desprovisto de anillo y hábitat diferente 
+6,0 $ Especie oscura, provista de revestimiento fibrilloso, lanoso y olor harinoso, complejo, láminas con coloraciones rosas y base del pie azul o verdosa. Micelio amarillento  $  Tr.Orirubens Quélet
+6,7 $ Especies más pálidas y revestimiento menos fibrilloso o algo escamoso 
+7,0 $ Especie con la base del pie rápidamente invadida de rojo, el himenio no toma tonos rojizos muy intensos  $  Tr.Basirubens (Bon) Riva & Bon
+7,0 $ Especie carnosa (a veces muy carnosa), gris pálido, poco escamosa y láminas con aspecto graso y tonos glaucos (un vago verde pálido)............... $ Tr pardinum var filamentosum Alessio (muy tóxica)
+8,0 $ Especie con revestimiento lanoso o escamoso, oscuro, pie casi liso o simplemente fibrilloso. Olor marcado a pimienta  $ Tr.Atrosquamosum (Cheval &Cke.)Sacc
+8,0 $ Especie similar a la anterior con el pie muy escamoso de gris y cuya base puede tomar tonos azulados al de un tiempo de la recolecta[2]  $  Tr.Squarrulosum  Bres.
+9,0 $ Especie con revestimiento fibrilloso o scamoso, grisáceo con tonos lilacinos (ausentes en la variedad virgatoides Bon). Carne de olor terroso y sabor amargo y poco acre. Pie liso o fibrilloso $ Tr.sciodes [3]Secr.ex Martín
+9,0 $ Especie menos fibrillosa y más escamosa, con el pie escamoso y sabor amargo o acre después de masticarlo $  Tr.Bresadolanum  Clémç
+10,11 $ Especies dulces 
+10,15 $ Especies acres 
+11,0 $ Especie de pie muy radicante y olor desagradable, de color gris pálido, argénteo, no escamosa y algo lubrificado hacia el centro. Himenio con tonos glaucos  $ Tr.josserandii Bon  (tóxica)
+11,12 $ Especies de pie no radicante 
+12,0 $ Especie masiva, de sombrero muy escamoso, pie mazudo e himenio con evidentes tonos glaucos  $  Tr.Pardinum (Pers.) Quélet(muy tóxica)
+12,13 $ Especies mucho más frágiles y de sombreros no escamosos, fibrillosos, peluchosos. Olores herbáceos 
+13,0 $ Especie de sombrero cónico, de color gris y láminas no muy anchas. Pie sin restos de cortina  $  Tr.Terreum   (Sch.:Fr.)Kum
+13,14 $ Especies menos cónicas y de láminas mas anchas, habitualmente con restos de velo en el pie y revestimiento más peluchoso (aspecto de despeinados) 
+14,0 $ Especie de revestimiento gris relativamente pálido, láminas no muy anchas y blancas. Pie con restos escasos de velo  $ Tr.Myomyces  (Pers.:Fr.)Lange
+14,0 $ Especie de sombrero negruzco y muy peluchoso, láminas muy anchas y escotadas al pie, grises. Restos de velo evidentes sobre el pie  $ Tr.gausapatum.[4]  (Fr.)Quélet
+15,0 $ Especie de sombrero muy mamelonado, en forma de sombrero chino. Cutícula de aspecto sedoso y color gris argénteo uniforme. Bastante acre  $ Tr.Virgatum  (Fr.)Kumm.
+15,0 $ Especie como la anterior pero con la base del pie invadida de rosa  $ Tr.virgatum f. roseipes Bon
+Rem_[1] Actualmente hay descritas otras especies (Tr. ramentaceum (Bull.:Fr.) Ri. Var. Quercilicis Bon que pueden confundirse con esta. Tr scalpturatum según M. Bon sería más propia de coníferas [2] Esta es una observación personal que no aparece en las obras consultadas
+Rem_[3] Aunque la bibliografía la presenta como propia de planifolios yo la he recogido en plantación de Pinus radiata.
+Rem_[4] El grupo formado por estas tres últimas especies (tal vez las más conocidas de la estirpe Terreum) es especialmente complicado y sobre el terreno se hallan formas intermedias de determinación incierta. Además frecuentemente he observado las láminas con los bordes muy punteados de negro, carácter no recogido habitualmente en la literatura y al que autores como M. Bon otorgan una gran importancia. No hay que olvidar que lo  presentado aquí es una simplificación.
+Rem_http://www.altogallego.com/setas/claves/tricholomas_grises.htm

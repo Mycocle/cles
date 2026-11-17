@@ -1,0 +1,51 @@
+Titre$ R H O D O C Y B E   I N    S A R D E G N A   -  CONTU 1999
+Com$ Revista Catalana de Micologia, voi. 22: 5-14; 1999  -  Adapté par Paul Bertéa 27-02-2014
+Rem$LANGUE$ Italien
+
+1,CS1 $ ife con giunti a fibbia $$s"sez. Rhodophana"
+1,2 $ ife senza giunti a fibbia
+
+2,CS2 $ cheilo e pleurocistidi presenti e ben differenziati $$s"sez. Rhodocybe"
+2,CS3 $ pleurocistidi assenti, cellule marginali talora presenti $$s"sez. Decurrentes"
+
+CS1,0 $ Sezione Rhodophana (Kuhncr) Singer, Sydowia Beih. 7: 95 (1973).
+1,0 $ spore subglobose, 5-6,7 x 4-5 µm, sporocarpi grigiastri $ R. peculiaris
+1,2 $ spore ellissoidi o amigdaliformi
+
+2,0 $ sporocarpi brunastri fino a bruno-miele, molto impallidenti $ R. melleopallens
+2,3 $ sporocarpi da aranciati a fulvo-rossastri
+
+3,0 $ spore 7-9 x 5-6 µm, taglia media, odore forte $ R. nitellina
+3,0 $ spore 4,5-6,7 x 3,7-4,5 µm, taglia gracile, odore nullo $ R. cuprea
+
+
+CS2,0 $ Sezione Rhodocybe
+1,0 $ cistidi sovente pigmentati, non articolat $ R. caelata
+1,0 $ cistidi non pigmentati, tipicamente articolali $ R. hirneola
+
+
+CS3,0 $ Sezione Decurrentes (Konrad et Maublanc) Singer, Lilloa 22: 409 ( 1951, “ 1949”).
+1,0 $ sporocarpi interamente bianchi $ R. fallax
+1,2 $ sporocarpi non interamente bianchi
+
+2,3 $ sporocarpi con colorazioni da ocra-giallstre a rossastre
+2,5 $ sporocarpi con colorazioni grigiastre o grigio-brunastre
+
+3,0 $ sporocarpi da rossobruni a fulvi $ R. gemina
+3,4 $ sporocarpi da giallo-ocra a francamente ocracei
+
+4,0 $ spore 6-7,5 x 4,5-5 µm, con cellule marginali $ R. alutacea
+4,0 $ spore 4,5-5,2 x 3,7-4,5 µm, senza cellule marginali. Sapore farinosa $ R. ochraceopallida
+4,0,N$///spore 4,5-6,5 x 3-4 µm, Sapore amarognolo ===> R. blancii (non trovato in sardegna ?)
+
+
+
+5,0 $ sapore dolce $ R. parilis
+5,6 $ sapore da amarognolo a francamente amaro
+
+6,0 $ spore 6-7,5 x 5-6 µm, subglobose $ R. popinalis
+6,7 $ spore ellissoidi-allungate
+
+7,0 $ spore 6-8,2 x 4,5-6 µm, angolose-verrucose, cappello tomentoso-feltrato $ R. lutetiana
+7,0 $ spore 7-9 x 5-6 µm, leggermente angolose, cappello non tomentoso $ R. malençoni
+

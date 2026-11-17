@@ -1,0 +1,84 @@
+Titre$ P H O L I O T A     -    NOODELOOS (2011)
+Com$ STROPHARIACEAE  -  Adapté par Paul Bertéa 31-10-2013
+rem$LANGUE$Anglais
+
+1,2 $ Chrysocystidia present
+1,17 $ Chrysocystidia absent
+
+2,3 $ Lignicolous, typically wood-destroying fungi; often medium-sized to large species with pronounced annuliform zone on stipe
+2,14 $ On and among grasses and sedges; small to medium-sized species with or without fibrilloseannuliform zone on stipe
+
+3,0 $ Pileus golden yellow to orange with lemon-coloured to chromate yellow squamules; spores 4.0-4.5 x 2.0-2.5 µm; almost exclusively on coniferous wood $ P. flammans
+3,4 $ Pileus differently coloured [non golden yellow to orange] and spores larger
+
+4,5 $ Medium-sized to large fruit bodies; pileus 30-200 mm broad, distinctly squamulose withpersistent, large squamules (> 2 mm)
+4,10 $ Small to medium-sized fruit bodies; pileus 10-50 (-85) mm broad, smooth or with small, upto 2 mm broad squamules
+
+5,0 $ Pileus dry to somewhat viscid but with dry ascending to erect or recurving squamules $ P. squarrosa
+5,6 $ Pileus viscid to glutinous with glutinous or fibrillose, appressed or recurved squamules
+
+6,7 $ Spores 5.0-7.0 µm broad
+6,8 $ Spores less than 5 (-5.5) µm broad
+
+7,0 $ On Fagus; pileus strongly slimy when moist, squamules embedded in slime; spores 7.0-9.0 (-10.0) x 5.0-6.0 µm with up to 1.2 µm wide germ pore $ P. adiposa
+7,0 $ On Salix; pileus slightly viscid, covered with dark thick scales; spores 7.5-10.5 (-11.5) x 5.0-6.5 (-7.0) µm with up to 2 µm wide germ-pore $ P. cerifera
+
+8,0 $ Squamules on pileus appressed, embedded in slime of pileipellis; spores (5.5-) 6.0-8.0 (-8.5) x 3.5-4.5 (-5.0) µm $ P. limonella
+8,9 $ Squamules on pileus recurved, tip emerging from the slime, particularly at centre of pileus; spores up to 4.0 µm broad
+
+9,0 $ Smell indistinct, squamules red-brown with blackish tip; spores 5.0-6.5 x 3.0-3.5 (-4.0) µm ovoid in frontal view with indistinct germ pore $ P. jahnii
+9,0 $ Smell somewhat aromatical; squamules ochre brown to reddish brown, without blackish tip; spores 4.5-6.5 (-7.0) x 2.5-3.5 µm, subphaseoliform in side-view without germ pore $ P. squarrosoides
+
+10,0 $ Pileus with bright colours: apricot to orange-red centre or bright yellow; taste farinaceous and/or bitter $ P. astragalina
+10,11 $ Pileus never bright apricot or orange red, but whitish, greenish brown, reddish brown, ochraceous to rather dark brown; taste mild or slightly bitter
+
+11,0 $ Pileus glabrous; spores without germ pore $ P. subochracea
+11,12 $ Pileus with small squamules, at least when young and fresh, and spores always with distinct germ pore
+
+12,0 $ Pileus whitish cream-coloured at first then greenish or sordid brownish yellow, especially at centre, at margin always much paler, almost white, with fine adpressed squamules $ P. gummosa var. gummosa
+12,13 $ Pileus differently coloured [non whitish cream-coloured at first then greenish or sordid brownish yellow]
+
+13,0 $ Pileus rather dark brown to red-brown; pileus and stipe with small squamules $ P. gummosa var. rufobrunnea
+13,0 $ Pileus ochre, ochre-yellow, sometimes with brown or reddish brown centre; pileus with small, appressed fibrillose squamules $ P. conissans
+
+14,0 $ Pileus densely squarrose with semi-uplifted dark yellow-brown squamules on paler yellow background; stipe squarrose $ P. lundbergii
+14,15 $ Pileus almost glabrous or with very fine squamules; stipe fibrillose to subglabrous
+
+15,0 $ Fruit bodies very small; pileus 5-25 mm; stipe 10-20 x 1-2 mm; spores 5.0-7.0 x 2.5-3 (-3.5) µm, pale coloured; hyphae of suprapellis strongly encrusted; on dead stems of Phragmites in marshy places $ P. pityrodes
+15,16 $ Basidiocarp more robust; pileus 20-50 (-60) mm broad; stipe up to 75 x 2-5 mm; spores 6-8.6 x 3-4.5 (-5) µm; hyphae of suprapellis less distinctly encrusted; among grasses and sedges
+
+16,0 $ Pileus practically smooth without distinct squamules $ P. conissans
+16,0 $ Pileus with neat distinct, concentrically arranged squamules $ P. muricella
+
+17,18 $ Pleurocystidia present, as well-differentiated leptocystidia, strongly protruding from hymenium; sometimes with yellow contents, but not true chrysocystidia
+17,27 $ Pleurocystidia absent
+
+18,0 $ Spores large, 8.0-9.5 (-10.5) x 5.0-5.5 (-6.0) µm; among Sphagnum in peat-bogs $ P. henningsii
+18,19 $ Spores smaller, up to 9.0 µm long; never among Sphagnum in peat-bogs
+
+19,0 $ Pileus usually small, about 10-30 mm across, when young entirely covered with white arachnoid veil, sticky but not strongly viscid or glutinous; spores 7.5-9.0 x 4.5-5.5 (-6.0) µm $ P. scamba
+19,20 $ Pileus usually medium-sized to fairly large, more than 30 mm broad, never entirely covered with white arachnoid veil, usually strongly viscid to glutinous; spores rarely more than 7.0 µm long
+
+20,21 $ Spores in greater part (sub-)phaseoliform in side-view, rather pale brown, with minute, often poorly visible germ pore
+20,23 $ Spores ellipsoid-ovoid, rarely phaseoliform in side-view, relatively thick-walled with distinctgerm pore
+
+21,0 $ Pileus very pale, almost white when young and fresh, later on tinged cream-colour or ochre $ P. lenta
+21,22 $ Pileus more distinctly coloured
+
+22,0 $ Pileus red-brown to orange-brown, often with much paler yellow margin; spores 6.0-7.0 x 3.5-4.5 (-5.0) µm $ P. lubrica
+22,0 $ Pileus orange-brown, with lemon-yellow marginal zone; spores 5.0-6.0 (-7.0) x 3.0-3.5 (-4.0) µm $ P. elegans
+
+23,0 $ Hymenial cystidia absent $ P. mucigera
+23,24 $ Hymenial cystidia present
+
+24,0 $ Pileus with bright yellow margin; context, particularly of pileus bright yellow $ P. spumosa
+24,25 $ Pileus not with bright yellow margin; context white to pale yellow
+
+25,0 $ Spores 6.0-6.5 (-7.0) x 3.0-3.5 (-4.0) µm; terrestrial in coniferous wood and on woodchipsin mixed wood $ P. mixta
+25,26 $ Spores (6.5-) 7.0-8.0 (-9.0) x 4.0-5.0 µm; on burnt ground
+
+26,0 $ Pileus 20-50 (-70) mm, yellow-brown with darker red-brown centre, with white appendiculate veil; spores with distinct germ pore $ P. highlandensis
+26,0 $ Pileus up to 100 mm broad, very dark brown with copious yellowish appendiculate veil; spores with indistinct germ pore $ P. brunnescens
+
+27,0 $ Pileus absolutely dry, finely tomentose then covered with small, appressed to slightly uplifted, golden-brown to red-brown squamules; with abundant veil when young; spores phaseoliform without germ pore; cheiloleptocystidia capitate $ P. tuberculosa
+27,0 $ Pileus slightly viscid to slimy, glabrous or squamulose, when dry, then glabrous; covered with scattered red-brown squamules, strongly contrasting with yellow background; cheiloleptocystidia not capitate $ P. lucifera

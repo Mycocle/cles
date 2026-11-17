@@ -1,0 +1,32 @@
+Titre$ C O N O C Y B E  -  sg.  P H O L I O T I N A  KITS VAN WAVEREN 1988
+Com$ Persoonia 6  -  Adaptée par Paul Bertéa 22-10-2013
+1,0$ Retour au Kit $$f"Pholiotina_kit.cle"
+1,0$
+1,2 $ Velum partiale forming a distinct ring about half-way the stem or in upper half of the stem
+1,2,N$/// in C. arrhenii var. arrhenii and C. aporos sometimes forming appendiculate denticles on margin of cap instead of a ring.
+1,0 $ Velum partiale incomplete, never forming a distinct ring $ C. peronata
+1,0,N$///Velum leaving remnants on lower half of stem or volva-like remnants at base of stem///hitherto not reported from Europe and only from Algiers; for description, see Kühner, 1935:157. 
+
+2,3 $ Spores (9.9-) 10.8-12.6 x 5.3-6.4 µm, germ-pore conspicuous.
+2,5 $ Spores (6.8-)7.2-9.9 x 4.1-5.4 µm germ-pore conspicuous, very small or absent.
+
+3,0 $ Basidia 2-spored, cheilocystidia very variable, globose, subcylindrical, clavate, obovoid, utriform (Figs. 49, 52). $ C. teneroides
+3,4 $ Basidia 4-spored or sometimes 4- and 2-spored on same gill, cheilocystidia lageniform, obclavate or sicyoid and much more uniform.
+
+4,0 $ Basidia exclusively 4-spored. $ C. blattaria
+4,0,N$/// = P. vexans sec Hausknecht (2009), Conocybe-Pholiotina:644///Cheilocystidia sicyoid (neck cylindrical, distinctly delimited from ventricose cell-body) or lageniform, obclavate (neck tapering towards acute or subacute apex (Figs. 38, 41); tall species (stem 40-70 mm).
+4,0 $ Basidia both 2- and 4-spored. $ C. filaris
+4,0,N$/// = P. rugosa sec Hausknecht (2009), Conocybe-Pholiotina:641///and consequently spores both large (10.8-12.6 x 5.4-6.8 µm) and small (8.1-9.9 x 4.5-5.4 µm cheilocystidia obclavate, lageniform, neck tapering towards acute or obtuse apex, not or indistinctly delimited from cell-body (Figs. 44-46); small species (stem 15-35 mm). 
+
+
+5,0 $ Cheilocystidia obclavate, lageniform, never capitate or subcapitate, neck tapering towards acute or subacute apex, not or indistinctly delimited from cell-body (Figs. 44-46); stem 1-1.5 mm thick, small species (cap 6-20 mm). $ C. filaris
+5,0,N$/// = P. rugosa sec Hausknecht (2009), Conocybe-Pholiotina:641
+5,6 $ Cheilocystidia different [not: obclavate, lageniform, never capitate or subcapitate, neck tapering towards acute or subacute apex, not or indistinctly delimited from cell-body]; stem 1.5 mm thick or thicker, larger species (cap 11 -40 mm).
+
+6,0 $ Cheilocystidia filiform, subcylindric, lageniform, with elongated and often flexuose neck, few subcapitate (Figs. 32, 33), 22.5-50 x 2.5-7.5 x 1.5-4(-5) µm; veil usually forming a ring, sometimes only appendiculat denticles on margin of cap. Sept.-Nov. $ C. arrhenii var. arrhenii
+6,7 $ Cheilocystidia thicker [<22.5-50 x 2.5-7.5 x 1.5-4(-5) µm]and capitate. (Figs. 30, 31, 34).
+
+7,0 $ Germ-pore present but small; cheilocystidia 25 50(-55) x 5 9(-10) x 5-15 µm. Sept.-Nov. $ C. arrhenii var. hadrocystis
+7,0,N$/// = P. hadrocystis sec Hausknecht (2009), Conocybe-Pholiotina:638 
+7,0 $ Germ-pore absent; cheilocystidia 22.5-60 x 4-12.5 x 3-9 µm veil usually forming a ring, sometimes only appendiculate denticles on margin of cap. March-May. $ C. aporos
+

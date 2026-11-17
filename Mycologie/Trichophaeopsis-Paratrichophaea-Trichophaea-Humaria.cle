@@ -1,0 +1,65 @@
+titre$Trichophaeopsis, Paratrichophaea, Trichophaea and Humaria 
+com$adapT GF 2019 06 22
+1, 0$Revised key to species Trichophaeopsis, Paratrichophaea, Trichophaea and Humaria building after R.J.C. Bronckers (2003)/// 
+EdiT and extended by Peter WelT 2010 (Original in German) 
+1, 0$Only for private use do not  quote! 
+1, 0$
+
+1, cs4$Outer excipulum mostly from vertical cells of textura angularis-prismatica and bifurcate hairs$Trichophaeopsis$s"genus Trichophaeopsis"
+1, 2$Outer excipulum not  so. Without bifurcate hairs.
+2, cs5$Spores with or without oil droplets, with pseudo-hair in the border zone, hair flaT to deeply rooted.$Paratrichophaea$s" genus Paratrichophaea "
+2, cs1$Spores always with oil drops, without pseudo-hairs in the border zone, ingrown hairs on surface or shallow.$Trichophaea und Humaria$s" Trichophaea und Humaria"
+
+cs1, 0$Key to European species of the genus Trichophaea 
+1, cs2$Spores smooth (note: some species are the ornaments in the lighT microscope hard to see. IT should be examined in the alternative in group B.$Group A$s" Trichophaea Group A - Spores smooth"
+1, cs3$Spores ornamented$Group B$s" Trichophaea Group B - Ornamented spores (dimensions with ornaments)"
+
+cs2, 0$Group A - Spores smooth 
+1, 0$Spores elliptical to narrow fusiform (18) 20-27 (28) x 8-13 (16, 5) µm , Ø Q > 2, 1 bis 2, 5$T. gregaria
+1, 2$Spores elliptic to broadly elliptic, Ø Q <2.1
+2, 3$Spores larger than 10 µm 
+2, 4$Spores smaller than or equal to 10 µm 
+3, 0$Hymenium brown, Spores smaller than 13 µm , (13) 15-17 (18) x (9) 10-11, 5 (12) µm $T. contradicta
+3, 0$Hymenium gray to gray - white, Spores wider than 13 µm , (18) 20-24 x 13-16 (17) µm .$T. woolhopeia (Young apothecia)
+4, 5$Apothecia > 5 mm Ø, Edge hair longer than 200 µm 
+4, 6$Apothecia < 5 mm Ø, Edge hair shorter than 200 µm 
+5, 0$Hymenium yellowish to orange, Spores with one or two large oil drops, 15-18 (19) x (6.8) 7, 5-9 (9.5) µm , hair is very long, up to 1200 µm $Humaria aurantia
+5, 0$Hymenium gray to gray - white, Spores with two small polar oil drops, (12) 13-16 (18) x 7-8 (9) µm $T. hemisphaerioides
+6, 0$Edge hair almosT colorless and shorter than the flank hair, Spores with two polar medium to large oil drops, (12) 13-16 (17) x 6-9 µm , only hairs 200-275, rarely longer to 650 µm .$T. abundans
+6, 0$Edge hair red-brown and longer than the cross hairs, Spores with one large central oil drop, 20-21 x 9-10 µm $T. albospadicea
+
+cs3, 0$Group B - Ornamented spores (dimensions with ornaments)$
+1, 0$Apothecia > 10 mm, deep cup shaped, Spores (19) 20-25 (27) x 10-14 (15) µm $Humaria hemisphaerica
+1, 2$Apothecia < 10 mm
+2, 0$Apothecia deep cup shaped and immersed, Spores19-22 x 13-15 µm $T. thuringiaca Benkert
+2, 3$Apothecia superficial, shallow bowl to disk shaped
+3, 0$Spores to 17 (18) µm , with prickly to fine reticular ornamentation, 12-17 (18) x 7-9 (11) µm , Harre length 200-500 (700) µm $T. velenovskyi
+3, 4$Spores longer than 17 µm , Ornament different
+4, 0$Spores with very fine warts (immature plain), narrowly elliptic to fusiform, (18) 20-27 (28) x 8-13 (16, 5) µm $T. gregaria
+4, 0$Spores light brown, finely warty to pseudoreticulate and somewhat smaller than in young apothecia.$T. woolhopeia (Over-ripe apothecia)
+4, 5$Spores with large warty
+5, 6$Spores larger than 13 µm , with large to very large bubble warts (in water).
+5, 7$Spores smaller than 13 µm , with small to medium-sized warts.
+6, 0$Spores less than 26 µm and smaller than 18 µm , measured without ornament = 18-23 x 10-13 µm $T. paludosa var paludosa
+6, 0$Spores longer than 26 µm and broader than 18 µm , measured without ornament = 20-26 x 13-16 µm .$T. paludosa var tuberculata
+7, 0$Spores with fine warts, almost spindle-shaped and up to 2 µm in width and length, (18) 20-24 (26) x (9) 10-13 µm $T. pseudogregaria
+7, 0$Spores narrow to broad elliptic, with coarse warts about 2 µm in width and length (15) 17-21 x 9-10 (12) µm $T. livida
+
+
+
+cs4, 0$Key to species of the genus Trichophaeopsis
+1, 0$Asci 4-spored, Spores (17) 18-20 (21) x 11-13 µm $T. tetraspora
+1, 2$Asci 8-spored
+2, 0$Spores 12 µm wide, smooth, (14) 15-18 (20) x 9-12 µm $T. bicuspis
+2, 0$Spores wider than 12 µm , ornamented, (15) 16-19 (23) x (11) 12-15 (16) µm $T. latispora
+
+cs5, 0$Key to European species of the genus Paratrichophaea 
+1, 0$Asci 4-spored, Spores (19) 20-24 (25) x (10)11-13 (14) µm $P. michiganensis
+1, 2$Asci 8-spored
+2, 3$Spores without ornament and young without oil droplets, paraphyses not  thickened.
+2, 4$Spores with ornament and with two young big oil drops, some paraphyses swollen apically.
+3, 0$Spores (17) 18-22 (23) x (9)10-12(13) µm $P. boudieri
+3, 0$Spores 14-16 (17) x 8-10 µm $P. parvispora Benkert
+4, 0$Spores 14-16 x 8-9 µm $P. « chemnitzii » Welt nom nud.
+
+µm ±

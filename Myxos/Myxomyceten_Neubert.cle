@@ -1,0 +1,1204 @@
+Titre$ Die Myxomyceten Deutschlands - Neubert H., Nowotny W. & Baumann K.
+
+com$ Traduction et adaptation : Aurélien Paris.
+
+Clé des sous-classes
+
+1,0$ 1a : Spores produites à la surface d'excroissances filiformes issues de fructifications en colonnes, en branches, morchelloïdes ou poroïdes. – Ceratiomyxomycetideae. $ Ceratiomyxa (fruticulosa (Müll.) Macbr.)
+1,0,N$ Var. porioides (Alb. & Schw.) A.Lister : sporophore fructifiant en plaques poroïdes. Pores 0.1-0.5 mm de diamètre. Caractères microscopiques comme dans la var. fruticulosa.
+1,2$ 1b : Spores produites à l'intérieur de la fructification.
+
+2,CS1$ 2a : Fructification à développement myxogastroïde. Stipe, s'il existe, avec un contenu calcaire ou celluliforme. $ Myxogastromycetidae. $s"Myxogastromycetidae."
+2,CS5$ 2b : Fructification à développement stémonitoïde. Stipe, s'il existe, creux. - Stemonitomycetidae. $ Stemonitales. $s"Stemonitales."
+
+
+CS1,0$ Myxogastromycetidae Martin
+
+1,CS4$ 1a : Spores en masse brun foncé, brun-violet ou noires, rarement claires. Calcaire généralement présent. $ Physarales. $s"Physarales."
+1,2$ 1b : Spores en masse généralement claires. Calcaire absent.
+
+2,CS3$ 2a : Capillitium généralement absent. Pseudocapillitium parfois présent. $ Liceales. $s"Liceales." 
+2,3$ 2b : Capillitium généralement présent ; quand il est absent, alors la fructification ne dépasse pas 0.5 mm de haut et possède un stipe.
+
+3,CS2$ 3a : Fructification blanche ou de couleur claire, souvent très petite. Columelle généralement présente. Capillitium absent, peu abondant ou présent (Clastoderma), lisse. Stipe rempli d'une matière de forme variable. $ Echinosteliales. $s"Echinosteliales."
+3,CS6$ 3b : Fructification polymorphe, généralement franchement colorée. Columelle toujours absente. Capillitium présent, généralement avec des ornementations typiques. $ Trichiales. $s"Trichiales."
+
+
+CS2,0$ Echinosteliales Martin
+
+1,CS31$ 1a : Spores en masse de couleurs claires. Péridium membraneux mince, fugace, souvent maintenu autour du stipe par un collarium. – Echinosteliaceae Rost. ex Cooke. $ Echinostelium. $s"Echinostelium."
+1,CS8$ 1b : Spores en masse brunes à brun foncé. Péridium persistant ou fugace. Capillitium parfois évase et connecté à la surface du sporocyste. $ Clastodermataceae. $s"Clastodermataceae."
+
+
+CS3,0$ Liceales Jahn
+
+1,2$ 1a : Capillitium présent, bien développé.
+1,3$ 1b : Capillitium absent, parfois faiblement développé chez les Tubifera et les Kelleromyxa.
+
+2,0$ 2a : Sporocystes sessiles, très petits, brun-noir à noirs, hémisphériques, ressemblant à un Licea. Capillitium raide, massif, à épaississements noduleux à annulaire régulièrement espacés, et également en tresse. $ Listerella paradoxa Jahn
+2,0$ 2b : Sporocystes denses, sessiles ou stipités, également agrégés en pseudoaethalium. Capillitium tubulaire, gibbeux arqué, plus ou moins lisse. $ Minakatella longifila G.Lister
+
+3,CS9$ 3a : Fructifications en sporocystes stipités, rarement en pseudoaethalium. Fragments du péridium persistant sous forme d'un filet, à base généralement cupulée ; filet, cupule, rarement également spores, avec des granules incolores, bruns ou noirs. $ Cribrariaceae. $s"Cribrariaceae."
+3,4$ 3b : Fructifications dépourvues de granules.
+
+4,CS13$ 4a : Fructifications en petits ou minuscules sporocystes sessiles ou stipités, ou en plasmodiocarpes, ces derniers rarement plus grands. Péridium s'ouvrant le plus souvent par une crête ébauchée, des craquelures ou un opercule. Sans pseudocapillitium, avec un capillitium chez les Kelleromyxa. $ Liceaceae. $s"Liceaceae."
+4,5$ 4b : Fructifications avec un pseudocapillitium. Aethaliums ou pseudoaethaliums.
+
+5,0$ 5a : Fructifications en pseudoaethaliums en forme de croûte. Péridium persistant à la surface sous forme d'éléments hexagonaux, réduit verticalement à des filaments issus des angles, se développant parallèlement. Spores brillantes en lumière polarisée. $ Dictydiaethalium plumbeum (Schum.) Rost.
+5,CS12$ 5b : Fructifications en aethaliums ou pseudoaethaliums, souvent assez gros, rarement à capillitium clairsemé (Tubifera). Pseudocapillitium en tubules irréguliers, ornementés, criblés d'un réseau, également effilochés ou fragmentés en filaments. $ Enteridiaceae. $s"Enteridiaceae."
+
+
+CS4,0$ Physarales Macbride
+
+1,0$ 1a : Sporocystes dépourvus de calcaire, cireux ou huileux dans le stipe, la columelle et/ou le capillitium. $ Elaeomyxa cerifera (G.Lister) Hagelst.
+1,2$ 1b : Fructifications contenant du calcaire (sauf Protophysarum et Trabrooksia, tous deux absents de la zone de prospection).
+
+2,CS14$ 2a : Capillitium densément réticulé, complètement calcaire ou à élargissements calcaires fusiformes ou noduleux. $ Physaraceae. $s"Physaraceae."
+2,CS11$ 2b : Capillitium rayonnant, ramifié à réticulé, généralement sans calcaire, rarement avec des dépôts calcaires noduleux. $ Didymiaceae. $s"Didymiaceae."
+
+
+CS5,0$ Stemonitales Macbride
+
+1,0$ 1a : Fructifications en pseudoaethaliums, recouvertes d'un cortex membraneux. Fructifications isolées en forme de colonnes. Péridium disparaissant tôt, sauf une base cupuliforme et un opercule fixé au cortex. Capillitium en filaments entremêlés à des cordes en forme de colonnes, non ramifiés, ondulés. $ Schenella microspora G.W.Martin
+1,CS15$ 1b : Fructifications en sporocystes, plasmodiocarpes, pseudoaethaliums ou aethaliums. Capillitium ramifié ou réticulé, rarement réduit à quelques filaments, provenant de la columelle, de la base de la fructification ou des parties du péridium. $ Stemonitidaceae. $s"Stemonitidaceae."
+
+
+CS6,0$ Trichiales Macbride
+
+1,CS16$ 1a : Capillitium brillant en lumière polarisée. $ Trichiaceae. $s"Trichiaceae". 
+1,2$ 1b : Capillitium normalement non ou seulement faiblement brillant en lumière polarisée.
+
+2,CS7$ 2a : Capillitium en filaments tubuleux, généralement reliés en réseau, libres ou fixés à la partie supérieure du péridium. $ Arcyriaceae. $s"Arcyriaceae."
+2,CS10$ 2b :	Capillitium en filaments massifs, jamais réticulés, fixés au fond de la fructification et au péridium. $ Dianemataceae. $s"Dianemataceae."
+
+CS7,0$ Arcyriaceae Rost. ex Cooke
+
+1,0$ 1a : Fructifications en aethaliums portés par des stipes. Spores groupées en amas. $ Arcyriatella congregata Hochges. & Gottsb.
+1,2$ 1b : Fructifications en sporocystes. Spores non groupées en amas.
+
+2,0$ 2a : Capillitium se développant en ligne droite du fond du sporocyste au péridium, là soudé au péridium par des extrémités pénicillées, toujours orné de spirales. $ Prototrichia metallica (Berk.) Massee
+2,3$ 2b : Capillitium non soudé au péridium par des extrémités pénicillées, réticulé, simple ou ramifié.
+
+3,CS43$ 3a : Capillitium simple, ramifié ou réticulé, avec des spirales, avec ou sans épines, rouge foncé à brun-rouge. Fructifications souvent groupées par des stipes croissant ensemble ou densément serrés en pseudoaethalium. $ Metatrichia. $s"Metatrichia."
+3,4$ 3b : Capillitium sans spirales (exceptions : Arcyria abietina, Arcyria stipata), à épines, verrues, demi-anneaux ou étranglements annulaires.
+
+4,CS46$ 4a : Capillitium simple ou ramifié, rarement réticulé (Perichaena vermicularis). $ Perichaena. $s"Perichaena."
+4,5$ 4b : Capillitium toujours réticulé.
+
+5,Cs18$ 5a : Fructifications en sporocystes stipités, rarement à peu près sessiles. Péridium fugace, laissant une cupule basale. Capillitium souvent extrêmement élastique. $ Arcyria. $s"Arcyria."
+5,0$ 5b : Fructifications presque toujours sessiles, rarement courtement stipitées, formant les uns sur les autres souvent un pseudoaethalium touffu. Péridium restant flasque, fragmenté. Capillitium inélastique. $ Arcyodes incarnata (Alb. & Schw.) O.F.Cook
+
+
+CS8,0$ Clastodermataceae Alexop. & Brooks
+
+1,0$ 1a : Péridium tenace, persistant, se déchirant au sommet en feuillets réguliers, ceux-ci persistant et fixés au capillitium. $ Barbeyella minutissima Meylan
+1,CS20$ 1b : Péridium mince, fugace, laissant des restes sur le stipe. Capillitium évasé en lamelles aux extrémités, simulant des restes de péridium, ou réticulé. $ Clastoderma. $s"Clastoderma."
+
+
+CS9,0$ Cribrariaceae Corda
+
+1,CS24$ 1a : Sporocystes toujours individuels, même quand ils sont serrés, plus ou moins distinctement stipités, jamais pseudoaethalioïdes. Péridium généralement en réseau complet, généralement avec une cupule basale, rarement réduit à des nervures et sans cupule. $ Cribraria. $s"Cribraria."
+1,0$ 1b : Sporocystes généralement sessiles, en groupes compacts, souvent agrégés en un pseudoaethalium, à hypothalle distinct. Péridium à nervures ramifiées, persistant longtemps, à peine réticulé. Granulations clairsemées, de la couleur du péridium. $ Lindbladia tubulina Fries
+
+
+CS10,0$ Dianemataceae Macbride
+
+1,0$ 1a : Capillitium élastique, onduleux et courbé comme des poils. $ Calomyxa metallica (Berk.) Nieuwl.
+1,CS26$ 1b : Capillitium généralement inélastique, raide par comparaison, seulement à peine courbé, se développant parallèlement de la base au péridium ou réticulé. $ Dianema. $s"Dianema".
+
+
+CS11,0$ Didymiaceae Rostaf. ex Cooke
+
+1,0$ 1a : Plasmodiocarpes sans calcaire, très plats. Capillitium hyalin, à tubules simples à un peu ramifiés, parallèles à la base du péridium. $ Trabrooksia applanata H.W.Keller
+1,2$ 1b : Calcaire présent dans le péridium et/ou dans le stipe, parfois dans la columelle.
+
+2,CS25$ 2a : Péridium sans calcaire, irisé. Stipe et columelle calcaires. $ Diachea. $s"Diachea."
+2,3$ 2b : Péridium avec du calcaire.
+
+3,4$ 3a : Calcaire du péridium en granules.
+3,5$ 3b : Calcaire du péridium en cristaux.
+
+4,0$ 4a : Péridium à nombreuses protubérances calcaires. $ Physarina Höhn. $s"Physarina."
+4,0,N$ Aucune espèce dans la zone de prospection.
+4,CS27$ 4b : Péridium sans élévations, plus ou moins lisse. $ Diderma. $s"Diderma."
+
+5,0$ 5a : Fructifications en aethaliums. $ Mucilago crustacea F.H.Wigg.
+5,6$ 5b : Fructifications en sporocystes et/ou plasmodiocarpes.
+
+6,CS30$ 6a : Calcaire du péridium réuni sous forme d'une coque ou de cristaux isolés qui saupoudrent plus ou moins abondamment le péridium. $ Didymium. $s"Didymium."
+6,CS39$ 6b : Calcaire du péridium réuni en écailles disséminées ou fortement apprimées. $ Lepidoderma. $s"Lepidoderma."
+
+
+CS12,0$ Enteridiaceae Farr
+
+1,CS55$ 1a : Sporocystes en colonnes, agrégés en pseudoaethalium avec des membranes persistantes, généralement sessiles, plus rarement stipités, à capillitium clairsemé parfois présent. $ Tubifera. $s"Tubifera."
+1,2$ 1b : Fructifications en aethaliums.
+
+2,CS41$ 2a : Aethaliums globuleux, coniques ou pulvinés, généralement avec une base rentrée. Pseudocapillitium en tubules ramifiés ou non, irrégulièrement ornementés, incolores. Spores en masse grises, beiges ou roses, pâlissantes. $ Lycogala. $s"Lycogala."
+2,CS33$ 2b : Aethaliums pulvinés ou déprimés, fixés sur une base plus large, souvent assez grand. Pseudocapillitium coloré, filiforme ou en membranes fragmentées-effilochées ou criblées. Spores en masse brunes, olive, rarement jaunes. $ Enteridium. $s"Enteridium."
+
+
+CS13,0$ Liceaceae Chevalier
+
+1,CS40$ 1a : Sporocystes sans capillitium. $ Licea. $s"Licea."
+1,0$ 1b : Sporocystes souvent avec un capillitium seulement rudimentaire. Coprophile. $ Kelleromyxa fimicola (Dearness & Bisby) Eliasson
+
+
+CS14,0$ Physaraceae Chevalier
+
+1,0$ 1a : Sporocystes stipités, minuscules, jusqu'à 150 µm de diamètre, sans calcaire bien visible. $ Protophysarum phloiogenum M.Blackw. & Alexop.
+1,2$ 1b : Fructifications plus grandes. Calcaire distinct.
+
+2,0$ 2a : Fructifications en sporocystes stipités, profondément invaginés au sommet. Dans le capillitium, présence d'éléments épineux, calcaires, s'élevant jusqu'à la face interne du péridium, avec en outre un fin réseau de tubules hyalins avec des nœuds calcaires fusiformes. $ Physarella oblonga (Berk. & Curt.) Morgan
+2,3$ 2b : Espèces ne présentant pas ces caractères.
+
+3,0$ 3a : Fructifications en plasmodiocarpes longuement étirés, sinueux, ramifiés ou réticulés, brun-jaune à orange et ponctués de rouge. Capillitium constitué de plaques calcaires disposées transversalement ou longitudinalement, à marge dentelée, parfois perforées, reliées à des excroissances épineuses et des nœuds calcaires isolés par un réseau à petites mailles de tubules non calcaires. $ Willkommlangea reticulata (Alb. & Schw.) Kuntze
+3,4$ 3b : Espèces ne présentant pas ces caractères.
+
+4,0$ 4a : Plasmodiocarpes longuement cylindriques, en réseau tridimensionnel, pendant du substrat, parfois à l'extrémité de stipes flasques. Capillitium élastique se dilatant largement à l'ouverture du péridium. $ Erionema aureum Penz.
+4,5$ 4b : Espèces présentant d'autres caractères.
+
+5,0$ 5a : Sporocystes ovoïdes, brun-jaune brillant à brun-rouge sombre, fasciculés par des stipes membraneux. Péridium constitué de 3 couches, lisse, fragile. Capillitium composé d'un réseau calcaire épais et d'un réseau de tubules non calcaires. $ Leocarpus fragilis (Dicks.) Rost.
+5,6$ 5b : Fructifications en sporocystes ayant des caractères différents, en plasmodiocarpes ou en aethaliums.
+
+6,CS19$ 6a : Sporocystes ou plasmodiocarpes stipités ou sessiles. Capillitium constitué d'un réseau tridimensionnel de tubules calcaires à larges mailles, rarement avec des filaments de liaison non calcaires, ou avec des tubules calcaires se développant parallèlement de la base au péridium, avec peu ou pas de liaisons transversales. $ Badhamia. $s"Badhamia."
+6,7$ 6b : Sporocystes, plasmodiocarpes ou aethaliums. Capillitium composé d'un réseau de filaments non calcaires, entremêlés de nœuds calcaires.
+
+7,CS34$ 7a : Fructifications en aethaliums. $ Fuligo. $s"Fuligo."
+7,8$ 7b : Fructifications en sporocystes ou en plasmodiocarpes.
+
+8,CS23$ 8a : Sporocystes généralement stipités, turbinés, cupuliformes ou en verre à pied, s'ouvrant généralement par un opercule plus ou moins distinctement ébauché. Base persistant sous forme d'une cupule profonde, souvent nettement définie. $ Craterium. $s"Craterium."
+8,CS47$ 8b : Sporocystes stipités ou sessiles, ou plasmodiocarpes, rarement pseudoaethalioïdes. Péridium irrégulièrement ouvert par craquelures, lacérations ou par une fente. Base résiduelle plate, indistinctement marginée. $ Physarum. $s"Physarum."
+
+
+CS15,0$ Stemonitidaceae Fr.
+
+1,2$ 1a : Les fructifications sont des aethaliums ou des pseudoaethaliums. A maturité, les fructifications simples sont le plus souvent peu distinctement formées.
+1,4$ 1b : Les fructifications sont des sporocystes ou des plasmodiocarpes. A maturité, les fructifications simples sont toujours distinctement formées.
+
+2,0$ 2a : Les fructifications sont souvent de grands aethaliums de plusieurs décimètres, bruns foncés à presque noirs, recouverts d'un cortex fin qui finit par disparaître. Capillitium filamenteux émergeant sur la columelle avec des élargissements vésiculeux, cloisonnés en réseau. $ Brefeldia maxima (Fr.) Rost.
+2,3$ 2b : Les fructifications sont des aethaliums ou des pseudoaethaliums plus petits. Capillitium en réseau sans élargissements cloisonnés.
+
+3,CS17$ 3a : Les fructifications sont des aethaliums hémisphériques à déprimés, recouverts d'un cortex qui disparaît rapidement. Diamètre des spores généralement > 12 µm. $ Amaurochaete. $s"Amaurochaete."
+3,CS53$ 3b : Les fructifications sont des pseudoaethaliums composés de sporocystes généralement sessiles, serrés, plus ou moins liés entre eux. Diamètre des spores généralement < 12 µm. $ Symphytocarpus. $s"Symphytocarpus."
+
+4,5$ 4a : Les fructifications sont des sporocystes minuscules, stipités, de diamètre ne dépassant guère 0.3 mm. Observés presque exclusivement en culture.
+4,6$ 4b : Fructifications plus grandes ; sporocystes sessiles ou stipités ou plasmodiocarpes.
+
+5,CS45$ 5a : Stipe composé à sa base de filaments bruns entrelacés, vers le haut noir et opaque. Péridium fugace. $ Paradiacheopsis. $s"Paradiacheopsis."
+5,CS42$ 5b : Stipe en forme de tube creux, plus ou moins brun-rouge jusqu'à brun sombre par transparence, jaunâtre ou au moins plus clair à la base. Péridium parfois persistant. $ Macbrideola. $s"Macbrideola."
+
+6,7$ 6a : Péridium persistant, se décomposant parfois rapidement en minuscules fragments. Les fructifications sont des sporocystes stipités ou sessiles ou des plasmodiocarpes.
+6,11$ 6b : Le péridium disparaît rapidement et entièrement, mais persiste parfois en petite cupule basale. Les fructifications sont des sporocystes stipités.
+
+7,8$ 7a : Columelle absente ou réduite à une élévation concave à la base. Sporocystes sessiles ou sur un stipe en forme de socle, ou plasmodiocarpes.
+7,10$ 7b : Columelle présente. Sporocystes stipités ou sessiles.
+
+8,CS21$ 8a : Péridium constitué de deux couches, la couche extérieure gélatineuse à l'état humide. Sur bois mort colonisé par les algues ou sur mousse. $ Colloderma. $s"Colloderma."
+8,9$ 8b : Péridium simple, non gélatineux.
+
+9,0$ 9a : Péridium membraneux, épaissi à la base, avec des dépôts granuleux et/ou des inclusions de calcaire squamuleuses. Parfois avec une élévation en forme de columelle à la base. $ Leptoderma iridescens G.Lister
+9,0$ 9b : Péridium fin, irisé, sans inclusions. Sans columelle. $ Diacheopsis metallica Meyl.
+
+10,0$ 10a : Sporocystes cylindriques, sessiles ou presque sessiles. Columelle de forme irrégulière. Capillitium se détachant de l'ensemble de la columelle. $ Paradiachea Hertel. $s"Paradiachea."
+10,0,N$ Aucune espèce dans la zone de prospection.
+10,CS36$ 10b : Sporocystes de forme sphérique, ovales ou en goutte renversée, rarement courtement cylindriques, stipités, rarement sessiles. Columelle en prolongement du stipe, se terminant à peu près au milieu du sporocyste, tronquée ou en massue, rarement en pointe ou divisée. Capillitium émergeant principalement de la partie supérieure de la columelle. Péridium généralement membraneux et ferme. $ Lamproderma. $s"Lamproderma."
+10,0$ 10c : Sporocystes fuselés à cylindriques, stipités. Columelle atteignant le sommet. Capillitium émergeant de toute la columelle. Péridium souple. $ Espèces avec péridium persistant des genres Comatricha, Stemonaria et Stemonitopsis.
+
+11,CS32$ 11a : Columelle découverte à l'apex des sporocystes, élargie en entonnoir ou en disque. Capillitium pendant à partir du disque apical, avec un port de saule pleureur. $ Enerthenema. $s"Enerthenema."
+11,12$ 11b : Columelle sans disque apical découvert.
+
+12,13$ 12a : Stipe en tube creux. Sporocystes cylindriques à longuement cylindriques.
+12,14$ 12b : Stipe en filaments entrelacés ou réticulés à la base, rarement avec des granulations incolores. Sporocystes sphériques à cylindriques.
+
+13,CS51$ 13a : Capillitium avec un réseau superficiel fin et complet, nettement séparé du réseau intérieur à grosses mailles. $ Stemonitis. $s"Stemonitis."
+13,CS50$ 13b : Capillitium sans réseau superficiel, à extrémités libres ou entrelacées. $ Stemonaria. $s"Stemonaria."
+
+14,CS52$ 14a : Le capillitium intérieur est un réseau grossier, souvent avec des élargissements membraneux, à l'extérieur avec un réseau superficiel fragmentaire. Sporocystes longuement ovoïdes à cylindriques. Stipe relativement court. $ Stemonitopsis. $s"Stemonitopsis."
+14,CS22$ 14b : Capillitium plus ou moins uniforme. Extrémités libres ou étroitement liées, parfois avec un réseau superficiel fragmentaire. Sporocystes sphériques à courtement cylindriques. Stipe en général relativement long. $ Comatricha. $s"Comatricha."
+
+
+CS16,0$ Trichiaceae Chevalier
+
+1,2$ 1a : Capillitium exclusivement avec des éléments à 2-6 spirales. Fructifications sessiles, stipitées ou plasmodiocarpes.
+1,3$ 1b : Capillitium non exclusivement avec des structures spiralées. Fructifications toujours sessiles ou plasmodiocarpes.
+
+2,CS54$ 2a : Capillitium élastique ou non , avec des élatères libres dans la fructification, ramifiés ou non. $ Trichia. $s"Trichia."
+2,CS35$ 2b : Capillitium formant un réseau élastique à mailles plus ou moins fermées. $ Hemitrichia. $s"Hemitrichia."
+
+3,CS44$ 3a : Capillitium non réticulé, orné de fines verrues, épines ou anneaux et/ou de structures spiralées indistinctes. $ Oligonema. $s"Oligonema."
+3,4$ 3b : Capillitium réticulé.
+
+4,0$ 4a : Capillitium avec d'épais anneaux. $ Cornuvia serpula (Wigand) Rost.
+4,0$ 4b : Capillitium avec un semblant de réseau, des anneaux irréguliers et des spirales. $ Calonema aureum Morgan
+
+
+CS17,0$ Amaurochaete Rost. (4 espèces dans le genre)
+
+1,0$ 1a : A sa base, le pseudocapillitium est aplati, très élargi, se ramifiant en forme de buisson et de réseau. $ Amaurochaete atra (Alb. & Schw.) Rost.
+1,2$ 1b : A sa base, le capillitium n'est pas aplati, il n'est pas ramifié en forme de buisson.
+2,0$ 2a : Capillitium émergeant d'excroissances de l'hypothalle, courtes, d'une épaisseur d'environ 25 µm. Capillitium chevelu, ondulé à raide, traversant toute la fructification. Sans columelle. $ Amaurochaete comata G.Lister & Brândzâ
+2,0$ 2b : Columelle nettement développée. Capillitium en réseau. Mailles du réseau arrondies avec des élargissements membraneux. $ Amaurochaete tubulina (Alb. & Schw.) T.Macbr.
+
+
+CS18,0$ Arcyria Wiggers (43 espèces et 1 variété dans le genre)
+
+1,2$ 1a : Fructifications sans teintes rouges.
+1,9$ 1b : Fructifications présentant des teintes rouges.
+2,0$ 2a : Spores à verrues distinctes disposées en réseau interrompu. Capillitium à ornementation spiralée peu serrée. $ Arcyria abietina (Wigand) Nann.-Brem.
+2,3$ 2b : Spores finement verruqueuses, avec quelques verrues plus grosses disséminées. Capillitium sans ornementation spiralée.
+3,4$ 3a : Sporocystes blanchâtres à gris, parfois un peu teintés de jaunâtre, de brunâtre ou de rose.
+3,5$ 3b : Sporocystes jaunes, jaune-ocre ou olive.
+4,0$ 4a : Sporocystes sphériques, à cupule hémisphérique, à rides transversales évidentes, blanchâtres à gris, parfois teintés de jaune. $ Arcyria globosa Schw.
+4,0$ 4b : Sporocystes coniques à cylindriques, rarement ovoïdes-trapus, à cupule peu profonde, sans rides transversales, gris, parfois beiges ou rarement teintés de rose. $ Arcyria cinerea (Bull.) Pers.
+5,6$ 5a : Spores 9-12 µm de diamètre.
+5,7$ 5b : Spores 7-9 µm de diamètre.
+6,0$ 6a : Péridium persistant longtemps, se déchirant irrégulièrement. Cupule profonde, à bord irrégulier, à stipe non distinctement délimité. Capillitium se colorant à l'ouverture de rouge-orange, puis jaune à olive. $ Arcyria versicolor Phill.
+6,0$ 6b : Péridium disparaissant tôt, à cupule petite, bien délimitée, à stipe bien différencié. Capillitium incliné en forme de poire à maturité. $ Formes brun-jaune à orange-ocre de Arcyria ferruginea Sauter
+7,0$ 7a : Sporocystes sphériques à largement ovoïdes après disparition du péridium, très petits, à peine plus de 2 mm, grandissant disséminés, jaunes à jaune olive. $ Arcyria pomiformis (Leers) Rost.
+7,8$ 7b : Sporocystes cylindriques-allongés après disparition du péridium. Capillitium couché, plus gros, débordant et buissonnant.
+8,0$ 8a : Stipes souvent fasciculés par 2 à 7, noirs. Capillitium presque entièrement libre, 5-10 µm de diamètre, brun-rouge à rouge-gris, plus rarement jaune-verdâtre. $ Arcyria fasciculata Dhillon & Nann.-Brem.
+8,0$ 8b : Stipes non fasciculés, jaunes à bruns. Capillitium fixé au sommet du stipe, 3-6 µm de diamètre, jaune à jaune-ocre, parfois avec des teintes orange-saumon. $ Arcyria obvelata (Oeder) Onsberg
+9,10$ 9a : Capillitium solidement fixé à la cupule.
+9,12$ 9b : Capillitium moins lié à la cupule ou se détachant facilement, à l'exception du sommet du stipe auquel il adhère.
+10,0$ 10a : Sporocystes fortement rouges, avec l'âge brun-rouge à bruns. $ Arcyria denudata (L.) Wettst.
+10,11$ 10b : Sporocystes rose-saumon à roses, puis décolorant à beige.
+11,0$ 11a : Sporocystes en grands groupes. Capillitium à forte ornementation, 3-5 µm de diamètre (= A. gulielmae). $ Arcyria minuta Buchet
+11,0$ 11b : Sporocystes isolés ou en petits groupes. Capillitium à faible ornementation, 2-3 µm de diamètre. $ Arcyria insignis Kalchbr. & Cooke
+12,13$ 12a : Spores 9-12 µm de diamètre.
+12,15$ 12b : Spores 6-9-(10) µm de diamètre.
+13,0$ 13a : Capillitium orné exclusivement d'épines. Spores 9.5-10.5 µm de diamètre. $ Arcyria oerstedtioides Flat. & Schirm.
+13,14$ 13b : Capillitium à ornementation différente.
+14,0$ 14a : Péridium persistant, se déchirant irrégulièrement, à cupule profonde sans marge lisse bien délimitée, rouge-orange après l'ouverture du péridium, bientôt jaune à olive. Spores 9-11 µm de diamètre. $ Arcyria versicolor Phill.
+14,0$ 14b : Péridium persistant seulement comme une petite cupule nette, rouge-orange, rouge-rouille, plus rarement brun-jaune, ne se décolorant pas. $ Arcyria ferruginea Sauter
+15,0$ 15a : Capillitium à spirales nettes. Péridium persistant longtemps. Sporocystes très denses, tortueux, cérébriformes, presque pseudoaethalioïdes, rouges, brun-rouge, cuivrés, plus tard olive. $ Arcyria stipata (Schw.) A.Lister
+15,16$ 15b : Capillitium sans spirales.
+16,0$ 16a : Stipes soudés ensemble. Sporocystes rouge-brun à rouge-gris, parfois jaune-verdâtre. $ Arcyria fasciculata Dhillon & Nann.-Brem.
+16,17$ 16b : Stipes libres. Sporocystes rouge pur à roses, seulement décolorés avec l'âge.
+17,18$ 17a : Capillitium exclusivement orné de pointes.
+17,19$ 17b : Capillitium à ornementation différente.
+18,0$ 18a : Capillitium à pointes aiguës jusqu'à 3 µm de long, seulement un peu détendu, non enchevêtré. Spores 9.5-10.5 µm de diamètre. $ Arcyria oerstedtioides Flat. & Schirm.
+18,0$ 18b : Capillitium à fines épines jusqu'à 4 µm de long, largement détendu, vite enchevêtré. Spores 7-9 µm de diamètre. $ Arcyria oerstedtii Rost.
+19,20$ 19a : Capillitium se détendant de manière sphérique à courtement cylindrique.
+19,21$ 19b : Capillitium se détendant de manière longuement cylindrique.
+20,0$ 20a : Sporocystes isolés, rouge-vineux. Péridium persistant longtemps, irisé argenté. Capillitium peu élastique. Spores 6.5-7.5 µm de diamètre. $ Arcyria helvetica (Meylan) Neub. & al.
+20,0$ 20b : Sporocystes densément groupés, rose clair. Péridium disparaissant tôt. Capillitium à larges mailles, se détendant dans toutes les directions. Spores 7-9 µm de diamètre. $ Arcyria incarnata (Pers.) Pers.
+21,0$ 21a : Sporocystes en petits groupes, fortement roses. Capillitium se détendant jusqu'à 6 mm. Cupule en entonnoir peu profond. Capillitium 2.5-3 µm de diamètre, exclusivement orné de demi-anneaux. $ Arcyria major (G.Lister) Ing
+21,0$ 21b : Sporocystes en grandes colonies, rouge-rouille à brun-rouge, plus rarement rose profond. Capillitium se détendant jusqu'à 10 µm. Cupule le plus souvent profonde, à marge supérieure irrégulière. Capillitium 3.5-9 µm de diamètre, à ornementation en demi-anneaux, verrues et réseaux. $ Arcyria affinis Rost.
+
+
+CS19,0$ Badhamia Berk. (31 espèces et 4 variétés dans le genre)
+
+1,2$ 1a : Spores groupées en amas lâches ou denses.
+1,11$ 1b : Spores libres.
+2,3$ 2a : Fructifications et capillitium jaunes.
+2,4$ 2b : Fructifications blanches, grises, rose pâle, rose-lilas ou irisées gris-bleu à bleues, sans tons jaunes. Capillitium blanc.
+3,0$ 3a : Sporocystes sessiles ou courtement stipités, rarement en courts plasmodiocarpes. Spores en forme de toupie, groupées en amas denses, plus fortement verruqueuses dans la zone extérieure à l'amas. $ Badhamia nitens Berk.
+3,0$ 3b : Plasmodiocarpes exclusivement. Spores en petits amas lâches, globuleuses à largement elliptiques, à peu près régulièrement verruqueuses. $ Badhamia nitens var. reticulata G.Lister
+4,0$ 4a : Péridium paraissant double par une couche calcaire continue, lisse ou ridée. Spores en amas plus ou moins denses, à fines crêtes sombres. $ Badhamia populina A. & G.Lister
+4,5$ 4b : Péridium à couche calcaire veinée-réticulée, ou pauvre en calcaire et irisé. Spores sans crêtes.
+5,6$ 5a : Spores densément groupées, en forme d'œuf allongé ou trapu, ou en forme de toupie, à zone extérieure à l'amas ornementée de façon plus ou moins évidente.
+5,9$ 5b : Spores en amas lâches, facilement séparables, parfois libres, arrondies à ovoïdes, distinctement ornementées en totalité ou dans la zone extérieure à l'amas.
+6,0$ 6a : Jusqu'à 60 spores groupées en amas creux. Spores isolées étroitement ovoïdes, finement verruqueuses. Sporocystes très calcaires, à peine au-delà de 0.5 mm de diamètre. $ Badhamia versicolor Lister
+6,7$ 6b : Jusqu'à 20 spores groupées en amas compacts. Spores isolées plus ou moins en forme de toupie, à zone extérieure à l'amas grossièrement verruqueuse de manière évidente. Sporocystes peu calcaires, jusqu'à 1.2 mm de diamètre, ou plasmodiocarpes.
+7,0$ 7a : Sporocystes sessiles, approximativement sphériques à base contractée ou en forme de goutte renversée. Péridium peu calcaire, bleu-gris, violet foncé ou irisé de couleur bronze. Spores 9-11 µm. $ Badhamia dubia Nann.-Brem.
+7,8$ 7b : Sporocystes sessiles ou courtement stipités, globuleux à ovoïdes, ou plasmodiocarpes, en rapport avec la couche calcaire irisée grise à blanche. Spores 11-15 µm.
+8,0$ 8a : Sporocystes sessiles ou à court stipe filiforme. $ Badhamia capsulifera (Bull.) Berk.
+8,0$ 8b : Plasmodiocarpes. $ Badhamia capsulifera var. repens G.Lister
+9,0$ 9a : Sporocystes blancs, gris clair, couleur chair ou jaunâtres. Péridium normalement très calcaire. Spores ovoïdes groupées en amas creux (jusqu'à 60 spores par amas) peu cohérent. $ Badhamia versicolor Lister
+9,10$ 9b : Sporocystes gris à bleu-gris, le plus souvent irisés. Péridium peu calcaire. Spores plus ou moins globuleuses, reliées en amas peu cohérents, facilement séparables, souvent entièrement libres.
+10,0$ 10a : Sporocystes globuleux, sessiles à courtement stipités, ou également plasmodiocarpes. Stipe jusqu'à 0.5 mm. Spores en masse brun foncé. Spores 10-12 µm, ornées de fines verrues. $ Badhamia foliicola Lister
+10,0$ 10b : Sporocystes ovoïdes à piriformes, souvent suspendus en grappes par des stipes filiformes entrelacés. Stipes jusqu'à 5 mm. Spores en masse noires. Spores 12-14 µm, à forte ornementation (verrues jusqu'à 1 µm). $ Badhamia utricularis (Bull.) Berk.
+11,0$ 11a : Sporocystes rose-lilas. Spores à verrues grossières et crêtes formant un réseau incomplet. $ Badhamia lilacina (Fr.) Rost.
+11,12$ 11b : Sporocystes jaunes, blancs ou gris, parfois irisés. Ornementation sporale n'ayant pas tendance à former un réseau.
+12,0$ 12a : Sporocystes jaunes à gris-vert, claviformes, le plus souvent stipités, rappelant macroscopiquement Craterium aureum. $ Badhamia viridescens Meyl.
+12,13$ 12b : Sporocystes sans teintes jaunes.
+13,0$ 13a : Spores citriformes, lisses, à ride longitudinale proéminente. $ Badhamia apiculospora (Härk.) Eliasson & Lundqu.
+13,14$ 13b : Spores à ornementation en relief, à bande claire ou avec une ou plusieurs fines crêtes sombres.
+13,18$ 13c : Spores à ornementation en relief, sans bande claire ni crêtes sombres.
+14,15$ 14a : Spores à bande claire partiellement ou entièrement circulaire.
+14,17$ 14b : Spores avec une ou plusieurs crêtes sombres.
+15,0$ 15a : Sporocystes globuleux, sessiles. Spores à épines fines espacées ou modérément denses, à bande circulaire claire limitée d'un côté par une fine arête qui fait parfois saillie sur le profil. Capillitium finement réticulé. $ Badhamia goniospora Meyl.
+15,16$ 15b : Sporocystes déprimés, souvent stipités. Spores densément verruqueuses, à bande claire souvent seulement partiellement formée, sans bord élevé d'un côté. Capillitium réticulé relié à la base ou au centre, d'où il s'élève en rayons parallèles avec quelques liaisons transversales.
+16,0$ 16a : Spores 12-14-(15) µm de diamètre, à bande claire parfois peu évidente. $ Badhamia affinis Rost.
+16,0$ 16b : Spores 15-18 µm de diamètre, à bande claire évidente. $ Badhamia armillata Nann.-Brem.
+17,0$ 17a : Sporocystes sessiles ou portés par un stipe membraneux couché, très serrés à coalescents. Péridium en apparence double par une coquille calcaire épaisse. Spores 10-13 µm, normalement groupées en amas peu cohérents. $ Badhamia populina A. & G.Lister
+17,0$ 17b : Sporocystes nettement stipités, en troupes. Péridium simple, non stratifié. Spores 12-16 µm. $ Badhamia gracilis (T.Macbr.) T.Macbr.
+18,19$ 18a : Péridium peu calcaire, irisé. Spores libres ou parfois en amas peu cohérents.
+18,20$ 18b : Péridium très calcaire. Spores toujours libres.
+19,0$ 19a : Sporocystes globuleux, sessiles ou très courtement stipités. Spores 10-12 µm, finement verruqueuses, rarement en amas peu cohérents. $ Badhamia foliicola Lister
+19,0$ 19b : Sporocystes piriformes, le plus souvent en grappes suspendues à de longs stipes. Spores 12-14 µm, à forte ornementation en relief, le plus souvent en amas peu cohérents. $ Badhamia utricularis (Bull.) Berk.
+20,21$ 20a : Capillitium en réseau tridimensionnel d'un bout à l'autre. Sporocystes globuleux à hémisphériques. Stipe, s'il existe, jaunâtre à brun.
+20,22$ 20b : Capillitium réticulé uniquement à la base ou au centre, d'où il s'élève en rayons parallèles avec peu de liaisons transversales. Sporocystes déprimés, discoïdes, à sommet ombiliqué, souvent mal formés ou plasmodiocarpes. Stipe, s'il existe, noir.
+21,0$ 21a : Sporocystes serrés en groupes compacts, sessiles, parfois pseudoaethalioïdes. En lumière transmise, spores claires, brun-lilas, finement verruqueuses, le plus souvent avec des groupes de verrues plus sombres vaguement individualisés. $ Badhamia panicea (Fr.) Rost.
+21,0$ 21b : Sporocystes en troupes ou en petits groupes compacts, sessiles ou courtement stipités. Stipe, s'il existe, jaune paille à brun. En lumière transmise, spores sombres, brunes à brun-pourpre, à verrues évidentes et groupes distincts de verrues plus sombres. $ Badhamia macrocarpa (Ces.) Rost.
+22,0$ 22a : Spores brun sombre, parfois à bande claire. $ Badhamia affinis Rost.
+22,0$ 22b : Spores brun clair, sans bande claire. $ Badhamia orbiculata Rex
+
+
+CS20,0$ Clastoderma Blytt. (3 espèces dans le genre)
+
+1,0$ 1a : Capillitium formant un réseau à larges mailles. Hauteur totale jusqu'à 0.5 mm. $ Clastoderma microcarpum (Meylan) Kowalski
+1,0$ 1b : Capillitium ramifié dichotomiquement, élargi en plaquettes terminales. Stipe à renflement en forme de goutte. Hauteur totale 0.5-1.5 mm. $ Clastoderma debaryanum Blytt.
+
+
+CS21,0$ Colloderma G.Lister (4 espèces dans le genre)
+
+1,0$ 1a : Diamètre des spores 11-12 µm. Péridium extérieur généralement brillant, péridium intérieur souvent découvert et irisé bleu-vert à bleu-violet. Capillitium nettement en réseau, large de 2-4 µm à la base, s’amincissant de manière continue vers l'extérieur, avec de grandes régions claires. $ Colloderma oculatum (C.Lippert) G.Lister
+1,0$ 1b : Diamètre des spores (13)-14-16 µm. Péridium extérieur généralement mat, persistant. Capillitium très fin, à ramifications à angles aigus, sombre, avec des nœuds et des dépôts granuleux. $ Colloderma robustum Meyl.
+
+
+CS22,0$ Comatricha Preuss (36 espèces et 4 variétés dans le genre)
+
+1,2$ 1a : Espèces nivicoles.
+1,5$ 1b : Espèces non nivicoles.
+2,3$ 2a : Péridium rapidement fugace ou ne subsistant que sous forme de petits fragments.
+2,4$ 2b : Péridium persistant longtemps en entier.
+3,0$ 3a : Sporocystes cylindriques, très serrés, courtement stipités. $ Comatricha alpina Kowalski
+3,0$ 3b : Sporocystes plus ou moins sphériques à ovoïdes, épars, longuement stipités. $ Comatricha nigra (Pers.) J.Schröt.
+4,0$ 4a : Sporocystes fuselés, courtement stipités, capillitium conservant sa forme. Diamètre des spores 12-14 µm. $ Comatricha fusiformis (Kowalski) Kowalski
+4,0$ 4b : Sporocystes en forme de goutte renversée à ovoïdes, longuement stipités. Capillitium filamenteux s'entremêlant avec les capillitiums contigus. Diamètre des spores 11-12 µm. $ Comatricha anastomosans Kowalski
+5,6$ 5a : Sporocystes plus ou moins sphériques.
+5,15$ 5b : Sporocystes ovoïdes, fuselés ou cylindriques, nettement plus hauts que larges.
+6,7$ 6a : Hauteur totale des sporocystes 0.5-2 mm.
+6,9$ 6b : Hauteur totale des sporocystes (2)-3-8 mm.
+7,0$ 7a : Capillitium élastique, se détachant de la columelle à maturité. $ Formes de Comatricha alta à sporocystes sphériques.
+7,8$ 7b : Capillitium conservant sa forme, ne se détachant pas.
+8,0$ 8a : Hauteur totale jusqu'à 8 mm. Extrémité de la columelle se prolongeant dans le capillitium. Capillitium en réseau dense et ondulé. $ Comatricha nigra (Pers.) J.Schröt.
+8,0$ 8b : Hauteur totale jusqu'à 3 mm. Extrémité de la columelle se divisant en plusieurs ramifications principales robustes. Capillitium en réseau lâche et raide. $ Formes de Comatricha laxa à sporocystes sphériques.
+9,0$ 9a : Diamètre des spores 11-14-(16) µm. $ Comatricha rigidireta Nann.-Brem.
+9,10$ 9b : Diamètre des spores 6.5-10-(11) µm.
+10,0$ 10a : Spores avec des groupes de verrues sombres. $ Comatricha afroalpina Rammeloo
+10,11$ 10b : Spores sans groupes de verrues.
+11,0$ 11a : Péridium persistant sous forme de coupe dans laquelle le capillitium est élargi. Sporocyste et spores en masse brun-rouge clair. $ Comatricha rubens Lister
+11,12$ 11b : Péridium complètement fugace, laissant rarement une minuscule collerette à l'extrémité du stipe. Sporocyste et spores en masse bruns à brun foncé.
+12,13$ 12a : Columelle courte, se divisant à son extrémité en nombreuses ramifications buissonnantes desquelles le capillitium émerge essentiellement.
+12,14$ 12b : Columelle se ramifiant en branches à son extrémité. Capillitium émergeant de toute la columelle.
+13,0$ 13a : Diamètre des spores 8-10 µm. Stipe 2-4-(5) fois aussi long que le diamètre du sporocyste. $ Comatricha elegans (Racib) G.Lister 
+13,0$ 13b : Diamètre des spores (6.5)-7-7.5-(8) µm. Stipe (5)-6-7 fois aussi long que le diamètre du sporocyste. $ Comatricha elegans var. microspora Marx
+14,0$ 14a : Capillitium formant un réseau en surface. $ Comatricha ellae Härk.
+14,0$ 14b : Capillitium avec de nombreuses extrémités libres. $ Formes de Comatricha laxa à sporocystes sphériques.
+15,16$ 15a : Capillitium se détachant au moins en partie de la columelle. Sporocystes perdant en conséquence leur forme d’origine.
+15,17$ 15b : Capillitium ne se détachant pas. Sporocystes gardant leur forme.
+16,0$ 16a : Hauteur totale 2-5 mm, stipe court. Diamètre des spores (4)-6-8 µm. $ Comatricha fragilis Meyl.
+16,0$ 16b : Hauteur totale 3-6-(8) mm, stipe long. Diamètre des spores 8-11-(12) µm. $ Comatricha alta Preuss
+16,0$ 16c : Hauteur totale jusqu'à 1.6 mm. Base du stipe brun-rouge particulièrement remarquable. Diamètre des spores 6-7 µm. $ Comatricha rutilipedata Marx
+17,0$ 17a : Spores finement verruqueuses, avec 2 à 5 petites taches réparties à la surface, constituées d'un réseau de crêtes à petites mailles en partie fragmentaire. $ Comatricha anomala Rammeloo
+17,18$ 17b : Spores à ornementation uniforme ou avec des groupes de verrues plus sombres.
+18,19$ 18a : Stipe plus long que le sporocyste. Sporocystes courtement à longuement ovoïdes ou fuselés, à peine cylindriques.
+18,22$ 18b : Stipe presque toujours plus court que le sporocyste. Sporocystes en général nettement cylindriques.
+19,20$ 19a : Sporocystes et spores en masse brun-rouge à brun cannelle.
+19,21$ 19b : Sporocystes et spores en masse brun foncé à brun-noir.
+20,0$ 20a : Sporocystes ovoïdes trapus, un peu plus hauts que larges. Péridium subsistant à la base en coupe nettement formée. Spores uniformément et finement verruqueuses. $ Comatricha rubens Lister
+20,0$ 20b : Sporocystes plus ou moins fuselés. Péridium disparaissant rapidement en totalité. Spores finement verruqueuses avec des groupes de verrues plus marquées. $ Comatricha tenerrima (M.A.Curtis) G.Lister
+20,0$ 20c : Sporocystes cylindriques. Spores finement verruqueuses. $ Formes de Comatricha pulchella var. pulchella à stipe particulièrement long.
+21,0$ 21a : Stipe 2 à 5 fois plus long que la hauteur du sporocyste. Capillitium en réseau dense, ondulé. $ Formes cylindriques de Comatricha nigra.
+21,0$ 21b : Stipe 2 fois, rarement 3 fois plus long que la hauteur du sporocyste, n'atteignant souvent que la moitié de la hauteur totale. Capillitium lâche, peu réticulé, raide. $ Comatricha laxa Rost.
+22,0$ 22a : Base du stipe brun-orangé à brun rouge par transparence ou en lumière transmise. Spores à verrues éparses. Capillitium se détachant facilement de la columelle. $ Comatricha rutilipedata Marx
+22,23$ 22b : Stipe sans base brun-rouge nettement marquée. Spores à ornementation serrée. Capillitium ne se détachant pas.
+23,24$ 23a : Capillitium en réseau serré et ondulé avec peu d'extrémités libres.
+23,25$ 23b : Capillitium plus lâche, peu réticulé, avec de nombreuses extrémités libres, souvent longues.
+24,0$ 24a : Sporocystes en groupes épars, bruns. Stipe atteignant jusqu'à la moitié de la hauteur totale. Spores brun rougeâtre en lumière transmise. $ Comatricha pulchella (C.Bab.) Rost.
+24,0$ 24b : Sporocystes très serrés. Stipe court. Spores gris-brun en lumière transmise. Capillitium avec parfois un pseudo-réseau superficiel à la périphérie. $ Comatricha pulchella var. fusca Lister
+25,0$ 25a : Capillitium brun à brun sombre, filamenteux, s'étalant plus ou moins en lignes droites. Diamètre des spores 6-7.5 µm. $ Comatricha longipila Nann.-Brem.
+25,0$ 25b : Capillitium brun pâle, aplati en rubans, ondulé. Diamètre des spores 8-9 µm. $ Comatricha pulchelloides Nann.-Brem.
+
+
+CS23,0$ Craterium Trentep. (15 espèces et 4 variétés dans le genre)
+
+1,2$ 1a : Sporocystes s'ouvrant soit par un opercule préfiguré, soit de façon fragmentaire par une ligne tracée vers le haut du péridium.
+1,6$ 1b : Sporocystes s'ouvrant irrégulièrement au sommet, rarement avec une ébauche de ligne de démarcation.
+2,3$ 2a : Sporocystes sans poudrage calcaire à leur partie supérieure.
+2,5$ 2b : Sporocystes poudrés de calcaire blanc à leur partie supérieure. Calcaire du péridium et du capillitium avec parfois des inclusions jaunes cristallines (microscope).
+3,0$ 3a : Sporocystes brun sombre brillant, à opercule plat, nettement inclus, sombre, brillant. Pas de pseudocolumelle. Spores 10-11 µm. $ Craterium brunneum Nann.-Brem.
+3,4$ 3b : Sporocystes plus clairs, à opercule faiblement convexe à hémisphérique, parfois aussi un peu inclus, clair, terne. Pseudocolumelle indistincte ou développée. Spores 8-10 µm.
+4,0$ 4a : Sporocystes en forme de verre à pied, jusqu'à 0.8 mm de diamètre, jusqu'à 1.5 mm de haut, ocres, brun-orange à brun-rouge. Nodules calcaires grands, blancs à jaunâtres. Pseudocolumelle présente. $ Craterium minutum (Leers) Fr.
+4,0$ 4b : Sporocystes en entonnoir dépassant à peine 0.5 mm de diamètre et 0.8 mm de haut, ocre clair, brun-rose, brun-cannelle, rarement brun sombre. Nodules calcaires petits, brun-jaune. Pseudocolumelle à peine marquée. $ Craterium concinnum Rex
+5,0$ 5a : Sporocystes globuleux à turbinés, souvent sessiles. Face interne de l'opercule papillée. Capillitium en réseau à petites mailles, avec de petits nodules calcaires. $ Craterium aureonucleatum Nann.-Brem.
+5,0$ 5b : Sporocyste en verre à pied ou en cône renversé, à stipe distinct en règle générale. Face interne de l'opercule sans papilles. Capillitium en réseau à grandes mailles avec de gros nodules calcaires. $ Craterium leucocephalum (Pers.) Ditmar
+6,7$ 6a : Spores de 12 µm et plus, marquées de verrues grossières, de crêtes verruqueuses ou réticulées. Présence d'une véritable columelle.
+6,8$ 6b : Spores ne dépassant pas 11 µm, finement verruqueuses. Avec ou sans pseudocolumelle.
+7,0$ 7a : Sporocystes principalement ovoïdes à obpiriformes. Péridium sans calcaire rose. Stipe brun clair à la base. Columelle beige à brun clair. Ornementation sporale grossièrement crêtée-verruqueuse ayant tendance à former un réseau incomplet pouvant atteindre 1 µm de haut. $ Craterium dictyosporum (Rost.) Neubert & al.
+7,0$ 7b : Sporocystes globuleux. Péridium souvent avec du calcaire rose. Stipe brun-noir à presque noir d'un bout à l'autre. Columelle brun sombre. Ornementation sporale presque complètement réticulée, pouvant atteindre 1.5 µm de haut. $ Craterium muscorum Ing
+8,0$ 8a : Sporocystes jaune-citron à jaune doré, globuleux à obpiriformes. Pseudocolumelle parfois présente. Nodules calcaires jaunes à blanchâtres. $ Craterium aureum (Schumach.) Rost.
+8,0$ 8b : Sporocystes ocres à brun-rouge, presque entièrement poudrés de calcaire blanc, globuleux à turbinés. Pseudocolumelle souvent présente. $ Craterium leucocephalum var. scyphoides (Cooke & Balf.) G.Lister
+8,0$ 8c : Sporocystes brun-noir à noirs, turbinés à longuement ovoïdes, sans pseudocolumelle. Nodules calcaires sombres, gris-verdâtre en lumière transmise. $ Craterium atrolucens Flatau
+
+
+CS24,0$ Cribraria Pers. (38 espèces dans le genre)
+
+1,2$ 1a : Fructifications violet pur.
+1,5$ 1b : Fructifications orange, brun-orange, rouge brique ou rouille.
+1,7$ 1c : Fructifications brun-rouge, brun-pourpre à brun-violet.
+1,14$ 1d : Fructifications jaunes, brun-jaune, ocres, brunes ou brun-olive.
+2,0$ 2a : Sporocystes jusqu'à 1.2 mm de diamètre. Granules 3-5 µm. Spores 5-6 µm de diamètre. $ Cribraria purpurea Schrad.
+2,3$ 2b : Sporocystes jusqu'à 0.5 mm de diamètre. Granules 1-2.5 µm. Spores 6-8 µm de diamètre.
+3,0$ 3a : Stipe 6 à 10 fois plus long que le diamètre du sporocyste. Hauteur totale 2-5 mm. Nœuds du filet épaissis. $ Cribraria lepida Meylan
+3,4$ 3b : Stipe 2 à 6 fois plus long que le diamètre du sporocyste. Hauteur totale à peine supérieure à 2 mm. Nœuds du filet plats ou seulement faiblement renflés.
+4,0$ 4a : Sporocystes violet-rouge, 0.3-0.5 mm de diamètre. Spores 6-6.5 µm. Granules 2-2.5 µm de diamètre. Cupule atteignant le tiers ou la moitié du sporocyste. Nœuds du filet faiblement renflés. $ Cribraria elegans Berk. & Curt.
+4,0$ 4b : Sporocystes violet-bleu, 0.1-0.3 mm de diamètre. Spores 7-8 µm. Granules de moins de 2 µm de diamètre. Cupule atteignant la moitié ou les deux tiers du sporocyste. Nœuds du filet plats, généralement plus grands que les mailles. $ Cribraria violacea Rex
+5,0$ 5a : Cupule réduite à des nervures pouvant s'organiser en réseau. Sporocyste de 1-1.5 mm de diamètre. Stipe plus court que le diamètre du sporocyste. $ Cribraria ferruginea Meylan
+5,6$ 5b : Cupule bien conformée, à marge parfois perforée. Sporocyste 0.2-1 mm de diamètre. Stipe au moins aussi long que le diamètre du sporocyste.
+6,0$ 6a : Sporocyste 0.4-1 mm de diamètre (rarement un peu plus). Nœuds du filet réduits à des élargissements des angles des mailles, avec peu de granules. Filet à très larges mailles. $ Cribraria rufa (Roth) Rost.
+6,0$ 6b : Sporocyste 0.2-0.6 mm de diamètre. Nœuds du filet en larges plaques, densément garnis de granules. $ Cribraria oregana H.C.Gilbert
+7,8$ 7a : Sporocystes 1-2 mm de diamètre. Filet du péridium dans une large mesure dépourvu de granules.
+7,9$ 7b : Sporocystes jusqu'à 1 mm de diamètre. Filet du péridium avec de nombreux granules.
+8,0$ 8a : Stipe de 2-3 mm de long. Cupule brillante, à granules disposés radialement. Granules de 1.5 µm de diamètre environ. Spores avec 1-3 granules. $ Cribraria meylanii Brândzâ
+8,0$ 8b : Stipe de 0.3-1 mm de long. Cupule mate, à granules disposés en réseau, le diamètre de ces derniers atteignant 2.5 µm. Spores dépourvues de granules. $ Cribraria rubiginosa Fries
+9,0$ 9a : Filet du péridium formé de 40-50 nervures pour la plupart parallèles, reliées par de fins filaments transversaux en échelle, avec ou sans cupule. Sporocyste globuleux aplati, à sommet déprimé en ombilic. $ Cribraria cancellata (Batsch) Nann.-Brem.
+9,10$ 9b : Filet du péridium non organisé en échelle. Sporocyste globuleux à légèrement piriforme.
+10,0$ 10a : Cupule la plupart du temps réduite à des nervures, ou réticulée. Spores avec granules. $ Cribraria mirabilis (Rost.) Massee
+10,11$ 10b : Péridium distinctement divisé en une cupule et un filet bien formés. Spores sans granules.
+11,0$ 11a : Sporocyste 0.2-0.4 mm de diamètre. Stipe jusqu'à 10 fois plus long que le diamètre du sporocyste. Hauteur totale jusqu'à 4 mm. $ Cribraria languescens Rex
+11,12$ 11b : Sporocyste 0.3-1 mm de diamètre. Stipe nettement plus court. Hauteur totale jusqu'à 2.5 mm.
+12,0$ 12a : Granules jusqu'à 4 µm de diamètre. Cupule à fines rides transversales. Nœuds du filet distinctement renflés. Filaments reliant les nœuds portant souvent des granules. Spores sans trace de réseau. $ Cribraria piriformis Schrad.
+12,13$ 12b : Granules jusqu'à 3 µm à peine. Cupule à rides transversales plus sombres et plus épaisses. Nœuds du filet à peine renflés ou plats. Filaments du filet dépourvus de granules. Spores à réseau dessiné plus ou moins évident.
+13,0$ 13a : Réseau des spores évident. Nœuds du filet grands et plats. Marge de la cupule perforée. $ Cribraria dictyospora Martin & Lovejoy
+13,0$ 13b : Réseau des spores peu évident. Nœuds du filet petits, légèrement renflés. Marge de la cupule garnie de nervures. $ Cribraria atrofusca Martin & Lovejoy
+14,15$ 14a : Sporocystes jusqu'à 0.3 mm de diamètre environ.
+14,21$ 14b : Sporocystes 0.3-1.5 mm de diamètre environ.
+15,0$ 15a : Filet du péridium dépourvu de granules, à nœuds rudimentaires. Cupule occupant la moitié du sporocyste, à marge délimitée par un bourrelet dépourvu de granules. $ Cribraria minutissima Schw.
+15,16$ 15b : Filet du péridium à nœuds évidents et ornés de granules.
+16,17$ 16a : Granules 2-4 µm. Spores 7.5-10 µm de diamètre.
+16,18$ 16b : Granules et spores généralement plus petits.
+17,0$ 17a : Péridium persistant en cupule pouvant atteindre la moitié du sporocyste. Filet du péridium avec peu d'extrémités libres. $ Cribraria montana Nann.-Brem.
+17,0$ 17b : Cupule manquante ; il ne persiste qu'un petit disque basal, souvent réduit à des nervures. Filet du péridium à nombreuses extrémités libres. $ Cribraria stellifera Nowotny & Neubert
+18,19$ 18a : Cupule réduite à un disque basal en étoile.
+18,20$ 18b : Cupule soit bien développée, soit en grande partie ou entièrement remplacée par des nervures.
+19,0$ 19a : Sporocystes courtement stipités. Hauteur totale d'à peine 1 mm. Nœuds du filet plats, à granules clairs. $ Cribraria confusa Nann.-Brem.
+19,0$ 19b : Sporocystes longuement stipités. Hauteur totale jusqu'à 3.5 mm. Nœuds du filet bombés, à granules sombres. $ Cribraria microcarpa (Schrad.) Pers.
+20,0$ 20a : Nervures partant du sommet du stipe et atteignant la moitié du sporocyste. Mailles du filet irrégulières. $ Cribraria costata Dhillon & Nann.-Brem.
+20,0$ 20b : Nervures partant de la marge d'un disque basal et atteignant au plus le tiers du sporocyste, ou cupule à bord vif et finement dentelé. Mailles du filet régulières, petites. $ Cribraria tenella Schrad.
+21,22$ 21a : Nœuds du filet généralement nettement épaissis, parfois seulement faiblement.
+21,27$ 21b : Nœuds du filet plats, grands ou limités aux angles évasés des mailles, confluents, souvent difficiles à distinguer des filaments de liaison.
+22,0$ 22a : Sporocyste 0.2-0.4 mm de diamètre. Nervures partant du sommet du stipe pour atteindre la moitié du sporocyste. $ Cribraria costata Dhillon & Nann.-Brem.
+22,23$ 22b : Sporocyste de 0.3 à environ 1 mm de diamètre. Nervures issues d'un disque basal et atteignant un tiers à deux tiers du sporocyste ; ou cupule évidente.
+23,24$ 23a : Nœuds du filet petits, pouvant passer d'une forme arrondie à celle de courts bâtonnets irréguliers, sans ou avec peu de filaments libres. Cupule, si elle existe, non bordée de fortes nervures.
+23,25$ 23b : Nœuds du filet polygonaux, allongés à ramifiés, avec peu à beaucoup d'extrémités libres. Cupule, si elle existe, bordée de fortes nervures.
+24,0$ 24a : Nœuds du filet petits, arrondis, sans extrémités libres. Cupule, si elle existe, finement dentelée, pouvant atteindre le tiers du sporocyste. $ Cribraria tenella Schrad.
+24,0$ 24b : Nœuds du filet pouvant passer d'une forme arrondie à celle de courts bâtonnets irréguliers, sans ou avec peu d'extrémités libres. Cupule atteignant la moitié ou les deux tiers du sporocyste, nervurée. Nervures souvent réticulées par des liaisons transversales. $ Cribraria martinii Nann.-Brem.
+25,0$ 25a : Spores en masse d'un jaune éclatant. Spores lisses, à inclusion jaune. $ Cribraria aurantiaca Schrad.
+25,26$ 25b : Spores en masse ocres à brun clair. Spores finement verruqueuses.
+26,0$ 26a : Sporocyste de 0.4-0.7 mm de diamètre. Nœuds du filet réguliers, étoilés par les nombreuses extrémités libres. Granules jusqu'à 2 µm. Spores 5-6 µm de diamètre, sans inclusion. Cupule soit nettement formée et sans rides transversales, soit remplacée par des nervures issues d'un disque basal. $ Cribraria intricata Schrad.
+26,0$ 26b : Sporocyste de 0.6-1 mm de diamètre. Nœuds du filet de forme différente, oblongs à ramifiés, avec peu d'extrémités libres. Granules d'environ 1 µm. Spores de 6.5-7.5 µm de diamètre, souvent avec une inclusion hyaline. Cupule toujours bien formée, avec des rides transversales plus épaisses. $ Cribraria persoonii Nann.-Brem.
+27,0$ 27a : Cupule remplacée par 8-15 nervures larges. $ Cribraria splendens (Schrad.) Pers.
+27,28$ 27b : Cupule présente au moins à la base ou diffractée en réseau.
+28,29$ 28a : Spores avec un réseau à grandes mailles, faiblement à nettement marqué. Nœuds du filet en larges plaques, nettement délimitées.
+28,30$ 28b : Spores sans trace de réseau. Nœuds à peine délimités, souvent représentés par des élargissements des angles des mailles.
+29,0$ 29a : Réseau des spores difficilement perceptible. Granules de 1-2 µm de diamètre. Cupule à fines rides transversales. $ Cribraria vulgaris Schrad.
+29,0$ 29b : Réseau des spores évident. Granules de 2-3 µm de diamètre. Cupule à rides transversales plus sombres et plus épaisses. $ Cribraria dictyospora Martin & Lovejoy
+30,0$ 30a : Spores de 10-12 µm de diamètre. $ Cribraria macrospora Nowotny & Neubert
+30,31$ 30b : Spores de 5-8 µm de diamètre.
+31,0$ 31a : Sporocystes courtement stipités à presque sessiles (stipe atteignant à peine 1 mm), serrés en grands groupes compacts, uniformément ocre-olive. Filet souvent évanescent au sommet. $ Cribraria argillacea (Pers.) Pers.
+31,32$ 31b : Sporocystes nettement stipités.
+32,0$ 32a : Stipe de 1.5-2 mm de long. Filet constitué de larges rubans sombres granuleux. $ Cribraria macrocarpa Schrad.
+32,0$ 32b : Stipe de 0.8-1.5 mm de long. Filet délicat, constitué de minces filaments, non élargis. $ Cribraria filiformis Nowotny & Neubert
+
+
+CS25,0$ Diachea Fries (14 espèces dans le genre)
+
+1,0$ 1a : Sporocystes cylindriques. Columelle cylindrique, dépassant toujours le milieu du sporocyste, atteignant généralement directement le sommet. Spores finement verruqueuses. $ Diachea leucopodia (Bull.) Rost.
+1,0$ 1b : Sporocystes globuleux. Columelle courte, n'atteignant pas le milieu du sporocyste. Spores à réseau à petites mailles. $ Diachea subsessilis Peck
+
+
+CS26,0$ Dianema Rex (8 espèces dans le genre)
+
+1,2$ 1a : Spores à réseau à petites mailles, plus ou moins interrompu.
+1,3$ 1b : Spores finement verruqueuses ou épineuses.
+2,0$ 2a : Spores 7-9 µm. Capillitium jusqu'à 2 µm de diamètre, rugueux, à extrémités convergentes et fasciculées, non réticulé. Planitiaire. $ Dianema depressum (A.Lister) G.Lister
+2,0$ 2b : Spores 12-14 µm. Capillitium jusqu'à 6 µm, lisse, s'insérant sur le péridium sans division préalable, densément réticulé. Montagnard nivicole. $ Dianema subretisporum Kow.
+3,0$ 3a : Spores agglomérées en petits groupes. Capillitium à peu près lisse ou à trace spiralée et épaississements nodulaires, entortillé sur lui-même. Spores souvent largement elliptiques. $ Dianema corticatum A.Lister
+3,4$ 3b : Spores libres, rondes. Capillitium sans spirales ni épaississements nodulaires.
+4,0$ 4a : Capillitium rarement ramifié, d'une épaisseur uniforme, lisse, les brins se divisant en fourche à  leur insertion au péridium ; des morceaux restent fixés au péridium à la déhiscence. $ Dianema harveyi Rex
+4,0$ 4b : Capillitium fortement ramifié vers le péridium, dont il se détache facilement. Nivicole. $ Dianema nivale (Meylan) G.Lister
+
+
+CS27,0$ Diderma Pers. (72 espèces et 15 variétés dans le genre)
+
+1,CS28$ 1a : Sporocystes ou plasmodiocarpes. Partie externe du péridium friable, riche en calcaire, rugueuse ou lisse, en coquille d'œuf, séparée de la partie interne ou étroitement unie à elle. $ S.-g. Diderma. $s"S.-g. Diderma."
+1,CS29$ 1b : Sporocystes (parfois courts plasmodiocarpes chez D. ochraceum). Partie externe du péridium cartilagineuse, lisse, riche en calcaire, étroitement unie à la couche moyenne ou interne (cependant séparée le plus souvent chez D. peyerimhoffii). Péridium s'ouvrant souvent en étoile. $ S.-g. Leangium. $s"S.-g. Leangium."
+
+CS28,0$ Sous-genre Diderma
+
+1,2$ 1a : Fructifications soit uniquement en plasmodiocarpes, soit mêlées de sporocystes le plus souvent sessiles.
+1,8$ 1b : Fructifications en sporocystes stipités ou sessiles ; pas de plasmodiocarpes.
+2,3$ 2a : Fructifications ordinairement en plasmodiocarpes, rarement avec quelques sporocystes.
+2,6$ 2b : Fructifications compactes formées de sporocystes sessiles, mêlés d'un petit nombre de plasmodiocarpes courts, vermiculaires.
+3,4$ 3a : Spores 10-13 µm. Plasmodiocarpes s'étendant sur à peine plus de 5 mm.
+3,5$ 3b : Spores 6-10-(11) µm. Plasmodiocarpes plus grands.
+4,0$ 4a : Espèce nivicole. Capillitium frêle, incolore, avec des élargissements sombres, fusiformes. Péridium distinctement formé de 2 couches. Sporocystes jamais stipités. $ Diderma alpinum (Meyl.) Meyl.
+4,0$ 4b : Espèce non nivicole. Capillitium incolore à brun-noir, rugueux-grenu. Péridium simple. Sporocystes rarement avec un stipe très court. $ Diderma chondrioderma (de Bary & Rost.) G.Lister
+5,0$ 5a : Spores 6-9 µm, finement verruqueuses avec des groupes de verrues plus denses. Capillitium frêle, clair. $ Diderma effusum (Schw.) Morgan
+5,0$ 5b : Spores 8-11 µm, uniformément ornées de fines épines. Capillitium vigoureux, sombre, rugueux-grenu. $ Diderma deplanatum Fr.
+6,0$ 6a : Espèce nivicole. Spores 11-13 µm, parfois munies d'un pore germinatif saillant. Fructifications d'un blanc pur, souvent en forme de plasmodiocarpes. $ Diderma alpinum (Meyl.) Meyl.
+6,7$ 6b : Espèce non nivicole. Spores dépassant rarement 11 µm. Fructifications plus ou moins colorées, en plasmodiocarpes peu individualisés.
+7,0$ 7a : Fructifications gris clair. Spores plus claires d'un côté. Capillitium avec des élargissement fusiformes. $ Diderma donkii Nann.-Brem.
+7,0$ 7b : Fructifications ocres, brunes à rouge-brique. Spores uniformément colorées, parfois avec des groupes de verrues plus ou moins sombres. Capillitium sans élargissements. $ Diderma simplex (Schroet.) G.Lister
+8,9$ 8a : Sporocystes sessiles.
+8,24$ 8b : Sporocystes plus ou moins distinctement stipités.
+9,10$ 9a : Espèces nivicoles.
+9,15$ 9b : Espèces non nivicoles.
+10,0$ 10a : Spores 14-16 µm, munies de fortes épines. Sporocystes parfois courtement stipités. $ Diderma lyallii (Massee) T.Macbr.
+10,11$ 10b : Spores 9-14 µm, verruqueuses à finement épineuses.
+11,0$ 11a : Péridium extérieurement et intérieurement blanc pur, ainsi que la columelle. $ Diderma niveum f. endoleuca Meyl.
+11,12$ 11b : Couche externe du péridium et/ou couche interne ainsi que la columelle plus ou moins colorées.
+12,0$ 12a : Columelle et partie interne de la base fortement rouge-rouille. Capillitium sombre irrégulièrement rugueux-noueux dans toutes ses parties, divisé en pinceau vers ses extrémités. Spores 13-14 µm. $ Diderma niveum var. ferrugineum Meyl.
+12,13$ 12b : Columelle et partie interne de la base crème à ochracé rougeâtre clair. Capillitium incolore à brun clair, lisse à grenelé ça et là, ou avec des élargissements sombres noueux ou fusiformes. Spores ordinairement inférieures à 13 µm.
+13,0$ 13a : Sporocystes pulvinés poussant les uns contre les autres et déformés par pression mutuelle, blanc pur, en général mêlés de courts plasmodiocarpes. $ Diderma alpinum (Meyl.) Meyl.
+13,14$ 13b : Sporocystes globuleux à hémisphériques, blanchâtres, ocre clair à gris.
+14,0$ 14a : Sporocystes jusqu'à 2 mm, blanchâtres, ocre clair à gris bleu, en grandes troupes. Hypothalle fortement développé, en croûte. Partie interne du péridium brillante, avec dépôt calcaire en réseau délicat. $ Diderma niveum (Rost.) T.Macbr.
+14,0$ 14b : Sporocystes jusqu'à 1 mm, blancs à beiges, en petits groupes, souvent disposés en lignes. Hypothalle mince. Partie interne du péridium poudrée de calcaire d'aspect seulement pointillé par transparence. $ Diderma microcarpum Meyl.
+15,0$ 15a : Spores plus ou moins ovales, finement verruqueuses, avec une bande claire équatoriale. $ Diderma cingulatum Nann.-Brem.
+15,16$ 15b : Spores plus ou moins globuleuses, verruqueuses à épineuses, sans zone claire.
+16,17$ 16a : Péridium simple ou formé de 2 couches accolées.
+16,20$ 16b : Péridium formé de 2 couches plus ou moins distinctement séparées, à rupture indépendante l'une de l'autre.
+17,0$ 17a : Sporocystes ocres, brun cannelle à rouge brique. $ Diderma simplex (Schroet.) G.Lister
+17,18$ 17b : Sporocystes blanchâtres, gris à ocre clair.
+18,0$ 18a : Sporocystes gris à ocre clair. Columelle à peine développée. Couches du péridium se détachant séparément. $ Diderma donkii Nann.-Brem.
+18,19$ 18b : Sporocystes blanchâtres à gris. Columelle nettement développée, hémisphérique à globuleuse.
+19,0$ 19a : Sporocystes clairsemés à densément répartis. Péridium simple. Hypothalle à peine développé. Spores finement verruqueuses. $ Diderma cinereum Morgan
+19,0$ 19b : Sporocystes densément serrés (les uns contre les autres) ou même amoncelés. Péridium double. Hypothalle bien développé, fortement calcaire. Spores distinctement épineuses. $ Diderma spumarioides (Fr.) Fr.
+20,21$ 20a : Spores jusqu'à 14 µm de diamètre. Hypothalle épais, en croûte.
+20,22$ 20b : Spores jusqu'à 11 µm de diamètre. Hypothalle mince, à peine perceptible.
+21,0$ 21a : Face interne de l'endopéridium plus ou moins incolore à grise. Columelle et hypothalle blanchâtres à ocre clair. $ Diderma crustaceum Peck
+21,0$ 21b : Face interne de l'endopéridium, columelle et hypothalle fortement brun jaune (au moins sous le dépôt calcaire qui est souvent plus clair). $ Diderma subviridifuscum Buyck
+22,0$ 22a : Sporocystes globuleux, blancs. Columelle globuleuse ou hémisphérique, blanche. $ Diderma globosum Pers.
+22,23$ 22b : Sporocystes aplatis-pulvinés, roses, gris ou ocre clair. Columelle aplatie, colorée.
+23,0$ 23a : Exopéridium rose clair à rose-gris, blanchâtre en pâlissant, en coquille d'œuf. Endopéridium gris acier, poudré de calcaire. Spores 7-9 µm. $ Diderma testaceum (Schrad.) Pers.
+23,0$ 23b : Exopéridium gris à ocre clair, friable, généralement ridé. Endopéridium incolore, à peu près dépourvu de calcaire. Spores 9-11 µm. $ Diderma donkii Nann.-Brem.
+24,0$ 24a : Espèce nivicole. Stipe en continuité avec l'hypothalle, souvent manquant. Spores 14-16 µm, avec de fortes épines. $ Diderma lyallii (Massee) T.Macbr.
+24,25$ 24b : Espèces non nivicoles. Stipe nettement séparé de l'hypothalle. Spores jusqu'à 12 µm, sans fortes épines.
+25,0$ 25a : Sporocystes discoïdes aplatis simulant un petit Ascomycète. Spores avec des groupes de verrues plus sombres. $ Diderma hemisphaericum (Bull.) Hornem.
+25,26$ 25b : Sporocystes hémisphériques à globuleux. Spores sans groupes de verrues plus sombres.
+26,0$ 26a : Spores à verrues distinctes, éparses. $ Diderma carneum Nann.-Brem.
+26,27$ 26b : Spores à fines verrues ou même à fines épines en formation serrée.
+27,0$ 27a : Sporocystes blancs, gris clair, beiges à brun clair. Columelle brune. Stipe blanchâtre à brun clair. $ Diderma montanum (Meyl.) Meyl.
+27,0$ 27b : Sporocystes, columelle et stipe blancs. $ Diderma montanum var. album (Torrend) G.Lister
+
+CS29,0$ Sous-genre Leangium
+
+1,2$ 1a : Sporocystes sessiles.
+1,6$ 1b : Sporocystes stipités, le stipe étant parfois très court.
+2,0$ 2a : Espèce nivicole. Péridium à 3 couches, l'externe ocre à brun-rouge couverte de petites écailles claires, réticulée par des lignes en relief formées d'une couche épaisse de petites écailles claires. Cette couche externe est solidement unie à la couche moyenne d'un blanc brillant. La couche interne, ordinairement libre, est membraneuse, lisse, fortement irisée. Spores 13-14 µm, distinctement épineuses. $ Diderma peyerimhoffii (Maire & Pinoy) Nowotny & al.
+2,3$ 2b : Espèces non nivicoles. Péridium sans formations calcaires écailleuses. Spores verruqueuses à finement verruqueuses ou épineuses, en général plus petites.
+3,4$ 3a : Péridium plus ou moins étoilé ou fendu en forme de fleur. Capillitium fugace.
+3,5$ 3b : Péridium à déhiscence différente. Capillitium persistant.
+4,0$ 4a : Sporocystes brun sombre à brun-noir. Capillitium surtout ramifié. Columelle formée d'un épaississement de la base. $ Diderma asteroides (A. & G.Lister) G.Lister
+4,0$ 4b : Sporocystes brun-noir clair à brun, souvent aussi stipités. Capillitium réticulé. Columelle globuleuse ou manquante. $ Diderma trevelyani (Grev.) Fr.
+5,0$ 5a : Spores 9-11 µm, finement verruqueuses. Sporocystes ocres, parfois aussi courts plasmodiocarpes. $ Diderma ochraceum Hoffm.
+5,0$ 5b : Spores 12-13 µm, épineuses. Sporocystes ocres, rose-gris à brun-rouge. $ Diderma sauteri (Rost.) T.Macbr.
+6,7$ 6a : Péridium s'ouvrant en étoile.
+6,10$ 6b : Péridium ne s'ouvrant pas en étoile (ébauchant parfois une étoile chez D. roanense).
+7,0$ 7a : Sporocystes toujours longuement stipités. Spores avec des grandes verrues éparses. Columelle en massue ou en poire renversée. $ Diderma floriforme (Bull.) Pers.
+7,8$ 7b : Sporocystes stipités à presque sessiles. Spores pourvues de verrues aérées plus ou moins grosses. Columelle globuleuse ou absente.
+8,0$ 8a : Spores 11-13 µm, distinctement verruqueuses. Capillitium ordinairement fortement réticulé. La columelle manque souvent. $ Diderma trevelyani (Grev.) Fr.
+8,9$ 8b : Spores 9-11 µm, finement verruqueuses. Capillitium ramifié çà et là. Columelle bien formée, globuleuse.
+9,0$ 9a : Sporocystes brun clair. $ Diderma radiatum (L.) Morgan
+9,0$ 9b : Sporocystes d'un rouge brillant. $ Diderma radiatum var. rubrum Rönn.
+10,11$ 10a : Spores 12-15 µm.
+10,12$ 10b : Spores 9-12 µm.
+11,0$ 11a : Sporocystes brun-rouge sombre. $ Diderma rufum Nann.-Brem.
+11,0$ 11b : Sporocystes blanchâtres à gris pâle. $ Diderma umbilicatum var. macrosporum Meyl.
+12,0$ 12a : Sporocystes brun clair à brun sombre, avec la marque d'un réseau plus clair. Distinctement stipité. $ Diderma roanense (Rex) T.Macbr.
+12,0$ 12b : Sporocystes blanchâtres à gris perle, courtement stipités ou même presque sessiles. $ Diderma umbilicatum Pers.
+
+
+CS30,0$ Didymium Schrader (71 espèces et 2 variétés)
+
+1,2$ 1a : Sporocystes sessiles ou plasmodiocarpes.
+1,18$ 1b : Sporocystes stipités. Stipe généralement pénétrant dans la base ombiliquée, rarement presque absent ou difforme.
+2,3$ 2a : Espèces nivicoles.
+2,6$ 2b : Espèces non nivicoles.
+3,0$ 3a : Péridium ressemblant à l'extérieur à une coquille d'œuf, lisse, formé d'une épaisse couche de cristaux calcaires ; à l'intérieur vert-bleu irisé. Capillitium raide, partant de la base comme des rayons vers le péridium où il se disperse. Spores finement ponctuées. $ Didymium difforme (Pers.) S.F.Gray
+3,4$ 3b : Péridium plus ou moins couvert d'une poussière de cristaux calcaires ou d'une couche de calcaire écailleuse et ridée. Capillitium peu tendu à élastique. Spores fortement sculptées.
+4,0$ 4a : Capillitium à structure spiralée rappelant les Trichia, à filaments généralement torsadés. Spores 14-16 µm. $ Didymium decipiens Meyl.
+4,5$ 4b : Capillitium non spiralé ou avec des brins sombres spiralés lâchement enroulés. Spores plus petites.
+5,0$ 5a : Capillitium présentant souvent des brins sombres spiralés. Spores verruqueuses à finement épineuses. Péridium recouvert d'une épaisse couche de cristaux. Plasmodiocarpe plat, étalé. $ Didymium dubium Rost.
+5,0$ 5b : Capillitium toujours dépourvu d'éléments spiralés. Spores grossièrement verruqueuses-épineuses, les ornements pouvant atteindre 1 µm de haut. Péridium écailleux-ridé, rugueux. Plasmodiocarpes et sporocystes pulvinés. $ Didymium nivicolum Meyl.
+6,7$ 6a : Capillitium entremêlé de grands éléments vésiculeux.
+6,8$ 6b : Capillitium sans éléments vésiculeux.
+7,0$ 7a : Spores 8-11 µm, finement verruqueuses. Columelle absente. $ Didymium serpula Fr.
+7,0$ 7b : Spores 10-13 µm, avec un réseau incomplet de crêtes reliant les verrues. Columelle distincte sous forme d'une crête atteignant le milieu de la fructification. $ Didymium flexuosum Yamash.
+8,9$ 8a : Péridium formé de 2 couches, l'extérieure en coquille d'œuf par un dépôt dense de cristaux de calcaire.
+8,14$ 8b : Péridium simple plus ou moins recouvert de cristaux de calcaire.
+9,0$ 9a : Sporocystes densément apprimés, pseudoaethalioïdes, la partie externe du péridium recouvrant plusieurs individus isolés. Spores à longs aiguillons jusqu'à 1 µm. $ Didymium crustaceum Fr.
+9,10$ 9b : Plasmodiocarpes et sporocystes en groupes, mais séparés.
+10,11$ 10a : Spores avec de grosses verrues peu serrées.
+10,13$ 10b : Spores à ornements fins.
+11,0$ 11a : Sporocystes hémisphériques, la plupart du temps courtement stipités. Columelle remarquablement développée. $ Sporocystes sessiles de Didymium vaccinum (Durieu & Mont.) Buchet
+11,12$ 11b : Sporocystes aplatis, jamais stipités. Columelle absente.
+12,0$ 12a : Sporocystes arrondis, minuscules, d'à peine 0.5 mm de diamètre. Capillitium partant de la base comme des rayons et se dispersant vers le péridium. Spores 10-11 µm, avec de fortes verrues éparses, souvent avec de fines lignes sortant du pore germinatif. $ Didymium annulisporum H.W.Keller & Schokn.
+12,0$ 12b : Sporocystes ou plasmodiocarpes allongés. Capillitium en réseau. Spores 10-13 µm, avec de grosses verrues partiellement ordonnées en lignes ou en réseau. $ Didymium trachysporum G.Lister
+13,0$ 13a : Sporée noire. Capillitium clair à brun, raide épais, rayonnant de la base pour se disperser dans le péridium, lisse. Spores sombres, rondes, finement verruqueuses. $ Didymium difforme (Pers.) S.F.Gray
+13,0$ 13b : Sporée brune. Capillitium brun, à brins fins, à expansion élastique, grenelé de sombre. Spores claires, ovales, avec un réseau incomplet formé de lignes de petites verrues. $ Didymium comatum (Lister) Nann.-Brem.
+14,0$ 14a : Plasmodiocarpes. Spores avec des rangées d'aiguillons et de verrues, en partie réunies par des crêtes en petites mailles ou en réseau incomplet. $ Didymium dubium Rost.
+14,15$ 14b : Plasmodiocarpes et/ou sporocystes. Spores verruqueuses ou épineuses, sans éléments en crête ou en réseau.
+15,0$ 15a : Spores 12-15 µm, à aiguillons dispersés jusqu'à 1 µm de long. $ Didymium spec.
+15,16$ 15b : Spores 8-13 µm, verruqueuses, avec des groupes de verrues plus sombres.
+16,0$ 16a : Fructifications ocres sur le frais puis pâlissant en gris clair ou blanc, avec la base ordinairement plus ou moins orange. $ Didymium ochroideum G.Lister
+16,17$ 16b : Fructifications blanches à grises, sans base orange.
+17,0$ 17a : Capillitium élastique, columelle tout au plus ébauchée. Plasmodiocarpes généralement annulaires. $ Didymium anellus Morgan
+17,0$ 17b : Capillitium en rayons, fixé au péridium. Columelle distinctement présente, en général associée aux sporocystes stipités. $ Plasmodiocarpes et formes sessiles de Didymium squamulosum (Alb. & Schw.) Fr.
+18,19$ 18a : Stipe calcaire.
+18,21$ 18b : Stipe sans calcaire.
+19,0$ 19a : Sporocystes à stipe court et large, parfois très réduit ou absent, quelquefois aussi plasmodiocarpes. Columelle grande, jaune à brun doré. Péridium en coquille d'œuf, s'ouvrant en anneau à la base. Spores avec de grandes verrues éparses. $ Didymium vaccinum (Durieu & Mont.) Buchet
+19,20$ 19b : Fructifications ne présentant pas ces caractères.
+20,0$ 20a : Stipe toujours rougeâtre. Péridium à base épaissie (simulant une columelle). Spores à fines verrues densément et régulièrement réparties. $ Didymium pertusum Berk.
+20,0$ 20b : Stipe la plupart du temps riche en calcaire et blanc, sinon jaunâtre à brunâtre, rarement réduit. Spores distinctement verruqueuses, en général avec des groupes de verrues plus sombres et même de fines lignes en réseau à larges mailles ou une crête circulaire autour des groupes de verrues sombres. Columelle blanche hémisphérique à affaissée. $ Didymium squamulosum (Alb. & Schw.) Fr.
+21,22$ 21a : Péridium brun par transparence, divisé par des traits clairs en taches bien délimitées rappelant le pelage de girafe.
+21,24$ 21b : Péridium incolore, jaunâtre ou confusément taché de brun, sans tesselures bien limitées.
+22,0$ 22a : Stipe nettement plus long que le diamètre du sporocyste, élancé, diaphane brun-rouge par transparence. Tesselures du péridium petites, ne dépassant pas 50 µm, d'un brun-rouge intense. Spores avec des groupes de verrues plus sombres évidents. $ Didymium nigripes (Link) Fr.
+22,23$ 22b : Stipe court, dépassant à peine le diamètre du sporocyste, souvent caché dans l'ombilic de la base, à peine diaphane, parfois commun à plusieurs sporocystes. Tesselures du péridium assez grandes, brun mat.
+23,0$ 23a : Tesselures du péridium de grandeur moyenne, dépassant à peine 100 µm. Fructifications en général nettement stipitées. Spores 8-10 µm, claires, finement verruqueuses, avec des groupes de verrues plus sombres. $ Didymium minus (Lister) Morgan
+23,0$ 23b : Tesselures plus grandes, jusqu'à 200 µm, souvent perforées. Fructifications souvent sessiles en apparence; Spores 10-14 µm, sombres, couvertes de verrues toutes semblables. $ Didymium melanospermum (Pers.) T.Macbr.
+24,0$ 24a : Sporocystes aplatis, discoïdes, avec un grand disque basal sombre, déprimé ; tachés de sombre par transparence sans délimitation nette des tesselures. Spores 6-8 µm. $ Didymium clavus (Alb. & Schw.) Rabenh.
+24,25$ 24b : Sporocystes sphériques, hémisphériques ou ovoïdes. Péridium dépourvu de taches sombres. Spores généralement plus grandes.
+25,26$ 25a : Columelle présente.
+25,28$ 25b : Columelle absente, pseudocolumelle plate présente.
+26,0$ 26a : Columelle stipitée, blanchâtre à jaunâtre, souvent couverte de calcaire blanc à ochracé clair. $ Didymium ovoideum Nann.-Brem.
+26,27$ 26b : Columelle sans stipe, toujours blanche.
+27,0$ 27a : Stipe brun-rouge clair par transparence. Spores finement verruqueuses avec des groupes confus de verrues plus sombres. $ Didymium iridis (Ditmar) Fr.
+27,0$ 27b : Stipe jaunâtre par transparence. Spores grossièrement verruqueuses présentant des groupes de verrues plus sombres évidents. $ Didymium verrucosporum A.L.Welden
+28,0$ 28a : Sporocystes sphériques à sphériques-aplatis. Calcaire du péridium blanc. Spores jusqu'à 13 µm, distinctement verruqueuses avec des groupes de verrues plus sombres. $ Didymium bahiense Gottsb.
+28,29$ 28b : Sporocystes irrégulièrement sphériques, en forme de selle. Calcaire du péridium blanc, souvent jaunâtre à brunâtre. Spores jusqu'à 11 µm, finement verruqueuses.
+29,0$ 29a : Cristaux calcaires du péridium toujours plus petits que les spores. Stipe à peine diaphane par transparence, aminci au sommet. $ Didymium eximium Peck
+29,0$ 29b : Cristaux calcaires du péridium de la grandeur des spores ou plus grands. Stipe diaphane par transparence, épaissi au sommet ou de même grosseur. $ Didymium megalosporum Berk. & M.A.Curtis
+
+
+CS31,0$ Echinostelium de Bary (15 espèces dans le genre)
+
+1,2$ 1a : Capillitium présent. Fructifications de 250-500 µm de haut.
+1,3$ 1b : Capillitium absent. Fructifications de 250 µm de haut maximum.
+2,0$ 2a : Columelle incolore, d'à peu près 5 µm. Capillitium à ramifications anguleuses, à extrémités libres épineuses, souvent réduit. Spores à épaississements de paroi régulièrement répartis. $ Echinostelium minutum de Bary
+2,0$ 2b : Columelle brun clair à brun foncé, 15-30 µm. Capillitium ramifié dichotomiquement. Spores avec une partie de la paroi mince. $ Echinostelium paucifilum Whitney
+3,0$ 3a : Sporocystes blancs. Columelle hyaline à jaunâtre. Spores à épaississements pariétaux réguliers. $ Echinostelium corynophorum Whitney
+3,4$ 3b : Sporocystes roses. Columelle brune opaque. Spores avec une partie de la paroi mince.
+4,0$ 4a : Columelle fusiforme à claviforme, à peu près trois fois plus haute que large. $ Echinostelium fragile Nann.-Brem.
+4,0$ 4b : Columelle hémisphérique à lenticulaire, plus large que haute. $ Echinostelium brooksii Whitney
+
+
+CS32,0$ Enerthenema Bowmann (4 espèces dans le genre)
+
+1,0$ 1a : Sporocystes brun-pourpre à brun foncé. Spores uniformément gris-brun en lumière transmise. Capillitium généralement brun, souvent aussi sur écorce d'arbres vivants en culture en chambre humide. $ Enerthenema papillatum (Pers.) Rost.
+1,2$ 1b : Sporocystes brun-noir à noirs. En lumière transmise, spores brun-sombre avec des parties plus claires. Capillitium brun-noir à noir. Dans la région étudiée, jusqu'à présent uniquement nivicoles.
+2,0$ 2a : Diamètre du disque apical (0.05)-0.1-0.2 mm, profondément en entonnoir. Capillitium émergeant aussi à la partie supérieure de la columelle. Spores brunes en masse. Stipe élancé. $ Enerthenema intermedium Nann.-Brem. & R.L.Critchf.
+2,0$ 2b : Diamètre du disque apical 0.3-0.6 mm, en forme de disque. Capillitium émergeant uniquement à partir du disque apical. Spores noires en masse. Stipe trapu, parfois très court. $ Enerthenema melanospermum T.Macbr. & G.W.Martin
+
+
+CS33,0$ Enteridium Ehrenb. (8 espèces et 2 variétés dans le genre)
+
+1,0$ 1a : Aethaliums très petits, d'environ 0.5-1 mm de diamètre. Souvent nombreux aethaliums serrés en masse compacte simulant un groupe de sporocystes. $ Enteridium lobatum (A.Lister) Farr
+1,2$ 1b : Aethaliums plus grands, généralement isolés.
+2,0$ 2a : Pseudocapillitium effiloché, à nombreuses extrémités libres. Aethaliums jusqu'à 8 cm de diamètre. $ Enteridium lycoperdon (Bull.) Farr
+2,3$ 2b :Pseudocapillitium en réseau tridimensionnel, semblable à une éponge, avec peu d'extrémités libres. Aethaliums plus petits.
+3,4$ 3a : Spores groupées en glomérules.
+3,5$ 3b : Spores libres.
+4,0$ 4a : Aethaliums de 1-4 mm de haut, brun-olive. Pseudocapillitium bien développé, rigide, brillant. Spores en masse olive. Spores à longues épines. $ Enteridium olivaceum Ehrenb.
+4,0$ 4b : Aethaliums d'à peine 1 mm de haut, brun foncé. Pseudocapillitium faiblement développé. Spores en masse brun foncé. Spores verruqueuses. $ Enteridium liceoides (A.Lister) G.Lister
+5,0$ 5a : Spores épineuses, de 10-14 µm. $ Enteridium simulans Rost.
+5,6$ 5b : Les deux tiers de la surface externe des spores recouverts d'un réseau à crêtes étroites. Spores 6-9 µm.
+6,0$ 6a : Aethaliums jusqu'à 60 mm de surface. Cortex très épais. Pseudocapillitium rigide. $ Enteridium splendens Macbr.
+6,0$ 6b : Aethaliums généralement plus petits, jusqu'à 35 mm. Cortex fragile. Pseudocapillitium flasque. $ Enteridium splendens var. juranum (Meylan) Härkönen
+
+
+CS34,0$ Fuligo Haller (9 espèces et 4 variétés dans le genre)
+
+1,2$ 1a : Spores 6-9 µm, à sculpture délicate.
+1,7$ 1b : Spores 9-16 µm, à sculpture nette.
+2,3$ 2a : Cortex lisse, plus ou moins brillant, durable.
+2,4$ 2b : Cortex rugueux, spongieux, spumeux ou réticulé en nid d'abeille, friable, s'émiettant.
+3,0$ 3a : Spores globuleuses à verrues denses. Capillitium formé de filaments hyalins avec nodules calcaires fusiformes. $ Fuligo leviderma Neubert & al.
+3,0$ 3b : Spores ordinairement ovales, à verrues dispersées sans ordre. Capillitium avec des nodules calcaires libres, en coquille, à filaments à peine formés. $ Fuligo luteonitens L.Krieglst. & Nowotny
+4,0$ 4a : Aethalium exclusivement avec du calcaire blanc. Cortex parfois légèrement coloré. $ Fuligo septica var. candida (Pers.) R.E.Fr.
+4,5$ 4b : Aethalium fortement coloré.
+5,0$ 5a : Aethalium roux, brun-orange à brun-rouge sombre, de temps à autre pâlissant blanchâtre. Nodules calcaires rouille clair à brun-rouge, parfois pâlissant blanchâtre. Spores n'atteignant parfois que 6-7 µm. $ Fuligo septica var. rufa (Pers.) R.E.Fr.
+5,6$ 5b : Aethalium jaune à ocre luisant. Nodules calcaires jaunes ou blancs. Spores 7-9 µm.
+6,0$ 6a : Nodules calcaires blancs. $ Fuligo septica (L.) Wiggers
+6,0$ 6b : Nodules calcaires jaunes. $ Fuligo septica var. flava (Pers.) B.Lazaro & Ibiza.
+7,8$ 7a : Spores nettement elliptiques.
+7,9$ 7b : Spores rondes.
+8,0$ 8a : Aethalium blanc. Spores 10-12 x 14-16 µm, à verrues souvent reliées en réseau par de fines crêtes. $ Fuligo cinerea (Schw.) Morgan
+8,0$ 8b : Aethalium jaune. Spores 9 x 10-11 µm. $ Fuligo licenti Buchet
+9,0$ 9a : Aethalium grand, étendu sur plusieurs centimètres. Calcaire du capillitium blanc. Sur bois mort. $ Fuligo intermedia T.Macbr.
+9,0$ 9b : Aethalium petit, rarement plus de 10 mm. Calcaire du capillitium ocre à orange terne. Sur mousses et restes de plantes. $ Fuligo muscorum Alb. & Schw.
+
+
+CS35,0$ Hemitrichia Rost. (16 espèces et 1 variété dans le genre)
+
+1,0$ 1a : Plasmodiocarpes en réseau, pouvant atteindre 60 x 80 mm de surface environ. $ Hemitrichia serpula (Scop.) Rost.
+1,2$ 1b : Plasmodiocarpes non en réseau. Sporocystes ou courts plasmodiocarpes.
+2,3$ 2a : Spores à réseau à grandes mailles.
+2,4$ 2b : Spores à réseau à petites mailles et/ou finement verruqueuses.
+3,0$ 3a : Spores de 14-21 µm de diamètre, à réseau complet, à zone marginale de 1.5-3 µm de large. Capillitium à ramifications peu abondantes, non réticulé. Sporocystes. $ Hemitrichia chrysospora (A.Lister) A.Lister
+3,0$ 3b : Spores plus petites, de 11-15 µm, à zone marginale ne dépassant pas 1 µm, à réseau discontinu, semblable à Trichia persimilis. Capillitium à réseau très ramifié. Sporocystes. $ Hemitrichia aurea Nann.-Brem. & Neub.
+3,0$ 3c : Spores de 10-14 µm. Plasmodiocarpes en réseau. $ Hemitrichia serpula (Scop.) Rost.
+4,5$ 4a : Spores, pour la plupart, de 10 µm et plus.
+4,6$ 4b : Spores, pour la plupart, de 10 µm et moins.
+5,0$ 5a : Capillitium à élatères de 3-4 µm de diamètre, à spirales souvent peu nettes, à extrémités libres émoussées arrondies ou à pointes courtes d'environ 5 µm. $ Hemitrichia leiotricha (A.Lister) G.Lister
+5,0$ 5b : Capillitium à élatères épais de 4-8 µm, à spirales évidentes, à extrémités libres non arrondies mais s'atténuant progressivement en pointe pouvant atteindre 20 µm de long. $ Hemitrichia montana (Morgan) Macbr.
+6,7$ 6a : Capillitium non réticulé.
+6,8$ 6b : Capillitium réticulé.
+7,0$ 7a : Sporocystes stipités, brun sombre dans leur partie inférieure, plus clairs et floconneux vers le haut, globuleux à piriformes. Capillitium de 3-6 µm de diamètre, avec 4-5 spirales peu distinctes et des stries longitudinales. $ Hemitrichia intorta (A.Lister) A.Lister
+7,0$ 7b : Sporocystes sessiles ou avec une ébauche de stipe, couverts de verrues noires. $ Hemitrichia minor var. pardina Minakata ex G.Lister
+8,0$ 8a : Sporocystes serrés en masse compacte, généralement pseudoaethalioïdes. Péridium cuivré clair à brun-jaune terne. $ Hemitrichia imperialis G.Lister
+8,9$ 8b : Sporocystes non pseudoaethalioïdes. Péridium non cuivré.
+9,10$ 9a : Sporocystes courtement stipités ou sessiles. Capillitium à longues épines de 1-3 µm.
+9,11$ 9b : Sporocystes toujours stipités. Stipe généralement long. Spirales du capillitium rugueuses par de fines épines.
+10,0$ 10a : Sporocystes couverts de verrues noires. $ Hemitrichia minor var. pardina Minakata ex G.Lister
+10,0$ 10b : Sporocystes dépourvus de verrues. $ Hemitrichia minor G.Lister
+11,0$ 11a : Stipe s'élargissant progressivement vers le sporocyste. Capillitium peu serré après sa sortie. $ Hemitrichia clavata (Pers.) Rost.
+11,0$ 11b : Stipe élancé, régulier, bien différencié du sporocyste. Capillitium compact, en forme de goutte après sa sortie. $ Hemitrichia calyculata (Speg.) Farr
+
+
+CS36,0$ Lamproderma Rost. (48 espèces et variétés dans le genre)
+
+1,CS37$ 1a : Espèces d'altitude, nivicoles. Période de fructification – dépendant de l'altitude et du stade de fonte de la neige – (mars) avril à juin (juillet). $ Espèces nivicoles.
+1,CS38$ 1b : Espèces non nivicoles. Période de fructification été à automne (hiver). $ Espèces non nivicoles.
+
+CS37,0$ Clé A : espèces nivicoles.
+
+1,2$ 1a : Spores avec ornementation en réseau plus ou moins complet ou avec des proéminences vésiculeuses irrégulières bordées de verrues sombres.
+1,5$ 1b : Spores verruqueuses ou spinuleuses.
+2,0$ 2a : Péridium éphémère, se décomposant rapidement en fragments minuscules. Extrémités du capillitium élargies en forme d'entonnoir. $ Lamproderma atrosporum agg. Meyl.
+2,3$ 2b : Péridium persistant, se déchirant en gros morceaux. Extrémités du capillitium en pointes fines.
+3,0$ 3a : Spores avec des proéminences vésiculeuses isolées et irrégulières, bordées de verrues sombres. $ Lamproderma cristatum Meyl.
+3,4$ 3b : Spores avec ornementation en crêtes.
+4,0$ 4a : Spores avec un réseau complet de lignes de crêtes et avec une bordure ininterrompue. $ Lamproderma cribrarioides (Fr.) R.E.Fr.
+4,0$ 4b : Spores avec des lignes de crêtes isolées, courtes, allongées, coudées ou anguleuses. $ Lamproderma cacographicum Bozonnet, Mar. Mey. & Poulain
+5,6$ 5a : Péridium rapidement fugace ou se décomposant en minuscules fragments (en cas de doute, il est possible de passer à 5b).
+5,8$ 5b : Péridium persistant, se déchirant ensuite en gros morceaux.
+6,0$ 6a : Capillitium avec des excroissances en forme de corail, aux extrémités tronquées. Péridium à peine reconnaissable. $ Lamproderma nigricapillitium Nann.-Brem. & Bozonnet
+6,7$ 6b : Capillitium plus ou moins lisse, avec ses extrémités entièrement ou en partie élargies en forme d'entonnoir. Péridium se décomposant en petits fragments.
+7,0$ 7a : Péridium, capillitium et spores en masse bruns à brun-rouge. Extrémités du capillitium seulement ça et là en forme de minuscules entonnoirs. Spores de (9)-10-11-(12) µm de diamètre, verruqueuses à finement spinuleuses. $ Lamproderma fuscatum Meyl.
+7,0$ 7b : Péridium, capillitium et spores en masse brun-noir à noirs, toutes les extrémités du capillitium nettement en forme d'entonnoir. Spores de (12)-13-18-(20) µm de diamètre, grossièrement verruqueuses à spinuleuses. $ Lamproderma atrosporum agg. Meyl.
+8,9$ 8a : Péridium à taches sombres, parfois visibles seulement au microscope.
+8,13$ 8b : Péridium sans taches.
+9,10$ 9a : Spores spinuleuses. Epines de 1-2 µm de haut. Péridium sans cristaux.
+9,11$ 9b : Spores finement verruqueuses. Péridium avec des cristaux plus ou moins nombreux.
+10,0$ 10a : Diamètre des spores 20-24 µm. Epines environ 2 µm de hauteur, parfois reliées par de courtes crêtes. $ Lamproderma acanthosporum Kowalski
+10,0$ 10b : Diamètre des spores (12)-13-14-(15) ou 16-18-(20) µm. Epines de 1 µm de hauteur, pore germinatif clair, en saillie, donnant aux spores une forme de globe oculaire. $ Lamproderma echinosporum Meyl.
+11,0$ 11a : Sporocystes généralement ovoïdes, de couleur bronze à argentés, un peu irisés. Taches du péridium visibles seulement au microscope. Capillitium clair. $ Lamproderma pseudomaculatum Mar. Mey. & Poulain
+11,12$ 11b : Sporocystes sphériques, métalliques sombres, taches nettement prononcées. Capillitium foncé, éclairci seulement aux extrémités.
+12,0$ 12a : Diamètre des spores 12-15 µm. Sporocystes nettement stipités. $ Lamproderma maculatum Kowalski
+12,0$ 12b : Diamètre des spores 16-19-(21) µm. Sporocystes presque sessiles. $ Lamproderma maculatum var. macrosporum Mar. Mey. & Poulain
+13,14$ 13a : Toutes ou quelques-unes des extrémités du capillitium élargies en forme d'entonnoir.
+13,15$ 13b : Extrémités du capillitium tronquées ou en pointes fines.
+14,0$ 14a : Capillitium et spores en masse bruns à brun-rouge, extrémités en forme d'entonnoirs minuscules et clairsemés. $ Lamproderma fuscatum Meyl.
+14,0$ 14b : Capillitium et spores en masse brun-noir à noirs, toutes les extrémités nettement en entonnoirs. $ Lamproderma atrosporum agg. Meyl.
+15,16$ 15a : Capillitium très sombre avec des excroissances noduleuses, spinuleuses ou en forme de corail.
+15,17$ 15b : Capillitium éclairci ou incolore au moins aux extrémités, plus ou moins lisse.
+16,0$ 16a : Péridium en membrane résistante, persistant longtemps, noir légèrement brillant. Fructifications éparses. $ Lamproderma disseminatum Kowalski
+16,0$ 16b : Péridium disparaissant immédiatement après maturation, à peine visible. Fructifications en petits groupes. $ Lamproderma nigricapillitium Nann.-Brem. & Bozonnet
+17,18$ 17a : Capillitium brun sombre, parfois grossièrement en réseau, plus clair uniquement aux extrémités extérieures.
+17,20$ 17b : Capillitium brun, brun orangé, brun clair jusqu'à presque transparent, s'éclaircissant régulièrement vers le péridium.
+18,0$ 18a : Spores densément verruqueuses à finement spinuleuses, de diamètre (10)-12-19 µm. Sporocystes plus ou moins ovoïdes à piriformes. $ Complexe Lamproderma carestiae-ovoideum.
+18,19$ 18b : Spores nettement spinuleuses. Epines de 0.5-1.5 µm de hauteur. Ornementation répartie de façon plus ou moins éparse. Sporocystes presque sphériques ou plus hauts que larges.
+19,0$ 19a : Diamètre des spores (10)-11-12-(13) µm. Epines jusqu'à 0.8 µm de hauteur. Sporocystes presque sphériques, sessiles, avec une zone équatoriale remarquablement bleu-violet. $ Lamproderma spinulosporum Mar. Mey. & al.
+19,0$ 19b : Diamètre des spores 13-16 µm. Epines 1-1.5 µm de hauteur. Sporocystes nettement stipités, généralement plus hauts que larges. $ Complexe Lamproderma carestiae-ovoideum.
+20,0$ 20a : Capillitium et spores en masse bruns à brun-rouge. Extrémités du capillitium avec au moins quelques petits élargissements en forme d'entonnoir. Péridium se divisant en petits fragments. $ Lamproderma fuscatum Meyl.
+20,21$ 20b : Spores en masse brunes à brun-noir. Extrémités du capillitium en fines pointes. Péridium se déchirant en gros morceaux.
+21,0$ 21a : Sporocystes courtement cylindriques, élargis sur le haut, légèrement recourbés, jusqu'a 3 fois plus hauts que le diamètre. Capillitium avec de nombreux élargissements membraneux en son centre. $ Lamproderma cucumer (Meyl.) Nowotny & Neubert
+21,22$ 21b : Sporocystes sphériques jusqu'à courtement ovoïdes, à peine deux fois aussi hauts que le diamètre.
+22,23$ 22a : Péridium orné d'aiguilles de cristaux, ridé à lisse.
+22,25$ 22b : Péridium sans aiguilles de cristaux, plus ou moins lisse.
+23,0$ 23a : Verrues des spores réparties de manière éparse sur un fond clair. Péridium nettement ridé, orné de nombreuses aiguilles de cristaux. $ Lamproderma pulveratum Mar. Mey. & Poulain
+23,24$ 23b : Spores densément et finement verruqueuses. Péridium un peu ridé à lisse, aiguilles de cristaux nombreuses à absentes.
+24,0$ 24a : Péridium de couleur bronze à argenté, légèrement ridé, avec de nombreuses aiguilles de cristaux, avec des taches sombres visibles au microscope. Sporocystes généralement ovoïdes. $ Lamproderma pseudomaculatum Mar. Mey. & Poulain
+24,0$ 24b : Péridium bleu à bleu-vert, généralement lisse, brun brillant à la base, parfois avec quelques aiguilles de cristaux. Sporocystes sphériques avec la base aplatie, rarement sessiles et pulvinés. $ Lamproderma splendens Meyl.
+25,0$ 25a : Sporocystes blanchâtres après dispersion des spores. Capillitium brun clair à incolore, perdant souvent sa forme après la chute du péridium. Diamètre des sporocystes 0.6-0.8 mm. Hauteur totale jusqu'à 1.3 mm, rarement pulvinés et sessiles. $ Lamproderma splendens Meyl.
+25,26$ 25b : Sporocystes brun-rosé après dispersion des spores. Capillitium brun-orangé, conservant sa forme. Diamètre des sporocystes 0.8-1.8 mm, hauteur totale jusqu'à 3 mm.
+26,0$ 26a : Sporocystes presque sessiles, souvent plus hauts que le diamètre. Capillitium en réseau dense. Diamètre des spores 12-13-(14) µm, finement et densément verruqueuses. $ Lamproderma pulchellum Meyl.
+26,0$ 26b : Sporocystes stipités, sphériques. Capillitium rayonnant. Diamètre des spores (12)-13-16-(18) µm, densément spinuleuses. $ Lamproderma sauteri Rost.
+
+CS38,0$ Clé B : espèces non nivicoles.
+
+1,2$ 1a : Diamètre des spores 7-10-(11) µm, verruqueuses.
+1,7$ 1b : Diamètre des spores 12-26 µm, spinuleuses.
+2,0$ 2a : Verrues en groupes irréguliers et disposées en lignes sinueuses avec de grandes régions sans ornementation. $ Lamproderma hieroglyphicum Flatau
+2,3$ 2b : Verrues réparties de manière régulière sur la surface des spores.
+3,0$ 3a : Extrémité de la columelle étalée en forme d'arbre ou de pinceau. Capillitium en filaments ondulés. Spores finement verruqueuses et avec des groupes de verrues plus sombres et plus grandes régulièrement répartis. $ Lamproderma arcyrionema Rost.
+3,4$ 3b : Extrémité de la columelle tronquée. Capillitium rayonnant ou s'étalant largement après l'ouverture du péridium. Spores sans groupes de verrues.
+4,0$ 4a : Spores avec des verrues grossières, éparses. Diamètre des sporocystes 0.3-0.6 mm. $ Lamproderma scintillans (Berk. & Brizelm.) Morgan
+4,5$ 4b : Spores densément et finement verruqueuses. Diamètre des sporocystes 0.4-1.5 mm.
+5,0$ 5a : Capillitium s'étalant en longs filaments après ouverture du péridium. Hauteur totale des sporocystes 2.5-3.5 mm. $ Lamproderma laxum Neubert
+5,6$ 5b : Capillitium conservant sa forme. Hauteur totale des sporocystes environ 1.5 mm.
+6,0$ 6a : Capillitium brun près de la columelle, devenant peu à peu plus clair à incolore vers le bord, nettement rayonnant. $ Lamproderma arcyrioides (Sommerf.) Rost.
+6,0$ 6b : Capillitium brun seulement près de la columelle, en grande partie incolore, en réseau. $ Lamproderma arcyrioides var. leucofilum Neubert & al.
+7,8$ 7a : Diamètre des spores 12-15-(16) µm.
+7,10$ 7b : Diamètre des spores (16)-17-26 µm.
+8,0$ 8a : Péridium avec de grandes taches sombres légèrement en creux. Capillitium clair. $ Lamproderma gulielmae Meyl.
+8,9$ 8b : Péridium sans taches précises. Capillitium foncé.
+9,0$ 9a : Péridium sombre, avec à sa base de petites taches peu visibles. Capillitium en rubans, moucheté de pigment brun plus ou moins dense. Spores finement spinuleuses. Sporocystes courtement stipités. $ Lamproderma puncticulatum Härk.
+9,0$ 9b : Péridium bleu, bleu-vert ou bleu-violet sans taches. Capillitium en filaments, uniformément brun, incolore à l'extérieur. Spores verruqueuses à finement spinuleuses, souvent avec un contour ovale. Stipe généralement long et robuste. $ Lamproderma columbinum (Pers.) Rost.
+10,0$ 10a : Longueur du stipe environ 1 mm. Péridium foncé. Capillitium en rubans, larges de 4-8-(10) µm, clair, avec des granulations éparses s'éclaircissant en préparation. Spores avec des épines d'environ 1 µm de hauteur. $ Lamproderma granulosum Neubert & al.
+10,11$ 10b : Longueur du stipe 1.5-3 mm. Péridium bleu-violet à bleu-vert. Capillitium sans granulations. Spores avec des épines de 2-4 µm de hauteur.
+11,0$ 11a : Capillitium brun sombre, clair à l'extérieur, filamenteux. Diamètre des spores 18-22-(24) µm. $ Lamproderma echinulatum (Berk.) Rost.
+11,0$ 11b : Capillitium clair, en rubans. Diamètre des spores (22)-24-26 µm. $ Lamproderma mucronatum Neubert & al.
+
+
+CS39,0$ Lepidoderma de Bary (9 espèces dans le genre)
+
+1,2$ 1a : Sporocystes stipités, prédominant en plaine et en moyenne montagne.
+1,4$ 1b : Sporocystes sessiles ou plasmodiocarpes, nivicoles-alpins.
+2,0$ 2a : Stipe élancé. Spores à grosses verrues de taille variable, éloignées les unes des autres. $ Lepidoderma stipitatum Flatau
+2,3$ 2b : Stipe proportionnellement large. Spores à ornementation serrée et fine, verruqueuses à épineuses.
+3,0$ 3a : Stipe sans substance à l'intérieur, atteignant environ 0.5 mm de longueur, brun clair à brun moyen. Péridium avec des cristaux calcaires jaunes, globuleux, d'un diamètre de 10-25 µm. $ Lepidoderma crassipes Flatau, Massner & Schirmer
+3,0$ 3b : Stipe avec du calcaire, pouvant atteindre environ 1 mm de long, brun-orange à brun-rouge. Calcaire du péridium blanc, écailleux à étoilé, en fragments plus grands. $ Lepidoderma tigrinum (Schrad.) Rost.
+4,0$ 4a : Capillitium rubané, ramifié ou réticulé en étoile, imprégné d'éléments contenant du calcaire, pâles et d'un diamètre pouvant atteindre 30 µm. $ Lepidoderma granuliferum (W.Phillips) R.E.Fr.
+4,5$ 4b : Capillitium filamenteux, sans éléments contenant du calcaire.
+5,0$ 5a : Spores 15-17 µm de diamètre, à épines grossières irrégulièrement réparties. Péridium ocre, couleur coquille d'œuf à blanc-crème, couvert de quelques écailles calcaires blanches. $ Lepidoderma didermoides Kowalski
+5,6$ 5b : Spores ne dépassant pas 15 µm. Péridium avec d'autres caractères.
+6,0$ 6a : Plasmodiocarpes ou sporocystes jusqu'à 1.5 mm de diamètre. Péridium sombre presque noir avec de petites écailles clairsemées, blanches ou jaunâtres. Spores densément épineuses. $ Lepidoderma carestianum (Rabenh.) Rost.
+6,0$ 6b : Sporocystes 1.5-3 mm de diamètre. Péridium brun, avec de petites écailles brun clair à brun-rougeâtre en couche compacte. Spores à verrues clairsemées. $ Lepidoderma aggregatum Kowalski
+
+
+CS40,0$ Licea Schrader (47 espèces dans le genre)
+
+1,2$ 1a : Fructifications en sporocystes, s'ouvrant toujours par un opercule nettement délimité.
+1,4$ 1b : Fructifications en sporocystes ou en plasmodiocarpes, s'ouvrant le long de crêtes ou de craquelures préalablement ébauchées, ou irrégulièrement.
+2,0$ 2a : Sporocystes stipités. $ Licea operculata (Wingate) Martin
+2,3$ 2b : Sporocystes sessiles.
+3,0$ 3a : Opercule du péridium convexe, parfois faiblement individualisé, finement verruqueux sur la face interne. Spores lisses, avec un grand pore germinatif à paroi mince. $ Licea parasitica (Zukal) Martin
+3,0$ 3b : Opercule du péridium déprimé, évident, très brillant, à fortes papilles sur la face interne. Spores à épines disposées en groupes. Paroi sporale uniformément mince. $ Licea kleistobolus Martin
+4,5$ 4a : Péridium divisé en polygones par des crêtes le long desquelles s'opère l'ouverture.
+4,11$ 4b : Péridium s'ouvrant par une fissure allant d'un bout à l'autre, ou irrégulièrement rompu.
+5,6$ 5a : Spores lisses.
+5,7$ 5b : Spores verruqueuses.
+6,0$ 6a : Sporocystes dépassant généralement 0.15 mm de diamètre, ocres, olive à brun châtain. Spores en masse jaunes à jaune olive, 8-11 µm de diamètre. $ Licea castanea G.Lister
+6,0$ 6b : Sporocystes 0.05-0.15 mm de diamètre, brun foncé. Spores en masse concolores, de 13 µm de diamètre environ. $ Licea belmontiana Nann.-Brem.
+7,0$ 7a : Spores en masse rouge-rouille. $ Licea minima Fries
+7,8$ 7b : Spores en masse brun foncé à noires.
+8,9$ 8a : Spores en masse noires, jaune olive en lumière transmise, à fines verrues denses.
+8,10$ 8b : Spores en masse brun foncé, brun-rouge clair ou brun-gris clair en lumière transmise, à verrues plus éparses.
+9,0$ 9a : Sporocystes de 1 mm environ. Spores 15-18 µm de diamètre. $ Licea pusilla Schrader
+9,0$ 9b : Sporocystes jusqu'à 0.4 mm. Spores 12-13 µm de diamètre. $ Licea pygmaea (Meylan) Ing
+10,0$ 10a : Spores 15-18 µm de diamètre, brun-rouge clair en lumière transmise, avec des verrues se détachant par endroits de la paroi. Pore germinatif indistinct. $ Licea chelonoides Nann.-Brem.
+10,0$ 10b : Spores 11-13 µm de diamètre, brun-gris clair en lumière transmise, à pore germinatif plus grand, plus clair et nettement plus mince. $ Licea testudinacea Nann.-Brem.
+11,0$ 11a : Sporocystes ou plasmodiocarpes oblongs, fusiformes, avec une fente jaune les traversant tout du long, par laquelle s'ouvre le péridium. $ Licea biforis Morgan
+11,12$ 11b : Sporocystes ou plasmodiocarpes s'ouvrant irrégulièrement, jamais fusiformes.
+12,0$ 12a : Sporocystes et grands plasmodiocarpes jusqu'à 10 mm environ. Spores en masse brun olive. $ Licea variabilis Schrad.
+12,13$ 12b : Sporocystes petits.
+13,0$ 13a : Sporocystes jaune doré, brun-jaune, cuivrés, plus tard également brun foncé à presque noirs, brillants. Spores en masse jaunes, 10-12 µm de diamètre. $ Licea tenera Jahn
+13,14$ 13b : Sporocystes bruns à noirs, ternes. Spores en masse jamais jaunes.
+14,0$ 14a : Sporocystes à bourrelet annulaire à la base, noirs. Spores en masse brun foncé à noires. Spores rondes, finement épineuses. $ Licea marginata Nann.-Brem.
+14,0$ 14b : Sporocystes sans bourrelet, bruns à noirs. Spores crème en masse, souvent elliptiques, lisses seulement en apparence, mais à ponctuation extrêmement fine, certaines jointes par paires, d'autres en petits groupes. $ Licea gloeoderma Döbb. & Nann.-Brem.
+
+
+CS41,0$ Lycogala Adans. (5 espèces et 1 variété dans le genre)
+
+1,0$ 1a : Aethaliums de 10-50 mm de diamètre. Cortex lisse, souvent brillant, fragile. $ Lycogala flavofuscum (Ehrenb.) Rost.
+1,2$ 1b : Aethaliums plus petits, atteignant rarement 15 mm de diamètre.
+2,0$ 2a : Aethaliums jusqu'à 2 mm de diamètre, généralement plus hauts que larges, en forme de cône renversé. Squamules du cortex grandes et un peu réticulées. $ Lycogala conicum Pers.
+2,3$ 2b : Aethaliums généralement plus grands, plus ou moins hémisphériques à globuleux.
+3,0$ 3a : Aethaliums de 2-10 mm de diamètre. Spores 5.5-8 µm. Squamules du cortex sans structure celluliforme (espèce collective). $ Lycogala epidendrum (L.) Fries
+3,0$ 3b : Aethaliums de 2-5 mm de diamètre. Spores 5-6 µm. Squamules du cortex à structure celluliforme. $ Lycogala exiguum Morgan
+
+
+CS42,0$ Macbrideola H.C.Gilbert (15 espèces et variétés dans le genre)
+
+1,2$ 1a : Diamètre maximum des spores 10 µm.
+1,0$ 1b : Diamètre des spores 12-14 µm. $ Macbrideola cornea var. macrospora Nann.-Brem.
+2,0$ 2a : Spores avec des verrues fines, éparses, de diamètre 8-10 µm. Capillitium rigide, aux extrémités tronquées à épaissies. $ Macbrideola cornea (G.Lister & Cran.) Alexop.
+2,0$ 2b : Spores finement verruqueuses, avec des groupes bien distincts de verrues plus grandes et plus sombres, de 7-9 µm de diamètre. Capillitium flasque, se rétrécissant à la périphérie, ses extrémités s'étirant en pointes. $ Macbrideola martinii (Alexop. & Beneke) Alexop.
+
+
+CS43,0$ Metatrichia Ing (7 espèces dans le genre)
+
+1,0$ 1a : Capillitium en réseau à larges mailles, non élastique, sans épines. Péridium triple, s'ouvrant irrégulièrement. $ Metatrichia rosea (Flatau & Nann.-Brem.) Nann.-Brem.
+1,2$ 1b : Capillitium simple, rarement ramifié, élastique, à filaments lisses ou épineux. Péridium double.
+2,0$ 2a : Capillitium à courtes extrémités pointues, épineux, rouge foncé. Péridium s'ouvrant généralement par un opercule bombé nettement délimité. Ressemblant à un nid de guêpes une fois vide, du fait de la croissance serrée des fructifications. $ Metatrichia vesparium (Batsch) Nann.-Brem.
+2,0$ 2b : Capillitium à longues extrémités pointues, sans épines, brun-rouge. Péridium ne s'ouvrant pas par un opercule. $ Metatrichia floriformis (Schw.) Nann.-Brem. 
+
+
+CS44,0$ Oligonema Rost. (4 espèces dans le genre)
+
+1,0$ 1a : Sporocystes grégaires, non serrés, normalement plus hauts que larges. Réseau des spores à mailles complètes, à peine interrompues. Capillitium dense orné de fines verrues, sans spirales. $ Oligonema flavidum (Peck) Peck
+1,0$ 1b : Sporocystes grégaires serrés. Réseau des spores souvent incomplet. Capillitium à anneaux, verrues et spirales peu nettes. $ Oligonema schweinitzii (Berk.) Martin
+
+
+CS45,0$ Paradiacheopsis Hertel (9 espèces dans le genre)
+
+1,0$ 1a : Capillitium en faisceau à partir de l'extrémité de la columelle, très fin au point de départ, généralement une à deux fois ramifié en fourche, avec ses extrémités épaissies en massues, parfois en forme de pinceau après la dispersion des spores. Spores densément couvertes de verrues fines, souvent avec une partie claire, diamètre 10-12 µm. $ Paradiacheopsis fimbriata (G.Lister & Cran.) Hertel
+1,2$ 1b : Capillitium se divisant à partir de l'extrémité de la columelle en deux ou plusieurs ramifications robustes, plusieurs fois dichotomes, se rétrécissant plus ou moins à la périphérie, conservant le contour sphérique après dispersion des spores. Spores verruqueuses à épineuses, plus grandes.
+2,0$ 2a : Spores verruqueuses. Capillitium rigide et résistant. Hauteur totale 0.7-1.2 mm. $ Paradiacheopsis solitaria (Nann.-Brem.) Nann.-Brem.
+2,0$ 2b : Spores avec des épines jusqu’à 1 µm. Capillitium plus fin, souple. Hauteur totale 0.2-0.6 mm. $ Paradiacheopsis cf. acanthodes (Alexop.) Nann.-Brem.
+
+
+CS46,0$ Perichaena Fries (16 espèces et 1 variété dans le genre)
+
+1,0$ 1a : Fructifications stipitées. $ Perichaena pedata (A. & G.Lister) G.Lister
+1,2$ 1b : Fructifications sessiles. Sporocystes et plasmodiocarpes.
+2,3$ 2a : Péridium s'ouvrant par un opercule bien délimité.
+2,5$ 2b : Péridium se désagrégeant irrégulièrement, ne s'ouvrant pas par un opercule bien délimité.
+3,0$ 3a : Sporocystes globuleux à hémisphériques ou courts plasmodiocarpes, non plats-déprimés. Ligne de démarcation de l'opercule située à mi-hauteur et souvent sinueuse. Hypothalle distinct. $ Perichaena corticalis (Batsch) Rost.
+3,4$ 3b : Sporocystes aplatis à hémisphériques, comprimés en masse compacte, pseudoaethalioïdes, déformés par pression mutuelle. Hypothalle peu apparent.
+4,0$ 4a : Sporocystes plats, plus ou moins polygonaux, plus rarement plasmodiocarpes, 0.5-1.5 mm de diamètre. Capillitium verruqueux-épineux. $ Perichaena depressa Libert.
+4,0$ 4b : Sporocystes aplatis à convexes hémisphériques, 0.1-0.5 mm de diamètre. Capillitium dessinant un réseau irrégulier. $ Perichaena quadrata Macbr.
+5,0$ 5a : Capillitium à peine développé, sans ornementation en relief. $ Perichaena corticalis var. liceoides (Rost.) A.Lister
+5,6$ 5b : Capillitium distinctement développé, épineux.
+6,0$ 6a : Capillitium à épines jusqu'à 7 µm de long environ, ramifié mais non réticulé. $ Perichaena chrysosperma (Currey) A.Lister
+6,0$ 6b : Capillitium rugueux par de fines et courtes épines, réticulé. $ Perichaena vermicularis (Schw.) Rost.
+
+
+CS47,0$ Physarum Pers.
+
+(135 espèces et variétés dans le genre)
+
+1,CS48$ 1a : Sporocystes plus ou moins distinctement stipités, parfois mêlés à des sporocystes sessiles. $ Sporocystes plus ou moins distinctement stipités.
+1,Cs49$ 1b : Sporocystes sessiles et/ou plasmodiocarpes, parfois avec des excroissances peu apparentes de l'hypothalle, simulant un stipe. $ Sporocystes sessiles et/ou plasmodiocarpes.
+
+CS48,0$ Clé A : sporocystes plus ou moins distinctement stipités.
+
+1,2$ 1a : Calcaire des fructifications blanc. Sporocystes blancs à gris.
+1,18$ 1b : Calcaire des fructifications coloré en partie ou en totalité.
+2,0$ 2a : Spores très sombres maillées de lignes claires. $ Physarum straminipes Lister
+2,3$ 2b : Spores ne présentant pas ce caractère.
+3,4$ 3a : Columelle ou pseudocolumelle évidente, cylindrique, atteignant presque le sommet.
+3,5$ 3b : Columelle absente ou seulement courtement globuleuse ou en cône. Pseudocolumelle absente ou seulement sous forme d'accumulation centrale de calcaire.
+4,0$ 4a : Columelle en continuité avec le stipe, sans calcaire, brunâtre à jaunâtre. Spores 6-7 µm. $ Physarum penetrale Rex
+4,0$ 4b : Pseudocolumelle contenant du calcaire, blanche, en massue. Spores 8-10 µm. $ Physarum mutabile (Rost.) G.Lister
+5,0$ 5a : Sporocystes comprimés latéralement par pression mutuelle, réniformes, en éventail ou lobés. $ Physarum compressum Alb. & Schw.
+5,6$ 5b : Sporocystes plus ou moins globuleux, hémisphériques, discoïdes, lenticulaires, ovalaires ou cylindriques.
+6,0$ 6a : Sporocystes ovalaires à courtement cylindriques. Stipe manquant souvent. Péridium à 2 couches distinctes. Spores très sombres en lumière transmise, 12-15 µm de diamètre. $ Physarum didermoides (Pers.) Rost.
+6,7$ 6b : Sporocystes globuleux, hémisphériques à discoïdes ou lenticulaires. Péridium à 1 seule couche. Spores claires à modérément sombres en lumière transmise, plus petites.
+7,8$ 7a : Stipe entièrement calcaire, blanc à ocre-jaune ou jaunâtre, à base parfois plus sombre.
+7,10$ 7b : Stipe sans calcaire ou simplement poudré de calcaire, le plus souvent fortement coloré à sombre.
+8,0$ 8a : Stipe en général plus court que le diamètre du sporocyste, trapu. Nœuds calcaires du capillitium grands. $ Physarum leucopus Link
+8,9$ 8b : Stipe plus long que le diamètre du sporocyste, svelte. Nœuds calcaires du capillitium petits.
+9,0$ 9a : Sporocystes blancs, rarement teintés de beige, gris quand le calcaire fait défaut. Stipe blanc pur à crème. Péridium irrégulièrement déchiré, sans pseudocolumelle globuleuse. $ Physarum globuliferum (Bull.) Pers.
+9,0$ 9b : Sporocystes gris, souvent métalliques-brillants. Stipe blanc à jaune à base plus sombre. Péridium se déchirant en pétales ; une grande partie du calcaire du capillitium est réunie en pseudocolumelle globuleuse. $ Physarum stellatum (Massee) G.W.Martin
+10,0$ 10a : Stipe à peine formé. Péridium irisé avec une couche calcaire clairsemée. Spores souvent agglomérées en groupes lâches. $ Physarum nudum T.Macbr.
+10,11$ 10b : Stipe distinctement développé. Péridium en général avec une couche de calcaire distincte. Spores toujours libres.
+11,0$ 11a : Sporocystes souvent réunis à plusieurs. Spores noires en masse, brun olive sombre en lumière transmise avec un sillon germinatif plus clair. $ Physarum notabile T.Macbr.
+11,12$ 11b : Sporocystes toujours isolés. Spores brunes à brun sombre en masse et brun-lilas en lumière transmise.
+12,13$ 12a : Stipe brun-rouge brillant à sombre, brun-rouge transparent en lumière transmise.
+12,15$ 12b : Stipe brun sombre à noir à la base, plus clair vers le haut et jusqu'à blanchâtre, à peine transparent en lumière transmise.
+13,0$ 13a : Sporocystes discoïdes aplatis. Capillitium rayonnant. Spores généralement distinctement verruqueuses-épineuses, dépassant souvent 12 µm de diamètre. $ Physarum pezizoideum (Jungh.) Pavar. & Lagarde
+13,14$ 13b : Sporocystes plus ou moins globuleux. Capillitium rayonnant. Spores finement ornementées, 9-12 µm de diamètre.
+14,0$ 14a : Sporocystes 0.8-1 mm de diamètre et même rarement plus grand. Base sans calcaire, de couleur claire. Spores avec un sillon germinatif en forme de bande claire. $ Physarum pusillopse D.W.Mitch. & Nann.-Brem.
+14,0$ 14b : Sporocystes 0.4-0.6 mm de diamètre. Base sans calcaire, brun-rouge. Spores sans bande claire. $ Physarum pusillum (Berk. & M.A.Curtis) G.Lister
+15,16$ 15a : Sporocystes penchés à inclinés, fortement aplatis. Stipe en général plus long que le diamètre du sporocyste, dénudé et fléchi, à sommet mince. Péridium se déchirant en petits morceaux, de petites écailles restant longtemps attachées au capillitium. Spores 8-10 µm.
+15,17$ 15b : Sporocystes dressés, globuleux-aplatis à hémisphériques. Longueur du stipe au plus égale au diamètre du sporocyste. Péridium se déchirant irrégulièrement. Spores 9-12 µm.
+16,0$ 16a : Calcaire toujours et partout blanc. $ Physarum nutans Pers.
+16,0$ 16b : Calcaire gris-jaune, pâlissant, constamment jaunâtre dans le capillitium. $ Physarum viride var. incanum Lister
+17,0$ 17a : Capillitium se développant en réseau, avec des nœuds calcaires arrondis. Pseudocolumelle à peine individualisée. $ Physarum leucophaeum Fr.
+17,0$ 17b : Capillitium rayonnant avec des nœuds calcaires fusiformes, longuement étirés. Pseudocolumelle distinctement développée au centre. $ Physarum robustum (Lister) Nann.-Brem.
+18,19$ 18a : Calcaire teinté seulement d'ocre à jaune, ordinairement blanc.
+18,20$ 18b : Calcaire distinctement à fortement coloré.
+19,0$ 19a : Stipe blanc à crème, calcaire, plus long que le diamètre du sporocyste. Spores 7-10 µm de diamètre, sans bande claire. $ Physarum globuliferum (Bull.) Pers.
+19,0$ 19b : Stipe brun clair à brun-noir, sans calcaire, plus court que le diamètre du sporocyste. Spores 11-13 µm de diamètre, avec une bande claire. $ Physarum pusillopse D.W.Mitch. & Nann.-Brem.
+20,0$ 20a : Habitat exclusivement nivicole. Sporocystes sur des stipes membraneux et flasques. Spores 12-15 µm. Calcaire du péridium pâlissant souvent vers le blanc. Calcaire du capillitium constamment orange-jaune. $ Physarum albescens D.Ellis ex T.Macbr.
+20,21$ 20b : Habitat non nivicole. Stipe vertical, subcylindrique. Spores de 13 µm au plus, le plus souvent autour de 10 µm ou plus petites.
+21,22$ 21a : Stipes calcaires.
+21,25$ 21b : Stipes sans calcaire ou seulement poudrés d'un peu de calcaire.
+22,0$ 22a : Spores 10-13 µm, avec des épines grossières (jusqu'à 1 µm) clairsemées. Columelle très grande, globuleuse à obtusément claviforme. Capillitium rayonnant, partant de la columelle, simplement ramifié. Péridium double. $ Physarum schroeteri Rost.
+22,23$ 22b : Spores (7)-8-10-(11) µm, verruqueuses à finement ponctuées. Columelle petite ou manquante. Péridium simple.
+23,0$ 23a : Sporocystes brun-gris à ocre clair. Nœuds calcaires du capillitium brun clair à brun-rose. Stipe brun-orange en lumière transmise. $ Physarum murinum Lister
+23,24$ 23b : Sporocystes bruns ou jaunes. Nœuds calcaires du capillitium blancs à jaunes. Stipe blanc, jaunâtre ou ocre, rarement orange.
+24,0$ 24a : Stipe jaune, parfois orange. Capillitium conservant longtemps sa forme. Nœuds calcaires petits, toujours jaunes. Spores finement verruqueuses avec des groupes de verrues plus fortes. $ Physarum citrinum Schumach.
+24,0$ 24b : Stipe blanc, blanc sale, jaunâtre à ocre clair. Capillitium s'affaissant. Nœuds calcaires grands, blanchâtres à jaunes. Spores distinctement verruqueuses, sans groupes de verrues. $ Physarum sulphureum Alb. & Schw.
+25,0$ 25a : Sporocystes plus hauts que larges. Columelle en continuité avec le stipe, atteignant presque le sommet. Spores 6-7.5 µm. $ Physarum penetrale Rex
+25,26$ 25b : Sporocystes globuleux à aplatis. Columelle absente. Spores plus grosses.
+26,27$ 26a : Péridium couleur de bronze ou bleu irisé, souvent recouvert seulement çà et là de calcaire jaune pâle à faiblement jaune-orange.
+26,30$ 26b : Péridium recouvert d'une épaisse couche de calcaire fortement colorée de jaune ou d'orange, pâlissant parfois.
+27,28$ 27a : Stipe et nœuds calcaires rouge-orange brillant à roux-jaune. Sporocystes plus ou moins globuleux, dressés.
+27,29$ 27b : Stipe noir à brun-rouge, rarement gris à presque blanc. Sporocystes aplatis à lenticulaires, fréquemment inclinés.
+28,0$ 28a : Stipe et calcaire oranges. $ Physarum psittacinum Ditmar
+28,0$ 28b : Stipe et calcaire brun-jaune. $ Physarum psittacinum var. fulvum A. & G.Lister
+29,0$ 29a : Sporocystes de 0.6-0.8 mm de diamètre, souvent bleus avec des irisations, plus ou moins couverts de calcaire jaunâtre-ocre à blanchâtre. Spores distinctement verruqueuses, la plupart du temps avec des groupes de verrues plus denses, 10-12 µm de diamètre. $ Physarum bethelii T.Macbr. ex Lister
+29,0$ 29b : Sporocystes 0.3-0.6 mm de diamètre, brillants-métalliques, plus ou moins couverts de calcaire jaune sale. Spores finement ponctuées, 7-10 µm de diamètre. $ Physarum flavicomum Berk.
+30,0$ 30a : Stipe rouge-orange à brun-rouge en lumière transmise. Sporocystes plus ou moins globuleux. Nœuds calcaires du capillitium grands, ramifiés à badhamioïdes. $ Physarum oblatum T.Macbr.
+30,31$ 30b : Stipe ocre clair en haut et sombre à la base en lumière transmise. Sporocystes globuleux-aplatis à lenticulaires. Nœuds calcaires petits, arrondis à fusiformes.
+31,0$ 31a : Calcaire jaune. $ Physarum viride (Bull.) Pers.
+31,0$ 31b : Calcaire orange. $ Physarum viride var. aurantium (Bull.) Lister
+31,0$ 31c : Calcaire jaune très pâle à gris-jaunâtre. $ Physarum viride var. incanum Lister
+
+CS49,0$ Clé B : sporocystes sessiles et/ou plasmodiocarpes.
+
+1,2$ 1a : Calcaire blanc. Fructifications blanches ou grises, parfois ocre-gris à rose-gris.
+1,22$ 1b : Calcaire des fructifications coloré en partie ou en totalité.
+2,3$ 2a : Fructifications serrées en mosaïque, presque pseudoaethalioïdes.
+2,4$ 2b : Fructifications non pseudoaethalioïdes.
+3,0$ 3a : Spores 8-12 µm, brunes en masse, claires en lumière transmise, finement verruqueuses. $ Formes pâles de Physarum conglomeratum (Fr.) Rost.
+3,0$ 3b : Spores (10)-11-15 µm, noires en masse, sombres en lumière transmise, distinctement verruqueuses-épineuses. $ Formes pâles de Physarum contextum (Pers.) Pers.
+4,5$ 4a : Péridium à 2 couches distinctement séparées.
+4,8$ 4b : Péridium simple ou à 2 couches intimement liées.
+5,0$ 5a : Plasmodiocarpes sinueux à réticulés, rarement sporocystes ; toutes les fructifications fortement comprimées latéralement, s'ouvrant par une fente longitudinale à bords largement ouverts. Spores claires en lumière transmise. $ Physarum bivalve Pers.
+5,6$ 5b : Sporocystes ou courts plasmodiocarpes ne s'ouvrant pas par une fente longitudinale. Spores sombres en lumière transmise.
+6,0$ 6a : Plasmodiocarpes ou sporocystes aplatis au sommet et/ou latéralement, parfois rose-gris à gris. Spores avec de grandes épines irrégulièrement réparties. $ Physarum bitectum G.Lister
+6,7$ 6b : Sporocystes globuleux à ovoïdes. Spores à épines uniformément réparties.
+7,0$ 7a : Sporocystes plus ou moins globuleux. Spores 10-12 µm. $ Physarum diderma Rost.
+7,0$ 7b : Sporocystes ovoïdes à courtement cylindriques. Spores 12-15 µm, très sombres ; épines jusqu'à 0.5 µm. $ Formes sessiles de Physarum didermoides (Pers.) Rost.
+8,9$ 8a : Calcaire du péridium et du capillitium clairsemé, parfois presque absent.
+8,10$ 8b : Calcaire du péridium et/ou du capillitium généralement présent en abondance.
+9,0$ 9a : Sporocystes en tas ou en masse compacte. Spores à verrues éparpillées. $ Physarum confertum T.Macbr.
+9,0$ 9b : Sporocystes moins serrés. Spores verruqueuses avec verrues concentrées en groupes, la plupart des spores rassemblées en groupes. $ Formes sessiles de Physarum nudum T.Macbr.
+10,0$ 10a : Spores très sombres, découpées par des lignes claires. $ Formes sessiles de Physarum straminipes Lister
+10,11$ 10b : Spores non découpées par des lignes claires.
+11,0$ 11a : Sporocystes ou courts plasmodiocarpes comprimés latéralement, en éventail. $ Formes sessiles de Physarum compressum Alb. & Schw.
+11,12$ 11b : Sporocystes/plasmodiocarpes autrement conformés.
+12,0$ 12a : Plasmodiocarpes en rosace ou densément anastomosés, parfois brunâtres, avec dans le capilllitium de nombreux nœuds calcaires épineux s'étendant d'une paroi à l'autre. $ Physarum gyrosum Rost.
+12,13$ 12b : Sporocystes ou plasmodiocarpes autrement conformés.
+13,14$ 13a : Habitat strictement nivicole dans la zone de prospection.
+13,15$ 13b : Habitat jamais nivicole dans la zone de prospection.
+14,0$ 14a : Spores 11-14 µm. Le plus souvent plasmodiocarpes étalés. Espèce très fréquente. $ Physarum vernum Sommerf. ex Fr.
+14,0$ 14b : Spores 18-20 µm ou 13-18 x 18-28 µm. Sporocystes ou courts plasmodiocarpes. Connu seulement de Styrie (Autriche). $ Physarum styriacum Gottsb.
+15,0$ 15a : Spores groupées par 4-8. Capillitium badhamioïde. Fructifications jaunâtres au début, connues seulement en chambre humide. $ Physarum lakhanpalii Nann.-Brem. & Y.Yamam.
+15,16$ 15b : Spores libres. Capillitium non badhamioïde. Fructifications jamais jaunâtres.
+16,17$ 16a : Spores sombres en lumière transmise. Péridium souvent pauvre en calcaire, les places dépourvues de calcaire gris sombre à noires.
+16,18$ 16b : Spores claires en lumière transmise. Péridium très calcaire en général ; les fructifications pauvres en calcaire sont grises.
+17,0$ 17a : Spores sombres avec un côté plus clair, grossièrement sculptées, constamment rondes. Nœuds calcaires grands. Sporocystes globuleux à ovoïdes. $ Physarum lividum Rost.
+17,0$ 17b : Spores uniformément sombres, finement verruqueuses, rondes ou ovales et alors parfois avec une bande claire. Nœuds calcaires petits. Sporocystes globuleux, pulvinés ou petits plasmodiocarpes. $ Physarum ovisporum G.Lister
+18,0$ 18a : Pseudocolumelle fortement développée, atteignant presque le sommet. $ Formes sessiles de Physarum mutabile (Rost.) G.Lister
+18,19$ 18b : Pseudocolumelle absente ou peu individualisée.
+19,0$ 19a : Spores 8-9 µm. $ Formes plasmodiocarpiques de Physarum leucopus Link
+19,20$ 19b : Spores 9-12 µm.
+20,0$ 20a : Sporocystes densément serrés à entassés. Capillitium à grands nœuds calcaires. $ Physarum daamsii Nann.-Brem.
+20,21$ 20b : Fructifications non entassées. Capillitium à petits nœuds calcaires.
+21,0$ 21a : Sporocystes ou courts plasmodiocarpes rarement ramifiés, largement attachés, répartis sur des débris de plantes ou des plantes vivantes. Spores brunes en masse. $ Physarum cinereum (Batsch) Pers.
+21,0$ 21b : Sporocystes ou courts plasmodiocarpes avec une base sombre, contractée, en groupes sur bois mort et écorce. Spores en masse brun-noir. $ Formes sessiles de Physarum notabile T.Macbr.
+22,23$ 22a : Habitat exclusivement nivicole.
+22,25$ 22b : Habitat jamais nivicole.
+23,0$ 23a : Plasmodiocarpes avec, à l'extérieur, une couche jaune, lisse, souvent laquée. Columelle formant une crête à la base. $ Physarum alpestre D.H.Mitchel & al.
+23,24$ 23b : Sporocystes, rarement courts plasmodiocarpes, à surface rugueuse. Columelle absente.
+24,0$ 24a : Sporocystes plus ou moins piriformes, jaunes, tendant vers le blanc en pâlissant. Hypothalle fortement individualisé, cordé, membraneux à réticulé. Capillitium avec des segments bruns. Nœuds calcaires toujours orange. Spores 12-13(15) µm, distinctement verruqueuses. $ Formes sessiles de Physarum albescens D.Ellis ex T.Macbr.
+24,0$ 24b : Sporocystes ou courts plasmodiocarpes jaunes à jaune-orange, plus ou moins globuleux à pulvinés. Hypothalle peu remarquable. Capillitium incolore. Nœuds calcaires jaunes à jaune pâle. Spores 10-11-(12) µm, finement verruqueuses. $ Physarum alpinum (A. & G.Lister) G.Lister
+25,26$ 25a : Sporocystes/plasmodiocarpes densément serrés à entassés les uns sur les autres.
+25,30$ 25b : Sporocystes ne poussant pas serrés et/ou plasmodiocarpes.
+26,0$ 26a : Plasmodiocarpes densément entremêlés en rosace ou en réseau, brunâtres à rose-gris. Capillitium avec de nombreux nœuds calcaires épineux. $ Physarum gyrosum Rost.
+26,27$ 26b : Fructifications en sporocystes plus fortement colorés.
+27,28$ 27a : Sporocystes pressés les uns contre les autres, en mosaïque, pseudoaethalioïdes. Péridium distinctement composé de 2 couches.
+27,29$ 27b : Sporocystes amoncelés à superposés. Péridium simple.
+28,0$ 28a : Spores 8-12 µm, brunes en masse, claires en lumière transmise, finement verruqueuses. $ Physarum conglomeratum (Fr.) Rost.
+28,0$ 28b : Spores (10)-11-15 µm, noires en masse, sombres en lumière transmise, distinctement verruqueuses-épineuses. $ Physarum contextum (Pers.) Pers.
+29,0$ 29a : Sporocystes jaunes, vert-jaune ou gris-jaune. Spores 7-10 µm. Capillitium non élastique. Pseudocolumelle absente. $ Physarum virescens Ditmar
+29,0$ 29b : Sporocystes orange-brun à brun-rouge. Spores 10-12 µm. Capillitium élastique avec des nœuds calcaires étendus en cylindre ; le plus souvent avec une pseudocolumelle claviforme. $ Physarum famintzinii Rost.
+30,0$ 30a : Plasmodiocarpes dilatés, longuement flexueux à réticulés, à peine en sporocystes, d'abord jaunes, pâlissant bientôt vers le blanc. Spores groupées par 4-8. $ Physarum lakhanpalii Nann.-Brem. & Y.Yamam.
+30,31$ 30b : Plasmodiocarpes petits et/ou sporocystes. Spores libres.
+31,0$ 31a : Plasmodiocarpes courbés, réniformes à annulaires. Spores sombres en lumière transmise, distinctement épineuses. $ Physarum decipiens M.A.Curtis
+31,32$ 31b : Sporocystes et courts plasmodiocarpes. Spores claires en lumière transmise, finement sculptées.
+32,0$ 32a : Sporocystes/plasmodiocarpes jaunâtres, paraissant souvent blancs à l'œil nu. Granulations calcaires 2-3 µm. $ Physarum xanthinum Nann.-Brem. & Döbbeler
+32,33$ 32b : Fructifications plus fortement colorées. Granulations calcaires vers 1 µm.
+33,0$ 33a : Sporocystes plus ou moins ovales, bruns à brun-rouge avec des taches claires. $ Physarum braunianum de Bary
+33,34$ 33b : Sporocystes globuleux à pulvinés, mêlés de courts plasmodiocarpes, jaunes, orange, brun-rouge, olive ou écarlate.
+34,0$ 34a : Spores 7-9 µm. Nœuds calcaires du capillitium à centre fortement coloré. $ Physarum lateritium (Berk. & Ravenel) Morgan
+34,35$ 34b : Spores 9-13 µm. Nœuds calcaires uniformément colorés.
+35,0$ 35a : Fructifications fortement brun-olive, brun-rouge ou écarlate. Nœuds calcaires orange mat à brun rouille. Spores avec des groupes de verrues. $ Physarum rubiginosum Fr.
+35,36$ 35b : Fructifications olive, jaunes, ocres à orange. Spores sans groupes de verrues.
+36,0$ 36a : Fructifications olive, jaunes à orange. Nœuds calcaires blancs à jaunes. Spores fortement sculptées, sombres. $ Physarum decipiens M.A.Curtis
+36,0$ 36b : Fructifications jaunes, ocres à orange, à base sombre, pâlissant au sommet. Spores finement sculptées, claires. $ Formes sessiles de Physarum oblatum T.Macbr.
+
+
+CS50,0$ Stemonaria Nann.-Brem., R.Sharma & Y.Yamam. (14 espèces et 1 variété dans le genre)
+
+1,0$ 1a : Spores verruqueuses. $ Stemonaria irregularis (Rex) Nann.-Brem.
+1,2$ 1b : Spores réticulées.
+2,0$ 2a : Sporocystes dressés, hauteur totale 4-5 mm. $ Stemonaria fuscoides Nann.-Brem. & Y.Yamam.
+2,3$ 2b : Sporocystes inclinés à couchés, hauteur totale 8-30-(50) mm.
+3,0$ 3a : Hauteur totale 10-50 mm. La plus grande partie du capillitium en ramifications dichotomiques, avec quelques rares mailles d'un réseau, étalé vers l'extérieur en pinceau. Spores brun-noir en masse. $ Stemonaria longa (Peck) Nann.-Brem.
+3,0$ 3b : Hauteur totale 8-9 mm. Capillitium en réseau lâche, à la périphérie avec de nombreuses extrémités libres, courtes, dirigées vers l'extérieur. Spores brunes en masse. $ Stemonaria pilosa Nann.-Brem.
+
+
+CS51,0$ Stemonitis Roth (19 espèces et 1 variété dans le genre)
+
+1,2$ 1a : Spores avec ornementation en réseau.
+1,3$ 1b : Spores verruqueuses ; verrues bien marquées à presque invisibles.
+2,0$ 2a : Hauteur totale des sporocystes 3-4-(4.5) mm, brun-pourpre. Spores avec ornementation en réseau, comme formée de verrues et de crêtes (MEB : crêtes avec des côtes épaisses, en partie saillantes). Sur litière de feuilles. $ Stemonitis follicola Ing
+2,0$ 2b : Hauteur totale des sporocystes (3)-10-20 mm, brun-noir. Spores avec ornementation en réseau comme formée de verrues rangées en lignes (MEB : crêtes avec des parois trouées à la manière d'un aqueduc). Généralement sur bois mort. $ Stemonitis fusca Roth
+3,4$ 3a : Diamètre des spores 4-7-(8) µm. Ornementation visible seulement en immersion.
+3,5$ 3b : Diamètre des spores généralement > 7 µm. Ornementation plus ou moins marquée.
+4,0$ 4a : Diamètre des spores à peine supérieur à 5 µm. Hauteur totale des fructifications 4-6 mm. Sporocystes arrondis à la base et à l'apex. $ Stemonitis smithii T.Macbr.
+4,0$ 4b : Diamètre des spores 5-7-(8) µm. Hauteur totale des fructifications jusqu'à 18 mm. Sporocystes rétrécis en pinceau surtout à la base. $ Stemonitis axifera (Bull.) T.Macbr.
+5,0$ 5a : Capillitium entièrement très lâche avec des mailles de 80-120 µm. Réseau superficiel pas nettement délimité. Hauteur totale des sporocystes 2-3 mm. $ Stemonitis laxifila Nann.-Brem. & Y.Yamam.
+5,6$ 5b : Capillitium plus dense et aux mailles plus fines. Réseau superficiel nettement délimité. Hauteur totale des sporocystes 5-25 mm.
+6,0$ 6a : Capillitium intérieur avec jusqu'à deux mailles de réseau ; filaments s'étalant parfois directement de la columelle au réseau superficiel. Réseau superficiel en filaments robustes souvent élargis aux ramifications. Diamètre des mailles du réseau superficiel jusqu'à 100 µm, mais le plus souvent 30-50 µm. Verrues des spores bien marquées. $ Stemonitis splendens Rost.
+6,7$ 6b : Capillitium intérieur avec 2-4 mailles de réseau. Réseau superficiel en filaments fins ou robustes, mailles du réseau superficiel plus petites. Ornementation des spores fines.
+7,8$ 7a : Chez les fructifications typiques, la columelle s'élargit en membrane au sommet. Elargissements en forme de disques, de parapluies ou d’entonnoirs.
+7,9$ 7b : Chez les fructifications ayant mûri normalement, la columelle n'est généralement pas élargie au sommet.
+8,0$ 8a : Réseau superficiel plus ou moins rigide, brun clair à brun, en filaments relativement robustes. $ Stemonitis flavogenita E.Jahn 
+8,0$ 8b : Réseau superficiel souple, brun clair à presque incolore, en filaments fins. $ Stemonitis pallida Wingate
+9,0$ 9a : Réseau superficiel en filaments fins et souples avec des excroissances épineuses. Verrues des spores faiblement marquées, parfois à peine visibles. $ Stemonitis pallida Wingate
+9,10$ 9b : Réseau superficiel en filaments robustes et lisses. Ornementation des spores nette.
+10,0$ 10a : Diamètre des mailles du réseau superficiel 5-55 µm. Hauteur totale des sporocystes 7-14 mm, souvent recourbés en S. $ Stemonitis lignicola Nann.-Brem.
+10,0$ 10b : Diamètre des mailles du réseau superficiel n'excédant pas 20 µm. Hauteur totale des sporocystes 5-6 mm, dressés. $ Stemonitis herbatica Peck
+
+
+CS52,0$ Stemonitopsis (Nann.-Brem.) Nann.-Brem. (11 espèces et 4 variétés dans le genre)
+
+1,2$ 1a : Spores verruqueuses à spinuleuses.
+1,6$ 1b : Spores avec un réseau plus ou moins complet.
+2,3$ 2a : Spores avec des groupes de verrues plus sombres bien marqués.
+2,4$ 2b : Spores sans groupes de verrues plus sombres.
+3,0$ 3a : Réseau superficiel complet sur de grandes régions. Péridium souvent persistant, gris argenté, se déchirant en lambeaux, persistant à l'extrémité du stipe. $ Stemonitopsis typhina (F.H.Wigg.) Nann.-Brem.
+3,0$ 3b : Réseau superficiel incomplet. Péridium fugace sans lambeaux. $ Stemonitopsis typhina var. similis (G.Lister) Nann.-Brem. & Y.Yamam.
+4,0$ 4a : Hauteur totale (2)-4-6-(9) mm. Réseau superficiel fragmentaire, avec de nombreuses extrémités libres, courtes. $ Stemonitopsis aequalis (Peck) Y.Yamam.
+4,5$ 4b : Hauteur totale jusqu'à 3 mm. Réseau superficiel presque complet. Peu d’extrémités libres.
+5,0$ 5a : Diamètre des spores 5-7 µm. $ Stemonitopsis gracilis (G.Lister) Nann.-Brem.
+5,0$ 5b : Diamètre des spores (8)-9-10-(11) µm. $ Stemonitopsis subcaespitosa (Peck) Nann.-Brem.
+6,0$ 6a : Spores 4-5 µm avec un réseau en petites mailles d'épines sombres, à partir desquelles naissent les autres mailles, plus grandes. $ Stemonitopsis microspora (Lister) Nann.-Brem.
+6,7$ 6b : Spores plus grandes.
+7,0$ 7a : Spores 5-7 µm. Réseau de fines crêtes visibles seulement en immersion, avec de petites mailles rondes, à partir desquelles naissent les mailles plus grandes. $ Stemonitopsis hyperopta (Meyl.) Nann.-Brem.
+7,8$ 7b : Spores 6-9 µm. Ornementation des spores différente.
+8,0$ 8a : Ornementation des spores en réseau d'épines, en partie liées par des crêtes. Réseau superficiel nettement formé par endroits. $ Stemonitopsis amoena (Nann.-Brem.) Nann.-Brem.
+8,0$ 8b : Ornementation des spores en réseau exclusivement de fines crêtes. Réseau superficiel à peine marqué. $ Stemonitopsis reticulata (H.C.Gilbert) Nann.-Brem. & Y.Yamam.
+
+
+CS53,0$ Symphytocarpus Ing & Nann.-Brem. (9 espèces dans le genre)
+
+1,2$ 1a : Spores avec un réseau entier ou interrompu d'épines ou de bandes.
+1,4$ 1b : Spores finement verruqueuses ou finement spinuleuses.
+2,0$ 2a : Réseau des spores en grande partie incomplet, à mailles larges avec des crêtes nettement plus sombres. $ Symphytocarpus cristatus Nann.-Brem.
+2,3$ 2b : Spores différentes.
+3,0$ 3a : Spores de diamètre 9-12 µm, avec un réseau généralement complet, à petites mailles avec des bandes proéminentes, entremêlées d'épines. $ Symphytocarpus trechisporus (Berk. ex Torrend) Nann.-Brem.
+3,0$ 3b : Spores de diamètre 7-9 µm avec un réseau à petites mailles, parfois interrompu, avec de fines épines. $ Symphytocarpus amaurochaetoides Nann.-Brem.
+4,0$ 4a : Spores de 12-14 µm de diamètre. Capillitium en réseau régulier, arqué. $ Symphytocarpus confluens (Cooke & Ellis) Ing & Nann.-Brem.
+4,5$ 4b : Spores plus petites, de diamètre n'excédant pas 10 µm. Capillitium différent	5.
+5,0$ 5a : Spores noires en masse, foncées en lumière transmise. Restes de péridium parfois adhérant au capillitium sous forme de petites plaques de 10-20 µm de diamètre. $ Symphytocarpus impexus Ing & Nann.-Brem.
+5,6$ 5b : Spores en masse gris-brun à brun foncé, plus claires en lumière transmise. Restes de péridium plus grands, libres ou adhérant au capillitium.
+6,0$ 6a : Pseudoaethalium jusqu'à 15 mm de haut. Restes de péridium déposés dans le pseudoaethalium sans lien avec le capillitium. Spores en masse brun-rouge à brunes. $ Symphytocarpus flaccidus (Lister) Ing & Nann.-Brem.
+6,0$ 6b : Pseudoaethalium ne dépassant pas 6 mm de haut. Restes de péridium fixés au capillitium. Spores gris-brun en masse. $ Symphytocarpus herbaticus Ing
+
+
+CS54,0$ Trichia Haller (30 espèces et 6 variétés dans le genre)
+
+1,0$ 1a : Elatères avec 1-2 spirales. $ Trichia varia (Pers.) Pers.
+1,2$ 1b : Elatères avec plus de 2 spirales.
+2,3$ 2a : Elatères à extrémités pointues longues de 30-100 µm et plus.
+2,8$ 2b : Elatères à extrémités pointues courtes, normalement jusqu'à 20 µm.
+3,0$ 3a : Sporocystes bruns, presque toujours sessiles ou plasmodiocarpes, rarement avec une courte ébauche de stipe. $ Trichia contorta var. attenuata Meylan
+3,4$ 3b : Sporocystes toujours stipités.
+4,5$ 4a : Sporocystes bruns pouvant aller vers l'olivacé ou le jaune, sans marque de réseau dans la partie supérieure du péridium, brillants à irisés.
+4,6$ 4b : Sporocystes bruns à brun-noir, avec marque d'un réseau plus brun, plus brun-jaune ou plus jaune sur le péridium.
+5,0$ 5a : Sporocystes longuement stipités, en poire renversée, brun-ocre, dépassant généralement 2 mm. Péridium irrégulièrement déchiré dans sa partie supérieure. Spores avec un réseau à petites mailles, généralement complet. $ Trichia decipiens (Pers.) Macbr.
+5,0$ 5b : Sporocystes en poire renversée ou souvent trapus, ressemblant à un verre à pied, olive, dépassant généralement 1 mm. Péridium s'ouvrant dans sa partie supérieure par une sorte d'opercule bien délimité. Spores à verrues-flocons clairsemés, ou à réseau incomplet. $ Trichia decipiens var. olivacea Meylan
+5,0$ 5c : Sporocystes atteignant à peine 1 mm. Sporocystes plus ou moins globuleux ou en poire renversée, jaune-olive à jaunes. Capillitium entortillé sur lui-même. Spores comme dans la var. decipiens. $ Trichia decipiens var. hemitrichoides Brândzâ
+6,0$ 6a : Sporocystes toujours plus grands que 1 mm, jusqu'à 4 mm de haut, avec la marque du réseau du péridium plus sombre et des élatères se terminant toujours en longue pointe effilée, parfois avec des écailles cireuses apprimées sur le péridium. $ Trichia botrytis (J.F.Gmel.) Pers.
+6,7$ 6b : Sporocystes ne dépassant pas 1.5 mm, avec la marque du réseau du péridium généralement jaune plus clair. Elatères se terminant souvent en pointe plus courte.
+7,0$ 7a : Sporocystes de 1.5 mm de haut au maximum, d'environ 0.3 mm de diamètre. Spores en masse ocres, jaune clair en lumière transmise, de 9-13 µm de diamètre. $ Trichia munda (A.Lister) Meylan
+7,0$ 7b : Sporocystes jusqu'à 1 mm de haut. Spores en masse jaunes, de 12-14 µm de diamètre.  $ Trichia flavicoma (A.Lister) B.Ing
+8,9$ 8a : Sporocystes toujours stipités.
+8,11$ 8b : Sporocystes sessiles ou plasmodiocarpes.
+9,0$ 9a : Spores à réseau à larges mailles et bord évident. La plupart du temps plusieurs stipes croissant réunis. $ Trichia verrucosa Berk.
+9,10$ 9b : Spores finement verruqueuses.
+10,0$ 10a : Sporocystes hauts de 1-3 mm, avec un réseau d'un jaune éclatant dans la partie supérieure. Elatères à bandes spiralées "grossièrement enroulées", parfois épineuses. $ Trichia erecta Rex
+10,0$ 10b : Sporocystes hauts de 0.4-1 mm, sans marque de réseau. Elatères à peu près lisses. $ Trichia subfusca Rex
+11,12$ 11a : Spores réticulées.
+11,14$ 11b : Spores finement verruqueuses.
+12,0$ 12a : Réseau des spores à petites mailles, toujours complet. Sporocystes serrés en masse compacte, irisés, jaunes à orange. $ Trichia scabra Rost.
+12,13$ 12b : Réseau des spores à grandes mailles, complet ou non.
+13,0$ 13a : Sporocystes toujours plus hauts que larges. Spores à réseau complet. Elatères épais, de 6 µm de diamètre et plus. $ Trichia favoginea (Batsch) Pers.
+13,0$ 13b : Sporocystes jamais plus hauts que larges, globuleux à largement ovales, jaune éclatant à brun-jaune. Elatères vers 6 µm d'épaisseur ou plus grêles. Réseau des spores parfois fragmenté. $ Trichia affinis de Bary
+13,0$ 13c : Sporocystes formant de grands groupes, serrés en masse compacte, globuleux ou en courts plasmodiocarpes, brun clair, brun-jaunâtre à ocres. Réseau des spores presque toujours incomplet. Parois des mailles du réseau composées de petites mailles. $ Trichia persimilis Karst.
+14,0$ 14a : Sporocystes et plasmodiocarpes bruns à noirs. Spores de 14-18 µm. Espèce nivicole alpine, rarement en moyenne montagne. $ Trichia alpina Meylan
+14,15$ 14b : Spores rarement jusqu'à 15 µm, le plus souvent plus petites.
+15,0$ 15a : Sporocystes globuleux, non en plasmodiocarpes, non serrés en masse compacte. Péridium très fragile. Elatères à spirales minces. Spores 10-12 µm. $ Trichia lutescens (A.Lister) A.Lister
+15,0$ 15b : Sporocystes et plasmodiocarpes. Elatères à spirales "grossièrement enroulées", sans épines. Péridium épais. Spores 10-15 µm. $ Trichia contorta (Ditmar) Rost.
+15,0$ 15c : Comme 15b, mais élatères épineux. $ Trichia contorta var. iowensis (Macbr.) Torr.
+15,0$ 15d : Comme 15b, mais élatères très longs. Spirales moins bien individualisées. $ Trichia contorta var. karstenii (Rost.) Ing
+15,0$ 15e : Comme 15b, mais nivicole. Partie haute du péridium à inclusions manquantes par endroit ou complètement, et de ce fait translucide (= T. sordida). $ Trichia contorta var. engadinensis Meylan
+
+
+CS55,0$ Tubifera F.Gmelin. (7 espèces dans le genre)
+
+1,0$ 1a : Pseudoaethaliums en larges plaques, en forme de croûte (semblables à un Dictydiaethalium). Fructification isolée avec un cordon central en forme de columelle. Réseau des spores constitué de crêtes jusqu'à 1 µm de haut. $ Tubifera dictyoderma Nann.-Brem. & Loer.
+1,0$ 1b : Pseudoaethaliums pulvinés. Fructification isolée évidente, à sommet hémisphérique, sans cordon central, de temps en temps avec un capillitium finement filiforme, auquel adhèrent les spores. Réseau des spores constitué de crêtes basses. $ Tubifera ferruginosa (Batsch) J.F.Gmel.

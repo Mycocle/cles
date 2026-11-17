@@ -1,0 +1,45 @@
+titre$ Pholiotina Kuehner 1935
+1,0$ Retour au Kit $$f"Pholiotina_kit.cle"
+
+1,0$
+1,2 $ Pas d'anneau sur le pied.
+1,8 $ Stipe pourvu d'un anneau ± bien constitué.
+2,3 $ Stipe pâle à chair blanche ou crème hyalin jusqu'à l'extrême base.
+2,0 $ Stipé argenté, ± verdoyant ou bleuissant.
+2,0,N$///===> voir C. cyanopoda
+
+2,4 $ Stipe brunissant inférieurement, au moins en dedans.
+
+3,0 $ Dermatocystides (pratiquement) nulles sur le chapeau ; voile partiel visible chez les très jeunes individus.; spores subtilement ruguleuses ; chapeau strié et souvent luisant. $ C. subnuda
+3,0 $ Nombreux poils saillants dans le revêtement du chapeau ; vol partiel jamais vu.
+3,0,N$/// ===>voir sous-genreEuconocybe, section Piliferae
+
+4,0 $ Plusieurs poils de l'arête des lamelles se terminent en une boule ronde, très distincte du pédoncule grêle qui la porte. $ C. intermedia
+4,5 $ Poils d'arête non capités pu à tête mal séparée du pédoncule épais qui la porte.
+
+5,0 $ Chapeau longuement et fortement strié, paille miel, miel brunâtre ou miel sale, à centre miel ocre (parfois fauvâtre). $ C. appendiculata
+5,6 $ Chapeau plus fortement coloré.
+
+6,0 $ Voile partiel vite réduit à des flocons submarginaux de petite taille (ils ne sont souvent bien visibles qu'à la loupe). $ C. blattaria, forma exannulata
+6,7 $ Voile partiel très développé, formant à la marge du chapeau d, longues dents blanches ou blanchâtres et débordantes !
+
+7,0 $ Voile partiel laissant à la marge du chapeau des lambeaux volumineux et striés en dessous. $ C. blattaria forma dentata
+7,0 $ Voile partiel feutré tomenteux, recouvrant et débordant lamarge piléique. $ C. vestita
+
+8,11 $ Spore grande (> 10 x 5 µm) à pore tronqué évident ; chapeau restant souvent un peu campanulé.
+8,9 $ Spore plus petite, (< 10 x 5 µm) à pore germinatif quelquefois peu distinct.
+
+9,0 $ Très petite espèce (D = 5-18 mm ; d = 0,7-1,5 mm ; L = 12-18). $ C. pusilla (Quél.) Kühn.
+9,0,N$ ///===> Voir aussi C. filaris dont les spores peuvent atteindre 12 µm.///- Romagnesi (1937), Rev. Myc. 2:183 : Très petite espèce annelée (chapeau de 4-5 mm.), voisine, mais distincte de C. filaris (Fr.) Kiihn. par son chapeau bientôt étalé, d'un joli jaune de chrome avec une tache baie au centre par le sec, et par sa spore sensiblement plus petite : 7,5-8,5 X 4-4,3(4,7) µm. Poils marginaux lagéniformes, non capités, 36-40 X 8-10 µm. Cellules de la cuticule atteignant 20 µm de diamètre. Dans les ornières humides des bois de Cerçay. Rare.///- Ludwig (2007), Pilzkompendium 2:519 ne mentionne pas ce taxon///- Hausknecht (2009), Conocybe-Pholiotina:641 = Ph. rugosa.
+9,10 $ Champignon de taille plus grande (d >=1,5 mm) à lames plus nombreuses.
+
+10,0 $ Anneau imparfait, réduit à une zone ± nette souvent placée dans la région inférieure du pied. $ C. peronata
+10,0 $ Anneau parfaitement conformé, ample et strié, situé vers le milieu de la longueur du pied. $ C. blattaria, forma typica
+
+11,0 $ Basides bisporiques ; cheilocystides peu rétrécies au sommet, quelquefois simplement claviformes. $ C. togularis, forme bisporique
+11,12 $ Basides tétrasporiques ; cheilocystides contractées ou atténuées au sommet en un bec net.
+
+12,0 $ Petite espèce (D = 5-18 mm ; d = 0,7-1,5 mm ; L = 12-18) à anneau pas toujours très persistant. $ C. filaris
+12,0,N$///Chapeau en général ± campanulé///Stipe brunissant dans les parties inférieures (surtout au frottement). ///Anneau en général médian, toujours bien évident mais parfois réduit à une zone floconneuse facilement caduque.///Spores en amande, (7,7)8,5-10(-12) x (4,5)5-5,7(7,2) µm, à pore indiscutable mais souvent peu évident de profil.
+12,0 $ Champignon plus grand (D = 20-26 mm ; d = 1,5-2,5 mm ; L = 19-26), à anneau très développé, profondément strié plissé à la face supérieure $ C. togularis
+12,0,N$/// ===> Ph. vexans sec Ludwig (2005), Pilzkompendium 2:518/// ===> Ph. vexans sec Hausknecht (2009), Conocybe-Pholiotina:663

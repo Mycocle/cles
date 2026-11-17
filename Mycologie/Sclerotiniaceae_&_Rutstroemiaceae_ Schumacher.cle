@@ -1,0 +1,86 @@
+Titre$Sclerotiniaceae & Rutstroemiaceae    -   clé A
+com$ tiré de  http://biologi.uio.no/bot/ascomycetes/Sclero.key.html , by Trond Schumacher and Arne Holst-Jensen . codage janvier 08 GF
+Key A
+1,0 $ Apothecia campanulate (verpoid, bell-shaped)  .$Scleromitrula(see also Episclerotium L. M. Kohn (Leotiaceae), Kohn & Nagasawa, 1984)
+1,2 $ Apothecia cupulate to discoid (cup- or saucer-shaped)  . 2.
+2,0 $ Apothecia yellowish-green to greenish brown .$ Lanzia(see also Piceomphale Svrcek (Leotiaceae), Svrcek, 1957 )
+2,3 $ Apothecia brownish  . 3.
+3,4 $  On woody substrate . 4.
+3,5 $ Non  (On woody substrate) . 5.
+4,0 $  Apothecia short-stipitate, errumpent through outer bark, densely aggregated, margin at maturity often splitting, apothecia arising from a stroma embedded in the inner cortex of its hosts, ascospores unicellular .$ Encoelia
+4,0 $ Apothecia long-stipitate, one to several arising from an indeterminate stroma, ascospores becoming septate and multicellular at maturity, often with secondary spores produced at the poles .$ Rutstroemia
+5,6$  On cones of conifers . 6.
+5,7 $ NON ( On cones of conifers)  . . . 7
+6,0$ Apothecia dark olive-green, short-stipitate, cup discoid, many apothecia scattered on intact cones. . . .$Piceomphale (excluded from the families)]
+6,0 $ Apothecia brown, short-stipitate, cupulate to discoid, one to many from cone-scales of Abies .$Ciboria  rufofusca
+7,0 $ On stromatized, decaying catkins. . . .$Ciboria
+7,8 $ Non ( On stromatized, decaying catkins.)  8.
+8,9$  On stromatized seeds, fruits and berries  . 9.
+8,13 $ NON ( On stromatized seeds, fruits and berries )  . . 13.
+9,0$  On stromatized fruits of Betula or Alnus  $Ciboria
+9,10 $ NON (On stromatized fruits of Betula or Alnus)s  . 10.
+10,0 $  Stroma formed superficially on a variety of fruits and berries, associated with a macroconidial anamorphic state of the Botrytis type . .$ Botryotinia
+10,11 $ Stroma formed within fruits and berries . 11.
+11,0 $ Stroma formed within stone and pome-fruits of the family Rosaceae, associated with a macroconidial anamorphic state of the Monilia type .$ Monilinia
+11,12 $ Stroma formed within fruits of Ericaceae, Empetraceae and Pyrolaceae, Monilia anamorph with disjunctors, appearing on foliage 2-4 weeks after apothecial (teleomorphic) state  12.
+12,0 $ Stroma formed within fruits of Vaccinium hosts, apothecia long stipitate, ascospores di- or trimorphic $ Franquinia
+12,0 $ Stroma on other ericaceous hosts, ascospores usually monomorphic $ Franquinia
+13,14$ On stromatized leaves . 14.
+13,33 $ NON (On stromatized leaves.)  . 33.
+14,15$  On stromatized leaf-nerves . 15.
+14,21 $ On stromatized leaf-plate . 21.
+15,16 $ On leaves of Vaccinium spp . 16.
+15,18 $ On leaves of deciduous trees . . 18.
+16,0 $ Apothecial outer excipulum composed of globose cells (textura globulosa)  .$ Ciboria
+16,17 $ Apothecial outer excipulum composed of angular to prismatic cells (textura angularis-prismatica)  . 17.
+17,0 $ Stroma determinate, apothecial outer excipulum without a gelatinous layer  $Valdensinia
+17,0 $ Stroma indeterminate, apothecial outer excipulum with a gelatinous layer  .$ Poculum
+18,0 $ Stroma up to 1mm thick, elongate, to 10 mm broad and 30 mm long, surrounding the midrib of overwintering leaves, ± detached from leaf-plate, well differentiated into a cortex and medulla. Apothecial stipe slender, up to 25 mm long .$ Ciborinia
+18,19 $ Stroma not well differentiated . . 19.
+19,0$  Apothecia yellowish-green, arising from blackish stromatized leaf-nerves and petioles of Acer, Tilia, Fagus and Quercus . .$ Lanzia
+19,20 $ Apothecia brownish . 20.
+20,0 $ On leaves of Quercus and Fagus spp .$ Poculum
+20,0 $ NON (On leaves of Quercus and Fagus spp) . $Ciboria
+21,22 $ On leaves of deciduous trees . 22.
+21,24 $ NON ( On leaves of deciduous trees.)  24.
+22,0 $  Apothecia short-stipitate, margin radially splitting in a stellate manner, hymenium pale yellowish-brown, outside brownish-black, associated with a macroconidial anamorphic state consisting of arthroconidia in chains (form genus Acarosporium ) borne in pycnidia .$ Pycnopeziza
+22,23 $ Apothecia long-stipitate, brown, macroconidial anamorphic state wanting . 23.
+23,0 $  Apothecia from stromata without an obvious stromatal rind  $Ciboria
+23,0 $ Apothecia from a discoid or crustlike stroma with a determinate stromatal rind. (see also Scleromitrula candolleana )  $Ciborinia
+24,25 $ On hosts of monocots  . 25.
+24,28 $ On hosts of dicots . 28.
+25,0 $  Stroma indeterminate, without a determinate stromatal rind, on poaceous, juncaceous and cyperaceous hosts  .$ Poculum
+25,26 $ Stroma a determinate sclerotium; pyramidal, globose or loaf-shaped . . 26.
+26,0 $ With a Botrytis macroconidial anamorphic state  .$ Botryotinia
+26,27 $ Macroconidial anamorphic state wanting . 27.
+27,0 $ Stroma a sclerotium, medulla pinkish in immature sclerotia, on cyperaceous and juncaceous hosts  .$ Myriosclerotinia
+27,0 $ Stroma a sclerotium, medulla of immature sclerotia white  .$ Sclerotinia
+28,0 $ Ascospores brown  $ Lambertella
+28,29 $ Ascospores hyaline . 29.
+29,30 $ Associated with a macroconidial anamorphic state  . 30.
+29,31 $ Macroconidial anamorphic state wanting . 31.
+30,0 $  Associated with a Botrytis macroconidial anamorphic state borne on free conidiophores .$ Botryotinia
+30,0 $ Associated with a macroconidial state of arthroconidia in chains (form genus Acarosporium ) borne in pycnidia  $Pycnopeziza
+31,32 $ Stroma a determinate sclerotium; discoid, crustlike, pyramidal, globose or loaf-shaped with a well differentiated rind and medulla . 32.
+31,0 $ Stroma crustlike, without an obvious stromatal rind  .$ Ciboria
+32,0 $  Stroma pyramidal, globose or loaf-shaped  .$ Sclerotinia
+32,0 $ Stroma discoid or crust-like  . $Ciborinia
+33,34 $ Stroma tuberoid, globose, loaf-shaped, pyramidal, cylindrical or discoid with a well differentiated rind and medulla  . 34.
+33,39 $ Stroma indeterminate, with or without an obvious stromatal rind  . 39.
+34,35 $ Sclerotia cylindric, loaf-shaped, tuberoid, pyramidal or discoid, on flowers, stems or roots of its host . 35.
+34,38 $ Sclerotia tuberoid to globose, borne in soils inbetween roots of its hosts; sclerotial medulla without obvious remnants of host tissues, or without gelatinous substance between sclerotial hyphae; macroconidial anamorphic state wanting  . 38.
+35,0$  Sclerotia borne within stems of juncaceous and cyperaceous hosts, sclerotia cylindrical to tuberoid (see also Sclerotinia tetraspora )  .$ Myriosclerotinia
+35,36 $ Sclerotia formed on leaves, stems and roots of other plant families; sclerotia wholly or partially embedded in and digesting host tissues; sclerotial medulla with remnants of host tissues, or with a gelatinous substance inbetween sclerotial hypha  . 36.
+36,0 $ Macroconidial anamorphic state wanting  .$ Sclerotinia (but see also Botryotinia and Ovulinia )
+36,37 $ Macroconidial anamorphic state present  . 36. 
+ erreur clé origine
+37,0 $ Sclerotia discoid; on wilting flowers (petals) of Rhododendron. Apothecia long-stipitate (up to 15 mm). Macroconidial anamorphic state (if present) of Ovulitis type; macroconidia borne on short conidiophores  $ Ovulinia
+37,0 $ Sclerotia pyramidal, discoid or flat; on stems, leaves, corms or bulbs. Apothecia short-stipitate (usually less than 8 mm). Macroconidial anamorphic state and apothecial state often co-occuring; macroconidia borne on straight, branched conidiophores (form genus Botrytis )  . $Botryotinia
+38,0 $ Apothecial outer excipulum with a layer of prismatic, elongate cells (textura prismatica) embedded in a gelatinous matrix . $Dumontinia
+38,0 $ Apothecial outer excipulum with a layer of angular to globose cells, no gelatinous matrix  $ Sclerotinia.
+39,0 $ Ascospores brown  . $Lambertella
+39,40 $ Ascospores hyaline  . 40.
+40,0 $ Stroma a blackened, mantling, crust-like indefinite stroma with a well differentiated rind, developed on rhizomes and bulbs of monocot plants  . $Stromatinia
+40,41 $ Stroma lacking a well differentiated rind  . 41.
+41,0 $ Apothecial outer excipulum consisting of globose cells (textura globulosa)  . $Ciboria
+41,0$ Outer excipulum of apothecium consisting of angular to prismatic cells with a ± prominent layer of gelatinized, long celled hyphae  .$ Poculum

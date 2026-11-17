@@ -1,0 +1,93 @@
+titre$Tricholomes gris noir- Roger Desfrançais
+com$adapt GF dec 2015
+rem$LANGUE$Français
+1,0$source : Roger Desfrançais - Société mycologique de Saint Genis Laval
+1,50$Préliminaires
+1,0$$
+
+1,2 $ Chapeau à cuticule lisse, fibrilleuse vergetée, non feutrée$$"s" Chapeau à cuticule lisse, fibrilleuse, vergetée non feutrée"
+
+1,11 $ Chapeau à cuticule feutrée, laineux à soyeux, +/- fibrilleux$$s"Chapeau à cuticule feutrée, laineux à soyeux, +/- fibrilleux"
+1,19 $ Chapeau revêtement squamuleux, non concentrique, gris noirâtre sur fond blanchâtre$$s"Chapeau revêtement squamuleux gris noirâtre sur fond blanchâtre"
+1,21 $ Chapeau à squames circulaires, concentriques$$s"Chapeau à squames circulaires, concentriques"
+1,26 $ Chapeau fibrillo-pelucheux, ébouriffé sur fond autre que blanchâtre $$s"Chapeau fibrillo-pelucheux ébouriffé sur fond autre que blanchâtre "
+2,3 $ Chair à saveur farineuse
+2,6 $ Chair à odeur farineuse à saveur acre
+2,7 $ Chair à saveur subfarineuse puis amère
+2,8 $ Chair à saveur amère à acre non farineuse
+2,10 $ Chair à saveur de savon de Marseille
+3,4 $ Chapeau conico- mamelonné, noirâtre ardoisé luisant sur fond +/- jaune
+3,5 $ Chapeau parsemé de rares fibrilles grisâtres, jaune au disque +/- blanchâtre à la marge
+4,0 $ Stipe blanc et lames +/- échancrées blanchâtres, avec des reflets jaunes $ Tr. portentosum
+4,0,n $Il existe des formes blanches : Tr. portentosum var. album 
+
+4,0 $ Stipe élancé plus grisâtre avec des reflets +/- jaune, lames +/- échancrées à reflets jaunes $ Tr. portentosum fo.silvafrondosa
+5,0 $ Stipe +/- ventru, lavé de jaune comme les lames $ Tr. portentosum var. lugdunensium
+6,0 $ Stipe pâle à reflets verdâtres, sommet +/- pointillé de noirâtre, lames veinulées, reflets gris violet … $ Tr. lilacinocinereum
+6,0 $ Stipe blanchâtre +/- bulbeux, à fibrilles brun clair au 1/3 inférieur $ Tr. rufenum
+6,0 $ Stipe fusiforme+/- ventrue blanchâtre à reflets rosâtre, chapeau à disque gris argenté se décolorant en beige jaunâtre à la marge, lames larges, espacées, subadnées, blanches à grisâtres parfois arête bordée de brun rosé-rougeâtre $ Tr. tumidum
+7,0 $ Stipe à base coudée +/- roussâtre, lames crème glauques, ventrues, +/- décurrentes …………… $ Tr. josserandii
+7,0 $ Stipe lisse un peu squamuleux, rayé de gris par le bas +/- rosâtre, lames espacées, ventrues, grisâtre $ Tr.hordum
+8,0 $ Chapeau gris ocracé à vagues reflets lilacins, lames blanches puis grises maculées de rose, arête +/- ponctuée de noir $ Tr. sciodes
+8,0 $ Chapeau gris ocracé sans reflets lilacins, odeur +/- terreuse, lames blanches puis grises $ Tr. sciodes fo. virgatoides
+8,9 $ Chapeau conique gris argenté brillant, lames blanches puis gris cireux +/- adnées
+9,0 $ Stipe fibrilleux blanchâtre, subbulbeux, $ Tr. virgatum
+9,0 $ Stipe fibrilleux blanchâtre teinté de rosé, $ Tr. virgatum fo. roseipes
+10,0 $ Chapeau gris brun se tachant y compris le stipe de carmin, lames jaunâtres à arête rosâtre $ Tr. saponaceum var. boudieri
+10,0 $ Chapeau gris brun à reflets olivâtre, stipe blanchâtre recouvert de squames brun fuligineux $ Tr. saponaceum var. squamosum
+10,0 $ Chapeau ardoisé violacé à marge plus claire, stipe à reflets ardoisé avec +/- de petites squames concolores $ Tr. saponaceum fo. ardosiacum- Chapeau à cuticule feutrée, laineux à soyeux, +/- fibrilleux
+11,12 $ Stipe sans zone annulaire
+11,13 $ Stipe avec zone annulaire membraneuse
+11,14 $ Stipe +/- cortiniforme
+12,15 $ Chair à odeur herbacée, banale
+12,0 $ Chair à odeur nulle, saveur astringente, stipe un peu clavé, blanchâtre +/- incarnat, sommet argenté, floconneux, lames serrées, gris lilacin pâle, arête plus brun rougeâtre $ Tr. vinaceogriseum
+13,16 $ Chair à odeur banale, saveur farineuse
+14,17 $ Chair à odeur farineuse
+14,18 $ Chair à odeur fongique, +/- herbacée, chapeau fibrillo-soyeux dont les couleurs palissent à maturité
+15,0 $ Stipe blanc cérusé lisse, cassant en lambeaux incurvés, lames blanc sale peu serrées, automnale…. $ Tr. terreum
+15,0 $ Stipe blanc cérusé lisse, cassant en lambeaux incurvés, lames blanc sale peu serrées, printanier….. $ Tr. stanekki
+15,0 $ Stipe fibrilleux, court, sali de grisâtre en son milieu, lames grises +/- jaunissantes $ Tr. triste
+16,0 $ Stipe blanchâtre à anneau cotonneux, lames blanches à arêtes jaunissantes…….. $ Tr. cingulatum
+16,0 $ Stipe gris garni de bracelets chinés en dessous de la zone annulaire, lames blanchâtres……… $ Tr. ramentaceum
+
+17,0 $ Stipe élancé, +/- clavé, lisse, gras au toucher, lames blanc sale $ Tr. pardinum var. filamentosum
+17,0 $ Stipe blanchâtre, bulbilleux, chiné de fibrilles concolores, lames blanches à crème $ Tr. ramentaceum var. pseudotriste
+17,0 $ Stipe cylindrique, soyeux, blanc, chapeau conique grisâtre pâle à marge argentée, lames blanches échancrées… $ Tr. argyraceum
+17,0,n $Il existe des formes blanches : Tr. agyraceum fo. alboconicum
+
+17,0 $ Stipe lisse, blanchâtre, chapeau fibrillo-soyeux, blanchâtre-cendré-argenté, lames crème-ocre pâle……………… $ Tr. myomices fo argentatum
+18,0 $ Stipe fibrilleux blanchâtre, atténué +/- cortiné, lames échancrées veinées, grisâtres à reflets rosâtre à maturité.. $ Tr. gausapatum
+18,0 $ Stipe lisse blanchâtre, +/- cortiné, par des fibrilles grisâtre, lames blanches +/- crème ocré…….. $ Tr. myomyces
+18,0 $ T. myomyces à basides bispores $ Tr. myomices fo. bisporigerumClé de détermination des tricholomes à cuticule gris pâle, gris ardoisé, gris acier, gris brun à reflets olivâtres page 3
+
+ - Chapeau revêtement squamuleux gris noirâtre sur fond blanchâtre
+19,0 $ Chair à odeur de poivre, stipe fortement squamuleux noirâtre, lames grisâtres à arête pointillée de noir….. $ Tr. squarrulosum
+19,20 $ Chair à odeur de poivre et de basilic
+20,0 $ Stipe blanchâtre +/- squamuleux, lames blanc crème à arêtes pointillée de noir, ………… $ Tr. atrosquamosum
+20,0 $ Tr. atrosquamosum à basides bispores $ Tr. atrosquamosum fo. bisporum
+
+- Chapeau à squames circulaires, concentriques
+21,22 $ Stipe non cortiniforme, chair à odeur farineuse, spermatique
+21,23 $ Stipe +/- cortiniforme
+
+
+22,0 $ Chapeau à squames larges grisâtres, très marquées, lames serrées, blanc sale, reflets verdoyants, aspect gras $ Tr. pardinum
+22,0,n $Il existe des formes blanches Tr. pardinum fo.albellum. 
+
+22,0 $ Chapeau à squames peu marquées, grisâtre clair, lames serrées blanc sale.. $ Tr. pardinum var. filamentosum
+23,0 $ Chair à odeur farineuse chapeau grisâtre fibrilleux, convexe, squameux à la marge, lames reflets citrin sale, arête crénelée, stipe court, clavé à squames fauve bistré sur fond ocracé……… $ Tr. portentosum var. boutevillei
+23,24 $ Chair à odeur et saveur de farine fraîche
+23,0 $ Chair à odeur banale +/- terreuse, chapeau à squames peu marquées, lames grises, larges, à arête irrégulière pointillée de noir. $ Tr. bresadolianum
+24,25 $ Chapeau à fond pâle avec des squames gris bistré-roussâtre, lames blanches à crème ocré
+24,0 $ Chapeau à fond pâle, squames gris bistré-roussâtre, contrastées et lepiotoïdes $ Tr. scalpuratum fo. meleagroides
+25,0 $ Stipe blanc, soyeux avec bourrelet cotonneux blanc $ Tr. scalpuratum
+25,0 $ Stipe blanc, soyeux avec bourrelet cotonneux noirâtre $ Tr. scalpuratum var.atrocinctum- Chapeau fibrillo-pelucheux ébouriffé sur fond autre que blanchâtre
+26,27 $ Chapeau gris brunâtre, se tachant de rouge à la marge et sur les lames blanc sale à grisâtre
+27,0 $ Stipe à mycelium bleu-vert ou jaunâtre, odeur fruitée $ Tr. orirubens
+27,0 $ Stipe à base rougissante y compris la chair, odeur fruitée, lames à arête +/- ponctuée de rouge $ Tr. basirubens
+
+Il existe des formes blanches de Tr. portentosum var. album, Tr. agyraceum fo. alboconicum, Tr. pardinum fo.albellum. 
+
+50,0$Clé de détermination des tricholomes à cuticule gris pâle, gris ardoisé, gris acier, gris brun à reflets olivâtres.///24 espèces, 7 variétés et 8 formes évoquées - 1 variété et 2 formes alba citées - /// Mise en garde : cet ensemble de clés font référence uniquement à des caractères macroscopiques, affinées par les odeurs et saveurs des espèces décrites. Les caractères microscopiques ne sont pas utilisés dans le choix des critères de détermination proposée, et pourtant ces informations sont parfois essentielles pour identifier des espèces voisines. Il faut donc utiliser ces clés avec précaution mais elles ont le mérite de regrouper plus de 100 espèces avec tout de même leurs caractères discriminants qui permettent de les différencier, parfois avec des difficultés.
+
+

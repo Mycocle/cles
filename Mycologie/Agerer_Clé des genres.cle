@@ -1,0 +1,44 @@
+Titre$ +/- WHITE CYPHELLACEOUS GENERA WITH DISTINCT SURFACE HAIRS AND COLOURLESS SPORES   -   AGERER 1983
+Com$ Mitteilungen der Botanischen Staatssamlung München, Band 19, Seite 314-316  - Adapté par Paul Bertéa 13-12-2013
+REM$LANGUE$ Anglais
+
+1,0 $ Septate basidia present, spores germinating by repetition $ Heteroscypha Oberwinkler & Agerer
+1,2 $ Septate basidia absent, spores not germinating by repetition
+2,3 $ Hymenium with metuloids
+2,4 $ Hymenium without metuloids
+3,0 $ Metuloids not dextrinoid, surface hairs ramifeid, encrusted with colourless crystals $ Metuloayphella Agerer
+3,0 $ Metuloids dextrinoid, surface hairs not ramified, surface hairs not encrusted $ CypheIlocalathus Agerer
+4,5 $ Surface hairs encrusted
+4,13 $ Surface hairs not encrusted
+5,0 $ Surface hairs +/- dichotomously ramified, hyphae of trama inflated $ Incrustocalyptella Agerer
+5,6 $ Surface hairs not ramified, hyphae of trama not inflated
+6,0 $ Basidia globular-clavate, +/- stalked, 20-25 x 12-15 µm $ Sphaerobasidioscypha Agerer
+6,7 $ Basidia not globular-clavate, not stalked
+7,8 $ Surface hairs encrusted inclusively the extrem apex
+7,12 $ Surface hairs apically not encrusted or surface hairs apically tapering
+8,0 $ Spores cylindrical or allantoid $ Calathella Reid
+8,9 $ Spores not cylindrical or allantoid
+9,0 $ Fruitbodies shavin-brush shaped, longer surface hairs apically with a tuft of big crystals $ Seticyphella Agerer
+9,10 $ Fruitbodies and surface hairs otherwise
+10,0 $ Surface hairs in the lower third inflated, hyphae without clamps $ Pseudolasiobolus minutissimus Agerer
+10,11 $ Surface hairs in the lower third not inflated, hyphae with clamps
+11,0 $ Spores naviculate, basidia smaller than 25 µm $ Nochascypha Agerer
+11,0 $ Spores subfalciform or asymmetrically-ovoid, or pyriform, basidia longer than 30 µm $ Lachnella Fr. emend. Donk
+12,0 $ Surface hairs apically capitate $ Cephaloscypha Agerer
+12,0 $ Surface hairs apically not capitate $ Flagelloscypha Donk emend. Agerer
+13,0 $ Surface hairs +/- globular with flagella-like dextrinoid appendages or warty, but then subicular hyphae with flagella-like, dextrinoid appendages $ Amyloflagellula Singer
+13,14 $ Surface hairs otherwise
+14,0 $ Surface hairs partially long-cylindrical, thick, warty and with flagella-like appendages $ Mycoalvimia Singer
+14,15 $ Surface hairs otherwise
+15,0 $ Surface hairs apically capitate $ CeIlypha Donk
+15,16 $ Surface hairs not apically capitate
+16,0 $ Fruitbodies densely crowded, sitting on a thick subiculum $ Stromatoscypha Donk
+16,17 $ If Fruitbodies densely crowded, then without a subiculum or sitting directly on the substrate
+17,18 $ Surface hairs not ramified
+17,19 $ Surface hairs ramified or outer tramal hyphae with coralloid outgrowths
+18,0 $ Fruitbodies gelatinous, cupshaped, up to 15 mm in diametre, cylindrical to slightly allantoid $ Auriculariopsis Maire
+18,0 $ Fruitbodies not gelatinous, mostly tubular, seldom cupshaped, up to 0,5 mm in diametre $ Rectipilus Agerer
+19,0 $ Fungi on substrates in seawater, spores thick-walled $ Halocyphina J. & E. Kohlm.
+19,20 $ Fungi not on substrates in seawater, spores thin-walled
+20,0 $ Hyphae of trama inflated, fruitbodies cup- or bellshaped, with or without stipe, outer hyphae of trama with coralloid outgrowths or with strongly ramified surface hairs, spores +/- long-ovoid $ Calyptella Quel.
+20,0 $ Hyphae of trama not inflated, fruitbodies cupshaped or tubular, +/- without a stipe, with strongly ramified surface hairs, spores +/- globular $ Henningsomyces O. K. emend. Agerer

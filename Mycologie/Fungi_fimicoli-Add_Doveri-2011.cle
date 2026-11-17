@@ -1,0 +1,88 @@
+ µm
+
+titre $ Key to coprophilous Discomycetes in Italy
+com$ adapt GF fev 2018
+1,0$ source : An updated key to coprophilous pezizales and thelebolales in italy Francesco Doveri-Mycol. Monten. X: 55-82. 2007.
+1,0$
+
+1,0 $ Asci more or less cylindric, usually non-protruding at maturity above the general level of the hymenium, with a functional operculum. Spores uniseriate, exceptionally biseriate or irregularly arranged. Ascomata comparatively large, usually discoidal or cup-shaped, rarely pulvinate. $ Pezizaceae Dumort. and Pyronemataceae Corda, p.p.
+1,0 ,n$ N.B.: No new species belonging to these two families have been described, so see Doveri, 2004.
+1,2 $ Asci cylindric-claviform, clavate, saccate or subglobose, exceptionally cylindric, protruding at maturity, operculate or inoperculate. Spores biseriate to conglobate, rarely uniseriate. Ascomata usually minute, pulvinate to subglobose, with several intermediate forms, exceptionally discoidal.
+2,3 $ Asci amyloid, with a well outlined and functioning operculum. Ascobolaceae + Iodophanus Korf
+2,17 $ Asci non-amyloid, operculate (with a functioning or, on the contrary, scarcely outlined and  non-functioning operculum) or inoperculate.
+3,4 $ Hymenial surface dark papillate or dotted. Spores pigmented.
+3,8 $ Hymenial surface more or less papillate or dotted but not dark. Spores colourless.
+4,5 $ Ascomata superficial or semi-immersed in the substratum, sessile or sometimes shortly stipitate, 0.2-10 (- 30) mm diam., pyriform, turbinate, cup-shaped, exceptionally discoidal at maturity. Spores free inside the ascus. Ascobolus Pers.
+4,0 $ Ascomata superficial, sessile, 0.2-1 (-2) mm diam., discoidal, lenticular or pulvinate at maturity. Spores firmly united together in the ascus, and arranged according to well defined patterns. $ Saccobolus Boud.
+4,0 ,n$N.B.: No new species belonging to this genus have been described, so see Doveri, 2004.
+5,0 $ Ascomata very small, usually < 0.8 mm wide and high, perithecioid or cleistothecioid (pyriform, subglobose, turbinate), sometimes immersed. Hymenial surface exposed during a late phase only ("telohymenial" according to van Brummelen, 1967). Asci usually very broad, with a dome-shaped apex and a large operculum. $ sect. Dasyobolus (Sacc.) Brumm.
+5,0 ,n$N.B.: No new species belonging to this section have been described, so see Doveri, 2004.
+5,6 $ Ascomata larger, up to 10 mm, rarely less than 0.5 mm wide, superficial, sessile or pedunculate, globose or pyriform in the early phases only, usually cup-shaped, flattening at maturity. Hymenial surface precociously ex                      posed ("prohymenial" or "mesohymenial" according to van Brummelen, 1967).
+6,0 $ Ascomata usually comparatively large. Asci cylindric-claviform, rather long. Spores ellipsoidal or fusiform, exceptionally globose (but then not warted). Episporium often ornamented with longitudinal or sometimes transverse striae, which can anastomose to make a more or less complete reticulum, rarely warted or dotted, exceptionally smooth. $ sect. Ascobolus
+6,0 ,n$N.B.: No new species belonging to this section have been described, so see Doveri, 2004.
+6,7 $ Ascomata less than 0.50 mm wide. Spores globose to broadly ellipsoidal.
+7,0 $ Asci strongly amyloid, narrowly cylindric to cylindric-claviform, dome-shaped at the apex. Spores globose, ornamented with rounded warts or truncate tubercles [sect. Sphaeridiobolus (Boud.) Brumm.], 11.5-13.1 µm diam. (10.5-13.5, van Brummelen, 1967). $ Ascobolus brassicae
+7,0 $ Asci non-amyloid, broadly clavate, with a rounded apex (sect. Pseudascodesmis Brumm.), usually broadly ellipsoidal, with an almost complete reticulum, joining low tubercles, 15-18 x 13-14 µm (13-19.5 x 13-15.5, van Brummelen, 1967) . $ Ascobolus reticulatus
+8,0 $ Imperfect state Oedocephalum-like. Episporic ornamentation resulting from the primary accumulation of epiplasmal material. Spores symmetrical, smooth (rarely) or punctate to finely or coarsely warted, exception                      ally apiculate. Perisporium gelatinous, thin and often invisible. Asci 8-spored. Paraphyses containing carotenoid pigments. Ascomata globose in the early stages, soon pulvinate or discoidal, pinkish-orange, yellowish-brown, sometimes reddish or brick coloured (Iodophanus). Spores 17-26.2 x 10-14.7 µm (15-20 x 7.5-10.5, Kimbrough et al., 1969), regularly ornamented with warts, which usually are less than 0.8 µm high. Ascomata pale orange or flesh-coloured. $ Iodophanus carneus
+8,9 $ Imperfect state rarely present, if so not Oedocephalum-like. Episporic ornamentation resulting from the condensation of secondary wall depositions. Spores sometimes asymmetrical, smooth or warted and/or apiculate. Perisporium gelatinous, usually rather thick. Asci 8-32-spored. Paraphyses lacking carotenoid pigments. Ascomata turbinate, subcylindric, truncate-conical, sometimes pulvinate or discoidal at maturity, often whitish but tending to brown.                                                  Thecotheus Boud.
+9,0 $ Asci 32-spored. Spores smooth, non-apiculate, (sub)fusiform, symmetrical, 34.6-42 x 17.3-19 µm (32-40 x 15-22, Aas, 1992). $ Thecotheus pelletieri
+9,10 $ Asci 8-spored.
+10,11 $ Spores smooth.
+10,13 $ Spores ornamented.
+11,0 $ Spores apiculate, symmetrical, narrowly ellipsoidal, 24.7-29 x 12.3-14 µm . Apiculi usually hemispherical. Paraphyses thin and hardly enlarged at the apex. $ Thecotheus neoapiculatus
+11,12 $ Spores non-apiculate.
+12,0 $ Spores asymmetrical, ellipsoidal-subfusiform, 20-23.6 x 10-11 µm (19-23 x 8.5-10.5, Aas, 1992). $ Thecotheus crustaceus
+12,0 $ Spores symmetrical, ellipsoidal or cylindric-ellipsoidal, 33.6-36.7 x 15.8-17.8 µm (32-41 x 14-18, Aas, 1992) $ Thecotheus cinereus
+13,0 $ Paraphyses uncinate. Asci strangulate. Spores non-apiculate, symmetrical, narrowly ellipsoidal, coarsely warted, 22.8-25.1 x 11.4-12.3 µm (22-26 x 11.5-16, Aas, 1992). $ Thecotheus strangulatus
+13,14 $ a) Paraphyses non-uncinate. Asci non-strangulate. Spores apiculate.
+14,15 $ Spores narrowly ellipsoidal, mostly asymmetrical, dotted, 16.3-20 x 7.2-9 µm .
+14,16 $ Spores larger, prevalently or exclusively symmetrical.
+15,0 $ Spores lacking collarettes. Far Eastern, on cattle dung. $ Thecotheus formosanus f. formosanus
+15,0 $ Spores with collarettes. European, on equine dung. $ Thecotheus formosanus f. collariatus
+16,0 $ Ascomata with a whitish, blooming mycelial felt. Spores 26.2-30.4 x 12.6-14.1 µm (25-30 x 12.5-14.5, Aas, 1992), finely dotted, uniseriate. Asci cylindric. Paraphyses hyaline. $ Thecotheus lundqvistii
+16,0 $ Ascomata lacking a mycelial felt. Spores 28-33 x 13.5-16.5 µm (29-38 x 14-18, Aas, 1992), warted, biseriate or irregularly arranged. Asci cylindric-clavate. Paraphyses often brownish and encrusted. $ Thecotheus holmskjoldii
+17,0 $ Ascomata lacking an excipulum, made up of a bundle of asci and paraphyses, and a receptacle reduced to a very thin layer of basal hyphae. Ontogenesis eugymnohymenial, i.e. hymenium exposed since the early stages  (Ascodesmidaceae J. Schröt.). Asci operculate (operculum very large and functioning ), clavate-sacciform, 8- spored. Spores pigmented at maturity, ornamented with spines and ridges. $ Ascodesmis Tiegh.
+17,0 ,n$N.B.: No new species belonging to this genus have been described, so we refer to our previous key (Doveri, 2004).
+17,18 $ Excipulum present even if often strongly reduced, usually with an outer layer of a textura globulosa- angularis. Ontogenesis eugymnohymenial and ascomata discoidal, lentiform, pulvinate, sometimes turbinate or subcylindric, or cleistohymenial (hymenium not exposed until the asci have matured) and then ascomata globose, pyriform, ovoid, never discoidal. Asci 1- to polyspored, inoperculate and dehiscing by an apical split or even operculate, but then operculum not always well outlined and functioning. Spores usually hyaline and smooth or pale and verruculose at most   Thelebolaceae + Chalazion Dissing & Sivertsen + Lasiobolus Sacc.
+18,19 $ Ascomata glabrous. Asci operculate or irregularly dehiscing.
+18,36 $ Ascomata hairy. Asci operculate.
+19,0 $ Excipulum strongly cyanophilous. Asci clavate, 8-spored. Spores ellipsoidal, lacking de Bary bubbles, ornamented with coarse roundish warts (Chalazion), 14.1-17.3 x 10-12 µm . Ascomata whitish, pulvinate to discoidal, 75-100 µm diam. $ Chalazion erinaceum
+19,20 $ Excipulum not strongly cyanophilous, except in a few Coprotus species. Spores smooth or finely warted at most. Ascomata often pigmented.
+20,21 $ Ascomata       eugymnohymenial , apothecioid (lenticular or discoidal), 0.1-3.0 mm diam., but < 1.5 mm diam. on average, usually containing several asci. Spores smooth, (sub)ellipsoidal, exceptionally (sub)globose or subcylindric, with a gaseous de Bary bubble. Asci (broadly) cylindric to claviform, 8- to polyspored, dehiscing by a regular operculum, lacking a sub apical ring.     Coprotus Korf ex Korf & Kumar.
+20,31 $ Ascomata usually cleistohymenial, cleistothecioid (globose, ovoid, pyriform), rarely apothecioid, < 0.3 mm diam., almost always containing very few asci. Spores smooth or rarely verruculose, (oblong ) ellipsoidal, lacking de Bary bubbles. Asci polyspored and then broadly ovoid or subglobose, or exceptionally 8-spored and then cylindric-claviform, provided with a subapical ring, irregularly dehiscing, but operculate in the 8-spored species . Thelebolus Tode
+21,22 $ Ascomata yellowish or orange. Paraphyses containing granules or vacuoles of more or less the same colour.
+21,25 $ Ascomata whitish, but sometimes yellowing on maturing or drying. Paraphyses usually non-pigmented.
+22,0 $ Ascomata bright orange, up to 0.4 mm diam. Paraphyses slightly uncinate but strongly enlarged at the apices. Asci cylindric or more often cylindric-claviform. Spores 12-12.6 x 7.3-7.8 µm (12-14 x 6-8.5, Kimbrough et al., 1972). $ Coprotus aurora
+22,23 $ Ascomata yellowish, up to 0.8 mm diam.
+23,0 $ Spores 10.5-12 x 6.5-7 µm . Asci cylindric. Paraphyses strongly uncinate. $ Coprotus aff. luteus
+23,24 $ Spores larger. Asci not cylindric, and paraphyses not strongly uncinate.
+24,0 $ Ascomata 0.35-0.45 mm diam. Spores subcylindric or suballantoid, 14.7-17.3 x 8.4-8.9 µm . Asci prevalently cylindric-claviform but sometimes cylindric, 84-100 µm long. Paraphyses curved but not uncinate, slightly enlarged at the apex $ Coprotus subcylindrosporus
+24,0 $ Ascomata up to 0.8 mm diam. Spores ellipsoidal, 16.2-19 x 10.5-12 µm . Asci cylindric-claviform to clavate, 100-117 µm long. Paraphyses straight or curved, slightly or strongly enlarged at the apex. $ Coprotus aff. ochraceus
+25,26 $ Asci 8-spored.
+25,30 $ Asci more than 8-spored.
+26,27 $ Spores less than 10 µm long. Paraphyses slightly to strongly uncinate.
+26,28 $ Spores more than 10 µm long. Paraphyses not- or slightly uncinate.
+27,0 $ Asci cylindric or more rarely cylindric-claviform, often less than 60 µm long. Spores ellipsoidal, 8.4-9.6 x 5.2-5.8 µm (7.5-9 x 4.5-5.5, Kimbrough et al., 1972), usually uniseriate. Paraphyses strongly uncinate. $ Coprotus glaucellus
+27,0 $ Asci somewhat longer, cylindric-claviform. Spores broadly ellipsoidal, 9-9.5 x 6.6-7.1 µm (8-10 x 5- 6.5, Kimbrough et al., 1972; 8-10.5 x 5.5-6.5, Aas, 1983), biseriate. Paraphyses somewhat curved at the apices. $ Coprotus lacteus
+28,0 $ Spores 17.3-18.3 x 10.5-11.5 µm (14-18 x 7.5-11.5, Kimbrough et al., 1972; 13-16.5 x 7-9.5, Aas, 1983). Asci cylindric-claviform. Paraphyses slightly enlarged and uncinate at the apex. $ Coprotus leucopocilum
+28,29 $ Spores smaller.
+29,0 $ Spores 10.5-12 x 6-7.5 µm (9-15 x 6.5-9.5, Kimbrough et al., 1972; 11-14 x 6-8, Aas, 1983). Asci 35-55 x 16-17 µm , claviform or clavate-sacciform. Paraphyses strongly enlarged at the apex but not uncinate. $ Coprotus granuliformis
+29,0 $ Spores 11.5-14 x 6.3-8.5 µm (12-13.5 x 5-8 , Kimbrough et al., 1972; 10-13 x 6.5-8.5, Aas, 1983). Asci cylindric. Paraphyses slightly uncinate and enlarged at the apex. $ Coprotus disculus
+30,0 $ Asci 16-spored. Spores 12-12.5 x 7-7.5 µm (11-16 x 8-10, Kimbrough et al., 1972; 12-14 x 7.5-9, Aas, 1983). $ Coprotus sexdecimsporus
+30,0 $ Asci 64-spored. Spores 9.6-11.5 x 5.7-6.7 µm (8-12 x 4-7, Kimbrough et al., 1972). $ Coprotus niveus
+31,32 $ Ascomata superficial, containing more than 10 asci. Asci cylindric-claviform to claviform or clavate-saccate.
+31,35 $ Ascomata immersed to superficial, ovoid or (sub)globose, containing less than 5 asci. Asci ovoid or subglobose.
+32,0 $ Ascomata discoidal or pulvinate at late maturity. Spores 8-9 x 3.8-4.2 µm , uni- or biseriate. Asci 8-spored, 62-80 x 11-15 µm . Paraphyses inflated at the tips up to 7 µm diam., with bright yellow pigments. $ Thelebolus microsporus
+32,33 $ Ascomata discoidal-pulvinate or subglobose. Spores slightly smaller, conglobate. Asci more than 8-spored. Paraphyses less inflated at the tips, with very pale yellow pigments.
+33,34 $ Ascomata discoidal to pulvinate. Asci 32- or 64-spored.
+33,0 $ Ascomata subglobose. Asci more than 200-spored, 87-100 x 25-33 µm . Spores 6.2-7.6 x 3.6-4.3 µm . $ Thelebolus dubius var. lagopi
+34,0 $ Ascomata usually not forming crusts. Asci 32-spored, 37-50 x 15-20 µm . Spores 6-7 x 3.5-4 µm . $ Thelebolus caninus
+34,0 $ Ascomata tending to form crusts. Asci 64-spored, 50-70 x 20-30 µm . Spores 5.5-7 x 3.5-4.5 µm . $ Thelebolus crustaceus
+35,0 $ Ascomata with 1 ascus only. Spores 5.2-6.6 x 2.3-2.8 µm . Ascus 200-210 x 160-190 µm , more than 2000- spored. $ Thelebolus stercoreus
+35,0 $ Ascomata with 3-5 asci. Spores 5.2-6.3 x 3.2-3.5 µm . Asci 45-80 x 33-53 µm , more than 200-spored. $ Thelebolus polysporus
+36,0 $ Margin of receptacles fringed with hyphoid hairs. Ascomata minute (< 0.5 mm diam.), eugymnohymenial, cylindric, turbinate, obconical. Spores often fusiform, lacking de Bary bubbles. Asci cigar-shaped, with an apical operculum and a subapical ring, dehiscing by a vertical bilabial split [Ascozonus (Renny) E.C. Hansen], 64-spored. Spores often asymmetrical, 12.6-14.7 x 4.7-5.7 µm . $ Ascozonus woolhopensis
+36,37 $ Margin often not well differentiaded. Hairs seta-like, not arranged on the margin but arising from the outer surface of receptacles. Ascomata up to 1 mm diam., cleistohymenial. Spores more or less ellipsoidal or sub                      globose, rarely subfusiform.
+37,0 $ Ascomata turbinate, dome-shaped, obconical, rarely pulvinate at late maturity, containing several asci, exceptionally only one. Hymenium exposed in the late mesohymenial phase. Setae often with a bulbous base, usually non-septate. Spores with a de Bary bubble. Asci 8-spored, exceptionally polyspored. $ Lasiobolus
+37,0 ,n$N.B.: No new species belonging to this genus have been described, so see Doveri, 2004.
+37,0 $ Ascomata usually pyriform or ovoid, rarely differently shaped, containing one or several asci. Hymenium exposed in telohymenial phase. Setae septate, not bulbous. Spores with or without de Bary bubbles. Asci polyspored, rarely 8-spored. $ Trichobolus (Sacc.) Kimbr. & Cain
+37,0 ,n$N.B.: No new species belonging to this genus have been described, so see Doveri , 2004.

@@ -1,0 +1,59 @@
+titre$ Xylariacés  GB et Ireland  Cannon 2016
+com$ adapt GF- trad Google
+1,cs1$ Champignons xylariacés ayant des stromes multiperitheciates (sauf Creosphaeria ) qui ne sont ni pédonculés ni à anneaux fibreux concentriques
+1,cs2$ Pas comme ci-dessus ( non : "Champignons xylariacés ayant des stromes multiperitheciates qui ne sont ni pédonculés ni à anneaux fibreux concentriques")
+1,0$
+1,0$
+1,0$
+1,0$
+1,0$ source : Fungi and Lichens of Great Britain and Ireland  Paul Cannon 2016
+Wed, 2016-11-23 13:19 -- Paul Cannon
+
+1,0$Liens web : ///http://pyrenomycetes.free.fr/xylariaceous/keydir/dichotomickey.htm///cf https://botit.botany.wisc.edu/toms_fungi/apr2000.html///http://website.nbm-mnb.ca/mycologywebpages/NaturalHistoryOfFungi/Xylariomycetidae.html
+1,0$ stromata une masse en forme de coussin de tissu fongique, ayant des structures porteuses de spores soit en elle ou à sa surface.
+
+
+https://translate.googleusercontent.com/translate_c?depth=1&hl=fr&prev=search&rurl=translate.google.com&sl=en&sp=nmt4&u=http://pyrenomycetes.free.fr/xylariaceous/keydir/dichotomickey.htm&usg=ALkJrhj30XOzfPuZx6Nqu65zGpUQxKB9lQ#Key1
+
+
+
+cs1,0$
+1,0 $ Stromates partiellement immergés, ascospores avec un germe poroïde bien visible $ Euepixylon
+1,2 $ Stromates superficiels, ascospores à fente germinale allongée , plus rarement sans fente germinale apparente
+2,0 $ Stromata en forme de croûte, épais (> 2 mm), faiblement attaché au substrat $ Kretzschmaria
+2,3 $ Stromata plus mince, plus largement attaché au substrat
+3,4 $ Anneau apical discal ascal, plus large que haut
+3,6 $ Anneau apical ascal inversé en forme de chapeau, plus haut que large
+4,0 $ Stromates aplatis ou cupulés, carbonés, lorsqu'ils sont jeunes avec une couche de déhiscence externe , sans pigments extractibles au KOH $ Biscogniauxia
+4,5 $ Stromates applanés, pulvinés ou hémisphériques, cireux, généralement colorés et donnant des pigments extractibles au KOH
+5,0 $ Stromata uniperitheciate , coalescent en rangées linéaires; périthèces globuleux, grands,> 1 mm de diamètre; anamorphe Libertella $ Creosphaeria
+5,0 $ Stromata multiperitheciate ; périthèces obovoïdes, tubulaires, globuleuses <1 mm de diamètre; anamorphe de type Nodulisporium $ Hypoxylon
+6,0 $ Stromates érosifs de l'écorce, grands périthèces,> 1 mm de diamètre $ Entoleuca
+6,0 $ Stromates non érumpents, périthèces plus petits $ Nemania
+
+
+
+cs2,0$
+
+1,2 $ Sur fumier
+1,5 $ Substrat différent
+2,0 $ Stromata uniperitheciate, immergé $ Hypocopra
+2,3 $ Stromata multiperitheciate, plus ou moins stipulé
+3,0 $ Asci sans anneau apical $ Wawelia
+3,4 $ Ascii avec un anneau apical
+4,0 $ Stromates dicoïdes, aplatis, sur un stipe court $ Poronia
+4,0 $ Stromata pulvinate à arrondi, sur un stipe filiforme court à long $ Podosordaria
+5,6 $ Stromata uniperitheciate
+5,8 $ Stromata multiperitheciate
+6,0 $ Chaque périthèque dans un stroma subglobuleux superficiel, souvent associé à un subiculum $ Rosellinia
+6,7 $ Chaque périthèque immergé dans le substrat, sous un stroma réduit à un clypeus noir
+7,0 $ Ascospores unicellulaires $ Lopadostoma subg. Anthostomopsis
+7,0 $ Ascospores à deux cellules à l'état jeune, appendice cellulaire souvent présent à maturité $ Anthostomella sl
+8,9 $ Stromates donnant des pigments dans 10% KOH
+8,10 $ Pigments absents 
+9,0 $ Intérieur stromatal avec zones concentriques $ Daldinia
+9,0 $ Intérieur stromatal creux, rempli de liquide jeune $ Entonaema
+10,0 $ Stromates stipités resserrés à la base $ Xylaria
+10,11 $ Stromata non stipulé
+11,0 $ Stromates épanchés en écorce de Quercus, bipartite, très peu visible; asci sans anneau apical $ Obolarina
+11,0 $ Stromates pustulés à effusés, érumpents à superficiels, fréquemment valsoïdes; sur divers hôtes; anneau apical ascal présent $ Lopadostoma subg. Lopadostoma

@@ -1,0 +1,175 @@
+titre$ lll
+com$ 
+1,CS11$ _Section Paracheilymeniae$s"Section Paracheilymeniae"
+1,CS12$ _Section Coprobia$s"Section Coprobia"
+1,CS13$ _Section Cheilymenia$s"Section Cheilymenia"
+1,CS14$ _Section Striatisporae$s"Section Striatisporae"
+1,CS15$ _Section Pseudoscutelliniae$s"Section Pseudoscutelliniae"
+1,CS16$ _Section Obtusipilosae$s"Section Obtusipilosae"
+1,CS17$ _Section Villosae$s"Section Villosae"
+1,CS18$ _Section Micropilosae$s"Section Micropilosae"
+1,2$ Périspore sans stries longitudinales	
+1,cs1$ Périspore avec des stries longitudinales
+
+2,CS2 $ Excipulum simple avec parfois des hyphes dans la couche médullaire, ou différencié mais avec une couche médullaire à structure plutôt indéfinie
+2,CS3$ Excipulum plus nettement différencié (excipulum médullaire de types textura intricata à subintricata)
+
+rem$ ---------CS auxiliaires ---------
+CS1,0 $ Striatisporae Coprobia,
+
+1,CS14 $ Apothécies avec de véritables poils marginaux, épars ou abondants, ou bien seulement avec des poils hyphoïdes latéraux nets ou ou plus rarement peu évidents. Excipulum légèrement ou nettement différencié (excipulum médullaire de type textura subintricata à intricata). Paraphyses filiformes, 2,8-4,5 µm de large, à sommet seulement modérément élargi.
+1,CS12$ Apothécies apparemment sans poils véritables, mais avec seulement des poils hyphoïdes basaux, épars, la plupart du temps à parois minces et avec des hyphes subiculaires. Excipulum presque non différencié (couche médullaire constituée de petites cellules et seulement d'éléments hyphoïdes épars). Paraphyses largement filiformes à cylindriques, septées à articulées, 4,5-9,5 µm de large, à sommet habituellement nettement élargi (6-20 µm). Espèces coprophiles sur excréments d'herbivores. $ sect Coprobia, p. 57 (p. 4)$s"sect Coprobia"
+
+CS2,0$ Micropilosae Obtusipilosae . Paracheilymeniae
+6,cs18$ Apothécies sans poils (avec seulement des embryons de poils et des cellules brunes au niveau de la couche la plus externe). Excipulum visiblement non différencié, hyphes de l'excipulum médullaire nombreuses mais de forme indéfinie (textura subintricata à subepidermoidea). Ascospores nettement subglobuleuses avec des verrues arrondies ou difformes, fines pour la plupart. Espèces coprophiles. $ sect Micropilosae, p.165 (p. 10)$s"sect Micropilosae"
+6,7 $ Poils généralement présents, à la fois sur la marge et sur les côtés, pointus ou presque, jusqu'à entièrement totalement obtus. Espèces coprophiles.
+7,CS11 $ Apothécies très petites, 0,2-1,5 (2,0) mm de diamètre, en forme de colonne, de barrique ou turbinées, avec des poils pâles invisibles. Poils superficiels (incluant ceux de la marge) ou absents. Excipulum simple, excipulum médullaire parfois avec des hyphes.
+7, CS16$ Apothécies de taille moyenne à grande avec des poils indistincts. Poils courts à sommet toujours obtus. Poils marginaux et latéraux de même forme et lâchement répartis (jamais densément entremêlés), articulés, articulés et septés ou seulement septés, superficiels (rarement avec des embryons peu distincts de racine). Périspore presque lisse ou avec de fines crêtes et verrues, irrégulières, plus ou moins distinctes. $ sect. Obtusipilosae p. 159 (p. 9 )$s"sect. Obtusipilosae "
+
+cs3,0$ 
+10,0$ Apothécies de taille moyenne à grande, densément poilues. Poils marginaux raides, à parois épaisses, superficiels ou peu nettement radicants, avec une base simple, bulbeuse et/ou bifide, rarement courtement atténuée. Poils latéraux de forme similaire (à sommet acuminé ou obtus) mais plus emmêlés, superficiels, habituellement plus longs et beaucoup plus étroits et à parois plus fines, mélangés avec des poils hyphoïdes sur les côtés et des hyphes subiculaires sur la base du réceptacle. Périspore lisse ou avec de fines verrues et de courtes crêtes. Excipulum médullaire nettement de type textura intricata. Espèces principalement arcto-alpines, une espèce seulement coprophile (C. gemella). $ sect. Villosae, p. 143 (p. 10)$s"sect. Villosae"
+10,CS17 $ Apothécies de taille moyenne à grande, densément poilues. Poils marginaux raides, à parois épaisses, superficiels ou peu nettement radicants, avec une base simple, bulbeuse et/ou bifide, rarement courtement atténuée. Poils latéraux de forme similaire (à sommet acuminé ou obtus) mais plus emmêlés, superficiels, habituellement plus longs et beaucoup plus étroits et à parois plus fines, mélangés avec des poils hyphoïdes sur les côtés et des hyphes subiculaires sur la base du réceptacle. Périspore lisse ou avec de fines verrues et de courtes crêtes. Excipulum médullaire nettement de type textura intricata. Espèces principalement arcto-alpines, une espèce seulement coprophile (C. gemella). $ sect. Villosae, p. 143 (p. 10)$s"sect. Villosae"
+10,CS13 $ Apothécies petites à moyennes. Poils marginaux raides, sétiformes, radicants.
+
+rem$ -----------sections----------
+CS11,0 $ Section Paracheilymeniae
+8,11 $ Apothécies en général en forme de colonne ou de barrique. Poils présents. Base des poils émergeant habituellement de cellules avortées. Ascospores grandes ou petites, mais largement ovales. Périspore lisse ou finement verruqueuse. $ sect. Paracheilymeniae ser. Paracheilymeniae, p.35 (p. 3)$s"sect. Paracheilymeniae ser. Paracheilymeniae"
+8,9 $ Apothécies généralement légèrement plus grandes et habituellement turbinées.
+8,11$ Voir aussi ...$ $ s"Section Paracheilymeniae"
+9,16 $ Poils présents, habituellement émergeant de cellules basales bulbeuses. Grandes ascospores, largement ou légèrement elliptiques et allongée ; Périspore munie d'une ornementation finement crêtée ou recouverte d'un réseau irrégulier très dense. $ sect. Paracheilymeniae ser. Raripilosae, p.46 (p. 3)$s"sect. Paracheilymeniae ser. Raripilosae"
+9, 0 $ Poils absents, autres caractères virtuellement identiques. sect. Paracheilymeniae ser. Glabrae, p. 55 (p. 3) $ Cheilymenia bohemica$s"sect. Paracheilymeniae ser. Glabrae"
+suite
+11,12$ Apothécies petites, généralement en forme de colonne ou de barrique à l'état jeune. Poils superficiels, pointus ou presque, émergeant de cellules avortées. Ascospores grandes ou petites, mais largement ovales. Périspore lisse ou finement verruqueuse (Ser. Paracheilymeniae).$$s"Ser. Paracheilymeniae"
+11,15$ Apothécies en général légèrement plus grandes et habituellement turbinées à discoïdes. Ascospores grandes, largement elliptiques jusqu'à allongées.
+12,13$ Grandes ascospores, (17) 18-25,5 (27) x (10) 12-14,5 (15) µm (majoritairement 23,5x13,5 µm)
+12,14$ Ascospores plus petites
+13,0$ Hymenium jaune orangé, poils bien évidents sur toute l'apothécie $ Cheilymenia pulcherrima
+13,0$ Hymenium blanchâtre (à l'état frais) $ Cheilymenia luteoalba
+14,0$ Ascospores (15) 16,3-20,5 (22,6) x (9) 10-12 (13,5) µm (majoritairement 19 x 11,5 µm). Hymenium orange à rouge orangé. $ Cheilymenia aurantiorubra
+14,0$ Ascospores (11) 12-14,2 (15) x (7,5) 8-9 (10,5) µm (majoritairement 13,5 x 8,7m). Hymenium plus pâle, habituellement jaune grisâtre. $ Cheilymenia lundqvistii
+15,16$ Poils véritables présents, émergeant habituellement de cellules basales bulbeuses (Ser. Raripilosae)$$s"Ser. Raripilosae"
+15,0$ Poils véritables absents, seulement présence d'hyphes éparses (Ser. Glabrae) $ Cheilymenia bohemica$$s"Ser. Glabrae"
+16,0$ Ascospores n'excédant pas 30 µm de long (pour les asques octosporées) $ Cheilymenia raripila
+16,0$ Ascospores dépassant de 32 µm $ Cheilymenia coprogena
+
+CS12,0 $ -Section Coprobia-
+1,0 $ Stries longitudinales de la périspore bien reconnaissables sans coloration, constituées de côtes très épaisses (0,6-1,2 µm), formant des apicules polaires allongés. $ Cheilymenia apiculispora
+1,2 $ Stries longitudinales de la périspore nettes mais plus fines ; pas d'apicules.
+2,3 $ Ascospores dépassant habituellement 15 x 7,5 µm.
+2,5 $ Ascospores en général plus petites. Paraphyses cylindriques avec un sommet nettement élargi 7-16µm.
+3,0 $ Paraphyses largement cylindriques, habituellement articulées, 4,5-7,5 µm de large, avec un sommet nettement clavé, capité ou largement bilobé (9-20 µm de large). Couleur de l'apothécie variable, jaune à rougeâtre ou écarlate. $ Cheilymenia granulata var. granulata
+3,4 $ Paraphyses légèrement plus étroites; sommet n'excédant pas 12 µm de large
+4,0 $ Paraphyses mesurant habituellement 4-6 µm de large; sommet atteignant 6-9 (12) µm. Apothécies jaune à rouge orangé. $ Cheilymenia granulata var. elaphorum
+4,0 $ Paraphyses uniformément de 3-6 µm de large sur toute la longueur, ou graduellement élargies vers le sommet (sans excéder 9 µm de large). Apothécies blanchâtre sale. $ Cheilymenia granulata var. sordida
+5,0 $ Ascospores elliptiques, (10,7) 11,7-14,3 (14,9) x (4,8) 5,2-7,5 (7,9) µm (généralement 13 x 6,5 µm). $ Cheilymenia granulata var. striata
+5,0 $ Ascospores elliptico-allongées, (9,0) 10,3-13,6 (15,6) x (3,0) 3,9-5,6 (6,5) µm ou cylindro-elliptiques (13,5 x 3,2 µm), rarement ovales (13,5 x 5,6 µm), généralement 13 x 5,2 µm. $ Cheilymenia granulata var. microspora
+
+
+CS13,0 $ -Section Cheilymenia-
+1,CS15 $ Poils marginaux avec une base simplement tronquée ou radicante/multifourchue. Excipulum médullaire de types textura intricata à subintricata (hyphes mélangées avec des cellules de formes irrégulières). Espèces coprophiles
+1,2$ Poils marginaux avec une base radicante et multifourchue de forme variable (coralloïde, en forme de harpon avec de nombreuses racines ou largement fourchue). Excipulum médullaire de types textura subintricata à intricata. Espèces essentiellement coprophiles.
+1,21$ Voir aussi ...
+2,3 $ Présence de poils latéraux en forme d'étoile ou de cellules étoilées
+2,0$ Présence de poils latéraux étoilés sans cellules étoilées. Poils latéraux habituellement simples mais parfois bifides, émergeant d'une base commune multifourchue. Petites apothécies en forme de barrique ou de disque épais, jaune orangé pâle ou jaune d'or. Périspore recouverte de fines verrues irrégulières évoluant en crêtes ou à ornementation irrégulièrement subréticulée $ Cheilymenia insignis
+3,24$ Poils des flancs en étoile et bien développés, épars ou denses. Apothécies jaune-orangé ou orange rougeâtre. Zone marginale de l'excipulum ectal constituée de petites cellules formant une textura prismatica. Périspore lisse (avec seulement parfois des plis ou des plaques, secondaires et irréguliers) ou finement verruqueuse.$ Sect. Cheilymenia ser. Cheilymenia, p. 118 $ s"Sect. Cheilymenia ser. Cheilymen"
+3,0 $ Poils latéraux simples, mélangés avec des cellules étoilées. Apothécies blanchâtres. Ascospores lisses $ Cheilymenia pallida$ s" Sect. Cheilymenia ser. Pallidae, p. 118 "
+suite
+
+21,0$ Espèce exclusivement terrestre, sur sol non contaminé, habituellement le long des chemins forestiers, fossés au bord des routes et rives fluviales, dans les bois. Ascospores habituellement (peu visible) remplies de granules, sans contenu jaune réfringent ; Périspore recouverte en permanence de hautes verrues grossières et irrégulières et de crêtes irrégulièrement connectées (comme chez Scutellinia torrentis), bien évidentes au microscope optique et nettement saillantes aux pôles). Poils marginaux courts et pâles, 90-370 x 8-14 µm. Poils latéraux habituellement étoilés. $ Scutellinia crucipila
+21,22$ Espèces principalement coprophiles. Ascospores sans guttules, à maturité avec un contenu jaune réfringent après coloration au bleu coton lactique C4B, lisses ou avec de fines verrues et basses crêtes (difficilement visibles au microscope optique). Poils marginaux sétiformes.
+22,23$ Poils latéraux étoilés ou présence de cellules étoilées
+22,0$ Poils latéraux étoilés sans cellules étoilées ; poils latéraux plus épars, parfois bifides émergeant d'une base courtement multifourchue. Ascospores (22) 24-30 (32) x 10,5-16,5 (18) µm (généralement 25 x 15 µm); Périspore finement et irrégulièrement cristulée à subréticulée. Apothécies jaune d'or à jaune orangé (Sect. Insignes) $ Cheilymenia insignis
+23,24$ Poils étoilés nombreux ou épars mais bien développés. Zone marginale de l'excipulum ectal constituée de petites cellules formant une textura prismatica (Ser. Cheilymenia)$$s"Ser. Cheilymenia"
+23,0$ Présence uniquement de cellules étoilées ou de poils marginaux étoilés à branches courtes. Apothécies blanchâtres. Ascospores très petites, 8,5-10,7 (11,8) x 5,2-6,4 (7) µm. Périspore lisse (Ser. Pallidae) $ Cheilymenia pallida
+24,0$ Périspore finement verruqueuse. Ascospores (13,5) 14-16 (16,5) x (7,2) 8-9 (9,4) µm, généralement 15 x 8,6 µm. $ Cheilymenia asteropila
+24,25$ Périspore lisse (avec seulement parfois des rides et des plaques)
+25,0$ Ascospores inférieures à 14 x 9 µm. Apothécies orange ou orange pâle. $ Cheilymenia parvispora
+25,26$ Ascospores plus grandes
+26,0$ Ascospores 18-23 (24) x 8,0-12,5 (13) µm. Apothécies habituellement (mais pas toujours) plus grandes (jusqu'à 6 mm) et moins rougeâtres. $ Cheilymenia stercorea f. stercorea
+26,0$ Ascospores 15-18,5 (21,5) x (7,5) 8-9 (11) µm. Apothécies habituellement plus petites et plus rougeâtres (pas toujours) $ Cheilymenia stercorea f. alpina
+
+CS14,0$ -Section Striatisporae-
+
+1,4 $ Apothécies nettement poilues. Présence de véritables poils marginaux, rigides à sétiformes. Excipulum différencié.$ $s " sect Coprobia " 
+ différents appels ds CS14
+1,11$ Voir aussi...
+1,0 $ Marge sans poils ou présents mais très variables en densité, poils véritables (aigus ou presque) ou hyphoïdes, superficiels ou presque radicants avec des embryons de racine bulbeux. Excipulum plus nettement différencié (excipulum médullaire de type textura subintricata). Espèces coprophiles ou venant sur débris de plantes pourrissantes. $ sect. Striatisporae ser. Striatisporae, p. 76 (p. 6)$ s"sect. Striatisporae ser. Striatisporae"
+4,22$ Poils marginaux brun-jaune à bruns, abondants, normalement robustes, à parois épaisses, avec une base radicante tuberculée à multituberculée. Périspore recouverte de stries longitudinales extrêmement fines. Apothécies jaunes. Espèces essentiellement terrestres, parfois coprophiles. $ sect. Striatisporae ser. Tenuistriatae, p. 103 (p. 6) $ s" sect. Striatisporae ser. Tenuistriatae"
+ sect. Striatisporae ser. Tenuistriatae, p. 103 (p. 6)
+4,12$ Poils marginaux hyalins ou presque, mais robustes, sétiformes, avec une base capitée, non typiquement radicante, avec de courts appendices. Striations de la périspore plus distinctes. Apothécies orange. Espèces coprophiles $$ s"sect. Striatisporae ser. Albosetosae"
+, p. 113 (p. 6)
+suite
+11,12$ Excipulum médullaire textura subintricata. Poils hyphoïdes hyalins, ou vrais poils (acuminés ou presque), presque hyalins, jaunâtres à brunâtres, habituellement superficiels (avec parfois des embryons de racine). Apothécies jaunes à jaune orangé. (Ser. Striatisporae)$$s"Ser. Striatisporae"
+11,21$ Excipulum médullaire de textura intricata. Poils sétiformes, radicants (base souvent multifourchue avec des racines bulbeuses et obtuses). Apothécies jaunes, jaune d'œuf ou jaune citron.
+12,13$ Ascopores supérieures à 15 x 8 µm. Espèces coprophiles ou venant sur débris de plantes pourrissantes.
+12,19$ Ascospores plus petites. Espèces coprophiles.
+13,14$ Apothécies avec de véritables poils. Poils marginaux presque aigus à acuminés, superficiels avec parfois des embryons de racine
+13,16$ Apothécies avec des poils hyphoïdes seulement.
+14,15$ Présence de véritables poils acuminés ou presque, presque hyalins à brunâtres, à répartition clairsemée sur les flancs et encore plus à la marge.
+14,0$ Présence de véritables poils presque aigus à acuminés, recouvrant la marge et les flancs de l'apothécie. $ Cheilymenia theleboloides f. densipilosa
+15,0$ Cellules de l'excipulum ectal de taille normale, jusqu'à 100 µm de diamètre. Excipulum médullaire de textura subintricata (comme dans les autres formes) $ Cheilymenia theleboloides f. theleboloides
+15,0$ Cellules de l'excipulum ectal très grandes, jusqu'à 160 µm de diamètre. Excipulum médullaire Excipulum médullaire avec des hyphes vésiculaires renflées plus nombreuses. 12e. $ Cheilymenia theleboloides f. macrocellulata
+16,17$ Poils hyphoïdes superficiels et épars, répartis seulement sur les flancs et sur la base du réceptacle.
+16,0$ Poils hyphoïdes superficiels, très longs, 100-1000x4-17 µm, densément répartis sur la marge et les flancs de l'apothécie. $ Cheilymenia theleboloides f. hyphophila
+17,0$ Apothécies de taille moyenne. Apparence de l'apothécie, habitat et ascospores virtuellement identiques à ceux de C. theleboloides f. theleboloides $ Cheilymenia theleboloides f. glabra
+17,18$ Apothécies de petite taille. Espèces coprophiles.
+18,0$ Apothécies en forme de colonne, en forme de barrique ou discoïdes. Ascospores habituellement elliptico-allongées, (15,5) 16,5-21 (21,7) x 8,0-9,5 (11,5) µm (généralement 18,5x9,0 µm). Perispore finement striée (stries de 0,1-0,3 µm d'épaisseur). $ Cheilymenia karstenii
+18,0$ Apothécies généralement en forme de barrique ou discoïdes. Ascospores habituellement largement ovales, (14) 15-17,6 (20,2) x (7,6) 8,2-9,5 (10,5) µm (généralement 16 x 9 µm). Perispore avec de grossières stries longitudinales, cyanophiles, d'épaisseur (0,2) 0,4-0,7 (0,8) µm d'épaisseur. $ Cheilymenia crassistriata
+19,20$ Apothécies de taille moyenne (1-8 mm de diam.), turbinées à discoïdes.
+19,0$ Apothécies plus petites, en forme de barrique, à base munie d'un net halo subiculaire. Présence de poils marginaux, presque hyalins à jaunâtres, superficiels, parfois avec des embryons de racine (mieux visible sur les jeunes apothécies). Ascospores (10) 11-13,5 (14,8) x (5,3) 6,0-7,5 (8,0) µm (généralement 13 x 7,0 µm). Stries de la périspore à côtes de 0,1-0,3 µm d'épaisseur. $ Cheilymenia lemuriensis var. maderensis
+20,0$ Poils marginaux présents, presque hyalins à jaunâtres, superficiels (parfois avec des embryons de racine). Poils latéraux plus pâles, superficiels mais souvent à parois épaisses. Ascospores (9,5) 10-13,5 (14) x (4,4) 5,0-7,0 (7,5) µm (généralement 12,6 x 6,4 µm). Périspore généralement avec des stries légèrement plus épaisses (côtes de 0,1-0,4 (0,5) µm d'épaisseur) $ Cheilymenia lemuriensis var. lemuriensis
+20,0$ Poils marginaux absents. Présence seulement de poils latéraux épars (de la même forme que dans le type) sur les flancs. Ascospores légèrement plus grandes, (11) 11,5-14,5 (15,5) x (4,6) 5,2-7,0 (7,8) µm, périspore avec la même striation plutôt grossière que dans le type. $ Cheilymenia lemuriensis var. subnuda
+21,22$ Apothécies de taille moyenne à large. Poils marginaux jaunâtres à brunâtres, raides, de taille moyenne à longue, acuminés ou presque, avec une base radicante et multitubéreuse. Périspore à stries fines. (Ser. Tenuistriatae).
+21,0$ Apothécies plus petites, orange. Poils sétiformes, acuminés, à parois fortement épaisses, mais nettement hyalins ou presque. Base nettement élargie avec de courtes racines obtuses. Ascospores (10) 10,5-14,6 (15) x (4,2) 4,5-6,5 (6,9) µm (majoritairement 13 x 5,6 µm mais souvent aussi nettement allongées 14,5x6,0 µm) . Stries de la périspore nettes. Espèces coprophiles. (Ser. Albosetosae). $ Cheilymenia tandonia
+22,0$ Ascospores avec de grosses pustules polaires cyanophiles, (11) 12-15 (16,5) x 7,5-9 (9,7) µm (majoritairement 13,6x8 µm, celles développées dans les asques à 4-6 spores peuvent atteindre jusqu'à 16,5 x 9,7 µm). Espèce coprophile. $ Cheilymenia polaripustulata
+22,0$ Ascospores sans pustules polaires, (13,8) 15-19,8 (20,5) x (7,7) 8.0-10 (11,2) µm. Périspore à stries très fines (difficilement perceptibles dans quelques récoltes). Poils marginaux sétiformes de taille variable, habituellement longs, parfois épars ou absents chez de vieilles apothécies. Espèce terrestre, habituellement sur sol moussu sous orties, parfois à proximité d'excréments, rarement sur sol fumé ou sur excréments. $ Cheilymenia vitellina
+
+
+CS15,0 $ -Section Pseudoscutelliniae-
+
+pas de pt d'entrée
+1,12$ ..14	Poils marginaux courts ou de taille moyenne (longueur maximale de 500 µm), radicants, avec une base simple (tronquée ou atténuée) ou fourchue 2 à 3 fois (jamais nettement multifourchue). Périspore verruqueuse à pustuleuse. Apothécies jaune orangé à rouge orangé ou brun rouge. 	$ Sect. Pseudoscutelliniae ser. Pseudoscutelliniae, p. 173 $ s"Sect. Pseudoscutelliniae ser. Pseudoscutelliniae"
+1,19$ ..14	Poils marginaux longs et robustes, dépassant généralement 600 µm de longueur (600-1400 µm), une base radicante multifourchue. Périspore presque lisse ou finement verruqueuse ou bien avec de fines crêtes, courtes et irrégulières. Apothécies couleur jaune cannelle, orange à rouge orangé ou vermillon. $ $ s"Sect. Pseudoscutelliniae ser. Coprinariae, p. 203$ s"Sect. Pseudoscutelliniae ser. Coprinariae, p. 203"
+1,11$ Voir aussi ...
+suite 
+11,12$ Poils marginaux radicants n'excédant pas 600 µm de long, avec une base simple ou fourchue 2-3 fois. Espèces coprophiles ou venant sur débris de plantes pourrissantes, rarement nécrophiles. Ascospores elliptiques à sub-globuleuses. (Ser. Pseudoscutelliniae)
+11,19$ Poils marginaux radicants en général plus longs, robustes, sétiformes, à parois épaisses, à base majoritairement multifourchue. Ascospores ellipsoïdes. Espèces coprophiles. (Ser. Coprinariae)
+12,13$ Base des poils marginaux en majorité simple (atténuée à tronquée) à bifide. Asques cylindriques ou à peine largement cylindriques. Ascospores unisériées.
+12,0$ Poils marginaux avec une base fourchue 2-3 fois (poils à base simple rares), peu visibles et irrégulièrement repartis, courts, 90-240 (300) x 10-30 µm, habituellement avec un sommet hyalin. Asques largement cylindriques. Ascospores elliptiques, (18,0) 18,5-21,0 (22,5) x 10,5-12,0 (13,6) µm. Périspore recouverte de verrues ou crêtes irrégulières, cyanophiles, isolées ou interconnectées. Apothécies 1-5 mm de diamètre, orange. $ Cheilymenia liskae
+13,14$ Apothécies de taille petite à moyenne, rouge orange, rougeâtres ou brun rougeâtre, rarement brunâtres. Poils de la marge et des flancs irrégulièrement distribués.
+13,0$ Apothécies de taille moyenne à grande, aplaties à maturité, orange rougeâtre, orange jaune à orange ocracé. Marge frangée avec des poils sétiformes en général radialement disposés. Poils marginaux 90-450 (600) x 10-33 (40) µm, rigides, sétiformes, à parois épaisses, brun jaune à brun rouge. Ascospores elliptiques, (14,5) 15,5-19,5 (22) x (8,0) 9,5-12,2 (13,5) µm (généralement 19,0x12,0 µm). Périspore recouverte de fines verrues et crêtes, irrégulières et cyanophiles. $ Cheilymenia dennisii
+14,15$ Apothécies avec une large zone marginale ponctuée de poils habituellement bruns et d'embryons de poils. Ascospores largement elliptiques, normalement plus petites que 20 x 12 µm, ou subglobuleuses, jusqu'à 13,5 µm de large.
+14,18$ Marge des apothécies pas aussi nettement ponctuée d'embryons de poils. Poils marginaux peu visibles, courts et comparativement étroits, généralement brun jaune pâle avec un sommet hyalin. Apothécies mesurant 2-3 mm de diamètre. Espèces coprophiles arctico-alpines.
+15,16$ Poils marginaux 70-320 (450) x 12-28 (30) µm, brun pâle à brun rougeâtre foncé, habituellement à sommet pointu, plus ou moins irrégulièrement recourbés, mais rigides et à parois épaisses.
+15,17$ Les plus longs poils ne dépassent pas 320 µm et sont souvent presque partiellement hyalins ou à extrémités hyalines, en général irrégulièrement flexueux, plus faibles à parois très fines.
+16,0$ Apothécies rouge orange à rougeâtres. Ascospores (15) 16,5-21,0 (22,5) x (8,0) 9,0-11,0 (12,0) µm (généralement 19,6 x 10,5 µm). Sur débris de plantes pourrissantes ou sur excréments mélangés à de la terre, rarement sur excréments seuls. $ Cheilymenia rubra var. rubra
+16,0$ Apothécies rouge corail pâle ou rouge orange, et habituellement partiellement décolorées à blanchâtres. Ascospores plus petites, (14,0) 15,6-18,5 (21,0) x (8,5) 9,0-10,5 (11,7) µm (généralement 16 x 9 µm). Espèce coprophile, rarement dans un terrain en friches. $ Cheilymenia rubra var. erubescens
+17,0$ Apothécies rouge brun à brun grisâtre. Poils marginaux pâles à brun jaune (parfois présence de jeunes poils hyalins seulement), 15-24 µm de large (épaisseur des parois, 0,7-1,8 µm), majoritairement élancés, mais mêlés de poils renflés au milieu et brusquement rétrécis vers le sommet, obtus ou pointus à lancéolés, à cloisons éparses, à base simple, atténuée ou brusquement tronquée, ou bien avec un court et mince appendice (habituellement deux). Ascospores elliptiques (12,0) 14,6-19,0 (20,0) x (9,0) 9,5-11,0 (12,0) µm, (majoritairement 16,5 x 10,5 µm). Espèce nécrophile et venant sur la tourbe. $ Cheilymenia cadaverina
+17,0$ Apothécies rougeâtres, orange rouge, rarement orange brunâtre. Poils marginaux peu visibles, 8-19 µ de large, non septés ou à cloisons éparses, jaune brunâtre pâle à presque hyalins, à extrémité pointue ou émoussée, à base simple ou munie d'un court et fin appendice, habituellement deux mais rarement trois. Ascospores de taille et forme très inégales, majoritairement largement elliptiques ou subglobuleuses, 15,5-19,5 (20,8) x 12,0-13,5 (13,8) µm (majoritairement 18 x 13 µm) ou subglobuleuses,12,5-19,5 x 12-13,5 µm à maturité en petit nombre dans les asques, ou soit elliptiques, soit subglobuleuses et seulement 12-15 x 9-12 µm. Espèce coprophile. $ Cheilymenia fraudans
+18,0$ Grandes ascospores, (19,2) 21,0-26,0 (28,5) x 12,0-14,5 (15,7) µm, majoritairement 24,0 x 13,8 µm. Périspore surtout recouverte de pustules arrondies ou de verrues irrégulières, grandes, 0,3-1,5 (2,5) µm de diamètre et 0,2-1,0 (1,5) µm de haut. $ Cheilymenia humarioides
+18,0$ Petites ascospores, (18,2) 19,0-22,8 (24) x (10,2) 11,5-13,8 (15) µm, majoritairement 20,0 x 12,5 µm ; Périspore recouvert de fines verrues cyanophiles et peu visibles, 0,1-0,3 µm de diamètre et 0,1 de haut. $ Cheilymenia pseudohumarioides
+19,20$ Ascospores petites, n'excédant pas 20 x 10 µm (celles des asques octosporés)
+19,0$ Ascospores de taille très variables (pour un même exemplaire), mais majoritairement grandes, elliptiques allongées, (21,5) 23,0-27,5 (31,2) x (12,0) 12,5-13, 7 (15,4) µm (pour quelques récoltes n'excédant pas 25 x 14 µm). Ornementation constituée de fines crêtes irrégulières ; verrues et crêtes formant principalement un réseau, irrégulier et incomplet. Poils marginaux 400-1100 µm x 18-40 µm, à parois nettement épaisses, 3,0-4,5 (6.0) µm ; quelques poils contenant un petit poil secondaire. Apothécies de taille petite à moyenne, 1-4 mm de diamètre, jaune à orange avec des teintes vermillon $ Cheilymenia megaspora
+20,0$ Ascospores (12,5) 13,5-17,0 (19,5) x (6,8) 7,5-9,2 (11,0) µm (majoritairement 16,0 x 8,7 µm). Périspore lisse avec des plaques irrégulières ou recouverte de fines verrues basses et irrégulières. Poils marginaux 150-800 (1050) x 15-35 (45) µm. Apothécies de tailles moyenne, 2-7 (10) mm de diamètre, jaune orangé, orange à orange rouge. $ Cheilymenia coprinaria
+20,0$ Ascospores très petites, majoritairement étroites, rarement ovoideo-elliptiques, (11,8) 12,0-15,0 (16,5) x (4,9) 5,7-7,5 (11,0) µm (majoritairement 14,0 x 7,0 µm). Périspore à fines verrues irrégulières. Poils marginaux 400-1250 (1600) x 28-50 µm. Apothécies de taille moyenne, 3-8 (10) mm de diamètre, brunâtre ocracé ou d'une couleur cannelle éclatante, parfois avec des teintes orange doré. $ Cheilymenia magnipila-Section Obtusipilosae-
+
+CS16,0$ Section Obtusipilosae
+
+rem 2 espèces coprophiles avec de courts poils obtus.
+
+1,0 $ Grandes apothécies. Poils septés, à sommet obtus. Poils marginaux, 60-120 x 10-15 µm. Poils latéraux majoritairement plus longs, 60-160 (220) x 8-15 (18) µm. Ascospores majoritairement 14 x 8,6 µm (largeur dépassant 8 µm) $ Cheilymenia magnifica
+1,0 $ Apothécies de taille petite à moyenne. Poils courts, 25-50 x 6-12 µm, caténulés, constitués de cellules hyalines ou presque, allongées ou sphériques, ou bien d'articles cylindriques (avec cellule terminale arrondie ou clavée), rarement avec seulement des parois continues et septées. Ascospores beaucoup plus étroites, majoritairement 12 x 5,5 µm. $ Cheilymenia catenipila-Section Villosae-
+
+CS17,0$ Section Villosae
+
+1,0 $ Espèces coprophiles. Poils latéraux superficiels, longs, étroits et aigus, entremêlés de poils flexueux. Ascospores étroitement elliptiques à ovales, (12) 14,2-15,7 (16,5) x (7,0) 7,5-8,5 (9,0) µm (majoritairement 15 x 7,8 µm). Périspore lisse, mais présence de pustules cyanophiles chez les ascospores presque matures. $ Cheilymenia gemella
+1,2 $ Espèces terricoles, associées avec des mousses ou hépatiques, vivantes ou pourrissantes, venant principalement dans les zones arctico-alpines. Poils latéraux superficiels, entremêlés, plus courts, généralement flexueux.
+2,3 $ Ascospores elliptiques, 14-17,2 x 8,5-10,5 µm.
+2,0 $ Ascospores subglobuleuses $ Cheilymenia villosa
+3,0 $ Sclérotes non développés. Apothécies venant parmi des débris de mousse pourrissants, souvent en présence d'un sol sablonneux. Poils marginaux, 90-210 x 7-25 (32) µm $ Cheilymenia chionophila
+3,0 $ Sclérotes globuleux et compacts constitués d'un tissu parenchymateux attaché à la mousse (rarement absent). Apothécies attachées aux sclérotes ou directement au thalle de la mousse. Poils marginaux, 120-310 x 12-26 µm. $ Cheilymenia sclerotiorum-Section Micropilosae-
+
+CS18,0$ Section Micropilosae
+1,0 $ seule espèce $ Cheilymenia stercoraria$s"Section Micropilosae"
+
+

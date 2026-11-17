@@ -1,0 +1,1045 @@
+MYCOCLE 00210760719050612C5D12
+ clé exploitable par Mycoclé 2.04
+Mycoclé 2.05  ChampignonsdeSuisse BK2 Champignons sans lames
+ Adapt GF 04/2013
+REM$LANGUE$Détection automatique
+4001485111151921232528303234364042444648505759616264656769717375777981848688909295991001021031051071091111141161181201221241261281311331351371391411431451501521541561581601651671691711731751771791811831851871891921941961982002022042062082102122142162212252272292312342372392412432452472502522542562582602622642662682702722742762782802812852872892912932952972993013033053073093113133153173193213233253273293313333353373393413443463483503523563583603623643663683703733743763783803823843863883903933953973994014034054074104124144164184204224244264284304324344364394414444464484504514534554574594624664684704724744764784804824844864884904924944964985015035055085115135155175205225245265285305325345375405455475495515535555575595615635655675695715735755775795815835865885905915935955975996016036056076096116136156176196226246266286306326346366386406426446466486506526546566586606636676696716736756776796806826846866886906926946966987007027047067087107127147177197217237257277297317337357377397417437457477487507527537557577597617637657677697717747767797817837857877897917937957977998018038058078118138158178198218238258278298318338358378398418438458478498518538568588608628648668688708728748768788808828848868888908928958978999019039059079099129149179199219239259279299319339359379399419439451949951953955957959961963965967969971973975977979981983985987989991993995997999100110031005100710091011101310151017102010221024102610291031103310361038
+0s" Groupe A" Frct, résupinées, étalées ou en formes de petits disques, étroitement adhérentes au substrat. Marge parfois légèrement relevée, mais jamais enroulée. 01111370 Groupe A # Page 252
+0s" Groupe B" Frct, semi-piléées ou réfléchies, rarement résupinées; si résupinées, à la face infère du support. 01121380 Groupe B#Page 34209
+0s" Groupe C" Frct, piléées, en formes de consoles, flabelliformes, à multiples chapeaux ou chapeaux en rosettes et alors porées ou lamellées avec (en général) des anastomoses, parfois étalées le long du substrat. 01131390Groupe C  Page 36 244
+0s" Groupe D" Frct, stipitées, piléées, dimidiées ou en formes de trompettes, parfois fasciculées ou concrescentes. 011413100 Groupe D#Page 39303
+0s" Groupe E" Frct, clavuliformes ou coralloïdes, vermiformes, dressées, simples ou ramifiées, en forme de choux-fleurs ou en rosettes, non porées. 011513110 Groupe E #Page 42360
+0s" Groupe F" Frct, caliciformes ou urcéolées (si l'hyménium est formé d'asques, v. tome 1, Ascomycètes); si discoïdes, elles sont fixées par le centre au substrat ou tubuleuses, pendantes ou dressées. 011613120Groupe F Page 45416
+0s" Groupe G" Frct, gélatineuses à l'état frais, muqueuses ou cartilagineuses, foliacées, cérébriformes, lobées, en forme d'oreille, globuleuses ou pulvinées et grégaires. Si semi-piléées, v. Auricularia mesenterica (No 8) ou Merulius tremellosus (No 145). 011713130 Groupe G #Page 46424
+0s" Groupe H" Hyménium interne chez les jeunes sujets (frct, épigées ou hypogées). 011813140 Groupe H#Page 46442
+0s" Groupe I" Parasites sur plantes vivantes, dépourvus de véritables frct, (seul le genre Exobasidium est traité ici); des déformations de tissus simulent parfois une frct.011913150481
+0 A0-1010111700
+0 Frct, nettement et ± régulièrement verruqueuses à échinulées ou ornées d'aiguillons ou de dents0211114190143
+0 *Hyménium mérulioïde à phléboïde 0211214200172
+0 * Hyménium poré, réticulé-poré, irpicoïde (pores déchirés)0211314210175
+0 Hyménium lisse ou un peu inégal, faiblement bosselé ou légèrement verruqueux. 02114142203
+0 * Sp. hyalines ou faiblement colorées (microscope), ornées (ponctuées, verruqueuses, échinulées, bosselées, anguleuses) 03141515230109
+0 * Sp. colorées (microscope), lisses03141615240126
+0 * Sp. colorées (microscope), ornées (ponctuées, verruqueuses, échinulées, bosselées, anguleuses)03141715250133
+0 Sp. hyalines ou faiblement colorées au microscope, lisses µm (immersion!) 031418152604
+0 * Sp. non amyloïdes 0418191627016
+0 Sp. amyloïdes 041820162805
+0 * Présence de cystides ou d'éléments cystidiformes 0520211729011
+0 Pas de cystide ou d'élément comparable (soie p. ex.) 052022173006
+0 Structure monomitique, la plupart des cloisons sont bouclées 062223183107
+0 * Structure dimitique, cloisons non bouclées 062224183209
+0 * Basides n'atteignant pas 20 µm de longueur, pas de pleurobaside. 07232519330 Amylocorticium laceratum No 48 0
+0 Basides atteignant 100µm de longueur 07232619340 Vuilleminia comedens No 217 0
+0 * Pleurobasides atteignant 12 µm de longueur 072327193508
+0 * Sp. 4, 2^, 8 x 2, 1-2, 4 ^m 08272820360 Aphanobasidium grisellum No 220 0
+0 Sp. 5-6, 5 x 1, 5-2µm 08272920370 Aphanobasidium allantosporum No 219 0
+0 * Frct, ne rougissant pas au frottement, hyphes squelettiques dextrinoïdes. 09243021380 Scytinostroma portentosum No 1000
+0 Frct, rougissant au frottement 0924312139010
+0 * Sur feuillus No 202 010313222400 Stereum rugosum No 2020
+0 Sur conifères 010313322410 Stereum sanguinolentum. No 203 0
+0 Structure dimitique, présence de lamprocystides 011213423420 Amylostereum chailletii. No 196 0
+0 * Structure monomitique 01121352343012
+0 * Présence de lamprocystides uniquement 012353624440 Amylostereum laevigatum No 197 0
+0 * Présence de soies étoilées No 289 012353724450 Asterostroma laxum No 2890
+0 Présence de gléocystides uniquement 01235382446013
+0 * Présence de leptocystides uniquement 01235392447015
+0 Cloisons bouclées 013384025480 Megalocystidium luridum. No 104 0
+0 * Cloisons non bouclées 01338412549014
+0 * Gléocystides S+, sp. elliptiques  014414226500 Megalocystidium lactescens No 107 0
+0 Gléocystides S-, sp. globuleuses 014414326510 Vesiculomyces citrinus. No 109 0
+0 * Pas de dendrohyphide, sp. grises dans le Melzer 015394427520 Hypochniciellum molle No 101 0
+0 Présence de dendrohyphides ramifiées 015394527530 Dendrothele alliacea No 47 0
+0 Pas de cystide ou d'élément cystidiforme (soie p. ex.)01619462854017
+0 * Présence de cystides, d'éléments cystidiformes ou de soies 01619472855059
+0 La plupart des cloisons non bouclées 01746482956018
+0 La plupart des cloisons pourvues de boucles 01746492957038
+0 * Hyménium dépourvu de baside. Sp. portées par des conidiophores (stade imparfait de Botryobasidium conspersum) 018485030580 Haplotrichum conspersum No 680
+0 Basides cloisonnées transversalement, frct, gélatineuses, violet-rose 018485130590 Helicobasidium brebissonii No 9 l 0
+0 * Basides cloisonnées longitudinalement (phragmobasides, Fig. 3), frct, céracées, gélatineuses 01848523060019
+0 * Basides pourvues d'épibasides piriformes ou fusiformes (Fig. 3). Frct, minces, céracées, roses à violettes 01848533061020
+0 * Basides non cloisonnées (holobasides, fig. 3); stérigmates atteignant 10 µm au moins 01848543062021
+0 * Holobasides atteignant 22 µm de longueur, rarement 25 µm; stérigmates ayant moins de 10 µm de longueur 01848553063025
+0 * Holobasides dépassant 25 µm de longueur, rarement plus courtes 01848563064036
+0 * Sp. largement elliptiques, 14-18 x 9-10 µm, absence de chlamydospores 019525731650 Sebacina incrustans No 15 0
+0 Sp. ovales, 10-13 x 8-10 ^m, présence de chlamydospores irrégulières No 14 019525831660 Sebacina epigaea No 140
+0 * Sp. ovales, 6-8 x 5-6, 5 µm No 33 020535932670 Tulasnella violea No 330
+0 Sp. fusiformes, 10-12 x 4, 5-6µm No 32 020536032680 Tulasnella violacea No 320
+0 Sp. largement elliptiques atteignant 10 µm de longueur, hyphes basa- les brunâtres 02154613369022
+0 Sp. 6-9 x 4, 5-6, u, m, formant des spores secondaires. 022616234700 Scotomyces subviolaceus No 43 0
+0 * Sp. 6, 5-8, 5 x 5, 5-7, 5 ^m, pas de spore secondaire .... Uthatobasidium ochraceum. No 44 02261633471023
+0 * Sp. cylindriques ou fusiformes atteignant plus de 10 µm de longueur; hyphes basales hyalines 02363643572024
+0 * Sp. fusiformes-citriformes, 10-15 (24) x 6-8µm 024646536730 Hypochnus fusisporus No 42 0
+0 Sp. cylindriques-elliptiques, 8-12 x 3-4, 5µm 024646636740 Ceratobasidium pseudocornigerum No 41 0
+0 Basides portant plus de 4 stérigmates 02555673775026
+0 * Basides à 2-4 stérigmates 02555683776032
+0 Basides urniformes, hyphes à contenu partiellement granuleux. Sp. 4, 5-6 x 2, 5-3 ^m 026676938770 Sistotrema commune f. efibulatum No1890
+0 * Basides non urniformes, cylindriques ou un peu clavées: hyphes basales dépassant 8 µm de largeur 02667703878027
+0 Basides bouclées, hyphes généralement non bouclées. 027707139790 Botryobasidium médium. No 64 0
+0 * Absence totale de boucle 02770723980028
+0 Hyphes basales dépassant 15 µm de largeur 02872734081029
+0 * Hyphes basales n'atteignant pas 15 ^m de largeur 02872744082030
+0 * Hyphes basales finement verruqueuses 029737541830 Botryobasidium pruinatum No 660
+0 Hyphes basales lisses 029737641840 Botryobasidium laeve No 63 0
+0 * Basides atteignant 9 µm de largeur. Sp. naviculaires, 8-9 x 3, 5, 3 µm 030747742850 Botryobasidium candicans No 620
+0 Basides atteignant au moins 9 ^m de largeur 03074784286031
+0 * Sp. elliptiques, obtuses au sommet. 031787943870 Botryobasidium obtusisporum. No 65 0
+0 Sp. naviculaires, biapiculées 031788043880 Botryobasidium botryosum No 61 0
+0 * Frct, céracées, membraneuses, étroitement adhérentes au substrat. Sp. elliptiques ou un peu fusiformes 032688144890 Athelidium aurantiacum. No 118 0
+0 Frct, pelliculaires, facilement détachables, dépourvues de rhizomorphe. Sp. à parois minces 03268824490033
+0 * Frct, pelliculaires, facilement détachables, pourvues de rhizomorphe. Sp. à parois un peu épaissies 03268834491035
+0 * Boucles rares sur les hyphes basales (v. aussi No 49). 033828445920 Athelia epiphylla No 52 0
+0 Toutes les cloisons non bouclées 03382854593034
+0 * Sp. piriformes, 7, 5-10 x 4-5 µm 034858646940 Athelia pyriformis No 550
+0 Sp. largement elliptiques, 4, 5-5, 5 x 3-3, 5 µm. . 034858746950 Athelia decipiens No 51 0
+0 * Rhizomorphes toujours blancs. Frct, blanches 035838847960 Piloderma byssinum No 180 0
+0 Rhizomorphes toujours jaunes. Frct, blanches à jaunes. 035838947970 Piloderma croceum No 181 0
+0 Frct, gris-bleu à vert-bleu 036569048980 Byssocorticium pulchrum No 700
+0 * Frct, colorées différemment 03656914899037
+0 * Frct, dépourvues de rhizomorphe, ocracées avec teintes verdâtres; basides 20-28 ^m de longueur 0379192491000 Phlebia cremeoochracea. No 172 0
+0 * Frct, pourvues de fins rhizomorphes, blanches; basides 30-35, u, m de longueur 0379193491010 Phanerochaete tuberculata No 163 0
+0 Frct, rose-saumon à rose-orange, membraneuses, ouateuses 0379194491020 Erythricium laetum No 121 0
+0 Basides cloisonnées longitudinalement (Fig. 3 C); frct, céracées, gélatineuses ou croûteuses 038499550103039
+0 * Holobasides portant plus de 4 stérigmates 038499650104042
+0 * Holobasides à 2-4 stérigmates; basides atteignant 25 µm de longueur, rarement 28 µm 038499750105046
+0 * Holobasides à 2-4 stérigmates dépassant 25 µm de longueur, le plus souvent de 30 µm 038499850106054
+0 Sur conifères 039959951107040
+0 Frct, blanches à gris-blanc, croûteuses 04099100521080 Exidiopsis calcea No 110
+0 * Frct, gris-argileux à gris-foncé, céracées Exidiopsis grisea No 130409910152109041
+0 * Sur feuillus, en particulier Fagus (hêtre); frct, minces, céracées. 041101102531100 Exidiopsis effusa No 12 0
+0 Basides urniformes 0429610354111043
+0 * Basides cylindriques à clavées 0429610454112044
+0 * Sp. 5-7 x 2, 5-3 µm 043103105551130 Sistotrema octosporum. No 191 0
+0 Sp. 4-5, 5 x 2-2, 5/j.m 043103106551140 Sistotrema brinkmannii. No 188 0
+0 * Basides clavées; hyphes larges de 1, 5-3 µm 044104107561150 Paullicorticium niveocremeum No 187 0
+0 Basides cylindriques; hyphes larges de 5-12 µm  04410410856116045
+0 * Cloisons rarement bouclées 045108109571170 Botryobasidium médium. No 64 0
+0 Toutes les cloisons bouclées 045108110571180 Botryobasidium subcoronatum No 67 0
+0 Frct, membraneuses, facilement détachables. Hyphes basales non enflées aux cloisons, articles allongés 0469711158119047
+0 * Frct, membraneuses-feutrées ou membraneuses. Hyphes basales enflées aux cloisons et/ou hyphes à articles relativement courts 0469711258120052
+0 * Frctr. céracées, étroitement adhérentes au substrat 0469711358121053
+0 Basides bisporiques (v. aussi No 52) 047111114591220 Athelia arachnoidea No 490
+0 * Basides tétrasporiques 04711111559123048
+0 Basides largement clavées, larges de 5 µm ou plus 04811511660124049
+0 * Basides étroitement clavées, au plus 5 µm de largeur 04811511760125051
+0 Sp. globuleuses à largement elliptiques, 6-7, 5 x 5-5, 5 µm 049116118611260 Athelia neuhoffii No 540
+0 * Sp. elliptiques ou cylindriques 04911611961127050
+0 * Sp. cylindriques, 5-10 x 3, 5-4, 5, µm  050119120621280 Athelia fibulata No 530
+0 Sp. elliptiques, 5-7 x 2, 5-3/Lim 050119121621290 Athelia bombacina No 500
+0 * Sp. elliptiques, 4-5 x 2-2, 5 fin 051117122631300 Fibulomyces mutabilis No 57 0
+0 Sp. étroitement elliptiques, 5-6 x 1, 5-2 µm, partie basale un peu élargie 051117123631310 Fibulomyces septentrionalis No 580
+0 * Hyphes basales non enflées, hyphes à articles relativement courts. Sp. arrondies 052112124641320 Cristinia helvetica No 890
+0 Hyphes basales enflées, hyphes du sous-hyménium à articles courts 052112125641330 Trechispora cohaerens. No 111 0
+0 * Sp. cylindriques arquées, 5, 5-7 x 2-3 µm. Basides à répétitions internes (si spores moins de 2µm de largeur et basides non répétitives = Phlebia subcretacea (Litsch.) Christ.) 053113126651340 Galzinia incrustans No 1860
+0 Sp. elliptiques ou en forme de pépins, 4-4, 5 x 2-2, 5 µm (v. aussi No 175) 053113127651350 Phlebia lilascens No 1740
+0 Frct, bleu vif. Sp. blanches. Dendrohyphides 05498128661360 Pulcherricium caeruleum. No 87 0
+0 * Frct, orange-rouge à vineux ou rouille 0549812966137055
+0 * Frct, blanchâtres, crème ou jaunâtres 0549813066138056
+0 * Frct, roses, membraneuses, céracées, sur Salix et Populustremula 055129131671390 Corticium roseum No 750
+0 Frct, orange-rouge ou vineuses, cartilagineuses, tenaces, sur Salix 055129132671400 Cytidia salicina No 970
+0 Sp. à parois épaisses, cyanophiles 05613013368141057
+0 * Sp. à parois minces, non cyanophiles 05613013468142058
+0 * Sp. ovales, 8, 5-11, 5 x 6-8µm 057133135691430 Hypochnicium bombycinum. No 132 0
+0 Sp. arrondies, 6-7 x 5-6 µm 057133136691440 Hypochnicium lundellii No 134 0
+0 * Sp. 7, 5-9 x 5-7, 5 µm, Basides 30-50 µm de longueur. Frct. crème à gris-ocre. Espèce fréquente 058134137701450 Cerocorticium confluens. No 93 0
+0 Sp. 4, 5-5, 5 x 2-2, 5 µm, Basides 20-30 µm de longueur. Frct, blanches se tachant de lilacé, surface faiblement mérulioïde (si spores 3-3, 5 x 2, 2-2, 5µm, v. No 91) .. 058134138701460 Ceraceomyces serpens. No 90 0
+0 * Structure dimitique (v. aussi No 71 et 72)05947139711470106
+0 Structure monomitique 0594714071148060
+0 La plupart des cloisons bouclées 06014014172149061
+0 * La plupart des cloisons non bouclées 06014014272150094
+0 Plusieurs types de cystides dans la même frct. 06114114373151062
+0 * Présence d'un seul type de cystides 06114114473152068
+0 * Présence de cystides nues ou légèrement incrustées et de gléocystides S - ainsi que de stéphanocystes difficiles à observer (v. aussi No 127) 062143145741530 Hyphoderma praetermissum No 1260
+0 * Présence de lagénocystides et de gléocystides. Frct, faiblement bosselées 062143146741540 Grandinia alutaria No 760
+0 * Présence de lamprocystides et de gléocystides S-. Sp. 12-14 x µm 062143147741550 Hyphoderma mutatum No 125 0
+0 * Présence de leptocystides souvent un peu incrustées ainsi que d'hyphes capitées aux sommets 062143148741560 Hyphoderma argillaceum. No 123 0
+0 Présence simultanée de lamprocystides et de gléocystides S + 06214314974157063
+0 Frct, teintées d'orange ou de rougeâtre 06314915075158064
+0 * Frct, gris-violet, gris-bleu, parfois teintées de rose 06314915175159065
+0 * Sp. 7, 5-9, 5 x 3, 5-4, 5µm 064150152761600 Peniophora incarnata No 147 0
+0 Sp. 14-17 x 7, 5-10 µm, le plus souvent sur A/nus viridis (aune vert) 064150153761610 Peniophora aurantiaca No 146 0
+0 Sur Pinus. Sp. 7, 5-9 x 2, 5-3 µm 065151154771620 Peniophora pini No 1500
+0 * Sur d'autres conifères ou sur feuillus 06515115577163066
+0 Sur divers conifères. Sp. 5, 5-7 x 2, 5-3µm. . 066155156781640 Peniophora pithya No 151 0
+0 * Sur feuillus ou arbustes 06615515778165067
+0 * Souvent sur Populus ou Salix. Gléocystides larges de 10 (12) µm 067157158791660 Peniophora violaceolivida No 155 0
+0 Souvent dans les parcs et les jardins. Gléocystides larges de 16 (20)µm 067157159791670 Peniophora nuda No 1490
+0 Gléocystides uniquement 06814416080168069
+0 * Leptocystides uniquement06814416180169071
+0 * Présence de lamprocystides uniquement (v. aussi No 214) 06814416280170080
+0 * Présence de lyocystides uniquement (Tubulicrinis, No 207 et suivants) 06814416380171085
+0 * Présence de septocystides uniquement (v. aussi No 84) 06814416480172091
+0 Basides urniformes à 6 stérigmates 069160165811730 Sistotrema coroniferum No 1900
+0 * Basides à 2-4 stérigmates06916016681174070
+0 * Basides tétrasporiques. Présence de dendrohyphides (Fig. 4 M). Sur Populus tremula 070166167821750 Peniophora polygonia No 1520
+0 Basides bisporiques 070166168821760 Clavulicium macounii. No 1200
+0 Sp. à parois épaisses, cyanophiles07116116983177072
+0 * Sp. à parois minces, non cyanophiles 07116117083178073
+0 * Sp. arrondies, 4-5 x 3-3, 5 µm 072169171841790 Hypochnicium sphaerosporum. No 1360
+0 Sp. elliptiques, 6, 5-7, 5 x 4, 5-5, 5µm 072169172841800 Hypochnicium geogenium No 1330
+0 Basides dépassant 30 µm de longueur 07317017385181074
+0 * Basides n'atteignant pas 30 µm de longueur 07317017485182076
+0 Présence de dendrohyphides. Basides 50-60 ^m de longueur. Sp. allantoïdes 074173175861830 Corticium macrosporopsis No 74 0
+0 * Absence de dendrohyphides. Sp. elliptiques-ovales 07417317686184075
+0 * Frct, gris-ocracé, opalescentes, céracées. Sp. cylindriques-elliptiques, 7, 5-10 (15) x 3, 5-5, 5 ^m 075176177871850 Phlebia cornea No 1710
+0 Frct, crème, brun-beige ou rougeâtre-ocre. Sp. larmiformes, 8-12 x 5-6 (7, 5) µm, espèce fréquente 075176178871860 Cylindrobasidium evolvens No 92 0
+0 Sp. cylindriques de plus de 10µm de longueur. 076174179881870 Hyphoderma subdefinitum No 130 0
+0 * Sp. n'atteignant pas 10 µm de longueur 07617418088188077
+0 Sp. arrondies 07718018189189078
+0 * Sp. elliptiques 07718018289190079
+0 * Sp. 5-6, 5 x 4-5 µm 078181183901910 Grandinia granulosa No 82 0
+0 Sp. 4, 5-5, 5 x 4-4, 5 µm 078181184901920 Lagarobasidium detriticum No 138 0
+0 * Sp. 3, 5-4 x 2-2, 5 (3) µm. Cystides le plus souvent cloisonnées et bouclées .. 079182185911930 Grandinia pallidula No 84 0
+0 Sp. 5, 5-7 x 2, 5-4 µm 079182186911940 Grandinia cineracea No 800
+0 Basides 12-14 µm de longueur. Cystides étroites, presque aciculaires, 40-70 X 4µm 080162187921950 Subulicystidium longisporum No 206 0
+0 * Basides plus longues 08016218892196081
+0 * Frct, blanchâtres à crème, sans stade Aegerita (petits granules blancs). Sp. 8-9 x 3, 5-4, 5 µm (v. aussi No 123) 081188189931970 Hyphoderma puberum No 127 0
+0 * Frct, blanchâtres à gris-blanchâtre, avec stade Aegerita. Sp. 6, 5-9 x 4, 5-6µm, parois épaisses, cyanophiles 081188190931980 Bulbillomyces farinosus. No 119 0
+0 Frct, gris-bleu teintées de violet ou de rose 08118819193199082
+0 * Marge de la frct, nettement apprimée, le plus souvent sur Fagus et Corylus, espèce fréquente .082191192942000 Peniophora cinerea No 156 0
+0 Marge de la frct, généralement réfléchie 08219119394201083
+0 Sur Tilia uniquement 083193194952020 Peniophora rufomarginata No 1540
+0 * Sur d'autres feuillus 08319319595203084
+0 * Marge de la frct, concolore, le plus souvent sur Quercus et Fagus 084195196962040 Peniophora quercina. No 153 0
+0 Marge de la frct, nettement noirâtre, le plus souvent sur Fraxinus 084195197962050 Peniophora limitata No 1480
+0 Extrémités des cystides aiguës 085163198972060 Tubulicrinis subuiatus No 2120
+0 * Extrémités des cystides arrondies ou capitées 08516319997207086
+0 Sp. arrondies, 3, 5-4, 8 x 4, 5 µm 086199200982080 Tubulicrinis thermometrus No 213 0
+0 * Sp. elliptiques à cylindriques 08619920198209087
+0 Sp. de plus de 2µm de largeur 08720120299210088
+0 * Sp. jusqu'à 2 µm de largeur 08720120399211089
+0 * Sp. 5-6 x 2-2, 5 //.m 0882022041002120 Tubulicrinis borealis No 209 0
+0 Sp. 4-5 x 3-3, 5 µm 0882022051002130 Tubulicrinis accedens No 207 0
+0 La lumière de la cystide s'élargit brusquement au sommet qui atteint 12 ^m de largeur, faiblement amyloïde. Sp. 6-8 x 1, 5-1, 8µm 0892032061012140 Tubulicrinis glebulosus. No 210 0
+0 * Lumière de la cystide s'élargissant insensiblement vers le sommet 089203207101215090
+0 * Cystides faiblement amyloïdes, sommet ne dépassant guère 6 µm de largeur. Sp. 7-9 x 1, 5-2 //.m 0902072081022160 Tubulicrinis angustus No 208 0
+0 Cystides intensément amyloïdes. Sp. 5-7 x 1, 5-1, 8 µm 0902072091022170 Tubulicrinis médius No 2110
+0 Frct, jaunâtres à jaunes, avec rhizomorphes, souvent sur les places à feu 0911642101032180 Amphinema byssoides No 73 0
+0 * Frct, blanchâtres à crème 091164211103219092
+0 Sp. à parois épaisses et cyanophiles, 6, 5-8 (10) x4-5(6) µm. Cystides longues de 200-300 µm0922112121042200Hyphodermopsis polonensis No 1400
+0 * Sp. à parois minces, non cyanophiles 092211213104221093
+0 * Sp. 3-3, 5 x 2, 2-2, 5 µm. Cystides peu nombreuses ou rares, longues de 50-60 µm 0932132141052220 Ceraceomyces sublaevis No 910
+0 Sp. 9-10 x 4-4, 5 µm. Cystides atteignant 220 µm de longueur 0932132151052230 Hyphoderma setigerum. No 120
+0 * Présence de septocystides uniquement, cloisons non bouclées. Basides 15-20 x 4-5 µm 0941422161062240 Scopuloides septocystidia No 1670
+0 Présence de gléocystides seulement. Phragmobasides. Frct, céracées, gélatineuses 0941422171062250 Basidiodendron caesiocinereum No 100
+0 * Pas de cystide. Présence de soies brunes0941422181062260101
+0 * Présence de leptocystides seulement 8 Sp. Arrondies 094142219106227095
+0 * Présence de lamprocystides uniquement (parfois présence de leptocystides incrustées)094142220106228098
+0 * Cystides capitées, à parois minces. Sp. 7, 5-11 x 7-9 µm. 0952192211072290 Hyphoderma capitatum. No 124 8* Sp. Elliptiques 0
+0 Cystides à parois épaisses, subulées. Sp. 5, 5-7 x 5, 5-6µm 0952192221072300 Subulicium rallum No 2050
+0 Frct, blanchâtres, teintées de rouge. Le bois colonisé est souvent taché de rouge. Cystides souvent incrustées au sommet 0952192231072310 Phanerochaete sanguinea No 161 0
+0 * Frct, blanchâtres à crème-ocre, sans teinte rouge 095219224107232096
+0 Présence de rhizomorphes. Cystides fusiformes. Basides longues de 25-35µm 0962242251082330 Phanerochaete calothrica. No 1590
+0 * Pas de rhizomorphe096224226108234097
+0 * Cystides fusiformes, souvent incrustées, larges de 6-10 µm. Basides longues de 25-30 µm .0972262271092350 Phanerochaete sordida No 1620
+0 Cystides cylindriques, clavées, larges de 4-5 µm. Basides 35-45 µm de longueur 0972262281092360 Phlebia deflectens s. lat No 1730
+0 Frct, blanchâtres avec teintes rouges. Leptocystides incrustées au sommet 0982202291102370 Phanerochaete sanguinea No 1610
+0 * Frct, sans teinte rouge098220230110238099
+0 * Sur Pinus. Frct, céracées à l'état frais, croûteuses à l'état sec et se détachant sur les bords 0992302311112390 Phlebiopsis gigantea No 1650
+0 Frct, virant au vineux en présence de KOH. Rhizomorphes blancs à jaunes 0992302321112400 Phanerochaete filamentosa. No 1600
+0 * Frct, non modifiées par le KOH. Sur feuillus, rarement sur conifères et alors pas sur Pinus0992302331112410100
+0 * Cystides larges de 4-7, 5 µm. Hyphes du subiculum à parois minces, lisses, pourvues de quelques rares boucles 01002332341122420 Phanerochaete laevis No 1580
+0 * Cystides larges de 6-10 µm, souvent faiblement incrustées. Hyphes du subiculum souvent incrustées. Hyménium se tachant parfois de rouge en présence de KOH 01002332351122430 Phanerochaete sordida. No 1620
+0 Cystides larges de 10-15µm. Rhizomorphes blancs souvent présents. Hyphes du subiculum souvent garnies de Cristaux 01002332361122440 Phanerochaete velutina. No 1640
+0 Frct, rouge vif, devenant vineuses à brun-rouge 01012182371132450 Hymenochaete cruenta. No 2950
+0 * Frct, colorées différemment 01012182381132460102
+0 * Sur conifères. Hyménium brun foncé à chocolat .. 01022382391142470 Hymenochaete fuliginosa No 294 0
+0 Sur feuillus ou arbustes01022382401142480103
+0 Sur Quercus et Castanea 01032402411152490 Hymenochaete rubiginosa No 2960
+0 * Sur Corylus et feuillus01032402421152500104
+0 * Frct, résupinées uniquement si elles sont disposées à la face infère du support, sinon étalées-réfléchies. Hyménium zoné concentriquement, brun tabac, bordé d'un liseré plus clair, jaune-brun 01042422431162510 Hymenochaete tabacina No 2970
+0 Frct, entièrement résupinées01042422441162520105
+0 * Frct, à hyménium lisse, veloutées, cannelle à rouge-brun. Soies lisses au sommet .. 01052442451172530 Hymenochaete cinnamomea No 2920
+0 Surface hyméniale finement fendillée ou aréolée, gris-brun à ocre-brun. Soies finement incrustées au sommet 01052442461172540 Hymenochaete corrugata. No 2930
+0 Hyphes génératrices non bouclées. 01061392471182550 Gléocystides présentes. Hyphes0
+0 squelettiques fortement ramifiées et dextrinoïdes 01061392481182560 Scytinostroma odoratum. No 990
+0 * Hyphes génératrices bouclées01061392491182570107
+0 Présence de gléocystides clavées ou vésiculeuses. Odeur de noix de coco. Le plus souvent sur Picea 01072492501192580 Cystostereum murraii No 960
+0 * Caractères différents01072492511192590108
+0 * Cystides (pseudocystides) issues de la trame, brunes, parois épaisses, incrustées au sommet. Sp. ovales, 5, 5-7 x 3, 5-4, 5µm. Sur feuillus 01082512521202600 Lopharia spadicea No 2400
+0 Cystides à parois minces, ventrues-fusiformes, sommets souvent recouverts d'une masse résineuse brunâtre. Sp. fusiformes, 7-9 (10) x 3-3, 5 (4, 5)µm. Sur conifères 01082512531202610 Merulicium fusisporum. No 1430
+0 Sp. non amyloïdes0109152541212620110
+0 * Sp. amyloïdes0109152551212630122
+0 Pas de cystide, pas d'élément cystidiforme ni de soie. Structure monomitique. La plupart des hyphes bouclées (si spores blanchâtres et présence de dendrohyphides, v. No 87)01102542561222640111
+0 * Présence de cystides, d'éléments cystidiformes ou de soies 01102542571222650117
+0 Sp. tétraédriques ou irrégulièrement et grossièrement bosselées01112562581232660112
+0 * Sp. différentes01112562591232670113
+0 * Sp. irrégulièrement et grossièrement bosselées 01122582601242680 Tylospora fibrillosa No 2160
+0 Sp. tétraédriques 01122582611242690 Tylospora asterophora No 2150
+0 Présence de pleurobasides. Sp. largement elliptiques, verruqueuses (verrues non solubles dans le KOH), 4-6 x 3, 5-5 µm 01132592621252700 Xenasmatella tulasnelloidea No 2230
+0 * Basides terminales 01132592631252710114
+0 Sp. elliptiques01142632641262720115
+0 * Sp. arrondies01142632651262730116
+0 * Frct, ocres ou couleur de miel. Présence de fins rhizomorphes. Hyménium insensible au KOH 01152642661272740 Trechispora christiansenii No 1100
+0 Frct, jaunes avec rhizomorphes jaunes. Hyménium virant au vineux en présence de KOH 01152642671272750 Trechispora vaga No 1170
+0 * Sp. finement ruguleuses, parois épaissies, 6-8, 5 x 5, 5-7, 5µm. 01162652681282760 Granulobasidium vellereum No 1220
+0 Sp. à verrues obtuses, 3-3, 5 x 2, 5-3µm 01162652691282770 Trechispora microspora. No 1140
+0 Structure monomitique, la plupart des cloisons bouclées01172572701292780118
+0 * Structure monomitique, la plupart des cloisons non bouclées. Asterosetae étoilées01172572711292790121
+0 * Présence de lamprocystides parfois entourées d'hyphes. Sp. arrondies, 4, 5-7 x 4-6 µm, finement verruqueuses ou lisses 01182702721302800 Litschauerella clematidis. No 2140
+0 Présence de leptocystides01182702731302810119
+0 * Basides terminales. Sp. à parois épaisses, verrues obtuses, 6-8 x 5-6, 5µm 01192732741312820 Hypochnicium punctulatum No 1350
+0 Pleurobasides. Sp. finement verruqueuses, verrues solubles dans le KOH01192732751312830120
+0 * Sp. 8-9 x 4, 5-5 µm. Basides tétrasporiques. Verrues sporiques disposées en spirales 01202752761322840 Xenasma pulverulentum. No 2220
+0 Sp. 5, 5-7, 5 x 3, 5-4µm. Basides à 4-6 stérigmates .. 01202752771322850 Xenasma pruinosum No 2210
+0 * Asterosetae à (4) 6-8 (9) bras. Sp. arrondies, verrues obtuses digitées, 5, 5-6 µm 01212712781332860 Asterostroma ochroleucum. No 2910
+0 Asterosetae à (4) 5 (6) bras. Sp. ± elliptiques, grossièrement verruqueuses, 6-7, 5 x 4-5, 5 µm 01212712791332870 Asterostroma médium No 2900
+0 Structure monomitique, la plupart des cloisons non bouclées01222552801342880123
+0 * Pas de cystide. Sp. petites, arrondies, verruqueuses, 5-6µm, 01232802811352890 Pleurobasides Xenasmatella decipiens. No 218 4* Structure monomitique, la plupart des cloisons bouclées0
+0 Absence de cystide. Sp. arrondies, échinulées, grandes, 25-30 x 22-25 µm 01232802821352900 Aleurodiscus amorphus. No 45 0
+0 Frct, sur écorce de Quercus vivant, formant des taches allongées. Basides 80-100 µm de longueur 01232802831352910 Aleurodiscus disciformis. No 460
+0 * Frct, étalées. Basides ne dépassant pas 35 µm de longueur01232802841352920124
+0 Sp. arrondies, 4, 5-6µm, Gléocystides S + 01242842851362930 Boidinia furfuracea No 1030
+0 * Sp. elliptiques01242842861362940125
+0 * Gléocystides S-. Sp. 3, 5-4 x 2, 5-3µm. Frct, étalées-réfléchies. 01252862871372950 Laxitextum bicolor No 1060
+0 Gléocystides S+. Sp. 4, 5-5, 5 x 2, 5-3µm 01252862881372960 Gloeocystidiellum porosum. No 1050
+0 Structure monomitique, la plupart des cloisons non bouclées0126162891382970127
+0 * Structure monomitique, la plupart des cloisons bouclées 0126162901382980130
+0 Sp. violettes, parois épaisses. Frct, rouge-violet 01272892911392990 Hypochnella violacea No 1410
+0 * Sp. jaunâtres à brunâtres01272892921393000128
+0 Sp. jaunâtres à grosses guttules, 9-12 x 6, 8-8 µm. Frct, jaune pâle à jaune citron 01282922931403010 Membranomyces spurius. No 1370
+0 * Sp. brun clair, parois épaisses, non guttulées. Frct, ocre-brun à olive-brun01282922941403020129
+0 * Frct, atteignant 0, 5-1 mm d'épaisseur 01292942951413030 Coniophora puteana No 2380
+0 Frct, atteignant 0, 3 mm d'épaisseur 01292942961413040 Coniophora arida No 2360
+0 Pas de cystide01302902971423050131
+0 * Présence de cystides01302902981423060132
+0 * Basides 30-35 x 5, 5-7 µm. Sp. 6-7, 5 x 4-5 µm, cyanophiles 01312972991433070 Leucogyrophana pseudomollusca No 2410
+0 Basides 10-12 x 2, 5-3, 5 ^m. Sp. 3, 5-4, 5 x 2, 5-3 µm, cyanophiles. . 01312973001433080 Hypochniciellum ovoideum No 590
+0 * Septocystides incrustées . Sp elliptiques 8-10.5 x 4.5-5.5 µm 01322983011443090 Coniophora olivacea No 2370
+0 Leptocystides. Sp. fusiformes, parois épaisses, 10-19 x 4, 5-7µm. . 01322983021443100 Jaapia ochroleuca No 2390
+0 Structure dimitique0133173031453110134
+0 * Structure monomitique0133173041453120135
+0 * Pas de cystide. Sp. verruqueuses à échinulées 01343033051463130 Pseudotomentella mucidula No 2530
+0 Septocystides fasciculées, brunes. Sp. verruqueuses, verrues en partie formées de 2 bosses 01343033061463140 Tomentellina fibrosa No 2510
+0 Cloisons non bouclées. Pas de cystide. Sp. arrondies, à échinules pointues 01353043071473150 Tomentellopsis echinospora No 2520
+0 * Cloisons bouclées 01353043081473160136
+0 Pas de cystide01363083091483170137
+0 Présence de cystides01363083101483180142
+0 Basides 15-20 x 9-10 µm. Sp. 7-9, 5µm, arrondies 01373093111493190 Botryohypochnus isabellinus No 690
+0 * Basides plus grandes01373093121493200138
+0 Frct, crème à jaune soufre; odeur alliacée désagréable 01383123131503210 Trechispora fastidiosa No 1130
+0 * Frct, colorées différemment, inodores01383123141503220139
+0 Basides 60-90 µm de longueur, ventrues. Eléments clavés-vésiculeux dans l'hyménium 01393143151513230 Tomentella terrestris No 2500
+0 * Basides plus courtes01393143161513240140
+0 Pas de cordonnet mycélien. Sp. 8-10 µm, arrondies, à échinules pointues. Subiculum plus foncé que l'hyménium (état sec) 01403163171523250 Tomentella bryophila No 2440
+0 * Présence de cordonnets mycéliens01403163181523260141
+0 * Cordonnets atteignant 120 µm de largeur. Sp. arrondies, 6-8 x 5, 5-7 µm. Hyménium et subiculum concolores. 01413183191533270 Tomentella griseoviolacea No 2470
+0 Cordonnets mycéliens atteignant 40 µm de largeur. Sp. arrondies, 6-7, 5 µm. Subiculum plus clair que l'hyménium (état sec) 01413183201533280 Tomentella ferruginella. No 2460
+0 * Cystides cylindriques-clavées, parfois cloisonnées et non bouclées, hyalines, atteignant 170 x 10 µm 01423103211543290 Tomentella subclavigera. No 2490
+0 Cystides lisses, clavées, jaune-brun, 50-100 x 12µm. Cordonnets mycéliens larges jusqu'à 200 µm 01423103221543300 Tomentella pilosa No 2480
+0 Sp. hyalines ou faiblement colorées (microscope), lisses (immersion)0143113231553310144
+0 * Sp. ornées (microscope), échinulées, verruqueuses0143113241553320170
+0 Sp. non amyloïdes01443233251563330145
+0 * Sp. amyloïdes01443233261563340169
+0 Pas de cystide ou d'élément cystidiforme, pas de soie01453253271573350146
+0 * Présence de cystides01453253281573360153
+0 La plupart des cloisons non bouclées01463273291583370147
+0 * La plupart des cloisons bouclées01463273301583380148
+0 * Basides non cloisonnées (holobasides), pédicellées. Sommets des dents formées d'hyphes terminales fasciculées et incrustées 01473293311593390 Hyphodermella corrugata .No 1310
+0 Basides cloisonnées longitudinalement (phragmobasides). Frct, céracées, molles, gris-ocre. Sp. rondes 01473293321593400 Protodontia piceicoia No 180
+0 Basides cloisonnées longitudinalement (phragmobasides). Frct, roses, céracées, molles. Sp. 12-18 x 6-7µm 01483303331603410 Eichleriella deglubens No 170
+0 * Basides non cloisonnées (holobasides)01483303341603420149
+0 Basides longues jusqu'à 20 µm (v. aussi No 288)01493343351613430150
+0 * Basides dépassant 20 µm de longueur (v. aussi No 287)01493343361613440151
+0 * Basides 13-15 µm de longueur. Sp. cylindriques à elliptiques, 4-5, 5 x 1, 5-2 µm 01503353371623450 Mycoacia aurea No 1680
+0 Basides 12-18 µm de longueur. Sp. arrondies, 3, 8-5, 3 x 3-4, 2 µm. Hyphes du sous-hyménium à articles courts et partiellement enflés 01503353381623460 Brevicellicium olivascens. No 1160
+0 Sur Malus (parasite). Basides 20-30 µm de longueur. Sp. arrondies. Frct, à odeur forte et désagréable 01513363391633470 Sarcodontia setosa No 1790
+0 * Sur autres supports01513363401633480152
+0 * Sur Carex, Typha et Scirpus. Sp. 22-28 x 6, 5-8 µm. 01523403411643490 Epithele typhae No 1020
+0 * Sur divers feuillus. Basides 30-40 µm de longueur. Sp. arrondies, parois épaisses, 5-7µm. Frct, jaune soufre .01523403421643500 Cristinia gallica No 880
+0 Sur Quercus. Basides mesurant environ 50 µm de longueur. Sp. 8-11 x 5-7 µm 01523403431643510 Cerocorticium molare. No 940
+0 Présence simultanée de plusieurs types de cystides01533283441653520154
+0 * Présence d'un seul type de cystides 01533283451653530157
+0 Structure monomitique, la plupart des cloisons non bouclées. Lamprocystides particulièrement nombreuses avec quelques septocystides incrustées. Frct, céracées 01543443461663540 Scopuloides rimosa No 1660
+0 * Structure monomitique, la plupart des cloisons bouclées01543443471663550155
+0 Halocystides vésiculeuses. Cystidioles ornées d'une mâcle cristalline étoilée au sommet 01553473481673560 Resinicium bicolor No 1780
+0 * Présence de lamprocystides, de leptocystides et de septocystides 01553473491673570156
+0 * Leptocystides rarement pourvues d'une cloison. Sp. 4, 5-5, 5 x 3, 5-4 µm, Frct, odontioïdes 01563493501683580 Grandinia arguta No 770
+0 Septocystides à 2-4 cloisons bouclées. Sp. 5-6 x 4-4, 5µm. Frct. faiblement verruqueuses 01563493511683590 Grandinia alutaria No 760
+0 * Présence de lamprocystides uniquement, cylindriques, nombreuses. Frct. verruqueuses pourvues de rhizomorphes très nets (v. aussi No 194) 01573453521693600 Steccherinum imbriatum. No 193 0
+0 * Présence de septocystides seulement, fasciculées dans les aiguillons dont les sommets sont brunâtres ou ornés d'une guttule 01573453531693610 Dacryobolus sudans No 980
+0 Gléocystides S - seules présentes01573453541693620158
+0 * Présence de leptocystides uniquement ou d'hyphes à terminaisons capitées01573453551693630159
+0 * Holobasides. Structure dimitique. Hyphes génératrices bouclées. Dendrohyphides présentes. Frct, à surface grossièrement verruqueuse ou échinulée 01583543561703640 Crustomyces subabruptusNo 950
+0 Phragmobasides. Hyphes peu visibles. Frct, minces, céracées. Surface finement verruqueuse. Sp. arrondies, 4-5 x 3-4 ^m .. 01583543571703650 Stypella vermiformis No 160
+0 Frct, nettement raduloïdes ou hydnoïdes. Dents dépassant 1 mm de longueur01593553581713660160
+0 * Frct, hydnoïdes, dents atteignant moins de 1 mm de longueur, verruqueuses ou presque lisses à l'état jeune01593553591713670162
+0 Dents obtuses, cylindriques, éparses. Le plus souvent sur Prunus avium. Sp. 8, 5-10 x 3-3, 5 µm 01603583601723680 Hyphoderma radula No 1280
+0 * Dents serrées, subulées, pointues; hyménium virant au vineux en présence de KOH01603583611723690161
+0 * Frct, blanchâtres, puis ocre-jaune à brun-noir. Sp. 4, 5-5, 5 x 2-2, 5 µm 01613613621733700 Mycoacia fuscoatra No 1690
+0 Frct, jaune soufre à jaune de cire. Sp. 5-6 x 2-3µm. 01613613631733710 Mycoacia uda No 1700
+0 Frct, nettement hydnoïdes 01623593641743720163
+0 * Frct, indistinctement hydnoïdes, verruqueuses-bosselées ou presque lisses01623593651743730167
+0 Sp. arrondies01633643661753740164
+0 * Sp. elliptiques01633643671753750165
+0 * Sp. 5-6, 5 x 4-5 µm. Cystides capitées longues de 30-50 Mm 01643663681763760 Grandinia granulosa No 820
+0 Sp. 4, 5-6 x 3, 5-4, 5µm. Cystides cylindriques atteignant 280 µm de longueur 01643663691763770 Grandinia barbajovis. No 780
+0 * Cystides fusiformes, subulées. Basides en partie à répétitions. Sp. 5-6, 5 x 2, 5-3 µm 01653673701773780 Grandinia crustosa No 810
+0 Cystides moniliformes et hyphes à terminaisons capitées. Sp. 4-5 x 2, 5-3, 5 µm 01653673711773790 Grandinia breviseta No 790
+0 * Hyphes à terminaisons cystidiformes au sommet des dents, parfois cloisonnées, ornées de gros cristaux. Sp.01653673721773800166
+0, 5-5, 5 x 2, 3-2, 8 ^m 01663723731783810 Grandinia nespori No 830
+0 Sp. n'atteignant pas 6 µm de longueur, cylindriques, faiblement allantoïdes, 4, 5-5 x 2-2, 5 µm, Frct, verruqueuses-bosselées (v. aussi No 174) 01673653741793820 Phlebia livida No 1750
+0 * Sp. 6-8 µm de longueur01673653751793830168
+0 * Cystides à parois épaisses, cylindriques, atteignant 130 (200) µm de longueur. Sp. 6, 5-8 x 1, 5-2 µm. . 01683753761803840 Grandinia subalutacea No 86 0
+0 Cystides à parois minces, cylindriques-fusiformes, parfois moniliformes et capitées, longues de 70-80 µm. Sp. 7-8 x 1, 5-2 µm 01683753771803850 Grandinia stenospora No 850
+0 * Frct, ornées de fines dents longues de 4-10 mm. Gléocystides fusiformes. Basides 20-35 x 4, 5-7, 5µm 01693263781813860 Dentipellis fragilis No 2850
+0 Frct, verruqueuses-bosselées, céracées, croûteuses. Gléocystides sinueuses. Basides 45-55 x 7-10 µm 01693263791813870 Megalocystidium leucoxanthum No 1080
+0 Sp. hyalines, finement verruqueuses, I -, 3, 5-4 x 2, 5-3µm. Frct, presque lisses, farineuses ou nettement verruqueuses-échinulées 01703243801823880 Trechispora farinacea No 1120
+0 * Sp. brunâtres à jaunâtres01703243811823890171
+0 * Frct, brun-rouille à brun-foncé, verruqueuses ou un peu hydnoïdes, ornées de rhizomorphes. Sp. grossièrement verruqueuses 01713813821833900 Tomentella crinalis No 2450
+0 Frct, ornées de dents verdâtres longues de 1-3 mm disposées sur un subiculum blanc. Sp. finement verruqueuses 01713813831833910 Kavinia alboviridis No 600
+0 Pas de cystide. Sp. jaunâtres0172123841843920173
+0 * Présence de cystides. Sp. hyalines0172123851843930174
+0 * Frct, blanchâtres, crème, brun rouge au centre. Dangereux parasite sur bois d'œuvre, à l'intérieur des habitations 01733843861853940 Serpula lacrimans No 2420
+0 Frct, orange à brun doré. Sur conifères, en particulier sur Pinus. Se développe en plein air 01733843871853950 Pseudomerulius aureus No 2430
+0 * Frct, non radialement cannelées, mérulioïdes à porées 01743853881863960 Phlebia rufa No 1760
+0 Frct, radialement cannelées, ondulées-gibbeuses 01743853891863970 Phlebia radiata No 1770
+0 Sp. hyalines ou faiblement colorées (microscope), non amyloïdes, lisses (microscope) 0175133901873980176
+0 * Sp. hyalines ou faiblement colorées (microscope), non amyloïdes, verruqueuses0175133911873990206
+0 * Sp. jaunâtres à brunâtres (microscope) 0175133921874000207
+0 Pas de cystide ou d'élément cystidioïde. Pas de soie 01763903931884010177
+0 * Présence de cystides ou d'éléments cystidioïdes, ainsi que de soies01763903941884020198
+0 Structure monomitique01773933951894030178
+0 * Structure dimitique01773933961894040189
+0 La plupart des cloisons non bouclées 01783953971904050179
+0 * La plupart des cloisons bouclées01783953981904060184
+0 En général sur conifères01793973991914070180
+0 * Le plus souvent sur feuillus. Frct, molles, charnues01793974001914080182
+0 Sur Pinus uniquement. Hyménophore réticulé-poré à mérulioïde, orange-brun à rouge-brun 01803994011924090 Meruliopsis taxicola No 1570
+0 * Sur d'autres conifères01803994021924100181
+0 * Frct, ouateuses, molles, se développant à la face infère des substrats, blanches au début, puis rose-lilas ou violettes, se tachant de rougeâtre au toucher. 1-3 pores par mm. Sp. 3, 5-4, 5 x 2-2, 5µm 01814024031934110 Ceriporia excelsa No 3710
+0 Frct, céracées, cartilagineuses, crème, souvent sur souches et étendues, se tachant de rouge-brun au toucher ou avec l'âge. 3-5 pores par mm. Sp. rondes de 5-6 µm de diamètre 01814024041934120 Physisporinus sanguinolentus. No 3770
+0 Frct, blanches à crème, 3-5 pores par mm. Sp. 7-8, 5 x 2, 5-3 µm. 01824004051944130 Ceriporia reticulata No 3730
+0 * Frct, blanches au début seulement, puis rougeâtres, violettes ou verdâtres01824004061944140183
+0 * 1-3 pores par mm. Frct, blanchâtres au début, puis lilas-rose à violettes, se tachant de rougeâtre au toucher. Sp. 3, 5-4, 5 x 2-2, 5 µm 01834064071954150 Ceriporia excelsa No 3710
+0 * 3-5 (6) pores par mm. Frct, blanchâtres au début, puis se tachant de rose-violet, de verdâtre ou de pourpre (surtout à la dessiccation); ne change pas de couleur au toucher. Sp. 3, 4-5 x 1, 5-2/«.m 01834064081954160 Ceriporia viridans No 3740
+0 Frct, crème à roses, puis pourpres-vineuses, se tachant rapidement de pourpre au toucher ou par le KOH. Sp. 6-7 x 2-2, 3 µm. 01834064091954170 Ceriporia purpurea No 3720
+0 Frct, formées d'un stroma s'étalant sur 3-10 mm et portant des cupules serrées de 0, 2-0, 4 mm. Dans les couronnes des Abies 01843984101964180 Stigmatolemma conspersum No 2340
+0 Frct, distinctement porées01843984111964190185
+0 Frct, roses, épaisses de 5-10 (20) mm 01854114121974200 Tyromyces placenta No 3390
+0 * Frct, colorées différemment et plus minces01854114131974210186
+0 Sp. arrondies, petites, 2, 5-3, 5 x 2-2, 5µm. Frct, blanches. 01864134141984220 Porpomyces mucidus No 410 0
+0 * Sp. elliptiques et plus grandes01864134151984230187
+0 Sp. n'atteignant pas 2 µm de largeur, 3, 5-4, 5 x 0, 5-1 µm, 5-8 pores par mm. Frct, blanchâtres avec des teintes verdâtres 01874154161994240 Gloeoporus pannocinctus No 3670
+0 * Sp. plus larges. Hyphes métachromatiques (si hyphes non métachromatiques et pores noircissant au toucher, v. No 329) 01874154171994250188
+0 * Frct, blanchâtres avec reflets roses, se tachant de brun- rouge au toucher. Sur divers feuillus 01884174182004260 Ceriporiopsis gilvescens No 3750
+0 Frct, blanchâtres à brunâtres, ne se tachant pas au toucher. Le plus souvent sur Salix 01884174192004270 Ceriporiopsis resinascens No 3760
+0 Hyphes génératrices non bouclées. Frct, dures, ligneuses, brunes, 5-7 pores par mm. Le plus souvent sur Salix 01893964202014280 Phellinus punctatus No 3210
+0 * Hyphes génératrices bouclées01893964212014290190
+0 Frct, formées d'un subiculum ouateux-fibrilleux portant de petites cupules serrées (aspect poré) 01904214222024300 Stromatoscypha imbriata No 2320
+0 * Frct, porées ou irpicoïdes (pores déchirés)01904214232024310191
+0 Frct, irpicoïdes, blanches à crème. Espèce fréquente 01914234242034320 Schizopora paradoxa No 3800
+0 * Frct, porées01914234252034330192
+0 Hyphes squelettiques rapidement solubles dans le KOH. . 01924254262044340 Cinereomyces lindbladii. No 346 0
+0 * Hyphes squelettiques non solubles dans le KOH01924254272044350193
+0 Hyphes génératrices fortement incrustées sur les dissépiments01934274282054360194
+0 * Hyphes génératrices non incrustées01934274292054370195
+0 * Frct, gris-blanchâtre avec reflets carnés à l'occasion. Sp. 3-4 x 1-1, 5, µm  Espèce fréquente 01944284302064380 Skeletocutis carneogrisea. No 3630
+0 Frct, lilas, violettes avec une composante grise. Sp. 3-3, 5 x 0, 8-1 µm. Espèce rare 01944284312064390 Skeletocutis lilacina No 3640
+0 Sp. largement ovales, obtuses, 5-6 x 3, 5-5 µm. Sur Quercus 01954294322074400 Perenniporia medullapanis No 3690
+0 * Sp. différentes01954294332074410196
+0 Sur conifères, ie plus souvent sur Picea. Sp. 6, 5-9 x 3-4 ^m 01964334342084420 Antrodia serialis No 3410
+0 * Sur feuillus, rarement sur conifères01964334352084430197
+0 * Sp. 7-9, 5 x 2, 5-3, 5 ^m. Frct, crème à brun clair. Pores 1, 5-2 par mm (si présence d'une ligne noire entre la trame et le substrat, v. No 348). 01974354362094440 Antrodia malicolaNo 3400
+0 * Sp. 9-12, 5 x 3, 5-4, 5 µm. Frct, crème à couleur de bois paie. Marge noirâtre. Pores 1-2 par mm 01974354372094450 Dichomitus campestris. No 3500
+0 Sp, 4-5 x 1-1, 5 µm, Frct, jaune pâle à jaunes. 01974354382094460Antrodia xantha No 3420
+0 Présence de cystides ± incrustées (si frct, teintées de violet, v. No 360)01983944392104470199
+0 * Présence de soies01983944402104480201
+0 * Présence de lamprocystides et de leptocystides. Structure monomitique. Cloisons bouclées. Frct, jaune-orange lumineux 01994394412114490 Auriporia aurulenta No 3280
+0 Cystides à parois ± épaisses, incrustées au sommet. Structure monomitique. Cloisons non bouclées. Frct, annuelles, blanches, ne se tachant pas, cartilagineuses, saprophytes (si pérennes, parasites sur feuillus, à tubes stratifiés, à chair molle succulente, voir No 379)01994394422114500 Physisporinus vitreus. No 3780
+0 * Skeletocystides incrustées au sommet. Structure dîmitique. Hyphes génératrices bouclées01994394432114510200
+0 * Sur feuillus. Hyphes squelettiques non cyanophiles. Sp. 4-4, 5 x 2-2, 5 µm. Frct, orange-saumon 02004434442124520 Junghuhnia nitida No 3820
+0 Sur conifères. Hyphes squelettiques cyanophiles, Sp. 5-6 x 1, 8-2, 3 µm, Frct, blanchâtres à jaunâtres 02004434452124530 Junghuhnia luteoalba, No 3810
+0 Sur conifères. Pores 5-7 par mm (si 2-3 par mm, v. No 311)02014404462134540202
+0 * Sur feuillus02014404472134550204
+0 Frct, pourvues d'une ligne noire entre la chair et la couche des tubes. Sp. 5, 5-6, 5 x 1, 8-2, 5µm. Pas d'hyphe sétale 02024464482144560 Pheliinus nigrolimitatus. No 3200
+0 * Frct, sans ligne noire entre la chair et la couche des tubes. Sp. allantoïdes, 02024464492144570203
+0 -5 x 1, 5-1, 8 ^m. Présence d'hyphes sétales brun-foncé 02034494502154580 Pheliinus ferrugineofuscus No 3120
+0 Sur Betula. Sp, 4-5 x 3, 5-4 ^m. Pas de soie dans la trame. Hyphes squelettiques parallèles dans les dissépiments (si irrégulières, v. No 318) 02044474512164590 Pheliinus laevigatus No 3170
+0 * Sur d'autres feuillus02044474522164600205
+0 * 2-3 pores par mm. Soies mycéliennes dépassant à peine 150 ^m de longueur. Sp. 6-7 x 3-3, 5 ^m 02054524532174610 Pheliinus contiguus No 3110
+0 5-6 pores par mm. Longues soies mycéliennes (jusqu'à 500 ^m). Sp. 4, 5-5, 5 x 3-3, 5 µm 02054524542174620 Pheliinus ferruginosus No 3130
+0 * Frct, subéreuses, molles, épaisses jusqu'à 10 mm, ocre-brun. Structure trimitique. Sp. 9, 5-13 x 6-7 µm. verrues disposées longitudinalement 02063914552184630 Pachykytospora tuberculosa. No 3680
+0 Frct, molles charnues, blanches, très minces. Structure monomitique. Cloisons bouclées. Sp. 4-5 x 3-4 ^m 02063914562184640 Trechispora mollusca No 115 0
+0 * Sp. échinulées ou crêtées, arrondies, 7-8 µm de diamètre. Frct, jaune d'or. 02073924572194650 Lindtneria trachyspora No 1420
+0 Sp. lisses02073924582194660208
+0 * Sp. 8-10 x 5-7, 5 µm (stade parfait). Chlamydospores 7-10 x 3, 5-5, 5 µm. Absence de macrosetae. Sur Betula. (Stade imparfait à frct, tuberculeuses noires) .02084584592204670Inonotus obliquus No 3060
+0 Sp. 4-4.5 x       µm. Présence de macrosetae. Sur Fagus (v. aussi No 305) 02084584602204680Inonotus hastifer No 3030
+0 B0-204611047100
+0 * Hyménium distinctement verruqueux, échinulé, orné d'aiguillons ou de dents éparses020924622214730223
+0 Hyménium mérulioïde à phléboïde020924632214740225
+0 * Hyménium poré, réticulé-poré ou irpicoïde (pores déchirés)020924642214750227
+0 Hyménium lisse, inégal, faiblement bosselé à distinctement verruqueux020924652214760210
+0 * Sp. brunâtres (microscope), verruqueuses, échinulées. Frct, entièrement brunes, s'étalant sur le sol ou envahissant les végétaux 02104654662224770 Thelephora terrestris. No 2560
+0 Sp. hyalines ou faiblement colorées (microscope), lisses immersion)02104654672224780211
+0 Sp. non amyloïdes (parfois faiblement I +, en particulier chez certaines espèces du genre Stereum; v. 3*)02114674682234790212
+0 * Sp. amyloïdes02114674692234800217
+0 Présence de cystides02124684702244810213
+0 * Présence de soies02124684712244820216
+0 Leptocystides hyméniales et terminaisons d'hyphes vésiculeuses dans la trame. Spores cylindriques-elliptiques. Frct, violettes (si frct, crème à ocres, dépourvues d'élément vésiculeux et à spores larmiformes, v. No 92). . 02134704722254830 Chondrostereum purpureum No 198 0
+0 * Cystides brunâtres ± incrustées 02134704732254840214
+0 * La plupart des cloisons non bouclées. Frct, teintées de brun. Sp. 12-14, 5 x 3, 8-4, 2 ^m. Sur Picea 02144734742264850 Columnocystis ambigua. No 720
+0 La plupart de cloisons bouclées02144734752264860215
+0 * Sur conifères, en particulier sur Picea. Frct, teintées de gris ou de lilas. Sp. 9-12.5 x 4-4, 5µm 02154754762274870 Columnocystis abietina. No 710
+0 Sur feuillus, en particulier sur Fagus. Frct, teintées de brun. Sp. 5, 5-7 x 3, 5-4.5 ^m 02154754772274880 Lopharia spadicea No 2400
+0 * Sur d'autres feuillus et arbustes. Frct, couleur tabac à bords plus clairs, tenaces. Sp. 4, 5-7 x 1, 5-2, 5 µm 02164714782284890 Hymenochaete tabacina No 2970
+0 Sur Quercus ou Castanea. Frct, brun-rouge, dures, cassantes. Sp. 4-6, 5 x 2, 5-3, 5 µm 02164714792284900 Hymenochaete rubiginosa. No 2960
+0 * Présence de lamprocystides. Frct, gris-brun, violacées. Sur Picea. Sp. 5-6 x 2, 5-3 µm 02174694802294910 Amylostereum areolatum No 1950
+0 Pas de cystide. Présence d'hyphes à articles terminaux excréteurs ou non 02174694812294920218
+0 Frct, rougissant au toucher02184814822304930219
+0 * Frct, ne rougissant pas au toucher 02184814832304940221
+0 Sur conifères 02194824842314950 Stereum sanguinolentum No 2030
+0 * Sur feuillus02194824852314960220
+0 * Le plus souvent sur Quercus et Castanea. Frct, élastiques et tenaces 02204854862324970 Stereum gausapatum No 1990
+0 Sur divers feuillus. Frct, le plus souvent résupinées, dures, et cassantes 02204854872324980 Stereum rugosum No 2020
+0 Hyménium jaune à jaune-orange. Frct, pourvues d'une mince couche jaune-orange entre la chair et le cortex 02214834882334990 Stereum hirsutum No 2000
+0 * Hyménium ocre-blanchâtre, gris-ocre ou jaune-ocre 02214834892335000222
+0 * Chapeaux plus grands (30-70 mm), dimidiés, fixés par une portion pédicellée. Le plus souvent sur Alnus, Fagus et Salix 02224894902345010 Stereum subtomentosum. No 2040
+0 Chapeaux petits (5-10 mm), faible projection, en séries. Sur Quercus et Fagus surtout 02224894912345020 Stereum ochraceoflavum No 2010
+0 Structure dimitique. Hyphes génératrices non bouclées. Hyménophore irpicoïde. Frct, crème à blanchâtres 02234624922355030 Irpex lacteus No 1920
+0 * Structure dimitique. Hyphes génératrices bouclées (v. aussi remarque No 192)02234624932355040224
+0 * Hyménophore teinté de violet ou de gris-brun, irpicoïde. Sur Pinus 02244934942365050 Trichaptum fuscoviolaceum No 3610
+0 Hyménophore jaune-orange à saumon, hydnoïde. Sur feuillus 02244934952365060 Steccherinum ochraceum No 1940
+0 Sur Alnus viridis. Espèce rare. Hyménophore blanc. Sp. amyloïdes, 4-5 x 0, 7-1 /a m 02254634962375070Plicatura nivea No 1820
+0 * Sur d'autres essences02254634972375080226
+0 * Hyménophore blanc à ocracé. La marge de la frct, forme souvent une arête de 5-10 mm de projection. Frct, coriaces-tenaces. Sp. 5-6 x 2, 5-3µm 02264974982385090 Meruliopsis corium No 1440
+0 * Hyménophore brun-rouge à gris-violet. Chapeaux à surface piléique feutrée de gris, zonée. Frct, gélatineuses, tenaces. Basides cloisonnées transversalement. . 02264974992385100 Auricularia mesenterica. No 80
+0 Hyménophore jaune-orange à saumon. Chapeaux le plus souvent de 10-40 mm de projection. Frct, élastiques, gélatineuses. Sp. 3, 5-4 x 1-1, 5µm 02264975002385110 Merulius tremellosus No 1450
+0 * Sp. jaunâtres (microscope). Surface des pores brun-rouille à gris-brun. 3-5 pores par mm. Surtout sur Salix. Soies le plus souvent incomplètes (comme cassées au sommet). 02274645012395120 Pheliinus conchatus No 3100
+0 Sp. hyalines (microscope), non amyloïdes 02274645022395130228
+0 * Sp. finement verruqueuses, arrondies, 4, 5-6 x 4-4, 5, µm. Assise des tubes blanchâtre à crème. 3-4 pores par mm. Sur conifères. Espèce fréquente 02285025032405140 Heterobasidion annosum. No 3970
+0 Sp. lisses02285025042405150229
+0 Pas de cystide ni de soie02295045052415160230
+0 * Cystides incrustées ou coiffées d'une mâcle cristalline (v. No 379)02295045062415170239
+0 * Présence de soies (v. aussi No 310)02295045072415180241
+0 Structure monomitique. Cloisons bouclées (si cloisons non bouclées et frct, roses, v. No 332)02305055082425190231
+0 * Structure dimitique. Hyphes génératrices bouclées02305055092425200234
+0 * Structure trimitique02305055102425210237
+0 Hyménophore se tachant au toucher02315085112435220232
+0 * Hyménophore ne se tachant pas au toucher02315085122435230233
+0 * Hyménophore brunissant au toucher. Assise des tubes blanche. Sur conifères 02325115132445240 Postia fragilis No 3350
+0 Hyménophore noircissant immédiatement au toucher. Assise des tubes brun foncé à noirâtre. Sur feuillus 02325115142445250 Bjerkandera adusta No 3290
+0 * Pores irpicoïdes, déchirés à aplatis, de couleur crème. Sp. à parois épaisses, 5, 5-7, 5 x 5-6 µm 02335125152455260 Spongipellis pachyodon. No 4110
+0 Pores arrondis-anguleux, 4-6 par mm, gris-rose à rougeâtre-brun. Assise des tubes facilement séparable 02335125162455270 Gloeoporus dichrous No 3660
+0 * Sur le sol, parfois en relation avec les souches. Frct, souvent fasciculées. Chapeaux jaune-brun, orange-brun, minces, élastiques 02345095172465280 Loweomyces wynnei No 3330
+0 Sur conifères.02345095182465290235
+0 * Sur feuillus02345095192465300236
+0 * Frct, épaisses, rouge-brun à jaune-brun. Odeur d'anis ou de fenouil. Sp. 7, 5-9, 5 x 3-4 µm 02355185202475310 Gloeophyllum odoratum .No 3920
+0 Hyménophore jaune-orange à rose-saumon. Sp. 3-4 x 1-1, 5µm. 02355185212475320 Skeletocutis amorpha No 3620
+0 * Pores fins, 4-5 (6) par mm. Frct, stéroïdes, gris-ocre à gris-brun. Espèce rare 02365195222485330 Datronia stereoides No 3490
+0 Pores 0, 5-1 mm de grandeur, labyrinthés. Frct, gris-brun à ocre-brun, tenaces, coriaces, avec une ligne noire entre le tomentum et la chair 02365195232485340 Datronia mollis No 3480
+0 * Surface porée grise à gris-brun. 2-3 pores par mm, labyrinthés. Vieilles frct, irpicoïdes 02375105242495350 Cerrena unicolor No 3450
+0 Surface porée blanche à crème. Pores très fins, 5-9 par mm02375105252495360238
+0 * Sp. largement elliptiques, 2, 5-3, 5 x 2-2, 5 ^m. Hyphes génératrices non incrustées. 5-7 pores par mm 02385255262505370 Antrodiella semisupina. No 3440
+0 Sp. cylindriques, allantoïdes, très petites, 3, 5-4 x 0, 5-0, 7 ^m. Hyphes génératrices incrustées. 8-9 pores par mm 02385255272505380 Skeletocutis nivea No 3650
+0 Frct, blanches à crème. Hyménophore irpicoïde. Cystides ressemblant à des lamprocystides. Sur feuillus 02395065282515390 Irpex lacteus No 1920
+0 * Frct, teintées de violet ou de gris-brun. Sur conifères02395065292515400240
+0 * Hyménophore poré-réticulé, labyrinthé ou irpicoïde. Marge toujours porée. Sur conifères. Espèce fréquente 02405295302525410 Trichaptum abietinum No 3600
+0 Hyménophore irpicoïde à hydnoïde, même dans la zone marginale. Sur Pinus. Espèce rare 02405295312525420 Trichaptum fuscoviolaceum No 3610
+0 Sur feuillus02415075322535430242
+0 * Sur conifères (souvent dans les forêts de montagne)02415075332535440243
+0 * Sur Alnus. Trame brun-rouille. 5-6 pores par mm 02425325342545450 Pheliinus lundelli No 3180
+0 * Sur divers Prunus (P. domestica et P. spinosa). Hyménophore cannelle à gris-brun, sans reflets. 4-5 pores par mm. Trame brun-rouille .. 02425325352545460 Pheliinus tuberculosus. No 3260
+0 Sur Fagus. Hyménophore scalariforme-noduleux à reflets métalliques jaunes. 3-4 pores par mm. Trame blanchâtre à brun clair 02425325362545470 Inonotus nodulosus No 3050
+0 * Sp. largement elliptiques, 5-6 x 4-5 ^m. Présence de chlamydospores. Surface des pores jaune-brun. 4-5 pores par mm, sur Pinus mugo. 02435335372555480 Pheliinus vorax No 3090
+0 Sp. cylindriques, allantoïdes, 6-8 x 1, 5-2 ^m. Pas de chlamydospore. Surface des pores gris-brun à cannelle. 3-4 pores par mm. Espèce rare. 02435335382555490 Pheliinus viticola No 3270
+0 C0-30539955300
+0 Frct, mérulioïdes à presque veinées, anastomosées, blanc sale à gris-ocracé, molles, élastiques. Sur feuillus 024435402565540 Plicaturopsis crispa No 1830
+0 Hyménium lisse ou irrégulièrement bosselé, envahissant le sol et les débris végétaux. Frct, brunes. Sp. bosselées, brunes 024435412565550 Thelephora terrestris. No 2560
+0 Hyménium nettement constitué d'aiguillons ± réguliers024435422565560245
+0 Hyménium poré, réticulé-poré, irpicoïde (pores déchirés) (si toute la frct, et la trame colorées de rouge-orange, v. aussi No 353)024435432565570246
+0 * Hyménium lamellé, labyrinthé ou anastomosé. Spores hyalines, lisses, non amyloïdes 024435442565580296
+0 * Frct, gélatineuses, opalescentes, blanchâtres à gris-brunâtre. Dents courtes de 3 (5) mm de longueur. Sur conifères. Sp. non amyloïdes, 5-6 x 4, 5-5, 5 ^m. Présence de phragmo-basides 02455425452575590 Pseudohydnum gelatinosum No 190
+0 Frct, crème à ocracées, pourvues de longues dents sétiformes de 5-10 (15) mm de longueur. Sur feuillus. Sp. amyloïdes, 3, 5-4, 3 x 2, 8-3, 3 ^m (v. aussi No 286) 02455425462575600 Creolophus cirrhatus No 2840
+0 Sp. hyalines ou faiblement colorées (microscope), lisses immersion)02465435472585610247
+0 * Sp. brunâtres ou jaunâtres sous le microscope02465435482585620290
+0 * Sp. amyloïdes. Frct, à chair mince, molle, succulente, teintées de bleu. Sur conifères (si sur feuillus, v. No 337) 02475475492595630 Postia caesia No 3340
+0 Sp. non amyloïdes02475475502595650248
+0 * Présence de cystides, d'éléments cystidioides ou de soies02485505512605670282
+0 Pas de cystide ou d'élément cystidioïde ni de soie02485505522605680249
+0 * Structure dimitique (v. aussi 5*, structure trimitique) 02495525532615690260
+0 Structure monomitique02495525542615700250
+0 * La plupart des cloisons bouclées02505545552625710253
+0 La plupart des cloisons non bouclées02505545562625720251
+0 Sur conifères (Picea). Frct, roses à framboise, descendant le long du substrat, molles 02515565572635730 Leptoporus mollis No 3320
+0 * Sur feuillus et arbustes. Frct, différentes02515565582635740252
+0 * Sur souches et racines de feuillus, en particulier de Fagus, d'apparence souvent terricole. Frct, très grandes, fasciculées, élastiques, noircissantes 02525585592645750 Meripilus giganteus No 4020
+0 A la base des Ribes et Evonymus, parasites. Frct, ligneuses, rouge-brun 02525585602645760 Pheliinus ribis No 3220
+0 Frct, teintées de rouge, épaisses, succulentes, molles. Tubes libres entre eux. Sur Quercus 02535555612655770 Fistulina hepatica No 4280
+0 * Frct, colorées différemment, tubes différents02535555622655780254
+0 Basides atteignant jusqu'à 20 ^m de longueur02545625632665790255
+0 * Basides dépassant 20 µm de longueur02545625642665800257
+0 Frct, blanches, même dans la vieillesse, molles, très amères, le plus souvent sur conifères. Sp. 3, 5-5 x 2-2, 3 ^m. .02555635652675810 Postia stiptica No 3360
+0 * Frct, colorées différemment ou ne restant pas blanches. Le plus souvent sur feuillus02555635662675820256
+0 * Frct, blanchâtres, puis gris-bleuâtre en surface, dépassant souvent 20 mm d'épaisseur, douces. Sur divers feuillus 02565665672685830 Postia tephroleuca No 3380
+0 Frct, ocracées ± teintées de bleuâtre, dépassant à peine 20 mm d'épaisseur. Sur Fagus et Fraxinus (si sur conifères, v. No 334) 02565665682685840 Postia subcaesia No 3370
+0 Frct, teintées de brun02575645692695850258
+0 * Frct, blanchâtres à ocracé clair ou gris-brun. Sur feuillus (souvent sur arbres des parcs et des allées)02575645702695860259
+0 * Surface piléique brun-ocre à café. Surface des pores blanchâtre, crème, brunissant légèrement au toucher. Etroite ligne foncée entre la trame et la couche des tubes. Surtout sur Salix (si surface des pores et tubes gris-brun à noirâtres, v. No 329) 02585695712705870 Bjerkandera fumosa No 3300
+0 Toute la frct, cannelle à ocre-brun. KOH colore intensément la surface du carpophore de violet. Surtout sur Betula et Fagus 02585695722705880 Hapalopilus rutilans No 3960
+0 * Absence de structure double. Frct, virant au rose en séchant et devenant dure. Sp. 4, 5-5, 5 x 2, 5-4 ^m 02595705732715890 Aurantioporus fissilis No 3950
+0 Trame à structure double. Ne vire pas au rose en séchant. Sp. 6-8 x 4, 5-5 µm 02595705742715900 Spongipellis spumeus No 4120
+0 Hyphes génératrices non bouclées02605535752725910261
+0 * Hyphes génératrices bouclées02605535762725920263
+0 Frct, à chair molle, jaunes à jaune-orange, succulentes, annuelles, crayeuses et cassantes chez les vieux exemplaires. Surtout sur feuillus et Larix 02615755772735930 Laetiporus sulphureus No 4000
+0 * Frct, brunes, ligneuses, dures, pérennes02615755782735940262
+0 * Sur Hippophae (argousier) et Elaeagnus (chalef) 02625785792745950 Phellinus hippophaecola. No 3150
+0 Sur Abies (sapin blanc) 02625785802745960 Phellinus hartigii No 3140
+0 Sur Betula. Surface piléique blanc-crème à ocre-brunâtre, lisse. Chair molle 02635765812755970 Piptoporus betulinus No 4040
+0 * Sur d'autres essences02635765822755980264
+0 Le plus souvent sur Quercus, Fraxinus et Robinia; en général à la base des troncs vivants 02645825832765990 Perenniporia fraxinea. No 3700
+0 * Le plus souvent sur conifères02645825842766000265
+0 * Sur feuillus02645825852766010271
+0 Surface des pores crème, brunissant au toucher. 4-6 pores par mm. Chapeaux larges jusqu'à 200 mm, ridés radialement. Marge aiguë, rouge-noirâtre. Absence d'odeur typique. Espèce rare 02655845862776020 Ischnoderma benzoinum. No 3980
+0 * Surface des pores rouge-brun à jaune-brun. 1-2 pores par mm. Pores arrondis à allongés 02655845872776030266
+0 Chapeaux le plus souvent irréguliers, noduleux, massifs, épais jusqu'à 30 mm. Marge en bourrelets. Odeur d'anis ou de fenouil. Souvent à la face supérieure des souches. Espèce fréquente 02665875882786040 Gloeophyllum odoratum No 3920
+0 * Chapeaux dimidiés ou en séries, ± réguliers, épais jusqu’a 10 mm. Pores allongés jusqu'à 4 mm. Inodore. Souvent sur troncs ou bois d'œuvre. Espèce rare .... Gloeophyllum trabeum. No 39102665875892786050267
+0 * Structure trimitique02675895902796060268
+0 Frct, entièrement rouge cinnabre ou orange-rouge ne dépassant guère 100 mm de largeur 02685905912806070 Pycnoporus cinnabarinus No 3530
+0 * Frct, différentes02685905922806080269
+0 Sur Larix des régions montagneuses uniquement. Frct, en forme de consoles, ongulées ou cylindriques. Trame blanche, crayeuse. Surface piléique grise 02695925932816090 Laricifomes officinalis No 4010
+0 * Non lié au Larix 8 Sur conifères02695925942816100270
+0 * Surface des pores et trame de couleur crème. Frct. 50-200 (400) mm de largeur, ligneuses, dures. Croûte piléique fondant sous l'action d'une allumette 02705945952826110 Fomitopsis pinicola Nr. 3870
+0 Surface des pores rose. Frct. 20-100 mm de largeur, ligneuses, dures. Surface piléique croûteuse, ne fondant pas sous l'action d'une allumette. Souvent sur bois des chalets d'alpage 02705945962826120 Fomitopsis rosea No 3880
+0 Sur Salix. Odeur intense d'anis. Frct, blanches au début, brunissant par la suite 02715855972836130 Trametes suaveolens No 3580
+0 * Support différent02715855982836140272
+0 Surface piléique lisse, mate à brillante02725985992846150273
+0 * Surface piléique feutrée à strigueuse-hirsute, glabrescente avec l'âge 02725986002846160276
+0 * Frct, élastiques, subéreuses, ne dépassant pas 30 (40) mm d'épaisseur, dimidiées, flabelliformes. Surface piléique ocre-brun, brun-rouge au centre. Pores 1-2 par mm, parfois dédaloïdes 02735996012856170 Daedaleopsis confragosa. No 3840
+0 Frct, ligneuses, dures02735996022856180274
+0 Frct, entièrement blanches à jaunâtres. Sur Fagus. Le plus souvent lié à Inonotus nodulosus. Chapeaux ne dépassant pas 40 mm de largeur et 10 mm d'épaisseur 02746026032866190 Antrodiella hoehnelii No 3430
+0 * Frct, colorées différemment02746026042866200275
+0 * Croûte piléique ne fondant pas sous l'action d'une allumette. Frct, gris-brun, sans tonalités rouges, ongulées. Trame brun clair. Sp. 18, 5-19 x 5, 5-6 µm 02756046052876210 Fomes fomentarius No 3860
+0 Croûte piléique fondant sous l'action d'une allumette. Frct, en partie colorées de rouge ou d'orange-rouge, en formes de consoles. Trame crème. Sp. 6-8, 5 x 3-4, 5 µm. 02756046062876220 Fomitopsis pinicola No 3870
+0 Frct, blanches, chair mince ne dépassant pas 7 mm d'épaisseur, indistinctement zonées concentrique- ment, bientôt dévorées par les insectes, en colonies imbriquées (v. aussi No 343) 02766006072886230 Trametes pubescens No 3570
+0 * Frct, colorées différemment02766006082886240277
+0 Frct, entièrement rouge-brun à gris-ocre-brun, trame concolore. 1-2 pores par mm. Le plus souvent sur Fraxinus 02776086092896250 Coriolopsis gallica No 3470
+0 * Frct, colorées différemment. Trame blanchâtre à crème02776086102896260278
+0 1-2 pores par mm02786106112906270279
+0 * Pores 2-A (5) par mm02786106122906280280
+0 * Pores allongés jusqu'à 4 mm de longueur. Surface piléique veloutée-feutrée. Souvent gibbeux au point de fixation 02796116132916290 Trametes gibbosa No 3540
+0 Pores arrondis-anguleux, frangés-denticulés, blanchâtres. Surface piléique fortement hispide. Souvent sur Populus. 02796116142916300Funalia trogii No 3510
+0 Surface piléique grossièrement strigueuse-velue, uniformément blanche, crème ou ocracée 02806126152926310 Trametes hirsuta No 3550
+0 * Surface piléique densément feutrée, distinctement zonée de couleurs différentes02806126162926320281
+0 * Surface piléique à zones noirâtres, brunâtres, rougeâtres, jaunâtres ou bleuâtres, souvent chatoyantes. Frct, à chair mince, non triangulaires à la coupe 02816166172936330 Trametes versicolor No 3590
+0 Surface piléique à zones gris-blanc, gris-ocre ou orange-brunâtre. Frct, à chair épaisse, triangulaires en coupe 02816166182936340 Trametes multicolor No 3560
+0 Présence de gléocystides. Frct, en rosettes, turbinées, paraissant terricoles mais toujours en relation avec le bois, se tachant de brun-rouge au toucher. Présence de chlamydospores 02825516192946350 Abortiporus biennis No 3930
+0 * Cystides à parois épaisses coiffées de cristaux, quelques-unes non muriquées02825516202946360283
+0 * Présence de soies02825516212946370284
+0 * Sur feuillus. Frct, pérennes. Tubes stratifiés. Trame sans structure double, molle, mais non succulente. Sp. globuleuses, 3, 5-4, 5 x 3-4, 5 ^m. 02836206222956380 Oxyporus populinus No 3790
+0 Sur conifères. Frct, annuelles. Tubes non stratifiés. Trame à structure double, succulente. Sp. 5-6 x 3, 5-4 ^m 02836206232956390 Climacocystis borealis No 3310
+0 Sur Quercus et Castanea sativa02846216242966400285
+0 * Sur d'autres feuillus02846216252966410286
+0 * Frct, pérennes, ligneuses, dures. Surface des pores jaune-brun à brun-rouille. 5-6 pores par mm 02856246262976420 Pheliinus robustus No 3230
+0 Frct, annuelles, molles, tenaces, succulentes, souvent pourvues de gouttelettes de sudation. Surface des pores crème à orange-brun. 3-5 pores par mm 02856246272976430 Inonotus dryadeus No 3020
+0 Frct, en forme de consoles ne descendant pratiquement pas le long du substrat02866256282986440287
+0 * Frct, en forme de consoles ou ongulées, descendant ± le long du substrat02866256292986450288
+0 * Surtout sur Betula. Surface piléique gris-noir à noire, indistinctement zonée. Frct, large jusqu'à 100 mm 02876286302996460 Pheliinus nigricans No 3190
+0 Surtout sur Malus domestica (pommier). Surface piléique grise, formée de bourrelets concentriques. Frct, large jusqu'à 200 mm. 02876286312996470 Pheliinus igniarius No 3160
+0 Frct, descendant très bas, le long du substrat, souvent étalées, réfléchies. En particulier sur Alnus 02886296323006490 Phellinus lundellii No 3180
+0 * Frct, ne descendant que peu le long du substrat02886296333006500289
+0 * Surtout sur Alnus et Salix 02896336343016510 Phellinus trivialis No 3250
+0 Surtout sur Populus tremula 02896336353016520 Phellinus tremulae No 3240
+0 Sp. lisses02905486363026530291
+0 * Sp. verruqueuses, entourées d'un sac épisporique02905486373026540294
+0 Absence de soie. Surtout sur Populus tremula 02916366383036550 Inonotus rheades No 3080
+0 * Présence de soies02916366393036560292
+0 Soies grosses en forme d'ancres ou en crochets, dans le feutrage de la surface piléique. Surtout sur Acer-(érable) 02926396403046570 Inonotus cuticularis No 3010
+0 * Présence de petites soies uniquement hyméniales02926396413046580293
+0 * Surtout sur Malus domestica (pommier) et Juglans (noyer). Soies subulées 02936416423056590 Inonotus hispidus No 3040
+0 Surtout sur Alnus. Soies partiellement arquées au sommet 02936416433056600 Inonotus radiatus No 3070
+0 * Croûte piléique fondant sous l'action d'une allumette, orange-cuivré. Surtout sur Quercus. Espèce rare 02946376443066610 Ganoderma resinaceum. No 4270
+0 Croûte piléique ne fondant pas sous l'action d'une allumette, brun-rouge, cannelle ou gris-brun 02946376453066620295
+0 * Sp. 8, 5-11, 5 x 6, 5-8 µm. Hyménophore sans galles. Frct, épaisses de 40-100 mm. Trame sans inclusion blanchâtre. Espèce rare 02956456463076630 Ganoderma adspersum No 4240
+0 Sp. 7-8 (9) x 4, 5-6 µm. Hyménophore habituellement envahi par des galles dues aux insectes. Frct, épaisses de 20-60 mm. Trame avec inclusions blanchâtres. Espèce fréquente 02956456473076640 Ganoderma applanatum. No 4250
+0 Sur conifères, bois d'œuvre compris02965446483086650297
+0 * Sur feuillus02965446493086660299
+0 * Hyménophore labyrinthé, le plus souvent sur Larix et Pinus. Frct, à chair molle et succulente 02976486503096670 Phaeolus schweinitzii No 4030
+0 Hyménophore lamellé, partiellement pourvu d'anastomoses02976486513096680298
+0 * 15-20 lamelles par cm à la marge du chapeau. Cystides à parois minces. . 02986516523106690 Gloeophyllum sepiarium No 3900
+0 8-13 (15) lamelles par cm à la marge du chapeau. Cystides à parois épaisses. 02986516533106700 Gloeophyllum abietinum No 3890
+0 Frct, succulente, à chair molle, hyménophore labyrinthé, vert-jaune 02996496543116710 Phaeolus schweinitzii No 4030
+0 * Frct, dures, coriaces, ligneuses ou élastiques 02996496553116720300
+0 Hyménophore labyrinthé, dédaloïde03006556563126730301
+0 * Hyménophore lamellé03006556573126740302
+0 * Hyménophore finement labyrinthé. 8-10 pores par cm. Frct, épaisses de 10-20 mm, crème à brunâtre-ocre. Sur Quercus et Betula 03016566583136750 Lenzites betulina No 3520
+0 Hyménophore grossièrement labyrinthé, 4-5 pores par cm. Frct, épaisses de 30-50 mm, brunes, sur Quercus 03016566593136760 Daedalea quercina No 3830
+0 * Frct, crème à ocre-brunâtre. Surface piléique finement feutrée. 12-15 lamelles par cm. Surtout sur Quercus et Betula 03026576603146770 Lenzites betulina No 3520
+0 Frct, rouge-brun foncé. Surface piléique glabre. 15-20 lamelles par cm. Surtout sur Prunus avium, Corylus et Fagus (v. aussi No 384) 03026576613146780 Daedaleopsis confragosa. var. tricolor No 3850
+0 D0-40662868100
+0 Hyménophre lisse à un peu inégal ou faiblement bosselé à nettement verruqueux030346633156830304
+0 * Chair non zonée. Frct, à chair molle030346643156840327
+0 * Hyménophore échinulé (hydnoïde)030346653156850306
+0 *., Hyménophore a plis souvent anastomoses ou nettement veine030346663156860354
+0 * Frct, turbinées ou infundibuliformes, en rosettes, blanches à crème, brunâtres dans la vieillesse 03046636673166870 Cotylidia pannosa No 1840
+0 Frct, en forme de trompettes, isolées ou en fascicules03046636683166880305
+0 * Frct, couleur de miel brun, 10-15 mm de hauteur, marge fibreuse. Espèce rare. 03056686693176890 Cotylidia undulata No 1850
+0 Frct, gris-brun foncé à noires, isolées ou fasciculées, voire grégaires, 30-100 (150) mm de hauteur. Espèce fréquente dans les forêts de hêtres (v. aussi No 486). 03056686703176900 Craterellus cornucopioides No 4870
+0 Sur cônes de Pinus enfouis. Chapeau excentrique ne dépassant guère 15 mm de diamètre 03066656713186910 Auriscalpium vulgare No 283 0
+0 * Terricoles03066656723186920307
+0 Sp. lisses, hyalines. Frct, crème à orange-jaune, molles 03076726733196930 Hydnum repandum No 2820
+0 * Sp. verruqueuses, échinulées ou anguleuses03076726743196940308
+0 * Sp. brunâtres, verruqueuses, bosselées ou anguleuses 03086746753206950314
+0 Sp. hyalines, finement échinulées. Frct, dégageant une forte odeur de «Maggi» à la dessiccation03086746763206960309
+0 Frct, robustes, molles. Chair non zonée à la coupe03096766773216970310
+0 * Frct, à chair mince, subéreuses, tenaces. Chair zonée à la coupe 03096766783216980311
+0 Sous Pinus. Sp. 4, 5-5, 5 x 2, 7-3, 5 µm. Cloisons non bouclées. . 03106776793226990 Bankera fuligineoalba. No 2726* Sous Picea. Sp. 4, 55, 5 x 44, 5 ^m. Cloisons bouclées Bankera violascens No 2730
+0 Pied dépourvu d'une structure double03116786803237000312
+0 * Pied à structure double03116786813237010313
+0 * Chair ne virant qu'indistinctement au vert avec le KOH. Chapeau zoné concentriquement 03126806823247020 Phellodon tomentosus. No 2710
+0 Chair virant nettement au vert en présence de KOH. Chapeau à peine zoné 03126806833247030 Phellodon melaleucus No 2690
+0 * Chair verdissant indistinctement avec le KOH. Chapeau gris-brun à noir-brun, à peine zoné 03136816843257040 Phellodon confluens No 2680
+0 Chair verdissant nettement en présence de KOH. Chapeau noirâtre à bleu-noir, zoné 03136816853257050 Phellodon niger No 2700
+0 La plupart des cloisons bouclées03146756863267060315
+0 * La plupart des cloisons non bouclées 6 Chair zonée, subéreuse, tenace03146756873267070318
+0 Chair zonée, tenace. Odeur intense d'anis. Sp. anguleuses (v. aussi No 259) 03156866883277080 Hydnellum suaveolens No 2670
+0 * Chair zonée, molle. Frct, à chair épaisse03156866893277090316
+0 Chapeau à grosses squames disposées concentriquement, charnues au centre, dressées, brun-noir foncé 03166896903287100 Sarcodon Imbricatus No 2750
+0 * Chapeau lisse à fendillé-aréolé ou à fines squames apprimées03166896913287110317
+0 * Chair se tachant faiblement de gris ou de verdâtre à la base du pied. Odeur farineuse. Chapeau orange-brun pâle 03176916923297120 Sarcodon versipellis No 2800
+0 Chair se tachant de gris-lilas à la coupe, à la base du pied surtout. Chapeau brun à pourpre-brun. Odeur de «Maggi» 03176916933297130 Sarcodon leucopus No 2770
+0 Frct, teintées de jaune à jaune-vert 03186876943307140 Hydnellum geogenium No 2630
+0 * Frct, colorées différemment03186876953307150319
+0 Chair piquante-brûlante. Frct, souvent ornées de gouttelettes de sudation 03196956963317160 Hydnellum peckii No 2640
+0 * Chair douce03196956973317170320
+0 Frct, gris-bleuâtre. Chair orange-rouge teintée de zones bleutées. Odeur nulle 03206976983327180 Hydnellum caeruleum No 2590
+0 * Frct, colorées différemment03206976993327190321
+0 Frct, colorées d'orange-rouge ou d'orange-brun03216997003337200322
+0 * Frct, colorées de brun ou de brun-rouge, sans tonalités oranges03216997013337210323
+0 * Chair piléique blanche dans la jeunesse, puis orange pâle. Surface piléique à peine zonée, feutrée, dépourvue de squames 03227007023347220 Hydnellum aurantiacum. No 2570
+0 Chair piléique orangée dès la jeunesse, puis devenant rouge-brun. Surface piléique zonée et à squames fibreuses 03227007033347230 Hydnellum auratile No 2580
+0 Sous Pinus. Frct, jeunes roses, puis rouge-brun, souvent ornées de gouttelettes de sudation .. 03237017043357240 Hydnellum ferrugineum. No 262 0
+0 * Dans les forêts de feuillus ou de conifères 03237017053357250324
+0 Dans les forêts de feuillus03247057063367260325
+0 * Dans les forêts de conifères et dans les forêts mixtes03247057073367270326
+0 * Surface piléique veloutée, rugueuse ou strigueuse-hispide, jaune-brun à brun-noir foncé. Chair du stipe jaune-brun sans taches blanches 03257067083377280 Hydnellum compactum. No 2600
+0 Surface piléique ridée radialement, scrobiculée, réticulée, bosselée, brun-cannelle clair à foncé. Pied à chair rouge-brun avec taches blanches 03257067093377290 Hydnellum spongiosipes. No 2660
+0 * Sp. 5, 5-6, 5 x 4, 5-5, 5 µm. Surface piléique à peine zonée, ornée de grosses squames dressées 03267077103387300 Hydnellum scrobiculatum No 2650
+0 Sp. 4, 5-6 x 3, 5^1, 5 ^m. Surface piléique zonée concentriquement et à peine squamuleuse 03267077113387310 Hydnellum concrescens. No 2610
+0 Chair piléique et chair du pied se colorant immédiatement de rose-lilas à la coupe. Dans les forêts de feuillus 03276647123397320 Sarcodon Joeides No 2760
+0 * Chair ne changeant pas ou pratiquement pas à la coupe, mais se tachant par places de rose-brunâtre ou de verdâtre 03276647133397330328
+0 * Chair du chapeau et du pied rose-brunâtre. Base du pied feutrée, orange. Chapeau velouté-feutré. Frct, souvent turbinées dans la jeunesse. Espèce rare 03287137143407340 Sarcodon martioflavus No 2780
+0 Chair gris-vert à la base du pied03287137153407350329
+0 * 1* Hyménophore poré, réticulé-poré, irpicoïde (pores déchirés)03287137163407360330
+0 * Chapeau lisse, aréolé-squamuleux au centre seulement (squames apprimées). Chair amarescente. Base du pied lisse 03297157173417370 Sarcodon glaucopus No 2740
+0 Chapeau squarreux au centre surtout (squames dressées). Chair fortement amère, base du pied lisse 03297157183417380 Sarcodon scabrosus No 2790
+0 Chapeaux souvent fasciculés-concrescents ou issus d'un tronc commun et ramifiés-fasciculés (si frct, blanches et sur Larix, v. No 413)03307167193427390331
+0 * Frct. ± distinctement pilées et stipitées, rarement confluentes, non fasciculées. Pied parfois court et latéral (si terricole, v. aussi No 408)03307167203427400336
+0 D'un tronc commun naissent plusieurs branches donnant naissance à des chapeaux flabelliformes ou foliacés, le tout formant un carpophore unique ± fasciculé03317197213437410332
+0 * Frct, habituellement connées mais non issues d'une base commune. Pied parfois rudimentaire.03317197223437420334
+0 Chapeaux flabelliformes, larges de 100-200 mm. Sp. échinulées-crêtées (Sp. du type Russula). En particulier sur Abies (si frct, noircissante, v. No 402). . 03327217233447430 Bondarzewia montana No 4290
+0 * Chapeau flabelliformes à foliacés, plus petits, 20-100 mm de largeur. Surtout sur Quercus03327217243447440333
+0 * Chapeaux flabelliformes, arrondis, 20-50 mm de diamètre, arrondis. Pied central à excentrique. Sp. 7, 5-10 x 3-3, 5 µm 03337247253457450 Dendropolyporus umbellatus No 4050
+0 Chapeaux foliacés, stipités latéralement, 50 x 100 mm, allongés. Sp. 5-6 x 3, 5-4, 5 µm 03337247263457460 Grifola frondosa No 3940
+0 * Cloisons bouclées. Sp. 4-5 x 3-3, 5, u, m. Frct, jaune-crème à orange-brun. 03347227273467470 Albatrellus confluens No 4060
+0 Cloisons non bouclées03347227283467480335
+0 * Sp. 3, 5-5 x 3-4 µm. Odeur agréable. Frct, blanchâtres à jaune soufre. 03357287293477490 Albatrellus subrubescens. No 4090
+0 Sp. 5-7 (9) x 4, 5-5 µm. Odeur désagréable, repoussante. Frct, olive-vert à brun-olive 03357287303477500 Albatrellus cristatus No 4070
+0 Pied excentrique ou latéral03367207313487510337
+0 * Pied ± central, plus rarement excentrique03367207323487520340
+0 Sur conifères03377317333497530338
+0 * Sur feuillus (v. aussi No 422 et 415)03377317343497540339
+0 * Frct, subéreuses, tenaces. Surface piléique feutrée, mate, ocre-brun à cannelle. Sp. lisses. Surtout sur Abies 03387337353507550 Ischnoderma trogii No 3990
+0 Frct, subéreuses, ligneuses. Surface piléique laquée, brillante, rouge-brun foncé. Sp. tronquées, verruqueuses 03387337363507560 Ganoderma carnosum No 4260
+0 * Frct, plus petites, larges de 20-80 mm, chair mince. Surface piléique à petites squamules apprimées brun clair. Pied court, grêle. Pores alvéolés. . 03397347373517570 Polyporus mori No 4190
+0 Frct, larges de 100-500 mm, à chair épaisse. Surface piléique ornée de grosses squames apprimées. Pied court, épais, à base feutrée noirâtre. Pores arrondis 03397347383517580 Polyporus squamosus No 4210
+0 Frct, à chair molle, terricoles (aspect de bolet)03407327393527590341
+0 * Chair tenace, subéreuse03407327403527600342
+0 * Chair blanchâtre, ne changeant pas à la coupe. Pores crème se tachant de jaunâtre. Surface piléique finement squamuleuse, rouge-brun à brun-noir. Sp. Lisses 03417397413537610 Albatrellus pescaprae. No 4080
+0 Chair blanche virant rapidement au rose à la coupe. Assise des pores blanche à gris-blanc. Surface piléique lisse, brun-noir. Sp. bosselées 03417397423537620 Boletopsis leucomelaena. No 2810
+0 Frct, terricoles. Chapeaux à étroites zones concentriques, jaune-brun à brun rouille, 15-30 mm de diamètre (v. aussi No 299 et 418) 03427407433547630 Coltricia perennis No 2980
+0 * Sur d'autres substrats03427407443547640343
+0 Sur Stipa capillata, dans les pelouses sèches; fixées sur les touffes radiculaires 03437447453557650 Polyporus rhizophilus No 4200
+0 * Sur bois03437447463557660344
+0 Sur conifères03447467473567670345
+0 Sur Larix. Frct. ± turbinées, blanches à crème, dures comme de l'os après dessiccation 03457477483577680 Osteina obducta No 4130
+0 * Le plus souvent sur d'autres conifères03457477493577690346
+0 Soies subulées, droites 03467497503587700 Onnia tomentosa No 2990
+0 * Soies subulées avec sommet courbé. Sur Pinus surtout. Onnia triqueter No 300 03467497513587710347
+0 * Sur feuillus03477517523597720348
+0 Pied noir à noir-brun dans sa totalité ou à la base seulement03487527533607730349
+0 * Pied non teinté de noir, plus clair03487527543607740351
+0 Pied noir à la base uniquement. Sur Fagus surtout (branches tombées) 03497537553617750 Polyporus varius No 4230
+0 * Pied totalement brun-noir à noir03497537563617760350
+0 * Surface piléique glabre, lisse. Sp. 6, 5-8, 5 x 3-4 µm. Cloisons non bouclées. 6-8 pores par mm 03507567573627770 Polyporus badius No 4150
+0 Surface piléique finement veloutée, fibreuse-squamuleuxes radialement. Sp. 7-8 x 3-3, 5 µm. Cloisons bouclées. 3-5 pores par mm. Aspect terricole, mais lié au bois enfoui 03507567583627780 Polyporus melanopus No 4180
+0 5-6 pores par mm. Pied chiné de brunâtre. Marge de chapeau frangée. Sp. 5-6 x 1, 5-2 µm  03517547593637790 Polyporus ciliatus No 4170
+0 * 0, 5-3 pores par mm03517547603637800352
+0 Pores polygonaux allongés, alvéolés, 0, 5-1 par mm (si stipité latéralement et squamuleux, v. No 419). 03527607613647810 Polyporus arcularius No 4140
+0 * Pores arrondis à légèrement allongés-anguleux03527607623647820353
+0 * Surface piléique lisse, finement veloutée, gris-brun à rouge-brun. Sp. 6-7 x 2-2, 5 ^m. 1-2 (3) pores par mm 03537627633657830 Polyporus brumalis No 4160
+0 Surface piléique ornée de squamules apprimées brun foncé terminées en pointe sur fond jaune-brun. Sp. 12-15 x 4-5 /Lim. 0, 5-1 pore par mm. Souvent sur Quercus 03537627643657840 Polyporus tuberaster No 4220
+0 Frct, gris-brun à noirâtres dans leur totalité, infundibuliformes. Plis nettement visibles, souvent en compagnie du No 487 (Craterellus cornucopioides) 03546667653667850 Craterellus cinereus No 4860
+0 * Frct, colorées différemment03546667663667860355
+0 Frct, charnues. Pied habituellement plein03557667673677870356
+0 * Frct. ± pelliculaires. Pied habituellement creux03557667683677880358
+0 Frct, jaune franc, comme l'hyménophore, turbinées. Chapeau atteignant 100 mm de diamètre, parfois aussi blanchâtre. Espèce fréquente 03567677693687890 Cantharellus cibarius No 4810
+0 * Frct, ou hyménophore différents03567677703687900357
+0 * Frct, jaunes, souvent teintées de lilacin. Hyménophore gris-lilas à rose pâle. Espèce rare (v. aussi No 481) 03577707713697910 Cantharellus melanoxeros No 4840
+0 * Frct, lilas à violettes, ocres à gris-brun dans la vieillesse avec reflets lilas. En séries ou fasciculées 03577707723697920 Gomphus clavatus No 4800
+0 Frct, orange-jaune à orange-rose. Hyménophore concolore ou plus clair. Chapeau dépassant à peine 30 mm de diamètre, grêle. Espèce rare .. 03577707733697930 Cantharellus friesii No 4820
+0 Cloisons non bouclées. Frct, gris-brun avec marge fortement crépue .. 03587687743707940 Pseudocraterellus sinuosus No 488 0
+0 * Cloisons bouclées03587687753707950359
+0 * Hyménophore veiné, plissé dès le début, gris-jaune à olive-gris. Chapeau in­fundibuliforme, en général percé 03597757763717960 Cantharellus tubaeformis No 4850
+0 Hyménophore lisse au début, puis veiné, jaune-orange à jaune-rose. Cha­peau infundibuliforme, à peine percé 03597757773717970 Cantharellus lutescens No 4830
+0 E0-50778780100
+0 Hyménophore poroïde ou hydnoïde: voir groupe C ou D036057793728030361
+0 Hyménophore lisse à un peu inégal, voire faiblement bosselé à nettement verruqueux036057803728040361
+0 Frct, molles, élastiques, tenaces, jaunes à orange-jaune. Basides fourchues03617807813738050362
+0 * Frct, molles, ± cassantes ou fibreuses. Holobasides présentes 03617807823738060363
+0 * Frct, simples, plus rarement ramifiées une seule fois, longueur atteignant 10 (20) mm, jaunes, le plus souvent grégaires, sur bois de feuillus (si sur bois de conifères = Calocera furcata Fr.: Fr.) 03627817833748070 Calocera cornea No 10
+0 Frct, ramifiées, hautes jusqu'à 50 (100) mm, collantes, souvent fasciculées. Sur conifères 03627817843748080 Calocera viscosa No 20
+0 Sp. hyalines (microscope) 03637827853758090364
+0 * Sp. brunes (microscope), échinulées. Frct, fasciculées, gris-brun à olive-brun03637827863758100415
+0 Sp. lisses03647857873768110365
+0 * Sp. verruqueuses, bosselées à échinulées03647857883768120395
+0 Sp. non amyloïdes (si dextrinoïdes = no 286 Hericium coralloides) 03657877893778130366
+0 * Sp. amyloïdes03657877903778140393
+0 * La plupart des cloisons bouclées03667897913788150372
+0 La plupart des cloisons non bouclées (basides parfois bouclées)03667897923788160367
+0 Frct, violettes, ramifiées dichotomiquement 03677927933798170 Clavaria zollingeri No 445 0
+0 * Frct, colorées différemment03677927943798180368
+0 Frct, brun-jaune, filamenteuses, non ramifiées, naissant d'un sclérote (v. aussi No 437) 03687947953808190 Typhula phacorrhiza No 4320
+0 * Frct, blanches à ocracé clair ou gris cendré clair. Branches non ramifiées03687947963808200369
+0 Frct, ocre clair, ocre-brunâtre à blanchâtre-cendré, fasciculées 03697967973818210 Clavaria fumosa No 4430
+0 * Frct, blanches à crème03697967983818220370
+0 Frct, d'à peine 1 mm de hauteur, blanchâtres, sur feuilles pourrissantes et autres débris végétaux 03707987993828230 Pistillaria pusilla No 4300
+0 * Frct, plus grandes, hautes de 20-100 mm, blanches, non ramifiées, fasciculées ou grégaires, ± vermiformes03707988003828240371
+0 * Portion pédicellaire concolore. Sp. 5-7 x 3-4 µm. 03718008013838250 Clavaria vermicularis No 444 0
+0 Portion pédicellaire opalescente. Sp. 7-10 x 5-9 (basides en partie avec boucle ansiforme). . 03718008023838260 Clavaria acuta No 4410
+0 Frct, fasciculées en forme de choux-fleurs, atteignant 400 mm de diamètre. Branches foliacées à crépues-ondulées03727918033848270373
+0 * Frct, différentes03727918043848280374
+0 * A la base de feuillus 03738038053858290 Sparassis laminosa No 4790
+0 A la base de conifères 03738038063858300 Sparassis crispa No 4780
+0 Frct, clavées, subulées, vermiformes ou filiformes, non ramifiées03748048073868320375
+0 * Frct, coralloïdes ou ramifiées comme des bois de cerf, à géotropisme négatif03748048083868330386
+0 * Frct, barbues, coralloïdes, blanches à crème. Branches ornées d'aiguillons. Croissance à géotropisme positif. Sur conifères 03748048093868340 Hericium coralloides No 2860
+0 * Frct, spatulées, petites, dépassant rarement 10 mm de hauteur, blanches, sur des mousses ou dans leur voisinage. Présence de leptocystides 03748048103868350 Cyphellostereum laeve No 2330
+0 Frct, à géotropisme positif, petites, hautes jusqu'à 6 mm, aiguillons subulés et serrés; cespiteuses sur bois pourris et vieux polypores03758078113878380376
+0 * Frct, à géotropisme négatif03758078123878390377
+0 * Aiguillons longs de 0, 5-1 mm. Sp. 4, 5-6 x 3-4 ^m. 03768118133888400 Mucronella calva var. aggregata No 288 0
+0 Aiguillons longs de 2-6 mm. Sp. 5, 5-7, 5 x 4, 5-7 ^m. 03768118143888410 Mucronella bresadolae. No 287 0
+0 Frct, blanches à crème, hautes de 5-15 mm, croissant sur un tapis d'algues vertes et mucilagineuses, le plus souvent sur bois pourri 03778128153898420 Lentaria mucida No 4400
+0 * Sur d'autres substrats03778128163898430378
+0 Sur feuilles pourrissantes. Frct, filiformes, 50-100 x 0, 5-2 mm, ocracées (v. aussi No 432) 03788168173908440 Macrotyphula juncea No 4370
+0 * Sur d'autres substrats03788168183908450379
+0 Le plus souvent sur branches sèches d'Alnus viridis. Frct, jaune-brun à rouge-brun, hautes de 60-200 mm 03798188193918460 Macrotyphula fistulosa No 4380
+0 * Sur d'autres substrats03798188203918470380
+0 Sur tiges tombées ou débris végétaux. Frct, clavées, blanchâtres, hautes de 2-7 mm03808208213928480381
+0 * Terricoles03808208223928490382
+0 * Frct, ne naissant pas d'un sclérote, directement sur le substrat. Sp. 5, 5-8 x 3-3, 5 ^m 03818218233938500 Typhula uncialis No 4360
+0 Frct, naissant d'un sclérote. Sp. 8, 5-11 x 3, 5-4 µm 03818218243938510 Typhula sclerotioides No 4340
+0 Frct, dépassant 15 mm d'épaisseur 03828228253948530383
+0 * Frct, ayant moins de 15 mm d'épaisseur 03828228263948540384
+0 Dans les forêts de conifères. Frct. 50-100 x 20-50 mm, obtuses au sommet, aplaties ou ridulées, ocre- jaune à brun-jaune. Basides longues de 60-80 µm. KOH colore en rouge l'hyménium 03838258273958550 Clavariadelphus truncatus No 4540
+0 * Dans les forêts de feuillus. Frct. 100 à 200 x 20-50 mm, arrondies au sommet. Basides longues de 70-90 µm. KOH colore l'hyménium de jaune safran 03838258283958560 Clavariadelphus pistillaris No 4530
+0 * Frct, fasciculées, dans les prés maigres et marais à fougères, jaune- orange vif. Branches épaisses de 3-6 mm. Sp. 5-6, 5 x 4, 5-6, µm 03848268293968570 Clavulinopsis fusiformis No 4470
+0 Frct non fasciculées03848268303968580385
+0 Frct. 30-80 x 5-10 mm, arrondies au sommet ou aplaties, ocre-jaune à brun-jaune. Sp. 10-14 x 3-4, 5 µm. Dans les forêts de conifères 03858308313978600 Clavariadelphus ligula No 4520
+0 * Frct. 20-40 x 1, 5-3 mm, jaune d'or à jaune-orange. Sp. 4, 5-6 x 3, 5-5 µm. Dans les forêts et prairies 03858308323978610 Clavulinopsis laeticolor No 4490
+0 Frct, jaune-ocre à jaune d'œuf03868088333988620387
+0 * Frct, blanches, blanchâtres à crème ou teintées de gris-brunâtre03868088343988630388
+0 * Frct, grandes, en forme de choux-fleurs, jaunes à ocre- jaune, hautes de 100-150 mm et de même largeur. Le plus souvent dans les forêts de conifères. Sp. 11-14 x 3, 5-4 µm 03878338353998640 Ramaria obtusissima. No 4720
+0 Frct, petites, grêles, 15-50 mm de hauteur, dans les prés maigres et marais à fougères. Sp. arrondies, 4, 5-6 x 4-6 ^m 03878338363998650 Clavulinopsis corniculata. No 4460
+0 La plupart des basides bisporiques 03888348374008660389
+0 * La plupart des basides sont tétrasporiques. Frct, blanchâtres à ocracées ou brunâtres, hautes de 15-30 mm03888348384008670391
+0 * Frct, ocracées et teintées de lilas dès le début, puis gris-lilas. Sp. 8-10 x 7-8 µm (la détermination de C. cristata parasitée par un Hypomyces aboutit également ici) 03898378394018680 Clavulina cinerea No 4550
+0 Frct, blanches, crème à ocracées03898378404018690390
+0 * Extrémités à peine ramifiées, obtuses, aplaties, plissées ridulées. Sp. 10-13 x 6-7, 5 µm. 03908408414028700 Clavulina rugosa No 4570
+0 Extrémités ramifiées à plusieurs reprises et ornées d'excroissances en formes d'épines. Sp. 7-9 x 6-7, 5 µm 03908408424028710 Clavulina cristata No 4560
+0 Sur bois pourrissant ou débris ligneux. Frct, élastiques blanches, se tachant de rose-violet. Sp. 5, 5-7, 5 x 2, 5-3 µm 03918388434038720 Lentaria albovinacea No 4390
+0 * Terricoles03918388444038730392
+0 * Frct. ± élastiques; branches filiformes, grêles, gris-blanc à ocre-brunâtre, fasciculées, en pinceau 03928448454048740 Pterula multifida No 4770
+0 Frct, cassantes, blanches à blanc sale. Sp. 3-4 x 3-4, 5 µm 03928448464048750 Clavulinopsis subtilis No 4500
+0 Frct, blanchâtres, fixées directement sur le substrat et ne naissant pas d'un sclérote. Cloisons non bouclées 03937908474058780 Typhula setipes No 4350
+0 * Frct, naissant d'un sclérote. Cloisons bouclées03937908484058790394
+0 * Sur tiges de Pteridium aquilinum (fougère). Frct, blanchâtres, portion pédicellaire translucide, jusqu'à 8 mm de hauteur 03948488494068800 Typhula quisquiliaris. No 4330
+0 Sur pétioles et nervures de feuilles. Frct, blanchâtres avec portion pédicellaire brun-rouge, hautes de 1-30 mm 03948488504068810 Typhula erythropus No 4310
+0 Sp. arrondies, bosselées ou ornées de très longs aiguillons. Frct, non ramifiées03957888514078820396
+0 * Sp. elliptiques à cylindriques-elliptiques, verruqueuses à échinulées 03957888524078830397
+0 * Frct, jaune d'œuf, filiformes, 10-60 x 1, 5-'1 mm, parfois ramifiées une fois au sommet. Sp. 4-7 x 4-5, 5 µm, à grosses bosses obtuses. Cloisons bouclées 03968518534088840 Clavulinopsis helvola No 4480
+0 Frct, blanches, vermiformes, 30 x 1-3 mm. Sp. 8-9 x 7-8 µm, aiguillons atteignant 3-4, 5 µm de longueur. Cloisons non bouclées 03968518544088850 Clavaria asterospora No 4420
+0 i 5* Sp. globuleuses, finement verruqueuses, 3, 5^t x 2, 8-3, 3 µm. Frct, hautes de 10-25 mm, ocracées, rose-lilas vers les extrémités ramifiées 03968518554088860 Ramariopsis pulchella No 4510
+0 La plupart des cloisons non bouclées03978528564098870398
+0 * La plupart des cloisons bouclées03978528574098880403
+0 Frct, blanc sale à ocre clair, larges de 40-150 mm. Extrémités teintées parfois de lilas. Souvent avec odeur de «Maggi» 03988568584108890 Ramaria pallida No 4730
+0 * Frct, teintées de jaune safran ou de jaune d'or avec reflets saumonés, larges de 50-150 mm03988568594108900399
+0 Frct, se tachant de vineux à la base. Sp. 7-11, 7 x 3, 7-5, 9µm. 03998598604118910 Ramaria sanguinea No 4740
+0 * Frct, ne se tachant pas03998598614118920400
+0 Frct, jaune d'or ou jaune soufre saturé04008618624128930401
+0 * Frct, colorées différemment, le plus souvent sous Fagus04008618634128940402
+0 * Frct, jaune soufre à jaune d'œuf pâle, extrémités concolores. Sous Picea. Sp. 10-15 x 4-6, 4 µm 04018628644138950 Ramaria flava No 4640
+0 Frct, jaunes d'or, extrémités concolores ou un peu plus intensément colorées. Sous Fagus. Sp. 8-12, 8 x 3, 7-5, 8 Hm 04018628654138960 Ramaria aurea No 4590
+0 * Frct, à base blanche, ramifications jaunes avec reflets saumon. Extrémités jaunâtres. Sp. 7-11, 7 x 3, 2-5, 8µm 04028638664148970 Ramaria neoformosa No 4710
+0 Frct, jaunes à jaune d'or pâle. Extrémités colorées plus in­tensément. Sp. 6, 4-10, 8 x 3, 2-5, 6 µm 04028638674148980 Ramaria lutea No 4700
+0 Chair se tachant de vineux à la base surtout04038578684158990404
+0 * Chair ne se tachant pas à la coupe04038578694159000405
+0 * Chair se tachant généralement ± de rose-brunâtre en quelques minutes. Frct, à bases blanches et à ramifications saumon-orange, extrémités jaunes. Sp. 8-14, 5 x 4-6, 7 µm 04048688704169010 Ramaria formosa No 4670
+0 Chair se tachant toujours intensément de vineux ou de brun-rouge en quelques minutes. Frct, cannelle-ocracé à pourpre-gris-brun. Extrémités jaunes. Sp. 11-17 x 4-5µm 04048688714169020 Ramaria bataillei No 4600
+0 Frct, se tachant au toucher ou avec l'âge04058698724179030406
+0 * Frct, ne se tachant pas04058698734179040407
+0 * Frct, jaune-ocracé se tachant de brun-rouge, hautes de 40-100 mm, élastiques, tenaces, en relation avec le bois, pourvues de rhizomorphes blancs avec des hyphes squelettiques. Sp. 6, 5-10, 5 x 3, 5-5, 3 µm (v. aussi No 476). 04068728744189050 Ramaria stricta No 4750
+0 Frct, jaune-olive, se tachant de verdâtre, hautes de 30-60 mm. Sur lit d'aiguilles de Picea. Sp. 5-9, 5 x 2, 8-4, 6 µm 04068728754189060 Ramaria abietina No 4580
+0 Frct, grêles, ne dépassant guère 60 mm de hauteur04078738764199070408
+0 * Frct, robustes dépassant 60 mm de hauteur, avec un tronc ± développé04078738774199080409
+0 * Frct, ocre clair à ocre-brun. Extrémités concolores. Sp. verruqueuses-échinulées, 5-9 x 2, 8^, 5 µm. Présence de rhizomorphes 04088768784209090 Ramaria flaccida No 4630
+0 Frct, blanc-crème, extrémités blanches. Odeur d'anis. Base ornée de rhizomorphes blancs avec des hyphes squeletiques. Sp. finement verruqueuses, 4, 5-7, 5 x 3-4, 5 nm (v. aussi No 475) 04088768794209100 Ramaria gracilis No 4760
+0 Frct, blanchâtres-ocracées, teintées de rose-vineux aux extrémités. Sp. 10, 5-17, 5 x 4-6, 5µm 04098778804219110 Ramaria botrytis No 4610
+0 * Frct, colorées différemment04098778814219120410
+0 Frct, olive-brun, gris-cendré ou brun-beige, par places teintées de lilas04108818824229130411
+0 * Frct, jaunes à jaune d'œuf04108818834229140412
+0 * Dans les forêts de feuillus, le plus souvent sous Fagus. Frct, à extrémités violettes 04118828844239150 Ramaria fumigata No 4680
+0 Dans les forêts de conifères. Frct, à extrémités jaunes. Sp. 7, 5-15 x 4-5, 5 µm 04118828854239160 Ramaria fennica No 4620
+0 Cloisons partiellement bouclées. Frct, jaune soufre à jaune d'œuf. Le plus souvent sous Picea. Sp. 10-15 x 4-6, 5 µm 04128838864249170 Ramaria flava No 4640
+0 * Toutes les cloisons bouclées04128838874249180413
+0 Dans les forêts de conifères. Frct, jaune- orange. Sp. 10-16, 5 x 4-6 µm. Espèce fréquente 04138878884259190 Ramaria largentii No 4690
+0 * Dans les forêts de feuillu sous les forêts mêlées04138878894259200414
+0 * Sp. 6, 5-10, 7 x 3, 2-4, 5 µm. Frct, se tachant de brunâtre au toucher. Espèce rare 04148898904269210 Ramaria flavobrunnescens No 4660
+0 Sp. 8-13, 5 x 3, 7-5, 8 µm. Ne se tache pas au toucher. Espèce fréquente. 04148898914269220 Ramaria flavescens No 4650
+0 * Frct, sans odeur particulière. Sp. 7-9, 5 x 5-7, 5 /t m 04157868924279230 Thelephora anthocephala No 2540
+0 Frct, à odeur repoussante à l'état frais. Sp. 9-10 x 6-9µm 04157868934279240 Thelephora palmata No 2550
+0 0-60894692900
+0 Frct, à croissance serrée, cespiteuses041668954289310417
+0 * Frct, isolées ou en groupes041668964289320420
+0 Frct, ocre-brun à gris-brun, turbinées04178958974299330418
+0 * Frct, blanches, cylindriques, tubuleuses04178958984299340419
+0 * Frct, lisses, blanchâtres, incrustées sur la face externe, globuleuses-turbinées, hautes de0, 2mm.Subiculumfeutré.Sp.4, 5-5, 5µm de diamètre, sphériques(v.aussiNo234) 04188978994309350 Stigmatolemma urceolatum No 2350
+0 Frct, hautes de 0, 2-0, 5 mm. Face externe feutrée-velue, ocre-brun. Hyménium crème. Sp. 8-9, 5 x 3, 7^4, 5 µm. Absence de subiculum 04188979004309360 Merismodes anomalus No 2240
+0 * Hyphes finement ramifiées au sommet des dissépiments 04198989014319370 Henningsomyces candidus No 2290
+0 Hyphes simples au sommet des dissépiments, non ramifiées, obtuses 04198989024319380 Rectipilus fasciculatus No 2310
+0 Frct, dépassant 5 mm de grandeur, sur Abies, en forme de dé à coudre, pendantes, gris- brun à noir-brun 04208969034329390 Cyphella digitalis No 2270
+0 * Frct, plus petites, sur d'autres substrats04208969044329400421
+0 Frct, lisses sur la face externe, infundibuliformes ou campanulées, pendantes, sur débris végétaux jonchant le sol04219049054339410422
+0 * Frct, à hyphes incrustées sur la face externe04219049064339420423
+0 * Frct, blanches à crème, 2-5 mm. Sp. 6-9 x 3, 5-4, 5/t m 04229059074349430 Calyptella capula No 2260
+0 Frct, jaune soufre à jaune-vert, 1-2 mm. Sp. 8, 5-9, 5 x 4, 5-5, 5µm. 04229059084349440 Calyptella campanula No 2250
+0 * Poils hyalins à bases dextrinoïdes brunâtres, extrémités cylindriques terminées en pointes. Frct. 0, 5-1, 5 mm, blanches avec la face interne gris-bleuté. Sp. 12, 5-15 x 10-11 µm (si spores 7-12 x 5-7 µm = L. villosa) 04239069094359450 Lachnella alboviolascens. No 2300
+0 Poils hyalins, extrémités en fouet. Frct. 0, 3-1 mm, blanches avec face interne gris- ocracée 04239069104359460 Flagelloscypha minutissima No 2280
+00-70911594900
+0 Frct, parasites ou saprophytes, croissant sur des champignons042479124369510425
+0 Frct, ne venant pas sur des champignons042479134369520426
+0 * Sur Stereum sanguinolentum (No 203). Frct, blanchâtres à rose-brun pâle, pourvues d'une masse centrale dure. Sp. 9-11 x 7, 5-9 ^m 04259129144379530 Tremella encephala No 260
+0 * Sur vieux Pyrénomycètes, en particulier Diatrype et Eutypella (V. tome 1 ), sur branches de Quercus. Frct. 2-5 mm, blanchâtre-ocracé et opalescentes. Sp. arrondies, 6-7, 5 x 5-7, 5 ^m 04259129154379540 Tremella globospora No 280
+0 Sur Aleurodiscus amorphus (No 45). Frct, blanchâtre-ocracé, 1-5 mm. Hypobasides bi- sporiques. Cloisons non bouclées (si hypobasides tétrasporiques et cloisons bouclées = Tremella mycophaga) 04259129164379550 Tremella simplex No 300
+0 Frct, globuleuses, lenticulaires ou pulvinées, isolées ou confluentes, blanchâtres, jaunes, orange-rouge à oranges. Basides fourchues 04269139174389560427
+0 * Frct, de formes différentes04269139184389570430
+0 Cloisons bouclées04279179194399580428
+0 * Cloisons non bouclées04279179204399590429
+0 * Frct, jaunes à rouge-orange, 2-5 mm. Sp. 15-19 (27) x 4, 5-7 ^m. Sur Pinus surtout 04289199214409600 Dacrymyces variisporus No 50
+0 Frct, jaune d'œuf, 5-10 mm, turbinées ou cupuliformes, pourvues d'un noyau blanchâtre au centre. Sp. 22-25 x 8-9 µm. En particulier sur Abies 04289199224409610 Femsjonia pezizaeformis. No 60
+0 * Sp. 14-17 x 5-6 µm, à parois épaisses. Frct, au plus rétrécies à la base, 1-15 mm 04299209234419620 Dacrymyces stillatus No 4 0
+0 Sp. (8) 10-13 x 4, 5-5 ^m, à parois minces. Frct, nettement pédicellées, 0, 5-1 mm 04299209244419630 Dacrymyces capitata No 30
+0 Frct, en forme d'oreille, lobées, rouge-brun, olive-brun à noirâtres. Surtout sur Sambucus, sur troncs dressés et sur branches pendantes 04309189254429640 Auricularia auriculajudae No 70
+0 * Frct, de formes différentes04309189264429650431
+0 Frct, infundibuliformes ou en forme d'oreille, orange-rose à saumon-brun ou brun- rouge. Terricoles ou sur bois pourrissant, souvent fasciculées 04319269274439660 Tremiscus helvelloides. No 310
+0 * Frct, de formes différentes04319269284439670432
+0 Frct, finement ou grossièrement lobées, fasciculées et issues d'une base commune04329289294449680433
+0 * Frct, de formes différentes04329289304449690435
+0 * Frct, brun foncé a brun-noir, ornées de papilles glandulaires, turbinées au début. Sur Quercus 04339299314459700 Exidia truncata No 250
+0 Frct, de couleur «sucre candi» ou brun-rouge (si sur Pinus = Exidia saccharina A. & S.: Fr.)04339299324459710434
+0 * Sp. 14-15 x 3-3, 5 ^m. Frct, non fasciculées mais en troupes. Sur Salix 04349329334469720 Exidia recisa No 230
+0 Sp. 9-11 x 6-8 µm. Frct, toujours fasciculées. Souvent sur Alnus. 04349329344469730 Tremella foliacea No 270
+0 Frct, étalées, apprimées au substrat, ± cérébriformes04359309354479740436
+0 * Frct, étalées-réfléchies ou turbinées04359309364479750439
+0 Frct, noires, ornées de papilles glandulaires04369359374489760437
+0 * Frct, blanchâtres à ocracé-saumon04369359384489770438
+0 * Sur conifères, en particulier sur Picea, 10-30 mm 04379379394499780 Exidia pithya No 220
+0 Sur feuillus, 30-100 mm 04379379404499790 Exidia glandulosa No 210
+0 * Frct, ocre-rose à saumon. Sur Prunus avium. Présence de pyenides 04389389414509800 Craterocolla cerasi No 200
+0 Frct, blanchâtres, ocracées, blanc-bleuâtre, opalescentes. Sur feuillus, en particulier sur Fagus (sans pyenides) 04389389424509810 Exidia thuretiana No 240
+0 Frct, étalées-réfléchies. Surface piléique zonée et strigueuse-feutrée. Face inférieure veinée-ridulée, pourpre-brun (si face inférieure mérulioïde, de couleur rose, v. No 145) 04399369434519820 Auricularia mesenterica. No 80
+0 * Frct, turbinées04399369444519830440
+0 * Sur Prunus avium. Frct, ocre-rose. Présence de pyenides. 04409449454529840 Craterocolla cerasi No 200
+0 * Sur Salix. Frct, turbinées dans la jeunesse seulement .. 04409449464529850 Exidia recisa No 230
+0 Sur Quercus et Castanea. Frct, brun-noir 04409449474529860 Exidia truncata No 250
+00-80948498900
+0 Frct, hypogées, croissant dans le sol, visible au plus à maturité044289494549920443
+0 * Frct, épigées, croissant sur le sol, au plus enfouies dans la jeunesse044289504549930446
+0 Frct, jaune-orange vif. Sp. casquées d'épines 04439499514559940 Stephanospora caroticolor No 4910
+0 * Frct, colorées de brun04439499524559950444
+0 Sp. brunes, striées longitudinalement. Frct, blanchâtres puis brunes, se tachant de bleu-noir au toucher. Odeur non caractéristique. Espèce plutôt montagnarde. . 04449529534569960 Chamonixia caespitosa. No 4920
+0 * Sp. brunes, lisses04449529544569970445
+0 * Sp. dépourvues de coiffe, cylindriques, avec restes hyalins de stérigmates, 8-10, 5 x 3-4, 5 µm. Odeur fruitée agréable 04459549554579980 Melanogaster broomeianus No 4900
+0 Sp. ornées d'une coiffe claire bien visible, 12-20 x 8-11 ^m, losangiques. Odeur désagréable de poireaux ou d'oignons pourrissants 04459549564579990 Melanogaster ambiguus. No 4890
+0 * Frct, différentes044695095745810000451
+0 Frct, ornées d'une exopéridie étoilée à maturité (genre Geastrum) 044695095845810010447
+0 Frct, grandes, 40-100 mm044795895945910020448
+0 * Frct, plus petites044795896045910030449
+0 * Exopéridie formée d'une seule couche épaisse de 5 mm, sans collarium, 6-9 lobes étoilés. Frct, carnées à rose-brun, parfois rougissantes (v. aussi No 501). . 044895996146010040 Geastrum vulgatum No 5030
+0 Exopéridie épaisse formée de 2 couches, l'interne se fendant de manière à former un collarium autour de l'endopéridie globuleuse, l'externe se déchirant en 5-6 lobes. Frct, crème à gris-brun 044895996246010050 Geastrum triplex No 5020
+0 Frct, ne dépassant guère 30 mm, à maturité dressées sur les 4 (5) lobes qui font office d'échasses. Péristome entouré d'une zone circulaire 044996096346110060 Geastrum quadrifidum No 5000
+0 * Frct, dépassant habituellement 30 mm044996096446110070450
+0 * Endopéridie globuleuse portée par un pédicelle et nettement striolée au point d'attache. Sp. à verrues obtuses, 4-6 ^m de diamètre 045096496546210080 Geastrum pectinatum No 4990
+0 Endopéridie globuleuse sessile. Sp. finement verruqueuses ou presque lisses, 3-4 ^m de diamètre (v. aussi No 503) 045096496646210090 Geastrum sessile No 5010
+0 Frct, en formes de trompettes, d'urnes, turbinées, 5-15 mm de hauteur, garnies de péridioles045195796746310100452
+0 * Frct, sans péridioles045195796846310110456
+0 Frct, sans épiphragme (opercule). Frct, se déchirant irrégulièrement à maturité et se désagrégeant, crème à jaune-brun 045296796946410120 Nidularia farcta No 4970
+0 * Frct, à épiphragme (opercule) qui se déchire à maturité. Frct, ne se désagrégeant pas045296797046410130453
+0 Hyphes de la face externe des frct, échinulées. Frct, veloutées-feutrées sur la face externe, jaune-ocre, 5-10 mm de hauteur, face interne lisse. Péridie formée d'une seule couche 045397097146510140 Crucibulum laeve No 4930
+0 * Hyphes de la face externe lisses045397097246510150454
+0 Face interne de la frct . striolée. Frct, strigueuses-feutrées sur la face externe, brun foncé, 5-15 mm de hauteur. Péridie à 3 couches 045497297346610160 Cyathus striatus No 4960
+0 * Face interne lisse045497297446610170455
+0 * Péridioles noires. Face externe strigueuse-apprimée. Frct. 5-10 mm de hauteur. Sp. 18-23 x 15-20 //.m 045597497546710180 Cyathus stercoreus No 4950
+0 Péridioles gris-brunâtre. Face externe presque glabre. Frct. 5-10 mm de hauteur. Sp. 9-12 x 5, 5-7 ^m 045597497646710190 Cyathus olla No 4970
+0 Frct, globuleuses, 1-2 mm, couleur paille, sommet se déchirant en dents. Gléba propulsée au loin à maturité 045696897746810200 Sphaerobolus stellatus. No 4980
+0 * Frct, différentes045696897846810210457
+0 Frct, globuleuses, piriformes, utriformes, rarement pédicellées (chez Tulostoma). Gléba pulvérulente à maturité045797897946910220458
+0 * Frct, se développant dans la terre, enfouies, ovales à globuleuses, blanchâtres, ocracées. Gléba mucilagineuse liquide à maturité verdâtre. Odeur souvent désagréable.045797898046910230476
+0 Frct, à tête globuleuse portée par un pied haut de 20^10 mm .. 045897998147010240 Tulostoma brumale No 5220
+0 * Frct, différentes045897998247010250459
+0 Frct, constituées d'une subgléba stérile et ornées ± régulièrement d'un pore apical045998298347110260460
+0 * Frct, se déchirant irrégulièrement au pôle à maturité ou se désagrégeant totalement045998298447110270468
+0 Subgléba séparée de la gléba par un diaphragme parcheminé. 046098398547210280 Vascellum pratense No 5210
+0 * Subgléba sans diaphragme046098398647210310461
+0 Lignicoles. Subgléba restant blanche. Rhizomorphes bien développés. Sp. lisses 046198698747310320 Lycoperdon pyriforme No 5190
+0 * Terricoles. Subgléba mûre de même teinte que la gléba. Sp. verruqueuses046198698847310330462
+0 Endopéridie verruqueuse à échinulée, réticulée après la chute des aiguillons046298898947410340463
+0 * Endopéridie échinulée ou verruqueuse à globuleuse, lisse après la chute des aiguillons ou des verrues046298899047410350465
+0 * Frct, blanches au début, piriformes, pédicellées, ornées de verrues coniques (v. aussi No 510). . 046398999147510360 Lycoperdon perlatum. No 5180
+0 Frct, brunâtres au début déjà, échinulées, globuleuses ou turbinées046398999247510370464
+0 * Aiguillons 1-3 mm de longueur. Sporée olive- brun. Sp. finement verruqueuses, presque lisses 046499299347610380 Lycoperdon foetidum No 5130
+0 Aiguillons 3-5 mm de longueur. Sporée brun chocolat. Sp. verruqueuses-échinulées .. 046499299447610390 Lycoperdon echinatum. No 512 0
+0 Frct, laineuses-floconneuses au début, blanches, puis l'exopéridie se déchire en plaquettes (très fugaces). Endopéridie se teintant ensuite de rose. Souvent sous Fagus, sur sols calcaires 046599099547710400 Lycoperdon mammaeforme No 5150
+0 * Frct, différentes046599099647710410466
+0 Frct, furfuracées, granuleuses. Dans les prés et pâturages 046699699747810420 Lycoperdon lividum No 5140
+0  Frct, échinulées046699699847810430480
+0 Sp. finement verruqueuses, sans restes de stérigmates brisés. Sporée jaune- brun 0467102799947910470 Lycoperdon umbrinum No 5200
+0 * Sp. grossièrement verruqueuses avec nombreux restes de stérigmates brisés. Sporée rouge-brun à chocolat. . 04671027100047910480 Lycoperdon molle No 5160
+0 Présence d'une subgléba0468984100148010520469
+0 * Absence de subgléba0468984100248010530471
+0 * Subgléba non séparée ou imparfaitement séparée de la gléba. Frct, utriformes, clavées ou piriformes, 80-150 mm de hauteur 04691001100348110540 Calvatia excipuliformis No 5100
+0 Subgléba séparée de la gléba par un diaphragme ou un pseudodiaphragme. Frct, globuleuses04691001100448110550470
+0 * Subgléba séparée de la gléba par un pseudodiaphragme. Frct. 50-150 mm de grandeur, ornées de verrues pyramidales. Sp. lisses 04701004100548210560 Calvatia utriformis No 5090
+0 Subgléba avec diaphragme véritable. Frct, ne dépassant pas 50 mm de grandeur. Sp. finement verruqueuses 04701004100648210570 Vascellum pratense No 5210
+0 Péridie mince, papyracée à maturité. Frct, blanches au début. Gléba olive-brun à maturité04711002100748310580472
+0 * Péridie épaisse, coriace. Frct, jaunâtres dès la jeunesse avec des squamules brunes. Gléba noire à maturité (Scleroderma)04711002100848310590474
+0 Frct, très grandes, globuleuses, 100-500 mm, finement veloutées et restant blanches longtemps. Dans les prés et les pâturages 04721007100948410600 Langermannia gigantea. No 5110
+0 * Frct, ne dépassant guère 50 mm, globuleuses, blanches dans la jeunesse04721007101048410610473
+0 * Exopéridie furfuracée-aréolée à maturité, disparaissant peu à peu. Endopéridie rouge-brun foncé à noirâtre, brillante. Etages montagnard à subalpin. 04731010101148510620 Bovista nigrescens No 5070
+0 Exopéridie s'écaillant à maturité à la manière d'une coquille d'œuf. Endopéridie couleur plomb à gris- blanc, mate. Etage collinéen 04731010101248510630 Bovista plumbea No 5080
+0 Péridie ne dépassant pas 1 mm d'épaisseur. Sp. crêtées- échinulées, nettement réticulées (KOH). Cloisons bouclées 04741008101348610640 Scleroderma bovista No 5050
+0 * Péridie plus épaisse, atteignant jusqu'à 5 mm04741008101448610650475
+0 * Sp. échinulées-crêtées avec un réseau imparfait (KOH). Toutes les cloisons sont bouclées. . 04751014101548710660 Scleroderma citrinum No 5060
+0 Sp. échinulées, non réticulées. La plupart des cloisons non bouclées 04751014101648710670 Scleroderma areolatum. No 5040
+0 Frct, piriformes-noduleuses, pourvues de rhizomorphes, étoilées par la déchirure du sommet. Gléba puante. Sur bois pourris 0476980101748810680 Phallogaster saccatus No 5250
+0 * Frct, à pied spongieux naissant d'un œuf et portant au sommet la gléba mucilagineuse0476980101848810690477
+0 * Frct, ressemblant à des pieuvres ou à des ballons constitués de mailles rouges0476980101948810700479
+0 Frct. 60-100 x 10-15 mm. Sommet conique recouvert d'une gléba vert pâle pratiquement dépourvue d'odeur, bien distincte du pied mais non libre. Œuf 20-35 mm, blanchâtre à ocracé 04771018102048910710 Mutinus caninus No 5260
+0 * Frct. 100-200 x 25-50 mm. Sommet conique campanulé recouvert de gléba vert-olive, distincte du pied. Œuf 30-60 mm.04771018102148910720478
+0 * Œuf blanchâtre au début, devenant rapidement rose à rouge-violet. Gléba pratiquement sans odeur. Espèce rare, adventive. 04781021102249010730 Phallus hadriani No 5270
+0 Œuf blanc à crème sale sur sa face externe. Gléba puante. Espèce fréquente 04781021102349010740 Phallus impudicus No 5280
+0 * Frct, en forme de ballons constitués de mailles rouges. Gléba verdâtre, puante. Espèce rare, adventive 04791019102449110750 Clathrus ruber No 5240
+0 Frct, ressemblant à des pieuvres avec 4-6 tentacules. Gléba vert-olive, puante. Espèce, adventive 04791019102549110760 Anthurus archeri No 5230
+0 Dans les tourbières et les landes, parmi les plantes herbacées. Aiguillons de couleur crème. Sp. garnies de pédicelles atteignant jusqu'à 25 ^m de longueur 0480998102649210790 Lycoperdon pedicellatum No 5170
+0 * Dans les forêts. Aiguillons bruns0480998102749210800467
+0 I0-9010283108400
+0 Sur Rhododendron ferrugineum et R. hirsutum; les feuilles parasitées forment des galles noduleuses 04819102949310860 Exobasidium rhododendri No 380
+0 Sur d'autres plantes04819103049310870482
+0 Sur bourgeons et feuilles d'Andromeda polyfolia. Les feuilles sont hypertrophiées et rouges 04821030103149410880 Exobasidium karstenii No 36 0
+0 * Sur Vaccinium (myrtilliers)04821030103249410890483
+0 Sur Vaccinium oxycoccus. La face supérieure des feuilles parasitées devient rouge. 04831032103349510900 Exobasidium rostrupii No 39 0
+0 * Sur Vaccinium uliginosum04831032103449510910484
+0 * Sur Vaccinium vitis-idaea04831032103549510920485
+0 * Parasite les plantes entières ou des rameaux entiers. Les feuilles parasitées changent de grandeur et rougissent depuis la marge 04841034103649610930 Exobasidium vacciniiuliginosi. No 340
+0 Ne parasite que quelques feuilles qui se tachent de rouge ou de vineux. Taches 2-5 mm; pas de déformation des feuilles 04841034103749610940 Exobasidium pachysporum No 370
+0 * Parasite des bourgeons entiers; bourgeons et feuilles parasités restent plus petits et rouge clair 04851035103849710950 Exobasidium juelianum. No 350
+0 Ne parasite que quelques feuilles qui produisent des épaississements rouges bordés de jaune 04851035103949710960 Exobasidium vaccinii No 400

@@ -1,0 +1,879 @@
+Titre$ $Clé des entolomes de Noordelooos 
+ com$ conversion du 2/02/08 
+
+rem$LANGUE$Anglais
+Nota: les clés au format normalisée .CLE sont avantageusement exploitées par le logiciel 'Mycocle' (gratuit), téléchargeable sur 'http://mycolim.free.fr/DOC_SML/mycoCLE/Charg_Mycocle.htm'
+
+1,cs1 $ Fruitbodies small with reduced, eccentric or lateral stipe, which sometimes lacks entirely (crepidotoid, pI. la) $Key 1$s"Claudopus sect. Claudopus"
+1,2 $ Fruitbodies different, usually with a well-developed, centrally inserted stipe
+2,3 $ Pileus and/or stipe tinged blue or violaceous
+2,5 $ Fruitbodies differently coloured
+3,cs2 $ Pileus and stipe with blue or violaceous colour $ Key 2$s"most of the blue Leptonia and a few other taxa-1"
+3,4 $ Pileus or stipe with blue or violaceous colour
+4,cs3 $ Lamella edge darker than sides; all species with cheilocystidia $ Key 3 $ s"most of the blue Leptonia and a few other taxa-2"
+4,cs4 $ Lamella edge concolorous with sides; cheilocystidia present or not $ Key 4 $ s"most of the blue Leptonia and a few other taxa-3"
+5,cs5 $ Pileus pink $ Key 5$s"species with pink cap"
+5,6 $ Pileus with other colour
+6,cs6 $ Spores very small (ranging from 6-8 (-9) µm long and very thin-walled and many-angled in side view, often distinctly staining in cotton-blue (cyanophilous), pl. Ila. $ Key 6$s"sect. Turfosa"
+6,7 $ Spores different, not cyanophilous
+7,cs7 $ Species from alpine or arctic environments, usually associated with either dwarf Salix, Dryas or Polygonum viviparum; habit usually small, tricholomatoid or mycenoid, rarely collybioid or omphalioid and trama of pileus made up of short elements, 40-100 µm long (Pseudonolanea) $ Key 7$s" Pseudonolanea (arctic-alpine species only)"
+7,8 $ Species from other habitat and with different habit and structure of pileitrama
+8,9 $ Pileus convex to applanate, often with deflexed or involute margin with depressed to infundibuliform centre; lamellae adnate-emarginate to decurrent (habit collybioid, clitocyboid or omphalinoid)
+8,10 $ Pileus conical or convex, expanding to plano-convex, usually with umbo; lamellae adnexed to adnate, often emarginate (habit mycenoid or tricholomatoid, pl. I c, e, f)
+9,cs8$ Pileus smooth, glabrous $ Key 8
+9,cs9 $ Pileus fibrillose, tomentose, squamulose, pruinose or wrinkled $ Key 9$s"most Leptonia without blue colour, Undata and other omphalioid species with incrusting pigment"
+10,cs10 $ Spores cuboid or cruciform (pl. Il b, c) $ Key 10
+10,11 $ Spores not cuboid or cruciform
+11,cs11 $ Fruitbodies mycenoid, very pale cream-colored to almost white, with conical, only slightly expanding pileus, which is either not hygrophanous or slightly hygrophanous and not or hardly translucently striate; lamellae almost free; stipe long, rigid, sometimes rooting; clamp-connections absent $ Key 11
+11,12 $ With other combination of characters
+12,13 $ Pileus glabrous; pileipellis a cutis or ixocutis of relatively narrow elements, 2-10 µm wide
+12,15 $ Pileus pruinose, radially fibrillose, wrinkled, rugulose or squamulose, usually not or indistinctly hygrophanous; pileipellis at least in part a trichoderm, hymeniderm or callliderm
+13,cs12 $ . Habit tricholomatoid, rarely mycenoid; pileus conical to planoconvex with umbo; usually relatively fleshy; lamellae adnate-emarginate; stipe fibrous; trama of pileus and lamellae made up of chains of short elements, about 40-100 µm long $ Key 12$s"Entoloma"
+13,14 $ Habit mycenoid with relatively thin-fleshed pileus; trama of pileus and lamellae usually made up of long, fusiform elements, 150-300 (-400) µm long
+14,cs13 $ Cheilocystidia present $ Key 13$s"Nolanea-1"
+14,cs14 $ Cheilocystidia absent $ Key 14$s"Nolanea-2"
+15,cs15 $ . Fruitbodies mycenoid with strongly radially fibrillose, hairy or finely squamulose pileus, reminiscent a species of Inocybe with relatively dark lamellae; pigment incrusting, sometimes also intracellular, and clamp-connections absent (pl. I f) $ Key 15$s"Pouzarella	"
+15,16 $ Fruitbodies tricholomatoid or mycenoid with pruinose, rimulose, rugulose, venose, fibrillose, or squamulose pileus, usually with intracellular pigment, rarely with incrusting pigment, but stipe without stiff hairs, and clamp-connections present
+16,cs16 $ ilocystidia at least a certain percentage per lamella edge, distinctly capitate $ Key 16$s"Trichopilus"
+16,cs17 $ Cheilocystidia, if present, different $ Key 17$s"Inocephalus"
+...........
+rem $titre $ Key 1. Fruitbodies crepidotoid or pleurotoid.
+cs1,0$ 
+1,2 $ Smell distinct, like garlic or fishy
+1,3 $ Smell indistinct or farinaceous
+2,0 $ Smell of garlic; fruitbodies white; clamp-connections absent $ E. alliodorum 328. 
+2,0 $ Smell of fish, reminiscent of Macrocystidia cucumis; fruitbodies grey; clamp-connections present $ E. catalaensis 329. 
+3,0 $ Fruitbodies with capitate pileo- and caulocystidia; spores rather large and broad, 7.5-10(-11.5) x 9.5-13 (-15) µm $ E. jahnii 326. 
+3,4 $ Fruitbodies without capitate pileo- and caulocystidia; spores different
+4,5 $ Fruitbodies white
+4,6 $ Fruitbodies colored
+5,0 $ Lamellae distant; spores 4-6 angled; clamp-connections absent $ E. albotomentosum 324. 
+5,0 $ Lamellae moderately crowded; spores 6-8 angled; clamp-connections present $ E. exiguum 327. 
+6,7 $ Clamp-connections present; cheilocystidia absent
+6,8 $ Clamp-connections absent; cheilocystidia present
+7,0 $ Spores 5.5-8 µm wide; terricolous or on dead plant remains $ E. byssisedum 320. 
+7,0 $ Spores 8-10.5 (-11) µm wide; parasitic on other fungi $ E. parasiticum 323. 
+8,0 $ Parasitic on Cantharellus $ E. pseudoparasiticum 324. 
+8,9 $ Not parasitic on Cantherellus
+9,0 $ On compost in houseplants; stipe usually well developed, often central in young stages ; cheilocystidia absent $ E. ollare 325. 
+9,0 $ On rotten wood in the wild; cheilocystidia present $ E. depluens 321. 
+..
+rem $titre$ Key 2. Pileus and stipe with blue or violaceous colour.
+cs2,0$
+
+1,2 $ Pileus smooth, glabrous; pileipellis a cutis or ixocutis of narrow, up to 10 µm wide, cylindrical hyphae
+1,5 $ Pileus not glabrous, but fibrillose, tomentose, squamulose or rugulose, at least at centre ; pileipellis in such places with elements > 10 µm wide.
+2,4 $ Fruitbodies tricholomatoid with a fleshy, not translucently striate pileus
+2,3 $ Fruitbodies smaller, collybioid with a thin-fleshed, often translucently striate pileus
+3,0 $ Pileus predominantly brown with violaceous tinge $ E. caeruleopolitum 49. 
+3,0 $ Pileus blue, concolorous with stipe $ E. reae 50. 
+4,0 $ Fruitbodies robust; stipe in the middle (5-) 8-25 mm; lamellae crowded, up to 40 entire lamellae; in grasslands on calcareous soil $ E. bloxamii 3. 
+4,0 $ Fruitbodies less robust; stipe in the middle 2-9 mm broad; lamellae less crowded, about 25 entire lamellae present; in forest on acid soil $ E. nitidum 4. 
+5,6 $ Lamella edge blue-black or brown, of serrulatum-type (pl. I g)
+5,11 $ Lamella edge concolorous with sides or brown, but not of serrulatum-type
+6,0 $ Pileus and stipe soon showing distinct olivaceous tinges $ E. querquedula 219. 
+6,7 $ Pileus and stipe without olivaceous tinge
+7,0 $ Pileus deeply translucently striate, squamulose at centre only $ E. gomerense 224. 
+7,8 $ Pileus not translucently striate, entirely tomentose or squamulose
+8,0 $ Lamellae staining blue when bruised; inner part of stipe with green tinge $ E. chalybescens 244. 
+8,9 $ Lamellae not staining blue when bruised
+9,10 $ Pileus and stipe blue; stipe polished or covered with fine fibrils
+9,0 $ Pileus and stipe violaceous; stipe coarsely fibrillose $ E. violaceoserrulatum 225. 
+10,0 $ Lamella edge blue-black; spores 9.0-12 x 6.5-8.0 µm, Q = 1.2-1.6 $ E. serrulatum 217. 
+10,0 $ Lamella edge brown; spores (10-) 11-11,9-13 (-14) x (6,25-) 6,5-7-7,5 (-8) µm, Q = 1,4-1,9 $ E. brunneoserrulatum 223. 
+11,12 $ Lamellae blue or violaceous when young or with a violaceous-pink lamella edge
+11,20 $ Lamellae without blue or violaceous tinge
+12,0 $ Fruitbodies, inclusive of lamellae, deep violaceous; lamellae with brown edge; on wood, particularly of Alnus $ E. euchroum 1974
+12,13 $ Fruitbodies different, not, or rarely on wood
+13,0 $ Fruitbodies omphalioid with a violaceous-brown colour, inclusive lamellae $ E. violaceoparkensis 311. 
+13,14 $ Fruitbodies collybioid, blue
+14,0 $ Clamp-connections present $ E. lepidissimum 209. 
+14,15 $ Clamp-connections absent
+15,0 $ Pileus violaceous-pinkish, strongly contrasting with the steel-blue stipe; lamellae edge lilaceous-pink or concolorous with sides $ E. ursulae 253. 
+15,16 $ Pileus differently coloured often more or less with the same colour as the stipe; lamella edge never lilaceous-pink
+16,17 $ Besides blue also green tinges present, at least in the stipe
+16,18 $ Pileus and stipe blue
+17,0 $ Stipe with distinct greenish tinges; pileus blackish blue at first, but gradually becoming brown-violaceous $ E. violaceoviride 275. 
+17,0 $ Pileus and stipe with green-yellow tinges mixed with blue; base of stipe often with sulphur yellow mycelium $ E. cyaneoviridescens 231. 
+18,0 $ Blue tinge ephemerous, quickly disappearing, then fruitbodies brown to pale brown ; stipe rather pale yellowish grey or yellow $ E. mutabilipes 266. 
+18,19 $ Blue tinges persistent in mature fruitbodies
+19,0 $ Cheilocystidia present; stipe base without orange-yellow mycelium $ E. chalybaeum 229. 
+19,0 $ Cheilocystidia absent; stipe base often with orange-yellow mycelium $ E. cruentatum 230. 
+20,21 $ Clamp-connections present
+20,29 $ Clamp-connections absent
+21,22 $ Pileus colour different from stipe
+21,25 $ Pileus and stipe with the same blue or violaceous-grey colour
+22,23 $ Spores with many, rather weak angles
+22,24 $ Spores with 5-7 (-9) pronounced angles
+23,0 $ Pileus grey-brown with blue spots near margin when young only $ E. tjallingiorum 199. 
+23,0 $ Pileus brown with lilac or violaceous tinge at centre, towards margin a tender pinkish ochre $ E. austriacum 201. 
+24,0 $ .Stipe lilaceous-blue or steel blue; adpressed fibrillose; pigment intracellular in pileipellis $ E. dichroum 198. 
+24,0 $ Stipe pale violaceous with darker violaceous fibrillose covering; pigment both intracellular and incrusting in pileipellis $ E. allochroum 202.
+25,26 $ Spores isodiametrical, small, up to 9 µm in diam.
+25,27 $ Spores heterodiametrical
+26,0 $ Pileus deeply translucently striate $ E. klofacianum 214. 
+26,0 $ Pileus not translucently striate $ E. alcedicolor 11. 
+27,0 $ Stipe polished; spores 6.5-8.5 x 5.5-6.0 µm $ E. coelestinum 208. 
+27,28 $ Stipe covered with blue granules
+28,0 $ Spores 7.5-9.0 µm wide, 6-7-angled $ E. cedretorum 212. 
+28,0 $ Spores 6.0-7.0 µm wide, many-angled to nodulose $ E. chytrophilum 216. 
+29,30 $ Pileus translucently striate when moist and fresh
+29,31 $ Pileus opaque, not translucently striate
+30,0 $ Pileus rather pale beige-brown with blackish-blue squamules; stipe beige with steel blue tinge; cheilocystidia present $ E. caesiellum 234. 
+30,0 $ Pileus very dark violet-blue; stipe dark blue; cheilocystidia absent $ E. pseudocoelestinum 233. 
+31,0 $ Cheilocystidia with yellow granulose content; pileus and stipe purely sky-blue $ E. uranochroum 294. 
+31,32 $ Cheilocystidia different or absent; pileus and stipe differently coloured
+32,0 $ Cheilocystidia very long, up to 125 µm, lamellae beige-brown to grey-brown; pileus blue¬violaceous to brown violaceous, zonate $ E. violaceozonatum 203. 
+32,33 $ Cheilocystidia, if present, distinctly shorter; lamellae white or pale; pileus differently coloured and/or not zonate
+33,34 $ Spores 11.5-15 µm long
+33,35 $ Spores at most up to 12.5 µm long
+34,0 $ Fruitbodies very small, pileus up to 10 mm, deeply translucently striate, finely squamulose at centre only; lamella edge sterile $ E. cyanulum 232. 
+34,0 $ Fruitbodies larger, pileus up to 40 mm, very dark blue almost black, not translucently striate; lamella edge heterogeneous with scattered cheilocystidia $ E. aethiops 240. 
+35,0 $ Pileus rather pale brown with faint blue tinge at margin only when young, entirely covered in fine greyish squamules; stipe faintly blue when young $ E. mediterraneense 271. 
+35,36 $ Pileus and stipe darker and with more pronounced blue or violaceous tinge
+36,37 $ Stipe glabrous polished
+36,41 $ Stipe covered with fibrils, which may agglutinate in small flocks or squamules
+37,0 $ Cheilocystidia abundant, lamella edge sterile $ E. caeruleum 238. 
+37,38 $ Cheilocystidia absent or scattered among the basidia
+38,0 $ Pileus strongly radially fibrillose-virgate with rows of minute grey squamules on aviolaceous-brown background $ E. ianthinomeleagris 254. 
+38,39 $ Pileus differently coloured and ornamented
+39,0 $ Pileus very dark blackish blue, and remaining so $ E. melanochroum 241. 
+39,40 $ Pileus blue or blue-violaceous often changing to more brownish tinges with age
+40,0 $ Pileus 10-30 mm broad, often conical to campanulate with small papilla $ E. lepiotosme 263. 
+40,0 $ Pileus 20-70 mm broad, umbilicate $ E. viiduense 237. 
+41,42 $ Pileus and stipe violaceous to violaceous-black 
+41,45 $ Pileus and stipe blue
+42,43 $ Cheilocystidia absent
+42,44 $ Cheilocystidia present
+43,0 $ .Fruitbodies small, pileus 14-18 mm broad, spores 6.5-8.0 (-8.5) x 5.5-7.0 (-7.5) µm . $ E. pachydermum 158.
+43,0 $ Fruitbodies larger; pileus up to 75 mm broad; spores 9.5-14 x 7-10 µm $ E. nigroviolaceum 239. 
+44,0 $ Spores 8.5-9.5 (-10) x (6.0-) 6.5-7.6 µm $ E. alvarense 245. 
+44,0 $ Spores 9.0-11.5 (-12.5) x 6.0-8.0 (-9.0) µm $ E. mougeotii 236. 
+45,0 $ Lamella edge fertile; cystidia absent $ E. atrocoeruleum 242. 
+45,46 $ Lamella edge sterile with abundant cheilocystidia
+46,0 $ Pileus and stipe deep blackish blue, remaining so with age with strongly contrasting white lamellae $ E. corvinum 235. 
+46,47 $ Pileus initially blackish blue, soon fading to grey-brown with blue or lilac tinge
+47,0 $ Stipe strongly fibrillose with blackish blue fibrils on glaucous blue background $ E. armoricanum 243. 
+47,0 $ Stipe ultramarine to blue-black, fading with age, never with glaucous tinges, often only sparsely innately striate $ E. caeruleum 238. 
+....
+rem$ Key 3. Species with blue stipe and colored lamella edge.
+cs3,0$
+1,2 $ Lamella edge of serrulatum-type with blue-black pigment
+1,5 $ Lamella edge a hymeniform layer of cheilocystidia with intracellular pigment
+2,3 $ Pileus pink or flesh-coloured
+2,4 $ Pileus yellow or brown
+3,0 $ Pileus pink; stipe often two-coloured with pink upper part and blue lower part $ E. catalaunicum 249. 
+3,0 $ Pileus flesh-coloured beige; stipe steel grey at first, but soon concolorous with pileus ... $ E. carneogriseum 220. 
+4,0 $ Pileus rather pure yellow $ E. xanthoserrulatum 226. 
+4,0 $ Pileus brown $ E. caesiocinctum 218. 
+5,0 $ Stipe fibrillose to flocculose $ E. coeruleoflocculosum 258. 
+5,6 $ Stipe glabrous, polished
+6,7 $ Pileus rather pale yellow- or reddish-brown, deeply translucently striate
+6,8 $ Pileus dark (sepia) brown to almost black, not translucently striate or at margin only; stipe deep blue to dark steel blue and retaining its colour
+7,0 $ Pileus pale brown with distinct dark central spot; stipe pale blue or with glaucous-greentinges; cheilocystidia long, septate $ E. exile 293. 
+7,0 $ Pileus pale to moderately dark reddish brown; stipe pale steel-blue, soon turning brown; cheilocystidia not septate $ E. caliginosum 279. 
+8,0 $ Spores (9-) 10-11.5 (-14) x 6-9 µm, Q = 1.2-1.9, distinctly heterodiametrical; lamellae always without blue tinge $ E. poliopus 268. 
+8,0 $ Spores 7.5-11 x 7-8 µm, Q = 1.05-1.4, subisodiametrical to heterodiametrical, 4-6angled in side view; lamellae often with blue tinge $ E. broesarpensis 265. 
+.......
+rem$ Key 4. Species with blue pileus or stipe, and a concolorous lamella edge.
+cs4,0$
+1,2 $ Pileus only with blue or violaceous tinges
+1,6 $ Stipe only with blue or violaceous tinges .
+2,0 $ Pileus dark grey-violaceous with carmine red centre $ E. prunicolor 246. 
+2,3 $ Pileus differently coloured
+3,0 $ Pileus smooth, glabrous, violaceous-brown $ E. violaceovernum 95. 
+3,4 $ Pileus either finely pruinose-velvety or fibrillose-squamulose
+4,0 $ Pileus bright blue, pruinose-velvety; stipe white $ E. jennyi 177. 
+4,5 $ Pileus grey-violaceous; stipe coloured
+5,0 $ Pileus strongly radially fibrillose-virgate with rows of minute grey squamules on a violaceous-brown background; cheilocystidia absent $ E. ianthinomeleagris 254. 
+5,0 $ Pileus grey-violaceous, fibrillose; cheilocystidia present, mucronate $ E. carbonicola 159. 
+6,7 $ Clamp-connections present; pileipellis often a cutis with transitions to trichoderm in the squamules, made up of septate hyphae with cylindrical to narrowly clavate terminal elements; pigment intracellular, frequently also incrusting
+6,17 $ Clamp-connections absent; pileipellis a cutis or a trichoderm of inflated elements with intracellular pigment; incrusting pigment very rarely also present in deeper layer of pileipellis
+7,8 $ Stipe glabrous, polished
+7,10 $ Stipe fibrillose to squamulose
+8,9 $ Spores isodiametrical
+8,0 $ Spores heterodiametrical $ E. insidiosum 211. 
+9,0 $ Spores 8-10 (-11) x 6-8 µm; pileus dark brown from the start $ E. juniperinum 210. 
+9,0 $ Spores 7.5-9.0 x (6.0-) 6.5-8.5 µm; pileus distinctly blue when young $ E. klofacianum 214. 
+10,11 $ Pileus pink, pale ochraceous or lilaceous-pink
+10,13 $ Pileus yellow-brown, brown or grey-brown
+11,0 $ Pileus pale ochre then with faint grey or lilac tinge; pigment intracellular and incrusting $ E. alnetorum 200. 
+11,12 $ Pileus pink or pinkish-lilac
+12,0 $ Fruitbodies very small; pileus up to 10 mm, pink $ E. lidbergii 215. 
+12,0 $ Fruitbodies larger; pileus up to 40 mm, pinkish lilac $ E. callichroum 205. 
+13,14 $ Stipe silvery fibrillose-striate
+13,15 $ Stipe squamulose with darker fibrillose squamules
+14,0 $ Smell none, terricolous $ E. lampropus 206. 
+14,0 $ Smell farinaceous; on Fagus wood $ E. placidum 207. 
+15,0 $ Spores large, up to 16 µm long $ E. wynnei 204. 
+15,16 $ Spores definitely shorter
+16,0 $ Stipe violaceous-fibrillose; spores pronouncedly angled with 5-6 angles, relatively thick-walled $ E. allochroum 202. 
+16,0 $ Stipe blue fibrillose to squamulose; spores less distinctly angled, often thin-walled $ E. tjallingiorum 199. 
+17,18 $ Lamella edge sterile or heterogeneous; cheilocystidia present
+17,29 $ Lamella edge fertile; cheilocystidia absent
+18,0 $ Lamellae tinged blue when young, then grey, spores very irregularly shaped from iso to heterodiametrical $ E. broesarpensis 265. 
+18,19 $ Lamellae without blue tinge when young; spores more regularly shaped
+19,0 $ Stipe blue-green when young, then pale olivaceous to greenish, finally almost white; pileus beige-grey with porphyraceous tinge $ E. griseoviridulum 227. 
+19,20 $ Stipe without olivaceous or green tinges
+20,0 $ Cheilocystidia very large, much longer than basidia, rostrate or often ending in a small capitulum, which often is mucronate $ E. rhynchocystidiatum 293. 
+20,21 $ Cheilocystidia different
+21,22 $ Spores small, less than 10 µm long
+21,24 $ Spores longer than 10 µm
+22,0 $ Pileus light brown with darker centre (calotte); stipe very pale blue-grey; in Mediterranean vegetation $ E. mediterraneense 271. 
+22,23 $ Pileus darker coloured; in other habitats
+23,0 $ Pileus rather dark greyish brown to very dark sepia, not translucently striate or at margin only; stipe usually deep blue $ E. poliopus 268. 
+23,0 $ Pileus porphyry brown, deeply translucently striate; stipe steel grey with faint blue tinge $ E. porphyrogriseum 270. 
+24,0 $ Pileus pale beige with darker brown, minutely squamulose centre (calotte), deeply translucently striate $ E. mutabilipes 266. 
+24,25 $ Pileus more intensely coloured yellow brown, brown or grey-brown
+25,0 $ Stipe bicoloured: brown above, blue below; spores 7-10 µm broad, many-angled almost nodulose $ E. glaucobasis 269. 
+25,26 $ Stipe uniformly coloured; spores more regularly angled and less broad
+26,0 $ Stipe fibrillose-flocculose all over $ E. coeruleoflocculosum 258. 
+26,27 $ Stipe polished
+27,0 $ Pileus warm reddish brown (fulvous), contrasting with delicate violaceous stipe $ E. fulvoviolaceum 272. 
+27,28 $ Pileus and stipe differently coloured
+28,0 $ Pileus moderately dark yellow brown, deeply translucently striate; cheilocystidia broadly clavate $ E. sodale 267. 
+28,0 $ Pileus dark brown, sepia to blackish brown, indistinctly striate; cheilocystidia subcylindrical to narrowly clavate $ E. poliopus 268. 
+29,30 $ Stipe fibrillose striate, floccose, pruinose or squamulose
+29,32 $ Stipe polished
+30,0 $ Pileus light brown; stipe pale blue-grey, densely silvery striate $ E. griseocyaneum 257. 
+30,31 $ Pileus and stipe darker coloured
+31,0 $ Stipe finely pruinose all over; pileus up to 30 mm, convex to piano-convex $ E. viaregale 259. 
+31,0 $ Stipe fibrillose-striate; pileus up to 65 mm, truncate conical to convex $ E. anatinum 255. 
+32,0 $ Pileus grey or grey-brown, densely radially fibrillose to virgate with radial rows of small squamules $ E. ianthinomeleagris 253. 
+32,33 $ Pileus dark brown, not virgate
+33,34 $ Pileus dark brown, not translucently striate or at margin only
+33,35 $ Pileus moderately dark brown to pale brown; distinctly translucently striate
+34,0 $ Pileus squamulose all over; stipe predominantly grey with only a slight blue tinge; spores 10-12.5 x 6.5-9.0 µm $ E. scabrosum 256. 
+34,0 $ Pileus squamulose at centre only; stipe blue; spores 9-11 x 6-8 µm $ E. lepiotosme 263. 
+35,0 $ Spores isodiametrical $ E. allospermum 264. 
+35,36 $ Spores heterodiametrical
+36,37 $ Spores shorter than 10 µm
+36,38 $ Spores longer than 10 µm
+37,0 $ Pileus pale yellow-brown with darker centre; lamellae adnate; stipe deep blue to sky-blue or violaceous-blue $ E. lividocyanulum 261. 
+37,0 $ Pileus pinkish to pinkish brown; lamellae deeply decurrent; stipe blue $ E. incarnatofuscescens 306. 
+38,0 $ Pileus minutely squamulose all over; stipe deep blue; basidia 4-spored $ E. asprellum 260. 
+38,0 $ Pileus squamulose at centre only; stipe violaceous-grey; basidia mixed 2- and 4- spored $ E. huijsmanii 262. 
+...............
+rem$ Key 5. Fruitbodies with pink tinges
+cs5,0$
+1,2 $ Habit tricholomatoid or mycenoid; pileus convex, often with umbo; pileipellis an (ixo)cutis; clamp-connections present
+1,5 $ Habit collybioid or omphalinoid; pileus convex with slightly to distinctly depressed center, not entirely glabrous but fibrillose, tomentose or squamulose, at least at center; pileipellis a cutis with transitions to a trichoderm; clamp-connections present or absent
+2,0 $ Fruitbodies mycenoid, small; pileus 15-25 mm broad, pink to pinkish brown; stipe 25-30x 1-2 mm, yellow, polished $ E. verecundum 126. 
+2,3 $ Fruitbodies tricholomatoid and larger; stipe at least 6 mm wide, white, fibrillose, not polished
+3,0 $ Flesh firm; pileus not hygrophanous, not translucently striate, pink to deep reddish pink, cheilocystidia absent; spores small, isodiametrical, 6,5-8 µm long $ E. rubellum 5. 
+3,4 $ Flesh fibrous, brittle; pileus hygrophanous, translucently striate at margin, pale pink
+4,0 $ Spores (7.5-) 8.5-11.5 (-12.0) x 6.0-7.5 µm, irregularly many-angled; cheilocystidia absent $ E. roseoalbum 20. 
+4,0 $ Spores 8.5-10 x 6.0-7.5 µm, 5-7 angled; cheilocystidia present $ E. noordeloosii 22. 
+5,6 $ Stipe tinged blue
+5,7 $ Stipe without blue tinges
+6,0 $ Lamella edge of serrulatum-type, blue pigmented or not (p1.1 g) $ E. catalaunicum 249. 
+6,0 $ Lamella edge different, not blue pigmented $ E. cyanulum var. roseolum 232. 
+7,8 $ Pileus pinkish lilaceous or pinkish-violaceous
+7,9 $ Pileus without lilaceous or violaceous tinges
+8,0 $ Stipe concolorous with pileus, albeit sometimes paler; polished; cheilocystidia absent .. $ E. ianthinum 250. 
+8,0 $ Stipe white, fibrillose; cheilocystidia lageniform to lecithiform $ E. lilacinoroseum 160. 
+9,0 $ Pileus pink mixed with gray; stipe gray, polished $ E. roseotinctum 252. 
+9,10 $ Pileus pink to pinkish red, or with ochre tinges; stipe never gray
+10,0 $ Pileus when fresh with distinct pink-lilaceous tinges, turning uniformly ochraceous under influence of daylight, entirely tomentose, not translucently striate; stipe yellow to yellow- ochre, fibrillose-striate $ E. queletii 288. 
+10,11 $ . Pileus more purely pink, usually translucently striate, glabrous or minutely granulose to squamulose, particularly at center, fibrillose or glabrous towards margin; stipe pink, glabrous and polished or with innate concolorous fibrils or small squamules 11
+11,0 $ Clamp-connections present; pileus practically glabrous; pileipellis a cutis of relatively narrow hyphae $ E. ritae 196. 
+11,12 $ Clamp-connections absent; pileus squamulose to granulose, at least at center; pileipellisa cutis with transitions to a trichoderm of relatively wide elements
+12,0 $ Lamella edge of serrulatum type, lilac-pink; cheilocystidia with intracellular pigment; stipe slightly squamulose-fibrillose in upper part $ E. callirhodon 222. 
+12,13 $ Lamella edge concolorous with sides; stipe polished
+13,0 $ Lamella edge entirely sterile with septate cheilocystidia with clavate to globose elements; spores in average longer than 10 µm $ E. reinwaldii 251. 
+13,0 $ Lamella edge heterogeneous to sterile; cheilocystidia clavate to subcylindrical, not septate; spores in average shorter than 10 µm $ E. roseum 248. 
+......
+rem $ Key 6. Species with very small spores, ranging from 6-8 (-9) µm long and very thin-walled and many-angled in side view (pl. Il a), often distinctly staining in cotton-blue (cyanophilous) (sect. Turfosa)
+cs6,0$
+1,0 $ Habit omphalioid with white to cream-colored umbilicate pileus and deeply decurrent lamellae $ E. cancrinellum 75. 
+1,2 $ Habit and colour different
+2,0 $ Fruitbodies growing on wood; pileus sordid brown, micaceous, not translucently striate $ E. pluteisimilis 74. 
+2,3 $ Fruitbodies growing on soil; pileus not micaceous
+3,4 $ Habit tricholomatoid with umbonate, fleshy pileus; lamellae adnate-deeply emarginate .
+3,7 $ Habit collybioid with convex, slightly depressed pileus; lamellae broadly adnate often with decurrent tooth; stipe polished or with scattered fibrils
+4,0 $ Fruitbodies rather pale colored $ compare E. prunuloides 1
+4,5 $ Fruitbodies with +/- dark colour
+5,0 $ Lamellae thick, distant $ E. turbidum var. pachylamellatum 71. 
+5,6 $ Lamellae normally thick, moderately distant
+6,0 $ Stipe white; smell none $ E. turbidum 71. 
+6,0 $ Stipe tinged brown; smell farinaceous $ E. pseudoturbidum 73. 
+7,0 $ Stipe yellow $ E. vinaceum var. vinaceum 72a. 
+7,8 $ Stipe grey or violaceous
+8,0 $ Stipe grey $ E. vinaceum var. fumosipes 72b. 
+8,0 $ Stipe tinged violaceous $ E. vinaceum var. violeipes 72c. 
+..............
+rem$ Key 7. Species from alpine or arctic environments, usually associated with either dwarf Salix, Dryas or Polygonum viviparum; habit usually small, tricholomatoid or mycenoid, rarely collybioid or omphalioid; trama of pileus made up of short elements, 40-100 µm long(Pseudonolanea).
+cs7,0$
+1,2 $ Cheilocystidia present
+1,4 $ Cheilocystidia absent
+2,0 $ Basidia exclusively 2-spored $ E. bicorne 62. 
+2,3 $ Basidia 4-spored, at least in majority
+3,0 $ Surface of pileus finely rimose; pigment exclusively incrusting $ E. rimulosum 61. 
+3,0 $ Surface of pileus smooth; pigment incrusting and intracellular $ E. svalbardense 56. 
+4,5 $ Smell or taste strong, like rotten fish or cabbage or like ripe apples
+4,6 $ Smell and taste indistinct or farinaceous
+5,0 $ Pileus convex; smell and especially taste strong of rotten cabbage $ E. olidum 10. 
+5,0 $ Pileus with depressed centre; smell of ripe apples $ E. melenosmum 47. 
+6,7 $ Pigment intracellular
+6,8 $ Pigment incrusting or a combination of incrusting and intracellular pigment
+7,0 $ Pileus yellow brown to medium brown; lamellae greyish pink $ E. subsepiaceum 60. 
+7,0 $ Pileus dark brown to almost black; lamellae white then pink $ E. alpicola 59. 
+8,9 $ Pigment incrusting only
+8,12 $ Pigment incrusting and intracellular
+9,0 $ Spores heterodiametrical, Q = 1.15-1.5 $ E. anthracinellum 63. 
+9,10 $ Spores isodiametrical, Q = 1.0-1.2
+10,0 $ Pileus moderately dark brown; lamellae white then pink; stipe white to greyish $ E. subarcticum 57. 
+10,11 $ Pileus dark grey brown to black; lamellae grey-brown; stipe grey-brown
+11,0 $ Fruitbodies fairly robust with thick, fusiform stipe $ E. atrosericeum var. fusipes 53b. 
+11,0 $ Fruitbodies small with cylindrical stipe $ E. atrosericeum var. atrosericeum 53a. 
+12,0 $ Pileus 30-40 mm broad, usually distinctly umbonate; lamellae adnexed to adnate; incrusting pigment dominant in suprapellis; intracellular pigment mostly present in subpellis $ E. bipellis 54. 
+12,0 $ Pileus 15-30 mm broad, usually depressed; lamellae adnate to decurrent; incrusting pigment usually in lower part of pileipellis and upper pileitrama $ E. borgenii 55. 
+
+...........
+titre $ Key 8. Pileus depressed to infundibuliform; glabrous, often hygrophanous; fruitbodies collybioid, clitocyboid or omphalinoid (pl. I b, d)
+cs8,0$
+1,2 $ Spores cuboid (pl. II b)
+1,3 $ Spores otherwise
+2,0 $ Fruitbodies reminiscent of Omphalina galericolor, in scanty mossy vegetation on sandy soil $ E. galericolor 315. 
+2,0 $ Fruitbodies collybioid with slightly depressed pileus, often with a small umbo within the depression; among Cistus in the Mediterranean $ E. cistophilum 48. 
+3,4 $ Pileus white
+3,6 $ Pileus pigmented
+4,0 $ Pileus and stipe with capitate cystidia; clamp-connections absent $ E. cephalotrichum 195. 
+4,5 $ Pileus and stipe without capitate cystidia; clamp-connections present 
+5,0 $ Spores 8-11.5 x 6-8 µm, 6-10 angular; pileus 15-30 mm $ E. olorinum 193. 
+5,0 $ Spores 7-10 x 5.5-7.0 µm; pileus up to 10 mm $ E. percandidum 194. 
+6,7 $ Stipe smooth, polished or innately ribbed, not covered with fibrils
+6,22 $ Stipe slightly to distinctly fibrillose striate, or fibrillose flocculose
+7,8 $ Pigment intracellular only
+7,16 $ Pigment incrusting, sometimes in addition with intracellular pigment
+8,0 $ Basidia exclusively 2-spored $ E. bisporigerum 44. 
+8,9 $ Basidia, at least in majority, 4-spored
+9,0 $ Smell strong, of ripe apples; stipe polished or substriate with scattered fibrils $ E. melenosmum 47. 
+9,10 $ Smell different
+10,11 $ Cheilocystidia present
+10,12 $ Cheilocystidia absent
+11,0 $ Smell strong, unpleasant. reminiscent of burnt rubber or burnt meat; spores 5-7 angular, 9-11.5 % 7-9.5 µm $ E. nausiosme 51. 
+11,0 $ Smell absent or farinaceous: spores 5-9 angled, 7.5-12.5 x 5.5-8.5 (-9) µm $ E. fridolfingense 52. 
+12,0 $ Spores (sub-isodiametrical. Q = 1.0-1.2 $ E. politum 42. 
+12,13 $ Spores heterodiametrical, Q > 1.3
+13,0 $ Spores 8-9 x 5.5-6.5 µm $ E. engadinum .45. 
+13,14 $ ch larger Spores mu
+14,0 $ Whole fruitbody very dark almost black, pileus not translucently striate; in alpine and arctic dwarf-shrub vegetations $ E. anthracinum 46. 
+14,15 $ Pileus dark red-brown or grey-brown; stipe paler, in forest or grasslands of lower altitudes and latitudes
+15,0 $ Spores 7.5-12.5 x 6.5-9.5 (-10) Nm, Qav = 1.3-1.4; smell farinaceous; pileus dark red- brown, translucently striate at margin; lamellae and stipe paler; in damp places in mixed deciduous forests $ E. caccabus 43. 
+15,0 $ Spores (9-) 10-16 (-18) x 6-9, Qav > 1,5; smell none; in grassland $ E. sarcitum 319. 
+16,17 $ Pileus pale brown to pale yellow brown
+16,19 $ Pileus medium dark brown to blackish brown
+17,0 $ Cheilocystidia present $ E. rhodocylix 336. 
+17,18 $ Cheilocystidia absent
+18,0 $ Fruitbodies omphalioid with decurrent lamellae; smell of iodine; in open spots with scanty vegetation $ E. iodiolens 337. 
+18,0 $ Fruitbodies with broadly adnate-subdecurrent lamellae; cheilocystidia absent; smell nitrous; in damp deciduous forest $ E. pemitrosum 310. 
+19,20 $ Pileus distinctly hygrophanous, deeply translucently striate
+19,0 $ Pileus not hygrophanous, not translucently striate $ E. subpusillum 334. 
+20,0 $ Pileipellis a cutis of narrow. cylindrical hyphae, 2-5 µm wide; pigment strongly incrusting and in addition also intracellular: among Cistus in Mediterranean vegetation $ E. philocistus 64. 
+20,21 $ Pileipellis a cutis of much wider hyphae. at least up to 15 µm wide: in other vegetation .
+21,0 $ Pileipellis made up of up to 25 µm broad inflated elements with intracellular pigment; hyphae in lower layers of pileipellis minutely incrusted; clamp-connections present $ E. parkensis 309. 
+21,0 $ Pileipellis a cutis of up to 15 µm wide hyphae with incrusted walls, in addition some intracellular pigment present; clamp-connections absent $ E. nigellum 335. 
+22,0 $ Smell strong, like ripe apples; stipe substriate $ E. melenosmum 47. 
+22,23 $ Smell none or different; stipe fibrillose striate or fibrillose-squamulose
+23,24 $ Fruitbodies rather robust and fleshy, reminiscent a large species of Clitocybe or Clitopifus
+23,25 $ Fruitbodies thin-fleshed, clitocyboid or omphalioid
+24,0 $ Spores isodiametrical; clamp-connections absent $ E. costatum 76. 
+24,0 $ Spores heterodiametrical; clamp-connections present $ E. turbidatum 77. 
+25,26 $ Cheilocystidia absent
+25,28 $ Cheilocystidia present
+26,0 $ Smell nitrous; stipe white, strongly silvery striate $ E. rhodopolium var. pseudopolitum 17c. 
+26,27 $ Smell none or farinaceous; stipe coloured under striation
+27,0 $ Pileus 5-20 mm broad; lamellae distant, deeply decurrent; stipe innately fibrillose striate $ E. rusticoides 338. 
+27,0 $ Pileus 15-60 mm broad; lamellae crowded, adnate with only a short decurrent tooth; stipe strongly silvery striate $ E. sericeoides 78. 
+28,0 $ Spores isodiametrical, 7-9 µm long; cheilocystidia cylindrical; pileus and stipe dull brown $ E. riedheimensis 80. 
+28,0 $ Spores heterodiametrical, 10-12.5 µm long; cheilocystidia capitate; pileus and stipe pale brown $ E. moliniophilum 315. 
+............
+titre $ Key 9. Pileus depressed to infundibuliform; glabrous, often hygrophanous; pruinose, tomentose, rugulose, fibrillose, or squamulose, at least at centre, often indistinctly or not hygrophanous, translucently striate or not (fruitbodies collybioid, clitocyboid or omphalinoid)
+cs9,0$
+1,2 $ Fruitbodies white
+1,5 $ Fruitbodies pigmented
+2,3 $ Stipe always centrally inserted; clamp-connections present
+2,4 $ Stipe centrally inserted in young stage, soon more or less eccentric, clamp-connections absent
+3,0 $ Cheilocystidia present; stipe innately fibrillose or polished, without well-differentiated caulocystidia $ E. sericellum 192. 
+3,0 $ Cheilocystidia absent; stipe minutely pruinose with cylindrical to coralloid cystidia $ E. rugosum 342. 
+4,0 $ Spores 9-12,5 x 6-8 µm, 4-6 angled; on rotten grasses and sedges in marshy places $ E. albotomentosum 324. 
+4,0 $ Spores 8.5-13 x 6-9 µm, with up to 7-8 angles; in compost of house-plants indoors .... $ E. ollare 325. 
+5,6 $ Pileus very pale cream- or flesh coloured or very pale greyish brown and radially fibrillose with distinct zonate pattern, clamp-connections present
+5,8 $ Pileus darker and or not zonated; clamp-connections present or absent
+6,0 $ Cheilocystidia present $ E. cettoi 314. 
+6,7 $ Cheilocystidia absent
+7,0 $ Spores 9-12.5 x 6.9 (-10) µm, irregularly many-angled nodulose in outline $ E. neglectum 317. 
+7,0 $ Spores 9.5-11 x 7-8 µm, regularly 5-7-angled in outline $ E. pallens 318. 
+8,0 $ Stipe with very distinct yellow-green, green or deep olivaceous tinge $ E. incanum 247. 
+8,9 $ Stipe with other colour, at most with slight green hue
+9,10 $ Lamella edge darker coloured than sides with pigmented cheilocystidia
+9,20 $ Lamella edge concolorous with sides, without pigmented cheilocystidia
+10,11 $ Lamella edge of serrulatum type, blue-black (pl. I g)
+10,12 $ Lamella edge different, brown
+11,0 $ Pileus and stipe yellow; terricolous $ E. xanthoserrulatum 226. 
+11,0 $ Pileus and stipe dark brown; on rotten wood $ E. linkii 221. 
+12,0 $ Cheilocystidia up to 110 µm long, lageniform with acute apex; clamp-connections present $ E. indutoides 295. 
+12,13 $ Cheilocystidia shorter, cylindrical to clavate; clamp-connections absent
+13,0 $ Pileus pale beige-ochraceous $ E. ochromicaceum 281. 
+13,14 $ Pileus more intensely coloured
+14,15 $ Pileus yellow to fulvous
+14,16 $ Pileus reddish brown to dark grey brown
+15,0 $ Lamellae yellow; spores up to 15 µm long $ E. xanthochroum 285. 
+15,0 $ Lamellae white then pink; spores 10-13 µm $ E. sphagnorum 286. 
+16,0 $ Pileus not translucently striate, dark grey-brown with or without reddish tinge; lamellae and stipe base slowly turning red when bruised; in grassland $ E. turci 290. 
+16,17 $ Pileus translucently striate, yellow-brown or red-brown; no part staining red when bruised
+17,0 $ Pileus warm red-brown; among Sphagnum in peat-bogs $ E. caliginosum 279. 
+17,18 $ Pileus yellow-brown to grey-brown
+18,0 $ Pileus entirely squamulose; among Sphagnum in peat-bogs $ E. atromarginatum 278. 
+18,19 $ Pileus squamulose in centre only
+19,0 $ Pileus pale yellow to yellow brown with well-delimited darker centre, frequently with glaucous tinges, also on the stipe; spores 5-7-angled in outline $ E. exile 273. 
+19,0 $ Pileus dull yellow to yellow-brown, sometimes with grey tinge; without well-delimited dark centre $ E. longistriatum 277. 
+20,21 $ Pileus convex with slightly to distinctly depressed centre and more or less deflexed margin; lamellae adnate-emarginate, sometimes with a decurrent tooth; pigment intracellular (+/- collybioid, pl. I d)
+20,54 $ Pileus with (deeply) depressed to infundibuliform centre and with decurrent lamellae and/or pigment distinctly membranal-incrusting (pl. I b)
+21,0 $ Spores cuboid (pl. II b) $ E. percuboideum 164. 
+21,22 $ Spores 5- or more angled
+22,23 $ Clamp-connections absent
+22,38 $ Clamp-connections present
+23,24 $ Stipe with glaucous-green tinges
+23,25 $ Stipe without such tinges
+24,0 $ Cheilocystidia absent $ E. chloropolium 274. 
+24,0 $ Cheilocystidia present $ E. exile 273. 
+25,0 $ Pileus and stipe deep reddish-wine-coloured $ E. rufocarneum 287. 
+25,26 $ Pileus and stipe differently colored
+26,27 $ Fruitbodies ochre, yellow or reddish yellow
+26,30 $ Fruitbodies dull yellow, yellow-brown, greyish brown or dark greyish brown
+27,28 $ Pileus beige-ochraceous or ochraceous
+27,0 $ Pileus yellow to yellow-red $ E. formosum 284. 
+28,0 $ Stipe polished; pileus not translucently striate, minutely granulose-micaceous $ E. ochromicaceum 281. 
+28,29 $ Stipe fibrillose-floccose; pileus fibrillose-squamulose
+29,0 $ Pileus ochraceous $ E. kervernii 289. 
+29,0 $ Pileus when fresh with distinct reddish-violaceous tinges; dull ochre when exposed or old $ E. queletii 288. 
+30,31 $ Pileus distinctly translucently striate, more or less hygrophanous
+30,33 $ Pileus not translucently striate, not or hardly hygrophanous
+31,0 $ Spores in average shorter than 10 µm $ E. longistriatum var. microsporum 277c. 
+31,32 $ Spores in average longer than 10 µm
+32,0 $ Lamellae white then pink; stipe yellow brown $ E. longistriatum var. sarcitulum 277b. 
+32,0 $ Lamellae yellowish then sordid pink; stipe with greyish tone $ E. longistriatum var. longistriatum 277a. 
+33,34 $ Stipe polished
+33,37 $ Stipe fibrillose
+34,0 $ Cheilocystidia absent $ E. leochromus 280a. 
+34,35 $ Cheilocystidia present
+35,0 $ Smell strong, aromatical, similar to that of Hebeloma sacchariolens; pileus pale to medium dark greyish brown $ E. odoratum 283. 
+35,36 $ Smell absent or different; pileus fairly dark greyish brown
+36,0 $ .Spores 10-12 x 7-8 µm; base of stipe usually turning red when handled (sometimes first 24 hours after collecting!) $ E. turci 290. 
+36,0 $ Spores 8.5-10 x 6.5-7.0 µm; base of stipe not staining reddish $ E. pseudoturci 291. 
+37,0 $ Pileus porphyry-brown or purplish-grey; cheilocystidia abundant $ E. porphyrogriseum 270. 
+37,0 $ Pileus sordid grey-brown or yellowish grey; cheilocystidia absent $ E. scabropelle 292. 
+38,39 $ Cheilocystidia present and well differentiated, much larger than the basidia
+38,47 $ Cheilocystidia absent or, if present, cylindrical to clavate and not protruding very much from hymenium
+39,40 $ Pleurocystidia present
+39,41 $ Pleurocystidia absent
+40,0 $ Cheilo- and pleurocystidia tapering towards apex $ E. indutoides var. pleurocystidiatum 295b. 
+40,0 $ Cheilo- and pleurocystidia with rounded, often capitate apex $ E. insolitum 313. 
+41,42 $ Stipe polished
+41,43 $ Stipe weakly to distinctly fibrillose-striate or flocculose
+42,0 $ Pileus strongly radially fibrillose, pale grey with ochraceous tinge $ E. calaminare 297. 
+42,0 $ Pileus glabrous except for the finely squamulose centre; moderately dark brown $ E. cocles 296. 
+43,44 $ Spores well under 10 µm long
+43,45 $ Spores definitely longer than 10 µm
+44,0 $ Pileus not hygrophanous, minutely rugulose all over; pileipellis a hymeniderm of clavate to sphaero pedunculate elements, up to 22 µm wide $ E. moguntinum 302. 
+44,0 $ Pileus hygrophanous, radially fibrillose; pileipellis a trichoderm of slender clavate terminal elements up to 15 µm wide $ E. riofriense 303. 
+45,0 $ Pileus yellow-brown with distinct olivaceous tinge $ E. indutoides var. indutoides 295a. 
+45,46 $ Pileus with dark brown, chocolate brown or grey-brown tinges
+46,0 $ Smell indistinct $ E. indutoides var. griseorubidum f. griseorubidum 295c. 
+46,0 $ Smell strong, reminiscent of burnt meat $ E. indutoides var. griseorubidum f. anserolens 295d. 
+47,48 $ Cheilocystidia present
+47,49 $ Cheilocystidia absent
+48,0 $ Pileus and stipe with distinct olivaceous tinge; cheilocystidia narrow, clavate, up to 10 µm wide $ E. olivaceotinctum 304. 
+48,0 $ Pileus and stipe yellowish or ochraceous; cheilocystidia broadly clavate, up to 20 µm wide $ E. weholtii 305. 
+49,50 $ Stipe fibrillose striate
+49,52 $ Stipe polished
+50,0 $ Pileus translucently striate; spores (9-) 10-11 (-12) x 7-8 (-9) µm, heterodiametrical .. $ E. griseoxanthopus 298. 
+50,51 $ Pileus not translucently striate; spores subisodiametrical
+51,0 $ Pileus grey-brown; lamellae sordid greyish pink; adnate-emarginate with decurrent tooth; spores 7.5-10 x 5.5-7.5 (-9) µm $ E. sordidolamellatum 301. 
+51,0 $ Pileus porphyry-brown; lamellae white then pink, sometimes with blue tinge; (sub)decurrent; spores 8.5-10.5 x 6.5-9.0 µm $ E. beyeri 213. 
+52,0 $ Stipe vivid yellow with white basal mycelium; smell none $ E. politoflavipes 300. 
+52,53 $ Stipe grey-brown; smell farinaceous
+53,0 $ Spores 9.0-16 (-18) µm long $ E. sarcitum 319. 
+53,0 $ Spores 8.0-10 (-11) µm long $ E. farinasprellum 299. 
+54,0 $ Spores cuboid $ E. galericolor 316. 
+54,55 $ Spores 5- or more angled
+55,56 $ Pileus with a distinct concentric zonation
+55,58 $ Pileus different
+56,0 $ Pileus pale $ E. cettoi 314. 
+56,57 $ Pileus dark brown
+57,0 $ Cheilocystidia absent; spores 7.5-10 x 6.0-8.0 µm $ E. undatum 330. 
+57,0 $ Lamella edge entirely sterile with cylindrical to clavate cheilocystidia, often in chains; lamellae deeply decurrent; smell indistinct; spores 9.0-14 x 6-8 µm $ E. enderlei 81. 
+58,59 $ Cheilocystidia absent
+58,65 $ Cheilocystidia present
+59,60 $ Pileus fibrillose; pigment incrusting and intracellular
+59,61 $ Pileus slightly rugulose, tomentose or squamulose at least at centre; pigment incrusting
+60,0 $ Habit omphalioid; pileus 10-20 mm, fibrillose-rimose; spores 8.5-11.5 x 7.0-8.5 µm .... $ E. brunneostanneum 312. 
+60,0 $ Habit reminiscent a Lactarius species; pileus 15-35 mm, finely fibrillose all over; spores 7.5-9.0 x 7.5-8.5 µm $ E. lactarioides 70. 
+61,0 $ Spores very small, 6.5-7.5 x 5.0-6.5 µm; lamellae hardly decurrent . $ E. chelone 340. 
+61,62 $ Spores larger
+62,63 $ Pileus with only slightly depressed centre; lamellae adnate-emarginate with decurrent tooth
+62,64 $ Pileus depressed to infundibuliform; lamellae decurrent
+63,0 $ Pileus opaque, not translucently striate, entirely tomentose-felted to minutely squamulose under lens $ E. korhoneni 332. 
+63,0 $ Pileus translucently striate; finely rugulose with micaceous-aeriferous patches $ E. depressum 333. 
+64,0 $ Pileus woolly-tomentose, pinkish brown; clamp-connections present $ E. lanicum 331. 
+64,0 $ Pileus floccose-squamulose, very dark brown; clamp-connections absent $ E. flocculosum 341. 
+65,0 $ Cheilocystidia capitate $ E. moliniophilum 315. 
+65,66 $ Cheilocystidia different
+66,0 $ Pleurocystidia present $ E. insolitum 314. 
+66,67 $ Pleurocystidia absent
+67,0 $ Habit collybioid; pileus caramel-colored ochraceous, almost glabrous except for a finely squamulose centre (calotte); spores 11-12 (-13) x 7.5-9.5 µm $ E. rosemariae 282. 
+67,68 $ Habit omphalioid; pileus differently colored
+68,0 $ Lamella edge entirely sterile with dense bundles of cheilocystidia; spores large, 9-14 µm long $ E. enderlei 81. 
+68,69 $ Lamella edge usually heterogeneous; cheilocystidia scattered among basidia; spores smaller
+69,0 $ Spores 8.5-10.5 x 5.5-6.5 µm; Q = 1.35-2.0, smell of almonds $ E. amygdalinum 308. 
+69,70 $ Spores less strongly heterodiametrical; smell farinaceous, rancid or absent
+70,71 $ Spores isodiametrical; Q = 1.0-1.2
+70,72 $ Spores heterodiametrical, Q = 1.2-1.5
+71,0 $ Cheilocystidia clavate to subglobose, often in chains, colourless or incrusted $ E. phaeocyathus 339. 
+71,0 $ Cheilocystidia cylindrical to clavate or lageniform, never incrusted $ E. pseudosericeoides 79. 
+72,0 $ Smell not very distinct; pileus pale brown, 9-11 mm broad; stipe grey-brown $ E. hausknechtii 307. 
+72,0 $ Smell strongly rancid-farinaceous; pileus dark brown, 20-40 mm broad; stipe pale brown-grey or reddish grey $ E. rancidodorum 175. 
+.....
+titre $ Key 10. Pileus conical to convex, often papillate; with cuboid or cruciform spores (pl. II b, c).
+cs10,0$
+1,2 $ Spores cuboid $' erreur corrigée
+1,4 $ Spores cruciform
+2,0 $ Stipe smooth, polished, without caulocystidia $ E. rhombisporum var. rhombisporum 162a. 
+2,3 $ Stipe not smooth, but pruinose-fibrous entirely or in upper half with caulocystidia
+3,0 $ Pigment intracellular; cystidia lageniform to tibiiform $ E. rhombisporum var. floccipes 162b. 
+3,0 $ Pigment parietal; cystidia fusiform $ E. prismatospermum 163. 
+4,0 $ Pigment intracellular and in addition also incrusting $ E. conferendum var. incrustatum 161c. 
+4,5 $ Pigment intracellular
+5,0 $ Fruitbodies robust; stipe up to 7 mm thick; in grassland and in humus $ E. conferendum var. conferendum 161a. 
+5,0 $ Fruitbodies tiny; stipe up to 1.5 mm thick, often on rotten wood $ E. conferendum var. pusillum 161c. 
+.........
+
+titre $ Key 11. Fruitbodies mycenoid, very pale cream-colored to almost white, with conical, only slightly expanding pileus, which is either not hygrophanous or slightly hygrophanous and not or hardly translucently striate; lamellae almost free; stipe long, rigid, sometimes rooting; clamp-connections absent.
+cs11,0$
+1,0 $ Pileus up to 63 mm broad, stipe 75-100 x 5.5-9.5 mm, not rooting; cheilocystidia absent $ E. eximium 69. 
+1,0 $ Pileus 15-35 mm broad; stipe 22-45 x 4-7 mm, rooting; cheilocystidia present $ E. pallideradicatum 68. 
+.....
+rem$ Key 12. Pileus conico-convex to plano-convex with umbo, relatively thick-fleshed, glabrous; stipe thick (at least 5 mm in the middle); more or less tricholomatoid. Trama usually made up of short, inflated elements.
+cs12,0$
+1,2 $ Pileus distinctly pigmented
+1,40 $ Pileus white
+2,0 $ Lamella edge, and often also sides, with large fusiform cystidia; pileus opaque, not translucently striate; hymenium often with dark pigmented necrobasidia $ E. excentricum 82. 
+2,3 $ Cystidia, if present, different; necrobasidia never present
+3,4 $ Species appearing in spring under Rosaceae (Crataegus, Prunus, Malus and others) or Ulmus
+3,8 $ Species normally appearing in summer and autumn, not associated with Rosaceae or Ulmus
+4,0$ .Pileus usually rather pale cream-colored, greyish or brownish and strongly satiny micaceous shiny, not translucently striate, often expanding already when still partly underground; spores large, 10-12 (-14) x 10-12 µm, isodiametrical and many-angled in outline; often associated with Ulmus (see comments) $ E. saundersii 16. 
+4,5 $ Pileus either darker or, when pale, then never strongly satiny-micaceous and with smaller, more heterodiametrical spores
+5,6 $ Pileus moderately dark to dark brown, yellow-brown or grey-brown
+5,7 $ Pileus pallid, cream-colored or pale greyish (compare E. niphoides)
+6,0 $ Stipe quickly becoming hollow, fibrous, pileus relatively thin-fleshed, distinctly translucently striate, under Ulmus $ E. aprile 13. 
+6,0 $ Stipe usually not hollow, with relatively firm flesh and distinct cortex, pileus indistinctly translucently striate; under Rosaceae $ E. clypeatum 12. 
+7,0 $ Pileus distinctly hygrophanous; flesh and surface never staining reddish or orange when bruised $ E. clypeatum f. pallidogriseum 12b. 
+7,0 $ Pileus indistinctly hygrophanous; flesh and surface often staining orange or reddish when bruised $ E. sepium 15. 
+8,9 $ Pileus when moist not or hardly hygrophanous, not translucently striate, often with a micaceous sheen at centre
+8,19 $ Pileus when moist distinctly hygrophanous, often slightly to distinctly translucently striate at outermost margin, glabrous
+9,0 $ Pileus and stipe with green-olivaceous tinges $ E. viridans 6. 
+9,10 $ Pileus differently colored
+10,0 $ Lamellae yellow then salmon-pink $ E. sinuatum 7. 
+10,11 $ Lamellae white, grey or greyish-brown when young
+11,0 $ Fruitbodies staining yellow-orange when bruised; cheilocystidia present $ E. moserianum 8. 
+11,12 $ Fruitbodies not staining yellow-orange when bruised; without cheilocystidia
+12,14 $ Pileus dark mouse-grey, sepia or grey-brown
+12,13 $ Pileus pale brown to moderately dark yellow-brown
+13,0 $ Spores small, 6.5-8 (-9) x 6.5-8.0 µm; in grassland $ E. prunuloides var. obscurum 1. 
+13,0 $ Spores larger; in forest $ E. lividoalbum 34. 
+14,0 $ Stipe porphyry brown with yellow base $ E. luteobasis 9. 
+14,15 $ Stipe white to grey
+15,0 $ Smell strong of rotten cabbage; pileus grey-brown with yellow-brown marginal zone; in sub arctic tundra $ E. olidum 10. 
+15,16 $ Smell farinaceous or indistinct; in other habitat
+16,17 $ Spores up to 10 µm long, isodiametrical, 5-angled in side-view
+16,18 $ Spores larger, up to 9-12 (-14) µm long, heterodiametrical, 6-7 angled in side-view ....
+17,0 $ Fruitbodies relatively small, pileus 30-70 mm broad, creamy-white to brown; in grassland $ E. prunuloides 1. 
+17,0 $ Fruitbodies more robust, pileus up to 100 mm broad; mouse-grey with slightly ochre tinge; in forest $ E. myochroum 2. 
+18,0 $ Lamellae dark grey with pink tinge; pileus bronze-brown to red-brown, entirely covered with a greyish bloom; stipe base tinged yellow $ E. griseopruinatum 36. 
+18,0 $ . Lamellae sordid ochraceous or greyish-beige; pileus dark brown to umber brown, often with water-spots, and with slight aeriferous-pruinose centre; stipe base sometimes with violaceous-reddish tinges near base $ E. singulare 37. 
+19,0 $ Species confined to the alpine or arctic environment, often associated with dwarf Salix or Polygonum viviparum $ see Key 7 : Pseudonolanea
+19,20 $ Species of lower altitudes / latitudes
+20,0 $ Basal half of stipe with very distinct reddish tinge $ E. rubrobasis 23. 
+20,21 $ Stipe without reddish tinges
+21,22 $ Cheilocystidia present
+21,24 $ Cheilocystidia absent
+22,23 $ Cheilocystidia filiform-subcylindrical to coralloid, narrow, up to 10 µm wide
+22,0 $ Cheilocystidia clavate, 10-30 µm wide $ E. inusitatum 29. 
+23,0 $ Pileus dark red-brown to reddish brown; flesh compact; smell strongly farinaceous- rancid; pigment intracellular $ E. kallioi 40. 
+23,0 $ Pileus pale brown with yellow or pinkish tinge, strongly hygrophanous and pallescent to almost white; fruitbodies very brittle; smell indistinct; pigment intracellular and incrusting $ E. noordeioosii 22. 
+24,0 $ Spores heterodiametrical, many-angled to nodulose in outline (pl. Il d); pileus very dark red-brown, often with fibrillose patches near margin; in dead and living Sphagnum $ E. sphagneti 41. 
+24,25 $ Spores isodiametrical to heterodiametrical, never many-angled to nodulose in outline; pileus without fibrillose patches near margin, in other habitat
+25,0 $ Smell strongly of rotten cabbage and habit reminiscent of Collybia butyracea with dark brown, hardly hygrophanous pileus and greasy surface, which may eventually become radially wrinkled $ E. brassicolens 38. 
+25,26 $ Smell and habit different
+26,27 $ Pigment intracellular, very obvious in pileipellis and or subpellis and without any incrusting pigments
+26,31 $ Pigment either incrusting, or hardly visible intracellular and in the wall of the hyphae (parietal), or a mixture of both intracellular and incrusting pigment
+27,28 $ Lamellae tinged grey-brown; stipe coloured
+27,30 $ Lamellae white then pink; stipe white
+28,0 $ Whole fruitbody fairly robust with compact flesh; pileus grey brown with reddish or chocolate-brown tinges at centre; lamellae not transversely veined $ E. griseoluridum 35. 
+28,29 $ Fruitbodies smaller and with brittle flesh
+29,0 $ fruitbody very brittle, relatively thin-fleshed; lamellae often transversely veined; stipe distinctly paler than pileus; in deciduous forest on heavy, loamy soil in lowland areas $ E. transvenosum 39. 
+29,0 $ Whole fruitbody very dark brown-grey, less brittle; lamellae never transversely veined; in subalpine Alnus viridis stands in the Alps $ E. alnobetuiae 58. 
+30,0 $ Fruitbodies single; pileus yellow brown to grey-brown, regularly shaped $ E. lividoalbum 34. 
+30,0 $ Fruitbodies growing in clusters; pileus dark sepia-brown, often very irregularly shaped with strongly lobed margin $ E. difforme 24. 
+31,32 $ Pileus pale brown, pale yellow-brown to rather light brown with only slight grey tinge; fruitbodies usually relatively thin-fleshed and brittle
+31,35 $ Pileus dark red-brown, grey-brown or blackish brown; fruitbodies either robust with firm flesh, or small and thin-fleshed
+32,33 $ Pigment minutely incrusting the hyphae of pileipellis and/or upper pileitrama (use oil- immersion), sometimes with additional pale intracellular pigment
+32,34 $ Pigment pale, intracellular (observe in salt solution for plasmolysis) and/or staining the walls of the hyphae pale yellow-brown (parietal)
+33,0 $ Pileus yellow to yellow-brown, without grey tinges; smell none or weakly farinaceous ... $ E. majaloides 26. 
+33,0 $ Pileus yellow brown mixed with grey, especially at centre; smell when fresh distinctly nitrous, but soon changing to farinaceous $ E. sericatum 25. 
+34,0 $ smell none or nitrous; pileus yellow-brown to brown, often slightly depressed at centre, sometimes with a low umbo, or with a low umbo within a depressed centre $ E. rhodopolium 17. 
+34,0 $ Smell farinaceous; pileus pale brown mixed with grey, very quickly pallescent to almost white $ E. pseudoexcentricum 21. 
+35,36 $ Robust species; pileus 40-100 mm broad; stipe at least 5 mm thick in middle part
+35,38 $ Small species; pileus 10-30 (-50) mm broad; stipe 3-5 mm thick in middle part
+36,0 $ Lamellae white to pale grey then pink; spores sub-heterodiametrical, Qav < 1.2; in deciduous forests $ E. myrmecophilum 30. 
+36,37 $ Lamellae grey then greyish pink
+37,0 $ Pileus entirely rugulose; lamellae grey, only late with slightly pink tinge; spores subisodiametrical, Qav = 1.2; in deciduous forest (Castanea sativa) $ E. griseorugulosum 33. 
+37,0 $ Pileus glabrous; lamellae grey then distinctly pinkish grey; spores heterodiametrical, Qav = 1.3; in coniferous forest $ E. venosum 31. 
+38,0 $ Pileus very dark brown almost black; not translucently striate; lamellae dark grey then pinkish grey; pigment coarsely incrusting and intracellular $ E. gerriae 32. 
+38,39 $ Pileus pale to moderately dark brown, usually slightly to distinctly translucently striate; lamellae white to pale grey then pink; pigment minutely incrusting or intracellular
+39,0 $ Pileus grey-brown, translucently striate at margin only; stipe with greyish tinge; pileipellis with minutely incrusting pigment $ E. sordidulum 27. 
+39,0 $ Pileus reddish brown, deeply translucently striate; stipe white; pileipellis with minutely incrusting pigment and intracellular pigment $ E. subradiatum 28. 
+40,0 $ Fruitbodies appearing in spring under Rosaceae $ E. niphoides 14. 
+40,41 $ Fruitbodies appearing in late summer and autumn in other habitats
+41,0 $ Cheilocystidia present; stipe base bulbous $ E. leucocarpum 19. 
+41,42 $ Cheilocystidia absent; stipe base equal or tapering
+42,0 $ Spores distinctly heterodiametrical, 9-12.5 (-13.5) x 7.5-10 µm; in forest $ E. speculum 18. 
+42,0 $ Spores isodiametrical, 6.5-8.0 (-9.0) x 6.5-8 µm; in grassland $ E. prunuloides 1. 
+.........
+rem$ Key 13. Fruitbodies mycenoid with relatively thin-fleshed, conical to convex, often umbonate pileus and relatively slender stipe and lamellae edge with cheilocystidia. (Nolanea with cystidia)
+cs13,0$
+1,2 $ Fruitbodies with olivaceous tinges
+1,3 $ Fruitbodies without olivaceous tinges
+2,0 $ Lamellae with olivaceous tinge; cheilocystidia much longer than basidia; pigment intracellular and parietal $ E. chlorophyllum 136. 
+2,0 $ Pileus and stipe with olivaceous tinges; cheilocystidia about same length as basidia; pigment incrusting $ E. olivaceohebes 86. 
+3,0 $ Spores isodiametrical $ E. occultipigmentatum var. cystidiatum 120b. 
+3,4 $ Spores heterodiametrical
+4,5 $ Cheilocystidia very broadly clavate, globose or sphaeropedunculate
+4,6 $ Cheilocystidia different
+5,0 $ Pigment intracellular; clamp-connections absent $ E. globuliferum 132. 
+5,0 $ Pigment incrusting; clamp-connections present $ E. sphaerocystis 126. 
+6,7 $ Stipe glabrous, polished
+6,13 $ Stipe fibrillose striate
+7,0 $ Fruitbodies very dark brown almost black; pileus hardly striate; flesh rather tough, cartilaginous; pigment coarsely incrusting $ E. kerocarpus 91. 
+7,8 $ Fruitbodies different
+8,9 $ Pigment minutely incrusting; clamp-connections absent
+8,10 $ Pigment intracellular; clamp-connections present
+9,0 $ Cheilocystidia with a very broad basal part and long, moliniform neck $ E. amicorum 145. 
+9,0 $ Cheilocystidia subcylindrical to sublageniform $ E. tenellum 104. 
+10,0 $ Spores relatively small, 7.0-8.5 (-9.0) x 5.5-6.5 µm; on dung $ E. coprophilum 133. 
+10,11 $ Spores larger and habitat different
+11,0 $ Spores large, 10-14 (-16) x 7-11 µm; cheilocystidia abundant, 50-150 µm long $ E. velenovskyi 127. 
+11,12 $ Spores and cheilocystidia smaller
+12,0 $ Spores 4-6 angled in side-view; cheilocystidia 45-70 x 8-22 x 3-6 µm, lageniform to tibiiform, abundant $ E. pratulense 128. 
+12,0 $ Spores 5-7 angled in side-view; cheilocystidia 30-80 x 4-11 µm, clavate to capitate .... $ E. langei 129. 
+13,14 $ Lamellae dark brown with pink tinge; cheilocystidia tibiiform like in Conocybe species ..
+13,15 $ Lamellae white then (brownish) pink; cheilocystidia different
+14,0 $ Pileus very dark brown almost black $ E. inutile 172. 
+14,0 $ Pileus ochraceous $ E. conocybecystis 191. 
+15,16 $ Pigment intracellular
+15,19 $ Pigment incrusting
+16,17 $ Fruitbodies grey-brown, small: pileus 10-25 mm broad; stipe 1-2.5 mm wide
+16,18 $ Fruitbodies larger with yellow-brown or red-brown colour; pileus 20-70 mm broad; stipe 3-7 (-10) mm wide
+17,0 $ Pileus dark grey-brown, not hygrophanous, not translucently striate; stipe grey; spores 9-10.5 x 6-7.5 µm, Qav = 1.4-1.5; alpine $ E. magnaltitudinis 130. 
+17,0 $ Pileus pale grey-brown, hygrophanous, translucently striate; stipe pale grey; spores 9-10 x 7.5-8.5 µm, Qav = 1,2-1,3, lower altitudes $ E. cryptocystidiatum 131. 
+18,0 $ Pileus translucently striate; spores in average 10-11 x 7.5-8 µm; smell farinaceous $ E. testaceum var. testaceum 121a. 
+18,0 $ Pileus not translucently striate; spores in average 11.5-12.5 x 8.5-9.5 µm; smell none $ E. testaceum var. bavaricum 121 b. 
+19,0 $ Smell strong, like Hebeloma sacchariolens $ E. sacchariolens 109. 
+19,20 $ Smell none or farinaceous
+20,0 $ Pileipellis a cutis with transitions to a trichoderm of slightly swollen elements; pigment both incrusting and intracellular in form of agglutinated, bright yellow-brown granules or clots; clamp-connections absent $ E. kristiansenii 143. 
+20,21 $ Pileipellis a cutis of narrow hyphae; pigment incrusting, and, if additional intracellular is present, then not in form of agglutinated granules or clots; clamp-connections present, rarely absent
+21,22 $ Lamella edge entirely sterile
+21,24 $ Lamella edge heterogeneous
+22,0 $ Spores less than 8 µm wide $ E. hebes 85. 
+22,23 $ Spores more than 8 µm wide
+23,0 $ Fruitbodies robust with stipe much longer than diameter of pileus; in spring in coniferous forest, particularly in central and southern Europe; in the lowland of Western Europe also in autumn in deciduous forest $ E. hirtipes 83. 
+23,0 $ Fruitbodies smaller and stipe about as long as diameter of pileus; in grasslands $ E. kuehnerianum 84. 
+24,0 $ Spores small, 8.5-9.5 x 6.9-8.0 µm $ E. malenconii 87. 
+24,25 $ Spores larger, up to 11 (-12.5) µm long
+25,0 $ Pileus red-brown; spores 9.0-12.5 x 7.0-9.5 µm, 5-6-angled, sometimes almost rhomboid; smell strong, like rotten mushrooms; clamp-connections absent $ E. palmense 88. 
+25,0 $ Pileus grey-brown; spores 8.5-11 x 7-8 µm, 5-7 angled in side-view, never rhomboid; smell farinaceous; clamp-connections present $ E. tibiicystidiatum 111. 
+.....
+titre $ Key 14. Pileus conical to convex, often papillate, thin-fleshed, glabrous; lamellae adnate to adnexed; without cystidia, spores not cuboid or cruciform (Nolanea p.p.).
+cs14,0$
+1,0 $ Pileus and stipe very dark brown to blackish brown; lamellae almost free, dark red- brown; trama of lamellae and pileus made up of short, inflated elements $ E. atroenigmaticum 65. 
+1,2 $ Fruitbodies different; trama composed of long, fusiform elements
+2,3 $ Basidia 2-spored
+2,4 $ Basidia, at least in majority, 4-spored
+3,0 $ Stipe strongly silvery fibrillose; smell indistinct or weakly farinaceous; pileus up to 40-50 mm broad, stipe up to 90 mm long $ E. cetraturn 113. 
+3,0 $ Stipe polished; smell farinaceous-rancid; pileus up to 20 mm broad; stipe up to 25 mm long $ E. farinogustus 114. 
+4,5 $ Spores remarkably many-angled to nodulose (pl. Il d), heterodiametrical
+4,9 $ Spores normally 5-7-angled in outline, not nodulose
+5,0 $ Clamp-connections absent; pigment in pileipellis incrusting and intracellular in form of agglutinated bright yellow-brown granules or clots $ E. cuniculorum 140. 
+5,6 $ Clamp-connections present; pigment intracellular
+6,7 $ Pileus blackish brown
+6,8 $ Pileus reddish brown or pale yellow- or grey-brown
+7,0 $ Pileus conical to convex, with small umbo; spores 10-12.5 x 7-9 µm $ E. triste 171. 
+7,0 $ Pileus convex, soon applanate; spores 7.5-11 (-12) x 6-7 (-8) µm $ E. undulatosporum 173. 
+8,0 $ Fruitbodies resembling Entoloma conferendum with medium yellow-brown pileus; stipe fibrillose striate $ E. pseudoconferendum 122. 
+8,0 $ Fruitbodies different; pileus greyish brown; stipe (almost) polished $ E. winterhoffii 174. 
+9,10 $ Spores isodiametrical; Qav =1.0-1.2
+9,20 $ Spores heterodiametrical; Qav > 1.2
+10,11 $ Pigment intracellular, hardly visible
+10,12 $ Pigment incrusting, sometimes in addition also intracellular
+11,0 $ Pileus minute, 3.5-5 mm broad, dark brown $ E. pusillulum 123. 
+11,0 $ Pileus larger, reddish brown $ E. occultipigmentatum var. occultipigmentatum 120a. 
+12,0 $ Clamp-connections absent; spores very small, 6.5-8 µm in diameter and rounded- angular $ E. defibulatum 138. 
+12,13 $ Clamp-connections present; spores more pronouncedly angular
+13,14 $ Pileus rather pale brown, very pale and strongly aeriferous-fibrillose when dry
+13,15 $ Pileus dark brown, red-brown or grey-brown to almost black
+14,0 $ Lamellae well-developed $ E. nitens 100. 
+14,0 $ Lamellae reduced, vein-like, sometimes not reaching the margin of the pileus $ E. reginae 101. 
+15,0 $ Stipe polished; preferably in humus of damp deciduous forests, rarely also in grassland $ E. juncinum 99. 
+15,16 $ Stipe slightly to distinctly fibrillose-striate; in grassland
+16,0 $ Fruitbodies stout, mycenoid, pileus conical to convex with pronounced umbo; stipe 2-3 times as long as diameter of pileus, 40-130 x 2,5-5 mm; smell indistinct or slightly spermatic $ E. atlanticum 98. 
+16,17 $ Fruitbodies less robust and stipe about 1-1.5 times as long as diameter of pileus; smell farinaceous-rancid
+17,18 $ Pileus distinctly translucently striate when moist
+17,19 $ Pileus indistinctly or not translucently striate when moist
+18,0 $ Pileitrama made up of short, inflated elements, 20-70 x 10-25 µm; pileus grey-brown; spores subisodiametrical, 8.5-10 x 7.0-8.5 µm, Qav = 1.2; 6-7-angled in side-view $ E. valdeumbonatum 67. 
+18,0 $ Pileitrama made up of long, fusiform elements, at least up to 200 µm long; pileus red- brown, often fairly dark; stipe dark brown, innately to silvery fibrillose; spores 7.0-10.5 x 6.5-9.6 µm; Qav = 1.1, 5-, rarely 6-angled in side-view $ E. sericeum var. sericeum 106. 
+19,0 $ Pilei- and hymenophoral trama made up of short, subcylindrical elements, 15-90 µm long; pileus surface glabrous, somewhat micaceous $ E. vindobonense 66. 
+19,0 $ Pilei- and hymenophoral trama made up of long, fusiform elements, at least 200 µm long; pileus often with a hoary-subzonate covering $ E. sericeum var. cinereoopacum 107. 
+20,21 $ Pigment intracellular
+20,31 $ Pigment incrusting, sometimes in addition also intracellular
+21,22 $ Pileus with olivaceous or green tinges
+21,24 $ Pileus without olivaceous or green tinges
+22,0 $ Stipe with olivaceous tinges; clamp-connections absent; smell absent $ E. olivaceostipitatum 135. 
+22,23 $ Stipe reddish brown, grey-brown or yellowish; clamp-connections present, at least in hymenium; smell strong, aromatical or absent
+23,0 $ Pileus dark olivaceous-brown; stipe reddish brown; on rotten wood $ E. ambrosium (see comments under E. pleopodium) 
+23,0 $ Pileus yellow-olivaceous; stipe yellow to grey-brown; terricolous $ E. pleopodium 134. 
+24,25 $ Spores 5-7 µm wide
+24,26 $ Spores 7-10 µm wide
+25,0 $ Smell nitrous $ E. infula var. chlorinosum 124b. 
+25,0 $ Smell none $ E. solstitiale 125. 
+26,0 $ Stipe polished $ E. triste 171. 
+26,27 $ Stipe fibrillose or fibrillose-striate
+27,29 $ Spores 8.5-10 µm long, Qav = 1.25, in meadows and grassland $ 
+27, 28$ Spores 10-12 µm long; Qav = 1.4, in woods
+28,0 $ Pileus light brown with ochraceous tinge and dark brown centre and striation, translucently striate up to centre; lamellae grey then with pink tinge, broadly ventricose, often thick $ E. ventricosum 116. 
+28,0 $ Pileus light reddish brown with grey-brown striation up to centre; lamellae pale then pink without grey or brown tinges; thin $ E. calthionis 115. 
+29,0 $ Pileus dark brown with contrasting yellow umbo; stipe pruinose in upper part $ E. cuneatum 117. 
+29,30 $ Pileus uniformly colored
+30,0 $ Fruitbodies very pale brown; stipe entirely pruinose to tomentose ... $ E. lanuginosipes 119. 
+30,0 $ Pileus dark yellow-brown or red-brown; stipe pale to moderately dark brown, densely silvery striate, pruinose at apex only $ E. pallescens 118. 
+31,32 $ Clamp-connections absent; pileipellis with minutely to coarsely incrusted hyphae, and in addition intracellular pigment, which often is present in form of small, agglutinated yellow-brown clots (pl. Ill d, e) (sect. Fernandae)
+31,35 $ Clamp-connections present; pigmentation different
+32,33 $ Stipe distinctly silvery striate
+32,34 $ Stipe smooth, polished
+33,0 $ Pileus grey-brown with yellow or reddish tinges, pallescent to pale grey-brown; lamellae white then pink; flesh very brittle $ E. acidophilum 141. 
+33,0 $ Pileus very dark grey-brown, only slightly pallescent on drying; lamellae sordid pink; flesh relatively tough $ E. argenteostriatum 142. 
+34,0 $ Stipe greyish to grey-brown; pileus either smooth and translucently striate or not or weakly translucently striate and somewhat felted at centre $ E. fernandae 137. 
+34,0 $ Stipe yellow; pileus always smooth, deeply translucently striate and glabrous $ E. xanthocaulon 139. 
+35,36 $ Smell strong, aromatic, reminiscent the smell of Hebeloma sacchariolens
+35,37 $ Smell none or farinaceous-rancid
+36,0 $ Pileus up to 55 mm broad, translucently striate at margin up to half the radius; stipe 30-90 x 2-8 mm $ E. ameides var. ameides 108a. 
+36,0 $ Pileus 17-28 mm broad, translucently striate up to centre; stipe 13-20 x 1.7-2 mm $ E. ameides var. tenue 108b. 
+37,38 $ Pileus and stipe beige to light brown, often with darker spot at centre of pileus, strongly translucently striate; smell indistinct
+37,40 $ Pileus and stipe moderately dark to dark brown, sepia or almost black; smell none or distinctly farinaceous-rancid
+38,0 $ Apex of stipe with capitate caulocystidia $ E. favrei 103. 
+38,39 $ Apex of stipe with cylindrical to clavate, never capitate caulocystidia
+39,0 $ Pileus up to 30 mm; stipe up to 7 x 0.5-2 mm; pileus blunt or slightly depressed at centre; lamellae purely white then pink; spores 8-11 (-11.5) x 6.5-8.5 µm; in black humus of deciduous forest $ E. minutum 102. 
+39,40 $ . Very small species: pileus up to 10 mm; stipe up to 20 x 1 m; pileus with pronounced papilla; lamellae pale grey then sordid pink; spores 7.5-9.5 -10.5) x 6-8 (-8.5) µm; in wet grassland and marshy places ,105. E. pygmaeopapillatum
+40,41 $ Spores in outline shortly heterodiametrical to subisodiametrical, Qav ranging between 1.2-1.3
+40,44 $ Spores in outline definitely heterodiametrical, Qav 1.3 or more
+41,0 $ Spores very weakly rounded-angular $ E. ortonii 96. 
+41,42 $ Spores pronouncedly angular
+42,0 $ Smell raphanoid; caulocystidia capitate; in Sphagnum $ E. cuspidiferum 97. 
+42,43 $ Smell farinaceous-rancid or inconspicuous; caulocystidia, if present, not capitate, in other habitat
+43,0 $ Stipe strongly silvery striate; smell indistinct to slightly spermatic-herbaceous $ E. atlanticum 98. 
+43,0 $ Stipe sparsely fibrillose striate; smell strongly farinaceous-rancid $ E. lucidum 92. 
+44,0 $ Lamellae thick and distant, very dark brown already in young stages $ E. clandestinum 90. 
+44,45 $ Lamellae normally thin and moderately distant to crowded, less dark brown
+45,46 $ Spores small, in average less than 10.5 µm long
+45,48 $ Spores larger, in average longer than 10.5 µm
+46,0 $ Pileus moderately dark yellow- to reddish brown; lamellae purely white then pink; stipe polished $ E. infula var. infula 124a. 
+46,47 $ Pileus dark brown, sepia or blackish brown
+47,0 $ Pileus yellow-brown to red-brown, already when moist with loose fibrils becoming lustrous on drying; pileipellis with incrusting pigment; subpellis not very well differentiated; in autumn in grassland $ E. sericeonitens 93. 
+47,48 $ . Pileus dark grey-brown or sepia brown to almost black; glabrous; pileipellis with incrusting and intracellular pigment; in spring in or near coniferous forests and also in peat-bogs among Sphagnum 94. E. proterum
+48,0 $ Appearing in spring in or near coniferous forest; stipe fibrillose striate, at apex with capitate caulocystidia; pileus dark brown almost black; smell none $ E. vernum 110. 
+48,0 $ Appearing in summer and autumn in grassland; stipe polished or almost so; pileus reddish brown; smell usually distinctly farinaceous $ E. papillatum 89. 
+....
+rem$ Key 15. Pileus conical to convex, often umbonate with strongly radially fibrillose, hairy or finely squamulose surface, reminiscent a species of Inocybe with relatively dark lamellae; pigment incrusting, sometimes also intracellular, and clamp-connections absent (subgenus Pouzarella) (pl. I f; spores II e)
+cs15,0$
+1,0 $ Pileus with olivaceous-green or olivaceous-yellow colour; stipe grey, silvery striate, with white or red strigose hairs at base $ E. versatile 154. 
+1,2 $ Pileus without olivaceous-green or olivaceous-yellow tinges
+2,3 $ Cheilocystidia broadly fusiform to lageniform with long, narrow, tapering neck; pigment incrusting and intracellular
+2,4 $ Cheilocystidia, if present, cylindrical to clavate with rounded apex, often in chains and incrusted
+3,0 $ Pileus mouse-grey densely fibrillose-hairy, often with fibrillose patches of what may be remnants of veil at margin, glabrescent with age $ E. araneosum 155. 
+3,0 $ Pileus blue-grey with reddish tinge at centre $ E. indutum 156. 
+4,0 $ Smell strong, fetid $ E. foetidum 153. 
+4,5 $ Smell indistinct or farinaceous
+5,6 $ Pileus and stipe with long fusiform hairs
+5,7 $ Pileus and stipe with incrusted, not setiform hairs
+6,0 $ Pileus and stipe reddish brown; hairs on pileus and stipe red, thick-walled $ E. strigosissimum 146. 
+6,0 $ Pileus and stipe blackish brown; hairs on pileus and stipe brown, thin-walled $ E. atrofissuratum 157. 
+7,8 $ Spores longer than 15 µm
+7,9 $ Spores shorter than 15 µm
+8,0 $ Pileus conical-parabolical, hardly expanding; lamellae often not distinctly exposed to the air (+1- secotoid); cheilocystidia absent; spores very broad, (10-) 12-16 µm $ E. pseudodysthales 149. 
+8,0 $ Pileus conical, but expanding with age; lamellae always distinctly exposed to the air; cheilocystidia present. Spores (7.5-) 8-10.5 (-11) µm broad $ E. dysthales 147. 
+9,10 $ Spores thin-walled, relatively weakly angled in side-view
+9,11 $ Spores thick-walled and pronouncedly angled
+10,0 $ Pileus and stipe with red-brown or reddish yellow squamules on grey-brown background; stipe with incrusted hairs; spores 10-13 x 7-9 µm $ E. pulvereum 152. 
+10,0 $ Pileus grey-brown with slightly paler fibrillose to weakly squamulose covering; stipe with weakly incrusted to smooth hairs $ E. romagnesii 151. 
+11,0 $ Pileus and stipe dark grey-brown to almost black; stipe hairs septate, coarsely incrusted; spores 10.5-13.5 (-15) x 7-8 (-9) µm $ E. dysthaloides 148. 
+11,0 $ Pileus and stipe mouse-grey; stipe hairs not or uniseptate, smooth or weakly incrusted $ E. hirtum 150. 
+.......
+rem$ Key 16. Pileus conical to convex, often umbonate, not glabrous but radially fibrillose to minutely squamulose; cheilocystidia at least a certain percentage distinctly capitate (subgenus Trichopilus)
+cs16,0$
+1,0 $ Pileus ochraceous, when young also with violaceous tinge, especially at margin; cheilocystidia tibiiform like in may Conocybe species; clamp-connections absent $ E. conocybecystis 191. 
+1,2 $ Pileus brown, gray-brown, red-brown, porphyry-brown or blackish brown; clamp- connections present, or exceptionally absent
+2,0 $ Pileus remarkably coarsely radially fibrillose-virgate, with dark red-brown to grey-brown fibrils in radially fascicles, showing the paler flesh in-between; cheilocystidia often with a mucronate capitulum; clamp-connections absent $ E. scabiosum 190. 
+2,3 $ Pileus more regularly radially fibrillose, not virgate and showing the flesh between the fibrils; capitulum of cheilocystidia usually not mucronate; clamp-connections present
+3,0 $ Fruitbodies small, mycenoid, pileus 5-30 mm broad, very dark brown almost black; lamellae dark grey-pink $ E. inutile 172. 
+3,4 $ Fruitbodies larger; pileus 20-70 mm broad or larger, brown, gray-brown, red-brown, porphyry-brown
+4,5 $ .Pileus hygrophanous, rather finely radially fibrillose, often somewhat micaceous-shiny; becoming more distinctly radially fibrillose on drying; cheilocystidia in majority clavate with rounded apex or lageniform, but always mixed with distinctly capitate ones; smell strongly farinaceous 5
+4,6 $ Pileus not hygrophanous, always distinctly radially fibrillose, felted or squamulose; smell indistinct; cheilocystidia in majority capitate
+5,0 $ Lamella edge brown $ E. fuscomarginatum 188. 
+5,0 $ Lamella edge concolorous with sides $ E. elodes 187. 
+6,0 $ Pileus and stipe with a nice reddish-porphyry brown colour; lamellae pale then pink; cheilocystidia often with a moliniform neck and rounded capitulum $ E. porphyrophaeum 189. 
+6,7 $ Pileus and stipe brown to grey-brown; neck of cheilocystidia rarely moliniform
+7,0 $ Pileus felted, rarely squamulose; lamellae dark grey-brown then dark red-brown with concolorous or slightly paler edge; stipe densely covered with brownish longitudinal fibrils on paler background $ E. jubatum 185. 
+7,0 $ Pileus minutely squamulose to squarrose with fine pointed squamules; lamellae white or pale grey then sordid grey with white, fimbriate edge; stipe silvery striate $ E. fuscotomentosum 186. 
+...
+rem$ Key 17. Pileus conical to convex, often umbonate with pruinose, rimulose, rugulose, velose, fibrillose, or squamulose surface, usually with intracellular pigment, rarely with incrusting pigment, but stipe without stiff hairs, and clamp-connections present (subgenus Inocephalus).
+cs17,0$
+1,0 $ Fruitbodies white $ E. albogranulosum 178. 
+1,2 $ Fruitbodies colored
+2,3 $ Pileus minutely pruinose, rugulose or veined
+2,8 $ Pileus radially fibrillose, squamulose or squarrose
+3,4 $ Fruitbodies tricholomatoid
+3,6 $ Fruitbodies more slender, pileus rimose like Pluteus phlebophorus
+4,0 $ Pileus pale brown, finely rimose-craqued all over, reminiscent a species of Dermoloma; pileipellis a calliderm $ E. henrici 176. 
+4,5 $ Pileus dark grey-brown or red-brown, either covered with a pruinose bloom or rugulose all over; pileipellis a cutis with transitions to a trichoderm of narrow hyphae
+5,0 $ Pileus radially rugulose; pigment intracellular in pileipellis and upper trama, in addition also minutely incrusting the narrow hyphae of subpellis $ E. griseorugulosum 33. 
+5,0 $ Pileus entirely covered with a greyish pruinose bloom; pigment intracellular $ E. griseopruinatum 36. 
+6,0 $ Spores small, 6.5-10 x 5.5-7.5 µm; pileus 6-12 mm broad, distinctly translucently striate up to half the radius $ E. phlebodermum 179. 
+6,7 $ Spores larger, pileus 25-50 mm broad, not translucently striate
+7,0 $ Lamella edge brown with pigmented cheilocystidia $ E. pluteidermum 180. 
+7,0 $ Lamella edge concolorous with sides $ E. kitsii 165. 
+8,9 $ Cheilocystidia present and prominent, either very large and protruding strongly from hymenium, or clavate mucronate
+8,10 $ Cheilocystidia absent or sparse, often inconspicuous, resembling young basidia, or subcylindrical
+9,0 $ Cheilocystidia mucronate; pileus felted or squamulose; grey with purplish tinge; stipe grey, squamulose $ E. carbonicola 159. 
+9,0 $ Cheilocystidia lageniform; pileus strongly radially fibrillose; stipe fibrillose-striate $ E. canosericeum 144. 
+10,11 $ Spores many-angled, nodulose
+10,14 $ Spores regularly 5-7-angled, not nodulose
+11,12 $ Fruitbodies thin-fleshed, more or less like a Mycena, usually in late summer and autumn
+11,0 $ Fruitbodies fleshy, tricholomatoid or like a robust Mycena; smell and taste farinaceous, often appearing in spring and early summer $ E. plebejum 166. 
+12,0 $ Pigment minutely incrusting; pileus pale to moderately dark grey-brown, radially fibrillose to minutely squamulose; stipe yellow-brown, much paler than pileus, densely fibrillose-striate $ E. hispidulum 181. 
+12,13 $ Pigment intracellular; pileus and stipe with about the same dark brown to brown-grey colour; pileus glabrous except for the finely rugulose to tomentose centre; stipe more or less polished
+13,0 $ Fruitbodies rather compact with stipe length about equal to diameter of pileus; in grassland and heath-like vegetation on nutrient-poor soil $ E. undulatosporum 173. 
+13,0 $ Fruitbodies long-stemmed, mycenoid; in humus of damp deciduous forest $ E. triste 171. 
+14,0 $ Spores 8-12 x 7-9 µm, 5-7-angled in side-view with pronounced angles; fruitbodies rather robust: pileus 20-80 mm broad, stipe 20-70 x 3-10 mm; smell none, taste unpleasant, not farinaceous; in autumn $ E. plebeioides 168. 
+14,15 $ Spores smaller; fruitbodies less robust, more Mycena-like
+15,0 $ Stipe polished; spores fairly small, (6.5-) 7.0-8.5 x 6.0-7.0 µm, subisodiametrical, 5-6 angled $ E. brunneoflocculosum 170. 
+15,16 $ Stipe fibrillose striate and spores larger, or 6-9 angled
+16,17 $ Pileipellis with intracellular pigment
+16,18 $ Pileipellis with incrusted pigment
+17,0 $ Pileus dark brown, almost black; stipe whitish to pale cream-colored, silvery striate; in spring and autumn $ E. opacum 167. 
+17,0 $ Pileus dark brown; stipe grey-brown, hardly striate or polished; in autumn $ E. resutum 169. 
+18,0 $ Pileus hygrophanous, translucently striate up to half the radius $ E. sanvitalense 182. 
+18,19 $ Pileus not or weakly hygrophanous, not translucently striate
+19,0 $ Pileus rather pale grey-brown, adpressed felted-tomentose; pigment incrusting and intracellular $ E. vezzenaense 184. 
+19,0 $ Pileus mouse-grey, finely squamulose all over; pigment incrusting $ E. terreum 183. 
+............

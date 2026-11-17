@@ -1,0 +1,91 @@
+titre = Pholiota ;;;;;;;;;;
+commentaire = http://shnvc.e-monsite.com/pages/mycologie/outils-determination.html;;;;;;;;;;
+Auteur : Eric Michon;;;;;;;;;;
+
+champ=TRICHOLOMA;Chapeau Coul;Chapeau Cut;Lames Coul;Lames ;Stipe coul;Stipe asp;Odeur;saveur;Habitat;remarque
+acerbum;jaune;cannelé;jaune;tâchées de roux;concolore;;;amère;Feuillus;
+acerbum;jaune;cannelé;jaune;tâchées de roux;concolore;;;amère;Quercus;
+albidum;blanc;mamelon;blanches;;blanc;jaunissant;farine rance;douce;Feuillus;
+album;blanc;bord lisse;blanches;irrégulières;blanc;;insecticide;amère > âcre;Quercus;
+album var thalliophyllum;blanc;;blanches;espacées;;;jasmin;âcre;;
+apium;ocre jaune;bord enroulé;crème;serrées;crème;base renflée;céleri;céleri;Abies;
+apium;ocre jaune;bord enroulé;crème;serrées;crème;base renflée;céleri;céleri;Conifère;
+apium;ocre jaune;bord enroulé;crème;serrées;crème;base renflée;céleri;céleri;Pinus;
+argyraceum;pâle à argenté;;;;;égal;;;;
+arvernense;jaune brun;bord enroulé;blanc crème;jaune au bord;blanc;napiforme;farine;amère;Conifères;montagne
+atrosquamosum;gris;squamuleux;grisâtre;ponctuées;blanc;;basilic farine;;;
+aurantium;brun roux;visqueux;blanches;tâchées de roux;blanc chiné de roux;armille;concombre;amère;Conifère;
+auratum;jaune souffre;;jaune souffre;;jaune;;noisette;douce;Pinus;
+basirubens;gris;méchuleux;blanches;piquées de noir;blanc;rouge à la base;farine ecoeurante;farine ecoeurante;Carpinus;
+basirubens;gris;méchuleux;blanches;piquées de noir;blanc;rouge à la base;farine ecoeurante;farine ecoeurante;Fagus;
+batschii;brun roux;amère;blanches;piquées de roux;piqué;zone annulaire;concombre;amère;Pinus;Cuti. enroulée 
+boudierii;blanc - rougeâtre;lisse;;;;;savon;savon;;
+bresadolanum;gris;méchuleux;grises;tâchées de noir;grisâtre;méchuleux;herbacée;amère;Quercus;
+bufonium;vieux rose;velouté;jaune;;;;gaz;;;
+caligatum;brun;bord clair;crème;;blanc et brun;armille;corydalina;amère;Pinus;
+cedretorum;brun roux;visqueux;blanches;piquées de roux;blanc > roux;unie;farine;subdouce;Cedrus;
+cingulatum;grisâtre;méchuleux ;blanches;grisâtres;blanchâtre;annelé  ;farine;farine;Salix;
+colossus;roux;bord enroulé;crème;tâchées de roux;brun;massif bulbeux;;douce;Pinus;25 cm bord blanc enroulé -
+columbetta;blanc;soyeuse;blanches;;blanc;base bleu- vert;farine  ;farine;Feuillus;
+equestre;jaune;apex écailleux;jaune;;jaune;chair blanche;farine;farine;Feuillus;
+equestre;jaune;apex écailleux;jaune;;jaune;chair blanche;;;Pinus;
+focale;brun roux;olivâtre;blanches;> crème;blanc;armille;farine;amarescent;Pinus;
+fracticum = batschii;brun roux;amère;blanches;piquées de roux;piqué;zone annulaire;concombre;amère;Pinus;Cuti. enroulée 
+fucatum;brun sale;;;;;;concombre;douce;;
+fucatum;brun sale;;;;;;farine;douce;;
+fulvum;brun roux;visqueux  cannelé;jaune;brunnissantes;;;farine ;amère;Betula;
+gausapatum;gris;feutré;grisâtre;larges;;;;;Feuillus herbacés;
+hordum;gris;conique;grisâtre;espacées;;;rance;âcre;Feuillus;Chp  mamelonné 
+imbricatum;brun roux;mat;blanches;> rouille;blanc;aminci à la base;farine;douce > amère;Larix;
+imbricatum;brun roux;mat;blanches;> rouillent;blanc;aminci à la base;farine;douce > amère;Pinus;
+inamoenum;blanc;;blanches;espacées;;;jasmin;choux;; Tl4 verdâtre
+inocybeoides;crème;mamelon;blanchâtres;;blanchâtre;;farine rance;farine rance;Betula;
+inocybeoides;crème;mamelon;blanchâtres;;blanchâtre;;farine rance;farine rance;Populus;
+joachimi;jaune;;blanches;;jaunâtre;bulbeux;farine;douce;Pinus;
+josserandii;gris;gras;blanches;;blanc;aminci à la base;rance;rance;;Chp gras non visqueux - L blanches sans jaune
+lascivum;jaunâtre;;blanches;subdécurrentes;;;seringat;;;chp non blanc pur TL4 rose lilas violet
+luridum;gris olivâtre;sec;grises;;concolore;;farine;douce > amère;Abies;
+luridum;gris olivâtre;sec;grises;;concolore;;farine;douce > amère;Picea;
+matsutaké;brun;méchuleux enroulé;crème;serrées;blanc;armille;corydalina;douce;Conifère;
+orirubens;gris;bord rosissant;grisâtre;rosissantes;blanc;bleu à la base;complexe;douce;Feuillus; Mycélium jaune 
+pardinum  ;gris;squamuleux;glauques;;blanc;pelucheux;complexe;douce;Abies;
+pardinum  ;gris;squamuleux;glauques;;;;;;Fagus;L blanches glauques - Hêtraie sapinière
+pardinum var filamentosum;blanc sale;fibrillo-squamuleux;glauques;;;;;;Abies;
+pardinum var filamentosum;blanc sale;fibrillo-squamuleux;glauques;;;;;;Fagus;L blanches glauques Chp fibrilles blanches Hêtraie sapinière
+pessundatum;brun roux;visqueux;blanches;piquées de roux;blanc > roux;unie;farine;subdouce;Pinus;
+populinum;brun roux;lisse;blanches;piquées de roux;crème > brun;unie;farine;douce;Betula;
+populinum;brun roux;lisse;blanches;piquées de roux;crème > brun;unie;farine;douce;Populus;chp 15 cm
+populinum;brun roux;lisse;blanches;piquées de roux;crème > brun;unie;farine;douce;Salix;
+portentosum;gris jaune;gras;blanches;reflets jaunes;jaunâtre;;farine;huitre;Conifère;
+psammopus;brun;sec;espacées;se piquant;brun;sablé granuleux;;amère;Conifère;
+pseudoalbum;blanc;conique;blanches;régulières;blanc;;;;Betula;
+pseudonictitans;brun;visqueux;crème;piquées de roux;brun;chair jaune;;amarescent;Conifères;
+ramentaceum;gris;;;;;;;;;
+saponaceum;verdâtre ocre;enroulée;crème;> rosissent;crème;radicant;savon;subdouce;Conifères;
+saponaceum;verdâtre ocre;enroulée;crème;> rosissent;crème;radicant;savon;subdouce;Feuillus
+saponaceum fo ardosiacum;verdâtre gris-bleu;enroulée;crème;;gris;;savon;;
+saponaceum var. napipes;vert ;enroulée;jaune;;jaunâtre;;savon;farine;
+saponceum var. squamosum;gris sombre;;;;;méchuleux;savon;farine;
+scalpturatum;gris;mamelon;grisâtre;jaunissantes;blanchâtre;jaunissant;farine;farine;Fagus
+sciodes;gris;déjeté;grisâtre;ponctuées de noir;grisâtre;pelucheux;;amère > âcre;Fagus
+sejunctum;gris jaune;bord clair;blanches;jaunissantes;blanc;rosâtre à la base;farine;amère;Conifères
+sejunctum;gris jaune;bord clair;blanches;jaunissantes;blanc;rosâtre à la base;farine;amère;Feuillus
+squarrulosum;gris;méchuleux;blanches;piquées de noir;gris;méchuleux;poivrée;farine;Feuillus
+striatum;brun roux;fibrilleux;blanches;piquées de roux;blanc et brun;zone annulaire;farine;très amère;Pinus
+sudum;gris;;;;;;;;
+sulphurescens;jaunâtre;lisse;crème;irrégulières;blanc;jaunissant;fruitée ecoeurante;douce;Betula
+sulphurescens;jaunâtre;lisse;crème;irrégulières;blanc;jaunissant;fruitée ecoeurante;douce;Picea
+sulphureum ;jaune ;lisse;jaune;;jaune;;gaz;ecoeurante;Feuillus
+sulphureum var. coronarium;jaune rose;apex brun rose;jaune;;jaune;;gaz;;
+terreum;gris;feutré;blanches;> gris perlé;blanc;cortine;;douce;Pinus
+ustale;brun roux;visqueux doux;blanches;piquée de roux;crème;unie;farine;amère;Fagus;
+ustale;brun roux;visqueux doux;blanches;piquée de roux;crème;unie;farine;amère;Quercus;
+ustaloides;brun roux;visqueux;blanches;piquée de roux;brun;zone annulaire;concombre;amère;Populus;
+ustaloides;brun roux;visqueux;blanches;piquée de roux;brun;zone annulaire;pastèque;amère;Populus;
+ustaloides;brun roux;visqueux;blanches;piquée de roux;brun;zone annulaire;concombre;amère;Quercus;
+ustaloides;brun roux;visqueux;blanches;piquée de roux;brun;zone annulaire;pastèque;amère;Quercus;
+ustaloides;brun roux;visqueux;blanches;piquée de roux;brun;zone annulaire;concombre;amère;Salix;
+ustaloides;brun roux;visqueux;blanches;piquée de roux;brun;zone annulaire;pastèque;amère;Salix;
+vaccinum;brun roux;laineux;blanches;piquées de roux;crème;> roux;herbacée;amarescent;Conifères;Chp sec feutré laineux enroulé - montagne.
+virgatum;gris;conique;grises;piquées de noir;crème;> roux;herbacée;amère > âcre;Picea;chp  sec lisse brillant 
+viridilutescens;verdâtre;;jaunâtres;foncées à la marge;;;farine;farine;;Chp jaune brun à jaune verdâtre.  Arête érodée S&O farineuse

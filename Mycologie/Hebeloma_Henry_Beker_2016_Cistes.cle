@@ -1,0 +1,32 @@
+Titre$ H E B E L O M A   Henry BEKER & All  -  Fungi Europeae 14  -  2016
+Com$   Adaptée par Paul Bertéa 12/2017 - 07/10/2018
+
+1,2 $ Growing with Cistus, Halimium or Tuberaria
+1,6 $ Growing with Helianthemum
+1,0 $$
+1,0 $ Retour à la clé principale $$f"Hebeloma_Henry_Beker_2016.cle"
+
+2,0 $ Cortina present (easily visible when young and sometimes persistent), spores ellipsoid-ovoid and indextrinoid $ H. cistophilum
+2,3 $ Without cortina, spores amygdaloid and at least slightly dextrinoid
+
+3,0 $ Spores distinctly ornamented (O3) and weakly but distinctly dextrinoid. Pileus not pruinose $ H. cavipes
+3,4 $ Spores almost smooth to weakly ornamented (at most 02) and strongly dextrinoid. Pileus sometimes pruinose
+
+4,0 $ Average spore width <= 5.5 µm $ H. alboerumpens
+4,5 $ Average spore width > 5.5 µm
+
+5,0 $ Average cheilocystidia apex > 7 µm and spores very strongly dextrinoid, becoming dark brick to dark reddish-brown $ H. plesiocistum
+5,0 $ Average cheilocystidia apex < 7 µm and spores strongly dextrinoid, becoming yellow brown to orange-brown or brick $ H. erumpens
+
+6,0 $ Cheilocystidia primarily cylindrical $ H. laterinum
+6,0 $ Cheilocytsidia primarily ventricose $ H. sinapizans
+6,7 $ Cheilocystidia swollen at apex, average cheilocystium ratio A/B >= 1.30
+
+7,0 $ Many spores distinctly ornamented (O3), most cheilocystidia clavate-ventricose $ H. cavipes
+7,8 $ Most spores at most weakly ornamented (O2), cheilocystidia clavate-ventricose or gently clavate
+
+8,0 $ Most cheilocystidia gently clavate and average length > 40 µm $ H. velutipes
+8,9 $ Most cheilocystidia clavate-ventricose and average length <= 40 µm
+
+9,0 $ Average spore width > 5.5 µm and average spore length > 10.5 µm $ H. griseopruinatum
+9,0 $ Average spore width < 5.5 µm and average spore length <= 10.5 µm $ H. theobrominum

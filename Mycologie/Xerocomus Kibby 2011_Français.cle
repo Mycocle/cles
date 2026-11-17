@@ -1,0 +1,64 @@
+1,0 $ *** Remarques préalables à lire avant l’utilisation de cette clé ***
+1,0,N$///Cette clé intéresse les Xerocomus de Grande Bretagne avec mention de quelques espèces non encore britanniques.///Un assez grand nombre d’espèces méridionales n’y sont pas évoquées (X. ichnusanus, roseoalbidus, persicolor, erubescens), non plus que des Bolets versés dans le genre Xerocomus par certains auteurs modernes : badius, impolitus, depilatus.///L'auteur accepte le genre Xerocomellus, séparé de Xerocomus sur le seul critère d’une structure différente des hyphes cuticulaires. Cette distinction résulterait de récentes études moléculaires.///L'auteur reconnaît un taxon "engelii " (= communis auct. français) distinct de rubellus et uniquement fondé sur la couleur initiale différente du chapeau, tous les autres caractères macro et microscopiques étant reconnus identiques par lui-même, après Simonini et Ladurner qui ont étudié des centaines de récoltes de manière très détaillée.///Notons qu'il accepte pourtant un X. ferrugineus avec des couleurs de chapeau extrêmement variables...///On peut choisir de conserver le genre Xerocomus traditionnel au sens large et de synonymiser X. engelii à rubellus. 
+1,0 $***************************************************************************
+1,0 $ Hyménophore lamellé, formant des « lamelles » ridées, jaune vif $ Xerocornus pelletieri
+1,2 $ Hyménophore à tubes et pores bolétoïdes typiques
+
+2,0 $ Croissance attachée au Scléroderma citrinum $ Pseudoboletus parasiticus 
+2,0,N$ (voir p. 10)
+2,3 $ Poussant sur le sol, dans la litière
+
+3,0 $ Toutes les parties du carpophore, intérieurement et extérieurement, instantanément de bleu de cobalt, bleu-noir profond au froissement ou à la coupe ; chapeau brun rougeâtre sombre, bai-violacé, stipe jaune, lisse, rouge rincée ou brun-violet dans la partie inférieure $ Boletus pulverulentus
+3,4 $ Fructification pouvant bleuir quand touché ou endommagé, mais jamais totalement et instantanément bleu-noir à travers
+
+4,0 $ Tout le champignon pâle, abricot, chamois, jaunâtre fauve, chair crème et immuable, base du stipe enflés radicante, spores largement ellipsoïdes, presque hyalines sous le microscope, associé à Quercus dans le sud $ Boletus moravicus
+4,5 $ Couleurs variées mais spores subfusoïdes, pâle à brun foncé sous le microscope
+
+5,6 $ Chapeau généralement velouté pelucheux (mais pouvant devenir lisse lorsqu'il est sec), quelques reflets d’un brun-cannelle profond, jaune, brun-olive à verdâtre vif ou brun-rouillé brillant ; hyphes cuticulaires longues, flexueuses et lisses (fig. 62)  $ *** Section Xerocomus s. str. ***
+5,9 $ Si le chapeau est velouté pelucheux, il est de teinte différente (noir, marron foncé, rouge, orange, etc.), mais généralement lisse et souvent tesselé avec l'âge ; hyphes cuticulaires souvent courtes, avec des incrustations irrégulières transversales (fig. 62) $ *** Section Xerocomellus ***
+
+6,0 $ Associé au Populus, chapeau brun-cannelle profond à rouille, stipe à base radicante et réseau grossier au sommet, chair rose grisâtre au rougeâtre à la base du stipe $ Xerocomus silwoodensis 
+6,7 $ Généralement associé au Quercus, Betula, conifères, etc., stipe radicant ou non, réticulé ou non
+
+7,0 $ Stipe conique à la base avec un mycélium jaune doré brillant, surface du stipe avec des flocons rougeâtres au sommet qui peuvent confluer pour former un réseau brut, chair jaune d'or vif dans la base stipe, associé au Quercus $ Xerocomus chrysonemus
+7,8 $ Stipe souvent claviforme à la base pouvant aussi être conique, mycélium crème à jaune pâle mais jamais jaune d'or, chair basale du stipe non jaune d'or, associé aux feuillus comme aux conifères 
+
+8,0 $ Chair blanche à ivoire à la coupe, sans la teinte jaune pâle, souvent rinçage rosâtre, stipe ayant tendance à s’amincir au sommet, avec ou sans réseau grossier ; chapeau de couleur très variable, jaunâtre, cannelle, vert, brun rougeâtre $ Xerocomus ferrugineus
+8,0 $ Chair à la coupe avec une teinte distinctement jaune citron  en particulier dans le chapeau, teinté de rougeâtre dans le stipe (parfois bleuissante dans le chapeau), sommet du stipe souvent plus large, surface du stipe avec ou sans un court réseau  ponctuée $ Xerocomus subtomentosus
+
+9,10 $ Chapeau certaine nuance de rouge uniformément lumineux, rouge sang, rose ou rose-orange
+9,16 $ Chapeau noirâtre, gris-brun, sépia, rouge-brun, brun chamois, blond, brun-olive ou rincé rose-rouge avec des l'âge sur le chapeau
+
+10,0 $ Chair à la base et la surface du chapeau stipe instantanément bleu-vert avec FeS04 ; chapeau écarlate à l'abricot-rouge, souvent tesselées; chair dans la base stipe jaune abricot; hyphes cuticules bouchon assez long et mince, à peine incrusté, souvent (pas toujours!) avec des plaques congophiles lorsqu'elles sont colorées au rouge Congo $ Xerocomellus arrneniacus
+10,11 $ Avec seulement faible ou négative FeS04 réaction,  hyphes cuticulaires souvent courtes et larges, bien incrustées, et  sans plaques congophiles 
+
+11,12 $ Spores avec forte proportion nettement tronqué à l'apex
+11,13 $ Spores à sommet arrondi
+
+12,0 $ Chapeau rouge vif, la fissuration globale, jaunâtre avec des flocons rouges Stipe, le contexte et les pores que faiblement bleuissement, spores avec une surface lisse, même à fort grossissement (x 1500), associé à Quercus en Bohême (Pas encore britannique) $ Xerocomellus marekii *
+12,0 $ Chapeau rouge vif, la fissuration principalement dans les régions extérieures, Stipe a également rouge vif dans l'ensemble, la décoloration au brun, du contexte et pores fortement bleuissement, les spores avec une surface légèrement striées longitudinalement sous fort grossissement, associé à Betula et Alnus dans les zones humides (Pas encore britannique) $ Xerocomellus fennicus *
+
+13,0 $  Dans des lieux humides, les habitats riverains souvent là où le sol se dessèche rarement, habituellement avec Salix ou Alnus, mais aussi connue avec Populus, Tilia et Quercus. La fructification entière est  rouge carmin lumineux, casquette cuticules fissures rapidement, con taches d'un bleu profond tout au long du texte. Spores striées longitudinalement sous un fort grossissement $ Xerocomellus ripariellus
+13,14 $ De plus en plus sèche boisé ou un parc d'habitat ou d'autres caractères différents
+
+14,0 $ Typiquement fructification entier est rouge vif au bouchon en peluche vermillon, veloutée quand il est jeune, lentement fissuration, cadre bleu pâle coloration jaune au-dessus des tubes et des bas dans le stipe. Chair de base de stipe parsemée la flamme points oranges. Les spores sont lisses. Dans l'herbe sous Quercus $ Xerocomellus rubellus
+14,15 $ Cap généralement un rouge plus rouge pourpre du sang, souvent avec des tons de brun, de la tige de couleur jaune et généralement mélangé rouge; contexte sans points orange flamme; les spores peuvent être strié
+
+15,0 $ Contexte lentement coloration bleu profond à travers (S-20 mn), stipe généralement vif, l'apparence bicolore, jaune au-dessus, rouge ponctuée-striée ci-dessous, chapeau brunâtre au rougit globale, les spores minces (4.SS.7 flm de large) finement striés, ordinaires en vertu de Quercus dans le sud $ Xerocomellus cisalpinus
+15,0 $ Contexte à peine bleuissement, jaune avec une légère rougeur sous la cuticule, la rhubarbe rouge profond dans le stipe de base; stipe jaune au-dessus, profonde d'un rouge violacé ci-dessous, bonnet rouge carmin, les spores sont larges (SS-7 flm de large), lisse, Espèces $ Xerocomellus dryophilus * sensu européenne auteurs
+
+16,0 $ Spores matures avec une forte proportion tronquée (Fig. 2), fruitbody ensemble plutôt laid brun sépia, minable, stipe.la plupart du temps sépia avec une zone rouge à l'apex, jaune au-dessus de la zone $ Xerocomellus porosporus
+16,17 $ Les spores aux extrémités arrondies ou pointues, les couleurs diffèrent
+
+17,0 $ Contexte à la base du stipe avec de nombreux petits, la flamme orange-taches, ces peuvent confluer pour former une pastille orange; CAP ocre-brun rougeâtre rinçage avec l'âge, la tige varie généralement du jaunâtre rincé rose-rouge. Bleuissement est généralement limitée au contexte de la PAC et de stipe supérieure $ Xerocomellus engelii
+17,18 $ Contexte à la base, sans stipe nombreuses taches orange flamme (utiliser la loupe), bien que Xerocomellus bubalinus peut (rarement) avoir un peu de taches rouges
+
+18,19 $ Contexte quand on les coupe soit bleuissement profonde tout au long stipe ou au moins à la base du stipe (peut prendre la S-20 min), spores finement strié (visible seulement avec un objectif de qualité élevés du pétrole xl 00) (19)
+18,20 $ Seul contexte bleuissement légèrement en dessus de la PAC en particulier des tubes, rarement en dessous de stipe supérieure, les spores lisses
+
+19,0 $ Stipe jaune contexte généralement lumineuses quand il est jeune, bleuissement légèrement dans la moitié inférieure; bouchon une belle prune brune quand il est jeune avec une marge rougeâtre, souvent ridée-bosselée, tesselées quand le vieux, le mycélium éminents et jaune, les spores finement striée $ Xerocomellus pruinatus
+19,0 $ Crème cadre Stipe généralement ternes à jaunâtre pâle, bleu intense tout au long (S-20 mn), à l'extérieur du stipe est généralement bicolores jaunes au-dessus et ci-dessous rougeâtre; bouchon est ocre-brun, brun-noirâtre au rouge rouge, spores finement striés $ Xerocomellus cisalpinus.
+
+20,0 $ Stipe généralement d'un rouge profond ponctuée-striée sur toute sa longueur, capuchon brun foncé, noirâtre quand il est jeune, la fissuration pour révéler la chair pâle ou rougeâtre; contexte dans stipe généralement d'un rouge profond dans le cortex externe, légèrement bleutée dans les tubes ci-dessus, sous les conifères ou de Fagus $ Xerocomellus chrysenteron
+20,0 $ Stipe généralement jaune-brun avec des rose-rouge couleur ou stries, à entièrement rouge rincés; bouchon commence plumbrown profonde à rougeâtre puis bientôt blonde-ocre, brun ocre et de rose Oushing ou brun rougeâtre, rose contexte dans chapeau, avec de légères à profondes au-dessus du bleuissement des tubes et le haut stipe; hyphes cuticulaires souvent bifurqué à l'extrémité. Collections britanniques jusqu'ici sous Populus et Tilia, Quercus possible également $ Xerocomellus bubalinus
+20,0,N$       ===>  Espèce très proche de X. rubellus selon Simonini.

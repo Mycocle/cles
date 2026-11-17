@@ -1,0 +1,115 @@
+titre$ Key to European species of Lachnum
+com$ Baral 2010 /adapt GF 2012
+
+avec l'aimable autorisation de H.O. Baral
+Environnement de travail : Mycoclé / conception et réalisation GF
+http://mycolim.free.fr/DOC_SML/mycoCLE/Charg_Mycocle.htm .
+ Débridage : contacter Gfannechere>>unilim.fr (remplacer >> par @)
+
+rem$LANGUE$Anglais
+
+
+1,0$ Critères de tri : ///1 H. with (medium to abundant) oxalate crystals///2 P./H. with (medium to abundant) strongly refractive VBs///3 A. with croziers
+
+1,0 $ + + +   no taxon known
+1,0 $ + + -   no taxon known
+1,cs1 $ + - +  subkey 1      (P. always broadly lanceolate, far protruding)
+1,cs2 $ + - -  subkey 2      (Sp. oil content 0-1, H. 3-4celled)
+1,cs3 $ - + +  subkey 3
+1,cs4 $ - + -  subkey 4
+1,cs5 $ - - +  subkey 5      (Sp. within 6-13/1,2-3 µm)
+1,cs6 $ - - -  subkey 6
+
+cs1,0$subkey 1 (+ - +). Substrate: leaves and herbaceous stems
+1,0 $ Crystals (often globose druses) are very easily removed in water mount, Sp. 4-8/1,3-1,5 µm, oil content 0-1, A. 30-45 µm long $ L. rhytismatis
+1,2 $ Crystals firmly attached to hair tip
+2,0 $ Sp. 6-11/1,2-1,5 µm, oil content 1, A. 40-50 µm long, Ap. 0,8-1 mm, stipe 0,3-0,5 mm F$ L. morthieri
+2,0 $ Sp. 9-15/1,7-2,3 µm, oil content 0, A. 65-80 µm long, Ap. 0,7-2,2 mm, stipe 1-2,5 mm $ L. nudipes
+
+
+
+
+cs2,0$ subkey 2 (+ - -). Substrate: leaves and herbaceous stems
+1,0 $ Sp. 7-12/2,7-4 µm, A. 50-66/7-9 µm, P. 0-10 µm protruding, crystals often globose druses, in water mount easily removed $ L. trapeziforme
+1,2 $ Sp. max. 6-9/1,6-2,1 µm, A. 4-6 µm broad, P. min. 8-15 µm protruding
+2,0 $ Ap. ±sessile (stipee 0-0,2 mm long), turning red despite of absence of VBs $ L. eburneum
+2,3 $ Ap. stalked (stipe 0,3-0,6 mm long), not reddening
+3,0 $ A. IKI-, Sp. oil content 2 (biguttulate), crystals firmly attached, Ap. amidst of populations of L. nudipes $ L. subnudipes"
+3,4 $ A. IKI bb, Sp. oil content 0-0,5
+4,0 $ Crystals firmly attached, Sp. 6-10,5/1,5-2,1 µm, Ap. 0,4-1,3 mm, caulicolous $ L. clavigerum
+4,0 $ Crystals easily removeable, Sp. 4-6/1,2-1,5 µm, Ap. 0,2-0,6 mm, foliicolous $ L. microsporum
+
+
+cs3,0$ subkey 3 (- + +)
+1,6 $ On wood, H. apically slightly capitate, Sp. max. 12 µm long
+1,2 $ On grasses, H. apically mostly non-inflated
+2,0 $ Sp. 5-9,5/1,2-2,1 µm, oil content 0,5-1, P. 0-15 µm protruding, 3-6 µm broad, H. 40- 90 µm long, apically non-inflated, ?1celled $ L. carneolum
+2,0 $ Sp. 7-15/1,1-1,5 µm, oil content 0,5, P. 15-25 µm protruding, 5-6 µm broad, H. 60-95 µm long, apically non-inflated, 1celled $ L. tenuipilosum (= L. elongatisporum)
+2,0 $ Sp. 9-16,5/1,7-2,3 µm, oil content 1-2, P. 20-25 µm protruding, 5-6 µm broad, H. 40- 115 µm long, apically non-inflated, 1-6celled $ L. longipilosum"
+2,0 $ Sp. 10-19/2-s2,5 µm, oil content 2, P. 5-15 µm protruding, 4-5 µm broad, H. 50-85 µm long, apically non-inflated, 1-3celled, to apex guttulate $ L. trichophoricola"
+2,0 $ Sp. 9-18/1,5-2,3 µm, oil content 0-1, P. 5-15 µm protruding, 3,5-6 µm broad, H. 60- 105 µm long, apically partly slightly capitate, 1-5celled, only basally guttulate (find from Gerardmer: P. narrow) $ L. riffwili"
+6,0 $ A. 60-82/6-6,5 µm, Sp. 6-12/1,8-2,8 µm, P. 0-12 µm protruding, 3-5 µm broad, H. 50- 90 µm long, 1-3celled $ L. papyraceum
+6,7 $ A. only 4,5-5,2 µm broad, Sp. 1,5-2,1 µm broad
+7,0 $ A. 43-55 µm long, H. 50-85 µm long, 1-5celled, P. 15-30 µm protruding, 4,5-7 µm broad $ L. fasciculare (= L. fulvellum)
+7,0 $ A. 48-70 µm long, H. 70-110 µm long, 3-4celled, P. 3-20 µm protruding, 3-5 µm broad (?separate species?) $ L. cf. crataegi (= "virgineorubescens")
+
+
+cs4,0$ subkey 4 (- + -)
+1,2 $ Sp. oil content c. 1, sp. max. 8-15 µm long
+1,10 $ Sp. oil content 4-5, sp. min. 9-17 µm long
+2,5 $ H. apically always ± non-inflated
+2,3 $ H. apically distinctly capitate
+3,0 $ Sp. 6-11/1,2-1,7 µm, P. 15-30 µm protruding, 4-6 µm broad, VBs hyaline, rarely yellowish, Ap. graminicolous (very rarely caulicolous) $ L. pudicellum
+3,0 $ Sp. 5-9/1,5-2 µm, P. 0-15 µm protruding, 4-5 µm broad, VBs yellowish, Ap. lignicolous (separate species?) $ L. flavotinctum"
+3,0 $ Sp. 6-12,5/2-3 µm, P. 0-9 µm protruding, 3-6 µm broad, VBs hyaline, (H. only slightly capitate), Ap. lignicolous $ L. brevipilosum ss. Baral
+3,5 $ . (finds on Salix branches in summer with P. 0-15 µm protruding, A. often with basal protuberance perhaps separate taxon) L. pudibundum (?= L. brevipilosum ss. Le Gal)
+5,0 $ P. 0-9 µm protruding, Ap. lignicolous $ L. brevipilosum ss. Baral
+5,6 $ P. (3)10-24 µm protruding, Ap. graminicolous
+6,7 $ Marginal hairs 40-80 µm long, 1celled, P. densely filled with VBs
+6,0 $ Marginal hairs 35-60 µm long, 2-4celled, P. mostly only with sparse VBs, Sp.  7-14/1,3-2 µm, ±fusoid, Ap. 0,2-0,6 mm $ L. caricis
+7,0 $ Sp. 6-10/1,8-2,2 µm, VBs hyaline, Ap. 0,8-1,8 mm, stipe 0,2-1 mm $ L. controversum
+7,0 $ Sp. 7,5-15/1,9-2,7 µm, VBs yellowish or white, Ap. 0,3-0,8 mm, stipe 0,1-0,2 mm $ L. winteri
+10,0 $ Sp. 35-49/1,5 µm $ L. apalum
+10,12 $ Sp. 9-21 µm long
+12,0 $ Sp. 16-21/3,3-4 µm, A. IKI rb, P. not protruding, Ap. sessile (stipe hidden in substrat) $ L. albidoroseum
+12,13 $ Sp. max. 2,5-3,2 µm broad, A. IKI bb, P. min. 0-15 µm protruding, Ap. short-stalked...
+13,0 $ Sp. 13-21/2,5-3,2 µm, A. 70-103/8-9,5 µm, H. 40-70 µm long, 1-3celled (=imbecille ss. Ba.&Kr.) $ L. juncinum
+13,14 $ Sp. max. 2,1-2,3 µm broad, A. 5,5-7 µm broad
+14,0 $ Sp. 11-17/2,1-2,3 µm, H. 40-65 µm long, 3-4celled, A. 60-73 µm long, P. 30 µm protruding $ L. subdiminutum"
+14,0 $ Sp. 9-21/1,5-2 µm, H. 30-45 µm long, 1-2celled, A. 45-68 µm long, P. 10-18 µm protruding $ L. diminutum
+
+
+cs5,0$ subkey 5 (- - +)
+1,0 $ Sp. oil content 3,5-4,5 µm, Ap. with 1-6 mm long stipe, P. 5-10/2-3,3 µm $ L. salicariae
+1,2 $ Sp. oil content 0-1
+2,0 $ H. 35-45(70?) µm long, Sp. 7-11(?13)/2-2,5(?3) µm large, P. (0-10?)20-30 µm protruding,  3-4 µm broad, hymenium ± yellowish $ L. pygmaeum
+2,0 $ Marginal hairs 40-60 µm, flank hairs 50-90 µm long, Sp. 5-9/1,5-2,3 µm, P. 6-12 µm protruding,  2,5-3,5 µm broad, hymenium white, overmature ochraceous, ap. lignicolousous, Sept.-April (similar collections during June-Oct. perhaps separable as L. pubescens) $ L. impudicum
+2,0 $ Marginal hairs 55-70 µm long, Sp. 5-11/1,5 µm, P. 10 µm protruding, ?5 µm broad, Ap. graminicolous $ L. Schweigbrühl"
+2,3 $ Marginal hairs 70-110 µm long
+3,0 $ P. 0-10 µm protruding, 3-4,5 µm broad, Sp. 7-12/2,4-3 µm, H. 90 µm long, strongly capitate $ L. salicis"
+3,0 $ sur brindille sèche de Castanea sativa, Olargues, Mas du Gua, La Chapelle GG03111103, apothécies blanches stipitées, entièrement poilues, paraphyses étroitement lancéolées (ø 2-2,5µ), exertes de moins de 10 µ, 1-2 cloisons surtout vers la base. Asques cylindriques 65-70 x 6 µ, I++ bleu, crochet ++, octospores, à base légèrement retrécie. Poils entièrement incrustées, cylindriques à sommet non élargi, arrondi parfois subconique, ø 3-4 µ, dépassant 100 µ de long. Spores cylindro-oblongues avec une extrémité (l'inférieure) parfois subfusiforme surtout dans l'asque, sans contenu huileux, bisériées ou parfois unisériées dans l'asque, non septées, lisses, 12 x 3 µ … $ L. masduguae adint
+3,0,n $Une autre récolte, GG03121402, sur Calluna vulgaris, très copieuse, ne diffère que par des asques atteignant 85 x 6 µ et des paraphyses jusqu'à 3 µ de large, exertes de 15 µ. Spores avec quelques goutellettes (échelle Baral 2-3), mais les specimens sont ultra frais  Dasyscyphella "callunae" Baral ad. int.///Mais les poils me semblent typiques des Lachnums !! A mon avis il s'agit de la même espèce.
+
+3,4 $ P. 15-30 µm protruding, 5-7 µm broad, Sp. 1,5-2,2 µm broad
+4,0 $ H. cylindrical, apex completely unenlarged, flank hairs 90-135 µm long, Sp. 6-12/1,7-2 µm, oil content 0, H. & P. typically filled with low-refractive VBs $ L. virgineum
+4,0 $ F.-apex distinctly capitate, flank hairs 70-110 µm long, Sp. 7-13/1,7-2,2 µm, oil content 1, sometimes only 6-9/1,5-2 µm, oil content 0, P. & H. with singly low-refractive plasma guttules $ L. subvirgineum
+
+
+cs6,0$ subkey 6 (- - -)
+1,2 $ Sp. min. 14,5-20 µm long, oil content 2(3)
+1,5 $ Sp. max. 9-18 µm long, oil content 0-1
+2,0 $ Sp. 14,5-26/2,3-2,7 µm, oil content 2,5-3, P. 15-25/4,5-6 µm, H. 3-7celled, towards apex tapered, apex completely unenlarged, Ap. redden despite of lack of VBs, P. contain several LBs $ L. imbecille
+2,3 $ Sp. 1,6-2,3 µm broad, oil content 2, P. 5-15 µm protruding, 3-6 µm broad, H. 3-5celled, apex slightly capitate, Ap. not reddening
+3,0 $ Sp. 12-27 µm long, marginal hairs 45-80 µm long, 3celled, Ap.-stipe 0,1-0,2 mm long $ L. schoenoplecti
+3,0 $ Sp. 17-32,5 µm long, marginal hairs 55-92 µm long, 4-5celled, Ap.-stipe 0,2-0,8 mm long $ L. paraimbecille"
+5,0 $ Sp. 4,5-7,3/1,3-1,7 µm, A. 43-48/4,3-4,5 µm, Ap. subsessile .. $ L. reynoutriae"
+5,6 $ Sp. min. 6-12 µmlong
+6,7 $ Sp. 1-1,5 µm broad, P. 15-30 µm protruding, 4-7,5 µm broad, A. 40-55 µm long
+6,8 $ Sp. 1,2-2(2,3) µm broad, A. 45-60(75) µm long
+7,0 $ Sp. 6-11 µm long, marginal hairs 50-75 µm, flank hairs 30-55 µm long, H. strongly capitate ... $ L. pudicellum
+7,0 $ Sp. 7-12 µm long, marginal hairs 30-55 µm, flank hairs 20-48 µm long, H. slightly capitate $ L. subpudicellum"
+7,0 $ Sp. 7-15 µm long, marginal hairs 70-90 µm, flank hairs 45-90 µm long $ L. tenue
+8,0 $ P. 0-15 µm protruding, 2-4 µm broad, Sp. 9-18/1,2-2 µm, A. 45-60 µm long ... $ L. sesleriae
+8,9 $ P. 10-25 µm protruding, 4-6,5 µm broad, Sp. 6-15 µm long, A. 50-75 µm long
+9,0 $ Sp. 6-12/2,1-2,3 µm, Ap.-stipe 0,4-0,6 mm $ L. subreynoutriae"
+9,0 $ Sp. 7-15/1,5-2,2 µm, Ap.-stipe 1-3 mm $ L. elatior

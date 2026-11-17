@@ -1,0 +1,81 @@
+Titre$ H E B E L O M A   Henry BEKER & All  -  Fungi Europeae 14  -  2016
+Com$   Adaptée par Paul Bertéa 12/2017 - 07/10/2018
+
+1,cs1 $ Cheilocystidium shape lageniform or ventricose $ sect. Hebeloma $s"sect. Hebeloma (alpine or arctic)"
+1,cs2 $ Cheilocystidium shape clavate- to capitate-stipitate $ subsect. Crustuliniformia $s "subsect. Crustuliniformia (alpine or arctic)"
+1,2 $ Cheilocystidium shape gently clavate
+1,3 $ Cheilocystidium shape irregular or clavate-lageniform
+1,0 $ Cheilocystidia cylindrical $ H. laterinum
+1,0 $$
+1,0 $ ===> Retour à la clé principale $$f"Hebeloma_Henry_Beker_2016.cle"
+
+2,0 $ Number of full length lamellae <= 40 $ H. subconcolor
+2,0,$ Number of full length lamellae > 40 $ H. velutipes
+REM $ ERREUR CLE 2,0  Cheilocystidia otherwise 
+
+3,0 $ Many spores O1 or O2 and many spores D0 or D1 and spores not P2 or if spores are P2 then pileus is not yellow or cream in the centre but with brown or buff tones $ H. hiemale
+3,4 $ The above conditions not satisfied [Many spores O1 or O2 and many spores D0 or D1 and spores not P2 or if spores are P2 then pileus is not yellow or cream in the centre but with brown or buff tones]
+
+4,0 $ Spores O2 and not O3 $ H. islandicum
+4,5 $ Many spores O3
+
+5,0 $ Spores D2 and not D3 $ H. ingratum
+5,0 $ Many spores D3 $ H. vaccinum
+
+
+
+CS1,0 $   Key to Hebeloma section Hebeloma (alpine or arctic)
+
+1,5 $ Spores amygdaloid with dextrinoidity D2 or D3
+1,2 $ Spores with dextrinoidity D0 or D1, amygdaloid or not
+
+2,0 $ Number of full length lamellae (L) < 30 and pileus with a matting of short soft hairs $ H. pubescens
+2,3 $ Number of full length lamellae > 30 or if < 30 then pileus with at most a few hairs at margin
+
+3,0 $ Ave. spore length < 10 µm or ave. spore width < 6 µm and spores ellipsoid, only rarely amygdaloid $ H. mesophaeum
+3,4 $ Ave. spore length > 10 µm and ave. spore width > 6 µm or if spores smaller then most spores ellipsoid but many amygdaloid, always with Salicaceae
+
+4,0 $ Spores with some clear ornamentation (O1, O2) and an indistinct but clear reaction in Melzer’s Reagent (Dl) $ H. dunense
+4,0 $ Spores showing almost no ornamentation, even under immersion (O1) or completely indextrinoid (D0) $ H. marginatulum
+
+5,0 $ Number of full length lamellae (L) < 40 $ H. oreophilum
+5,6 $ Number of full length lamellae (L) < 40
+
+6,0 $ Ave. spore length > 15µm $ H. grandisporum
+6,7 $ Ave. spore length < 15 µm
+
+7,0 $ Spore papilla distinctly present and many spores limoniform $ H. fuscatum
+7,8 $ Spore papilla at most weakly present and spores rarely limoniform
+
+8,0 $ Ave. spore width < 7.5 µm $ H. nigellum
+8,0 $ Ave. spore width > 7.5 µm $ H. spetsbergense
+
+
+
+CS2,0 $     Key to Hebeloma subsection Crustuliniformia (alpine or arctic)
+
+1,8 $ Number of full length lamellae >= 60 and average spore length <11 µm
+1,2 $ Number of full length lamellae < 60 or average spore length >11 µm
+
+2,0 $ Number of full length lamellae < 40, spore length >=11 µm and spores with distinct papilla $ H. alpinum
+2,3 $ Any of the above conditions not satisfied [Number of full length lamellae < 40, spore length >11 µm and spores with distinct papilla]
+
+3,0 $ Spores O3 and D2 and not D1 $ H. salicicola
+3,4 $ Spores not O3 or not D2 or D1
+
+4,0 $ Average width of cheilocystidia apex < 8.5 µm $ H. aurantioumbrinum
+4,5 $ Average width of cheilocystidia apex >= 8.5 µm
+
+5,6 $ Average cheilocystidium ratio A/B > 1.8
+5,7 $ Average cheilocystidium ratio A/B < 1.8
+
+6,0 $ Spores Ol or O2, few if any spores O3 $ H. louiseae
+6,0 $ A large number of spores O3 $ H. minus
+
+7,0 $ Majority of spores Ol and average spore length <= 12 µm $ H. perexiguum
+7,0 $ At least some spores O2 and average spore length >12 µm $ H. pallidolabiatum
+
+8,0 $ Average width of cheilocystidia apex > 9 µm $ H. geminatum
+8,0 $ Average width of cheilocystidia apex > 8 µm and <= 9 µm $ H. aanenii/H. geminatum
+8,0 $ Average width of cheilocystidia apex < 8 µm $ H. aanenii
+

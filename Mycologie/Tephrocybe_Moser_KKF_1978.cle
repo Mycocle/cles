@@ -1,0 +1,96 @@
+titre$ T E P H R O C Y B E   -   M. Moser, KKF, 1978
+com$ Adaptée par Paul Bertéa 11-09-2011
+
+1,cs1$ 1.   Auf alten Feuerstellen, Brandflächen wachsend $ 3.2.26.1 Feuerstellen uud Brandflächen bewohnend
+1,2 $ 1 *. An anderen Standorten
+
+2,cs2$ 2.  Sp. ± warzig $ 3.2.26.2 (S. 131) Mit warzigen Sporen
+2,3 $ 2*. Sp. glatt
+
+3,cs3$ 3. Sp. rund oder sehr klein (nicht über 6/3-4 11m) $ 3.2.26.3 (S. 132) Mit glatten, rundlichen bis kleinen elliptischen Sp. (unter 6/3-4 µm)
+3,cs4$ 3. Sp. größer u. ellipsoidisch $ 3.2.26.4 (S. 132) Sp. glatt, elliptisch, über 6 µm lang
+
+
+cs1,1 $ 3.2.26.1 Feuerstellen u. Brandflächen bewohnend
+1,0 $ .  Sp. ± elliptisch. H. bis 5 cm, zieml. fest, oft genabelt, dkl.-schwarzbraun, trocken heller. L. graulich. St. dem H. gleichfarbig, kahl, Basis zottig, knorpelig. Sp. 5--6/3-4 µm. Ger. mehlartig. 3.2.26.1.1 $ T. atrata (Fr. per. Fr.) Donk
+1,0,N$///- KM 210-2;///- SPT V/48
+1,2 $*. Sp. ± rundlich
+
+2,0 $ 2.  Sp. ± höckerig-rundlich, 5,5-8/5-6,5 µm. H. oft mit kleiner Papille, dunkelbraun, durchscheinend gerieft, trocken fast weißlichgrau, 0,4-1,5 cm. L. graubräunlich, bauchig, ± gedrängt, selten herablaufend. St. dem H. gleichfarbig, bis 6/1-2, mit weißen, faserigen Flokken. Fl. grau(bräunlich). Ger. mehlartig. (= Coll. gibberosa J. Schff.), [Kohlen-Graublatt]. 3.2.26.1.2 $ T. ambusta (Fr. ex Fr.) Donk
+2,0,N$///- SPT V:47 
+2,0 $ 2*. Sp. glatt, 4,5-5,5(6) µm. H. meist ohne Papille, 0,8-2,5 (3) cm, meist schmächtig, schwarzbraun, gerieft, trocken graubraun, halbkugelig bis glockig, Rd. bisw. gezähnt. St. 1-6/1-2, Spitze stets bereift. L. weißlich bis grau, angewachsen bis herablaufend. Ger. mehlartig  3.2.26.1.3 $ T. anthracophila (Lasch) Orton
+2,0,N$= T. carbonaria (Vel.) Donk, = Coll. ambusta ss. Schroeter, = misera ss. Ricken p. p., = Lyoph. sphaerosporum K. & R. 
+
+
+cs2,1 $ 3.2.26.2 Mit warzigen Sp.
+1,0 $ 1.  Sp. breit elliptisch, 6,3-8/4,2-5,5 µm, fein warzig bis stachelig. H. 1,5--2,5 cm, konvex, stumpf gebuckelt, hellgrau, graubraun, selbst rotbraun, ockerbraun, fein weißseidig, vom Rd. her schwärzend. L. weißlich, dann graulich, bräunend, schließlich schwärzend, 3-5 mm breit. St. 2-6/1-4, wurzelnd, hell grau oder bräunlich, weißfaserig, Spitze flockig. Ger. mehlartig. Auf Humus in Fichtenwald 3.2.26.2.1 $ T. oldae Svrcek
+1,2 $ 1*. Sp. ± rundlich. (Vgl. T. ambusta)
+
+2,0 $ 2.  H. kahl u. deutlich hygrophan, dkl.-olivbraun bis olivschwarz, durchscheinend gerieft, trocken grau, gewölbt-flach, 3-4 cm. L. weißgrau, breit angeheftet. St. knorpelig starr, grau, Spitze weißmehlig. Sp. 5-6 µm, bisw. zart stachelig. Grasige WaidstelJen. Mit Mehl-Ger. 3.2.26.2.2 $ T. implexa (Karst.) Mos.
+2,0 $ 2*. H. 1-1,5 cm, konvex, gebuckelt bis glockig, rötlich-, grau- bis schwarzbraun u. fast schwarz, ungerieft bis stark gerieft. L. weißlich, gelblich bis grauschwarz. St. grau-schmutzig. Laub- u. Nadelwald. Sp. 6-7,5/5,5-6 µm, feinstachelig. 3.2.26.2.3 $ T. tylicolor (Fr. ex Fr.) n. c.
+2,0,N$= Agaricus tylicolor Fr. ex Fr., Syst. Mycol. I, p. 132, 1821, = T. tesquorum (Fr.) Mos, = Coll. erosa ss. Lge., = C. plexipes ss. K. & R.///- Lge. 46 B, C;///- BSMF 54, Atl. 80-2  
+
+
+Cs3,1 $ 3.2.26.3 Mit glatten, rundlichen bis kleinen elliptischen Sp. (unter 6/3-4 µm)
+1,2 $ 1.  Sp. rundlich
+1,3 $ 1*. Sp. elliptisch (vgl. auch T. atrata). Ger. ± mehlartig, ranzig
+
+2,0 $ 2.  Ger. stark ranzig (ähnlich Clit. hygrogramma) H. 2-3 cm, bräunlich, graubraun, Rd. weißlich, oft leicht gezont. St. bräunlich oder blaß graubraun, oft zusammengedrückt, 1,5-4/1,5-6. Sp. 5-6 µm. Wälder. 3.2.26.3.1 $ T. platypus (Kühn.) Mos.
+2,0 $ 2*. Ohne Ger. H. konvex bis leicht niedergedrückt, blaß graulich, feucht fast bis zur Mitte gerieft. L. weißlich, breit. St. dem H. gleichfarbig, . kurz. Sp. 5,5-6/4,5-5,um. Nadelwald. 3.2.26.3.2 $ T. cessans (Karst.) Mos.
+2,0,N$///- Lge. 46 A 
+
+3,0 $ 3.  H. schmutzig weißgrau, matt, nie gerieft, 0,8-1,5 cm. L. graulich, gedrängt. St. aschgrau, bereift mehlig, 1-2/1-1,5. Sp. 3,5-412,5 µm. Insgesamt sehr hell. Nadelwald. 3.2.26.3.3 $ T. mephitica (Fr.) Mos.
+3,0,N$///- Lge. 45 B
+3,4 $ 3*. Farben feucht dunkler, zumindest am Rd. gerieft
+
+4,0 $ 4.  Mittelgroße Art. H. 4-7 cm, konvex-flach, leicht gebuckelt, matt, Rd. feucht fein gerieft, schmutzig braun. L. graulich, gedrängt. St. weich, bald hohl, oft zusammengedrückt, blaß, bereift, 4-6/4-8. Sp. 5-6/3-3,5 µm.  Nach Josserand: Ger. ähnl. Clit. inornata. 3.2.26.3.4 $ T. putida (Fr.) Mos.
+4,0,N$///- KM 208;///- Lge. 30 B, B-1
+4,5 $ 4*. Kleiner. H. 4 cm kaum überschreitend
+
+5,0 $ 5.  H. 1,5-4,5 cm, dünn, konvex, dann abgeflacht, hygrophan, gerieft, graubraun, Rd. blasser. L. schmal angeheftet, 2-4,5 mm breit, blaß grau. St. 2-4,511,5-3,5, blaß braun, dann graubraun, Basis schwärzlich werdend, oben bereift, steif. Sp. 4,2-5,212,7-3,2,um. Ger. mehlartig. Feuchte LaubwaldsteIlen.  3.2.26.3.5 $ T. baeosperma (Romagn.) n. c.
+5,0,N$(= Lyophyltum baeospermum Romagn., Bull. Soc. Nat. d'Oyonnax 8, 1954, p. 75)
+5,0 $ 5*. H. 1,5-3,5 cm, konvex, verflacht, bisw. gefurcht, graubraun oder dunkler braun, höchstens Rd. schwach gerieft, Rd. blasser (bisw. gelblich), trocken blaß schmutzig creme oder tonfarben, L. weißlich, schmutzig creme oder hornfarben. St. 3-612-4, weiß, dann unten oder gänzlich dem H. gleichfarbig, weiß seidig faserig. Ger. ranzig-mehlartig. Sp. breit elliptisch, 4,5-6,5/3-3,5 µm. Bes. Nadelwald. 3.2.26.3.6. $ T. confusa (Orton)
+5,0,N$(= Coll. ozes ss. Lge.?)
+
+
+cs4,1 $ 3.2.26.4 Sp. glatt, elliptisch, über 6 µm lang
+1,0 $ 1.  An Sphagnum meist in Schwingrasen, an sehr feuchten Stellen. H. grau bis dkl.-umbrabraun, bis 2/3 gerieft, konvex-flach bis niedergedrückt, trocken graubeige. L. weißlich, graulich, tief ausgebuchtet angewachsen. St. 5-1011-3, grau, graubraun, brüchig, jung bereift. Sp. 5,5-8,5/3-5,um. Ger. mehlartig-ranzig [Sumpf-Graublatt] 3.2.26.4.1 $ T. palustris (Peck) Donk
+1,0,N$= Collybia leucomyosotis Lge. = clusilis ss. Schroet.///- Lge. 45 C 
+1,2 $ 1*. Nicht an Sphagnum
+
+2,3 $ 2.  Mit Mehl-, Gurken- oder ranzigem Ger.
+2,9 $ 2*. Ohne derartigen Ger.
+
+3,0 $ 3.  St. wurzelnd, steif, Frkp. gänzlich grau. H. flach gewölbt bis gebuckelt, 2-5 cm, etw. weiß seidig bereift. L. fast frei. St. seidig-faserig, bisw. etw. exzentrisch. Sp. 7-8/3-4 µm. Nadel- u. Laubwald. (Fig. 41) [Wurzel-Graublatt] 3.2.26.4.2 $ T. rancida (Fr.) Donk
+3,0,N$///– Ri 108-7;///-Bres. 215;///- KM 211;///- Lge. 45-1;///- SPT V/49 
+3,4 $ 3*. St. nicht wurzelnd
+
+4,5 $ 4.  Sp. über 8,5 ,um lang werdend
+4,6 $ 4*. Sp. kürzer (vergl. T. inolens)
+
+5,0 $ 5.  Auf moorigem Boden, bes. bei Kiefern. H. 2,5-4 cm, gewölbt, Mitte niedergedrückt, alt trichterig, hygrophan, blaß rußbraun, braungrau, rostbräunlich, Rd. durchscheinend gerieft, trocken beige-bräunlich. L. beige bis blaß beige-bräunlich. St. 6-7/3-5, dem H. ± gleichfarbig, kahl. Ger. mehlartig. Sp. elliptisch (7)7,3-10(11,5)/4-5 µm. 3.2.26.4.3 $ T. admissa (Britz.) Mos.
+5,0 $ 5*. In Laubwald, bes. zw. Buchenlaub. H. bis 5 cm, feucht haselnuß- bis olivbraun, trocken schmutzig weißlich. L. grauweißlich. St. bis 9/4, schmutzig blaß. Sp. spindeIförmig, 9,5-11/3,5-4 µm. 3.2.26.4.4 $ T. fusispora (Hora) Mos.
+
+6,0 $ 6.  Sp. breit ellipsoidisch (Länge zu Breite ca. 3: 2). 6-7,5/4,5-5,5 µm. H. bis 2,5 cm, leicht gebuckelt bis niedergedrückt-genabelt, trocken weißlich, feucht blaß bräunliGh mit dunklerer Mitte u. Riefung fast bis zur Mitte. L. weißlich. 3.2.26.4.5 $ T. striaepilea (Fr.) Donk
+6,0,N$///- Lge 59-D 
+6,7 $ 6*. Sp. schmäler im Verhältnis zur Länge (unter 4-5 µm breit)
+
+7,0 $ 7.  St. blaß grau bis graubraun, Spitze weiß mehlig, sonst faserig-längsrissig. H. graubraun, olivgrau, trocken grau, gewölbt, dann flach, etw. verbogen, 3-5 cm. L. grau, breit angewachsen bis fast frei. Sp. 6-7/3-4 (4,5) µm. Nadelwald. Faserstieliges Graublatt. 3.2.26.4.6 $ T. ozes (Fr.-ss. Ricken vix Fr.)
+7,0,N$///- Ri 108-6 
+7,8 $ 7*. St. dkl.-graubraun, rußbraun
+
+8,0 $ 8.  H. 1-3 cm, gewölbt bis fast kugelig, Rd. gerieft, dkl.-braun, haselnußbraun, trocken isabelI-ocker. L. weißlich-grau, ausgebuchtet angewachsen, dicklich. St. dem H. gleichfarbig, dunkel, Spitze weiß bereift, 3-5/2-3. Sp. 5-8/3-4 µm. Nadelwald. - (Fig. 40). 3.2.26.4.7 $ T. coracina (Fr.) Mos.
+8,0,N$///- KM 210-1;///- Bres. 216-2 
+8,0 $ 8*. H. rußfarben, braungrau, Rd. gerieft, 1-3,5 cm. L. bräunlich, graubräunlich, nicht herablaufend. St. ziem!. dkl.-graubraun, rußbraun, 2-5,511,5-5,5, Spitze fein weiß-flockig. Ger. stark ranzig (nicht eigentlich mehlartig). Sp. 6,5-8,7/3-4 ,um. Unter Laubbäumen, Haine. 3.2.26.4.8 $ T. boudieri (Kühn. & Romagn.) n. c.
+8,0,N$= Lyophyltum boudieri Kühn. & Romagn., BulI. Soc. Nat. Oyonnax 8, 1954, p. 75, = inolens ss. Ri.?, = mephiticum ss. Boud.
+
+9,0 $ 9. (2)  H. 2-5 (6) cm, glockig bis gebuckelt-gewölbt, Rd. gerieft, olivgrau, graubraun. L. grau, ausgebuchtet. St. grauweißlich, Spitze weißflokkig, 4-6/2-7. Ger. fehlend (oder nur undeutlich mehlartig?). Sp. 6-8/3-4 µm (Fig. 216). Nadelwald. 3.2.26.4.9 $ T. inolens (Fr.) Mos.
+9,0,N$///- KM 209;///-Ri 108-8?;///- Bres. 218;///- Lge.45/J  
+9,10 $ 9*. H. meist kleiner, 1-3 cm breit (nur ausnahmsweise etw. größer)
+
+10,0 $  10. (9) H. in trockenem Zustand nach beige-bräunlich verblassend, feucht dkl.-braun, nicht gerieft, bis 3 cm, kegelig-konvex, bisw. gebuckelt. L. weißlich, dann braungrau. St. weiß, dann blaß bräunlich, hohl. Ger. etw. nach Lepiota cristata u. Zedernöl. Sp. 6,5-7,5/4-4,7 µm. Bergnadelwald.  3.2.26.4.10 $ T. mutabilis (Favre) Mos.
+10,11 $ 10*. H. in trockenem Zustand mehr grau oder graubraun
+
+11,0 $  11. (10) H. nur am Rd. etwas gerieft, gewölbt bis flach, 2-3 cm, dunkelbraun (grau). L. graulich. St. blasser gleichfarben, Spitze weißflockig. Sp. 6,5-8/4-5 µm. Laub- u. Mischwald. - Lge. 45 F 3.2.26.4.11 $ T. murina (Batsch ex Fr.) Mos.
+11,0 $ 11*. H. feucht stark durchscheinend gerieft, gewölbt bis gebuckelt, grau, graubraun, trocken zieml. hell. L. grau, ausgerandet bis angewachsen. St. braun oder graubraun, 2-6/1-2, Spitze weißmehlig, röhrig. Sp. 5-7/2,5-3,5 µm. Nadelwald, Gebüsch, Bergwiesen. 3.2.26.4.12 $ T. misera ('Fr.) Mos.
+11,0 $ 11*. Wenn Sp. 7-12/3,5-4 µm vgl. Clitocybe favrei

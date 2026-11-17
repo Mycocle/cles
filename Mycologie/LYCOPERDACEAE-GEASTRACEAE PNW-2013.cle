@@ -1,0 +1,268 @@
+titre $ TRIAL KEY TO GENERA OF MATURE STAGES OF FAMILY LYCOPERDACEAE
+com$LYCOPERDACEAE & GEASTRACEAE in the Pacific Northwest/adapt GF sept 2013
+rem$LANGUE$Anglais
+Nota: les clés au format normalisée .CLE sont avantageusement exmploitées par le logiciel 'Mycocle' (gratuit), téléchargeable sur 'http://mycolim.free.fr/DOC_SML/mycoCLE/Charg_Mycocle.htm'
+
+1,0$ source : Trial field key to the LYCOPERDACEAE & GEASTRACEAE in the Pacific Northwest ///Prepared for the Pacific Northwest Key Councily Robert Ramsey, Puget Sound Mycological Society ///Copyright 1978, 1985, 1998, 2003 Pacific Northwest Key Council///Reformatted with added remarks by Ian Gibson Feb. 2003
+
+1,2 $ a Spore case opens by pore or fissure at apex
+1,6 $ b Spore case opens by other means
+2,cs1 $ a Base extending downward from pear-shaped body in a taproot-like pseudorhiza (radicating) $$s"Bovistella A"
+2,3 $ b Bases of various shapes but not radicating
+3,cs2 $ a Fruiting body outer layer splitting and opening to form a star-like structure with a persistent spore sac at the center $ $s"Geastrum and Astraeus B"
+3,4 $ b Fruiting body loses part or all of outer layer but form does not become star-like
+4,cs3 $ a Upper portion of sandy outer case falls away to reveal blue-gray spore sac sitting in lower cup, similar to acorn; small $$s" Disciseda C"
+4,5 $ b Fruiting body sheds outer layer in various ways but does not retain conspicuous sandy basal portion
+5,cs4 $ a Spores release slowly from persistent cottony / felty cushion inside of spore case; body spherical $$s"Bovista D"
+5,cs5 $ b Spores loose and powdery inside of spore case. Any fibers much looser and softer than Bovista; body with extended base on most specimens $ $s"Lycoperdon E"
+6,cs6 $ a (1b) Spore case opens by longitudinal slits which form more or less stellate reflexed lobes, exposing gleba (not endoperidium) $$s" Mycenastrum F"
+6,7 $ b Opens by large radial tears, or general fragmentation with some sterile bases persistent, or decomposition of peridia to form very large pore
+7,cs7 $ a Exo- and endoperidium decomposing simultaneously across top to form very large pore, longer than wide, often to full diameter of top; distinct separation between sterile base and gleba $ $s"Vascellum G"
+7,8 $ b Peridium opening by large radial tears or by general fragmentation
+8,cs8 $ a Sterile base well developed; endoperidium a delicate shiny membrane; exoperidium broken into 5-8 mm thick, truncated, 3 to 6-sided pyramids with transverse parallel lines along edges $ $s"Calbovista H"
+8,cs9 $ b Sterile base present or absent; peridia either not separable or endoperidium not shiny (except the distinctive C. rubroflava); ornamentation of outer layer in some species similar to Calbovista but different in detail $ $s"Calvatia I"
+
+
+cs1,0$ A. BOVISTELLA
+
+1,0$ Only one species reported in Northwest to date but a very small (5-8 mm) Bovistella is recorded just east of the Rocky Mountains and may at some time be discovered on the west side. $Bovistella radicata
+1,0,n$Generally 3 to 7.5 cm broad but occasionally up to 14 cm. Higher than broad, turbinate, with a thick well-developed pseudorhiza. Smooth outline to plicate. Color white, to yellowish near maturity. Peridium duplex with exo upper surface covered with a coating of slender spines, many of which are united at the tips into fascicles. Exo sloughs away irregularly and endo eventually opens by an apical pore or slit which gradually enlarges to expose most of gleba. Well-developed sterile base, occupying most of narrowed lower part of body and extending up sides to form a cup in which the gleba is situated. Turfed areas, range lands, idle cultivated fields. Late summer and fall. Widespread but not common.
+
+
+cs2,0$ B. GEASTRUM & ASTRAEUS
+1,0$Nine species recorded in Northwest to date. Mostly formed below the surface until mature when thrust upward by the reflexing sections of the 3-layered exo. Apical pore is a preformed structure known as a peristome, not resulting from a rupture or tear, except in 2b below. Spore sac papery but relatively tough.
+1,2$a Rays hygroscopic (expanding when wet - curving upward over spore sac when dry)
+1,5 $ b Rays not hygroscopic (remaining open or curved away from spore sac, wet or dry)
+2,3 $ a Spore case opening by distinct peristome
+2,4 $ b Spore case opening by slit, rupture or irregular hole. (Astraeus is included here because of its similarity to Geastrum)
+3,0 $ a Spore case whitish; peristome with faint, short radiating lines to its base, not grooved $ Geastrum floriforme
+3,0,n$ also known as Geastrum delicatus Morg.)///Specimens typically small with expanded width of 2.5 cm, submerged until mature; rays 8 to 10, unequal, hygroscopic and expanding quickly when put into water, covered at first with sandy soil held on by mycelium, this flaking off by degrees to leave the surface smooth and pale after exposure, fleshy layer of rays dark brown, adnate, continuous then rimose. Spore case 6-8 mm across, subglobose or depressed, sessile, pale, covered with fine granules or furfuraceous particles at first which soon wear away in large part; peristome short, not well defined, with short radiating lines, with no defined or silky area around it, after a time the margin becoming fimbriate. Sandy soil, eastern Washington (Cheney). Small size, low visibility make collection difficult.
+
+
+3,0 $ b Spore case brown, peristome lacerate / fimbriate $ Geastrum recolligens
+4,0 $ a (2b) Small (1-4 cm open), outer surface of rays with black fibrils $ Astraeus hygrometricus
+4,0,n$To 4 cm across rays when open, arising from black hairlike rhizomorphs, some of which may adhere to the base of the fruit body as appressed hairs. Exo splitting into 7-15 pointed rays which bend backward when wet and curve inward over the spore sac when dry. Spore sac sessile, pallid grayish, opening by a slit, tear or irregular pore (not a peristome). Gleba white when young, cocoa brown at maturity. Gregarious to scattered on sandy areas and old fields, widely distributed across North America.
+4,0 $ b Large (10-15 cm open), surface of rays with brown fibrils $ Astraeus pteridis
+4,0,n$Up to 15 cm across expanded rays, outer surface with a thin coating of matted brownish fibrils which wear away or remain as a rough exterior coating around the base. Rays 3-6 mm thick, hard and woody when dry; coriaceous to semi-woody when moist; sordid brownish over exterior surfaces. Interior surfaces of rays with thin softer whitish layer which soon becomes conspicuously checked or areolate. Spore case globose, 2.5 to 4 cm diameter, delicate and fibrillose, sordid gray brown not opening by pore but by rupture. Gleba dull purplish brown. Single or in small groups on thin soil or humus in fall.
+5,0 $ a (1b) Spore sac opens by a slightly elevated but not sharply defined opening, lacking a definite peristome $ Geastrum rufescens
+5,0,n $To 6 cm across when open, outer surface with much trash not separating from it cleanly. Spore case on short thick stalk. Fawn colored exterior surface. Exo with thin separable mycelial layer which peels off along with the attached layer of debris. Cortex thick, coriaceous, splitting about halfway to base into 5 to 9 lobes with acute tips, occasionally split into secondary lobes. Fleshy layer 5 mm + when fresh, forming a thin continuous crust on the surface or breaking up somewhat as in G. triplex. Spore sac unpolished to granular velvety, mouth slightly elevated, fibrous and becoming fimbriate. More or less buried in duff near hardwoods, gregarious to clustered or in gregarious clusters. Rare in Idaho and Washington in late summer and fall. (An eastern species for the most part.)
+
+5,6 $ b Spore sac opens by a distinct cone-shaped projection or peristome
+6,7 $ a Spore sac sits up on short pedicel
+6,8 $ b Spore sac sessile in cup
+7,0 $ a Area of apical pore paler than remainder of spore sac; outer layer of rays clean of trash $ Geastrum limbatum
+7,0,n $6 cm or more across opened rays. Short pallid pedicel. Rays dull cinnamon on upper surface. Spore sac dark wood brown to light drab. Outer surface drying hard, separating cleanly from medial layer over the central part and almost to the tips of the rays, leaving a cup in the ground to which the tips of the rays are attached. On range lands in Idaho.
+
+7,0 $ b Area of apical pore not paler than remainder of sac; outer layer of rays covered with dense coat of white mycelium and debris $ Geastrum quadrifidum
+7,0,n $(Synonyms include G. coronatus and G. minimus.)///To 2 cm across opened rays; ordinarily much smaller than G. limbatum; acorn-shaped spore sac dark wood brown to purplish drab. Outer wall splitting into 4 to 6 strongly recurved rays from which mycelial layer may become stripped and remain as an indistinct cup below or else continue to adhere to and remain attached to mycelial cover only at the tips. Fleshy inner layer of rays often scaling more or less completely from the whitish fibrillose mid-layer which remains. Idaho (Owyhee County) sagebrush hills, all months except freezing weather.
+
+8,0 $ a (6b) Inner layer (upper) of rays thick and breaking transversely so as to form a cup around the spore sac $ Geastrum triplex
+8,0,n$Largest of the Geastrums, to 9 cm across opened rays. Gray brown to wood brown, spore sac pale to dark avellaneous, unpolished. Outer surface (under) rough but with little trash. Base marked by a distinct scar at point of attachment. Spore sac sessile in cup. Peristome 6 to 18 mm long, conic, surrounded by a paler ring, distinctly radially fibrillose, mouth lacerate / fibrillose. Gregarious to clustered, late summer and fall, mixed forests in Idaho and Oregon.
+
+
+8,0 $ b Expanded rays not breaking to form a cup, surface remaining relatively smooth $ Geastrum saccatum
+8,0,n$To 5 cm across open rays. Sessile spore sac sitting in a bowl-like depression of the reflexed rays. Outer surface ochraceous buff to cinnamon buff; inner layer (upper) pallid to avellaneous when fresh, drying to near wood brown; outer surface holding little trash. Spore sac purplish drab to wood brown, unpolished. Inner surface smooth and continuous except rimose along edges. Peristome delimited by circular raised to depressed line, often paler or more brownish than spore sac wall, fibrillose. Gregarious on rich humus, often around old stumps in late summer to early fall, sometimes under junipers. Has been found in Cispus drainage, Copper Creek, Pierce Co., Washington, and McNeil Island in Washington. REMARKS G. sessile (Sowerby) Pouzar = G. fimbriatum Fr. is a widely distributed species that according to Bessette et al. (1977) is nearly identical to this species but with smaller round spores that measure 3-3.5 microns (instead of 3.5-5 microns) and an apical pore that is fimbriate and not delimited by a distinct circular paler zone. It is listed for the Pacific Northwest by Schalkwijk-Barendsen, but requires confirmation.
+
+cs3,0$  C. DISCISEDA
+
+1,0$Fruit bodies depressed - globose, peridium 2-layered; exo in form of a membrane or a sand case, fragile and deciduous in part so that lower portion of case remains and spore sac reminds one of a flattened acorn. Only one species in the Northwest.$Disciseda subterranea
+1,0,n$ To 2 cm across, 1 cm high. Cup is sand or soil color; spore sac unpolished bluish to glaucous gray over a dull ground color. Spore sac papery, thin, tough, opening by a special pore with elevated, entire to lobed margin. Exo deciduous to full diameter, exposing upper half of spore sac. On sandy soil in pastures; summer and fall; gregarious to solitary, mostly eastern North America but reported from Idaho.
+
+ 
+cs4,0$  D. BOVISTA
+1,0$ Surface at first covered with a thin, smooth to unpolished covering which flakes off at maturity, exposing the smooth polished wall of the spore sac, opening at times by a pore enlarging to a rupture, or developing several openings; becoming detached from the ground and blown about. Sterile base lacking. Four species in the Northwest.
+
+
+
+1,2 $ a Attached to soil by small patch of fibers
+1,3 $ b Attached to soil by a single small cord-like rhizomorph which breaks at maturity
+2,0 $ a Mature spore case bluish gray to purplish umber; exo peeling in sheets $ Bovista plumbea
+2,0,n $1 to 3 cm across; depressed globose to globose; attached to soil by drab patch of fibers. White outer layer peels off in sheets to expose spore case of bluish gray to purplish umber. Spore case thin, tough, persistent; sometimes becoming detached and blown about. On turfed areas in summer and fall, throughout Northwest. Solitary to few clustered.
+
+2,0 $ b Mature spore case red-brown to bronze brown. Exo peeling in small plaques $ Bovista leucoderma
+
+2,0,n $To 2 cm broad, spherical or somewhat depressed base attached to substrate without conspicuous mycelial strands. Exo smooth, later indistinctly areolate, finally peeling off from endo in small plaques from the base upward; pure white. Endo papery, red-brown to bronze-brown, dull to slightly glistening. Opening 1 to 3 mm with star-shaped flaps. Spore powder olive brown to umber brown.
+
+3,0 $ a (1b) Mature spore case copper color $ Bovista pila
+
+3,0,n $3 to 9 cm diameter; globose to subglobose. Attached to ground by cord-like rhizomorph which is easily broken. Color of mature spore case bronze metallic or coppery sheen. Outer layer white, thin, flaking off to expose spore case which is thin, papery, tough and persistent. Opening at apex by an irregular fissure or pore which becomes enlarged and torn. Spore case may become dislodged and blown about. Solitary, scattered to gregarious on turfed areas, stables, corrals, feedlots, pastures; in late summer and fall. Widely distributed.
+3,0 $ b Mature spore case leaden to smoky gray $ Bovista nigrescens
+
+3,0,n $3 to 6 cm across; globose to subglobose; attached to soil by cordlike rhizomorph. Color white at first, exo thick, fragile, smooth, fleshy; breaking up as fungus matures. Spore case thin, tough, white at first, turning leaden or smoky gray. Opens at top with relatively large jagged apical pore 1/3 to 1/2 diameter of body. On turfed areas in summer and fall, gregarious to solitary in dry places. Well known in Europe, reported from Montana, needs verification.
+
+ 
+
+
+cs5,0$  E. LYCOPERDON
+1,0$Fruiting body typically globose to pyriform; peridium composed of two layers, the outer one consisting of spines, warts, granular or felty floccose material which usually sloughs off at maturity; inner wall forming a papery, thin but tough spore case; typically opening at the apex by a pore but occasionally by irregular fissures. Sterile base prominent in most species.
+1,4 $ a Sterile base present and chambered (lacunae)
+1,2 $ b Sterile base absent or, if present, not chambered
+2,0 $ a Sterile base present, context felty without chambers $ Lycoperdon ericetorum
+2,0,n $(also known as Lycoperdon cepaeforme) /// 1 to 3.5 cm broad, 2-4.5 cm high, turbinate to pyriform, attached by rhizomorph quite strongly. Whitish to light brown at maturity; surface covered by a sparse coating of short spines and minute warts and granules; becoming glabrous, apical pore round. Gleba olive-brown when mature, cottony; sterile base well developed, 1/3 of fruit body, yellow-brown, felty with no chambers. First reported specimen found Dec. 1980 at Ocean Shores, Washington
+
+2,3 $ b Sterile base absent
+3,0 $ a Exo closely covered with white spines, appearing furry, later peeling away from endo $ Lycoperdon curtisii
+3,0,n $ (also known as Bovista californica) ///1 to 3.5 cm broad, 1 to 3 cm high; depressed globose, somewhat pointed at base, holding small mass of rhizoids and soil. White to grayish white becoming red-brown to dull brown with obscure spotting at maturity; first smooth then breaking into areolae from center of top out and down. Spore sac relatively smooth but retaining persistent remains of exo as minute particles seen under a hand lens. Pore crenulate. Gleba olive brown; powder olive brown. Sterile base none. On pastures and idle lands; summer and fall; densely gregarious to clustered. Rare in Oregon; two colonies at Snake Lake Nature Center in Tacoma Washington, Aug. 1979
+3,0 $ b Exo scurfy, with small warts and granules, some falling off, some drying and remaining, and not separating from endo $ Lycoperdon pusillum
+3,0,n $ (also known as Bovista californica)///1 to 3.5 cm broad, 1 to 3 cm high; depressed globose, somewhat pointed at base, holding small mass of rhizoids and soil. White to grayish white becoming red-brown to dull brown with obscure spotting at maturity; first smooth then breaking into areolae from center of top out and down. Spore sac relatively smooth but retaining persistent remains of exo as minute particles seen under a hand lens. Pore crenulate. Gleba olive brown; powder olive brown. Sterile base none. On pastures and idle lands; summer and fall; densely gregarious to clustered. Rare in Oregon; two colonies at Snake Lake Nature Center in Tacoma Washington, Aug. 1979.
+
+
+4,5 $ a (1a) Exoperidium peeling away from spore case
+4,6 $ b Exoperidium not peeling away from spore case
+5,0 $ a Fruiting body stipitate / capitate $ Lycoperdon nettyana
+5,0,n $2 to 3 cm broad, 3 to 4 cm high, stipitate-capitate with upper portion hemispherical, medium brown, covered with small, (more or less) regular granular patches that impart light grayish brown color; granular exoperidium interspersed with short conical spines and rounded buttons about 2 mm apart. Exoperidium at maturity splitting irregularly across the apex and peeling or flaking away. Endoperidium, when exposed, lustrous, smooth, light grayish yellowish brown, persistent; apical pore soon forming, circular, less than 1 cm diam. Pseudostipe tapering to base, attached to substrate by white rhizomorphs; surface pallid with scattered dark granules and reduced gland-like projections. Subgleba whitish, pigmented in uppermost 5 mm, with empty loculae less than 1 mm across; distinctly separated from gleba by a thin layer of collapsed loculae which is central elevated about 2 mm at the base of the pseudocolumella. Gleba grayish brown to moderate brown near or at maturity, with a distinct pseudocolumella rising to near the apex. Collected on soil in woodland clearings, scattered to cespitose, autumn. Cispus watershed, Lewis County, Washington.
+5,0 $ b Fruiting body depressed globose $ Lycoperdon marginatum
+5,0,n $(also known as Lycoperdon candidum)///1 to 5 cm broad, less high; depressed globose, plicate below with occasional projection downward. Exo white; cracking and flaking off at maturity in large chunks to reveal a spore sac which is smooth to obscurely pitted and opens by a small apical pore. Sterile base well-developed with chambers 1 mm across. On sandy soil; summer and fall; scattered to numerous, even cespitose. Idaho and western Montana.
+6,0 $ a (4b) Growing on wood or wood debris $ Lycoperdon pyriforme
+6,0,n $ 1.5 to 3 cm broad; 2 to 3 cm high; pyriform to subglobose; may be plicate at juncture of enlarged portion with stipe-like base. Connected to substrate by numerous white rhizomorphs. Pallid to tawny brown immature, darker rusty brown at maturity -- some yellowish; areolate patches darker. Exo breaking into areolate patches that divide into smaller units, which on drying form minute granules. At times exo over apex consists of small spines and granules. Remains of exo relatively persistent and rough to touch. Apical pore slow to form, often irregular. Sterile base slight to prominent depending on shape. On wood or sawdust on ground, cespitose to scattered, September to heavy frost. Old cases persist to next summer. REMARKS Morganella subincarnata (Peck) Kreisel and Dring (= Lycoperdon subincarnatum Peck) also grows on wood but according to Arora has cinnamon-buff to brown spines when young, conspicuous pits at maturity (after spines have worn off), and sterile base that is well-developed to practically absent. It is found mainly in eastern North America but has been reported from BC: confirmation is needed.
+6,7 $ b Growing terrestrially
+7,0 $ a Opening considerably larger than a pore, with stellate lobes or uneven margins, widening almost full breadth of body which is mostly turbinate or urn shaped, as broad as high $ See VASCELLUM
+7,8 $ b Opening consisting of classic pore less than 1 cm across, rarely more; fruit bodies mostly stipitate
+8,0 $ a Exo spines lavender $ Lycoperdon peckii
+8,0,n $1.5 to 4 cm across; to 5 cm high; obovoid to turbinate, sterile base often stipe-like (shape same as L. perlatum). Spiny coat is purplish lavender to near maturity then changing to buffy brown. Background and lower part white until near maturity. Covered with tapering spines to 1.5 mm long which split at base into 2-4 parts and remain joined at tips. Easily rubbed off, leaving pale, smooth, circular spots surrounded by minute granular warts and dots. Opening by apical pore. Sterile base occupying 1/2 of body. Terrestrial, fall, normally eastern species, rare in Northwest. Needs confirmation.
+
+8,9 $ b Exo blackish, brown, gray or pallid
+9,0 $ a Exo fuscous to black $ Lycoperdon foetidum
+9,0,n $ (also known as Lycoperdon nigrescens)///1 to 3 cm broad, 2 to 5 cm high; pyriform to globose. Spines fuscous to black, background yellowish; spore sac grayish tan. Spines very fine and pointed, densely spaced over upper part, surrounded by granular material. Spines are not cone-shaped but more polygonal, with tips becoming dried, fine and curled. Spore sac smooth, papery, opening by apical pore. Sterile base well developed with obvious chambers. On duff and debris in dense conifer forests, Pacific Coast. At least 3 varieties. Common at times.
+9,10 $ b Exo brown, gray or pallid
+10,11 $ a Exo across top consisting of fine spicules which degrade to a mealy covering over the margin and down the stipe
+10,12 $ b Exo with stout spines to 6 mm long, at least over top
+11,0 $ a Exo spicules and granules soon wearing away; fruit body large (to 12 cm high); capitate; rhizomorphs large and strong $ Lycoperdon floccosum
+11,0,n $ Stipitate / capitate to pyriform. In the specimen described: head to 5 cm broad, stipe below head 2 cm, stipe above base compressed laterally, 3.5 cm by 5.5 cm across; height to 12 cm. Sulcate below head and perhaps at base. Rhizomorphs large and strong. Whitish, with surface over top covered with very small hairy projections less than 0.5 mm long, degrading to a mealy covering over the margin and down onto the stipe. Peridium 0.5 to 1 mm thick in fresh specimens most of which is exo; endo very thin; the two layers not separating on maturing and drying. Spicules and mealiness of head soon wearing away. Sterile base well-developed, lacunae to 1 mm, subgleba extending up into head convexly. Dark gray-brown. Sandy soil along river bank, under trees, one cluster of several sporocarps. Federation Forest on White River, Pierce County, Washington, 1980. Only report in Northwest to date.
+11,0 $ b Exo spicules and granules persistent, reducing on drying; fruit body rarely over 6 cm high; non-capitate; rhizomorphs present but small $ Lycoperdon umbrinum
+11,0,n $2.5 to 5 cm broad, 3 to 8 cm high, base 1 to 4 cm across; pyriform, tapering or sometimes almost globose; often sulcate to plicate below. White to yellowish; spore sac yellowish to dull brown in age. Exo with scurfy or granulose coating mixed with very slender short spines which are relatively persistent or finally breaking up into concentric zones on base or areolate patches over the top. Eventually disappearing to leave smooth spore sac with apical pore. Gleba medium brown to deep brown showing evidence of pseudocolumella, cottony, confined to upper third of interior. Sterile base occupying entire tapered base and extending up sides to widest part. Violaceous medium gray; lacunae open, irregular, less than 1 mm; fusing into fertile tissue without demarcation. Solitary to gregarious or subcespitose on leaf mold under conifers, occasionally on wood; Sep. to Nov.; variable; W. Montana and Oregon and W. Washington.
+
+12,0 $ a (10b) Some spines joined at tips; spines fall away from spore sac but remain on stipe $ Lycoperdon pulcherrimum
+11,0,n $2 to 5 cm broad, 3 to 4.5 cm high; pyriform to sub-globose over a narrowed, often plicate base; attached by white rhizomorphs. Exo white, spore sac dark purple brown. Exo consists of dense coating of spines 4-6 mm long, slender, fascicled, joined at the tips. Exo falls away at maturity to expose smooth papery tough spore sac, opening by apical pore which enlarges. "Stipe" remaining covered with spines. Well-developed sterile base turning purple brown in age. On humus under hardwoods in fall. Reported from Washington and W. Montana. Needs confirmation.
+
+12,0 $ b Spines solitary, larger ones falling away readily, leaving round white scars; stipe without spines $ Lycoperdon perlatum
+12,0,n $ (also known as L. gemmatum) ///2.5 to 6 cm broad, 3 to 7 cm high on stipe-like sterile base half as wide; typically obovoid, turbinate or pyriform, top narrowed abruptly to "stipe", often sulcate to plicate from widest point down onto base. White with spines brown in age before dropping off. A variety west of Cascades with brown spines in immature stage. Another variety is gray overall. Spore sac yellowish to dark avellaneous. Exo consists of sharp soft spines with round bases (cones) between which appear smaller cones, warts or granules. Larger cones deciduous, leaving pale round spots, more so on top. Spore sac becoming almost smooth, opening with apical pore. Sterile base well-developed, with chambers 1 mm across, chocolate brown in age. Solitary to cespitose on humus, often in arcs or fairy rings; in conifer or hardwood forests or in pastures or other turf; Aug. to late Oct.	Lycoperdon perlatum
+ 
+
+cs6,0$  F. MYCENASTRUM
+1,0$Only one species in the Northwest; widely distributed but not common except Rocky Mountain states.$Mycenastrum corium
+1,0,n$6 to 15 cm (sometimes 20 cm) in diameter, 5 to 12 cm high; globose with subsessile "stipe" (like light bulb), at the end of which is a fibrous mycelial area of attachment. White changing to deep brown as exo sloughs off, sometimes purplish brown. Exo cracks into block-like plates, falling away to reveal smooth spore case which is hard and about 2 mm thick. Opens at apex by irregular fissures, becoming extended toward base. Segments curve back, giving appearance of giant Geastrum at times. Interior becomes a powdery or flocculent mass. No sterile base. Gregarious to solitary on soil where cattle are fed, in pastures; summer and fall; at maturity breaks loose from soil and blows about.
+
+---------------------
+
+cs7,0$  G. VASCELLUM
+
+1,0$Two species in the Northwest. The first species common along the Northwest coast on lawns, golf courses and other turfed areas. Most often dismissed as a Lycoperdon.
+
+1,0 $ a Peridium opening across top longer than wide by simultaneous decomposition of exo and endoperidium, edge of opening ragged, less than full diameter of body; separation between gleba and sterile base distinct but not a separable membrane $ Vascellum lloydianum
+1,0,n $ to 5 cm broad and as high; turbinate to pyriform. Exo white to pallid, endo medium shiny brown; exo with mixture of soft spines and granules, both deciduous. Opening by simultaneous decomposition of exo and endo across the top, longer than wide and ragged along its edge. Gleba dark brown, becoming powdery. Sterile base in lower constricted portion, lacunae less than 1 mm, extending somewhat up sides; separation of sterile base from fertile tissue distinct but inseparable layer of flattened lacunae. W. Washington. $ Vascellum lloydianum
+1,0 $ b Peridium opening across top to widest diameter by stellate lobes; separation between gleba and sterile base by distinct parchment-like membrane $ Vascellum depressum
+1,0,n $(also known as Lycoperdon depressum)///2 to 4 cm broad, 2.5 to 5 cm high; turbinate, bowl or urn-shaped. Exo white to pale buff, endo shiny metallic brown. Exo with soft spines and granules, both deciduous. Opening by stellate lobes across the top, later enlarging and breaking away until lower half persists to form a bowl. Sterile base present and separated from gleba by separable papery to parchment-like membrane, chambers large. Montlake fill, University of Washington campus. REMARKS The species concepts in Vascellum have been the subject of some debate. Both V. depressum and V. lloydianum are considered by some to be synonyms of Vascellum pratense (Pers.: Pers.) Kreisel.
+
+
+cs8,0$  H. CALBOVISTA
+
+1,0$Only one species in the Northwest. Generally found above 3,000 foot elevation, occasionally in alpine areas of disintegrated rock and soil mix. Idaho pastures down to 2,000 feet. $Calbovista subsculpta
+1,0,n$8 to 16 cm broad, to 9 cm high; globose to pear shaped, often plicate and contracted toward a rooting base. Whitish to dingy, tips of scales grayish. Exo thick, felty, leathery, broken into irregular 3 to 6-sided, low truncated pyramids, usually blunt but sometimes pointed. Pyramids 5-8 mm high at top of body but thinner toward bottom. Sides of pyramids show parallel transverse lines. Sterile base 1/4 to 1/3 of gleba. Single to gregarious in subalpine open areas near forest edge; April to August.
+
+
+cs9,0$   I. CALVATIA
+
+1,0$Typical puffballs; peridial wall consisting of two layers which are adherent in some species and separating in others; sometimes the outer layer not easily seen or understood. Depending on the species, may have an interior sterile base below the spore mass (gleba) or may lack one. Forms are generally globose to depressed, many with bases extending downward. Nineteen species in the Northwest, several apparently rare.
+
+1,2 $ a Sterile base lacking or rudimentary
+1,10 $ b Sterile base present, although in a few species it becomes less evident at maturity
+2,3 $ a Fruiting body usually over 10 cm broad
+2,4 $ b Fruiting body usually not over 10 cm broad
+3,0 $ a Globose to subglobose; with cordlike rhizomorph; exo thin and fragile; found in brushy or grassy bottomlands $ Calvatia gigantea
+3,0,n $ 20 to 50 cm diameter (up to 12 kilograms in Idaho); globose to depressed globose. White to grayish, changing to yellowish to olivaceous. Exo smooth like kidskin glove, ultimately breaking up and falling away from inner layer in pieces. Endo thin and fragile, breaking up after maturity. Gleba white to yellowish to olivaceous. Solitary to gregarious on low ground under brush. East of Cascades in Washington, Oregon, and Idaho in late summer and fall.
+
+
+3,0 $ b Depressed globose; no rhizomorph; exo thick and breaking up in raised polygons; found in arid lands under sagebrush and juniper $ Calvatia booniana
+3,0,n $  To 60 cm across, 7 to 30 cm high; depressed globose but more or less circular from above. White to dingy pale brown. Exo thick and white, subfloccose, breaking up into 4-6 sided areolate polygons to 2 mm deep, falling away from inner layer which is whitish then buff, with slightly punky texture, unpolished and felt-like. Gleba dingy olive when mature. On soil under sagebrush and juniper, in summer in arid regions of Idaho, Oregon and Nevada. Also Pend Oreille Valley, Washington.
+4,5 $ a (2b) Spore mass cottony
+4,6 $ b Spore mass powdery
+5,0 $ a Exo similar to C. gigantea, scaling off to reveal pliant endoperidium; opens by radial tears from top to near bottom $ Calvatia lacerata
+5,0,n $ About 7 cm diameter, globose. White to pallid changing to brownish. Exo present as a thin felty layer, sloughing off in patches, leaving a thin, pliant, pallid to brownish inner layer. Gleba very dark brown at maturity. Found only near Rhododendron, Oregon, in young Douglas-fir area. Solitary in fall.
+
+
+5,0 $ b Exo adheres to endo but cracks into small polygons; opens by endo wall cracking into large plate-like areas $ Calvatia lycoperdoides
+5,0,n $ 2 to 5 cm broad, 1.5 to 4 cm high; globose to pulvinate. Whitish, changing to brown. Exo delicately furfuraceous to spinulose over all, the upper surface often breaking into small areolae becoming raised polygons up to 3 mm across, low and rounded: occasionally tips pointed and surface then spinose. Warted but furfuraceous to spinulose below and not areolate. Opening occurring by wall cracking into large plate-like areas; spines deciduous, leaving a thin tan endo. Similar to Lycoperdon but not opening by a pore. Gleba dark olivaceous brown to umber and purplish at base. In coniferous woods in late summer and fall in Washington and Idaho.
+
+6,7 $ a (4b) Peridial wall hard at maturity
+6,9 $ b Peridial wall soft at maturity
+7,0 $ a Peridial layers separating; surface roughened with warts $ Calvatia subcretacea
+
+7,0,n $ 2 to 7 cm broad, 1.5 to 4 cm high; depressed globose to pulvinate, base tapering to a point when young but lobed and broad to almost flat when mature; attached by white mycelium. Chalky white with polygonal warts smoky gray. Warts up to 7 mm across, lined horizontally or vertically. Endo thin, firm, furfuraceous, dull chamois to honey yellow, breaking irregularly above. Gleba white to buff to burnt umber. Scattered to solitary, under spruce / fir late summer and fall; Oregon, Idaho and Washington.
+
+7,8 $ b Peridial layers adherent; surface more or less smooth
+8,0 $ a Sporocarp malodorous, hard and persistent $ Calvatia fumosa
+
+8,0,n $ 3 to 10 cm broad, less high; subglobose; with cordlike rhizomorph; smooth to slightly furfuraceous, somewhat wrinkled in drying, rarely lightly areolate. Whitish but soon smoke gray to umber brown where exposed to light but chalky white under the surface. Peridia inseparable, 1 to 2 mm thick, hard and persistent, as Scleroderma. Gleba very dark brown and powdery. Odor as a combination of sour milk, diesel oil and pit toilet. Sterile base lacking to rudimentary. Idaho variety with yellow brown mature gleba. Solitary to gregarious in duff under spruce / fir forests in mountains. Variety C. fumosa forma idahoensis in Hell's Canyon, Idaho.
+
+8,0 $ b Sporocarp with fungoid odor, hard leathery $ Calvatia hesperia
+
+
+8,0,n $ 4 to 8 cm broad, less high; depressed globose; smooth to roughened leathery surface; white to pearly gray. Peridia adherent, cracking and breaking up slowly to release spores. Gleba clay color to greenish yellow and finally chocolate; becoming powdery at maturity. Sterile base absent. Four collections in Idaho (2 Canyon County farmland and 2 Owyhee County desert country with sagebrush and cheatgrass). Farmland in June and August; desert in December and January. Formerly known only from California.
+
+9,0 $ a (6b) Opens by radial tears widely across the top; exo somewhat leathery, with glabrous to rimose surface $ Calvatia paradoxa
+8,0,n $ 2 to 6 cm broad, 2 to 3.5 cm high; pulvinate to depressed globose. White to dull brown. Peridial layers adherent forming a somewhat leathery spore case opening widely by radial tears across the top. Empty case persistent. Gleba white then dark sepia but not purplish. Sterile base lacking or rudimentary. On soil in pastures or range lands in mountainous areas of Idaho.
+
+9,0 $ b Opens by breaking of polygons which form evenly and smoothly across upper surface except each with a small central spine $ Calvatia owyheensis
+
+9,0,n $ 5 cm broad and 3 cm high; depressed globose to pulvinate, with mycelioid rooting base. Lower surface pallid and furfuraceous; upper surface dingy pallid with patches stained brown. Peridial layers adherent, outer evenly areolate / warty and more or less polygonal and smooth, giving effect of an embossed surface except polygons have a small central wart or spine. Polygons neither large nor lined as in C. sculpta. Inner layer thin. Gleba white, eventually olive brown. Sterile base limited to a small area of chambers at the top of the rooting mycelium-and-soil column. Late spring, Owyhee County, Idaho.
+
+
+
+
+10,11 $ a (1b) Gleba becoming cottony
+10,14 $ b Gleba becoming powdery
+11,12 $ a Sterile base cellular, purplish brown or grayish brown 
+11,13 $ b Sterile base fine textured, neither purplish nor grayish brown
+12,0 $ a Exo remaining granular to furfuraceous; sporocarp higher than broad, somewhat stipitate $ Calvatia elata
+12,0,n $ Stipe to 5 cm wide, head to 7 cm wide; the whole to 12 cm high. Exo whitish to pale brown to leather brown at maturity, remaining somewhat granular to furfuraceous. Endo thin, breaking into fragments. Gleba brown to olive-brown, becoming cottony during spore dispersal. Sterile base well-developed with fine-textured chambers not over 0.5 mm across. On low ground or stabilized sand dunes at the edge of wet areas. First located in Northwest in Nov. 1980 under Hooker Willows at Ocean Shores, Washington.12,0 $ b Exo areolate with obtuse spines and prominent warts, not separating from endo; sporocarp wider than high, depressed globose to turbinate 
+12,0$b Exo areolate with obtuse spines and prominent warts, not separating from endo; sporocarp wider than high, depressed globose to turbinate
+12,0,n $ 3 to 8 cm broad; depressed globe to subturbinate, rounded or flattened above, pinched below and attached by several white rhizomorphs. Creamy white changing to chamois to reddish brown. Peridial layers adherent, outer dull to silky areolate above, becoming increasingly areolate and forming more or less prominent warts or obtuse spines which become smaller and furfuraceous to smooth below. Opening irregular; peridia more or less persistent around sterile base. Gleba from light to dark olive buff to olive brown. Sterile base concave and forming shallow cup around gleba; small cells with purplish brown, metallic luster. Dry coniferous woods, mountains of Idaho.
+13,0 $ a (11b) Exo surface dull reddish brown; sterile base concave, forming shallow cup $ Calvatia ochrogleba
+13,0,n $ 7 to 9 cm broad, 7 to 9 cm high; turbinate to depressed globose to misshapen. Dull reddish brown. Peridial layers adherent. Exo very thin, endo medium thick and ochraceous. Exo smooth to furfuraceous. Gleba very fine texture, pale yellow-orange to ochraceous buffy. Known only from meadows near Aurora, Oregon.
+13,0 $ b Exo surface drying to orange red or bay and finally metallic brown; sterile base deeply cupped $ Calvatia rubroflava
+13,0,n $ 2 to 10 cm broad, 1.5 to 5 cm high; flattened above, subglobose, usually with short abruptly pointed base, centrally attached by one or more root-like rhizomorphs. White becoming pink or lavender to pinkish leather brown. All parts changing at once to chrome yellow-brown. Exo represented only by a delicate furfurescence, deciduous, revealing smooth, shiny endo, cracking into irregular areas or scales and falling away after drying. Sterile base homogeneous without cells and extending up sides as a thin layer; yellowish to chocolate brown. On cultivated soils in Oregon.
+14,15 $ a (10b) Gleba distinctly violaceous at maturity
+14,16 $ b Gleba other colors at maturity
+15,0 $ a Body higher than broad, substipitate to turbinate, persistent sterile base without membrane $ Calvatia cyathiformis
+
+
+15,0,n $ 7 to 16 cm broad, 9 to 20 cm high; globose to pyriform, sulcate to deeply wrinkled from base to broadest dimension. Pallid becoming brownish to dingy purplish drab. Exo thin, smooth, becoming areolate over upper part, often developing flat scales. Endo thin, delicate, slowly scaling away with exo to expose purple drab gleba. Gleba white to yellow to purple drab. Sterile base chambered. On soil in grasslands in fall; eastern Oregon. REMARKS C. fragilis (or C. cyathiformis forma fragilis) is said by Zeller to be the common purple-spored Calvatia of western Oregon. (She noted C. cyathiformis, which also has purple spores, from the Willamette Valley in western Oregon as well as from eastern Oregon.) Arora says that it is very similar to C. cyathiformis, but has only a rudimentary sterile base.
+
+
+15,0 $ b Body lower than broad, base not extending downward; persistent sterile base convex, with membrane $ Calvatia rubrotincta
+
+15,0,n $ 4 to 7 cm broad, 3 to 4 cm high. Depressed globose, sulcate below, base with several cordlike rhizomorphs. White becoming stained red in spots to dark reddish umber. Exo very thin, evanescent or flaky, smooth, to felty below, areolate above by reticulations. Endo thicker, brittle, easily broken along ridged reticulations. Opens irregularly with fragments. Sterile base soft, cellular, to purplish brown with metallic luster. Under ponderosa pines, Lake County, Oregon. Rare.
+
+
+
+
+16,0 $ a (14b) Exo very thick, breaking into conspicuous pyramids to 3 cm high, separate or joined at tips, tips coiling as they dry $ Calvatia sculpta
+
+16,0,n $ 4 to 10 cm across; obovate, turbinate or pyriform, base not radicating. White, tips of spines darkening as they dry. White, tips of spines darkening as they dry. Exo very thick, breaking into pyramids up to 3.5 cm across at base and 3 cm high, often with longitudinal or parallel lines. In age pyramids may divide vertically with apex remaining intact; apices of earlier pyramids may be coiled. Segments eventually falling away separately, upper surface first. Endo thin, membranous, fragile, breaking up with exo along pyramid base lines, usually upper surface first, exposing gleba through irregular opening. Gleba white, turning yellow then olive brown. Sterile base chambered, often purplish in base. On duff in high conifer forests, late summer and fall, Washington, Oregon, and Idaho.
+
+
+
+16,17 $ b Exo variously formed and marked but none so conspicuous as C. sculpta
+17,18 $ a Base constricted and plicate
+17,19 $ b Base smooth around perimeter
+18,0 $ a Exo thick, cracked into low, irregular plates and falling away from endo which later opens irregularly with a wide tattered mouth $ Calvatia tatrensis
+
+
+18,0,n $ 4.5 to 9 cm broad, 5 to 7 cm high (var. gruberi 13 cm or more broad); turbinate to obovate, strongly furrowed or plicate below (var. gruberi lacks plication). White to cream. Exo thick, cracking into low irregular plaques which are granular-furfuraceous and mostly deciduous, remnants small floccose patches or large plate-like areas. Endo chamois color to dull tawny or brown-stained from gleba; firm to somewhat papery in age. Peridial wall more or less persistent around the margin of the sterile base. (Var. gruberi exo is spiny on upper surface.) Gleba chocolate brown to dark olivaceous brown at maturity. Sterile base chambered and chamber walls purplish to olivaceous in age. Range lands, under sagebrush in late summer. (Var. gruberi near Mt. Hood, Oregon under conifers.)
+
+
+18,0 $ b Exo thin, wrinkled and rivulose, adherent to endo and falling away together to open body irregularly $ Calvatia pallida
+
+
+18,0,n $ 1.5 to 5.5 cm broad, 1 to 2.5 cm high; flattened, pulvinate or turbinate, base constricted and plicate. Pallid to pale pinkish buff overall or dusted umbrinous from spores. Exo upper surface finely but distinctly wrinkled, occasionally finely rivulose between the wrinkled areas. Two layers adherent, rather thin (less than 1 mm), brittle. Endo, when discernible, thin and papery. Gleba white to olivaceous brown (no orange stage as in C. candida) to olive brown with a purplish tinge when mature. Sterile base poorly developed (1/4 to 1/8 of body), of small cells becoming less evident by maturity. Open woods and meadows in duff and soil at high elevations, summer and fall, Washington and Idaho.
+
+19,0 $ a (17b) Large (to 15 cm), upper surface a thick floccose layer areolate with truncated polygons; sterile base a cup with sides tapering upward a short distance, chambers distinct $ Calvatia bovista
+
+19,0,n $ 5 to 15 cm wide; subglobose to turbinate with large long-cylindric or short-tapered stem. Whitish to pallid yellowish to brownish. Exo a thick floccose layer, usually areolate with truncate polygons above, thinner below, with tendency to form stellate flattish areas. Endo thin, breaking up into fragments at the apex, then downward to expose the powdery gleba. Gleba bright olivaceous to brownish olive to dark olive brown. Sterile base 5 to 10 cm high, furrowed below and pinched to a point. Fields, lawns and roadsides in Idaho.
+
+
+
+19,0 $ b Smaller (to 6 cm), upper surface areolate and plaque-like but not elevated; sterile base less evident at maturity, chambers small $ Calvatia candida
+
+19,0,n $ 1.7 to 6 cm broad, 1.5 to 6 cm high; pulvinate to turbinate. White to chalky white or slightly grayish over upper side. Exo smooth to wrinkled or areolate; areolae plaque-like and not raised up as polygons or squamules; the under side finely granular to furfuraceous. Endo opening by breaking into large plate-like areas or simply peeling away from the gleba. Peridia thin to thick, the firm exo up to 1 mm, and the endo papery and velum-like. Gleba white becoming orange but finally olivaceous brown to umbrinous. Sterile base occupying about a quarter of body. Arid places under sagebrush and range grasses; late summer and fall in Idaho.

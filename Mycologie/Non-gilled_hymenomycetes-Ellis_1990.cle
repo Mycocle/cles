@@ -1,0 +1,705 @@
+
+
+
+
+titre$Ellis & Ellis, Non-gilled hymenomycetes Key to genera
+com$adapt JC Verpeau / GF sept 2014
+rem$LANGUE$Anglais
+1,0$source :  Fungi Without Gills: Hymenomycetes and Gasteromycetes : An Indentification Handbook de M.B. Ellis et J.Pamela Ellis (juin 1990) 
+
+1,0$
+1,CS1 $No visible fruitbodies other than basidia and spores
+1,cs2$Visible fruitbodies formed 
+
+ cs1,0$
+
+1,0 $Parasitic fungi causing leaf-spots, distortion and galls in Camellia, Rhododendron and Vaccinium $Exobasidium
+1,0 $Parasitic fungi on leaves of Juglans and Quercus with clustered basidia erumpent through stomata $Microstroma
+1,2 $Parasitic in other fungi
+2,0 $In the hymenium of Dacrymyces, basidia transversely septate $Achroomyces
+2,0 $In the hymenium of Dacrymyces and Ditiola, basidia longitudinally $Tremella
+2,0 $In the hymenium of Coticiaccae, basidia not transversely or longitudinally septate $TulasnellaCs2
+
+cs2,0$
+
+1,4 $Fruitbodies resupinate
+1,178 $Fruitbodies not resupinate
+4,5 $Hymenial surface smooth, flat, undulating, granular or tuberculate
+4,106 $Hymenial surface otherwise, ridged, folded, phlebioid, merulioid or with teeth or pores
+5,6 $Basidia with 1-3 transverse septa
+5,9 $Basidia with longitudinal septa
+5,16 $Basidia without septa
+6,0 $Parasitic on Lonicera and on fern fronds $Herpobasidium
+6,7 $not so (not : Parasitic on Lonicera and on fern fronds )
+7,0 $Fruitbodies small, never more than 5 cm diam., basidia cylindrical to narrowly clavate of fusiform $Achroomyces
+7,8 $Fruitbodies larger and/or with differently shaped basidia
+8,0 $Basidia cylindrical, resupinate part of fruitbody almost always accompanied by narrow, imbricate brackets $Auricularia
+8,0 $Basidia curved, often helically $Helicobasidium
+8,9 $**. Basidia greatly elongated, only terminal part transversely septate and each with a lateral saccate probasidium at its base Helicogloea
+9,0 $ Fruitbody replacing hymenium of its discomycete host, sterigmata two, very long $Xenolachne
+9,10 $Fruitbodies not so (not : Fruitbody replacing hymenium of its discomycete host, sterigmata two, very long )
+10,0 $Basidia on short side-branches of an erect main hypha, remaining as empty cases after spores have been liberated $Basidiodendron
+10,11 $Basidia not so (not : on short side-branches of an erect main hypha, remaining as empty cases after spores have been liberated ), usually solitary
+11,0 $ Basidia stalked, with clamp at base of stalk but not of basidium $Myxarium
+11,12 $Basidia not so (not : stalked, with clamp at base of stalk but not of basidium)
+12,13 $Cystidia present
+12,14 $Cystidia absent
+13,0 $Cystidia hyaline; thick-walled, protruding a long way above surface of hymenium $Heterochaetella
+13,0 $Cystidia (g) thin-walled, with yellowish or brownish contents $Bourdotia
+14,0 $No clamps on basidia or hyphae $Sebacina
+14,15 $Clamps on hyphae and/or basidia
+15,0 $Basidia clavate, without clamps $Eichleriella
+15,0 $Basidia ellipsoid, mostly with clamps $Exidiopsis
+16,0 $A fungus which causes disease of apples in storage $Butlerelfia
+16,0 $A fungus with tetraradiate spores found on wood in sea-water $Digitatispora
+16,17 $not so (not fungus with tetraradiate spores found on wood in sea-water )
+17,0 $Spores irregular, mostly 3-lobed $Tylospora
+17,0 $Spores very large, allantoid, 15-24 × 5-7,5 µm $Vuilleminia
+17,18 $not so (not Spores very large, allantoid, 15-24 × 5-7,5 µm )
+18,0 $Fruitbodies with immersed or projecting brown, simple, thick-walled, pointed setae $Hymenochaete
+18,19 $not so (not Fruitbodies with immersed or projecting brown, simple, thick-walled, pointed setae )
+19,0 $Fruitbodies contain many radiately-branched, brown setae (asterosetae) $Asterostroma
+19,0 $Fruitbodies contain pale yellowish, repeatedly dichotomously-branched hyphae with pointed tips $Vararia
+19,20 $not so (not Fruitbodies contain pale yellowish, repeatedly dichotomously-branched hyphae with pointed tips  )
+20,21 $Spores coloured
+20,42 $Spores hyaline
+21,22 $Spore walls rough, spiny or warted
+21,31 $Spore walls smooth
+22,0 $Spores blue-green, fruitbodies pale to dark blue... $Lazulinospora
+22,23 $Spores yellowish to brown
+23,24 $Cystidia or cystidioles present and seen easily
+23,25 $Cystidia or cystidioles none or rarely seen
+24,0 $Cystidioles hyaline $Xenasma
+24,0 $Cystidia brown, septate, large $Tomentellina
+25,26 $Spores and basidia stain deeply with cotton blue
+25,27 $not so (not Spores and basidia stain deeply with cotton blue )
+26,0 $Hyphae wide, short-celled, without clamps $Botryohypochnus
+26,0 $Hyphae longer-celled, with clamps $Lindtneria
+27,28 $Hyphae with clamps
+27,29 $Hyphae without clamps
+28,0 $Hyphae with clamps at almost every septum; basal hyphae often uniting to form ropes or cord-like strands $Tomentella
+28,0 $not so (not Hyphae with clamps at almost every septum; basal hyphae often uniting to form ropes or cord-like strands ), pale hyphae often swollen at septa $Trechispora
+29,0 $Spores pale, not more than 7 diam., basidia often suburniform $Tomentellopsis
+29,30 $Sports darker, mostly 7-14 µm diam., basidia not suburniform
+30,0 $Spore walls mostly echinulate, basidia clavate $Tomentellastrum
+30,0 $Spore walls with watts which are often notched, basidia stalked $Pseudotomentella
+31,0 $Spores violet, fruitbodies dark violet $Hypochnella
+31,0 $Spores yellowish olive, turning deep violet in KOH solution $Hypochnopsis
+31,32 $Spores bluish or greenish
+31,33 $Spores yellowish brown or brown
+31,34 $Spores rather pale yellowish, often thick-walled
+32,0 $Dendrohyphidia formed, fruitbodies dark blue with whitish margin $Pulcherricium
+32,0 $No dendrohyphidia, fruitbodies greyish blue or greenish blue $Byssocorticium
+33,0 $Basidia with subulate sterigmata up to 16 long .... $Scotomyces
+33,0 $Basidia with relatively short sterigmata $Coniophora
+34,0 $Spores forming secondary spores, basidia about same width as subtending hyphae, sterigmata long; often parasitic on herbaceous plants $Thanatephorus
+34,35 $not so (not Spores forming secondary spores, basidia about same width as subtending hyphae, sterigmata long; often parasitic on herbaceous plants )
+35,0 $Spores fusiform, 16-25 µm long $Jaapia
+35,36 $Spores never fusiform, smaller
+36,0 $Hyphae without clamps, spores 2-4,5 µm diam . $Piloderma
+36,37 $Hyphae with clamps, spores mostly larger
+37,38 $Cystidia present
+37,39 $Cystidia absent
+38,0 $Cystidia thick-walled except at apex $Crustoderma
+38,0 $Cystidia thin-walled $Hypochnicium
+39,0 $Spores 6-11 × 5-8 µm $Hypochnicium
+39,40 $Spores smaller, often spherical or subspherical
+40,0 $Basidia without cyanophilous drops or granules $Hypochniciellum
+40,41 $Basidia with cyanophilous drops or granules
+41,0 $ Hyphae with few clamps; on dung and debris $Dacryobasidium
+41,0 $Hyphae with clamps at all septa; on rotten wood $Cristinia
+42,43 $Spores distinctly amyloid
+42,51 $Spores not distinctly amyloid
+43,44 $Spore walls rough, spiny or warted
+43,47 $Spore walls smooth
+44,0 $Spores spherical or subspherical, 6-7 diam. $Boidinia
+44,45 $Spores ellipsoid
+45,0 $Spores not more than 6 long $Gloeocystidiellum
+45,46 $Spores not less than 12 long
+46,0 $Spores 12-15 × 6-8, on Cladium mariscus $Acanthobasidium
+46,0 $Spores 18-22 × 12-16, mostly on Rosaceae $Aleurodiscus
+47,0 $Cystidia apically encrusted, thick-walled, yellowish brown $Amylostereum
+47,48 $Cystidia, when present, not so (not apically encrusted, thick-walled, yellowish brown )
+48,0 $Fruitbodies leathery, becoming woody hard $Stereum
+48,49 $Fruitbodies membranous to waxy
+49,0 $Embedded cystidia vesicular, 15-20 wide $Vesiculomyces
+49,50 $Cystidia never more than 14 wide
+50,0 $Gloeocystidia 4-6 wide, spores not more than 6 long $Gloeocystidiellum
+50,0 $Gloeocystidia 7-14 wide, spores 6-20 long $Megalocytidium
+51,52 $Spore walls rough, spiny or warted
+51,58 $Spore walls smooth
+52,53 $Cystidia or cystidioles present
+52,55 $Cystidia and cystidioles absent
+53,0 $Cystidia thick-walled, encrusted with root-like processes at base $Litschauerella
+53,54 $Cystidia or cystidioles thin-walled
+54,0 $Basidia 4-spored, cyanophilous $Hypochnicium
+54,0 $Basidia 4-6 spored, spores with warts disappearing in KOH $Xenasma
+55,0 $Basidia long, tubular or narrowly clavate, full of small oil drops $Granulobasidium
+55,56 $Basidia not so (not long, tubular or narrowly clavate, full of small oil drops )
+56,0 $Hyphae without clamps $Tomentellopsis
+56,57 $Hyphae with clamps
+57,0 $Basidia with broad rooted base (pleurobasidia) $Xenasmatella
+57,0 $Basidia not so (not with broad rooted base ), short $Trechispora
+58,59 $Sterigmata both long and wide, subulate or fusiform
+58,62 $Sterigmata not so (not both long and wide, subulate or fusiform )
+59,0 $Spores mostly navicular, 12-20 × 6-8, not forming secondary spores $Cejpomyces
+59,60 $Spores other shapes, commonly forming secondary spores
+60,0 $Sterigmata commonly fusiform and very wide, commonly cut off from basidia by septa $Tulasnella
+60,61 $Sterigmata subulate, not cut off by septa
+61,0 $Basidia about the same width as subtending hyphae $Thanatephorus
+61,0 $Basidia 2-3 times as wide as subtending hyphae $Ceratobasidium
+62,63 $Parasitic on grasses and/or sedges, fruitbodies pink of pinkish
+62,64 $Not parasitic on grasses or sedges
+63,0 $Fruitbodies waxy, hyphae with clamps $Limonomyces
+63,0 $Fruitbodies membranous, with sterile, clavarioid bundles, hyphae without clamps $Laetisaria
+64,0 $On living bark of Acer campestris and A. platanoides, fruitbodies orbicular, 1 cm diam. $Dendrothele
+64,65 $not so (not On living bark of Acer campestris and A. platanoides, fruitbodies orbicular, 1 cm diam. )
+65,0 $Fruitbodies rose or salmon pink, no cystidia $Erythricium
+65,0 $Fruitbodies dark blue with pale margin $Pulcherricium
+65,66 $not so (not Fruitbodies dark blue with pale margin )
+66,0 $Spores 16-25 × 6-7, fusiform $Jaapia
+66,67 $Spores smaller and other shapes
+67,68 $Basidia mostly with 6 or more sterigmata
+67,70 $Basidia with not more than 4 sterigmata
+68,0 $Spores stain deeply with cotton blue, hyphae often wide and at right-angles to one another $Botryobasidium
+68,69 $Spores not staining deeply with cotton blue
+69,0 $Hyphae often with oily contents and swellings $Sistotrema
+69,0 $Hyphae narrow, without oil drops or swellings $Paullicorticium
+70,71 $Fruitbodies rather loosely attached to substrate
+70,83 $Fruitbodies quite firmly attached to substrate
+71,72 $Fruitbodies thin, pellicular, cobwebby or membranous, often made up of loosely intertwined hyphae, easily separated from the substrate
+71,81 $Fruitbodies fairly easily separated from the substrate, at first often thin but increasing in thickness with age and sometimes forming basidia at different levels
+72,73 $Cystidia always present
+72,75 $Cystidia absent
+73,0 $Cystidia septate, with clamps at septa $Amphinema
+73,74 $Cystidia not septate
+74,0 $Cystidia subulate, encrusted, with encrustations arranged spirally in rows $Subulicystidium
+74,0 $Cystidia clavate or spathulate, smooth $Lagarobasidium
+75,0 $Spores thick-walled, stain strongly with cotton blue $Cristinia
+75,76 $Spores thin-walled, not staining with cotton blue
+76,0 $Fruitbodies with brown basal hyphae and rhizomorphs $Confertobasidium
+76,77 $Fruitbodies not so (not with brown basal hyphae and rhizomorphs ), hyphae hyaline
+77,0 $Hyphae commonly, but not always, swollen near septa $Trechispora
+77,78 $Hyphae not so (not commonly, but not always, swollen near septa )
+78,0 $Fruitbodies with narrow rhizomorphs, hyphae branched and anastomosing freely, with clamps at nearly every septum $Fibulomyces
+78,79 $not so (not Fruitbodies with narrow rhizomorphs, hyphae branched and anastomosing freely, with clamps at nearly every septum )
+79,0 $Fruitbodies white or whitish, rarely cream, hyphae often coated with crystals $Athelia
+79,80 $Fruitbodies mostly at least tinged with greenish yellow and sometimes more deeply coloured
+80,0 $Basidia abruptly constricted below into a stalk $Athelopsis
+80,0 $Basidia not so (not abruptly constricted below into a stalk ) $Leptosporomyces
+81,0 $Subicular hyphae mostly straight, parallel to each other and to the surface of the substrate $Phanerochaete
+81,82 $Subicular hyphae not so (not mostly straight, parallel to each other and to the surface of the substrate )
+82,0 $Hyphae full of oil drops, spores pyriform or lachrymoid, sticking together in clumps of 2 or 4 $Cylindrobasidium
+82,0 $Hyphae not full of oil drops, spores ellipsoid or subspherical $Ceraceomyces
+83,84 $Fruitbodies membranous to waxy, soft or rough
+83,99 $Fruitbodies when fresh softly leathery or firmly gelatinous-waxy, elastic, when dry often horny
+84,0 $Basidial state accompanied or replaced by spherical white bulbils of its Aegerita state $Bulbillomyces
+84,85 $not so (not Basidial state accompanied or replaced by spherical white bulbils of its Aegerita state )
+85,0 $Spores thick-walled $Hypochnicium
+85,86 $Spores thin-walled
+86,87 $Cystidia present
+86,94 $Cystidia absent
+87,0 $On rotting fern stems, cystidia clavate or flask-shaped $Parvobasidium
+87,88 $not so (not On rotting fern stems, cystidia clavate or flask-shaped )
+88,0 $Subicular hyphae mostly straight, parallel to each other and to the surface of the substrate $Phanerochaete
+88,89 $not so (not Subicular hyphae mostly straight, parallel to each other and to the surface of the substrate )
+89,0 $Cystidia with 2 or more root-like processes at the base $Tubulicrinis
+89,90 $Cystidia not so (not with 2 or more root-like processes at the base )
+90,0 $Cystidia capitate, septate with clamps, encrusted with scattered compound crystals; common on Sambucus $Lyomyces
+90,91 $Not with this combination of characters
+91,0 $Spores stain deeply with cotton blue, hyphae yellowish, much branched, closely packed together $Crustoderma
+91,92 $not so (not Spores stain deeply with cotton blue, hyphae yellowish, much branched, closely packed together )
+92,0 $Hyphae loosely intertwined, often branching from or opposite clamps, stain deeply with cotton blue $Grandinia
+92,93 $not so (not Hyphae loosely intertwined, often branching from or opposite clamps, stain deeply with cotton blue )
+93,0 $Basidia fairly large, often constricted, usually with oil drops, sterigmata often long and curved $Hyphoderma
+93,0 $not so (not Basidia fairly large, often constricted, usually with oil drops, sterigmata often long and curved ), often with brown basal hyphae and curved spores $Peniophora
+94,0 $Subicular hyphae mostly straight, parallel to each other and to the substrate $Phanerochaete
+94,95 $not so (not Subicular hyphae mostly straight, parallel to each other and to the substrate )
+95,0 $Hyphae mostly 2-4 thick but with some cells much swollen, spores 4-5 diam . $Brevicellicium
+95,96 $not so (not Hyphae mostly 2-4 thick but with some cells much swollen, spores 4-5 diam )
+96,0 $Basidia large, containing oil drops $Cerocorticium
+96,97 $not so (not Basidia large, containing oil drops )
+97,0 $Spores navicular or fusiform $Luellia
+97,98 $Spores other shapes
+98,0 $Fruitbodies pink, dendrohyphidia abundant $Corticium
+98,0 $Fruitbodies very thin, whitish grey to ochraceous, no dendrohyphidia $Aphanobasidium
+99,100 $Spores allantoid, not larger than 6 × 1-1,5
+99,101 $Spores other shapes or wider
+100,0 $Cystidia plentiful, large, some thick-walled except at apex $Dacryobolus
+100,0 $Cystidia absent or few and small $Merulius
+101,0 $Fruitbodies white or whitish, softly leathery $Meruliopsis
+101,102 $not so (not Fruitbodies white or whitish, softly leathery ), various colours
+102,103 $Cystidia protruding, large and encrusted
+102,104 $Cystidia not so (not protruding, large and encrusted )
+103,0 $Cystidia broadly fusiform or conical $Phlebiopsis
+103,0 $Cystidia cylindrical, brown, up to 250 long $Columnocystis
+104,0 $Spores 10-15 × 5-8, cystidia tubular with oily contents $Scytinostroma
+104,105 $Spores smaller, cystidia without oily contents
+105,0 $Fruitbodies discrete with upturned margin on horizontal surfaces, forming small brackets on vertical surfaces, softly leathery, hymenium violet or violaceous brown $Chondrostereum
+105,0 $Fruitbodies widely effused, hymenium gelatinous waxy $Phlebia
+106,107 $Hymenial surface ridged or folded, phlebioid or merulioid
+106,116 $Hymenial surface with projecting teeth
+106,143 $Hymenial surface with pores
+107,108 $Spores coloured, yellowish or brownish
+107,112 $Spores hyaline
+108,0 $Spore walls spiny or warted $Lindtneria
+108,109 $Spore walls smooth
+109,0 $Spores 4-5 × 1,5-2, clamps widely bowed $Pseudomerulius
+109,110 $Spores larger, clamps normal
+110,0 $Spores 9-12 × 5-9 $Serpula
+110,111 $Spores smaller
+111,0 $Fruitbodies white to cream $Hypochniciellum
+111,0 $Fruitbodies olivaceous, orange or brown $Leucogyrophana
+112,0 $No clamps, small crystals plentiful in subhymenium $Meruliopsis
+112,113 $not so (not No clamps, small crystals plentiful in subhymenium  ), clamps always present and often plentiful
+113,0 $Fruitbodies pellicular to thinly membranous, basidia in large clusters $Fibulomyces
+113,114 $not so (not Fruitbodies pellicular to thinly membranous, basidia in large clusters ), fruitbodies thicker
+114,0 $Cystidia present $Phlebia
+114,115 $Cystidia none or very small
+115,0 $Fruitbodies membranous to soft waxy, spores 1,5-5 wide $Ceraceomyces
+115,0 $Fruitbodies firmly gelatinous to elastic, spores allantoid, l-1,5 wide $Merulius
+116,117 $Basidia with longitudinal septa
+116,119 $Basidia without septa
+117,0 $Large cystidia in main axis of each tooth, spores 4-6 × 3,5-4,5 $Stypella
+117,118 $No cystidia, spores larger
+118,0 $Teeth up to 0,5 mm long, spores up to 8 long $Protodontia
+118,0 $Teeth up to 1 mm long, spores 12-22 × 6-10 $Eichleriella
+119,0 $On large sedges, Typha and Scirpus, teeth sterile, spores 18-30 x 6-8 $Epithele
+119,120 $not so (not On large sedges, Typha and Scirpus, teeth sterile, spores 18-30 x 6-8 )
+120,121 $Spores coloured
+120,123 $Spores hyaline
+121,0 $Spores yellowish brown, walls spiny or warted $Tomentella
+121,122 $Spores yellowish, with rather thick, smooth walls
+122,0 $Basidia with cyanophilous drops $Cristinia
+122,0 $Basidia not so (not with cyanophilous drops) $Leucogyrophana
+123,124 $Spore walls spiny
+123,125 $Spore walls smooth
+124,0 $Spores 3-4,5 x 2,5-3,5, on rotten wood and bark $Trechispora
+124,0 $Spores 4-5 diam., on soil in rabbit burrows $Echinotrema
+125,0 $Fruitbody consisting only of translucent teeth, 0.5-3 mm long attached directly to the substrate $Mucronella
+125,126 $not so (not  Fruitbody consisting only of translucent teeth, 0.5-3 mm long attached directly to the substrate ), always some other part to fruitbody
+126,0 $Pores as well as teeth present $Schizopora
+126,127 $Teeth only formed
+127,128 $Teeth very long, 0,5-2 cm
+127,129 $Teeth often more than 1 mm but not more than 5 mm long
+127,134 $Teeth short or very short, not more than 1 mm long
+128,0 $Teeth white to ochraceous, spores spherical or subspherical, 5-7 diam. $Spongipellis
+128,0 $Teeth sulphur yellow, sometimes turning reddish, spores 4.5-6× 3,5-4 $Sarcodontia
+129,0 $Spores and droplets in basidia stain deeply with cotton blue, spores spherical or subspherical 5-7 diam. $Cristinia
+129,130 $not so (not Spores and droplets in basidia stain deeply with cotton blue, spores spherical or subspherical 5-7 diam. )
+130,0 $Hyphae usually stain with cotton blue, are loosely intertwined and often branch from or opposite clamps, spores mostly 4-6 long $Grandinia
+130,131 $not so (not Hyphae usually stain with cotton blue, are loosely intertwined and often branch from or opposite clamps, spores mostly 4-6 long )
+131,0 $Spores 6-9 long, teeth violet or purplish brown $Trichaptum
+131,132 $Spores 9-12 long
+131,133 $Spores 3-6 long
+132,0 $Spores ellipsoid, 6-8 wide $Cerocorticium
+132,0 $Spores allantoid, 3-3.5 wide $Hyphoderma
+133,0 $Fruitbodies tough, with thick-walled skeletal hyphae $Steccherinum
+133,0 $Fruitbodies waxy $Mycoacia
+134,0 $Basidia with 6-8 sterigmata $Sistotrema
+134,135 $Basidia with not more than 4 sterigmata
+135,136 $Cystidia absent
+135,137 $Cystidia present
+136,0 $On rotting fern fronds $Pteridomyces
+136,0 $On wood and bark, spores apiculate, 4-5 diam. $Brevicellicium
+137,0 $Hyphae usually stain with cotton blue, are loosely intertwined and often branched from or opposite clamps $Grandinia
+137,138 $not so (not Hyphae usually stain with cotton blue, are loosely intertwined and often branched from or opposite clamps )
+138,0 $Hyphae without clamps, cystidia thick-walled, encrusted, mostly conical, spores 3,5-4 × 1,5-2 $Scopuloides
+138,0 $Hyphae without clamps, cystidia tufts of encrusted hyphae, spores 7-11 × 4-7 $Hyphodermella
+138,139 $Hyphae with clamps, cystidia otherwise
+139,140 $Spores thick-walled, stain deeply with cotton blue
+139,141 $Spores thin-walled, not staining with cotton blue
+140,0 $Cystidia cylindrical $Hypochnicium
+140,0 $Cystidia clavate or spathulate $Lagarobasidium
+141,0 $Spores allantoid, 5-7 × 1,5 $Dacryobolus
+141,142 $Spores other shapes, wider
+142,0 $Spores 3,5-4,5 × 2,5-3,5 $Fibrodontia
+142,0 $Spores 5-8 × 2,5-3,5 $Resinicium
+143,144 $Spores with spiny walls
+143,146 $Spores with smooth walls
+144,0 $Found only in rabbit burrows $Echinotrema
+144,145 $Not found in rabbit burrows
+145,0 $Spores 6-8 diam., spines 1-2 long $Lindneria
+145,0 $Spores 3-5 × 2,5-4, fruitbodies soft $Trechispora
+145,0 $Spores 4,5-6 × 4-5, fruitbodies tough $Heterobasidion
+146,147 $Brown, thick-walled, pointed setae present in the hymenium and sometimes also in other parts
+146,148 $No such setae present
+147,0 $Flesh soft when young, tubes not stratified $Inonotus
+147,0 $Flesh tough, corky to woody, tubes often stratified $Phellinus
+148,149 $Spores coloured yellow to brown or bluish
+148,153 $Spores hyaline
+149,150 $Hymenial surface partly merulioid, phlebioid or with teeth
+149,152 $Hymenial surface entirely poroid
+150,0 $Hymenium at first reticulate poroid but soon becoming toothed, spores 5-7 × 3,5-5 $Leucogyrophana
+150,151 $Hymenium in part merulioid or phlebioid
+151,0 $Spores 4-5 x 1,5-2,5 $Pseudomerulius
+151,0 $Spores 8-13 x 5-9 $Serpula
+152,0 $Fruitbodies tough, corky to woody, tubes stratified, pores 4-5 per mm, spores 4,5-6,5×3-5 $Perenniporia
+152,0 $Fruitbodies soft, spongy, easily separated from substrate, pores 2-3 per mm, spores 3.5-4.5 diam. $Byssocorticium
+153,0 $Spores thick-wailed, truncate at one end and with a pore at the other $Perenniporia
+153,154 $Spores thin-walled
+154,155 $Hymenial surface partly merulioid or with teeth
+154,159 $Hymenial surface entirely poroid
+155,156 $Hymenium in part merulioid
+155,158 $Hymenium in part with flat teeth
+156,0 $Cystidia large, clavate, with resinous, reddish brown sap $Phlebia
+156,157 $Cystidia none or hyaline and small
+157,0 $Hyphae with clamps, spores allantoid, 3,5-4,5 × 1-1,5, fruitbodies firmly gelatinous to elastic $Merulius
+157,0 $Hyphae without clamps, spores up to 6-7 long., fruitbodies softly leathery to waxy $Meruliopsis
+158,0 $Hymenial surface white to cream or ochraceous $Schizopora
+158,0 $Hymenial surface violet to cocoa brownish $Trichaptum
+159,0 $Basidia with 6-8 sterigmata $Sistotrema
+159,160 $Basidia with not more than 4 sterigmata
+160,0 $Fruitbodies produce masses of thick-walled, yellowish to brown chlamydospores $Oligoporus
+160,161 $No such chlamydospores formed
+161,0 $Spores commonly more than 12 long (1l-14), skeletal hyphae dendroid $Dichomitus
+161,162 $Spores never more than 12 long, skeletal hyphae, when present, not dendroid $
+
+
+
+162,0$Pore surface grey except for white margin, skeletal hyphae with strongly gelatinized walls $Cinereomyces
+162,163 $not so (not Pore surface grey except for white margin, skeletal hyphae with strongly gelatinized walls )
+163,164 $Fruitbodies in section seen to have a black line separating zones; pore surface bruising brown or black
+163,165 $not so (not Fruitbodies in section seen to have a black line separating zones; pore surface bruising brown or black )
+164,0 $Black line between tube-layer and flesh, spores not more than 8 long $Bjerkandera
+164,0 $Black line above flesh, spores more than 8 long $Datronia
+165,166 $Cystidia abundant and obvious in hymenium
+165,167 $Cystidia, if present, small and not seen easily
+166,0 $Cystidia up to 200 × 8-12, with encrusted walls, pore surface pinkish ochraceous $Junghuhnia
+166,0 $Cystidia smaller, some or all apically encrusted, pore surface white, cream or brownish $Oxyporus
+167,0 $Spores spherical or almost so, apiculate, each with one or more oil drops or vacuoles, pore surface often bruising red or reddish-brown $Physisporinus
+167,168 $not so (not Spores spherical or almost so, apiculate, each with one or more oil drops or vacuoles, pore surface often bruising red or reddish-brown )
+168,0 $Pore surface when young orange or pinkish, when old orange-brown, turned violet by KOH $Hapalopilus
+168,169 $not so (not Pore surface when young orange or pinkish, when old orange-brown, turned violet by KOH )
+169,0 $Flesh of fruitbody with two distinct colour zones, white next to the pore surface, the test ochraceous to brown $Loweomyces
+169,170 $not so (not Flesh of fruitbody with two distinct colour zones, white next to the pore surface, the test ochraceous to brown )
+170,0 $Tubes in several layers, thick-walled skeletal hyphae olivaceous brown $Donkioporia
+170,171 $Tubes in one layer, skeletal hyphae, when present, hyaline
+171,0 $Pore surface pinkish cream to salmon pink, basidia often two-spored $Tyromyces
+171,172 $not so (not Pore surface pinkish cream to salmon pink, basidia often two-spored )
+172,173 $Fruitbodies soft, waxy or cottony
+172,175 $Fruitbodies if soft at first not waxy or cottony, less fragile and often becoming hard when dry
+173,0 $Fruitbodies easily separated from substrate, spores 2,5-3,5×2-2,5 $Porpomyces
+173,174 $not so (not Fruitbodies easily separated from substrate, spores 2,5-3,5×2-2,5 ), spores larger
+174,0 $Hyphae without clamps $Ceriporia
+174,0 $Hyphae with clamps $Ceriporiopsis
+174,0 $If spores spherical, pale yellowish, 3,5-4,5 diam. $Byssocorticium
+175,0 $Fruitbodies gelatinous, brittle when dry. Pore surface white bruising ochraceous brown, spores 3,5-5 × l-1,5 $Skeletocutis
+175,176 $not so (not  Fruitbodies gelatinous, brittle when dry. Pore surface white bruising ochraceous brown, spores 3,5-5 × l-1,5 )
+176,0 $Spores allantoid, 3-4 × 0.5-1 $Chaetoporellus
+176,177 $Spores sometimes curved but always larger
+177,0 $No true skeletal hyphae although some are thicker-walled than others, they stain readily with cresyl blue $Postia
+177,0 $Hyaline, thick-walled to solid skeletal hyphae present $Antrodia
+178,179 $Fruitbodies compound
+178,182 $Fruitbodies simple although sometimes concrescent
+179,0 $Hymenial surface smooth, without pores, compound fruiting bodies rosette-like, about 20 cm diam. $Podoscypha
+179,180 $Hymenial surface with pores
+180,0 $Fruitbodies hemispherical, up to 50 cm across, made up of a number of umbrella-like heads, spores 8-10 × 2-3,5 $Dendropolyporus
+180,181 $Fruitbodies made up of a number of overlapping fan-shaped caps
+181,0 $Fruitbodies ochraceous brown, very large, up to 80 cm diam., spores subspherical, 6-7 × 5-6 $Meripilus
+181,0 $Fruitbodies rather greyish brown or grey, 20-50 cm diam., spores ellipsoid, 5-7 x 3,5-5 $Grifola
+182,183 $Fruitbodies bracket- or shelf-like
+182,239 $Fruitbodies pustule-like, pulvinate or hemispherical, sometimes lobed, cerebriform or confluent forming larger masses
+182,242 $Fruitbodies cup-, ear-., saucer- or shell-shaped
+182,256 $Fruitbodies erect, various shapes, with or without stalks
+183,184 $Hymenial surface smooth, tuberculate, veined or merulioid
+183,195 $Hymenial surface with projecting teeth
+183,201 $Hymenial surface with pores
+183,238 $Hymenial surface with plates
+184,0 $Basidia with 1-3 transverse septa, spores allantoid, 15-18 x 6-7, brackets imbricate, gelatinous, elastic $Auricularia
+184,185 $Basidia without septa
+185,0 $Dark brown, pointed, thick-walled setae present in hymenium $Hymenochaete
+185,186 $No such setae present
+186,187 $Spores coloured, especially in mass
+186,188 $Spores hyaline
+187,0 $Spores yellow to yellowish brown, 4-5 × 1,5-2 $Pseudomerulius
+187,0 $Spores yellowish brown to rust, 8-13 × 5-9 $Serpula
+188,189 $Spores allantoid, 3-4,5 × 1-1,5
+188,190 $Spores other shapes, larger
+189,0 $Brackets fan- or shell-shaped, 2-4 cm wide, upper surface pale ochraceous to reddish brown, lower surface white or greyish $Plicaturopsis
+189,0 $Fruitbodies effuso-reflexed, upper surface white or greyish, lower surface becoming yellowish or reddish orange $Merulius
+190,191 $Spores strongly amyloid
+190,193 $Spores not amyloid
+191,0 $Spore walls finely verruculose or echinulate $Laxitextum
+191,192 $Spore walls quite smooth
+192,0 $Abundant yellowish brown, thick-walled, apically encrusted cystidia present $Amylostereum
+192,0 $No cystidia formed although the smooth ends of thick-walled skeletal hyphae may simulate them $Stereum
+193,0 $Large, thick-walled, brown, in part finely encrusted cystidia present $Columnocystis
+193,194 $Cystidia none or hyaline, smooth and small
+194,0 $Hymenial surface violet or purplish brown $Chondrostereum
+194,0 $Hymenial surface cream to ochraceous, spores 8-12×4-6 $Cylindrobasidium
+194,0 $Hymenial surface white or whitish, somewhat yellowish with age, spores not more than 7×3,5, fruitbodies white, softly leathery $Meruliopsis
+195,0 $Basidia with longitudinal septa $Pseudohydnum
+195,196 $Basidia without septa
+196,0 $Fruitbodies effuso-reflexed, brackets not well-defined, often just fertile nodules, teeth always mixed with the pores and developed from them $Schizopora
+196,197 $Effuso-reflexed, brackets narrow, shelf-like, not more than 1-2 cm wide, cystidia thick-walled, encrusted
+196,198 $Brackets wider, fan- or shell-shaped, or branched and coralloid, no encrusted cystidia
+197,0 $Hyphae without clamps, spores 5-6,5 long $Irpex
+197,0 $Hyphae with clamps, spores 3-4,5 long $Steccherinum
+198,0 $Spores not amyloid $Spongipellis
+198,199 $Spores strongly amyloid
+199,0 $Fruitbodies much branched, flesh strongly amyloid, teeth up to 3 cm long $Hericium
+199,200 $Fruitbodies not branched, teeth shorter
+200,0 $Teeth not more than 2 mm long, no cystidia $Irpicodon
+200,0 $Teeth 5-15 mm long, smooth-walled cystidia up to 150 × 5-8 $Creolophus
+201,202 $Hymenial surface only in part poroid
+201,206 $Hymenial surface all poroid
+202,203 $Hymenial surface partly with teeth
+202,204 $Hymenial surface partly or mostly merulioid or phlebioid
+203,0 $Hymenial surface violet or purplish brown $Trichaptum
+203,0 $Hymenial surface white to cream or ochraceous $Schizopora
+204,0 $Spores hyaline, allantoid, 1-1,5 wide $Merulius
+204,205 $Spores yellowish to brown or rust in mass
+205,0 $Spores 4-5 long $Pseudomerulius
+205,0 $Spores 9-12 long $Serpula
+206,207 $Thick-walled, brown, pointed setae present in hymenium and sometimes also in trama or upper surface of cap
+206,208 $No such setae formed
+207,0 $Perennial, woody hard, with yellowish brown skeletal hyphae, tubes often stratified $Phellinus
+207,0 $Annual, flesh softer, no skeletal hyphae, tubes not stratified $Inonotus
+208,0 $Spores diagnostic, truncate at apex, brown, with two walls, the inner one thick and ornamented with transverse striations $Ganoderma
+208,209 $Spores not so (not diagnostic, truncate at apex, brown, with two walls, the inner one thick and ornamented with transverse striations ), always hyaline or very pale yellow
+209,0 $Spore walls minutely but clearly spiny $Heterobasidion
+209,210 $Spore walls quite smooth
+210,0 $Fruitbodies fleshy-spongy, with blood-red juice when fresh $Fistulina
+210,211 $Fruitbodies not so (not fleshy-spongy, with blood-red juice when fresh )
+211,212 $Spores thick-walled
+211,213 $Spores thin-walled
+212,0 $Fruitbodies annual, flesh 2-layered, upper part soft, lower part firmer, fibrous, tough $Spongipellis
+212,0 $Fruitbodies perennial, tough and corky to hard and woody, tubes stratified $Perenniporia
+213,214 $Fruitbodies narrow, shelf-like, mostly projecting less than 2 cm from substrate
+213,218 $Fruitbodies other shapes, usually projecting further
+214,0 $Pores often slot-like and up to 5 × 0,1-l mm $Datronia
+214,215 $Pores mostly isodiametric, round or angular
+215,0 $Upper surface grey or greyish, fruitbodies in section seen to have a very dark, narrow zone between the pore layer and the flesh $Bjerkandera
+215,216 $Upper surface white at first, turning cream, ochraceous or brownish
+216,0 $Lower surface greyish pink to dark purplish or reddish brown, with white margin, tubes shallow, gelatinous, easily separated from white, cottony or felt-like flesh $Gloeoporus
+216,217 $not so (not Lower surface greyish pink to dark purplish or reddish brown, with white margin, tubes shallow, gelatinous, easily separated from white, cottony or felt-like flesh )
+217,0 $Spores curved 4,5-6 × 1-1,5 $Postia
+217,0 $Spores straight, 6 × 2 or larger $Antrodia
+218,219 $Fruitbodies thin, seldom more than 1 cm thick
+218,225 $Fruitbodies thick, 2-25 cm
+219,0 $Pores labyrinthine, much contorted, spores 5-7 long $Cerrena
+219,0 $Pores labyrinthine or with branched and anastomosing plates, spores 7-13 long $Gloeophyllum
+219,220 $Pores more or less isodiametric, round or angular
+220,0 $Fruitbodies saffron yellow to yellowish orange $Loweomyces
+220,0 $Fruitbodies cream to yellowish, waxy translucent $Antrodiella
+220,221 $Fruitbodies other colours, never yellowish
+221,0 $Upper surface of fruitbody usually velvety and zonate, sometimes markedly so, spores 5-7 × 1,5-3 $Trametes
+221,0 $Upper surface of fruitbody dark brown, reddish brown or greyish brown, covered with stiff hairs, zonate or not $Funalia
+221,222 $Upper surface of fruitbody seldom if ever clearly zonate
+222,0 $Pore surface yellow to cinnamon, pores very small, 8-11 per mm $Flaviporus
+222,223 $Pore surface not these colours, pores larger
+223,0 $Fruitbodies soft-fleshed, especially when young, white sometimes changing to blue or greyish $Postia
+223,224 $Fruitbodies leathery to corky, tough, or other colours
+224,0 $Upper surface white at first, sometimes becoming brown or dark brown with white edge, fruitbodies leathery or corky, tough, spores 3-5 × 0,5-1,5 $Skeletocutis
+224,0 $Upper surface milky-coffee coloured, spores 5-8 × 2,5-3 $Bjerkandera
+225,226 $Pores elongated radially, slot-like or Iabyrinthine
+225,228 $Pores more or less isodiametric, round or angular
+226,0 $Pore surface whitish or greyish, bruising pink or red, brown when very old $Daedaleopsis
+226,227 $Pore surface not bruising pink or red
+227,0 $Pores slot-like, 1-5 × 0,5-1 mm $Trametes
+227,0 $Pores labyrinthine $Daedalea
+228,229 $Fruitbodies hoof-shaped, very thick
+228,230 $Fruitbodies other shapes, somewhat thinner
+229,0 $Fruitbodies up to 50 × 25 cm and 25 cm thick, spores 15-22 long $Fomes
+229,0 $Fruitbodies smaller and not more than 15 cm thick, spores 6-9 long $Fomitopsis
+230,0 $Fruitbodies, when mature, with black, resinous crust $Ischnoderma
+230,231 $Fruitbodies brightly coloured
+230,232 $Fruitbodies dull colours or whitish
+231,0 $Fruitbodies pale pink to reddish or purplish brown, pore surface white or pinkish, bruising pink or violet $Leptoporus
+231,0 $Fruitbodies sulphur yellow to yellowish orange, very large, up to 50 cm across $Laetiporus
+231,0 $Fruitbodies cinnabar or reddish orange, turned black by KOH $Pycnoporus
+231,0 $Fruitbodies cinnamon to bright ochraceous, turned violet by KOH $Hapalopilus
+231,0 $Fruitbodies orange or brownish orange, turned red or carmine by KOH $Aurantioporus
+232,233 $Spores spherical or subspherical
+232,234 $Spores other shapes
+233,0 $Spores 4-5,5 diam., apically encrusted cystidia abundant, fruitbodies not more than 4 cm thick $Oxyporus
+233,0 $Spores 6-7,5 diam., cystidia subulate, not encrusted, fruitbodies up to 8 cm thick $Rigidiporus
+234,0 $Pores l-2 per mm, spores 7-10 × 3-4 $Trametes
+234,235 $Pores 2-3 per mm
+234,236 $Pores 3-4 per mm
+235,0 $Spores 6-9 × 2,5-4, usually on Quercus $Buglossoporus
+235,0 $Spores 4-6 × 3-4,5, mostly on Malus $Aurantioporus
+236,0 $Fruitbodies large, 5-30 × 5-20 cm, parasitic on Betula $Piptoporus
+236,237 $Fruitbodies smaller, not parasitic on Betula
+237,0 $Hyphae not metachromatic with cresyl blue $Tyromyces
+237,0 $Hyphae metachromatic with cresyl blue $Postia
+238,0 $Spores 4,5-6 long $Lenzites
+238,0 $Spores 7-13 long $Gloeophyllum
+239,0 $Basidia with 3 transverse septa, forms pink pustules on stromata of Diatrype stigma $Micogloea
+239,0 $Basidia without septa, fruitbodies large or very large, natural sponge- or cauliflower-like $Sparassis
+239,240 $Basidia with longitudinal septa
+239,241 $Basidia deeply divided forming 2 sterigmata and resembling tuning-forks
+240,0 $Spores fusiform to falcate, 15-25 × 6-7,5 $Efibulobasidium
+240,0 $Spores cylindrical, curved, with rounded ends, 9-23 × 4-7, basidia mostly with basal clamps $Exidia
+240,0 $Spores spherical or broadly ellipsoid, 5-l5 × 2-15, basidia mostly with basal clamps $Tremella
+240,0 $Spores of different shapes and sizes, basidia stalked, with clamp at base of stalk but not of basidium $Myxarium
+241,0 $On leaves of Scirpus sylvaticus, spores 1-septate $Dicellomyces
+241,0 $On wood and bark, spores with 0-10 transverse septa and occasionally 1 or 2 longitudinal septa, fruitbodies gelatinous, often orange $Dacrymyces
+242,0 $Basidia with 1-3 transverse septa and long sterigmata, embedded in stiff jelly and often difficult to see $Auricularia
+242,243 $Basidia without septa, not embedded in jelly
+243,0 $On stromata of Pyrenomycetes, especially Diatrype stigma $Epispharia
+243,0 $On dead grasses $Cellypha
+243,244 $On mosses
+243,246 $On other substrata
+244,0 $Spores reddish brown in mass, rough-walled, 7-10 diam. $Chromocyphella
+244,245 $Spores hyaline, smooth
+245,0 $Spores 3,5-4,5 long, cystidia present $Cyphellostereum
+245,0 $Spores 6 or more long, no cystidia $Leptoglossum
+246,247 $Fruitbodies usually very closely crowded together
+246,250 $Fruitbodies solitary or gregarious but not crowded together
+247,0 $Hairs on fruitbodies long, brown, thick-walled and encrusted with granules except at their thinner walled, usually pale, swollen tips $Merismodes
+247,248 $Hairs, when present, not so (not long, brown, thick-walled and encrusted with granules except at their thinner walled, usually pale, swollen tips )
+248,0 $Fruitbodies on a greyish stroma, spores spherical, 5-7 diam. $Stigmatolemma
+248,249 $No greyish stroma, spores usually other shapes or slightly smaller
+249,0 $Fruitbodies embedded in a soft, white or cream, cottony subiculum and resembling a poroid resupinate $Stromatoscypha
+249,0 $Fruitbodies without subiculum or stroma, white, tapered towards their bases, looking rather like batches of insect eggs $Henningsomyces
+250,0 $Spores ochraceous in mass, honey-coloured by transmitted light $Pellidiscus
+250,251 $Spores hyaline
+251,0 $Spores amyloid, with spiny walls, 20-30 × 20-25 $Aleurodiscus
+251,0 $Spores amyloid, smooth, allantoid, small $Plicaturopsis
+251,252 $Spores not amyloid, smooth
+252,0 $Hymenium bright red or wine colour, spores 12-15 × 4-5, on Salix $Cytidia
+252,253 $not so (not Hymenium bright red or wine colour, spores 12-15 × 4-5, on Salix  ), fruitbodies white or other colours
+253,0 $Spores allantoid, 8-12 × 2-3 $Auriculariopsis
+253,254 $Spores other shapes and sizes
+254,0 $Outer layer of fruitbody containing erect, coral-like hyphae which sometimes protrude, but with no distinct long hairs $Calyptella
+254,255 $Surface of fruitbody distinctly hairy
+255,0 $Hairs thick-walled, encrusted with crystals of calcium oxalate except towards the apex where they are smooth and often whip-like $Flagelloscypha
+255,0 $Hairs often adpressed, without smooth whip-like ends, walls thick, granulate $Lachnella
+256,257 $Fruitbodies cylindrical, spathulate, capitate, thread-, club-, top-, nail-, antler- or coral-shaped
+256,280 $Fruitbodies cyathiform, fan-, ear-, funnel-, or trumpet-shaped
+256,298 $Fruitbodies with cap and stalk, mushroom-shaped
+257,258 $Basidia with 1-3 transverse septa., fruitbodies always unbranched
+257,261 $Basidia with longitudinal septa
+257,262 $Basidia deeply divided to form 2 prongs or sterigmata, resembling tuning-forks, fruitbodies mostly yellow or orange, spores often septate
+257,266 $Basidia neither septate nor deeply divided
+258,0 $Basidia pear-shaped with one transverse or oblique septum, fruitbodies coremium-like, white or yellowish $Stilbum
+258,259 $Basidia elongated, with 3 transverse septa
+259,0 $On mosses, fruitbodies thread-like or narrowly clavate, spores fusiform or sickle-shaped, 18-25 × 4-5 $Eocronartium
+259,260 $Not on mosses, fruitbodies capitate
+260,0 $On rotten potatoes, fruitbodies white or whitish, with discoid tops, spores 14-17 × 7-9 $Pilacrella
+260,0 $On dead branches, fruitbodies pale brown or snuff colour, with subspherical tops, spores 8-10 × 7-9 $Pheogena
+261,0 $Fruitbodies top-shaped, black or blackish brown, spores large, allantoid, on branches of deciduous trees $Exidia
+261,0 $Fruitbodies branched, grey or greyish, Clavaria-like, on the ground, spores 10-22 x 5-8 µm $Tremellodendropsis
+262,0 $Fruitbodies branched or simple, when simple lanceolatc, cylindrical, spathulate or clavate, not top-shaped, capitae or discoid $Calocera
+262,263 $Fruitbodies either capitate, top-shaped or discoid, not branched
+263,264 $Only disc fertile
+263,265 $Disc and other parts fertile
+264,0 $Sterile surface with palisade of thick-walled elements $Guepiniopsis
+264,0 $Stalk and sterile part of head covered with slender, white hairs $Femsjonia
+265,0 $Stalk whitish or cream, covered with tomentum of thick-walled, rough, septate hairs; stalk rooted in substrate $Ditiola
+265,0 $not so (not  Stalk whitish or cream, covered with tomentum of thick-walled, rough, septate hairs; stalk rooted in substrate ) $Dacrymyces
+266,267 $Spores coloured, yellowish or brown, walls spiny or warted
+266,269 $Spores hyaline, walls smooth or rough
+267,0 $Fruitbodies unbranched, broadly top-shaped, lilac, rose or flesh colour $Gomphus
+267,268 $Fruitbodies branched,other colours
+268,0 $Fruitbodies soft-leathery, spores often subspherical, somewhat angular or irregularly lobed $Thelephora
+268,0 $Fruitbodies brittle or tough, spores ellipsoid, oblong-ellipsoid or fusiform $Ramaria
+269,270 $ Terrestrial, often growing amongst grass or mosses but in many different habitats 
+269,274 $On living or dead parts of plants
+270,0 $Basidia with 2 inwardly curved sterigmata, spores smooth-walled usually with 1 large guttule $Clavulina
+270,271 $Basidia all or mostly with 4 sterigmata, spores with smooth or rough walls, guttules large, small or absent
+271,0 $Hyphae without clamps, usually broad, normally without large guttules in the spores $Clavaria
+271,272 $Hyphae with clamps
+272,0 $Fruitbodies normally unbranched, 3-30 cm tall, spores mostly 10 or more long $Clavariadelphus
+272,273 $Spores always less than 10 long except in Clavulinopsis vernalis which has fruitbodies not more than 1,5 cm tall
+273,0 $Spores never more than 5,5 long, walls minutely spiny or warted $Ramariopsis
+273,0 $Spores often more than 5,5 long, walls mostly smooth, occasionally coarsely tuberculate or nodulose $Clavulinopsis
+274,275 $Fruitbodies repeatedly and often dichotomously or verticillately branched, bushy
+274,276 $Fruitbodies either unbranched or branched simply from the base
+275,0 $Spores amyloid, walls finely warted, cystidia present $Artomyces
+275,0 $Spores only weakly amyloid, walls smooth, no cystidia $Lentaria
+276,0 $Fruitbodies unbranched or branched from the base, very slender, needle- or bristle-like, sometimes forming dense tufts $Pterula
+276,277 $Fruitbodies unbranched, thread-like or slenderly or broadly club-shaped
+277,0 $Hyphae without clamps, some containing large oil drops, spores 3-4 × 2-3, subspherical, smooth to verruculose $Clavicorona
+277,278 $Hyphae with clamps, spores ellipsoid, longer, walls always smooth
+278,0 $Fruitbodies 0,5-2 mm tall, spores 4-6 × 2-3 $Ceratellopsis
+278,279 $Fruitbodies and/or spores larger
+279,0 $Fruitbodies very tall, up to 12-30 cm, never arising from sclerotia $Macrotyphula
+279,0 $Fruitbodies mostly shorter, often arising from sclerotia $Typhula
+280,0 $Basidia transversely septate, fruitbodies almost ear-shaped, reddish brown, flabby gelatinous, on branches, especially those of Sambucus $Auricularia
+280,0 $Basidia longitudinally septate, fruitbodies large, salmon pink sometimes flushed orange, on ground, mostly on buried wood or sawdust piles $Tremiscus
+280,0 $Basidia deeply divided to form 2 sterigmata, resembling tuning-forks, on wood and bark $Guepiniopsis
+280,281 $Basidia neither septate nor deeply divided
+281,282 $Hymenial surface smooth, radially wrinkled or with shallow, often forked veins or ribs
+281,290 $Hymenial surface with projecting teeth
+281,293 $Hymenial surface with pores
+282,0 $Fruitbodies lilac, rose or flesh colour $Gomphus
+282,283 $Fruitbodies other colours
+283,0 $Spores brown and echinulate $Thelephora
+283,284 $Spores not so (not brown and echinulate )
+284,285 $Hymenium with cystidia
+284,286 $Hymenium without cystidia
+285,0 $Cystidia thick-walled, fusiform, sharply pointed, fruitbodies growing on bonfire sites $Geopetalum
+285,0 $Cystidia cylindrical to narrowly clavate, fruitbodies growing on the ground, only rarely on bonfire sites $Cotylidia
+286,287 $Spores not more than 4 long
+286,288 $Spores not less than 7 long
+287,0 $Fruitbodies spathulate to fan-shaped, spores quite smooth $Stereopsis
+287,0 $Fruitbodies clavate to trumpet-shaped, spores often slightly verruculose $Clavicorona
+288,0 $Basidia with 2 spores $Craterellus
+288,289 $Basidia with 2-8, mostly 4 spores
+289,0 $Hyphae with clamps, not markedly constricted at septa $Cantharellus
+289,0 $Hyphae without clamps, markedly constricted at septa $Pseudocraterelleus
+290,291 $Spores hyaline
+290,292 $Spores brown or brownish, tuberculate
+291,0 $Spores with spiny walls, basidia with 4 spores $Phellodon
+291,0 $Spores with smooth walls, basidia 6-8-spored $Sistotrema
+292,0 $Flesh tough, fibrous, zoned $Hydnellum
+292,0 $Flesh brittle, not zoned $Sarcodon
+293,0 $Dark brown, thick-walled setae in hymenium $Onnia
+293,294 $No such setae in hymenium
+294,295 $Cystidia present in hymenium
+294,296 $No cystidia
+295,0 $Cystidia and basidia contain oil drops $Abortiporus
+295,0 $Cystidia and basidia without oil drops but cystidia often have brown, resinous contents $Phaeolus
+296,0 $Spores pale golden brown, upper surface of cap zonate $Coltricia
+296,297 $Spores hyaline, cap not zonate
+297,0 $Fruitbodies growing on the ground $Albatrellus
+297,0 $Fruitbodies almost always on wood $Polyporus
+298,299 $Hymenial surface smooth, radially wrinkled, or with shallow, often forked veins or ribs
+298,301 $Hymenial surface with projecting teeth
+298,306 $Hymenial surface with pores
+299,0 $Piggyback toadstools which form chlamydospores and grow on old, rotting specimens of Russula and Lactarius $Asterophora
+299,300 $not so (not Piggyback toadstools which form chlamydospores and grow on old, rotting specimens of Russula and Lactarius )
+300,0 $Spores J +, 7,5-9 long $Delicatula
+300,0 $Spores J - , 15-25 long $Gloiocephala
+301,0 $On pine cones, stalk usually excentric $Auriscalpium
+301,302 $Not on pine cones, stalk commonly although not always central
+302,303 $Spores brown of brownish, tuberculate
+302,304 $Spores hyaline
+303,0 $Flesh rough, fibrous, zoned $Hydnellum
+303,0 $Flesh brittle, not zoned $Sarcodon
+304,0 $Spores with smooth walls $Hydnum
+304,305 $Spores with echinulate or verruculose walls
+305,0 $Flesh not zoned, hyphae with swellings $Bankera
+305,0 $Flesh zoned, hyphae without swellings $Phellodon
+306,307 $Fruitbodies with flesh often tough, leathery or corky, if soft not soon decaying
+306,312 $Fruitbodies with flesh soft, often spongy, soon decaying
+307,0 $Dark brown, thick-walled setae in hymenium $Onnia
+307,308 $No such setae present in hymenium
+308,0 $Spore walls tuberculate $Boletopsis
+308,309 $Spore walls smooth
+309,0 $Spores pale golden brown $Coltricia
+309,310 $Spores hyaline
+310,0 $Large clavate or subulate cystidia, often with brown resinous contents, present in hymenium $Phaeolus
+310,311 $No such cystidia in hymenium
+311,0 $Fruitbodies growing on the ground $Albatrellus
+311,0 $Fruitbodies almost always on wood $Polyporus
+312,0 $Cap grey to olivaceous black, covered with thick, woolly-floccose scales; spores purplish black, almost spherical, with reticulate walls $Strobilomyces
+312,313 $not so (not Cap grey to olivaceous black, covered with thick, woolly-floccose scales ; spores purplish black ), spores always longer than broad
+313,314 $Stalk with ring
+313,315 $Stalk without ring
+314,0 $Cap tomentose to fibrillose scaly, tubes short, distinctly decurrent, pores large and radially orientated $Boletinus
+314,0 $Cap distinctly glutinous to viscid $Suillus
+315,0 $Spores 4,5-6 long, always growing with Alnus $Uloporus
+315,0 $Stem covered with scales which darken with age, tubes and pore surface mostly white or off-white, if lemon yellow always bruising black $Leccinum
+315,316 $not so (not Stem covered with scales which darken with age, tubes and pore surface mostly white or off-white, if lemon yellow always bruising black  )
+316,317 $Cap glutinous to viscid
+316,318 $Cap sometimes slightly viscid when quite young but soon becoming dry, velvety, tomentose or smooth
+317,0 $Cystidia on tube margin large and mostly filled with bright yellow sap, $spores 11-17 longAureoboletus
+317,0 $Cystidia in fascicles, becoming encrusted, spores mostly less than 12 long, stem often with glands at apex or throughout $Suillus
+318,0 $Spores in mass lemon yellow, pores very small, round, white then lemon yellow $Gyroporus
+318,0 $Spores in mass pink or pinkish, pores broad and angular, becoming pink or pinkish $Tylopilus
+318,0 $Spores in mass purplish brown, pores vinaceous buff bruising bluishgreen $Porphyrellus
+318,0 $Spores in mass usually olive to olivaceous or snuff brown, occasionally ochraceous or rust, pore surface often brightly coloured, yellow or red and frequently bruising blue, green or violet $Boletus

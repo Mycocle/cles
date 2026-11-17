@@ -1,0 +1,559 @@
+titre$ Corticiaceae d’Europe du Nord, Leif Ryvarden & al
+com$The Corticiae of NorthEurope Vol 1, trad X, adapt GF oct 09
+
+1,CS1 $ Spores amyloïdes $ Groupe A Clé page 2
+1,2 $ Spores non amyloïdes
+2,CS2$ Basides bouclées $ Groupe B Clé condensée page 1, n° 3 et clé page 3
+2,cs3 $ Basides non bouclées $ Groupe C Clé condensée page 2, n° 26 et clé page 12
+
+
+CS1,0$
+1,2 $ Spores lisses
+1,19 $ Spores ornementées
+2,3 $ Espèces non bouclées $ .3
+2,8 $ Espèces bouclées
+3,0 $ Pas de cystides $ Hypochnella
+3,4 $ Cystides présentes
+4,0 $ Espèce avec dendrophyses et spores à parois épaisses $ Dendrothele alliacea
+4,5 $ Espèces sans dendrophyses et spores à parois minces
+5,0 $ Fructifications de petites dimensions, épaise de moins de 0,5 mm, spores grandes 12-15 x 6-8 µm $ Aleurodiscus fennicus
+5,6 $ Fructifications normales, spores 5-10(12) x 3-5 µm
+6,0 $ Avec pseudocystides à parois minces, pas d'autres formes de cystides $ Gloeocystidiellum
+6,7 $ Avec pseudocystides à parois épaisses, pointues et/ou acanthocystides présentes
+7,0 $ Fructifications en mosaïque, produisant une pourriture blanche $ Xylobolus
+7,0 $ Fructifications non ou indistictement tesselées, pas de pourriture blanche $ Stereum
+8,9 $ Avec des cystides
+8,13 $ Sans cystides
+9,0 $ Avec acanthophyses $ Aleurodiscus
+9,10 $ Sans acanthophyses
+10,0 $ Spores à parois épaisses, cystides dispersées $ Leucogyrophana mollis
+10,11 $ Spores à parois minces, cystides plus nombreuses
+11,0 $ Cystides fortement incrustées, apparence de métuloïdes $ Amylostereum
+11,12 $ Cystides d'aspect différent
+12,0 $ Cystides très différenciées, réagissant  à la sulfovanilline $ Gloeocystidiellum
+12,0 $ Cystides moins différenciées, réaction négative à la sulfovanilline $ Amylocorticium
+13,14 $ Fructifications lisses
+13,17 $ Fructifications hydnoïde, plissée ou lamellée-veinée, souvent piléée ou cupulée
+14,0 $ Spores à paroi épaisse, en général avec une faible réaction amyloïde (grisâtre) $ Leucogyrophana
+14,15 $ Spores à paroi mince, en général avec une forte réaction amyloïde
+15,0 $ Spores en forme de haricot ou de rein $ Melzericium
+15,16 $ Spores de formes différentes
+16,0 $ Basides pédonculées, fructifications pelliculaires, lâchement adnées $ Amylocorticium cebennenseVoir aussi Athelopsis lacerata
+16,0 $ Pleurobasides présentes, fructifications gélatineuses solidement attachées au substrat $ Phlebiella
+17,0 $ Spores larges de 2-2,5 µm, fortement amyloïdes, fructifications piléées, dimidiées, sub-stipitées, sur Pinus $ Irpicodon
+17,18 $ Spores larges de 0,75-1,25 µm, en général faiblement amyloïdes, sur feuillus
+18,0 $ Hyménophore lamellé-veiné $ Plicaturopsis
+18,0 $ Hyménophore irrégulièrement plissé $ Plicatura
+19,20 $ Pas de boucles
+19,21 $ Boucles présentes
+20,0 $ Grandes spores 20-25 x 13-20 µm $ Aleurodiscus
+20,0 $ Spores plus petites $ Gloeocystidiellum
+21,22 $ Espèces dimitiques (ou trimitiques)
+21,23 $ Espèces monomitiques
+22,0 $ Fructifications épaisses, stratifiées, cystides coniques et fortement incrustées $ Laurilla
+22,0 $ Fructifications fines, pelliculeuses, cystides non métuloïdes $ Scytinostromella
+23,24 $ Spores 8-17 x 5-12 µm
+23,26 $ Spores 4,5-7 x 2,5-3,5 µm
+24,0 $ Basides avec 2 stérigmates $ Aleurodiscus norvegicus
+24,25 $ Basides avec 4 stérigmates
+25,0 $ Spores 15-17 x 10-12 µm $ Aleurodiscus disciformis
+25,0 $ Spores 8-10 x 7-8 µm $ Pseudoxenasma
+26,0 $ Fructifications résupinées à réfléchies, hyphes de la trame brun clair, cystides ne réagissant pas au réactifs sulfoaldéhides $ Laxitextum
+26,0 $ Fructifications résupinées, pas de trame, hyphes du subiculum hyalines, cystides réagissant au réactifs sulfoaldéhides $ Gloeocystidiellum
+
+
+
+Cs2,0$
+
+1,2 $ Spores ornementées, lobées ou triangulaires
+1,15 $ Spores lisses
+2,3 $ Cystides présentes
+2,5 $ Pas de cystides
+3,0 $ Avec lyocystides, à deux - ou plus - racines $ Litschauerella
+3,4 $ Avec d'autres sortes de cystides
+4,0 $ Spores ponctuée our striée dans le Melzer, .apparamment lisse dans KOH, pleurobasides, tissus serré $ Xenasma
+4,0 $ Spores et basides sans ces caractères, tissu lâche $ Hypochnicium
+5,0 $ Boucles dispersées ou manquantes sur les hyphes basales, basides avec des granulations cyanophiles $ Lindtneria
+5,6 $ Boucles présentes partout, basides sans granulations cyanophiles
+6,0 $ Fructifications poroïdes $ Trechispora mollusca
+6,7 $ Fructifications non poroïdes
+7,0 $ Basides avec 2(4) stérigmates, spores 5-8 µm de long, tétraédriques $ Xenosperma
+7,8 $ Basides avec plus de 2 sterigmates
+8,0 $ Basides avec 6-8 sterigmates, spores 4,5-5 µm, tétraédriques $ Sistotrema subtriguospermum
+8,9 $ Basides avec 4 stérigmates, spores non tétraédriques
+9,0 $ Spores ronde, finement verruqueuses $ Hypochnicium vellereum
+9,10 $ Spores subfusiformes à ellipsoïdes
+10,11 $ Parois sporiques ou verrues fortement cyanophiles
+10,12 $ Spores non cyanophiles
+11,0 $ Fructifications hydnoïdes $ Kavinia alboviridis
+11,0 $ Fructifications lisses $ Ramaricium
+12,0 $ Pleurobasides ; tissu dense ou au moins avec des hyphes plus ou moins agglutinées $ Phlebiella
+12,13 $ Basides terminales, tissue lâche; hyphes non agglutinées
+13,0 $ Fructifications assez tenace,  spores irrégulièrement  lobée ou avec quelques excroissances, hyphes sans renflements ampullacés $ Tylospora
+13,0 $ Fructifications plûtôt fragile, spores echinulées ou avec quelques excroissances, hyphes avec des renflements ampullacés $ Trechispora
+15,16 $ avec  cystides
+15,144 $ Pas de cystides
+16,17 $ avec lyocystides,  avec deux - ou plus - racines
+16,18 $ Cystides autres
+17,0 $ Spores vermicuIaires, cystides à plusieurs racines $ Tabulicium
+17,0 $ Spores différentes. Cystides ordinairement à deux racines $ Tubulicrinis
+18,0 $ Basides avec deux stérigmates $ Clavucinium macounii
+18,19 $ Basides avec 4-8 sterigmates
+19,0 $ Basides avec plus de  4 sterigmates $ Sistotroma
+19,20 $ Basides normalement avec 4 sterigmates
+20,0 $ Basides et spores très longues, respectivement 80-100 et 20 µm, commun sur les branches tenant encore à l'arbre de feuillus $ Vuilleminia
+20,21 $ Basides et spores plus petites
+21,22 $ Dendrophyses présentes
+21,24 $ Pas de dendrophyses
+22,0 $ Fructifications odontoïdes, spores petites, 3.5-4.5 x 2-2.5 µm $ Cystostereum subabruptus
+22,23 $ Fructifications lisses ou irrégulièrement tuberculeuses, spores grandes
+23,0 $ Cystides saillantes, dépassant les basides de plus de 30 µm , sans réaction sulfoaldéhyde $ Laeticorticium
+23,0 $ Cystides non ou très peu saillantes, avec réaction sulfoaldéhyde $ Peniophora
+24,25 $ Système hyphal dimitique
+24,45 $ Système hyphal monomitique
+25,26 $ Fructifications odontoïdes, hydnoïdes ou subporoïdes
+25,35 $ Fructifications lisses ou tuberculeuses
+26,0 $ Avec des pseudocystides fortement incrustées $ Steccherinum
+26,27 $ Autres sortes de cystides
+27,0 $ Fructifications irpicoïdes à subporoïdes $ Schizopora
+27,28 $ Fructifications odontioïdes à  hydnoïdes
+28,0 $ Gloéocystides nombreuses, fructifications avec de petits aiguillons longs de 0,5 mm $ Cystostereum subabruptum
+28,29 $ Avec d'autres formes de cystides ou avec des cystidioles seulement
+29,0 $ Espèces coriaces, cystides très différenciées coiffées d'une gouttelette résineuse $ Mycoaciella
+29,0 $ Espèces tendres et molles, pas de cystides mais des cystidioles dans les parties sommitales $ Fibrodontia
+35,36 $ Avec pseudocystides brunes
+35,37 $ Sans telles cystides
+36,0 $ Pseudocystides fortement incrustées, spores 6-8 x 3-5 µm. Espèces rares des feuillus . $ Lopharia
+36,0 $ Pseudocystides non métuloïdes. Spores 9-13 x 4-5 µm, Espèces communes sur épicéas. $ Columnocystis
+37,0 $ Spores allantoïdes $ Dacryobolus karstenii
+37,38 $ Spores de  formes différentes
+38,0 $ Spores fusiformes, cystides ventrues $ Merulicium
+38,39 $ Spores et cystides de formes différentes
+39,0 $ Hyphes squelettiques fortement cyanophiles, pas de cystides, mais des cystidioles éparses entre les basides $ Filbriciellum
+39,40 $ Hyphes squelettiques non cyanophiles, cystides bien différenciées
+40,0 $ Fructifications distinctement stratifiées, cystides vésiculeuses,  peu émergentes ou incluses $ Cystostereum murraii
+40,0 $ Fructifications non stratifiées, cystides saillantes, obtusément coniques $ Fibricium
+45,46 $ Fructifications plissées-réticulées, poroïdes, grandinoïdes, ou hydnoïdes
+45,75 $ Fructifications lisses mais quelques espèces sont poilues par émergence des cystides ou les fructifications sont  colliculose
+46,47 $ Fructifications méruloïdes ou poroïdes
+46,49 $ Fructifications grandinoïdes, odontoïdes ou hydnoïdes
+47,0 $ Cystides fortement incrustées encrusted $ Phlebia lindtneri
+47,48 $ Cystides de formes différentes
+48,0 $ Spores 4-4.5 x 1-1.5 µm, avec cystides $ Merulius
+48,0 $ Spores 4-6.5 x 1.5-2.5 µm, cystides en principe non hyméniales, ni émergentes ou marginales $ Phlebia
+49,50 $ Spores alIantoïdes, large de moins de 2 µm
+49,52 $ Spores de formes différentes, si alIantoïdes plus larges que 2.5-3 µm
+50,0 $ Aiguillons exsudant des gouttes d'un liquide visqueux, basides évidemment réduite au niveau des stérigmates $ Dacryobolus sudans
+50,51 $ Aiguillons et basides ne présentant pas ces caractères
+51,0 $ Spores très courbes 4-5 µm de long $ Chaetoporellus curvisporus
+51,0 $ Spores allantoïdes de 6-8 µm de long $ Hyphodontia
+52,0 $ Fructifications irpicoïdes à subporoïdes $ Schizopora
+52,53 $ Fructifications de formes différentes
+53,54 $ Seulement des cystides aculéolées à parois épaisses, ou des hyphes pénétrantes, si les cystides sont septées voir 55
+53,55 $ Cystides de formes différentes
+54,0 $ Hyphes aculéolées.de 2.5-3.5 µm, espèces dimitiques (ou subdimitiques) $ Fibrodontia
+54,0 $ Hyphes aculéolées ou cystides 5-8 µm, espèces monomitiques $ Hyphodontia
+55,0 $ Cystides septées, avec une boucle à chaque cloison $ Hyphoderma setigerum
+55,56 $ Cystides non septées
+56,57 $ Cystides de deux sortes
+56,62 $ Une seule forme de cystides
+57,58 $ Spores grande, longue de 9-15 µm
+57,59 $ Spores plus petites
+58,0 $ Cystides.à parois fines et échinocystides présentes $ Hyphoderma  echinocystis
+58,0 $ Metuloïdes et sulphocystides.présentes $ Peniophora lacta
+59,0 $ Fructifications grandinoïdes, cystides fortement incrustées et petites sulphocystides fusiformes présentes $ Metulodontia
+59,60 $ Fructifications odontioïdes, pas de sulphocystides
+60,0 $ Spores 3-4 x 2-2.5 µm avec des cystides vésiculeuses  - semblables à des gloeocystides - et   cystides effilées $ Physodontia
+60,61 $ Spores grandes, cystides.autres
+61,0 $ Spores 4.5-6 x 3.5-4 µm, avec lagénocystides et cystides capitées. $ Hyphodontia arguta
+61,0 $ Spores 5,5-8 x 2,5-3,5 µm, avec nombreuses asterocystides et halocystides capitées $ Resinicum bicolor
+62,0 $ Spores petites, 3.5-4.5 x 2-2.5 µm, gloeocystides nombreuses $ Cystostereum subabruptum
+62,63 $ Autres caractéristiques
+63,64 $ Spores 9-15 µm de long, ellipsoïdes à allantoïdes
+63,66 $ Spores plus courtes de formes différentes
+64,0 $ Fructifications odontioïdes avec aiguillons épars, moyennement ferme $ Hyphoderma echinocystis
+64,65 $ Fructifications tuberculeuses à raduloïdes, espèces fermes
+65,0 $ Spores subcylindriques, cystides réagissant à la sulphoaldéhyde $ Peniophora laeta
+65,0 $ Spores allantoïdes, cystides sans cette réaction $ Hyphoderma radula
+66,67 $ Cystides capitées
+66,68 $ Cystides de formes différentes
+67,0 $ Cystides avec un halo $ Resinicium pinicola
+67,0 $ Cystides sans halo, mais avec le sommet  incrusté $ Hyphodontia
+68,0 $ Cystides fortement incrustées $ Phlebla queletii
+68,69 $ Cystides de formes différentes
+69,0 $ Spores rondes, avec parois épaissies $ Radulodon
+69,70 $ Spores de formes différentes
+70,0 $ Fructifications grandinoïdes, basides à répétitions internes $ Hyphodontia crustosa
+70,71 $ Fructifications odondoïdes ou hydnoïdes, sans basides à répétitions internes
+71,0 $ Fructifications dure et fragile, petits aiguillons ou légèrement fimbrié $ Mycoacia
+71,0 $ Fructifications fibreuse et moyennement coriace, aiguillons raduloïdes (gros aiguillons irréguliers) $ Hyphodontia quercina
+75,76 $ Spores à parois épaisses
+75,80 $ Spores à parois fines
+76,0 $ Spores dextrinoïdes $ Jaapia
+76,77 $ Spores  non dextrinoïdes
+77,0 $ Spores grises dans le Melzer $ Leucogyrophana mollis
+77,78 $ Spores non grises dans le Melzer
+78,0 $ Cystides septées avec boucles à chaque cloison $ Hypochnicium polonense
+78,79 $ Cystides not septées
+79,0 $ Cystides fortement incrustées, fructifications souvent accompagnées de la forme conidienneAegerita candida $ Bulbillomyces
+79,0 $ Cystides non fortement incrustées $ Hypochnicium
+80,81 $ Avec basides à répétition
+80,82 $ Sans basides à répétition
+81,0 $ Basides subcylindriques, cintrées, waisted, à répétitions inconstantes $ Galizinia incrustans
+81,0 $ Basides subglobuleuses à piriformes, visiblement à répétition $ Repetobasidium
+82,83 $ Cystides incrustées
+82,100 $ Cystides lisses ou incrustées avec des exudations résineuses
+83,0 $ Spores en forme de croissant 12-16 X 4-6 µm $ Chaetoderma
+83,84 $ Spores de formes différentes
+84,0 $ Avec pseudocystides brunes incrustées à l'apex $ Lopharia
+84,85 $ Cystides de formes différentes
+85,0 $ Lagénocystides présentes,  autres espèces de cystides lisses $ Hyphodontia
+85,86 $ Pas de lagenocystides
+86,87 $ Cystides septées avec boucles à chaque cloison
+86,88 $ Cystides non septées
+87,0 $ Spores longues de 7-13 µm $ Hyphoderma setigerum
+87,0 $ Spores longues de 4-5 µm $ Amphinema
+88,89 $ Spores subglobuleuses à ellipsoïdes, vers  6-7 µm
+88,92 $ Spores allantoïdes, en S,   sub-cylindriques plus longue que 7 µm
+89,0 $ Cystides surtout capitées.  Fructifications blanc pur $ Hyphoderma sambuci
+89,90 $ Cystides métuloïdes ou à sommet obtus, Fructifications non blanc pur
+90,0 $ Tissue dense, hyphes agglutinées $ Phlebia
+90,91 $ Tissue lâche, hyphes en principe non agglutinées
+91,0 $ Avec des cystides incrustées et de petites sulphocystides $ Metulodontia
+91,0 $ Avec seulement des cystides incrustées $ Ceraceomyces
+92,0 $ Cystides.en spirales et incrustées, spores fusiformes ou en forme de S $ Subulicystidium
+92,93 $ Cystides et spores de formes différentes
+93,0 $ Avec pleurobasides, fructifications minces et discrètes $ Lepidomyces
+93,94 $ Basides terminales, fructifications en général épaisses et bien visibles
+94,95 $ Cystides d'uns seule sorte
+94,96 $ Cystides de deux sortes
+95,0 $ Hymènophore poilu par émergence des cystides. spores avec plusieurs gouttes huileuses $ Hyphoderma
+95,0 $ Hymènophore lisse ou indistinctement poilu, cystides non  ou faiblement saillantes. Gouttes huileuses des spores non visibles $ Peniophora
+96,0 $ Cystides réagissant aux sulphoaldéhydes $ Peniophora
+96,97 $ Cystides ne réagissant pas aux sulphoaldéhydes
+97,0 $ Métuloïdes nombreuses, tissu moyennement dense $ Peniophora
+97,0 $ Metuloïdes rares ou manquantes, tissu plutôt lâche $ Hyphoderma
+100,0 $ Fructifications piléées, stratifiées et avec un tomentum distinct, cystides fusoïdes, hyphes  vésiculeuses abondantes dans le tissu subhyménial $ Chondrostereum
+100,101 $ Pas cet ensemble de caratères
+101,102 $ Spores alIantoïdes ou cylindriques de moins de  2,5 µm de large
+101,115 $ Spores de formes différentes et/ou plus larges que 2,5 µm
+102,103 $ Cystides à parois épaisses
+102,105 $ Cystides à parois fines
+103,0 $ Cystides subulées $ Phlebia segregata
+103,104 $ Cystides obtuses
+104,0 $ Cystides (pseudocystides) à parois gonflant avec le KOH, espèce dimitique $ Dacryobolus karstenii
+104,0 $ Cystides sans réactions à  KOH, espèce monomitique $ Hyphodontia
+105,106 $ Cystides subulées
+105,108 $ Cystides.obtuses
+106,0 $ Hymenophore pointillé de gouttes rouges exudant des  cystides $ Hyphoderma pallidum
+106,107 $ Hymènophore sans gouttes rouges
+107,0 $ Fructifications en général  blanc pur, cystides of deux sortes, subulées et en profondeur moniliformes $ Hyphodontia hastata
+107,0 $ Fructifications chamois pâle à ochracées ou rougeâtres, cystides d'une seule sorte $ Phlebia
+108,0 $ Cystides vraies manquantes, mais avec des hyphes terminales et des basides à répétitions intérieures $ Galzinia incrustans
+108,109 $ Cystides bien différentiées, basides pas à répétition
+109,0 $ Hyménophore taché par des exudations  brunâtres provenant des cystides $ Hyphoderma macedonicum
+109,110 $ Hymenophore sans exudations  brunâtres
+110,0 $ Cystides de deux sortes capitées et monoliformes $ Hyphodontia halonata
+110,111 $ Cystides d'un seule sorte
+111,0 $ Basides urniformes, cystides à contenu granuleux ou huileux $ Sistotrema sernanderi
+111,0 $ Basides clavées, cystides normales $ Phlebia
+115,116 $ Cystides septées, avec une boucle à chaque cloison
+115,120 $ Cystides de formes différentes
+116,0 $ Spores fusiformes, 13-11 µm  de long $ Suillosporium
+116,117 $ Spores de formes différentes
+117,0 $ Spores grandes, 6-9 µm $ Atheloderma
+117,118 $ Spores plus petites, 3-4,5 µm
+118,0 $ Cystides très éparses, fructifications pelliculeuses, fragile $ Ceraceomycea sublaevis
+118,119 $ Cystides nombreuses ou nettement visibles
+119,0 $ Fructifications moyennement dures et souples, veloutées par l'émergence des cystides $ Amphinema
+119,0 $ Fructifications ni souples, ni veloutées $ Hyphodontia
+120,0 $ Pleurobasides, lisses dans KOH, mais rugueuses ou striées dans le Melzer $ Xenasma
+120,121 $ Basides terminales, spores lisses aussi bien dans le Melzer que dans le KOH
+121,0 $ Cystides à parois nettement épaisses sauf dans la partie supérieure $ Hyphodontia alienata
+121,122 $ Cystides à parois fines ou avec un épaississement  léger
+122,0 $ Spores en pépin, guttulées, protoplasme des hyphes rempli de gouttelettes huileuses $ Cylindrobasidium
+122,123 $ Autre combinaison de caratères
+123,0 $ Spores subfusiformes ou amygdaliformes, cystides fusiformes, souvent ornée $ d'une papilleCoronicium gemmiferum
+123,124 $ Spores et cystides de formes différentes
+124,125 $ Cystides saillantes et capitées
+124,128 $ Cystides de forme différente
+125,0 $ Avec halocystides, fructifications fendillées $ Resinicium furfuraceum
+125,126 $ Cystides et ructifications de formes différentes
+126,0 $ Fructifications très minces, basides petites, 7-10 x 5-6 µm $ Sphaerobasidium
+126,127 $ Fructifications et basides de formes différentes
+127,0 $ Spores 4,5-7 µm, fructifications blanc pur $ Hyphoderma sambuci
+127,0 $ Spores 8-11 µm, fructifications grises, crème ou ochracées $ Hyphoderma
+128,129 $ Cystides cylindriques, s'évasant au sommet ou se rétrécissant fortement
+128,135 $ Cystides de formes différentes, à sommet surtout effilé
+129,0 $ Cystides à cotenu granuleux ou huileux, basides urniformes $ Sistotrema sernanderi
+129,130 $ Cystides et basides de formes différentes
+130,0 $ Avec quelques dendrophyses $ Laeticorticium expallens
+130,131 $ Sans dendrophyses
+131,0 $ Hyphes du contexte et spores jaunissants in KOH, fructifications ochracées à safran. $ Crustoderma
+131,132 $ Sans ces combinaisons de caractères
+132,0 $ Spores subfusiforrnes 6-9 x 2.5-3 µm, pointues à la base $ Phlebia griseoflavescens
+132,133 $ Spores de formes différentes
+133,0 $ Fructifications dures et cornée, contexte dense $ Phlebia
+133,134 $ Fructifications tendres,  contexte lâche
+134,0 $ Cystides réagissant au sulphoaldéhyde $ Peniophora laeta
+134,0 $ Cystides ne réagissant pas au sulphoaldéhyde $ Hyphoderma
+135,0 $ Cystides fortement incrustées avec desexudations résineuses, fructifications rouge-orange $ Phlebia femsioeensis
+135,136 $ Autre combinaison de caractères
+136,0 $ Gloeocystides vésiculeuses nombreuses; fructifications tuberculeuses $ Cystostereum murraii
+136,137 $ Autre combinaison de caractères
+137,0 $ Spores 12-15 x 7-9 µm, Cystides réagissant au sulphoaldéhyde $ Peniophora lilacea
+137,138 $ Spores plus petites. Cystides ne réagissant pas au sulphoaldéhyde
+138,0 $ Hymènophore pointillé de gouttes rouges ou brunes exudant des  cystides $ Hyphoderma
+138,139 $ Hymènophore sans ponctuations rougeâtres ni brunes
+139,0 $ Cystides nombreuses; larges de 2-3 µm, flexueuses et effilées au sommet $ Hyphodontia juniperi
+139,0 $ Cystides 5-12 de large, si effilées pas distinctement flexueuses $ Phlebia
+144,0 $ Boucles ouvertes, ansiformes $ Paullicorticium ansatum
+144,145 $ Boucles d'apparence normale
+145,146 $ Spores à parois épaisses
+145,160 $ Spores à paris fines
+146,0 $ Basides avec  plus de 4 sterigmates, en général 6-8, paroi sporale cyanophile $ Sistotremella perpusilla
+146,147 $ Basides avec  (2-)4 sterigmates
+147,0 $ Fructifications méruloïdes (ou parfois lisses), spores jaunâtre dans KOH, cyanophiles $ Leucogyrophana pseudomollusca
+147,148 $ Autre combinaison de caractères
+148,0 $ Spores fusiformes, 20-30 µm, fructifications munies d'aiguillons stériles $ Epithete typhae
+148,149 $ Spores plus petitesr, fructifications lisses, si non les aiguillons portent des basides
+149,0 $ Basides avec  2 (-4) sterigmates, sur l'écorce des arbres vivant. $ Dendrothele commixta
+149,150 $ Autre combinaison de caractères
+150,0 $ Fructifications nettement hydnoïdes avec des aiguillons de 5-20 mm de long, spores non cyanophiles $ Sarcodontis
+150,151 $ Fructifications non nettement hydnoïdes, spores nettement cyanophiles
+151,0 $ Basides avec des granulations cyanophiles $ Cristinia
+151,152 $ Basides sans granulations cyanophiles
+152,0 $ Fructifications gris-bleu ou jaunâtres, tendres, byssoïdes, sans boucles ou alors queques unes sur les hyphes basales $ Byssocortiicium
+152,153 $ Autre combinaison de caractères
+153,0 $ Basides 10-15 µm de long long, fructifications peu épaisses, byssoïdes à pelliculaires avec un subiculum très mince $ Leptosporomyces ovoideus
+153,154 $ Basides et basdiocarpes de formes différentes
+154,0 $ Contexte dense, basides pédonculée $ Intextomyces
+154,155 $ Contexte lâche. Basides non pédonculée
+155,0 $ Spores grisonnantes dans la Melzer $ Leucogyrophana
+155,0 $ Spores non grisonnantes dans la Melzer $ Hypochnicium
+160,161 $ Basides avec plus de 4 stérigmates
+160,166 $ Basides avec 2-4 stérigmates
+161,0 $ Fructifications stipitée, sub-lamellées.ou irpicoïdes, sur le sol $ Sistotrema confluens
+161,162 $ Fructifications résupinées, en principe sur bois
+162,0 $ Basides urniformes, souvent larges de plus de 7 µm, avec  6-8 stérigmates, hyphes avec des gouttelettes huileuses $ Sistotrema
+162,163 $ Basides non distinctement urniformes, normalement avec 6 sterigmates, si suburniformes alors moins marges que 7 µm, hyphes sans gouttelettes huileuses
+163,0 $ Fructifications évidentes, basides.âgées avec des stérigmates rabougris recourbés vers l'intérieur $ Sistotremastrum
+163,164 $ Sans cette combinaison de caractères
+164,0 $ Fructifications  très fines et difficilement visible, basides presque coniques $ Paullicorticium
+164,165 $ Fructifications plus épaisse ou en toile d'araignée, basides en principe résistante, subcylindriques ou suburniformes
+165,0 $ Hyphes basales pigmentées de brun $ Sistotrema heteronemum
+165,0 $ Hyphes basales hyalines $ Botryobasidium
+166,167 $ Basides en principe avec 2 stérigmates
+166,169 $ Basides en principe avec 4 stérigmates
+167,0 $ Spores allantoïdes, 7-12 µm de long, fructifications non souples $ Cerinomyces
+167,168 $ Spores et fructifications de formes différentes
+168,0 $ Basides suburniformes, spores ellipsoïdes à subfusiformes, 10-18 µm de long $ Sistotrema autumnale
+168,0 $ Basides clavées, spores en général  ellipsoïdes à cylindriques, 10-13 µm $ Athena sibirica
+169,170 $ Dendrophyses présentes
+169,174 $ Dendrophyses absentes
+170,0 $ Avec répétobasides $ Repetobasidiellum
+170,171 $ Sans répétobasides
+171,0 $ Fructifications bleues $ Pulchericcium
+171,172 $ Fructifications de couleurs différentes
+172,0 $ Hyphes du subiculum brunes ou brunâtres, dendrophyses hyaline jeune, puis brun-jaunâtre $ Punctularia
+172,173 $ Hyphes du subiculum hyalines et dendrophyses hyalines, si jaunâtre pale. Alorsfructifications rouge vif
+173,0 $ Fructifications ressemblant à une pezize, rouge-orange ou rouge sombre, spores allantoïdes, 12-18 x 4-5 µm $ Cytidia
+173,0 $ Fructifications de forme différente, spores plus petiter, générallement ellipsoïdes $ Laeticorticium
+174,0 $ Fructifications avec un chapeau $ Auriculariopsis
+174,175 $ Fructifications resupinées, si piléée or subpiléées, alors avec des lames plissées
+175,0 $ Spores grandes, 12-20 µm long, aIIantoïdes, syr branches tenat à l'arbre de feuillus $ Vuilleminia
+175,180 $ Spores plus petites
+180,181 $ Espèces dimitiques
+180,183 $ Espèces monomitiques
+181,0 $ Fructifications plus ou moins lisses, hyphes squelettiques fortement cyanophiles $ Fibricellium
+181,182 $ Fructifications odontioïdes ou hydnoïdes, hyphes squelettiques cyanophiles
+182,0 $ Fructifications molles,  généralement blanches $ Fibrodontia
+182,0 $ Fructifications dures, généralement jaunâtre pâle ou ochracé $ Mycoaciella
+183,0 $ Spores à répétition $ Hydrabasidium
+183,184 $ Spores non à répétition
+184,185 $ Fructifications grandinioïdes, odontioïdes, hydnoïdes ou raduloïdes
+184,194 $ Fructifications poroïdes, plissées-réticulées ou lisses
+185,0 $ Spores 8-12 x 4-5 µm, subcylindriquesl, hyphes avec  de nombreuses excroissances cyanophiles $ Kavinia himantia
+185,186 $ Spores plus courtes que 8 µm ou globuleuses à ellipsoïdes, hyphes sans. excroissances cyanophiles
+186,0 $ Fructifications avec des aiguillons stériles, sur fougères $ Epithele galzinii
+186,187 $ Fructifications différentes, en général sur bois
+187,0 $ Fructifications grandinioïdes, hyphes subhyméniales isodiamétriques $ Brevicellicium olivascens
+187,188 $ Pas cette combinaison de caractères
+188,189 $ Spores allantoïdes à étroitement ellipsoïdes, larges de moins de 2.5 µm
+188,192 $ Spores subglobuleuses à  ellipsoïdes, larges de plus de 2.5 µm
+189,190 $ Fructifications dures, contexte dense
+189,191 $ Fructifications molles ou fragile, contexte lâche
+190,0 $ Avec  halocystides, surtout sur conifères $ Resinicium pinicola
+190,0 $ Sans halocystides, surtout sur feuillus $ Mycoacia
+191,0 $ Spores 3-4 µm, courtement  allantoïdes ou subglobuleuse, espèces assez fragiles à fragiles $ Trechispora
+191,0 $ Spores 4.5-6 x 2-2.5 µm, cylindriques, espèces  plutôt molles et fragiles $ Hyphodontia nespori
+192,0 $ Fructifications raduloïdes, spores 8-11 X 6-8 µm $ Radulomyces molaris
+192,193 $ Fructifications hydnoïdes, spores petites 5-8 x 3.5-6 µm
+193,0 $ Spores 5-6 x 3.6-4 µm, aiguillons en général  de 5-15 µm de long $ Sarcodontia
+193,0 $ Spores 6-8 x 5-6 µm, aiguillons de 1-3 mm de long $ Radulodon
+194,0 $ Fructifications poroïdes, contexte lâche, basides urniformes $ Sistotrema alboluteum
+194,195 $ Fructifications différentes
+195,196 $ Fructifications réticulées-plissées ou poroïdes
+195,205 $ Fructifications lisses
+196,0 $ Fructifications piléées, avec lames plissées $ Plicaturopsis
+196,197 $ Fructifications différentes
+197,0 $ Fructifications .réticulées-plissées ou poroïdes, avec un tomentum bien dévellopé $ Merulius
+197,198 $ Fructifications différentes
+198,199 $ Spores ellipsoïdes à subcylindriques, 2-3,5 µm de large, si allantoïdes alors plus larges que 2 µm
+198,200 $ Spores allantoïdes à fusiformes, plus larges que 2 µm
+199,0 $ Fructifications d'une épaisseur voisine de 0,5 mm, jaunâtres à rougeâtres ou verdâtres, d'abord lisses puis méruloïdes, spores 4-5,5 x 2-2.5 µm $ Ceraceomerulius serpens
+199,0 $ Fructifications moins épaisses, verruqueuses à plissées, spores 4.5-9 x 2.5-3.5 µm $ Phlebia
+200,0 $ Spores fusiformes 6-8 x 1.5-2 µm $ Ceraceomyces borealis
+200,201 $ Spores de formes différentes
+201,0 $ Spores très petites souvent avec une faible réaction amyloïde, hymènophore irrégulièrement plissé à presque lisse, blanc à beige-brun pâle $ Plicatura
+201,202 $ Spores plus larges et hymènophores différents en formes et couleurs
+202,0 $ Spores brun rougeâtre dans le Melzer, basides 15-20 µm de long $ Pseudomerulius
+202,0 $ Spores sans réactions dans le Melzer, basides 25-40 µm $ Phlebia
+205,0 $ Pleurobasides $ Phlebiella
+205,206 $ Basides normales
+206,0 $ Avec répetobasides, spores en forme de quartier de lune à subfusiformes. $ Repetobasidiellum
+206,207 $ Basides non répétitives, si à répétitions intérieures, alors spores allantoïdes
+207,208 $ Spores suballantioïdes à alIantoïdes ou  avec apparences de S
+207,209 $ Spores subglobuleuses, ellipsoïdes, cylindriquesl. ou fusiformes
+208,0 $ Basides étranglées à urniformes $ Galzinia
+208,0 $ Basides clavées, effilées vers la base $ Phlebia
+209,0 $ Boules très rares ou manquantes sur les hyphes basales, spores courtes, fusiformes, à sommet obtus, 5,5-6.5 x 3-3.5 µm $ Hyphodontiella
+209,210 $ Boucles normallement présentes à toutes les cloisons
+210,211 $ Spores 2.5-5 µm de long, si plus longues, moins larges que 3 µm
+210,225 $ Spores normalement plus longues que 6  µm, plus large que 3 µm
+211,0 $ Spores cylindriques 9-10 x 2-2.5 µm $ Athelopsis glaucina
+211,212 $ Spores différentes
+212,0 $ Spores fusiformes $ FibulomycesVoir aussi Ceraceomyces borealis
+212,213 $ Spores subglobuleuse, ellipsoïdes ou cylindrique
+213,214 $ Basides 20-35 µm
+213,215 $ Basides courtes, 8-15 µm
+214,0 $ Spores 6-8 µm ou cortexte dense $ Phlebia
+214,0 $ Spores 3-3.5 µm, cortexte lâche $ Ceraceomyces sublaevis
+215,216 $ Avec des filaments bruns ou roses, spécialement à la marge
+215,217 $ Filaments blancs ou manquants
+216,0 $ Hyphes basales brun-jaunâtres dans KOH $ Confertobasidium
+216,0 $ Hyphes basales hyalines $ Leptosporomyces roseus
+217,0 $ Hyphes sous-hyméniales courtes, isodiamétriques $ Brevicellicium
+217,218 $ Hyphes sous-hyméniales de formes différentes
+218,0 $ Fructifications fragiles ou cotoneuses, hyphes souvent ampullacées aux cloisons. $ Trechispora cohaerens
+218,219 $ Autres caractères
+219,0 $ Fructifications pelliculeuses à membraneuses, hyphes basales larges jusqu'à 10 µm, avec des filaments fins $ Fibulomyces mutabilis
+219,0 $ Fructifications très fines, souvent avec des teintes verdâtres, hyphes basales étroites, filaments présents ou manquants $ Leptosporomyces
+225,0 $ Spores subglobuleuses, 9-15 µm de diamètre $ Globulicium
+225,226 $ Spores de formes différentes
+226,0 $ Basides étroitement urniformes, spores amygdaIiformes de 8-11 µm $ Sistotrema intermedium
+226,227 $ Basids et spores de formes différentes
+227,228 $ Fructifications brunes
+227,229 $ Fructifications de couleurs différentes
+228,0 $ Spores fusiformes à naviculaires, 7-9 µm, fructifications étroitement adnée $ Luellia recondita
+228,229 $ * Spores ellipsoïdes, 6-7,5 µm de long, fructifications orbiculaires avec la marge relevéeCytidiella
+229,230 $ Fructifications pelliculaires à membraneuses, souple
+229,232 $ Fructifications de formes différentes
+230,0 $ Fructifications moyennement épaisses, spores 5-8 x 3-4,5 µm $ Ceraceomyces
+230,231 $ Fructifications minces, pelliculaires (athélioïdes), basides généralement courtes  si plus longues que 20 µm alors spores 7-16 µ
+231,0 $ Basides pedunculée $ Athelopsis subinconspicua
+231,0 $ Basides non distinctement pédonculées $ Athelia
+232,0 $ Protoplasme  des hyphes riche en huile, spores en forme de pépin $ Cylindrobasidium
+232,233 $ Autres combinaisons
+233,0 $ Hyphes du sous-hyménium distinctement isodiamétriques $ Hyphoderma albocremeum
+233,234 $ Hyphes du sous-hyménium d'aspect différent
+234,0 $ Basides en palissade dense, contexte dense $ Phlebia
+234,235 $ Basidel et hyphes du contexte lâche
+235,0 $ Spores à  parois épaisses, hymènophore jaunissant avec KOH $ Radulomyces confluens
+235,0 $ Spores à aprois fines, hymènophore non jaunissant avec KOH $ Hyphoderma
+
+cs3,0$
+1,0 $ Spores ornées, brun-jaune $ Botryohypochnus
+1,2 $ Spores lisses, en principe hyalines
+2,3 $ Cystides  présentes
+2,22 $ Pas de cystides
+3,0 $ Spores repétitives $ Oliveonia
+3,4 $ Spores non répétitives
+4,0 $ Espèces dimitiques $ Steccherinum
+4,5 $ Espèces monomitiques
+5,6 $ Fructifications piléées
+5,7 $ Fructifications résupinées
+6,0 $ Cystides capitées $ Cyphellostereum
+6,0 $ Cystides obtuse au sommet mais non distinctement capitées $ Cotylidia
+7,0 $ Cystides capitées, spores subglobuleuses, 8-13 x 7-9 µm $ Hyphoderma capitatum
+7,8 $ Pas cette combinaison de caractères
+8,9 $ Hymènophore grandinioide, odontioïde ou hydnoide
+8,14 $ Hymènophore lisse ou méruloïde
+9,0 $ Cystides. fortement incrustées ressemblant à des métuloïdes, spores petites, 3.5-4.5 (-5) x 1.8-2.2(-2.5) µm $ Scopuloides
+9,10 $ Pas cette combinaison de caractères
+10,0 $ Basides.avec 2 stérigmates $ Hyphodontia efibulata
+10,11 $ Basides.avec 4 stérigmates
+11,12 $ Cystides septées
+11,13 $ Cystides non septées
+12,0 $ Spores ellipsoides 4.5-7 X 2-4 µm $ Candelabrochaete
+12,0 $ Spores allantoïdes, 4-5 X 1.5-2 µm $ Phanerochaete septocystidia
+13,0 $ Cystides et hyphes basales à parois minces $ Phlebia deflectens
+13,0 $ Cystides et hyphes à parois épaisses $ Phanerochaete
+14,0 $ Basides en principe avec 2 stérigmates $ Clavulicium spurium
+14,15 $ Basides avec 4-6 stérigmates
+15,0 $ Basides avec 6 stérigmates,  spores à parois épaisses $ Sistotremella hauerslevii
+15,16 $ Basides avec 4 stérigmates, spores à parois fines – ou épaisses
+16,0 $ Cystides de deux formes, métuloïdes et sulfocystides $ Peniophora
+16,17 $ Cystides d’une seule sorte sans réaction sulphoaldéhyde
+17,0 $ Hymenophore plissé, orange à  rougeâtre, spores alIantoïdes, 4-6 x 1,5 µm $ Ceraceomerulius aIbostramineus
+17,18 $ Pas cette combinaison de caractères
+18,0 $ Cystides avec une papille apicale, spores naviculaires $ Coronicium aIboglaucum
+18,19 $ Cystides and spores de formes différentes
+19,0 $ Cystides subulées,. spores globuleuses à subglobuleuses, fructifications fines $ Subulicium
+19,20 $ Pas cette combinaison de caractères
+20,0 $ Fructifications dures – apparence de parchemin - avec subiculum distinct ou indistinct ; subhymenium dense, cystides métuloïdes $ Phlebiopsis
+20,21 $ Pas cette combinaison de caractères
+21,0 $ Contexte dense ; absence de boucles difficile à voir, cystides non ou légèrement incrustées, quelques unes, à parois fines, atteignent 120 µm, si les cystides sont fortement incrustées à la base voir: Lepidomyces subcalceus $ Phlebia deflectens
+21,0 $ Contexte plus mou, si dense alors les cystides sont fortement incrustées mais sans ressembler à des métuloïdes $ Phanerochaete
+22,23 $ Spores répétitives
+22,30 $ Spores non répétitives
+23,0 $ Hyphes basales larges de 5-7 µm, basides 12-16 µm de long, fructifications fortement adnées $ Ceratobasidium
+23,24 $ Hyphes basales autour de 10-15 µm de large,  basides en général plus longues, fructifications lâchement attaché au support
+24,0 $ Basides avec 2 stérigmates $ Ypsilonidium
+24,25 $ Basides avec 4 stérigmates
+25,0 $ Spores citriformes, rarement subglobuleuses, préférance pour le bois; sans stade Rhizoctonia $ Uthatobasidium.
+25,0 $ Spores subglobuleuses à ellipsoïdes, en parasite sur Solanum et autres espèces de plantes herbacées, avec stade Rhizoctonia $ Thanatephorus
+30,31 $ Basides avec 2 stérigmates
+30,34 $ Basides avec 4-8 stérigmates
+31,0 $ Spores ellipsoïdes, 20-30 µm, fructifications rougeâtres, sur branchettes  de Quercus, encore attachée à l’arbre $ Laeticorticium quercinum
+31,32 $ Spores plus petites, fructifications d’une autre couleur
+32,0 $ Spores naviculaires, fructifications moyennement dense, brunes $ Luellia furcata
+32,33 $ Spores de formes différentes, fructifications en principe  non brunes
+33,0 $ Basides 50-80 x 7-11 µm, spores subglobuleuses, fructifications verdâtres $ ClavuIicium
+33,0 $ Basides 20-30 x 5-7 µm, spores étroitement ellypsoïdes, fructifications blanchâtres $ Athelia arachnoidea
+34,35 $ Basides avec plus de 4 sterigmates
+34,37 $ Basides. avec 4 sterigmates
+35,0 $ Basides obconiques, très petites, 10-18 x 4-6 µm, avec 6 sterigmates $ Paullicorticium
+35,36 $ Basides de formes différentes
+36,0 $ Basides urniformes $ Sistotrema
+36,0 $ Basides rondes, obovales à subcylindriques, non distinctement urniformes $ Botryobasidium
+37,0 $ Fructifications piléées, spathulées-flabelliformes, spores 3-4 x 2.2-2.5 µm $ Stereopsis
+37,38 $ Fructifications résupinées, si subpilées alors spores de 5-6 x 2.5-3 µm
+38,0 $ Fructifications poroïdes $ Byssocorticium terrestre
+38,39 $ Fructifications de formes différentes
+39,40 $ Fructifications méruloïdes ou odontioïdes
+39,42 $ Fructifications lisses
+40,0 $ Fructifications meruloïdes, d’abord resupinée, puis à marge réfléchie $ Byssomerulius
+40,41 $ Fructifications odontioïdes
+41,0 $ Spores allantoïdes, 4-5 x 1.2-1.5 µm $ Odonticium
+41,0 $ Spores ellipsoïdes, 7-10 x 4-6 µm $ Hyphodermella
+42,0 $ Basides fortes, 20-30 x 8-10 µm, stérigmates de plus de 20 µm, spores 12-17 x 6-7 µm $ Cejpomyces
+42,43 $ Pas cette combinaison de caractères
+43,44 $ Spores avex des parois épaissies, dextrinoïdes dans certaines espèces
+43,45 $ Spores à parois fines, non dextrinoïdes
+44,0 $ Spores petites 3-6 X 2-4,5 µm, avec une légère réaction dextrinoïde $ Piloderma
+44,0 $ Grandes spores, 9-15 µm, sans réaction  dextrinoïde $ Erythricium
+45,0 $ Boucles dispersées sur les hyphes basales $ Athelia
+45,46 $ Boucles manquant totalement ou très peu seulement sur les hyphes basales
+46,0 $ Basides 35-50 x 8-12 µm, spores 9-15 x 4.5-7 µm $ Erythricium
+46,47 $ Basides et spores de formes différentes
+47,0 $ Basides typiquement réduites, spores oblongues à subfusiformes, 8-10 µm, fructifications jaunâtres à orange $ Athelidium
+47,48 $ Basides non distinctement réduites, spores et fructifications différentes
+48,0 $ Spores subcylindriques $ Phanerochaete jose-ferreirae
+48,49 $ Spores subglobuleuses, ellipsoïdes ou pyriformes
+49,0 $ Spores pyriformes $ Athelia
+49,50 $ Spores de formes différentes
+50,0 $ Fructifications minces, évidemment pelliculaires $ Athelia decipiens
+50,51 $ Fructifications épaisses, surtout membraneuses
+51,0 $ Contexte dense et absence de boucles difficilement observable $ Phlebia deflectens
+51,0 $ Contexte lâche, absence de boucles facilement observable $ Phanerochaete

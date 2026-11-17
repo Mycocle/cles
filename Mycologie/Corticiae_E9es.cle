@@ -1,0 +1,344 @@
+titre $Clés des Corticiées
+com$adapt GF mars 09  / Source ??
+
+1,cs1$Clé des Corticiées de Côte-d'Or$$s"Clé des Corticiées de Côte-d'Or"
+1,cs2$Clé des Corticiées à hyménium  hydnoïdes, odontoïdes, grandinoïdes ou fortement verruqueux  non stipités, , à basides bouclées et à quatre strérigmates, à spores non amyloïdes, non cyanophiles, lisses$$s"Clé des Corticiée à hyménium  hydnoïdes ..."
+1,cs3$Clé des Peniophora$$s"Clé des Peniophora"
+1,cs6$Clé des Gloeocystidiellum$$s"Clé des Gloeocystidiellum"
+
+CS1,0$Clé des Corticiées de Côte-d'Or
+1,2 $Espèces avec spores amyloïdes
+1,13 $Espèces à spores non amyloïdes
+2,0 $Hyphes squeletiques hyalines prenant une coloration marron rougeâtre dans le Melzer $Scytinostroma
+2,3 $Hyphes non (squeletiques hyalines prenant une coloration marron rougeâtre dans le Melzer)
+n'ayant pas ces caractères
+3,0 $Espèces avec lyocystides à base radicante et à  parois épaisses solubles dans une solution de KOH à 10% $Tubulicrinis
+3,4 $Espèces sans (lyocystides à base radicante et à  parois épaisses solubles dans une solution de KOH à 10% )
+avec d'autres caractères
+4,5 $Espèces avec gloéocystides et/ou acantophyses, dendrophyses ou hyphes terminales monoliformes
+4,9 $Espèces ne présentant aucun des éléments précédents
+5,6 $Espèces avec gloéocystides
+5,8 $Espèces sans gloéocystides
+6,0 $Trame hétérogène formée de deux couches : l'une, basale, constituée par des hyphes génératrices à parois marron et l'autre sous-hyméniale dans laquelle les hyphes génératrices ont les parois hyalines $Laxitextum
+6,7 $Trame homogène non formée de deux couches. Les hyphes basales comme les subhyméniales ont les parois hyalines
+7,0 $Hymenium avec acantophyses, dendrophyses, hyphes terminales différenciées et/ou leptocystides avec l'apex moniliforme $Aleurodiscus
+7,0 $Hymenium avec acantophyses, dendrophyses, hyphes terminales différenciées et/ou leptocystides avec l'apex moniliforme  $Gloeocystidiellum
+8,0 $Espèces sans dendrophyses  mais pouvant présenter des hyphes terminales différenciées ou des leptocystides avec l'apex moniliforme. Espèces vivant toujours sur arbre mort $Aleurodiscus
+8,0 $Espèces avec dendrophyses  mais sans hyphes hyphes terminales différenciées ni  leptocystides avec l'apex moniliforme. Espèces vivant toujours sur arbre vivant $Dendrothele
+9,0 $Fructifications formées de plusieurs petits chapeaux dimidiés, flabelliformes ou conchoïdes  fixés au substrat par un pied très court, hymenophore plissé et de couleur verte grisâtre $Plicatura crispa
+9,10 $Non (Fructifications formées de plusieurs petits chapeaux dimidiés, flabelliformes ou conchoïdes  fixés au substrat par un pied très court, hymenophore plissé et de couleur verte grisâtre)
+
+10,0 $Hyphes subhyméniales présentant des gonflements abondants, les basales les présentant aussi, mais moins abondantes. Spores oblondes ellipsoïdes en forme de haricots $Melzericium udicolum
+10,11 $Non (Hyphes subhyméniales présentant des gonflements abondants, les basales les présentant aussi, mais moins abondantes. Spores oblondes ellipsoïdes en forme de haricots)
+Autres caractères
+11,12 $Spores étroitement ellipsoïdes à allantoïdes et à parois minces
+11,0 $Spores elliptiques, à parois épaisses; avec le  Melzer les spores  ne prennent pas une couleur bleue mais deviennent brun-rouge (dextrinoïdes) $Leucogyrophana
+12,0 $Spores allantoïdes (saucisse), 22 x 7 µm $Vuilleminia
+12,0 $Spores étroitement elliptiques à allantoïdes et ne dépassant pas les 2,5 µm de largeur $Amylocorticium
+Spores non amyloïdes
+13,14 $Espèces à cystides longues, généralement de plus de 60 µm, avec la base bi ou multiradicante
+13,16 $Cystides, si longues, à base non radicante
+14,0 $Cystides dont les parois se dissolvent dans une solution de KOH à 10% $Tubulicrinis
+14,15 $Parois non solubles dans KOH
+15,0 $Spores fusiformes ou  en forme de S $Subulicistidium
+15,0 $Spores globuleuses  de 6-7 µm $Xenasma abietis
+16,0 $Hyphes squelettiques prenant une coloration marron rougeâtre avec le Melzer $Scytinostroma
+16,17 $Non ( Hyphes squelettiques prenant une coloration marron rougeâtre avec le Melzer)
+Autres caractères
+17,0 $Espèce de cohérence céracée à gélatineuse, avec de grands basides claviformes jusqu'à 80 µm de longueur. L'écorce des branches et troncs colonisés se détache et s'enroule de manière typique $Vuilleminia comedens
+17,0 ,n$Ancien : Vuilleminia comedens Non cité dans Girard 1933  Récent : Bois d’Izeure, le 17 janvier 2005 (photo 2005, n° 12)   Nom valide : Vuilleminia comedens (Nees.:Fr.)Maire
+
+17,18 $Non (Espèce de cohérence céracée à gélatineuse, avec de grands basides claviformes jusqu'à 80 µm de longueur. L'écorce des branches et troncs colonisés se détache et s'enroule de manière typique)
+ Autres caractères
+18,19 $Espèces avec dendrophyses
+18,23 $Espèces sans dendrophyses
+19,0 $Dendrophyses de couleur brunâtre (avec KOH à à 10%) et  bleuté avec la sulfovanilline $Cytidia
+19,20 $Dendrophyses Non (de couleur brunâtre (avec KOH à à 10%) et  bleuté avec la sulfovanilline)
+ sans ces caractères
+20,0 $Espèces avec gloéocystides et/ou lamprocystides (cystides à parois épaisses et fortement incrustées) $Peniophora
+20,21 $Non (Espèces avec gloéocystides et/ou lamprocystides (cystides à parois épaisses et fortement incrustées))
+Autres caractères
+21,0 $Fructification d'une couleur bleue intense, basides claviformes, parfois avec de petits appendices latéraux qui rappellent les.dendrophyses $Pulcherricium
+21,22 $Espèces Non (d'une couleur bleue intense, basides claviformes, parfois avec de petits appendices latéraux qui rappellent les.dendrophyses)
+sans ces caractères
+22,0 $Basides claviformes longue de 20-50 µm.  Espèces vivant toujours sur arbre vivant $Dendrothele
+22,0 $Basides tubulaires longues de 30-100 µm. Espèces vivant toujours sur arbre mort $Laeticorticium
+22,0,n $Ancien : Himantia roseum Pers. Sur perche à houblon, à Selongey (S.).Récent : Domois, sur saule Marsault, commun, janvier 2005Nom valide : Corticium roseum Pers.
+23,24 $Fructification généralement collée au substrat, céracée ou gélatineuse, sèche, dure et fragile, généralement formant un film semblable au vernis. Les basides forment une palissade dense
+23,31 $Fructification généralement pelliculaire, membraneuse, coriace ou en croute, en séchant ne forme pas une pellicule vernissée. Les basides ne forment pas une palissade dense
+24,25 $Fructification au contexte clairement stratifié
+24,28 $Fructification sans contexte stratifié
+25,26 $Hyménophore lisse ou ondulé
+25,27 $Hyménophore reticulé ou tubulé
+26,0 $Fructification cupuliforme , recouverte extérieurement d'un voile blanc , hyménophore de couleur marron clair $Auriculariopsis
+26,0 $Fructifications résupinées ou légèrement réfléchie. Hyménophore de couleur violette $Chondrostereum purpureum
+27,0 $Hyménophore constitué de grandes alvéoles irrégulières $Merulius
+27,0 $Hyménophore tubulaire, avec des pores bien développés ronds et petits, de 4-6 par mm $Gloeoporus
+28,0 $Fructification formée par un subiculum mince sur lequel se greffe l'hyménophore formé par des aiguillons longs de 1-3 mm et de couleur jaune $Mycoacia
+28,29 $Non (Fructification formée par un subiculum mince sur lequel se greffe l'hyménophore formé par des aiguillons longs de 1-3 mm et de couleur jaune)
+ Autres caractères
+29,0 $Espèces avec spores allantoïdes et fines basides jusqu'à 40.µm de de longueur et 4 µm de largeur $Dacryobolus
+29,30 $Spores ellipsoïdes, ovales ou subcylindriques et basides autres
+30,0 $Espèces dont les cystides sont couvertes au sommet d'une substance résineuse ou portent des cristaux qui donnent à l'apex l'aspect d'une étoile $Resinicium
+30,0 $Espèces avec ou sans cystides, si cystides il y a, celles-ci ne sont jamais couvertes d'une substance résineuse ou de cristaux sous forme d'étoile $Phlebia
+31,32 $Basides urniformes, utriformes, cylindriques courtes ou tubuleuses
+31,38 $Basides claviformes, si utriformes ou urniformes, ne portent jamais plus de quatre stérigmates
+32,0 $Espèces avec pleurobasides cylindriques courtes, avec de  2 à 7 stérigmates $Xenasma
+32,33 $Espèces sans pleurobasides
+33,34 $Hyphes de la trame plus larges et généralement à parois plus épaisses que les subhymeniales. Basides cylindriques courtes, parfois légèrement utriformes avec (2)-4- 8 stérigmates
+33,36 $Hyphes de la trame identiques aux subhymeniales, basides urniformes, utriformes ou cilindriques avec 4-6 esterigmas
+34,0 $Spores rondes, avec l'apicule bien marquée, cyanophiles, échinulées $Botryohypochnus
+34,35 $Spores sans tous ces caratères réunis
+35,0 $Basides avec 2-4 stérigmates. Spores formant des spores secondaires $Uthatobasidium
+35,0 $Basides avec 4-8 stérigmates. Spores ne formant pas de spores secondaires $Botryobasidium
+36,37 $Espèces dont les hyphes génératrices forment des renflements caractéristiques aux cloisons. Basides urniformes ou cylindriques
+36,0 $Espèces dont les hyphes génératrices n'ont pas de renflements caractéristiques. Basides tubulaires avec 6 stérigmates $Sistotremastrum
+37,0 $Basides urniformes avec 6-8 sterigmates. Spores lisses $Sistotrema
+37,0,n $Ancien : Sistotrema brinkmanii : Non cité dans Girard (1933)Récent : Domois, sur feuillus, le 20 janvier 2005 (JCV)Nom valide : Sistotrema brinkmanii (Bres.)J. Erick.
+37,0 $Basides urniformes ou cylindriques avec 4 stérigmates. Spores à parois lisses ou ornementées $Trechispora
+38,39 $Pleurobasides présentes
+38,40 $Pas de pleurobasides
+39,0 $Cystides à parois minces incrustatée au sommet d'une substance résineuse de couleur jaune marron $Coronicium
+39,0 $Espèces avec ou sans cystides, sans incrustations. Hyphes avec parois gélatineuses $Xenasma
+40,41 $Espèces avec cystides ou cystidioles
+40,51 $Espèces sans cystides ni cystidioles
+41,42 $Spores à parois épaisses, lisses ou ornementées
+41,44 $Spores à parois fines et lisses
+42,0 $Espèces avec cystides métuloïdes et état sclérotique présent (Aegerita) $Bulbillomyces
+42,43 $Espèces sans état sclérotique, avec cystides présentes mais non métuloïdes
+43,0 $Spores non amyloïdes $Hypochnicium
+43,0 $Parois des spores réagissant au Melzer  en brunâtre ou en gris violet $Leucoqyrophana
+44,45 $Basides courtes, Généralement longue de  35 .µm
+44,49 $Grandes basides , dépassant généralement les 35 µm de long
+45,0 $Hyphes basales plus larges et généralement plus épaisses que les subhyméniales.. Fructification avec un subiculum facilement différentiable $Phanerochaete
+45,46 $Carpophore sans subiculum différenciable
+46,0 $Spores amygdaliformes ou lègèrement fusiformes. Cystides à parois minces avec des incrustations résineuses marrons, qu'on retrouve également dans  la trame $Coronicium gemmiferum
+46,47 $Espèces Non (Spores amygdaliformes ou lègèrement fusiformes. Cystides à parois minces avec des incrustations résineuses marrons, qu'on retrouve également dans  la trame). Spores allantoïdes, ellipsoïdes ou globuleuses
+47,0 $Cystides à parois minces, septées et bouclées. Hyphes de couleur jaune clair. Fructification collée au substrat et présentant des rhizomorphes jaunes $Amphinema
+47,48 $Cystides généralement ni septées, ni bouclées, sinon les parois sont épaisses
+48,0 $Spores de moins de 7 µm $Hyphodontia
+48,0 $Spores de plus de 7 µm $Hyphoderma
+49,0 $Fructification rouge, rougeâtre, orange, violet gris, gris rougeâtre ou marron. Espèces avec  gloéocistides et/ou cystides metuloïdes $Peniophora
+49,50 $Fructification blanche ou crème jaunâtre
+50,0 $Hyphes génératrices chargées de guttules. Spores 10-11,5 x 4,5-5,5 µm $Cylindrobasidium evolvens
+50,0 $Pas de guttules : Spores elliptiques, subglobuleuses ou allantoïdes, sans les caractères (Hyphes génératrices chargées de guttules. Spores 10-11,5 x 4,5-5,5 µm) $Hyphoderma
+51,52 $Spores à parois épaisses, lisses ou ornementées
+51,54 $Spores à parois fines et lisses
+52,0 $Spores à parois lisses et dextrinoïdes $Leucogyrophana mollusca
+52,53 $Spores à parois lisses ou ornementées mais non dextrinoides
+53,0 $Spores rondes ou subrondes  de 3-5 µm de diamètre, toujours à parois lisses $Byssocorticium
+53,0 $Spores subrondes, de 6-7,5 µm de diamètre, ornementées $Hypochnicium vellereum
+54,0 $Hyphes paraphysoïdes très abondantes dans l'hyménium $Globulicium
+54,55 $Pas d'hyphes paraphysoïdes dans l'hyménium
+55,56 $Espèces qui présentent une nette différence entre les hyphes basales et les subhyméniales, dans la taille  et/ou dans l'épaisseur
+55,58 $Espèces qui ne présentent pas  une nette différence entre les hyphes basales et les subhyméniales, dans la taille  et/ou dans l'épaisseur
+56,0 $Espèces vivant sur le bois brûlé, hyphes basales abondament bouclées et ramifiées en angles droits, spores largelemt ellipsoïdes de 6,5-9 x 4-6 .µm $Hyphoderma antracophvllum
+56,57 $Non (Espèces vivant sur le bois brûlé, hyphes basales abondament bouclées et ramifiées en angles droits, spores largelemt ellipsoïdes de 6,5-9 x 4-6 .µm)
+Autres caractères
+57,0 $Hymènophore d'abord lisse, puis meruloïde, hyphes de la trame généralement couvertes de cristaux et ramifiées en angle droit. Spores cylindriques. $Byssomerulius
+57,0 $Hymenophore tuberculeux, hyphes de la trame non couvertes de cristaux et non ramifiées en angle droit. Spores ellipsoides $Phanerochaete tuberculata
+58,59 $Basides de moins de 35 .um de long
+58,61 $Basides de plus de 35 .um de long
+59,0 $Espèces avec hyménophore odontoïde, hyphes du sommet des aiguillons avec incrustations  Hyphes génératrices toujours sans boucles. $Hyphodermella
+59,60 $Espèce avec hymémènophore lisse, odontoïde ou irpicoïde, les hyphes du sommet des aiguillons (s'il y en a) sans incrustations. Hyphes génératrices bouclées.
+60,0 $Basides pourvues d'un long pédoncule. $Radulomyces
+60,0 $Basides sans long pédoncule $Hyphoderma
+61,0 $Fructification pelliculeuse, facilement séparable du substrat. Hymenophore lisse ou légèrement ondulé. Hyphes basales lâchement entremêlées $Athelia
+61,0 $Fructification fixée fortement au substrat, . hyménophore lisse, tuberculeux ou odontoïde. Hyphes basales serrées $Hyphohodontia
+
+
+
+
+cs2,0 $Clé des Corticiée à hyménium  hydnoïdes, odontoïdes, grandinoïdes ou fortement verruqueux  non stipités, , à basides bouclées et à quatre strérigmates, à spores non amyloïdes, non cyanophiles, lisses
+1,2 $Des halocystides parfois accompagnées d'astérocystides
+1,4 $Pas d'halocystides
+2,0 $Des astérocystides (oursins) $Resinicium bicolor (Fr.) Parm. 1968
+2,3 $Pas d'astérocystides
+3,0 $Aiguillons de 1-2 mm. ) $Resinicium pinicola (Erikss.) Erikss. & Hjortst.  1981
+3,0 $Basidiome grandinioïde $Resinicium furfuraceum (Bres.) Parm.  1968
+4,5 $Des cystides incrustées
+4,15 $Pas de cystides lourdement  incrustées (si lagénocystides, voir Hyphodontia arguta)
+5,6 $Monomitique
+5,9 $Dimitique
+6,0 $Septocystides incrustées; sp. cyl. 7-13x 3-5 µm.. $Hyphoderma setigerum (Fr.) Donk 1957 var.irpicoides
+6,7 $Pas de septocystides
+7,8 $Des suIfocystides
+7,0 $Pas de sulfocystides ; sp. subcyl. 5-6x3-3,5 µm. (ex Phlebia queletii) $Steccherinum queletii (B.&G.)Hall.& Hjortst 1988
+8,0 $Basidiome et sporée orangés; sulfocyst. abondantes x 8-12 µm.. sp. cyl. 10-12x3,5-4,5 µm.; décorticant sur Carpinus $Peniophora laeta (Fr.) Donk 1957
+8,0 $Basidiome blanc crème; sporée blanche; sulfocyst. étroites x3- 5µm., peu remarquables; sp. 4-4,5x3-3,5 µm.. $Metulodontia nivea (Karst.) Parm. 1968
+9,0 $Hyménium blanchâtre irpicoïde ; sp. 4-4,5x2,5-3 µm.. (= Irpex lacteus ss. aut. europ. pr. parte) $Stecccherinum oreophilum Linds. & Gilb. 1977
+9,10 $Basidiome coriace, odontioïde, crème, ocracé, saumon ou encore rouge orangé
+10,11 $Marge fimbriée à rhizomorphique
+10,12 $Marge étroite, appliquée ou + ou - réfléchie
+11,0 $Basidiome détachable violacé pâle à gris rougeâtre; sp. ellips. 3,2-3 ,5x2,2-2,5 µm.. $Steccherinum fimbriatum (Pers.:Fr.) Erikss. 1958.
+11,0 $Basidiome adhérent, crème; sp. subcyl. 4,5-5x2-2,2 µm. $Steccherinum litschaueri (B.& G.) Erikss. 1958
+12,0 $Basidiome non réfléchi; aiguillons subulés de 1,5-3mm. de long, brun-orange; sp. 4,5-5x2-3 µm. $Steccherinum robustius (Erikss. & Lund.) Erikss.1958
+12,13 $Aiguillons plus pâles; basidiome se réfléchissant + ou - largement
+13,0 $Spores subglobuleuses, 4,5-5,5x3,5-4,5 µm. $Steccherinum bourdotii Saliba & David 1988
+13,14 $Spores ellipsoïdes, 3-4x1,8-2,5 µm.
+14,0 $Basidiome réfléchi ou dimidié, parfois substipité ; ligne brune entre tomentum et contexte $Steccherinum rhois (Schw.)Banker 1906
+14,0 $Basidiome étalé-réfléchi sans cortex brun $Steccherinum ultrasp. ochraceum (Pers. :Fr.) S.F.Gray 1821Pas de cystides incrustées
+15,0 $Subiculum stérile portant des aiguillons effilés; h. incrustées de granules cyanophiles ; sp. subcyl. 8-10x4-5 µm. $Kavinia himantia (Schw.) Erikss. 1958
+15,16 $Subiculum fertile
+16,17 $Spores subglobuleuses à paroi ferme
+16,18 $Spores à paroi mince
+17,0 $Pas de cystides; basidiome charnu, étalé ou, sur bois vertical, noduliforme épais à grands aiguillons de 5-15 mm.; h. profondes à paroi très épaisse; sp. 5-6x3,5-4 µm. ; forte odeur; sur pommiers dépérissants (= Sarc. setosa)$Sarcodontia crocea (Fr.) Kotl. 1953
+17,0 $Leptocystides claviformes ou fusiformes, 35-(70)x6-8(12) µm. au contenu homogène basidiome céracé mince blanc puis jaunâtre; aiguillons longs de 1-3 mm. sp. 6-8x5-6 µm., sur Populus tremula. $Radulodon erikssonii Ryv. 1972
+18,19 $Basidiome raduloïde (gros aiguillons irréguliers), monomitique $
+18,19,n $(si dimitique, voir Schizopora paradoxa)
+18,20 $Basidiome odontioïde ou seulement grandinioïde ou verruqueux
+19,0 $Spores 5-7,5x5-6 µm. ; basidiome épais, + ou - réfléchi, parfois poré à la marge... $voir Spongipellis pachyodon (Pers.) Kotl.& Pouz. 1965
+19,21 $Spores plus longues; basidiome orbiculaire, étalé
+20,0 $Spores oblongues, 8-11x6,5-8 µm., pas de cystides $Cerocorticium molare (Fr.) Jül. & Stalp. 1980
+20,0,n $Ancien : Cerocorticium molare Non cité dans Girard (1933)Récent : Domois, sur branche de chènes à terre, le 22 janvier 2005 (JCV)Nom valide : Cerocorticium molare (Fr.) Jül. & Stalp.
+20,0 $Spores allantoïdes, 9-11x2,5-3,5 µm. ; quelques leptocystides incluses un peu moniliformes $Hyphoderma radula (Fr.)Donk 1957
+21,22 $Des lyocystides (à paroi épaisse sauf au sommet, soluble dans KOH)
+21,25 $Pas de lyocystides
+22,0 $Dimitique, épais, céracé, tuberculeux; longues cystides à canal progressivement élargi; sp. allantoïdes. 4,5-6 x 1,2-1,5 µm. $Dacryobolus karstenii (Bres.) Oberw.ex Parm. 1968
+22,23 $Monomitique (Tubulicrinis)
+23,0 $Lyocystides subcylindriques ; sp. cyl. 5-6,5x2,8-3,5 µm. $Tubulicrinis confusus Larss. & Hjortst. 1986
+23,24 $Lyocystides capitées
+24,0 $Tête des cystides de 7-8 µm de diamètre avec dépôts rougeâtres; sp. cyl. Arquées 6,5-8x2,2-2,5 µm $Tubulicrinis evenii Larss.& Hjortst. 1986
+24,0 $Tête de 8-15 µm ; sp. 6-8x3,5-5 µm $Tubulicrinis regificus (Jacks. & Deard.) Donk 1956
+25,0 $Des échinocystes ; leptocystides peu différenciées 30-50x5-10 µm ; sp. Allantoides 9-11x2,5-3 µm ; nettement odontioïde, jaunâtre à ocracé $Hyphoderma echinocystis Erikss.& Strid 1975
+25,26 $Pas d'échinocystes ; sp. plus petites
+26,27 $Basidiome céracé
+26,32 $Basidiome non franchement céracé
+27,0 $Dimitique ( ?) disons axe des aiguillons fait de fibres parallèles; cystidioles porteuses d'un globule résineux; basides à 4 stérigmates. sp. cyl. 4-5,5x2,5-3 µm $Mycoaciella bispora (Stalp.) Erikss.& Ryv.1978
+27,28 $Monomitique
+28,0 $Des gloéoc. x 6-12 µm  et des leptocystides étroites vers le sommet des aiguillons; sp. ellips. courtes 3-4x2-2,5 µm $Physodontia lundellii Ryv. & Solh. 1977
+28,29 $Sans gloéocystides (Mycoacia)
+29,0 $Forte odeur de savonnette bon marché; blanc sale puis brun sauf au sommet des aiguillons plus pâles; marge fibrilleuse étroite blanche; petites cystides porteuses de cristaux; sp.subcyl. peu déprimées, 4-6x2-2,5 µm $Mycoacia nothojagi (Cunn.)Boid.& David 1981, var.australiensis Reid
+29,30 $Pas de forte odeur
+30,0 $Pas de cystidioles ni de virage à KOH; sp. allant. 3,5-4,5 x1,5-2 µm $Mycoacia aurea (Fr.) Erikss. & Ryv. 1976
+30,31 $Des cystidioles ; virage lie de vin des parties jaunes traitées par KOH
+31,0 $Jaune vif à jaune sale ou ochracé ; sp. ellips. 5-6x2-2,5 µm ; cystidioles fusiformes avec léger dépôt soluble au sommet; commun sur sol humide $Mycoacia uda (Fr.) Donk 1931
+31,0 $Crème jaunâtre puis brun à brun-noir; sp. cyl. 5-6x2-2,5 µm ; des cystidioles subuléeset des éléments incrustés émergents au sommet des aiguillons $Mycoacia fusco-atra (Fr.) Donk 1931
+32,0 $Des gloéoc. et des cystidioles fusiformes :voir 28 : $Physodontia lundelli
+32,33 $Pas de gloéoc. (Hyphodontia spathulata montre quelques gloéoc. + ou - moniliformes à sommet pointu)
+33,0 $Sommet des aiguillons fait d'hyphes peu différenciées qui excrètent une goutte visqueuse puis s'affaissent; sp. allant. étroites 5-6x1,5 µm ; quelques leptocyst. cyl. émergentes porteuses de dépôts résinoïdes $Dacryobolus sudans (Fr.)Fr.
+33,34 $Sommet des aiguillons non sécréteurs
+34,0 $Articles courts; basides trapues 12-15x5-7 µm ; pas de cystides; sp. Subglobuleuses 5-5,5x3-4  µm ;espèce grandinioïde, crème puis jaune. $Brevicellicium olivascens (Bres.) Larss. & Hjortst. 1978
+34,35 $Non (Articles courts; basides trapues 12-15x5-7 µm ; pas de cystides; sp. Subglobuleuses 5-5,5x3-4  µm ;espèce grandinioïde, crème puis jaune)
+Pas ces caractères
+35,36 $Basidiome arachnoïde, lâche, fragile, grandinioïde à odontioïde
+35,37 $Basidiome plus solide, fibreux, adhérent, blanc à ocracé. Aiguillons souvent pénicilliés, h. étroites à boucles petites, distinctes et souvent à paroi un peu ferme, parfois cyanophiles
+36,0 $Sp. allantoïdes 3-3,5 x 1,2-1,4 µm; des leptocystides hyphoïdes ; marge fibrilleuse avec cordonnets $Trechispora lunata (B. & G.) Jül.
+36,0 $Sp.ovoïdes, 3-4 x 2-2,8 µm ; pas de leptocystides ; parfois des arthrospores 8-18 x 7-12 µm $Trechispora kavinoides de Vries 1987
+37,38 $Cystides fibriformes cyanophiles, donc à paroi épaissie sauf près du sommet.
+37,41 $Pas de cystides fibriformes
+38,0 $Sp. allantoïdes, 5,5-7x1,5-1,8 µm $Hyphodontia floccosa (B.& G.) Erikss. 1958
+38,0,n $(si seulement verruculeux, voir Hyph. subalutacea (Karst.) Erikss 1958)
+38,39 $Sp. non déprimées
+39,0 $Pseudodimitique (fibres étroites, non cyanophiles x 2-3,5 µm à lumen étroit) ; h. génératr. à paroi mince; sp. 3,5-4,5x2,5- 3,5 µm ; aiguillons d'environ 1 mm. blancs à ocracés, brunissant sous KOH $Fibrodontia gossypina Parm. 1968
+39,40 $Monomitique, cystides fibriformes cyanophiles, plus larges, x 4,5-6 (même 8 µm chez H. microspora) ; h. génératr. à paroi ferme
+40,0 $Aiguillons atteignant 3 mm. ; sp. subglob. 4,5-5,5x 3,5-4,5 µm. $Hyphodontia barba-jovis (Fr.) Erikss. 1958
+40,41 $Aiguillons plus courts; sp.à face adaxiale à peu près plane
+41,0 $Sp. 5-6x3-3,5 µm ; cyst. x 4-6 µm $Hyphodontia abieticola (B.& G.) Erikss. 1958
+41,0 $Sp. 2,5-3,5x1,5-1,8 µm ; cystides un peu plus larges, x 6-8 µm $Hyphodontia microspora Erikss. & Hjortst. 1976
+rem$erreur clé origine => modif
+41,0 $Des lagénocystides cyanophiles et des cystides avec bouton porteur de résine; sp. ellips. courtes, 4,5-6x3,5-4 µm $Hyphodontia arguta (Fr.) Erikss. 1958
+41,0,n $(si basidiome verruqueux voir Hyph. alutaria (Burt) Erikss. 1958
+41,43 $Pas de lagénocystides
+43,44 $Sp. allantoïdes
+43,45 $Sp. non allantoïdes
+44,0 $Sp. très étroites et incurvées, 4-5x1-1,5  µm ; leptocyst. 35- 50x4-7 µm peu émergentes $Chaetoporellus curvisporus (Erikss. & Hjortst.) id. 1978
+44,0 $Sp. 6-8x1,5-2 µm ; leptoc. 50-75x4-7 µm parfois toruleuses $Hyphodontia alutacea (Fr.) Erikss. 1958
+45,46 $Sp. cyl. droites x 2-3 µm
+45,48 $Sp. ellips. à subglobul.; souvent des éléments capités
+46,0 $H. génér. à paroi épaissie; sp. 4,5-6x2-2,5 µm ; basidiome crevassé en séchant $Hyphodontia nespori (Bres.) Erikss.& Hj. 1976 -
+46,47 $H. génér. à paroi mince; sp. un peu plus larges
+47,0 $Raduloïde ; des cystides capitées avec dépôt; sp. 6-7,5x2,5-3 µm $Hyphodontia quercina (Fr.) Erikss. 1958
+47,0 $Odontioïde ; nombr. cystidioles subulées ; sp. 5-6,5x 2,5-3 µm $Hyphodontia crustosa (Fr.) Erikss.1958
+48,0 $Dimitique : Voir $Schizopora paradoxa  (Schrad. :Fr.)Donk
+48,0,n $Ancien : Irpex paradoxus Schrad. = I. digitatum Pers. = Sistotrema Cerasi Pers. - Nolay (Bg.).Talant, sur branche de cerisier. Paradoxus croît surtout sur le prunier ou le cerisier.Récent : Domois, sur chênes, le 22 janvier 2005 (JCV)Nom valide : Schizopora paradoxa  (Schrad. :Fr.)Donk
+48,49 $Monomitique
+49,0 $Cystidioles capitées grandes, émergentes, 50-70x6-8 au sommet, x 7-10 µm vers le bas; sur Salix $Hyphodontia pilaecystidiata (Lund.)Erikss. 1958
+49,50 $Cystidioles capitées plus petites, non renflées vers la base
+50,0 $Eléments capités rares et peu différenciés; au sommet des aiguillons h. terminées en pointe; sp. 5-5,5x3,5-4,5 µm $Hyphodontia pruni (Lasch.) Erikss. & Ryv. 1976
+50,51 $Eléments capités porteurs de dépôts résineux
+51,0 $Quelques gloéoc. avec étranglements et sommet pointu; aiguillons de 1-2 mm. ; sp. 4,5-5,5x3,5-4 µm $Hyphodontia spathulata (Fr.) Parm. 1968
+51,52 $Pas de gloéoc. ; aiguillons plus courts
+52,0 $Des leptocystides incluses + ou - toruleuses ; sp. 5-6x3-3,5 µm $Hyphodontia breviseta (Karst.) Erikss. 1958
+52,53 $Pas de leptocyst. toruleuses ; sp. 5-6x3,5-4-(4,5) µm (espèces difficiles)
+53,0 $Hyménium blanc à crème; aiguillons peu serrés laissant voir le subiculum $Hyphodontia aspera (Fr.) Erikss. 1958
+53,0 $Hyménium crème à ocre rougeâtre, densément odontioïde $Hyphodontia verruculosa Erikss. & Ryv. 1976
+
+
+cs3,0$Les Peniophora
+rem $Les Peniophora
+1,cs4 $Fructifications plus ou moins orangées ou rougeâtre, hyphes de la trame non brunes $$s"Sous-genre Gloeopeniophora"
+1,cs5 $Fructifications grisâtre, brun violacé $$s"Sous-genre Peniophora"
+
+cs4,0$Sous-genre Gloeopeniophora
+1,2 $Avec boucles
+1,4 $Sans boucles
+2,0 $Décortiquant, sur branches de Carpinus betulus $P. laeta
+2,3 $Non décortiquant
+3,0 $Spores 8-10x4-5 µm $P. incarnata
+3,0 ,n$Ancien : Corticium incarnatum Pers. (Peniophora) = Corticium aurantium Pers. = C. lateritia (Pers.) Chaill. = C. aurora Berk.- Gevrey (S.). - Lux, sur charme; sur écorce de coudrier (B.). Sur les vieux bois, en automne et hiver. Hyménium rose saumon. Récent : Parc de la Colombière à Dijon, , le 24 janvier 2005 Nom valide : Peniophora incarnata (Pers, :Fr.)Karst.
+3,0 $Spores 15-20x10 µm $P. aurantiaca
+4,0 $Spores 10x5 µm $P. laurentii
+4,0 $Spores 15-20x12 µm, sur Alnus incana et Alnus glutinosa $P. erikssonii
+
+cs5,0$Sous-genre Peniophora
+1,2 $Sans dendrophyses
+1,16 $Avec dendrophyses
+2,3 $Pas de sulfocystides ou quelques unes isolées
+2,11 $Sulfocystides nombreuses
+3,4 $Fructifications complètement résupinées
+3,7 $Fructifications à bords relevés
+4,0 $Sur conifères. Avec sulfocystides. Sp. 6-7 µm, rarement plus longues $P. pithya
+4,5 $Sur feuillus. Pas de sulfocystides. Spores 8-10 µm
+5,0 $Subiculum fin ou manquant $P. cinerea
+5,6 $Subiculum très développé
+6,0 $Hymenium de couleur gris foncé, violet ou brun. Marge stérile foncée. $P. limitata
+6,0 $Hymenium ocre, brun pâle à marge claire $P. suecica
+7,8 $Sur feuillus
+7,10 $Sur conifères
+8,0 $Marge stérile, si présente, foncée. Sur Fraxinus, Syringa et Ligustrum $P. limitata
+8,9 $Marge stérile peu colorée. Sur autres substrats
+9,0 $Sur Quercus et Fagus $P. quercina
+9,0 $Sur Tilia $P. rufomarginata
+10,0 $Sur branches suspendues à l'arbre d'Abies $P. piceae
+10,0 $Sur branches mortes et troncs de Juniperus $P. junipericola
+11,12 $Hyphes gélatineuses, principalement hyalines. Sulfocystides présentes dans le subiculum et le subhyménium
+11,13 $Hyphes non gélatineuses plus ou moins brunes. Sulfocystides seulement dans le subhyménium et dans l'hyménium
+12,0 $Fructifications verruqueuses. Sur Populus tremula $P. rufa
+12,0 $Fructifications orbiculaires. Sur branches mortes, cortiquées, tenant à l'arbre de Pinus $P. pini
+13,14 $Sur conifères
+13,15 $Sur feuillus
+14,0 $Marge stérile incolore. Subiculum très développé en partie seulement faiblement pigmenté $P.septentrionalis
+14,0 $Si présente, marge stérile foncée. Pas de subiculum, ou alors fortement pigmenté de brun $P. pithya
+15,0 $Sulfocystides nombreuses dans la première couche hyméniale, plutôt sphériques, atteignant 20 µm de largeur $P. nuda
+15,0 $Sulfocytides moins nombreuses, plus étroites, ne dépassant rarement 10 µm, toutes de forme et de taille à peu près identique $P. violaceolivida
+16,0 $Dendrophyses hyalines avec incrustations cristallines $P. versiformis
+16,17 $Dendrophyses d'une autre couleur
+17,0 $Dendrophyses brunes, sans incrustations cristallines $P. meridionalis
+17,18 $Des lamprocystides ou des gloéocystides
+18,0 $Avec lamprocystides subphériques à claviformes $P. lycii
+18,19 $Sans lamprocystides mais avec des gléocystides
+19,0 $Spores ellipsoïdes, sur Ulmus $P. lilacea
+19,0 $Spores allantoïdes. Sur Populus tremula. $P. polygonia
+
+cs6,0$Clé des Gloeocystidiellum
+1,10$le genre Gloeocystidiellum
+1,2 $Hyphes septées sans boucles
+1,6 $Hyphes bouclées
+2,0 $Présence de cystides incrustées $G. convolvens
+2,3 $*Absence de cystides incrustées 3
+3,0 $Spores rondes de 5 µm de diamètre $G. citrinum
+3,4 $Spores ellipsoïdes
+4,0 $Hyphes non cyanophiles, gloéocystides 150-200 µm, espèce méridionale $G. lactescens
+4,5 $Hyphes cyanophiles, gloéocystides ne dépassant pas 90 µm, espèce boréo-continentale
+5,0 $Spores lisses, autour de 4,5-6 µm, en général sur conifères $G. ochraceum
+5,0 $Spores finement verruqueuses (observées dans le Melzer) autour de 6-7 µm, sur Populus sp. $G. karstenii
+6,7 $Spores lisses
+6,8 $Spores verruqueuses ou échinulées
+7,0 $Spores ellipsoïdes, 8-10 µm $G. luridum
+7,0 $Spores allantoïdes, 12-20 µm $G. leucoxanthum
+8,0 $Spores globuleuses, échinulées $G. furfuraceum
+8,9 $Spores non (ellipsoïdes, 8-10 µm, allantoïdes, 12-20 µm, globuleuses, échinulées)
+9,0 $Spores réniformes < 5 µm, fructifications peu épaisses, autour de 50 µm, grisâtre $G. subasperisporum
+9,0 $Spores ellipsoïdes, 5-6 µm, fructifications 100-150 µm, blanche à crème $G. porosum
+10,0$Deux caractères seulement qualifient le genre Gloeocystidiellum :la présence de gloéocystides et les spores amyloïdes$Gloeocystidiellum

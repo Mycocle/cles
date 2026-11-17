@@ -1,0 +1,80 @@
+titre = Pholiota ;;;;;;;;;;;;;;;;;;;;
+commentaire = http://shnvc.e-monsite.com/pages/mycologie/outils-determination.html;;;;;;;;;;;;;;;;;;;;
+Auteur : Eric Michon
+
+champ = PHOLIOTA;espèce;chapeau;cuticule;Couleur;FeSO4;lames;Saveur;Odeur;Habitat;PG;Longueur
+Pholiota;adiposa;15;visqueux;vive;;jaune sale;douce;faible;ubiquiste;oui;>(6)7µm
+Hemipholiota;albocrenulata;10;visqueux;vive;;gris lilas;amère;nulle;Populus;oui;>(6)7µm
+Flammulina;alnicola;8;sec;vive;;jaune pâle;douce;bonbon anglais;Alnus;oui;8-10 µm
+Flammulina;apicrea;;peu visqueux;vive;verdâtre;;douce;cannelle;;oui;
+Flammulina;astragalina;8;visqueux;vive;0;;amère;faible;conifères;nul;<6(7)µm
+Pholiota;aurivella;15;peu visqueux;vive;;jaune sale;;;feuillus;;
+Pholiota;azyma;;;;;;;;;;
+Pholiota;brunnescens;7;visqueux;sombre;;grise;amère;tonneau;carbonicole;petit;>(6)7µm
+Pholiota;cerifera;15;peu visqueux;vive;;jaune pâle;douce;faible;Populus;oui;>(6)7µm
+Pholiota;cerifera;15;peu visqueux;vive;;jaune pâle;douce;faible;Salix;oui;>(6)7µm
+Pholiota;comosa;;;sombre;;;;;Fagus;oui;
+Pholiota;conissans;3;peu visqueux;vive;0;pâle;amère;faible;feuillus;oui;6-8 µm
+Pholiota;conissans var. graminis;3;peu visqueux;terne;0;;;;;oui;6-8 µm
+Pholiota;curvipes;3;sec;vive;;jaune pâle;amère;;feuillus;nul;
+Pholiota;elegans;14;;terne;;jaune;;;;;>(6)7µm
+Pholiota;flammans;6;peu visqueux;vive;verdâtre;jaune citron;subdouce;tonneau;ubiquiste;nul;<6(7)µm
+Pholiota;flavida;6;peu visqueux;vive;;;douce;pharmaceutique;conifères;;
+Pholiota;fusa;;;sombre;0;ocre;;;feuillus;;
+Pholiota;graminis;5;peu visqueux;vive;;jaune sale;herbacée;herbacée;zones humides;;6-9 µm
+Pholiota;gummosa;5;peu visqueux;mate;verdâtre;jaunâtre;douce;nulle;ubiquiste;oui;6-7,5 µm
+Pholiota;gummosa f. obscurofusca;5;peu visqueux;sombre;verdâtre;;douce;nulle;Quercus ilex;oui;6-7,5 µm
+Pholiota;gummosa f. ochrochlora;5;peu visqueux;terne;verdâtre;;douce;nulle;;oui;>(6)7µm
+Pholiota;gummosa var. citriophylla;5;peu visqueux;terne;verdâtre;jaune citron;douce;nulle;;oui;
+Pholiota;henningsii;5;visqueux;vive;;jaune sale;amère;faible;sphagnicole;oui;>(6)7µm
+Hemipholiota;heteroclita;15;peu visqueux;vive;;ocre;douce;raifort;Betula;oui;>(6)7µm
+Hemipholiota;heteroclita;15;peu visqueux;vive;;ocre;douce;raifort;feuillus ;oui;>(6)7µm
+Pholiota;highlandensis;7;peu visqueux;sombre;;blanchâtre;douce;faible;carbonicole;petit;>(6)7µm
+Pholiota;jahnii;10;visqueux;mate;;jaune sale;forte;poivrée;Fagus;oui;<6(7)µm
+Pholiota;jahnii;10;visqueux;mate;;jaune sale;forte;poivrée;feuillus;oui;<6(7)µm
+Pholiota;kuehneri;;;sombre;;;;;;oui;>(6)7µm
+Pholiota;lenta;10;visqueux;terne;;blanchâtre;douce;faible;feuillus;petit;>(6)7µm
+Kuehneromyces;lignicola;;;;;;;;;;
+Pholiota;limonella;15;visqueux;vive;;blanchâtre;douce;agréable (viande fumée);ubiquiste;oui;>(6)7µm
+Pholiota;lubrica;8;visqueux;vive;;blanchâtre;subdouce;agréable;ubiquiste;;>(6)7µm
+Pholiota;lubrica var. obscura;8;visqueux;sombre;;;subdouce;agréable;ubiquiste;;>(6)7µm
+Pholiota;lucifera;8;peu visqueux;vive;;jaunâtre;amère;faible;feuillus humides;non;8-9 µm
+Pholiota;lundbergii;;peu visqueux;terne;;;;aromatique;conifères;oui;>(6)7µm
+Pholiota;mixta;;visqueux;;;sans jaune;douce;faible;;;>(6)7µm
+Pholiota;mixta f. xanthophae;;visqueux;vive;;jaune;;;terricole;;>(6)7µm
+Pholiota;mulleri;6;visqueux;vive;;;subâcre;poivrée;;;5-6 µm
+Pholiota;muricella;5;sec;mate;verdâtre;beige;douce;faible;zones humides;oui;>(6)7µm
+Kuehneromyces;mutabilis;7;glabre;sombre;;café au lait;douce;agréable;ubiquiste;tronqué;6-7,5 µm
+Hemipholiota;myosotis;3;peu visqueux;sombre;;beige;;herbacée;sphagnicole;;>14 µm
+Pholiota;ochroflavida;;;terne;;beige;;nulle;Quercus ilex;;
+Pholiota;ochropallida;;peu visqueux;mate;;beige;;;;;< 6 µm
+Hemipholiota;oedipus;5;visqueux;sombre;;;;farineuse;feuillus;;
+Pholiota;olivacea;;;terne;;;;désagréable;Quercus ilex;oui;
+Flammulina;pinicola;;visqueux;sombre;;;douce;désagréable;conifères;petit;
+Pholiota;pityrodes;;;vive;0;jaune sale;;;zones humides;oui;5-7 µm
+Hemipholiota;populnea;25;sec;sombre;;beige;amère;nulle;Populus;oui;>9µm
+Hemipholiota;populnea;25;sec;sombre;;beige;amère;nulle;Salix;oui;>9µm
+Pholiota;pseudoflavida;;;vive;0;jaune pâle;;;conifères;oui;>(6)7µm
+Pholiota;romagnesiana;;peu visqueux;mate;0;;;;;nul;<6(7)µm
+Pholiota;salicicola;;peu visqueux;vive;;pâle;;inodore;;oui;
+Pholiota;scamba;3;sec;mate;;blanchâtre;subdouce;faible;conifères;oui;>(6)7µm
+Pholiota;sordida;5;visqueux;;;brune;;;;;7-10 µm
+Pholiota;spumosa;7;visqueux;vive;;jaune citron;subdouce;muscat;conifères;petit;>(6)7µm
+Pholiota;squarrosa;15;sec;mate;;jaune pâle;douce;faible;ubiquiste;oui;>(6)7µm
+Pholiota;squarrosoides;8;peu visqueux;vive;;beige;;fruitée;feuillus;;
+Pholiota;subochracea;4;peu visqueux;vive;0;;subdouce;faibe;conifères;nul;<6(7)µm
+Pholiota;subsquarrosa;;visqueux;;;;;;;;
+Pholiota;tuberculosa;5;sec;vive;;jaune pâle;amère;faible chocolat;feuillus;nul;6-9 µm
+
+*;Marcel Bon
+;Champignons d'Europe occidantale
+*;Eyssartier & Roux
+;Guide des Champignons
+*;Regis Courtecuisse
+;Guide des Champignons de France et d'Europe
+*;Kuehner & Romagnesi
+;Flore analytique
+*;M.Bon - P.Roux 
+;(D.M. 129/2003 Genre Pholiota)
+
+;Eric Michon SHNVC 2014

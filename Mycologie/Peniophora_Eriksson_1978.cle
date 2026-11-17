@@ -1,0 +1,55 @@
+titre$ Peniophora
+1,cs1$ Fruitbodies more or less orange to reddish pink,  hyphal texture not brown subgen. $$s"Subgen. Gloeopeniophora"
+1,cs2$ Fruitbodies reddish-grey, violaceous-brown,  hyphal texture at least partly brown ""$"Subgen. Peniophora"
+
+
+
+cs1,0$
+
+1,2 $ With clamps
+1,4 $ Without clamps 
+2,0 $ Decorticating, on branches of Carpinus betulus $ 4.P. laeta
+2,3 $ Not decorticating
+3,0 $ Spores ab. 8-10 x 4-5 pm $ 3. P. incarnata
+3,4 $ Spores ab. 15-20 x 10 pm 1. P. aurantiaca
+4,0 $ Spores ab. 10 x 5 pm $ 5. P. laurentii
+4,0 $ Spores ab. 15-20 x 12 pm, on Alnus incana and  A. glutinosa $ 2. P. erikssonii
+
+
+cs2,0$
+
+
+1,2 $ Without dendrohyphidia
+1,16 $ With dendrohyphidia
+2,3 $ Without or with single sulfocystidia
+2,11 $ With regular, as a rule numerous sulfocystidia
+3,4 $ Fruitbody closely attached to the substrate
+3,7 $ Fruitbody loosening from the margin
+4,0 $ On conifers. With sulfocystidia. Sp. 6-7 ,um,  rarely longer $ 14. P. pithya
+4,5 $ On deciduous wood. No sulfocystidia.  Sp. 8-10,um long 
+5,0 $ Subiculum thin or lacking $ 6. P. cinerea
+5,6 $ Subiculum weIl developed
+6,0 $ Hymenium with dark grey, violaceous or brown  colours. Sterile margin dark $  9. P. limitata
+6,0 $ Hymenium ochraceous - pale brown. No dark  margin $ 20. P. suecica
+7,8 $ On deciduous trees
+7,10 $ On conifers
+8,0 $ Sterile margin if present dark. On Fraxinus,  Syringa and Ligustrum $ 9. P. limitata
+8,9 $ Sterile margin light-coloured. On other substrates
+9,0 $ On Quercus and Fagus $ 16. P. quercina
+9,0 $ On Tilia $ 18. P. rufomarginata
+10,0 $ On hanging branches of Abies $ 12. P. piceae
+10,0 $ On dead branches and trunks of Juniperus ..... $ 7. P. junipericola
+11,12 $ Hyphae gelatinized, mainly hyaline. Sulfocystidia  in both subhymenium and subiculum
+11,13 $ Hyphae not gelatinized, more or less brown.  Sulfocystidia onIy in subhymenium and hymenium
+12,0 $ Fruitbody wartlike. On Populus tremula $ 17. P. rufa
+12,0 $ Fruitbody orbicular. On hanging branches of Pinus. .. $ 13. P. pini
+13,14 $ On coniferous trees
+13,15 $ On deciduous trees
+14,0 $ Sterile margin light-coloured. Subiculum weIl developed,  partly only weakly pigmented $ 19. P. septentrionalis
+14,0 $ Sterile margin dark if present. Subiculum thin or almost  lacking, if present strongly pigmented brown $ 14. P. pithya
+15,0 $ Sulfocystidia of the first hymeniallayer numerous,  rounded, reaching 20 pm in width $ 11. P. nuda
+15,0 $ Sulfocystidia fewer, narrower, as a rule ab. 10 pm,  aIl of about the same shape and size $ 21. P. violaceolivida
+16,0 $ With rounded encrusted cystidia $  10. P. lycii
+16,17 $ Without encrusted cystidia
+17,0 $ Spores eIlipsoid. On Ulmus $ 8. P. lilacea
+17,0 $ Spores allantoid. On Populus tremula $ 15. P. polygonia

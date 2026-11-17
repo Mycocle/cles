@@ -1,0 +1,81 @@
+titre $ LACHNUM - AUSTRALASIAN SPECIES - Spooner 1987-Bibliotheca Mycologica 116: 711 p
+com$ cf  http://nzfungi.landcareresearch.co.nz  /adapt GF  04/2011
+
+
+erreur  ligne  30 non appelée
+
+
+http://nzfungi.landcareresearch.co.nz/html/data_keys_details.asp?NAMEPKey=5136&ID=&keyID=107 
+
+1,2$ Species on leaves or stems of monocotyledons or pteridophytes
+1,18 $ Species on woody substrata, herbaceous stems or leaves of dicotyledons
+2,3$ Apothecia pteridicolous
+2,10 $ Apothecia on various monocotyledonous substrata
+3,0 $ Apothecia almost sessile, disc reddish brown, ascospores cylindric, 8 p< im long $ L. pteridicolum
+3,400 $ Apothecia distinctly stipitate, disc pale yellow to pale orange, ascospores fusoid, longer than 10 um
+4,5 $ Apothecia on pinnae, ascospores usually 1-3-septate
+4,6 $ Apothecia on rhachis, ascospores not or rarely septate
+5,0 $ Receptacle urceolate, margin extended beyond disc surface, hairs closely septate, clavate towards apex, ascospores 0-1-septate, 2-0-3.0 um diam. $ L. filiceum
+5,0 $ Receptacle cupulate, without extended margin, hairs remotely septate, cylindric or tapered, ascospores 3-septate, 3.5-4.0 um diam $ L. pinnicolum
+6,0 $ Hairs very long and slender, 300-600 x 2-0-2.5 um, lacking resinous exudate $ L. brevisporum
+6,7 $ Hairs much shorter and broader, 70-100 x 3-5 um, often pigmented and bearing yellowish or amber coloured particles of resinous exudate
+7,8 $ Ascospores 10-15, um long, cylindric to cylindric fusoid, ends often rounded, hairs bearing brown or amber-coloured particles
+7,9 $ Ascospores 16-24 um long, fusoid, ends attenuated, hairs bearing yellowish or reddish particles
+8,0 $ Paraphyses lanceolate, exceeding the asci by 15-20 um ascospores cylindric, with a row of guttules, hairs 3-4 um diam (If spores 7-10 um long and hairs lack resinous exudate see L. virgineum, found on Pteridium in other areas) $ L. blechnophilum
+8,0 $ Paraphyses subcylindric, obtuse, scarcely longer than the asci., ascospores fusoid to cylindricfusoid, without row of guttules, hairs mostly 4-5 um diam $ L. varians
+9,0 $ Hairs yellow, bearing particles of yellowish exudate, ascospores mostly 14-20 x 1.2-1.5 um $ L. pteridophyllum
+9,0 $ Hairs whitish or pale buff, bearing reddish particles, ascospores mostly 21-24 x 2 um $ L. lanariceps
+10,11 $ Apothecia on culms of palms or bamboo, paraphyses cylindric, obtuse, ascospores filiform, 55-90 um
+10,13 $ Apothecia on other monocotyledonous substrata, paraphyses lanceolate or pointed at apex, ascospores cylindric or fusoid, mostly under 40 um long
+11,0 $ On bamboo culms, ascospores mostly 80-90 um long, in asci 135-145 um long, cells of ectal excipulum thin walled $ L. novoguineense
+11,12 $ On palm stems and petioles, ascospores shorter, mostly 75 um long, asci < 120 um long, cells of ectal excipulum with thin or thickened walls
+12,0 $ Apothecia delicate, 0.4-0.6 mm diam., ascospores 53-60 um long, asci- < 85 um long, ectal cells mostly with thin walls $ L. pritzelianum
+12,0 $ Apothecia robust 1-0-1.5 mm. diam., ascospores 62-77 um long, asci 100-120 um long, walls of ectal cells thickened and agglutinated $ L. palmae
+13,14 $ Ascospores narrowly cylindric and often flexuous, 35-50 um long, 1-3-septate
+13,15 $ Ascospores fusoid or cylindric-fusoid, 25 um long, usually nonseptate
+14,0 $ Apothecia short-stipitate to subsessile, on species of Juncus $ L. apalum var. beatonii
+14,0 $ Apothecia long-stipitate, on leaves of species of Phormium $ L. hyalopus
+15,0 $ Ascospores narrowly fusoid, 20-23 x 1.5-2.0 um paraphyses filiform with pointed tips, hairs tipped with amber-coloured resinous matter, on leaves of Gahnia sp $ L. gahniae
+15,16 $ Ascospores cylindric-fusoid or elliptic-fusoid, either shorter, 8-16 um long or broader, 2.5-3.0 um diam., paraphyses broadly lanceolate, hairs lacking resinous exudate
+16,17 $ Apothecia stipitate, on grasses, ascospores ellipso-fusoid, <16 um long, without a row of guttules
+16,0 $ Apothecia subsessile, on species of Juncus, ascospore cylindric-fusoid, >18 um long, containing a row of guttules $ L. juncinum
+17,0 $ On leaf sheath of Phragmites, discoloured brownish on drying, ascospores 7-10 x 1.5 um. (If apothecia robust or long-stipitate or not discolouring, on roots or debris, compare L. pygmaeum and L. virgineum) $ L. controversum
+17,0 $ On leaves of Poa spp., ascospores 11-16 x 2-3 um $ L. enzenspergerianum
+18,19 $ On leaves of dicotyledons
+18,21 $ On other substrata, mostly lignicolous species
+19,0 $ Apothecia amphigenous on the leaf blade, ascospores> 20 um long $ L. confertum
+19,20 $ Apothecia seated on the indumentum, ascospores< 10 um long
+20,0 $ Hairs dark brown, ascospores 7-10 um long, on Celmisia asteliifolia $ L. willisii
+20,0 $ Hairs white, ascospores 5-6 um, long, on Correa reflexa $ L. correae
+21,22 $ Ascospores <15 um long, fusoid, ellipso-fusoid, ellipsoid or slightly clavate, nonseptate
+21,0 $ Ascospores elongate, >16 u m long, narrowly fusoid or cylindric, becoming septate except in $ L. berggrenii
+22,0 $ Ascospores 3-4 um diam, ellipsoid, paraphyses subcylindric with obtuse apices, hairs commonly >100 um long $ L. ellipsosporum
+22,23 $ Ascospores < 2.5 um diam, fusoid, ellipso fusoid or slightly clavate, paraphyses usually lanceolate, hairs < 90 um m long
+23,24 $ Hairs brown or olive-brown
+23,25 $ Hairs white, rarely pale buff in dried apothecia
+24,0 $ Hairs lacking resinous exudate, ascospores clavate-ellipsoid, with 2 large guttules, paraphyses subcylindric, slightly exceeding the asci; on roots $ L. olivaceobrunneum
+24,0 $ Hairs tipped with white masses of calcium oxalate, ascospores fusoid, with 2 small guttules, paraphyses lanceolate, greatly exceeding the asci; on Rubus canes $ L. clandestinum
+25,0 $ On bark of Eucalyptus; hairs tipped with amorphous, reddish, or amber-coloured matter, asci- < 40um $ L. eucatypticota
+25,26 $ On various substrata; hairs lacking such incrustation, asci seldom >50 um long
+26,0 $ Apothecia large, robust, 2.5-4.0 mm diam., 4-7 mm high, hairs up to 45 um long $ L. pygmaeum
+26,27 $ Apothecia smaller, up to 2.0 mm diam. and 3 mm high, hairs mostly 60-90 um long
+27,28 $ Paraphyses broadly lanceolate, mostly 4-5-7.0 um diam., exceeding asci by 15-30 um
+27,29 $ Paraphyses narrowly lanceolate,, < 4.0 um diam., exceeding asci by 5-10 um
+28,0 $ Ascospores 11.0-15.0 um long, hairs stout, 4.5-5.5 um diam., paraphyses commonly 5.0-7.0 um diam $ L. nudipes vel prox
+28,0 $ Ascospores 7.0-10.5 um long, hairs more slender, 3-0-4.0 um diam., paraphyses commonly 3.0-4.5 um diam $ L. virgineum
+29,0 $ Apothecia 0.5-0.7 mm diam., ascospores fusoid, 7.0-11.5 x 2.0-2.5 um $ L. candidum
+29,0 $ Apothecia larger, 1.0-2.0 mm diam., ascospores clavate-fusoid, 5-5-8.0 x 1-5-2.0 um $ L. curtipilum
+30,0 $ Apothecial disc dark reddish-brown $ L. melanophthalmum
+30,31 $ Apothecial disc pale orange or yellowish
+31,0 $ Ascospores fusoid, nonseptate, 2.5-3.0 um diam., hairs encrusted with amber-coloured resinous exudate $ L. berggrenii
+31,32 $ Ascospore cylindric or fusoid, septate, 1.5-2.5 um diam., hairs with or without resinous exudate
+32,0 $ Ascospores cylindric, slightly tapered below, 5-7-septate, mostly 50-60 um long, hairs pale brown $ L. abnormis
+32,33 $ Ascospores fusoid or cylindric-fusoid, 1-3- septate, mostly 20-45 um long, hairs white or pale brown
+33,0 $ Ascospores mostly >35 um long, cylindric to cylindric-fusoid, asci 10-13 um diam $ L. australiense
+33,34 $ Ascospores < 30 um long, fusoid, asci 5.0-8.5 um diam
+34,0 $ Apothecia large, commonly 2.0-4.0 mm diam, paraphyses lanceolate, exceeding the asci by 15-20 um hairs long, 130-190 um at the margin $ ? not stated
+34,35 $ Apothecia smaller, 0.5-1.5 mm diam., paraphyses subcylindric, not or scarcely exceeding the asci, hairs.< 100 um long
+35,0 $ Ascospores straight, non-flexuous, regularly 3-septate, usually < 30 um long, hairs lacking resinous exudate $ L. sclerotii
+35,0 $ Ascospores curved or flexuous, 0-1-septate, commonly >30 um long, hairs occasionally bearing particles of amber-coloured exudate $ L. nothofagi
+
+http://nzfungi.landcareresearch.co.nz/html/data_keys_details.asp?NAMEPKey=5136&ID=&keyID=107

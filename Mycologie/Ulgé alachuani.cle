@@ -1,0 +1,64 @@
+Rem -->'COPRINUS SUBSECTION ALACHUANI
+1,30$ type
+1,2 $ . Spores smooth, without ornamentation.
+1,28 $ . Spores warty.
+
+2,3 $ . Basidia 4-spored; if spores amygdaloid then never truncate.
+2,0 $ Basidia 2-spored; spores amygdaloid and truncate: $ C. piepenbroekii
+3,4 $ . Average spore length > 10 µm; on dung or soil
+3,9 $ . Average spore length < 10 µm.
+3,20 $ . (if not on dung or soil step 20).
+4,0 $ Elements of veil thick-walled, with ascending terminal elements: $ C. vermiculifer
+4,5 $ . Elements of veil thin-walled; walls < 0.5 µm thick.
+5,6 $ . Breadth of spores < 10 µm.
+5,8 $ . Breadth of spores > 10 µm.
+6,0 $ Not on dung; medium species; veil in patches: $ C. stanglianus
+6,7 $ . On dung; small species; veil hairy.
+7,0 $ Pileus white when young; average spore length > 11 µm: $ C. xenobius
+7,0 $ Pileus yellow when young; average spore length < 11 µm: $ C. luteocephalus
+8,0 $ On dung, growing on sclerotia: $ C. sclerotiorum
+8,0 $ On soil, not on sclerotia: $ C. picaceus
+9,0 $ On dung; spores cylindrical ovoid, rounded rectangular: $ C. filamentifer
+9,10 $ . Not on dung; spores otherwise shaped.
+10,11 $ . Average spore length < 6 µm if veil thin-walled, < 6.5 µm if veil thick-walled.
+10,12 $ . Average spore length > 6 µm if veil thin-walled, > 6.5 µm if veil thick-walled.
+11,0 $ Veil thick-walled; spores globose: $ C. herinkii
+11,0 $ Veil thin-walled; spores the shape of a maize-kernel: $ C. argenteus
+12,13 $ . Elements of veil thin-walled; walls < 0.5 µm thick.
+12,23 $ . Elements of veil thick-walled; walls > 0.5 µm thick in places.
+13,0 $ Large species; pileus 50-100 mm when expanded; base of stipe with dark red-brown rhizomorphs: $ C. strossmayeri
+13,14 $ . Smaller species; pileus 5-40 mm when expanded; no rhizomorphs at base of stipe.
+14,0 $ Spores rounded quadrangular, with apical papilla: $ C. episcopalis
+14,15 $ . Spores subglobose to ellipsoid or ovoid, without apical papilla.
+15,16 $ . Terrestrial, on burned or bare soil, or in lawns.
+15,19 $ . Not terrestrial, not on soil.
+16,17 $ . Average Q of spores > 1.25.
+16,18 $ . Average Q of spores < 1.25.
+17,0 $ Pleurocystidia becoming longer with Q 2.5 and more: $ C. urticicola var. urticicola
+17,0 $ Pleurocystidia up to 55 µm in length with Q c. 2: $ C. fluvialis
+18,0 $ In lawns, often on bare soil; expanded pileus 8-15 mm wide: $ C. epichloeus
+18,0 $ Usually on burned places; expanded pileus 15-30 mm wide: $ C. gonophyllus
+19,20 $ . Average Q of spores < 1.2.
+19,21 $ . Average Q of spores > 1.2.
+20,0 $ Stipe 0.5-2 mm wide; on Phragmites, Juncus, and the like, outdoors: $ C. kubickae
+20,0 $ Stipe 2-6 mm wide; on straw, coconut mattings, rotting textiles and straw containing materials like ceilings in old buildings etc., in Europe usually indoors: $ C. kimurae
+21,0 $ Average Q of spores > 1.55; expanded pileus 10-20 mm wide; spores dark brown $ C. goudensis
+21,22 $ . Average Q of spores < 1.55; expanded pileus 6-15 mm wide; spores pale to medium brown.
+22,0 $ Veil of young pileus dark grey at centre; on dead branches of willow: $ C. urticicola var. salicicola
+22,0 $ Veil of young pileus white, at centre sometimes pale ochraceous; usually on grasses, but also on other vegetable refuse, sometimes on wood: $ C. urticicola var. urticicola
+23,0 $ Veil mixed with long, brown, thick-walled hairs: $ C. spilosporus
+23,24 $ . No long, brown, thick-walled hairs present.
+24,0 $ Walls of velar elements over 2 µm thick in places: $ C. friesii
+24,25 $ . Walls of velar elements up to 1.5(-2) µm thick in places.
+25,0 $ Spores short ovoid or subglobose, lentiform: $ C. phaeosporus
+25,26 $ . Spores broadly ellipsoid, ovoid or slightly rhomboid; not distinctly lentiform.
+26,0 $ Pleurocystidia 20-50 µm wide: $ C. xantholepis
+26,27 $ . Pleurocystidia 10-30 µm wide.
+27,0 $ Veil on pileus dark brown, sepia; excrescences (micr.) often cylindrical with rounded apex: $ C. tigrinellus
+27,0 $ Veil on pileus white or ochre-brown; excrescences (micr.) often tapering with pointed apex: $ C. pseudofriesii
+28,0 $ Spores amygdaloid: $ C. echinosporus
+28,29 $ . Spores ellipsoid, ovoid.
+29,0 $ Basidia 2-spored: $ C. rugosobisporus
+29,0 $ Basidia 4-spored: $ C. phlyctidosporus
+30,0$Basidiocarps very small to medium-sized; expanded pileus 6-60 mm. Pileus with veil made up of weakly to strongly diverticulate, and then often thick-walled elements. Stipe smooth, but in most cases covered with very small velar flocks, especially at base (subsect. Alachuani Sing.).$ALACHUANI
+

@@ -1,0 +1,29 @@
+1,2 $ . Basidia 2- or 3-spored
+1,4 $ . Basidia 4-spored
+2,0 $ Basidia 3-spored: $ C. trisporus
+2,3 $ . Basidia 2-spored
+3,0 $ Base of spores conical; average Q of spores > 1.8; spores breadth 6-7.5 µm: $ C. cinereofloccosus
+3,0 $ Base of spores rounded; average Q of spores < 1.8; spore breadth 7.5-8.5 µm: $ C. saccharomyces
+4,5 $ . On dung or mixed dung
+4,9 $ . Not on dung
+5,6 $ . Spores with rounded base; episporium scarce, often seemingly absent, smooth
+5,8 $ . Spores with conical base; episporium strongly developed, wrinkled
+6,0 $ Smell of raw potatoes or absent; pileus up to 20(-25) mm when expanded; usually growing from sclerotia: $ C. tuberosus
+6,7 $ . Smell strong, (narcotic); pileus up to 12 mm when expanded; never growing from sclerotia
+7,0 $ Spores 6-8 x 3-4.5 µm, cylindrical ellipsoid; pileus usually white, sometimes greyish: $ C. stercoreus
+7,0 $ Spores 7.5-10 x 4.5-6.5 µm; pileus mouse-grey: $ C. foetidellus
+8,0 $ Spores 12-17 x 6-9 µm; often on pure dung (horse): $ C. radicans
+8,0 $ Spores 9-13 x 5-6.5 µm; usually not on pure dung: $ C. narcoticus
+9,0 $ On wood; on moss-covered, horizontal cut surfaces of trunks; smell none or indistinct: $ C. laanii
+9,10 $ . On rotting plants, compost heaps etc
+10,11 $ . Spores with rounded base
+10,12 $ . Spores with conical base
+11,0 $ Average breadth of spores < 6.5 µm; smell of raw potatoes; usually growing from sclerotia; on compost heaps or mixed dung: $ C. tuberosus
+11,0 $ Average breadth of spores > 6.5 µm; smell none or otherwise; never growing from sclerotia; never on dung: $ C. martinii
+12,13 $ . Average breadth of spores > 6.5 µm
+12,14 $ . Average breadth of spores < 6.5 µm
+13,0 $ Episporium smooth, not strongly developed (up to c. 1 µm wide); spore base only slightly conical; smell none; never on dung: $ C. martinii
+13,0 $ Episporium wrinkled, strongly developed (up to c. 2.5 µm wide); spore base distinctly conical; smell strong 'narcotic'; often on dung: $ C. radicans
+14,0 $ Episporium smooth; smell absent or indistinct; average breadth of spores up to 5.5 µm; never on dung: $ C. semitalis
+14,0 $ Episporium wrinkled; smell strongly 'narcotic'; average breadth of spores 5.5 µm and more; sometimes on dung: $ C. narcoticus
+Rem -->KEY TO THE SPECIES IN SUBSECTION NARCOTICI -

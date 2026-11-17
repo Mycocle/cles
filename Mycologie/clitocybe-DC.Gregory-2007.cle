@@ -1,0 +1,224 @@
+titre $  Key to Species of Clitocybe, Ampulloclitocybe, and Infundibulicybe
+com$adapt GF 10/11/2016
+1,0$ source : The Genus Clitocybe of California by Denise C. Gregory, 2007
+1,0$
+
+1,0 $ Stipes arising from sclerotoid fungal mass $  C. sclerotoideae
+1,2 $ Stipes arising from humus, soil, moss or wood$
+2,3 $ Pileus bluish green (sometimes beneath a silvery gray canescence)$
+2,4 $ Pileus some shade of white, yellow, orange, pink, red, green, brown, gray or black$
+3,0 $ Lamellae bluish green to green $ C. odora var. pacifica
+3,0 $ Lamellae white to pale buff $ C. odora var. odora
+4,5 $ Stipe base with abundant or conspicuous rhizomorphs$
+4,9 $ Stipe base with few or no rhizomorphs$
+5,0 $ Basidiocarp growing in montane habitat during spring, often near melting snow $C. albirhiza
+5,6 $ Basidiocarp growing at lower elevations during fall$
+6,0 $ Pileus disc black, margin brown when moist $ C. thiersii
+6,7 $ Pileus brown, light brown, brownish orange, grayish red or dark buff when moist$
+7,0 $ Lamellae not darkening in age, pale orange to orange white  . $  C. vermicularis ssp. americana
+7,8 $ Lamellae darkening in age, white, pale cream, pale buff, or orange white when young, becoming dark buff, brownish yellow, pale orange, grayish orange or brown in age$
+8,0 $ Pileus satiny to heavily canescent, subhygrophanous $C. ramigena
+8,0 $ Pileus glabrous, hygrophanous $  C. foveolata
+9,10 $ Some part of young basidiocarp with shades of purple, violet or lavender$
+9,13 $ Young basidiocarp without any shades of purple, violet or lavender$
+10,11 $ Young pileus light violaceous, light blue, or faintly purple; context 6-35 mm thick at disc$
+10,12 $ Young pileus either some shade of brown or orange white; lamellae and sometimes stipe with faint tints of purple; context ? 6 mm thick at disc$
+11,0 $ Young basidiocarp deep violet or purple $ C. nuda
+11,0 $ Young basidiocarp light violaceous, light blue, or faintly purple $  C. glaucocana
+12,0 $ Young pileus some shade of brown; lamellae lavender or pale gray flushed with pink; stipe concolorous with pileus $  C. tarda var. tarda
+12,0 $ Young pileus orange white; lamellae white to reddish gray; stipe pallid to grayish white with a purple tinge $  C. saeva
+13,14 $ Pileus black, dark brown, or dark green$
+13,17 $ Pileus some shade of red, orange, gray, white, yellow or brown$
+14,0 $ Basidiocarp black or dark brown throughout $ C. atrobrunnea
+14,15 $ Basidiocarp some combination of black, blackish green, pale green, dark brown, brown, light brown, brownish orange, yellowish white, off-white or gray . .$
+15,0 $ Pileus and stipe dark green or blackish green; lamellae pale green. $   C. atroviridis
+15,16 $ Pileus, stipe, and lamellae without green tints; pileus disc black, margin dark brown  or brown, lamellae off-white, yellowish white or gray$
+16,0 $ Pileus glabrous, smooth, and hygrophanous $  C. thiersii
+16,0 $ Pileus finely granular, velutinous or squamulose, not hygrophanous. $ C. trullaeformis
+17,18 $ Pileus some shade of red, orange, or brownish orange$
+17,22 $ Pileus some shade of gray, white, yellow or brown$
+18,0 $ Lamellae darkening in age, pale yellow or orange white when young, darkening to pale orange or light orange in age; odor sweet like frozen orange juice or faintly of Earl Grey tea; pileus brownish orange, fading to pale orange with moisture loss $C. inversa
+18,19 $ Lamellae not darkening in age, pale buff or white; odor strongly of anise or not distinctive; pileus some shade of red, orange or brownish orange$
+19,0 $ Odor strongly of anise; pileus pale orange, pale red, or dull pink moist . $C. oramophila
+19,20 $ Odor not distinctive; pileus reddish brown, orange brown, or brownish orange$
+20,0 $ Pileus hygrophanous, reddish brown or brownish orange, fading to dull orange or apricot color with moisture loss; lamellae pale buff $  C. flaccida
+20,21 $ Pileus not hygrophanous, but may fade slightly in age and dry weather,  reddish brown or orange brown; lamellae white$
+21,0 $ Basidiocarp growing in montane conifer areas near snow, in June or July; pileus reddish brown to orange brown $  C. mitis
+21,0 $ Basidiocarp growing in oak habitat, in January; pileus reddish brown, darker in center  . $ C. sphaerospora
+22,23 $ Pileus gray, grayish brown, brownish gray, or grayish white to grayish red .$
+22,37 $ Pileus some shade of white, yellow (including grayish yellow or yellowish gray) or any shade of brown other than grayish brown or brownish gray$
+23,24 $ Pileus not hygrophanous$
+23,25 $ Pileus either hygrophanous or subhygrophanous$
+24,0 $ Pileus surface slightly viscid when moist; stipe apex ~10 mm in diameter, stipe base bulbous; odor fragrant $C. griseifolia
+24,0 $ Pileus surface dry; stipe apex 20-60 mm in diameter, stipe base attenuated;  odor strong, subspermatic or pungent $C. septentrionalis
+25,0 $ Basidiocarp fruiting in montane habitat during spring, often near melting snow. $C. glacialis
+25,26 $ Basidiocarp fruiting at lower elevations during fall or winter, not associated with melting snow$
+26,0 $ Basidiocarp robust; pileus 40-260 mm in diameter; stipe apex 12-50 mm in diameter $C. nebularis
+26,27 $ Basidiocarp small to medium; pileus 10-90 mm in diameter; stipe apex 3-12 mm in diameter$
+27,0 $ Odor of anise; growing in open grass or weeds $C. plana
+27,28 $ Odor not of anise, but may be fragrant, farinaceous, of green corn husks, or non- distinct; growing in conifer, hardwood, or mixed forest$
+28,0 $ Odor distinctly of green corn husks $C. segeolens
+28,29 $ Odor farinaceous, fragrant, or non-distinct$
+29,0 $ Odor fragrant, fruity like grapes; pileus grayish brown, brown, light brown, or yellow brown, disc darker, pileus paler in age, but darker and grayer with drying; stipe subclavate to clavate, base bulbous at times $Ampulloclitocybe clavipes
+29,30 $ Odor farinaceous or non-distinct$
+30,31 $ Odor and taste farinaceous$
+30,33 $ Odor and taste not distinctive or taste slightly bitter$
+31,0 $ Lamellae darkening in age; lamellae gray, brownish gray, or dull grayish red, when young, becoming darker in age; spores globose or subglobose $C. ditopa
+31,32 $ Lamellae not darkening in age; spores ellipsoid, ellipsoid oblong or obovoid$
+32,0 $ Lamellae brownish gray to orange gray, slow to fade $C. vibecina
+32,0 $ Lamellae white or dingy white, not gray $C. albidula
+33,34 $ Lamellae white or off-white, darkening somewhat in age$
+33,35 $ Lamellae gray, brownish gray, grayish brown, brown, or brownish orange, fading in age$
+34,0 $ Pileus 10-35 mm in diameter; surface distinctly canescent when moist, hygrophanous $C. tenuissima
+34,0 $ Pileus 30-70 mm in diameter, surface glabrous or pruinose, subhygrophanous  . $C. gibba var. occidentalis
+35,0 $ Pileus convex at first, becoming deeply infundibuliform in age; spores 5.9-7.9 x 3.2-  4.4 µm $C. concava
+35,36 $ Pileus subhemispherical or plane at first, becoming plano-concave in age; spores smaller$
+36,0 $ Pileus subhemispherical when young, gray to brownish gray or brownish orange, fading to grayish orange, orange gray, then yellowish white; spores up to 7.5 x 4.1 µm $C. pseudodicolor
+36,0 $ Pileus plane when young, pale ashy gray, becoming grayish brown, fading to  a pale sordid whitish gray or pallid gray; spores up to 6.3 x 3.7 µm . $C. metachroa
+37,38 $ Basidiocarp white, off-white, or yellow toned (including grayish yellow or yellowish gray)$
+37,57 $ Basidiocarp some shade of brown$
+38,39 $ Basidiocarp robust; pileus 40-170 mm in diameter; pileus context thick at disc of mature basidiocarps; stipe apex 10-35 mm in diameter$
+38,44 $ Basidiocarp not with all of the features above; pileus 6-90 mm in diameter;  pileus context thin at disc of mature basidiocarps; stipe apex generally 1-10 mm  in diameter, but may be up to 16 mm in diameter$
+39,0 $ Spore deposit white; hyphal septa without clamp connections $C. harperi
+39,40 $ Spore deposit pale yellow, pink toned, reddish gray, or violet white; hyphal septa with clamp connections$
+40,41 $ Spore deposit pale yellow or pink toned; spores smooth$
+40,42 $ Spore deposit reddish gray or violet white; spores verruculose or a combination of verruculose spores and smooth spores are produced in one basidiocarp$
+41,0 $ Stipe apex 4-7(-13) mm in diameter, stipe equal or the base enlarged (up to 25 mm wide); spores 4-5(-5.5) µm long $C. phyllophila
+41,0 $ Stipe apex 10-35 mm in diameter, stipe subequal to clavate or bulbous (up to 50 mm wide); Spores 5.6-8 µm long $C. robusta
+42,0 $ Spore deposit violet white or paler $C. saeva
+42,43 $ Spore deposit reddish gray$
+43,0 $ Pileus surface dry and unpolished, fibrillose, in age nearly glabrous; spores verruculose, subglobose or broadly ellipsoid, 4-4.5 µm long $C. densifolia
+43,0 $ Pileus surface subviscid to the touch, but pellicle only slightly separable, soon dry;  both verruculose and smooth spores produced in one basidiocarp, spores ellipsoid, 7-9(-  10) µm long $C. irina
+44,0 $ Pileus distinctly viscid, pellicle somewhat separable . (pg. 168) $ C. glutiniceps
+44,45 $ Pileus subviscid, lubricous, moist or dry$
+45,46 $ Pileus hygrophanous or subhygrophanous$
+45,51 $ Pileus not hygrophanous$
+46,47 $ Odor sweet, spicy, of mild to strong anise, farinaceous, rancid, or sour$
+46,48 $ Odor absent or non-distinct$
+47,0 $ Odor sweet, spicy, or of mild to strong anise; pileus yellowish white or orange white;  disc grayish orange, brownish orange or light brown $C. fragrans
+47,0 $ Odor farinaceous, rancid or sour; expanded pileus white, darkening to orange gray, then fading to white; buttons are pale orange or yellowish white $C. subcyathiformis
+48,49 $ Pileus margin pellucid striate$
+48,50 $ Pileus margin not pellucid striate$
+49,0 $ Basidiocarp growing under conifers; pileus hygrophanous, dingy buff or butterscotch, fading to orange white or off-white with moisture loss, disc pale orange to grayish orange . $C. coniferophila
+49,0 $ Basidiocarp growing in open hardwoods; pileus subhygrophanous, watery white to orange white, disc sometimes darker buff, yellowish white or white. $C. regularis
+50,0 $ Basidiocarp growing under hardwoods or sometimes conifers; pileus hygrophanous, watery pallid to yellow, fading to white with moisture loss. $C. candicans
+50,0 $ Basidiocarp growing in grassy habitat; pileus subhygrophanous, white, off- white or gray toned, in wet weather or age with pale vinaceous or pink tones $C. dealbata ssp. sudorifica
+51,52 $ Pileus surface distinctly canescent or chalky in appearance$
+51,53 $ Pileus surface either glaucous or glabrous to the eye, though may appear radiately fibrillose, felty fibrillose, matted fibrillose, or densely appressed silky when viewed through a lens$
+52,0 $ Pileus surface becoming distinctly rivulose and cracked when expanded, white to orange white or yellowish white, with watery brown areas in wet weather; lamellae yellow, buff or light orange; spores ellipsoid, 4-6 x 2.5-3.5 µm. $C. angustifolia
+52,0 $ Pileus surface not becoming rivulose or cracked when expanded, white or orange white; lamellae white or off-white; spores broadly ellipsoid, 4-5.5(-6) x 2.5-3.5(-4) µm $C. cerussata
+53,0 $ Pileus surface glaucous; white, becoming orange white with gray shades; lamellae pale ash gray, then grayish pale orange, drying to yellow $C. smithii
+53,54 $ Pileus surface glabrous to the eye, but appearing radiately fibrillose, felty fibrillose, matted fibrillose, or densely appressed silky when viewed through a lens; white or dingy light yellow; lamellae white, pale yellow, buff, orange white, or faintly grayish red$
+54,0 $ Stipe apex 1-6 mm in diameter; pileus 6-35 mm in diameter; dingy light yellow, yellowish white, grayish yellow or yellowish tan; odor farinaceous, but fading; taste farinaceous or bitter; growing in the open, in bare soil, grass, moss, or in open woods $C. fellea
+54,55 $ Stipe apex 5-20 mm in diameter; pileus 15-150 mm in diameter; white, sometimes becoming dull, dingy, light yellow or sordid gray in age; odor fragrant, disagreeable, mild or absent; taste mild or bitter; growing in woods$
+55,0 $ Pileus 15-60 mm in diameter, white, becoming dull and dingy, disc sordid pale yellow in age; stipe white or off-white, tinged sordid buff or incarnate brown in age; spore deposit white, rarely pale yellow; spores smooth $C. variabilis
+55,56 $ Pileus 30-150 mm in diameter, white, in age light yellow or sordid gray; stipe white with a pinkish white caste, dull gray to buff, pale orange, pinkish white, or pale red; spore deposit reddish gray, sordid pinkish white or pale orange; spores verruculose$
+56,0 $ Pileus 30-90 mm in diameter, white; stipe dull gray to buff, pale orange, pinkish white, or pale red; spore deposit sordid pinkish white, reddish gray or pale orange; spores ellipsoid to broadly ellipsoid, 5.9-6.5 µm long. $C. subconnexa
+56,0 $ Pileus 30-150 mm in diameter, white, in age light yellow or sordid gray; stipe white with pinkish white cast, sordid gray in age; spore deposit reddish gray spores subglobose to broadly ellipsoid, 4-4.5 µm long $C. densifolia
+57,58 $ Pileus not hygrophanous$
+57,67 $ Pileus subhygrophanous or hygrophanous$
+58,59 $ Basidiocarp robust; pileus 20-250 mm in diameter; stipe apex 15-60 mm in diameter$
+58,61 $ Basidiocarp small to medium; pileus 6-100 mm in diameter; stipe apex 1-15 mm in diameter$
+59,0 $ Odor strong, subspermatic, or pungent; taste strong and/or disagreeable; pileus sordid pale-brownish-gray, becoming dull gray or grayish red $C. septentrionalis
+59,60 $ Odor and taste mild, not distinctive; pileus dark brown, brown, yellow brown, vinaceous brown, brownish orange or reddish gray$
+60,0 $ Pileus surface distinctly viscid when wet, vinaceous brown or brownish orange with darker watery spots, paler in age, to reddish gray; spores broadly ellipsoid, 4.5-6 µm long $C. leopardina
+60,0 $ Pileus surface fibrillose scaly or somewhat furfuraceous on the disc, radiate fibrillose toward the margin, dark brown, brown or yellowish brown; spores broadly fusoid, (6-)8-10(-11) µm long. $ampulloclitocybe avellaneialba
+61,0 $ Lamellae very distant; basidiocarp diminutive; pileus grayish orange, 10-15 mm in diameter; stipe apex ± 1 mm in diameter $C. variispora
+61,62 $ Basidiocarp not with all of the features above; lamellae crowded, close, or subdistant; basidiocarp small to medium; pileus some shade of brown, 6-100 mm in diameter; stipe apex 1-15 mm in diameter$
+62,0 $ Pileus 6-12 mm in diameter, vinaceous brown, surface minutely fibrillose scabrous to subgranulose; lamellae vinaceous pallid, darkening to vinaceous in age; stipe dingy vinaceous brown, apex 1-1.5 mm in diameter. $C. scabriuscula
+62,63 $ Basidiocarp not with all of the features above; pileus, lamellae, and stipe without vinaceous tones$
+63,0 $ Basidiocarp growing in bare soil; pileus 6-33 mm in diameter, dingy yellowish tan to grayish ochraceous, dingy light yellow, grayish yellow or yellowish white; stipe concolorous with pileus or paler, apex 1-3(-6) mm in diameter; odor farinaceous but fading, taste farinaceous at first, then bitter $C. fellea
+63,64 $ Basidiocarp not growing in bare soil, not with all of the features above$
+64,0 $ Pileus 7-50 mm in diameter; stipe light brown or brownish orange, apex sometimes lighter $C. trullaeformis
+64,65 $ Pileus 20-100 mm in diameter; stipe light gray, pale orange, orange white,  pale yellow, or white, sometimes darkening in age$
+65,0 $ Stipe darkening in age, orange white, darkening to pale orange, grayish orange or brownish orange; pileus dark brown, brown, brownish orange, grayish orange, or dingy  pale orange, disc slightly darker at times; spores ellipsoid to ellipsoid oblong, not lacrymoid in profile view $C. squamulosa var. sicca
+65,66 $ Stipe not darkening in age, pale orange, orange white, pale yellow, yellowish white, light gray, or pallid; pileus pale brown, pinkish tan, pale orange, pinkish white, or grayish red, disc slightly darker at times; spores ellipsoid, pyriform, obovate, sublacrymoid to lacrymoid$
+66,0 $ Stipe subequal, subclavate, or clavate bulbous, apex 7-15 mm in diameter, base 12-30 mm in diameter, light gray, yellowish white or pallid; spores ellipsoid, 4.5-7 µm long $C. subclavipes
+66,0 $ Stipe equal or base enlarged, apex (2-)4-8(-12) mm in diameter, white, pallid, pale yellow, orange white, or pale orange; spores ellipsoid, pyriform, obovate, sublacrymoid, or lacrymoid, 6.9-9.7 µm long $Infundibulicybe gibba var. gibba
+67,68 $ Odor distinct, fragrant, sweet, fruity, frozen orange juice, Earl Grey tea, anise, farinaceous, pungent, green corn husks, sour, rancid, cheesy, musty, mouse cage, or ammonia$
+67,92 $ Odor non-distinct or absent$
+68,69 $ Odor fragrant, sweet, fruity, of frozen orange juice, Earl Grey tea, or anise .$
+68,82 $ Odor farinaceous, pungent, rancid, sour, cheesy, musty, green-corn-husk-like, mouse-cage-like, or ammonia-like$
+69,70 $ Odor of anise$
+69,72 $ Odor not of anise, but is fragrant, sweet, fruity, frozen-orange-juice-like, or Earl Grey tea-like$
+70,0 $ Basidiocarp growing in a grassy habitat; lamellae not fading, dark brownish gray $C. plana 
+70,71$ Basidiocarp growing in soil, humus, grass, or ice plant, under conifers, hardwoods, or mixed forest; lamellae fading; lamellae brown, light brown, grayish brown, orangish gray, or grayish orange, fading to pale orange, orange white, or yellowish white$
+71,0 $ Anise odor mild to strong; taste mild, fungoid, or faint anise; spore deposit orange white or white $C. deceptiva
+71,0 $ Anise odor faint, odor more sweet or fruity in character; taste fungoid, slightly drying to tongue; spore deposit white $C. obsoleta
+72,0 $ Pileus viscid, 15-35 mm in diameter, light brown, dull tawny olive, or grayish orange, fading to pale orange or white; lamellae off-white, darkening in age, edges staining dingy yellow; odor faintly fragrant; spores weakly amyloid. $C. thujana
+72,73 $ Basidiocarp not with all of the features above; pileus not viscid, but may be moist or lubricous; lamellae edges not staining; spores inamyloid$
+73,0 $ Basidiocarp from a montane habitat, often near snow melt; pileus 10-125 mm in diameter, subhygrophanous, brown, light brown, brownish orange, grayish orange, light orange or pale orange, lighter toward margin, orange white, yellow white or off-white; odor faintly sweet, sometimes farinaceous in age . (pg. 228) $ C. squamulosa var. montana
+73,74 $ Basidiocarp from lower elevations, not associated with melting snow$
+74,0 $ Basidiocarp robust; stipe apex 20-35 mm in diameter; pileus 50-150 mm in diameter, watery brown becoming pale tan to buff in age; odor pleasant. $C. brunneocephala
+74,75 $ Basidiocarp small or medium; stipe apex less than 20 mm in diameter; pileus  10-130 mm in diameter$
+75,0 $ Stipe subclavate to clavate, at times bulbous; pileus brown, light brown, grayish brown, or yellow brown, disc darker, pileus paler in age, though darker and grayer when drying; odor often fragrant, fruity like grapes $Ampulloclitocybe clavipes
+75,76 $ Stipe equal or tapered toward apex or base, not subclavate, clavate or bulbous$
+76,0 $ Lamellae lavender, then pale gray flushed with pink, fading to buff pink or buff; pileus dark brown, fading to brown, light brown, brownish orange, or grayish orange, disc often darker; odor faintly sweet at times; spore deposit dingy pale orange, orange white or pinkish white $C. tarda var. tarda
+76,77 $ Lamellae not lavender, spore deposit white$
+77,0 $ Basidiocarp growing on or near rotting wood; pileus convex to deeply infundibuliform, brown, light brown, brownish orange, or grayish orange, fading to orange white; lamellae pale salmon pink, orange white or off-white; odor sweet, fruity, or like grape Koolaid $C. salmonilamella
+77,78 $ Basidiocarp growing in soil, humus, moss, or grass; pileus hemispherical to plano- concave, but not deeply infundibuliform; lamellae not a pale salmon pink color$
+78,79 $ Pileus, lamellae, and stipe fading to pale yellowish white or off-white$
+78,80 $ Pileus fading to grayish orange, light grayish orange, light orange or pale yellow; lamellae color darkening, fading, or unchanging; stipe color fading or unchanging$
+79,0 $ Odor faintly to moderately sweet or fruity, or faintly of anise; spores 6-9.2 x 3.4-5  µm, ellipsoid, amygdaliform, oblong, ovoid, obovoid, obpyriform, or sublacrymoid . $C. obsoleta
+79,0 $ Odor faintly sweet, slightly farinaceous, or absent; spores 4.3-6.7 x 2.9-4.1 µm, subglobose, broadly ellipsoid, ellipsoid, amygdaliform, obovoid, oblong, or sublacrymoid . $C. pinophila
+80,0 $ Pileus 30-50 mm in diameter, grayish orange fading to light grayish orange; lamellae pallid, color not changing; stipe light grayish orange, color not changing; odor of intact pileus faintly sweet, like frozen orange juice, odor of cut pileus fungoid $C. californiensis
+80,81 $ Basidiocarp not with all of the characters above; pileus vinaceous brown, brown, light brown or brownish orange moist; lamellae color either darkening or fading; stipe color fading or unchanging$
+81,0 $ Lamellae darkening in age, off-white to pale peach, darkening to yellow toned or dull pale orange in age; stipe brownish orange, pale yellow, or orangish white above, orange white to off-white below; pileus 9-60 mm in diameter; odor very sweet when fresh, maple like when dry $C. femoralis
+81,0 $ Lamellae not darkening in age, light orange, pale orange, orange white, or pale yellow; stipe light orange, orange white, or yellowish white above, brown, brownish orange, light brown, or orange below; pileus 25-130 mm in diameter; odor sweet, like frozen orange juice or mild Earl Grey tea, slightly farinaceous when cut. $C. inversa
+82,83 $ Odor farinaceous$
+82,88 $ Odor not farinaceous; but may be pungent, rancid, cheesy, musty, sour, green- corn-husk-like, mouse-cage-like, or ammonia-like$
+83,0 $ Lamellae darkening in age, gray, dull grayish red, or brownish gray, darker in age; odor and taste farinaceous to nauseous farinaceous; pileus 20-40 mm in diameter, smoky brown to pale yellow brown, fading to pallid $C. ditopa
+83,84 $ Basidiocarp not with all of the features above; lamellae not darkening in age; odor farinaceous or slightly farinaceous, but not nauseous farinaceous$
+84,0 $ Lamellae brownish gray or orangish gray, slow to fade in contrast with pileus;  pileus 6-42 mm in diameter, light brown, grayish brown, dark brownish gray  or dark gray, fading to pale dingy buff; odor and taste farinaceous. $C. vibecina
+84,85 $ Basidiocarp not with all of the features above; lamellae colored differently, light orange, pale orange, orange white, pale ochraceous buff, pale yellow, or yellow white; odor and taste variable$
+85,0 $ Pileus 10-50 mm in diameter, light brown, light olive buff, or buff, disc brown, fading to pale olive buff, sordid light orange, sordid light yellow, orange white, or white, disc fading to pale orange or grayish orange; lamellae adnate to short decurrent; stipe apex off-white, buff, reddish gray, or ochraceous buff, base darker, brown, dark brown, or grayish brown; odor and taste farinaceous $C. patelliformis
+85,86 $ Basidiocarp not with all of the features above; pileus without olive tones; lamellae not adnate, but range from subdecurrent to deeply decurrent; stipe color different than above; odor slightly farinaceous; taste absent or mild$
+86,0 $ Pileus deeply infundibuliform in age; lamellae pale yellow, yellowish white, or off-white; stipe equal or base sometimes subclavate or subbulbous; odor sometimes farinaceous in age, but may also be faintly sweet, faintly fungoid, or absent $C. squamulosa var. montana
+86,87 $ Basidiocarp not with all of the features above; pileus plano-concave in age; lamellae with orange tones when young or moist; stipe equal or tapered slightly in either direction; odor variable$
+87,0 $ Pileus 25-130 mm in diameter; stipe 30-100 x 3-20 mm; odor slightly farinaceous when cut, but odor of intact pileus sweet like frozen orange juice or mild Earl Grey tea . . . $C. inversa
+87,0 $ Pileus 15-75 mm in diameter; stipe 15-60 x 2-9 mm; odor slightly farinaceous, faintly sweet, or absent $C. pinophila
+88,0 $ Basidiocarp robust; pileus 40-260 mm in diameter; odor sour, cheesy, musty, or mouse-cage-like $C. nebularis
+88,89 $ Basidiocarp small; pileus 2-50 mm in diameter; odor pungent, rancid, musty, sour, green-corn-husk-like, or ammonia-like$
+89,0 $ Basidiocarp found at elevations of 6000-7500 feet, fruiting April through June; odor mildly ammonia-like or absent $C. atrobrunnea
+89,90 $ Basidiocarp from lower elevations, fruiting December through March; odor musty, rancid, sour, pungent, or green-corn-husk-like$
+90,0 $ Odor musty, rancid or sour; pileus brown, fading to light brown or orange white $C. putrida
+90,91 $ Odor pungent or green-corn-husk-like; pileus with gray, red, or vinaceous tones$
+91,0 $ Odor distinctly green-corn-husk-like; pileus pale grayish brown to gray, becoming vinaceous gray brown or brownish orange, fading to reddish gray or pallid; lamellae pale vinaceous gray brown, grayish red, or dingy orange white $C. segeolens
+91,0 $ Odor usually not distinctive, but is occasionally pungent like a fresh tomato leaf; pileus watery pallid, gray, grayish brown, dingy pale reddish gray, or dingy pinkish brown, fading to orange white, off-white, or white; lamellae white or off-white, becoming tinged orange white or reddish gray in age $C. tenuissima
+92,93 $ Basidiocarp growing on or near a hardwood log or buried wood$
+92,94 $ Basidiocarp growing in soil, humus, moss, grass, sand, or manure$
+93,0 $ Pileus 30-45 mm in diameter, disc black, margin brown or brownish orange, fading to light orange, orange white, creamy yellow, pale buff, or white; spores 5.8-8.2 x 3.5- 4.7 µm. $C. thiersii
+93,0 $ Pileus 10-60 mm in diameter, watery brown, brownish orange, grayish orange, paler and more pink toned when expanded, grayish red, pale red, grayish orange, pale orange, or pinkish white, old specimens dingy buff, light orange or yellow; spores 4-6 x 2.5-   3.5(-4) µm $C. americana
+94,0 $ Basidiocarp growing on manure; pileus 25-40 mm in diameter, very darkbrown, fading to greenish gray, deep olive buff, olive buff, or pale olive buff;  odor mild; taste somewhat bitter to acrid $C. stercoraria
+94,95 $ Basidiocarp growing in soil, humus, moss, grass, sand$
+95,96 $ Basidiocarp growing in montane areas, fruiting April through August$
+95,99 $ Basidiocarp growing at lower elevations, fruiting September through April$
+96,0 $ Pileus 2-26 mm in diameter; pileus, stipe, and lamellae black, dark brown, brown, dark grayish brown, fading to grayish brown; odor absent or mildly ammonia-like $C. atrobrunnea
+96,97 $ Pileus 10-125 mm in diameter; pileus, lamellae, and stipe lighter in color;  odor absent or mild, but not with ammonia tones$
+97,0 $ Pileus silver, gray, or brownish gray, becoming dark brown or yellowish brown when touched or where fibrils are appressed, margin light brown, grayish orange, or light orange, disc sometimes black or dark brown, pileus fading to pale orange or orange white with moisture loss, disc remaining darker for a time; lamellae narrowly adnate, adnate or emarginate; odor absent or faintly sweet $C. glacialis
+97,98 $ Pileus not silver or gray at any time; lamellae decurrent to deeply decurrent$
+98,0 $ Pileus brown, light brown, brownish orange, grayish orange, light orange, or pale orange, lighter toward margin, orange white, yellow white, off-white; lamellae close to subdistant, pale yellow, yellow white, or off-white; stipe light brown, brownish orange, light orange, pale orange, or white; odor absent, faintly fungoid, or faintly sweet, sometimes farinaceous in age . $C. squamulosa var. montana
+98,0 $ Pileus pinkish tan, grayish red, pale orange, or pinkish white, sometimes darker on immature specimens or on disc, sometimes browner in age, sometimes pale from rain, reddish gray, orange white or grayish white; lamellae crowded or close, white, slightly yellow, or orange white, sometimes darker in age, pale orange; stipe white, pallid, pale yellow, orange white, or pale orange; odor absent or not distinctive $Infundibulicybe gibba var. gibba
+99,0 $ Rhizomorphs present, distinct; taste bitter; pileus pinkish brown, grayish red, grayish orange, or pink toned, fading to pale orange or orange white. $C. foveolata
+99,100 $ Rhizomorphs absent or few in number; taste absent, mild, fungoid, slightly metallic, slightly sour or disagreeable, but not bitter$
+100,0 $ Pileus viscid, 15-35 mm in diameter, light brown, dull tawny olive, grayish orange, or paler, fading to pale orange or orange white; lamellae edges staining dingy yellow with bruising; odor absent or faintly fragrant . . $C. thujana
+100,101 $ Pileus dry, moist, or lubricous, but not viscid; lamellae edges not staining.$
+101,102 $ Spore deposit dull or pale yellow, dingy pale orange, orange white, or pinkish white.$
+101,103 $ Spore deposit white$
+102,0 $ Lamellae pallid, then pale butterscotch to dingy orange white; pileus 20-40 mm in diameter, butterscotch or buff, fading to orange white or off-white, disc darker for some time, grayish orange or pale orange; odor and taste not distinctive . $C. coniferophila
+102,0 $ Lamellae lavender, then pale gray flushed with pink, fading to buff pink or buff; pileus10-55(-115) mm in diameter, dark brown, fading to brown, light brown, brownish orange, grayish orange, disc often darker; odor absent, fungoid, or faintly sweet, sometimes farinaceous in age; taste mild, slightly metallic, or fungoid $C. tarda var. tarda
+103,104 $ Lamellae brown, gray, brownish gray, or brownish orange in moist basidiocarp .$
+103,105 $ Lamellae light orange, pale orange, orange white, light yellow, pale yellow, yellowish white, or off-white in moist basidiocarp$
+104,0 $ Pileus convex to deeply infundibuliform; lamellae close or subdistant, brown, fading to grayish brown; stipe fading to grayish brown, or orangish gray; odor and taste not distinctive $C. concava
+104,0 $ Pileus subhemispherical to applanate, disc sometimes shallowly depressed; lamellae crowded to close, gray, brownish gray, or brownish orange, fading to grayish orange, orangish gray, or yellowish white; stipe fading to off-white; odor absent or fungoid; taste mild or fungoid $C. pseudodicolor
+105,106 $ Pileus hemispherical or convex in young basidiocarps, becoming applanate or plano- concave in age; disc flat, slightly depressed, or depressed in age$
+105,108 $ Pileus convex or applanate in young basidiocarps, becoming infundibuliform or deeply infundibuliform in age; disc subumbilicate to deeply umbilicate, or depressed to deeply depressed in age$
+106,0 $ Pileus hemispherical young, plano-concave in age; disc subumbonate to depressed; margin pellucid-striate; surface glabrous, somewhat canescent upon drying; brown, light brown, or grayish orange, fading to brownish orange, pale orange, orange white, pale yellow, pale yellow white, or off-white; odor absent, slightly farinaceous, or faintly sweet; taste absent, mild, or slightly drying to the tongue $C. pinophila
+106,107 $ Pileus convex young, applanate in age; disc flat, shallowly depressed, or depressed; margin not pellucid striate; surface or margin distinctly canescent when fresh; odor not distinctive, or occassionally pungent; taste not distinctive, or may be slightly sour and disagreeable$
+107,0 $ Pileus 10-25(-35) mm in diameter; disc depressed; surface distinctly white canescent when fresh; watery pallid, gray, grayish brown, dingy pale reddish gray, dingy pinkish brown, fading orange white, off-white, or white; odor not distinctive, or occassionally pungent like a fresh tomato leaf; taste not distinctive, or may be slightly sour and disagreeable $C. tenuissima
+107,0 $ Pileus 15-60 mm in diameter; disc flat or shallowly depressed; margin with distinct band of white canescence; brown, grayish orange, tawny olive, brownish orange, fading to pale orange, disc fading more slowly; odor and taste not distinctive. $C. pseudomarginella
+108,0 $ Stipe equal or tapered toward base; rhizomorphs present, abundant; pileus  20-60 mm in diameter, brown or brownish orange, fading to light brown, grayish orange, or pale orange $C. vermicularis ssp. americana
+108,109 $ Stipe equal or base enlarged, subclavate, or subbulbous; rhizomorphs absent;  pileus 10-125 mm in diameter$
+109,0 $ Lamellae close to subdistant, pale yellow, yellow white, or off-white; pileus 10-125 mm in diameter, brown, light brown, brownish orange, grayish orange, light orange, or pale orange, lighter toward margin, orange white, yellow white, off-white; stipe lightbrown, brownish orange, light orange, pale orange, or white; odor absent, faintly fungoid, or faintly sweet, sometimes farinaceous in age $C. squamulosa var. montana
+109,0 $ Lamellae crowded or close, white, slightly yellow, or orange white, sometimes darker in age, pale orange; pileus (15-)30-90 mm in diameter, pinkish tan, grayish red, pale orange, or pinkish white, sometimes darker on immature specimens or on disc, sometimes browner in age, sometimes pale from rain, reddish gray, orange white or grayish white; stipe white, pallid, pale yellow, orange white, or pale orange; odor absent or not distinctive $Infundibulicybe gibba var. gibba
+

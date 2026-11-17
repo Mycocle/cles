@@ -1,0 +1,39 @@
+titre$Bigelow : Key to Subgenera and Sections of Clitocybe in North America
+com$ Adapt GF 30 oct 2014 
+1,0$source : Bigelow , North American Species of Clitocybe II 1985 /// nb : * Not included in Part II
+1,0$
+
+
+1,0 $ Pileus and stipe dark green or blackish green; species small (pileus 1-2.5 cm broad)   $  Subgen. Atroviridae  (A single species C. atroviridis, Pacific coast)
+1,2 $ Pileus and stipe not dark green; species small to large
+2,0 $ Pileus and stipe deep gray blue            $ Subgen. Lazulinae  (A single speciesC. lazulina, Mexico)
+2,3 $ Pileus and stipe not deep gray blue
+3,0 $ Basidiocarp violaceous brown to vinaceous brown; spores smooth and amyloid $ Subgen. Mutabiles
+3,4 $ Basidiocarp white or with colors other than violaceous brown to vinaceous brown, of if basidiocarp with violaceous brown to vinaceous brown series of colors then the spores ornamented and/or inamyloid
+4,0 $ Pileus cutis with vesiculose elements        $ Subgen. Cystoclitus* (A single speciesC. hydrogramma)
+4,5 $ Pileus cutis without vesiculose elements
+5,6 $ Some spores appearing ornamented under oil immersion objective
+5,7 $ All spores appearing smooth under oil immersion objective
+6,0 $ Pileus gilvous, fulvous, vinaceous cinnamon, orange buff or ochraceous brown $ Sect. Eulepistae (Subgen. Infundibuliformes)
+6,0 $ Pileus not with colors of n. 6 above, or white $ Sect. Verruculosae (Subgen. Clitocybe)*
+7,0 $ Spores subfusiform to fusiform or subcylindric in face view, inequilateral in profile $ Sect. Inornatae (Subgen. Clitocybe)*
+7,8 $ Spores ellipsoid, broadly ellipsoid, globose, subglobose, ellipsoid oblong, ovoid or obovoid in face view, in profile sublacrymoid or lacrymoid or merely flattened slightly on apicular side
+8,0 $ Pileus blue green to gray green $ Sect. Odorae (Subgen. Clitocybe)*
+8,9 $ Pileus not blue green to gray green
+9,0 $ Pileus typically small (2-4 cm), sometimes to moderately broad (up to 7 cm), gray to gray brown or sordid buff, not hygrophanous; stipe slender (usually 24 mm), and usually with white rhizoids from the base $ Sect. Vernae (Subgen. Clitocybe)*
+9,10 $ Basidiocarp not with combination of characters in n. 9 above
+10,0 $ Pileus and stipe large, fleshy; pileus not hygrophanous, white, gray, dingy buff, or brown $ Sect. Clitocybe (Subgen. Clitocybe)*
+10,11 $ Basidiocarp not with combination of characters in n. 10 above
+11,12 $ Lamellae gray, gray brown, brownish gray, or dingy violaceous; context very thin to thin on disc
+11,13 $ Lamellae white, or a color other than in n. 11 above; context thin to thick on disc
+12,0 $ Pileus typically 5-15(-25) mm broad; context very thin on disc; stipe 0.5-1.5 (-3) mm thick, brittle $ Sect. Omphalinae (Subgen. Pseudolyophyllum)
+12,0 $ Pileus typically broader than 25 mm; context thin on disc; stipe more than 3 mm thick, usually watery, soft to fibrous $ Sect. Pseudolyophyllum (Subgen. Pseudophyllum)
+13,14 $ Lamellae rusty brown, vinaceous brown, cinnamon, etc., or darkening to one of these colors
+13,15 $ Lamellae white, whitish, pale cream, yellowish, or pale vinaceous buff
+14,0 $ Pileus cutis with encrusted pigments on hyphae $ Sect. Infundibuliformes (Subgen. Infundibuliformes)
+14,0 $ Pileus cutis with pigment primarily in smooth, thickened walls $ Sect. Gilvaoideae (Subgen. Infundibuliformes)
+15,0 $ Pileus white to whitish or pale buff, or variously colored and hygrophanous (if brown then color not due to encrusting pigments on pileus cutis); some species with canescent pileus; some species lignicolous $ Sect. Candicantes (Subgen. Clitocybe)*
+15,16 $ Pileus variously colored, never white or whitish; nonhygrophanous or hygrophanous, color due to encrusting pigments on pileus cutis; pileus surface not canescent; species not lignicolous
+16,0 $ Pileus 5-15(-25) mm broad; context very thin on disc; stipe 0.5-1.5(-3) mm thick, brittle; spores inamyloid $ Sect. Pyxidatae (Subgen. Infundibuliformes)
+16,0 $ Pileus more than 25 mm broad (except C. rubella); context thin to moderately thick on disc; stipe more than 3 mm thick, fibrous or fleshy-fibrous; spores inamyloid or amyloid $ Sect. Infundibuliformes (Subgen. Infundibuliformes)
+16,0,n$(See also Species of Uncertain Position, n. 218-225.)

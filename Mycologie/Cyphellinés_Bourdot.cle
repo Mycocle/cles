@@ -1,0 +1,283 @@
+1,2 $ Leucospores : Cyphelles à spores blanches
+1,cs1 $ Chromospores : Cyphelles à spores brunes $$s"Genre Phaeocyphella"
+
+2,3 $ Stroma nul ou floconneux
+2,4 $ Stroma membraneux
+
+3,cs2 $ Espèces gélatineuses $$s"Genre Cytidia"
+3,cs3 $ Espèces céracées ou tenaces, en forme de cupules ou de tubes cylindriques, sessiles ou stipitées $$s"Genre Cyphella"
+
+4,0 $ Appareils hyménifères concaves $ Porothelium fimbriatum (Pers.) Fr.$s"Genre Porothelium"
+4,0 $ Appareils hyménifères plans ou convexes $ Punctularia tuberculosa Pat. $s"Genre Punctularia"
+4,0,N$ ///Équateur et Brésil
+
+
+Cs1,0 $ Chromospores : Genre Phaeocyphella
+ 
+1,0 $ Réceptacles groupés sur un tapis évanescent $ Phaeocyphella endophila (Ces.) Pat.
+1,2 $ Réceptacles non groupés sur un tapis évanescent
+
+2,0 $ Réceptacle 0,5-4 mm blanc gris $ Phaeocyphella galeata (Schum.) 
+2,3 $ Réceptacle 02-05 mm
+
+3,0 $ Réceptacle blanc gris ; hyménium blanc puis gris $ Phaeocyphella muscicola
+3,0 $ Réceptacle blanc ; hyménium blanc ou jaune clair $ Phaeocyphella chromospora
+
+
+Cs2, 0 $ Espèces gélatineuses : Genre Cytidia
+
+1,0 $ Hyménium orangé, glabre et lisse $ Cytidia rutilans (Pers.) Quél.
+1,0 $ Hyménium brun +/- foncé souvent veiné ridé $ Cytidia flocculenta (Fr.) v. Höhn. & L.
+
+
+cs3,0 $ Espèces céracées ou tenaces : Genre Cyphella
+
+1,2 $ Réceptacles délicats, membraneux céracés minces, tubuliformes, tubiformes, campanulés, urcéolés ou cupulaires $$s"Section Calyptella Quél."
+1,32 $ Réceptacles céracés ou membraneux coriaces, cupuliformes, aplanis, concaves et fermés sur le sec ; orifice souvent villeux $$s"Section Cyphella Quél."
+1,40 $ Réceptacles presque subéreux ou coriaces, piriformes ou urcéolés, groupés, souvent sur un tapis feutré ou floconneux $$s"Section Solenia Fr."
+
+2,3 $ Agrégés, tubuliformes très délicats, fixés par le sommet ou par le côté, blancs
+2,4 $ Epars, tubiformes, infundibuliformes, urcéolés ou cupulaires, stipités ou sessiles
+
+3,0 $ En petits groupes serrés, ou fasciculé ; réceptacle cylindrique un peu claviforme, 2-5 mm long. Ordinairement sur bois de feuillus $ Cyphella fasciculata (Pers.) Pat.
+3,0,N $ = Rectipilus fasciculatus (Pers.:Fr.) Agerer 1973. Bas. : Solenia fasciculata Pers. 1822, différent de Cyphella fasciculata.Bert. &amp; Curt. Merismodes fasciculatus (Schw.) Earle (Bas. : Cantharella fasciculata Schw.). Voir Agerer 1973 pour une étude détaillée des genres Henningsomyces et Rectipilus.
+3,0 $ Réceptacles non fasciculés, mais en groupe dense, cylindriques, 1-2 mm long. Ordinairement sur bois de feuillus $ Cyphella candida (Pers.) Pat.
+3,0,N $ = Henningsomyces  mutabilis (Pers.) Kuntze 1898. Voit surtout Agerer 1973.
+3,0 $ Réceptacles en groupes, non contigus, 0,5-0,8 mm, suspendus obliquement. Sur sapin, genévrier $ Cyphella nivea Quél.
+3,0,N $ = (?) Henningsomyces mutabilis Agerer 1973. Synonymie envisagée avec réserves par Agerer 1973 (p. 413). Bourdot et Galzin pensent que les numéros 240 et 241 sont voisins, et signalent l’existence d’un Cyphella nivea Fuckel (= Cyphella niveola Sacc.) et d’un Cyphella nivea Crouan (un mystère pour Agerer 1983, p. 288).
+
+4,5 $ Stipités
+4,17 $ Sessiles
+
+5,6 $ Sur bois ou écorces
+5,8 $ Sur tiges herbacées et feuilles
+5,15 $ Sur mousses ou algues
+
+6,0 $ Sur cônes et ramilles de pin. Tout blanc ; stipe grêle, 6 mm ; réceptacle infundibuliforme, gibbeux, 1 mm de diamètre $ Cyphella infundibuliformis (A. Schw. Helotium) Fr.
+6,0,N $ = ? Nomen dubium ! Donk 1959 synonymise avec Helotium gibbum A. &amp; S. 1805 =&nbsp;?? 
+6,0 $ Cendré blanchâtre ; haut. 0,5-0,7 mm, très brièvement stipité obliquement ; spores ovoïdes 2,5-3 x 2 µm (Pat.). Sur rameaux décortiqués, Jura $ Cyphella perexigua Sacc.
+6,0,N$ =&nbsp;? Les dimensions sporales données par Patouillard (2,5-3 x 2) sont surprenantes ! Cf. Cyphella albissima.
+6,7 $ Jaunâtres
+
+7,0 $ Cupulaire, 2-4 mm de diamètre, striolé de fibrilles noires, à la fin lacéré, nettement stipité ; haut. 4-6 mm. Brindilles entassées $ Cyphella lacera Fr.
+7,0,N $ = ? (un Calyptella&nbsp;?). 
+7,0 $ Turbiné sur le sec, hémisphérique sur le frais, 0,5-0,7 mm de diamètre, revêtu de poils paille, lisses, aigus, de 3 µm de diamètre, très brièvement stipité ; hyménium blanchâtre ou jaune clair ; spores elliptiques, 9-10 x 4-5 µm. Sur tilleul, Silésie $ Cyphella straminea Schrœt. Sacc.
+7,0,N $ =&nbsp;? (un Calyptella&nbsp;?).
+
+8,0 $ Sur feuilles de marsaule. Blanc, 1-2 mm de diamètre, couvert de cils étalés $ Cyphella niveola Sacc.
+8,0,N $ = Seticyphella niveola (Sacc.) Agerer 1983. C’est le Cyphella nivea de Fuckel 1869 mais pas celui de Crouan 1867 ni celui de Quélet 1895. C’est peut-être le Cyphella ciliata de Sauter 1845 (voir Agerer 1983).
+8,9 $ Sur tiges herbacées et chaumes de graminées
+
+9,10 $ Espèces glabres
+9,13 $ Espèces pubescentes ou fibrilleuses
+
+10,11 $ Blanches ou blanchâtres
+10,12 $ Sulfurines ou jaunâtres
+
+11,0 $ Obliquement cupulaire ou campanulé conique, atténué en stipe ; spores 7,5-9 x 4-4,5 µm $ Cyphella capula (Holmsk.) Fr.
+11,0,N $ = Calyptella capula (Holmsk.:Fr.) Quélet 1879 (?). On peut trouver une clef du genre Calyptella Quélet dans Singer 1977, qui signale plusieurs espèces voisines venant sur Dicotylédones ; Calyptella capula sensu Donk, Cal. gibbosa (Lév.) Quélet, Cal. flava Singer et  Cal. campanulata (Nees:Fr.) W.B.Cooke. Elles se distinguent par les dimensions des spores et la présence éventuelle d’un pigment jaune plus ou moins persistant. Une monographie du genre serait bien utile.
+11,0 $ Cupule 3-5 mm de diamètre, infundibuliforme, gibbeuse à la base ; stipe grêle, long de 1-3 mm. Sur tiges de pommes de terre $ Cyphella gibbosa Lév.
+11,0,N $ = Calyptella gibbosa (Lév.) Quélet 1866. Combinaison acceptée par Cooke 1962 et par Singer 1986. Cyphella capula pour Quélet.
+11,0 $ Cupule oblongue, blanchâtre, diaphane. Sur graminées sèches, Angleterre $ Cyphella cuticulosa (Dicks.) Bk. Fr.
+11,0,N $ = Cellypha goldbachii Donk 1959&nbsp;? Synonymie envisagée par Donk 1959 (p. 86 et 87) mais avec trop de réserves pour nommer son espèce «&nbsp;Cellypha cuticulosa&nbsp;» (en cas de synonymie CyphelIa cuticulosa Dick. 1793 aurait priorité sur Cyphella goldbachii Weinn.1886).
+
+12,0 $ Ouvert obliquement ; hyménium veiné scrobiculé $ Cyphella laeta Fr. 
+12,0,N $ = Calyptella laeta (Fr.) W.B. Cooke 1962. La dernière combinaison, synonymisée par Cooke 1952 avec Cyphella capula var. flocculosa R.&amp; O. (voir le numéro précédent), est ignorée dans la clef de Singer 1977 et dans Singer1988, mais admise dans Ellis &amp; Ellis 1990.
+12,0 $ Largement campanulé, atténué en stipe court ; hyménium lisse $ Cyphella sulfurea Fr.  
+12,0,N $ = Cyphella copula pour Quél. = ?? Nomen dubium. Voir Donk 1959 p. 63.
+
+13,0 $ Campanulé, 2-5 mm de diamètre, gris cendré avec marge blanche, pubescent ; spores ovoïdes, 5-7 x 4-5 µm $ Cyphella albomarginata Pat.
+13,0,N $ D’après Cooke 1952 (p.106) il ne reste plus aucun specimen dans l’herbier de Patouillard.
+13,0 $ Campanulé, 4-6 x 2-3 mm, à la fin lacéré multifide, densément striolé de fibrilles noires ; spores pruniformes, 10-12 µm (Quél.). Tiges pourrissantes entassées $ Cyphella lacera Fr.
+13,0,N = ? (un Calyptella&nbsp;?). 
+13,0 $ Campanulé, 2-3 x 1 mm, à la fin ondulé et fendu, tomenteux, noir violacé et granuleux-strié $ Cyphella gilletii Pat.
+13,0,N $ =&nbsp;?? Cité sans commentaire dans Cooke 1962 ; un Calyptella&nbsp;?
+13,14 $ Pubescents ou hérissés, blancs ou jaune pâle
+
+14,0 $ Cupule 4 x 2 mm, fasciculé, cyathiforme, pubescente, blanche ou jaune pâle ; stipe grêle, court $ Cyphella pimii Phill.
+14,0,N $ = Calyptella lacta (Fr.) W.B. Cooke 1962. Synonymie par Cooke 1962.
+14,0 $ Cupule tubiforme, obliquement atténuée en stipe, villeuse hispide, blanchâtre, tordue sur le sec ; hyménium ruguleux, pâle, farineux $ Cyphella tuba Weinm.
+14,0,N $ =&nbsp;? Cité mais non étudié par Cooke 1962.
+
+15,0 $ Sulfurin, cupuliforme, villeux. Groupé sur des Vaucheria dans des pots à fleurs $ Cyphella vernalis Weinm.
+15,0,N $ =&nbsp;? Cité mais non étudié par Cooke 1962.
+15,16 $ Blancs ou un peu grisonnants
+
+16,0 $ Urcéolé, subsessile, dressé, pubérulent ; marge très entière $ Cyphella elegans Saut.
+16,0,N $ D’après Donk 1962 (p. 135) la description princeps est insuffisante, comme c’est souvent le cas pour les Cyphelles muscicoles. 
+16,0 $ Urcéolé, puis campanulé, suspendu par un stipe égal ; marge très entière $ Cyphella neckerae Fr.
+16,0,N $ = Rimbacchia neckerae (Fr.) Redhead 1984 = Leptoglossum candidum Reid 1965. Singer 1986 range encore cette espèce dans le genre Mniopetalum Donk 1962 que REDHEAD 1984 synonymise avec le genre Rimbachia Patouillard 1891.
+16,0 $ Aplani, conchoïde, spatulé, villeux ; marge ondulée ; hyménium ruguleux $ Cyphella muscigena (Pers.) Fr. non Bres.
+16,0,N $ = Leptoglossum muscigenum (Bull.:Fr.) Karst. 1878 (nom. rej.) =  Arrhenia spathulata. (Fr.) Redhead 1984 (Bas: Cantharellus spathulatus Fr. 1828). Voisin de Arrhenia retiruga (Bull.:Fr.) Redhead 1984 (Bas.: Helvella retiruga Bull. 1791 ; la synonymie avec cette dernière espèce est envisagée par Reid 1964 p. 146 ; voir aussi Redhead 1984 p. 876). Arrhenia muscigena (Pers.) Quélet, cité par Bourdot &amp; Galzin, n’est autre que Cyphellostereum laeve (Fr.) Reid (cf. Redhead 1984, p. 876). D’après B.&amp; G. le Cyphella muscigena de Bresadola est synonyme de Arrhenia auriscalpiurn (Fr.). Le Cyphella muscigena de Burt, cité par B.&amp; G, est synonyme de Cyphellostereum laeve (Cf. Reid 1965, p. 239). (Communiqué par B. Duhem).
+
+17,0 $ Sur Diatrype, Valsa, etc. ; campanulé, 1-2 mm, villeux, blanc, poilu et cilié, peu ouvert ; spores ellipsoïdes, 10-13 µm (Quél.) $ Cyphella episphaeria Quél.
+17,0,N $ = (?) Episphaeria fraxinicola (Berk. &amp; Br.) Donk 1962 (Bas : Cyphella fraxinicola Berk &amp; Br. 1895). Donk 1962 (p. 337) estime que les dimensions sporales attribuées à ces deux Cyphella sont trop différentes pour affirmer leur synonymie, ce qui n’est pas l’avis de Reid 1958 (p. 439). D'autre part il est peu vraisemblable que Bourdot et Galzin n’aient jamais vu Episphaeria fraxinicola qui n’est pas rare.
+17,0 $ Sur feuilles de hêtre ; globuleux, puis campanulé, 0,5-1 mm, blanc pur, pubescent $ Cyphella faginea Lib.
+17,0,N $ = Flagelloscypha faginea (Lib.) Cooke 1962. Confirmation et autres synonymies dans Agerer 1975.
+17,0 $ Sur mousses ; membraneux mince, ruguleux, sessile ou stipité, cupulaire, étalé, conchoïde, spatulé, etc. $ Cyphella muscigena (Pers.) Fr. non Bres.
+17,0,N $ = Leptoglossum muscigenum (Bull.:Fr.) Karst. 1878 (nom. rej.) =  Arrhenia spathulata. (Fr.) Redhead 1984 (Bas: Cantharellus spathulatus Fr. 1828). Voisin de Arrhenia retiruga (Bull.:Fr.) Redhead 1984 (Bas.: Helvella retiruga Bull. 1791 ; la synonymie avec cette dernière espèce est envisagée par Reid 1964 p. 146 ; voir aussi Redhead 1984 p. 876). Arrhenia muscigena (Pers.) Quélet, cité par Bourdot &amp; Galzin, n’est autre que Cyphellostereum laeve (Fr.) Reid (cf. Redhead 1984, p. 876). D’après B.&amp; G. le Cyphella muscigena de Bresadola est synonyme de Arrhenia auriscalpiurn (Fr.). Le Cyphella muscigena de Burt, cité par B.&amp; G, est synonyme de Cyphellostereum laeve (Cf. Reid 1965, p. 239). (Communiqué par B. Duhem).
+Rem$ La ligne suivante (17) n'appelle pas la ligne18 ; c'est le 17,24 qui l'appelle...
+17,18 $ Sur fougères
+17,19 $ Sur plantes herbacées
+17,24 $ Sur ronces, clématite, plantes ligneuses
+
+18,0 $ Cupuliforme, 3-5 mm, subcylindrique, blanc, à poils claviformes fasciculés $ Cyphella friesii Crouan
+18,0,N $ Calyptella Quél., Fl., 26 (digité, 1-2 mm ; spore pruniforme oblongue). =&nbsp;?? Pas même mentionné dans Cooke 1962. 
+18,0 $ Obliquement cupulaire, villeux ; poils granuleux, 100 x 4 µm, obtus  au sommet ; spores 4-7 x 2-3 µm $ Cyphella filicina Karst.
+18,0,N $ Nom actuel : Nochascypha filicina (Karst.) Agerer 1983./// = Lachnella filicina (Karst.) Cooke 1962/// ===> C’est le type du genre Nochascypha Agerer 1983.
+
+19,20 $ Sur joncs, graminées, carex
+19,22 $ Sur ombellifères, cirse, ortie, etc.
+
+20,0 $ Cupule concave puis aplanie, grise. Sur chaumes et feuilles de Triticum repens $ Cyphella culmicola Fuckel
+20,0,N $ =&nbsp;?? Cooke 1962 synonymise cette espèce avec Glabrocyphella epileucina (Sacc.) Cooke. Le genre Glabrocyphella Cooke 1962, dont la définition est bien sommaire, ne semble pas contenir d’autres espèces européennes. A noter que Bourdot et Galzin estiment que les numéros 249 et 250 sont bien voisins (!).
+20,21 $ Cupule blanche
+
+21,0 $ Profondément concave, 2-3 mm de diamètre ; spores ovoïdes. Sur joncs $ Cyphella junci Crouan
+21,0,N $ =&nbsp;?? Cité (ut Cyphella junci Crouan 1867) dans COOKE 1952, mais non étudié.
+21,0 $ Plante villeuse à poils claviformes ; spores claviformes, 10-18 x 3-5 µm $ Cyphella lactea Bres.
+21,0,N $ = Cellypha goldbachii (Weinm.) Donk 1959. Un des nombreux synonymes de cette jolie espèce (cf. Donk 1959 et Reid 1964).
+21,0 $ Plante villeuse, urcéolée, lobée ; spores moitié plus petites que dans le précédent. Sur chaumes de graminées, seigle, canche, etc. $ Cyphella goldbachii Weinm.
+21,0,N $ = Cellypha goldbachii (Weinm.) Donk 1959. Voir Donk1959 et Reid 1964 pour de nombreux synonymes de cette très belle espèce.
+
+22,0 $ Gris noirâtre, pulvérulent ou poilu ; cupuliforme, 2-3 mm de diamètre $ Cyphella cirsii Crouan
+22,0,N $ Cité mais non étudié dans Cooke 1962. 
+22,23 $ Blancs
+
+23,0 $ 1 mm à peine de diamètre et de haut., cylindrique ou digitaliforme suboblique, blanc, villeux ; spores 5 x 3 µm ; poils granuleux, 100 x 2,5-3,5 µm. Sur ombellifères $ Cyphella solenioides Karst.
+23,0,N $ = Nochascypha filicina (Karst.) Agerer 1983. Synonymie par Agerer 1983. 
+23,0 $ 2-3 mm. Hyménium lisse, puis plissé veinuleux, jaunissant $ Cyphella malbranchei Pat.
+23,0,N $ = Cyphella goldbachii (Weinm.) Donk 1959. Synonymie par Donk 1959. Cyphella lactea pour Quélet.
+
+24,25 $ Espèces blanches
+24,29 $ Espèces grises ou jaunâtres
+
+25,0 $ Dimidié conchoïde, 1 cm de diamètre, tomenteux ; hyménium incarnat ; spore allantoïde, 7 x 2 µm. Bois morts $ Cyphella cyclas Cooke et Phill.
+25,0,N $ = Auriculariopsis ampla (Lév.) Maire 1902. Synonymie par Donk 1959.
+25,0 $ Turbiné, puis campanulé, subsessile, villeux ; hyménium blanc $ Cyphella albissima Pat. &amp; Doass.
+25,0,N $ = Calathella eruciformis (Batsch:Fr.) Reid 1964. Cyphella erucaeformis et Cyphella albocarnea, mentionnés dans ce même numéro, sont synonymes (voir Reid 1964).
+25,26 $ Subcupuliforme ou hémisphérique
+
+26,0 $ Sur branches de sapin. Campanulé, villeux, poils 4-4,5 µm, granuleux ; hyménium lisse ; spore ellipsoïde ou oblongue, 6-8 x 2,5-3 µm $ Cyphella abieticola Fr.
+26,0,N $ = ? D’après les maigres indications de la clef il pourrait s’agir de Cyphella abieticola Karst. = Flagelloscypha abieticola (Karat.) Cooke (voir Agerer 1975), mais certainement pas de Cyphella abieticola Crouan = Chromocyphelia muscicola (Fr.) Donk (voir Donk 1959).  Syn. de Cyphella infundibuliformis in Quél., Ench.
+26,27 $ Sur ronces, framboisier, églantier
+
+27,0 $ 0,5 mm de diamètre ; hémisphérique, couronné à la marge de poils hyalins, fasciculés ; spores globuleuses. Sur églantier $ Cyphella nivea Crouan
+27,28 $ 2-6 mm de diamètre ; subcupuliformes à marge lobée ou déchirée
+
+28,0 $ Groupé, fixé latéralement, 3 mm de diamètre ; hyménium pruineux, veiné ; spores claviformes, 12-15 x 3-5 µm $ Cyphella dumetorum Bomm. et Rouss.
+28,0,N $ = Cellypha goldbachii (Weinm.) Donk 1959. Synonymie proposée par Donk 1959 et confirmée par Reid 1964.
+28,0 $ Cupulaire 2-6 mm de diamètre, puis aplani ; hyménium pâle, sordide ; spores obovales claviformes $ Cyphella rubi Fuck.    
+28,0,N $ = Cellypha goldbachii (Weinm.) Donk 1959. Synonymie par Donk 1959 et par Reid 1964. Syn. de Cyphella griseo-pallida in Quél., Ench. Cf. var. alba de Cyphella griseo-pallida.
+
+29,30 $ Espèces grises
+29,31 $ Espèces jaunâtre clair
+
+30,0 $ Urcéolé, farineux ou furfuracé $ Cyphella urceolata Wallr. ex Fr.
+30,0,N $ = Stigmatolemma urceolatum (Wallr.:Fr.) Donk 1962. Bas.: Solenia urceolata Wallr. ex  Fr. 1828. Souvent synonymisé avec le numéro 262.
+30,0 $ Globuleux, puis campanulé, floconneux, ridé $ Cyphella griseo-pallida Weinm.
+30,0,N $  = ?? Ce binôme a été utilisé pour désigner - à tort - des espèces très différentes comme Cellypha goldbachii (cf. Donk 1979 p. 87) et Stigmatolemma urceolatum (cf. Donk 1962 p. 342). Cooke 1962 le synonymise avec Cyphella lloydiana Pitac 1925 et dit “if the spores were brown this species would be synonymous with Pellidiscus pallidus”. Cependant il crée la curieuse combinaison Cellypha griseopallida (Weinm.) Cooke (le genre Cellypha est toujours considéré comme monospécifique !). Donk 1959 envisage comme possible la synonymie de Cyphella lloydiana avec Pellidiscus pallidus (voir aussi Reid 1964 p. 138). D’autre part, dans la description du numéro 249, rien ne s’oppose à ce qu’il s’agisse de Pellidiscus pallidus, mais la synonymie ne semble pas avoir été faite explicitement.
+
+31,0 $ 2 mm de diamètre, et plus ; cupulaire, villeux, jaune clair ; hyménium pâle ocracé. Sur ronces $ Cyphella ochroleuca (Bk. &amp; Br.) Fr.
+31,0,N $ = Cellypha goldbachii (Weinm.) Donk 1959. Même remarque. Syn. de Cyphella griseo-pallida in Quél., Ench.
+31,0 $ 0,5-1 mm ; orbiculaire, puis lobé irrégulièrement, tomenteux ; hyménium pâle ocracé, à la fin rugueux ; spores ellipsoïdes, 6-9 µm. Tiges de clématite $ Cyphella pallida Rabenh.
+31,0,N $ = Pellidiscus pallidus (Bk.&amp; Br.) Donk 1959. Le genre Pellidiscus Donk a été créé pour cette espèce commune très différente de tous les autres champignons cyphelloïdes. 
+
+32,0 $ Réceptacle blanc, hyménium rose ; urcéolé, 1-2 mm, villeux, atténué à la base ; spore pruniforme allongée, 10 µm. Branches sèches de tremble, Jura $ Cyphella albocarnea Quél.
+32,0,N $ = Calathella eruciformis (Batsch:Fr.) (Bas.: Peziza eruciformis Batsch 1783). C’est le type du genre Calathella Reid 1964.
+32,0 $ Réceptacle blanc, hyménium jaune ; orbiculaire, floconneux ; marge crénelée ; spores 7-10 µm. Ajonc $ Cyphella bloxami Bk. et Phill.
+32,0,N $ = Pellidiscus pallidus (Bk. &amp; Br.) Donk. Synonymie par Donk 1959.
+32,33 $ Réceptacle blanc, hyménium blanc, pâle, glauque, olive ou  violacé
+32,36 $ Réceptacle coloré extérieurement ; plantes lignicoles
+
+33,0 $ Sur troncs cariés d'If. Cupuliforme campanulé, 2 mm, villeux ;  hyménium blanc, puis  bistré ; spore ovoïde $ Cyphella taxi Lév.
+33,0,N $ = Stigmatolemma taxi (Lév.) Donk 1962. Synonymie par Donk 1962, admise par Singer 1986. 
+33,0 $ Sur feuilles pourrissantes. Urcéolé, 0,5 mm, puis étalé, très mince, hérissé et cilié de poils simples ou rameux, 2,5-3 µm de diamètre, à extrémités obtuses, non aspérulés $ Cyphella ciliata Sauter (ss. B. &amp; G.)
+33,0,N$ = Pellidiscus pallidus Donk 1959. Synonynie (ou “misapplication” !) signalée par Donk 1959 (pp. 90-92). Le véritable Cyphella ciliata de Sauter ne sera probablement jamais connu : Agerer 1983 dit qu’il n’y a plus de specimens dans l’herbier de Sauter et envisage, avec des réserves, la synonymie avec Cyphella niveola Sacc.
+33,34 $ Sur tiges herbacées et ligneuses. Cupulaire, globuleux sur le sec ; poils à parois épaisses, aigus, granulés de cristaux ou au moins aspérulés au sommet
+
+34,35 $ 0,5-3 mm de diamètre ; cupuliforme, blanc, épars ou lâchement groupé, assez ferme, persistant ; hyménium lisse, blanc glauque ou violacé
+34,0 $ 0,12-0,20 mm, punctiforme, tout blanc, ordinairement en petits groupes très denses, délicat, presque fugace $ Cyphella punctiformis (Fr.) Karst.
+34,0,N $ Bas.: Peziza  punctiformis Fr. 1822. a&nbsp;: var. punctiformis = Flagelloscypha punctiformis (Fr.) Agerer 1975. b&nbsp;: var. juncicola  =  Flagelloscypha pilatii Agerer 1975. c&nbsp;: var. pilatii  = Flagelloscypha pilatii Agerer 1975. d&nbsp;: var. corticola = Flagelloscypha minutissima (Burt.) Donk 1949. La dernière synomynie est faite par Agerer 1975, ce qui rend superflue la combinaison Fl. citrispora (Pilat) Reid que Reid 1966 avait créée (p. 98). La synonymie des variétés b et c est faite (avec une réserve) dans Agerer 1975. Le type de Fl. pilatii a été choisi par Agerer dans l’herbier de Galzin.
+
+35,0 $ Spore bossue vers la base ; hyménium glauque, gris lilacé ou olivâtre ; 1-3 mm de diamètre ; ordinairement sur plantes ligneuses $ Cyphella albo-violascens (Schw.) Karst.
+35,0,N $ = Lachnella alboviolascens (A. &amp; S.) Fr. 1835. Bien connu ! Pour les différences avec l’espèce suivante, voir Agerer 1983.
+35,0 $ Spore bossue ; hyménium blanc ; 0,5-1 mm de diamètre ; sur plantes herbacées $ Cyphella villosa (Pers.) Cooke &amp; Quél.
+35,0,N $ = Lachnella villosa (Pers.:Fr.) Gillet 1881.
+35,0 $ Spore oblongue subelliptique, obliquement atténuée à la base ; 0,5-1 mm de diamètre ; sur plantes herbacées et ligneuses $ Cyphella orthospora B. &amp; G.
+35,0,N $ = Flagelloscypha orthospora (B.&amp; G.) Bert. et Mal. 1976 (Bas.: Cyphella villosa var. orthospora B.&amp; G. 1910). Voir Agerer 1979. Confusion avec Flagelloscypha citrispora dans Bertault 1983 ?
+
+36,37 $ Cupules plus hautes que larges ; espèces coriaces ou subgélatineuses, fauves ou brunes
+36,38 $ Cupules hémisphériques ou aplanies, plus larges que hautes
+
+37,0 $ Cupule haute de 8 mm, large de 5 mm, brunâtre ; marge grise, pruineuse, incurvée, déchirée ; ostiole oblique ; chair pâle, subgélatineuse ; spores globuleuses 5-6 µm. Epars ou en groupes denses sur écorce et bois de sureau ; Angl. $ Cyphella brunnea Phill.
+37,0,N $ = Stigmatolemma urceolatum (Wallr.:Fr.) Donk 1962 (Bas.: Peziza urceolata Wallr. 1828).
+37,0 $ Cupules fasciculées, villeuses tomenteuses, fauves, à la fin lobées digitées ; spore ellipsoïde, paille, 9-10 x 5-6 µm $ Cyphella fasciculata (Schw.) Bres.
+37,0,N $ = Merismodes fasciculatus (Schw.) Earle 1909. C’est le type du genre Merismodes Earle 1909, généralement considéré aujourd’hui comme synonyme de Cyphellopsis Donk 1931.
+
+38,0 $ Cupule 1 mm, hémisphérique, globuleuse par le sec, villeuse, fauve clair $ Cyphella leochroma Bres.
+38,0,N $ = Maireina  monacha (Speg.) Cooke 1962 (Bas.&nbsp;: Cyphella monacha Speg.) 1880. Synonymie dans Cooke 1962, mais la définition du genre Maireina (Pilat) Cooke est loin d’être claire. Voir à ce sujet Donk 1962, Reid 1964 et Agerer 1978. Note en marge manuscrite : devient le Cyphella bresadolae Grelet comprenant Cyphella leochroma et Cyphella ochroleuca, 
+38,39 $ Cupules grisâtres
+
+39,0 $ Cupule 0,5-1 mm, villeuse, gris brun ; hyménium blanchâtre ; spores subréniformes, 12-14 x 7 µm&nbsp;; poils bruns, granulés et obtus au sommet. Sur frêne, Trentin $ Cyphella tephroleuca Bres.
+39,0,N $ = Maireina monacha (Speg.) Cooke 1962. La dernière combinaison est critiquée par Donk 1962.
+39,0 $ Cupule aplanie, ferme, farineuse-hérissée, gris verdâtre ; hyménium brun bai. Sur vigne $ Cyphella cinereo-fusca (Schw.) Sacc.
+39,0,N $ =&nbsp;? Nomen dubium d’après Donk 1959 (p. 48 et 49). 
+
+40,41 $ Espèces blanches ou paille
+40,43 $ Espèces colorées, plus foncées
+
+41,0 $ Densément groupé et nidulant sur un mycélium membraneux tomenteux, à bords byssoïdes ; cupule hémisphérique, glabre. Ecorces et ramilles de sapin, Jura $ Solenia porioides (A. Schw.) Sacc.
+41,0,N $ = Stromatoscypha fimbriaturn (Pers.:Fr.) Donk 1959.
+41,0 $ Mycélium floconneux, fibrilleux, subradiant, ne formant pas membrane ; cupule hémisphérique, 0,15-0,3 mm, villeuse $ Cyphella araneosa B. &amp; G.
+41,0,N $  =&nbsp;?? Un mystère ! les auteurs font le rapprochement avec Cyphella arachnoidea Peck qui n’est autre que Mniopetalum globisporum Donk =  Rimbachia arachnoidea (Peck) Redhead, mais il s’agit certainement d’une autre espèce.
+41,42 $ Mycélium nul ou à peine distinct
+
+42,0 $ Subsubéreux, obliquement turbiné piriforme, laineux, 1-2 mm, suspendu par un stipe très court ; hyménium concave, blanc ou  glauque ; spore ovoïde, 8-9 µm (Quél.). Sur  feuilles mortes de tremble, rameaux d'aune $ Cyphella erucaeformis (Batsch.) Fr.
+42,0,N $ = Calathella eruciformis (Batsch:Fr.) Reid 1964. 
+42,0 $ Globuleux, puis urcéolé ou cupuliforme, blanc puis paille, pubescent  $ Cyphella fulvescens B. &amp; G.
+42,0,N$ = Maireina fulvescens (B. &amp; G.) Cooke 1962. Espèce à préciser, le genre Maireina est sérieusement critiqué par Donk 1962.
+
+43,0 $ Safrané, densément groupé sur fougère, cylindrique, 0,3 mm haut., dressé, tomenteux ; spores fusiformes clavulées, 9-12 x 3-4 µm $ Solenia crocea Karst.
+43,0,N $ ===> Woldmaria filicina (Peck) Knudsen in Knudsen & Hansen///= W. crocea (Karst.) Cooke 1962. 
+43,44 $ Espèces jaune-incarnat, ocracées ou jaune rouillé
+43,45 $ Espèces grises
+43,47 $ Espèces brunes ou brun roux
+
+44,0 $ Cupules furfuracées villeuses, globuleuses puis piriformes, légèrement atténuées en stipe, blanchâtres, bientôt paille incarnat, puis ocracées, naissant d'un tapis cannelle ; spores ovoïdes, ocre rouillé, 7-9 x 5-6 µm. Sur tiges de Phytolacca dioica $ Solenia endophila (Ces.) Fr.
+44,0,N $ = Phaeosolenia endophila (Ces.) Donk 1962. Singer 1986 sépare toujours les genres Chromocyphella de Toni &amp; Levi 1888 et Phaeosolenia Speg. 1902. Phaeocyphella Pat.
+44,0 $ Subclaviforme, brièvement stipité ; haut. 0,5-2 mm, tomenteux ocracé ; hyménium blanc ; spores oblongues, 6-8,5 x 4-4,5 µm (Bres.). Sur troncs et rameaux, orme, chêne, saule, etc. $ Solenia ochracea Hoffm. Fr.
+44,0,N $ = Merismodes ochraceus (Hoffm.:Fr.) Reid 1964. Combinaison créée par Reid 1964 pour «&nbsp;tuer&nbsp;» le genre Phaeocyphellopsis de Cooke. Cyphella friesi Quél.
+44,0 $ Hémisphérique, 2-4 mm de diamètre, sessile, jaune ocracé ou rouille pâle, revêtu de poils simples, tortueux ; marge ciliée-hyaline ; spores globuleuses. Vieilles écorces, saule, chêne, ajonc $ Cyphella ferruginea Crouan
+44,0,N $ =&nbsp;? Cité sans commentaire dans Cooke 1962.
+
+45,0 $ Stipe jusqu'à 5 mm long. avec un anneau furfuracé ; cupule subglobuleuse, furfuracée, gris foncé, disque noir. Bois pourris $ Solenia annulata Holmsk. Fr.
+45,0,N $ Donk 1959 considère que cette espèce est perdue (p. 47).
+45,46 $ Sessiles
+
+46,0 $ Subconfluent sur subiculum plus pâle ; cupules arrondies, ombre cendré ; spores sphériques, 4,5-6 µm de diamètre. Bois d'arbres à feuilles $ Cyphella poriaeformis DCyphella:Fr.
+46,0,N $ = Stigmatolemma poriaforme (Pers.:Fr.) Cooke 1962. Singer 1986 ne synonymise pas avec Stigm. urceolatum (n° 259). 
+46,0 $ Subconfluent sur subiculum velouté, gris argenté de 1 cm ; cupules urcéolées, gris perle ; spores oblongues, déprimées, 6-9 x 3-4 µm. Conifères $ Cyphella grisella Quél.
+46,0,N $ = Stigmatolemma conspersum (Pers.:Fr.) Donk 1962 (Bas.: Peziza conspersa Pers. 1822). Voir Donk 1962 p. 339.
+46,0 $ Subiculum nul ; cupules urcéolées, gris clair, 1-1,5 x 0,8-1 mm, farineuses ; spores subglobuleuses, 5-6 µm $ Cyphella urceolata Wallr. ex Fr.
+46,0,N&nbsp;$ = Stigmatolemma urceolatum (Wallr.:Fr.) Donk 1962. Bas.: Solenia urceolata Wallr. ex  Fr. 1828. Souvent synonymisé avec le numéro 262.
+47,0 $ Sur tiges herbacées, épilobe, etc. Obconique, brun clair, ombiliqué, presque toujours fermé, villeux, très finement sillonné, atténué en stipe, densément groupé sur un tapis concolore $ Solenia caulium Fuck. Sacc.
+47,0,N $ = Maireina caulium (Fuckel) Cooke 1962. Agerer 1978 (p. 323) estime que la description de Cooke est “zu knapp” !
+47,0 $ Sur troncs et branches de sapin. Digitaliforme, 10-12 x 6-9 mm, brun, rayé de fibrilles ; spores globuleuses $ Cyphella digitalis (Schw.) Fr.
+47,0,N $ = Cyphella digitalis (A.&amp; S.:Fr.) Fr. 1823. Ce célèbre champignon que, suivant Donk 1959, on a longtemps pris pour un Aleurodiscus, est redevenu un Cyphella&nbsp;! Singer 1986 le place dans les Tricholomataceae.
+47,48 $ Sur bois d'arbres à feuilles
+
+48,49 $ Turbinés, stipités ou substipités
+48,50 $ Subglobuleux, ovoïde ou cupulaire, sessile
+
+49,0 $ Densément groupé en petits gazons circulaires, larges de 2 mm, puis confluents ; spores cylindriques arquées, 7-10 x 2-2,5 µm $ Cyphella confusa Bres.
+49,0,N $ = Cyphellopsis confusa (Bres.) Reid 1964. Voisin du précédent dont il se distingue surtout par la moindre largeur des spores. Pour ce groupe inextricable voir Agerer et al. 1980.
+49,0 $ Groupes largement étendus, continus ; spores plus larges, 4-5 µm de diamètre $ Cyphella anomala Pers.
+49,0,N $ = Cyphellopsis anomala (Pers.:Fr.) Donk 1931 = Merismodes anomalus (Pers.:Fr.) Sing. (Bas.: Peziza anomala Pers. ex Fr. 1822). Cyphelle très commune mais posant beaucoup de problèmes&nbsp;!
+
+50,0 $ Sur bois dénudé de peuplier ; cupules 0,5-0,6 mm, brun roux, à poils laineux, à hyménium jaune roussâtre, accolées dans un mycélium brun ; spores cylindriques, 12-15 µm. $ Solenia populicola Pat.
+50,0,N $ = Cyphellopsis populicota Donk&nbsp;?? Signalé en petits caractères dans la flore de Moser (éd. 1983), mais Donk 1962 (p. 346) juge la combinaison prématurée.
+50,0 $ Tubes ou cupules 1 mm de diamètre et de hauteur, subglobuleux, striés tomenteux, châtains, avec orifice blanc, poilu ; spores 8 x 5 µm. Erable, Allemagne $ Solenia spadicea Fuck.
+50,0,N $ =&nbsp;? (un Merismodes s. l.&nbsp;?).
+50,0 $ Cupules oblongues ventrues gris-brun $ Cyphella anomala var. stipata Fr.
+

@@ -1,0 +1,1083 @@
+Titre$ Sous-genre Hydrocybe (Fr.) Trog.
+Rem$ Atlas des Cortinaires – Bidaud & al. - 447 espèces dans la clé
+Com$ Adaptation par A. Paris 2011
+
+1,2$ 1a : Stipe typiquement atténué à la base ; odeur fréquente d’iodoforme et/ou de radis ; Hydrocybes Firmiores et Minores.
+1,4$ 1b : Stipe non atténué à la base, égal ou bulbeux.
+2,CS922$ 2a : Taille petite à très petite. $$s"Sect. Obtusi"
+2,3$ 2b : Taille moyenne ou grande.
+3,CS94$ 3a : Carpophores typiquement cespiteux, à marge brusquement infléchie, comme « serrée dans une tresse », ou à revêtement piléique s’éraillant, « d’aspect vieux ». $$s"Sect. Damasceni"
+3,CS97$ 3b : Carpophores non cespiteux, à marge non contractée et à revêtement piléique lisse. $$s"Sect. Duracini"
+4,5$ 4a : Hydrocybes Firmiores à chapeau tirant sur le brun-rouge ou de teinte très vive tirant sur l’orangé.
+4,7$ 4b : Hydrocybes Firmiores et Minores, soit de teintes moins vives, soit se distinguant par l’aspect du voile.
+5,0$ 5a : Lames chatoyantes (à reflets sanglants) ; carpophores de teinte brun rougeâtre. $Sect. Balaustini (à paraître)
+5,6$ 5b : Lames non chatoyantes.
+6,0$ 6a : Carpophores imbus, d’aspect gras et luisant ou de couleur rouge cuivré et à stipe noircissant à la base. $Sect. Jubarini (à paraître)
+6,0$ 6b : Carpophores d’aspect différent, de teintes très vives, « lumineuses ». $Sect. Renidentes (à paraître)
+7,8$ 7a : Carpophores à chapeau assez terne et à stipe plus pâle, ou entièrement sombres à l’état imbu et parfois presque noirs.
+7,10$ 7b : Carpophores jamais entièrement brun-noir, souvent d’aspect moins terne et à caractères différents.
+8,0$ 8a : Hydrocybes Firmiores à stipe noircissant à la base ou à chair rouillée à la base du stipe. $Sect. Rubricosi (à paraître)
+8,9$ 8b : Hydrocybes Firmiores et Minores très sombres, presque noirs à l’état imbu, à stipe ne noircissant pas.
+9,0$ 9a : Voile laissant généralement une trace annulaire sur le stipe ; souvent odeur de terre ou de pélargonium. $Sect. Biformes (à paraître)
+9,0$ 9b : Stipe généralement nu ou à voile aérifère verdâtre olivacé ; odeur subnulle. $Sect. Uracei (à paraître)
+10,0$ 10a : Hydrocybes Firmiores à restes de voile engainants, laissant une trace annulaire apprimée, certains de teintes vives comme les Renidentes. $Sect. Hydrotelamonia (à paraître)
+10,11$ 10b : Restes de voile d’aspect différent ou insignifiants.
+11,CS916$ 11a : Hydrocybes Minores à voile roussâtre ou rougissant. $$s"Sect. Fulvescentes"
+11,12$ 11b : Voile de teinte différente.
+12,CS926$ 12a : Voile blanc en couronne sur le chapeau ; lames initialement olivâtres ou d’aspect décurrent. $$s"Sect. Plumbosi"
+12,13$ 12b : Voile non en couronne sur le chapeau.
+13,14$ 13a : Hydrocybes Minores à restes de voile formant des méchules plus ou moins retroussées sur le chapeau et/ou en bracelets sur le stipe.
+13,15$ 13b : Hydrocybes Minores ou Firmiores à stipe nu ou à restes de voile moins développés.
+14,0$ 14a : Voile jaune à safrané ; carpophores, en général de teintes vives (jaune à orangé) ; odeur subnulle. $Sect. Saniosi (à paraître)
+14,CS910$ 14b : Voile blanc ou brunâtre ocracé, plus ou moins spiralé sur le stipe et méchuleux sur le chapeau ; odeur de pélargonium, de bois de cèdre ou subnulle. $$s"Sect. Fraterni"
+15,CS91$ 15a : Spores à verrues saillantes (presque des épines) grossièrement ornées ; carpophores généralement sombres, inodores ou à odeur de persil. $$s"Sect. Castanei"
+15,16$ 15b : Spores à verrues non saillantes.
+16,0$ 16a : Hydrocybes Firmiores très sombres ou à coloration violacée dominante ; stipe plus ou moins voilé. $Sect. Saturnini (à paraître)
+16,CS917$ 16b : Hydrocybes Minores plus ou moins sombres ; stipe nu la plupart du temps. $$s"Sect. Hydrocybe"
+
+CS91,0$ Section Castanei Hry. ex Moënne-L. & Reum.
+1,CS92$ 1a : Taxons à spores spinuleuses ou non, peu ou non hygrophanes, inodores ou à odeur de persil, le plus souvent pourvus de pigment violacé ; feuillus et conifères. $$s"Ss-sect. Castanei"
+1,CS93$ 1b : Taxons à spores non spinuleuses, sombres étant imbus, fortement hygrophanes, très décolorants, à odeur de persil ; feuillus. $$s"Ss-sect. Rheubarbarini"
+
+CS92,0$ Sous-section Castanei Bid. & al.
+1,3$ 1a : Forte odeur de persil. $$s"Série Petroselineus"
+1,2$ 1b : Absence d’odeur de persil (ou odeur faible et inconstante).
+2,5$ 2a : Taxons soit à petites spores ou à stipe appointi à la base [Stirps Joannis], soit à spores ovoïdes ou pruniformes de taille médiocre ou moyenne (8-11 µm) [Stirps Castaneus], soit à spores nettement elliptiques, souvent peu ornées [Stirps Subcastaneus]. $$s"Série Castaneus"
+2,22$ 2b : Taxons en général de port svelte, à petites ou très petites spores, 6-8 (8,5) µm. $$s"Série Suberythrinus"
+rem$ Série Petroselineus
+3,4$ 3a : Spores fortement ornées.
+3,0$ 3b : Petites spores, finement piquetées, (5) 5,5-8 (8,5) x 4-4,5 µm ; port élancé ; voile brillant sur les bords du chapeau. $C. argumentosus
+4,0$ 4a : Teinte sombre, brun rougeâtre à reflets souvent purpurins ; parfois cespiteux ; spores subovoïdes, fortement ornées, à verrues spiniformes, saillantes, (6) 7-9 (10) x 5-6 µm. $C. petroselineus
+4,0$ 4b : Teinte plus terne, à stipe radicant et à spores plus petites, (5,5) 6-8 (8,5) x 4,5-5,5 (6) µm. $C. petroselineus var. radicipes
+rem$ Série Castaneus
+5,7$ 5a : Spores nettement elliptiques, souvent étroites ou peu ornées : Stirps Subcastaneus.
+5,6$ 5b : Spores subglobuleuses ou pépiniformes, fortement ornées.
+6,10$ 6a : Petites spores ou stipe fortement appointi à la base : Stirps Joannis.
+6,12$ 6b : Spores pépiniformes, spinuleuses ou crêtées : Série Castaneus.
+Rem$ Stirps Subcastaneus
+7,8$ 7a : Spores peu ornées.
+7,0$ 7b : Spores beaucoup plus ornées, elliptiques, (7) 8-10 (10,5) x 5,5-6,5 µm ; bois feuillus hygrophiles ; ressemblant vivement à C. castaneus. $C. subcastaneus
+8,0$ 8a : Voile remarquable, laineux sur les bords du chapeau ; sous feuillus ; spores un peu plus ornées à l’apex, (7) 7,5-10 (10,5) x 5-5,5 (6) µm. $C. erythrinovelatus
+8,9$ 8b : Pas de voile remarquable ; grandes basides (40-45 µm).
+9,0$ 9a : En troupes immenses sous les pins ; chapeau convexe-campanulé ou conique ; port inocyboïde ; cellules marginales en ballon ; spores étroitement elliptiques, (7) 7,5-10,5 (11) x 4,5-5 µm. $C. ludibriosus
+9,0$ 9b : Surtout sous chênes ; port différent, plus trapu ; chapeau et stipe virant au brun rose ; cellules marginales septées, à 2-4 articulations ; spores ellipsoïdes, (7,5) 8-10,5 (11) x 5-6,5 µm. $C. roseobrunneus
+rem$ Stirps Joannis
+10,0$ 10a : Stipe égal ou un peu bulbeux ; tons brun vineux ; arête substérile : cellules en ballon souvent déformées ; spores à verrues peu saillantes, (6,5) 7-8,5 (9) x 5,5-6 µm. $C. joannis
+10,11$ 10b : Stipe fortement appointi à la base.
+11,0$ 11a : Sous les pins du littoral ; stipe rose pourpré à la base, profondément radicant dans le sable ; spores à grosses verrues obtuses, (5) 5,5-6,5 x 3,5-4,5 µm. $C. purpureobasalis
+11,0$ 11b : Sous les épicéas montagnards ; port différent, de plus grande taille, ressemblant à un énorme C. castaneus ; petites spores très spinuleuses, (6) 6,5-7,5 (8) x 5-5,5 (5,8) µm. [= C. castaneus var. major Fr.]. $C. majorinus
+rem$ Stirps Castaneus
+12,13$ 12a : Spores de taille moyenne (10-11 µm) ; bois feuillus.
+12,17$ 12b : Spores plus petites, très ornées (noires de verrues) ; en général, taxons printaniers, sous feuillus et sous conifères.
+13,14$ 13a : Port élancé, fluet.
+13,15$ 13b : Port plus robuste.
+14,0$ 14a : Spores larmiformes, (6) 6,5-8,5 (9) x 4,5-5,5 µm ; espèce ressemblant à un petit decipiens, à stipe gris roussâtre ou gris violacé orné d’un anneau télamonioïde complet. $C. parvulus
+14,0$ 14b : Spores subpruniformes, à forte verrucosité saillante, (7) 8-10,5 (11) x (5,5) 6-7 µm ; espèce cespiteuse à chapeau presque noir étant imbu, bai roux par le sec ; stipe violacé puis rougeâtre brillant. $C. caliginosus
+15,0$ 15a : Stipe noircissant à la base et de couleur lie de vin, rappelant Inocybe jurana ; spores pruniformes, fortement verruqueuses, (7) 7,5-10,5 (11) x 6-7 µm. [= C. castaneus var. nigrescens Reum. = C. castaneus ss. Britz.]. $C. nigrescens
+15,16$ 15b : Stipe non noircissant.
+16,0$ 16a : Stipe normalement long, rosé à la base ; odeur faible et inconstante de persil ; sous les chênes ; spores largement ovoïdes, 7,5-10 (10,5) x 6-6,5 (7) µm. $C. basiroseus
+16,0$ 16b : Stipe court ou très court (faisant paraître le chapeau comme posé sur le sol) ; spores pépiniformes à verrues fortement saillantes à l’apex, (7) 7,5-10 (10,5) x 5,5-6,5 µm. [= C. castaneus ss. Weinm.]. $C. basiroseus f. subacaulis
+17,18$ 17a : Stipe blanc ou paille, dépourvu de pigment violacé.
+17,19$ 17b : Stipe entièrement violacé ou en partie (sommet ou base).
+18,0$ 18a : Sous conifères ; couleurs ternes, aspect sale, ressemblant à C. uraceus ; phénolaniline = ++ ; spores pépiniformes, à fortes verrues saillantes à l’apex, (6,5) 7-8 (9) x 5-6 µm. $C. uraceovernus
+18,0$ 18b : Sous feuillus héliophiles, le plus souvent sous peupliers, en terrain sablonneux ; spores ovoïdes, couronnées d’épines à l’apex, (6,5) 7-8,5 (9) x 5,5-6 µm. $C. castaneus
+19,20$ 19a : Spores pruniformes ou subglobuleuses, à verrues obtuses, mousses, 6,5-8 (9) x 5-6 µm.
+19,21$ 19b : Spores crêtées ou caténulées comme des spores de russule.
+20,0$ 20a : Sous conifères, au printemps ; souvent à long stipe violet et à base un peu acuminée. [= C. castaneus Fr. in icône inédite]. $C. castaneus var. erythrinus
+20,0$ 20b : Sous cistes, à l’automne, en terrain sablonneux ; stipe court, rose vers la base. $C. castaneus var. monspeliensis
+21,0$ 21a : Taxon printanier venant principalement sous chênes, mais aussi sous aulnes, pouvant atteindre une assez grande taille ; lames larges, fortement émarginées ; spores ovoïdes, (6,5) 7-9 (9,5) x 4,5-6 µm. [= C. erythrinus ss. Rick. = C. erythrinus var. russulaesporus Bohus = C. vernus Lindstr. & Melot]. $C. emarginatus
+21,0$ 21b : Taxon automnal venant sous pins sylvestres ; spores encore plus fortement crêtées, (6,5) 7-9 (10) x 5-6 µm. $C. emarginatus var. subhiemalis
+rem$ Série Suberythrinus
+22,0$ 22a : Réaction instantanée, fulgurante de la chair au gaïac ; chapeau peu hygrophane, d’un beau bai roux ; stipe fugacement violacé au sommet ; bois feuillus hygrophiles ; spores subovoïdes, 6-7,5 (8) x 4,5-5 µm. $C. fulguritans
+22,23$ 22b : Réaction nulle ou faible au gaïac.
+23,24$ 23a : Taxons des bois feuillus ou mixtes.
+23,0$ 23b : Taxon des pins ; spores minuscules, sublisses, 5-6,5 (7) x 3-4 µm. [= C. erythrinus ss. J.Lge.]. $C. erythrinoides
+24,25$ 24a : Spores étroites (x 4-5 µm).
+24,26$ 24b : Spores plus larges (x 5-6,5 µm).
+25,0$ 25a : Teinte du chapeau brun noirâtre ; spores ovoïdes, finement piquetées, (5) 5,5-7,5 (8) x 4-5 µm	. $C. sp.
+25,0$ 25b : Teinte du chapeau brun rosé ; stipe rose ; spores subelliptiques, finement ornées, (6) 7-8,5 x 4,5-5 µm. $C. castaneoides
+26,0$ 26a : Odeur fongique ; spores pruniformes, fortement ornées, (6,5) 7-8 (8,5) x 5-6,5 µm. $C. suberythrinus
+26,0$ 26b : Odeur pélargoniée ; spores pépiniformes, à verrues spinuleuses, (5,5) 6-8 (8,5) x 5-6 µm. $C. suberythrinus var. geraniolens
+
+CS93,0$ Sous-section Rheubarbarini Moënne-L. & Reum.
+1,2$ 1a : Spores de taille moyenne (9-10,5 µm).
+1,0$ 1b : Spores d’assez grande taille (12-12,5 µm) ; long stipe atteignant 11 x 1 cm, typiquement fusoïde subradicant ; spores (8,5) 9-12 (12,5) x 6-7 µm. $C. sp.
+2,0$ 2a : Spores étroites, (7,5) 8-10 (10,5) x 4-5 µm ; chapeau très mince, de grande taille 7-8 (10) cm ; stipe nettement bulbeux, parfois submarginé (x 2,5-3 cm) ; chair + FMP = +++. $C. phaeosmus
+2,0$ 2b : Spores plus larges, (7) 7,5-10 (10,5) x (4,5) 5-5,5 (6) µm ; taille médiocre ; stipe peu bulbeux ou à bulbe ovalaire. $C. rheubarbarinus
+
+CS94,0$ Section Damasceni Hry. ex Moënne-L. & Reum.
+1,CS95$ 1a : Marge enroulée ou infléchie puis se redressant, pouvant être rimeuse ou squameuse. $$s"Ss-sect. Damasceni"
+1,CS96$ 1b : Marge fortement sinueuse, lobée, contractée, comme « serrée dans une tresse ». $$s"Ss-sect. Contracti"
+
+CS95,0$ Sous-section Damasceni Bid., Moënne-L. & Reum.
+1,4$ 1a : Chapeau fortement rimeux ou squameux. $$s"Série Tesselatus"
+1,2$ 1b : Chapeau lisse, ou tout au plus pseudosquamuleux sur les bords.
+2,7$ 2a : Spores larges de 6-8 µm et atteignant 11-12 µm de longueur. $$s"Série Sociatus"
+2,3$ 2b : Spores moins larges (4,5-6 µm) et moins longues (7-11 µm).
+3,11$ 3a : Spores de petite taille (7-8,5 µm de longueur). $$s"Série Confirmatus"
+3,14$ 3b : Spores de taille moyenne (8-11 µm de longueur). $$s"Série Damascenus"
+rem$ Série Tesselatus
+4,0$ 4a : Sous conifères ; chapeau roux orangé imbu ; odeur faiblement fruitée puis un peu iodée ; gaïac lent, mais très intense ; cespiteux sous Pinus sylvestris ou Picea abies ; spores largement ellipsoïdes ou subovoïdes, finement verruqueuses, mesurant (7) 8-10 (10,5) x 5-6 µm. $C. addamascenus
+4,5$ 4b : Sous feuillus ; chapeau de teintes plus ternes.
+5,6$ 5a : Chapeau fortement rimeux.
+5,0$ 5b : Chapeau fortement squamuleux, tesselé, s’excoriant en grosses lanières, alutacé pâle presque uniforme ; chair pâle, brunâtre au bas du stipe, à odeur de radis noir ; spores mesurant (8,5) 9-11 x 5,5-6,5 µm, ellipsoïdes ou subamygdaliformes, assez verruqueuses. $C. tesselatus
+6,0$ 6a : Port râblé et stipe assez court ; chapeau brun fauve ou brun châtain ; chair inodore ; lames fauve roux vif ; spores mesurant (7,5) 8-10 (10,5) x (4,5) 5-6 µm ; sublisses, ellipsoïdes. $C. fulvorimosus
+6,0$ 6b : Port élancé et stipe grêle ; chapeau en cloche, gris-brun puis fauve terne ; odeur légèrement piquante ; lames gris-brun isabelle ; spores de plus grande taille, mesurant (8) 8,5-11 (11,5) x 6-6,5 µm, largement ellipsoïdes, piquetées de petites verrues. $C. teras
+rem$ Série Sociatus
+7,8$ 7a : Taxons des conifères.
+7,9$ 7b : Taxons des feuillus.
+8,0$ 8a : Spores mesurant (9) 9,5-12,5 (13) x 6-7 µm, ellipsoïdes, à verrues plus saillantes à l’apex ; réaction positive (++) de la chair au gaïac ; port râblé ; chapeau peu hygrophane, non mamelonné, brun fauve terne, plus roux au centre ; chair beige pâle, plus sombre dans le bulbe, à odeur faiblement raphanoïde ; épicéas. [= Agaricus punctatus J.C.Schaeffer]. $C. sociatus
+8,0$ 8b : Spores de taille plus petite, mesurant (9,5) 10-11,5 (12) x 6-6,5 (7) µm, largement ellipsoïdes ou ovoïdes, nettement verruqueuses ; réaction nulle de la chair au gaïac ; port élancé ; chapeau fortement hygrophane, ocre roux pâle, à mamelon obtus et marge soyeuse de denses fibrilles innées ; chair plus sombre vers la base du stipe, à faible odeur camphrée ; bois de conifères ou mixtes. $C. orasericeus
+9,0$ 9a : Taxon souvent solitaire (solivagus = qui erre isolément), à port élancé ; stipe très long (jusqu’à 130 mm), cylindrique, blanchâtre puis envahi d’ocre ; chapeau à mamelon plat et marge fissurée, brun-roux ; légère odeur de scléroderme ; spores ellipsoïdes ou subamygdaliformes, assez fortement verruqueuses, mesurant (9) 9,5-11,5 (12) x 6-7 µm. $C. solivagus
+9,10$ 9b : Taxons plus râblés poussant en grosses touffes.
+10,0$ 10a : Stipe grêle, cylindracé, fortement fibrillo-strié ; chapeau brun rougeâtre, passant au jaune ocré ou à l’alutacé par le sec, à marge éraillée-squamuleuse ; chair fonçant vers la base du stipe, inodore ; lames espacées, fauves ; surtout charmes calcicoles ; spores largement ellipsoïdes ou subovoïdes, fortement verruqueuses, mesurant (9) 10-11,5 (12) x 6,5-7,5 (8) µm. $C. claroplaniusculus
+10,0$ 10b : Taxon plus massif ; stipe court, très épais, fibrilleux, appointi à la base ; chapeau devenant cyathiforme, finement soyeux, craquelé au disque, brun-roux clair ; lames assez serrées, très larges (x 20 mm), brun chaud ; chair gris rosé pâle, à légère odeur d’humus ; chênes, bouleaux et noisetiers ; spores largement ellipsoïdes, à verrues saillantes à l’apex, mesurant (8,5) 9-11 (11,5) x (6) 6,5-7 µm. $C. planodepressus
+rem$ Série Confirmatus
+11,12$ 11a : Spores amygdaliformes ou subamygdaliformes.
+11,13$ 11b : Spores ellipsoïdes.
+12,0$ 12a : Stipe subégal ou parfois obconique, ocre clair ; chapeau roux orangé terne ; lames espacées, très larges (jusqu’à 20 mm), pâle puis roux vif ; réaction nulle de la chair au gaïac ; conifères et feuillus ; spores subamygdaliformes, à fines verrues éparses, mesurant (6,5) 7-8 (8,5) x 4,5-5,5 µm. $C. phylladus
+12,0$ 12b : Stipe en oignon à la base, blanc ; taxon ressemblant à C. biveloides ; chapeau fauve, se craquelant au disque par le sec ; lames moins larges (5-7 mm), ocre roussâtre ; réaction fortement positive (+++) de la chair au gaïac ; épicéas ; spores amygdaliformes, faiblement ornées, mesurant (7) 7,5-8,5 (9) x 4,5-5 µm. $C. gymnopus
+13,0$ 13a : Stipe clavé, plus court que le chapeau, fibrilleux, blanc ; chapeau roux orangé assez vif, devenant ocre pâle par le sec ; odeur faible de pomme ; spores ellipsoïdes, finement verruqueuses, mesurant (6,5) 7-8,5 (9) x 4-5 µm ; bouleaux et chênes verts. $C. confirmatus
+13,0$ 13b : Stipe plus long, 60-100 x 5-10 mm, égal ou à bulbe fusoïde pointu, blanchâtre ; chapeau brun-roux pâle, se déshydratant en jaune ochracé, à marge brisée-infractée, devenant  squamuleuse ; odeur un peu camphrée ; spores ellipsoïdes, finement piquetées, mesurant (7) 7,5-8,5 (9) x 4,5-5,5 µm ; épicéas et chênes verts. $C. sefendens
+rem$ Série Damascenus
+14,15$ 14a : Taxons des conifères.
+14,16$ 14b : Taxons des bois feuillus.
+15,0$ 15a : Sous pins sylvestres ; stipe orné d’une ligne annulaire ; chapeau alutacé ou chamois à centre roux ; chair légèrement ochracée dans le pied, à odeur raphanoïde ; réaction nulle de la chair au gaïac ; spores ellipsoïdes, moyennement verruqueuses, mesurant (7,5) 8-10 (10,5) x 5-6 µm. $C. aptecohaerens
+15,0$ 15b : Sous sapins ; stipe nu (absence de restes vélaires), radicant ; chapeau passant du brun-roux vif à l’ocre pâle par le sec ; chair presque inodore ; réaction nettement positive de la chair au gaïac ; spores mesurant (8) 8,5-10,5 (11) x 5-6 µm, largement ellipsoïdes, subcristulées. [= C. damascenus ss. Quél., Bat., Hry., pro maxima parte]. $C. damascenoides
+16,0$ 16a : Réaction nulle de la chair au gaïac ; spores mesurant (7,5) 8-10 (10,5) x 5-6 µm, ellipsoïdes-subamygdaliformes, à verrucosité moyenne ; chapeau lisse, roux fauve ; stipe blanc, égal ou brusquement renflé à la base au dessus d’une courte pointe ; chair inodore ; hêtres et chênes. $C. damascenus
+16,17$ 16b : Réaction nettement positive de la chair au gaïac.
+17,0$ 17a : Réaction immédiate, bleu nuit (+++) de la chair au gaïac ; AgNO3 : gris bleuté (+++) et phénolaniline : pourpre (+++) ; chapeau brun-rouge, se déshydratant en fauve orangé puis ocre-jaune ; stipe le plus souvent renflé-fusoïde ou tronconique, blanc puis jaunissant un peu ; odeur camphrée puis miellée ; spores ellipsoïdes, à verrues éparses, mesurant (7,5) 8-10 (11) x 5-6 µm. $C. spadochrous
+17,0$ 17b : Réaction positive mais beaucoup plus lente (15 min.) de la chair au gaïac (++) ; chapeau bistre roussâtre passant à l’ocre pâle ; stipe obèse, court, étranglé au dessus du bulbe, blanchâtre ; chair crème rosé, inodore ; spores étroitement ellipsoïdes, à verrues éparses, (7) 7,5-9,5 (10) x 4,5-5 µm. $C. methecticus
+
+CS96,0$ Sous-section Contracti Hry. ex Moënne-L. & Reum.
+1,0$ 1a : Taxon à chapeau brun sombre parfois taché de noir ; stipe fusoïde à voile évanescent ; chair rembrunie à la base du stipe ; odeur à peine raphanoïde ; phénolaniline : rouge foncé sur la chair ; feuillus ; spores amygdaliformes, à fines verrues éparses, (7,5) 8-10 (10,5) x (4,5) 5-6 µm. $C. subbulliardioides
+1,2$ 1b : Taxons à chapeaux de teintes plus claires.
+2,3$ 2a : Port râblé.
+2,7$ 2b : Port élancé.
+3,0$ 3a : Voile laissant une trace annulaire nette sur le stipe ; chapeau à fort mamelon conique, abricot à marge rougeâtre, pâlissant à l’ocre très clair ; lames fauve orangé ; odeur légère de moutarde ; épicéas ; spores ellipsoïdes, piquetées, mesurant (8,5) 9-11,5 (12) x 5-6 µm. $C. semivelatus
+3,4$ 3b : Stipe nu (absence de restes vélaires nets).
+4,0$ 4a : Spores fortement verruqueuses, étroitement ellipsoïdes ou oblongues, mesurant (8) 8,5-11,5 (12) x 5-6 (6,5) µm ; chapeau à fibrilles se retroussant à la manière d’un inocybe, blond terne à centre roux ; odeur légère de chou à la trituration ; conifères et feuillus. $C. ochrofulvescens (forma)
+4,5$ 4b : Spores finement verruqueuses.
+5,0$ 5a : Spores largement ellipsoïdes ou subovoïdes, mesurant (7,5) 8-9 (9,5) x 5-5,5 (6) µm ; chapeau à large mamelon charnu, brun-rouge ou fauve, à marge grisonnant sous un voile fibrilleux ; inodore ; bois d’épicéas ou mixtes. $C. turgidipes
+5,6$ 5b : Spores ellipsoïdes ; bois feuillus ou mixtes.
+6,0$ 6a : Arête des lames blanche ; chapeau à marge typiquement contractée, crème ocre pâle par le sec ; stipe blanc puis ocre pâle, nu ou à voile évanescent ; odeur herbacée ; spores ellipsoïdes, à ornementation nuageuse, mesurant (8) 8,5-11 (11,5) x (5) 5,5-6,5 µm. $C. contractus
+6,0$ 6b : Arête des lames jaune ; forme du précédent à voile évanescent sur le stipe ; spores ellipsoïdes, finement grenelées, mesurant (7,5) 8-10,5 (11) x 5-6 µm. [= ? C. phaeophyllus P.Karst., ss. Hry., non P.Karst.]. $C. contractus f. phaeophylloides
+7,8$ 7a : Bois feuillus.
+7,9$ 7b : Bois de conifères.
+8,0$ 8a : Stipe nu, canaliculé, atténué-radicant, brun pâle puis sordescent ; spores peu ornées, sablées ou ponctuées, (sub)amygdaliformes, mesurant (9) 9,5-11,5 (12) x 5,5-6,5 µm ; chapeau brun rougeâtre, puis brun sombre ; odeur raphanoïde. $C. canaliculatus
+8,0$ 8b : Stipe voilé, à trace annulaire très nette, blanchâtre puis teinté de roux ; spores plus ornées, finement verruqueuses, ellipsoïdes, mesurant (8,5) 9-12,5 (13) x (5) 5,5-6,5 µm ; chapeau d’un brun assez chaud, devenant couleur de coque de noisette pâle par le sec ; inodore. $C. hydrotelamonioides
+9,0$ 9a : Spores très larges, mesurant (9,5) 10-11,5 (12) x (6) 6,5-7,5 µm, largement ellipsoïdes, à verrues fines et denses ; stipe nu, entièrement creux, fortement atténué à la base, orangé ; chapeau brun-roux fauve ; chair pratiquement inodore. $C. cavipodius
+9,10$ 9b : Spores plus étroites ; stipe à traces de voile évidentes mais vite oblitérées.
+10,0$ 10a : Gaïac fortement positif sur la chair (++ ou +++) ; stipe élancé, mince, tubuleux ; chapeau très hygrophane, se déshydratant en cocarde, passant du brun fauve à l’ocre grisâtre ; odeur iodée-raphanoïde ; spores mesurant (9) 9,5-13 (13,5) x 5-6 (6,5) µm, ellipsoïdes-subamygdaliformes, sublisses. $C. subparevernius
+10,0$ 10b : Gaïac faiblement positif sur la chair (+) ; stipe long, épais, plein et dur ; chapeau peu hygrophane, brun-roux orangé, plus pâle sur les bords ; odeur raphanoïde avec une composante iodée ou d’huile rance ; spores plus petites, mesurant (8) 8,5-11,5 (12) x (4,5) 5-5,5 (6) µm, amygdaliformes, très finement verruqueuses. $C. telamoniopsis
+
+CS97,0$ Section Duracini Kühn. & Romagn. ex Melot
+1,CS98$ 1a : Taxons inodores, faiblement odorants ou à odeur raphanoïde. $$s"Ss-sect. Duracini"
+1,CS99$ 1b : Taxons fortement odorants, à odeur souvent exacerbée d’iodoforme ou de vinaigre. $$s"Ss-sect. Acetosi"
+
+CS98,0$ Sous-section Duracini Melot
+1,2$ 1a : Taxons peu colorés, à chapeau dépourvu de teinte nettement ou entièrement orangée. $$s"Série Duracinus"
+1,35$ 1b : Taxons vivement colorés où la couleur orange domine. $$s"Série Pseudocandelaris"
+rem$ Série Duracinus
+2,6$ 2a : Stipe devenant brun-noir à partir de la base : Stirps Montis-albi.
+2,3$ 2b : Stipe ne noircissant pas.
+3,7$ 3a : Basidiomes devenant ocre aurore, abricot pâle, alutacés, blanchâtres ou crème carné en se déshydratant : Stirps Pseudorigens.
+3,4$ 3b : Basidiomes prenant d’autres teintes en se déshydratant.
+4,15$ 4a : Basidiomes de teintes ternes, à chapeau brun sombre, brunâtre, gris-brun par imbibition, passant à l’ocre en se déshydratant (le mamelon étant parfois légèrement lavé d’orangé) : Stirps Radicans.
+4,5$ 4b : Basidiomes moins sombres et moins ternes, à chapeau brun-rouge, brun roux, brun-jaune ou plus pâle, couleur d’ambre, passant à l’ocre aurore ou au blond ocré en se déshydratant.
+5,19$ 5a : Lames de teinte très soutenue : roux feu ou brun-roux sombre : Stirps Dolabratus.
+5,22$ 5b : Lames de teinte plus claire (argilacée, fauve ou cannelle) ; chapeau brun fauve, brun roux, brun jaunâtre, parfois d’aspect cocardé : Stirps Duracinus.
+Rem$ Stirps Montis-albi
+6,0$ 6a : Spores mesurant (9) 9,5-12 (12,5) x 5,5-6 (6,5) µm (macrospores de 13-15 µm assez nombreuses) étroitement amygdaliformes ; feuillus. $C. albofimbriatus
+6,0$ 6b : Spores de taille moindre, (7) 7,5-9,5 (10) x 4,5-5,5 (6) µm, amygdaliformes, densément verruqueuses ; feuillus. $C. montis-albi
+rem$ Stirps Pseudorigens
+7,0$ 7a : Spores subglobuleuses, piquetées, mesurant 7-8,5 x 6 µm ; réaction positive de la chair au gaïac (++) ; en touffes, sous conifères. $C. cremeoglobosus
+7,8$ 7b : Spores de formes différentes.
+8,0$ 8a : Réaction jaune-vert à AgNO3 ; stipe ocre-jaune pâle ; lames espacées, fauve clair ; chair brun rouille sombre à l’extrême base du stipe ; odeur acidulée ; subfasciculé sous feuillus argilo-calcaires ; spores mesurant (7,5) 8-9,5 (10) x 5-6 µm, largement ellipsoïdes ou subamygdaliformes, grossièrement verruqueuses. $C. argyronotus
+8,9$ 8b : Réaction différente ou nulle à AgNO3.
+9,0$ 9a : Spores de très grande taille, mesurant (11) 13-15 (16) x (6) 6,5-7,5 (8) µm, amygdaliformes, parfois subpapillées, moyennement verruqueuses ; chapeau très pâle, crème blanchâtre aurore, nettement ridulé sur la marge ; odeur légèrement camphrée. [= C. pallidus Hry., non C. pallidus Peck]. $C. cuteclarus
+9,10$ 9b : Spores de moindre taille.
+10,11$ 10a : Spores fortement verruqueuses.
+10,13$ 10b : Spores finement verruqueuses ; feuillus.
+11,12$ 11a : Conifères.
+11,0$ 11b : Feuillus ; spores mesurant (8) 9-10 (10,5) x (5) 5,5-6 µm, ellipsoïdes ou subamygdaliformes ; odeur nulle ou faiblement herbacée, puis de rance au froissement. $C. subtenuatus
+12,0$ 12a : Spores mesurant (7) 8-10 (11) x 5-6 µm, ellipsoïdes ; stipe blanc rosé pourvu d’une très longue racine ; réaction positive de la chair au gaïac (++) ; chapeau roux rosâtre puis ocre saumoné ; odeur florale légère. $C. radicifer
+12,0$ 12b : Spores de taille plus grande, mesurant (8) 9-12 (13) x 5-6 (6,5) µm, ellipsoïdes-oblongues ; absence de longue racine ; réaction nulle de la chair au gaïac ; chapeau fauve alutacé pâle, puis blond ocré par le sec ; odeur légèrement iodée. $C. subduracinus
+13,0$ 13a : Spores de très petite taille, mesurant (7) 7,5-8,5 (9) x (4,5) 5-6 µm, largement elliptiques ou subpruniformes, piquetées ; lames de teinte très vive, intensément fauve ; odeur faiblement iodée. [= C. rigens ss. J.Lange]. $C. pseudorigens
+13,14$ 13b : Spores de plus grande taille.
+14,0$ 14a : Spores ellipsoïdes à tendance subfusiforme, mesurant (7,5) 8-11,5 (12) x 5-6 µm ; port et aspect de C. subduracinus, à stipe long et mince, atténué-radicant à la base, blanc rosâtre ou aurore ; chapeau passant du brun caramel au blond ocré ou crème pâle ; odeur d’humus ou légère de pélargonium ; feuillus calcicoles. $C. subduracinoides
+14,0$ 14b : Spores ellipsoïdes à tendance cylindracée, mesurant (8) 8,5-11 (11,5) x (4,5) 5-5,5 (6) µm ; port différent, à stipe bulbeux-radicant ; chapeau roux fauve passant à l’ocre carné clair ou à l’ocre aurore, avec le centre longtemps roux ; odeur camphrée-raphanoïde ; chênes acidiphiles. $C. subradicans
+rem$ Stirps Radicans
+15,16$ 15a : Spores ovoïdes ou subglobuleuses.
+15,17$ 15b : Spores ellipsoïdes ou subamygdaliformes.
+16,0$ 16a : Spores mesurant (8) 8,5-10 (10,5) x (5,5) 6-6,5 (7) µm, ovoïdes, finement verruqueuses ; chapeau d’aspect bicolore : mamelon fauve orangé, le reste gris-brun olivâtre ; odeur légèrement camphrée-raphanoïde ; feuillus. $C. griseoarmeniacus
+16,0$ 16b : Spores mesurant (6) 6,5-7,5 (8) x 5-6 µm, subglobuleuses, finement piquetées ; chapeau de teintes fondues, fauve rougeâtre imbu, puis ocre-jaune par le sec ; odeur piquante, légère de moutarde au froissement ; conifères. $C. globisporus
+17,0$ 17a : Taxon massif évoquant C. fragrantior ; chapeau brun chamois nuancé de gris olivâtre à la marge ; chair inodore à la récolte, puis à odeur faible et tardive de vinaigre ; conifères ou bois mixtes ; spores mesurant (7,5) 8-10 (10,5) x 5-6 µm, ellipsoïdes, fortement verruqueuses. $C. poncae
+17,18$ 17b : Taxons sans ressemblance avec C. fragrantior à port différent.
+18,0$ 18a : Présence de restes de voile sur le stipe, à ligne annulaire fugace ; stipe épais, 60-80 x 5-12 mm, subégal ou à peine appointi à la base ; chapeau 30-50 mm de diamètre, brun rougeâtre terne par imbibition, se déshydratant en faisceaux, blond pâle à reflet rosé par le sec ; lames étroites ; odeur nulle ou faiblement raphanoïde ; conifères ; spores mesurant (8) 8-9,5 (10) x 5-6 µm, ellipsoïdes, nettement verruqueuses. $C. aequalipes
+18,0$ 18b : Absence de restes de voile sur le stipe, qui est long et grêle, 80-130 x 5-8 mm ; chapeau de plus grande taille, 50-80 mm de diamètre, brun fauve ou brun chocolat, pâlissant à partir de la marge, gris-brun olivâtre par le sec ; lames ventrues ; odeur faiblement raphanoïde ; conifères ou bois mixtes ; spores ellipsoïdes, à verrues moyennes (8) 8,5-10,5 (11) x 5-6 µm. $C. radicans
+rem$ Stirps Dolabratus
+19,0$ 19a : Port élancé, stipe très long ; lames d’un beau rouge de Venise saturé sur les faces ; chapeau brun-rouge, pâlissant en flammèches radiales vers le beige ocré ; chair inodore, inerte au gaïac ; conifères ou bois mêlés ; spores mesurant (9) 9,5-11 (11,5) x 5-6,5 µm, amygdaliformes, moyennement verruqueuses. $C. pyrophyllus
+19,20$ 19b : Taxons plus râblés ; lames d’une autre couleur.
+20,0$ 20a : Spores ellipsoïdes, parfois naviculaires ou oblongues, très finement verruqueuses, mesurant (7,5) 8-11,5 (12) x (4,5) 5-6 (6,5) µm ; odeur agréable de bois de cèdre ; stipe relativement court, appointi à la base ; lames jusqu’à 15 mm de large, brunes à reflet orangé ; chair ocre-rose ; sous Fagus sylvatica et Picea abies acidiphiles. $C. castaneoduracinus
+20,0,N$ Rappel : spores mesurant (7,5) 8-10 (10,5) x 5-6 µm, ellipsoïdes, fortement verruqueuses ; chair inodore à la récolte, puis à odeur faible et tardive de vinaigre ; conifères ou bois mixtes, voir C. poncae dans la Stirps précédente.
+20,21$ 20b : Spores amygdaliformes.
+21,0$ 21a : Conifères acidiphiles ; réaction fortement positive de la chair au gaïac (+++) ; odeur faible, raphano-iodée ; lames très larges (12-15 mm), brun châtain ; stipe blanc argenté, subégal, à ligne annulaire fugace ou absente ; spores mesurant (9) 9,5-12 (12,5) x 5-6 (6,5) µm, amygdaliformes, piquetées, à verrues saillantes à l’apex. $C. dolabratus
+21,0$ 21b : Feuillus calcicoles ; réaction nulle de la chair au gaïac ; lames plus étroites (5-7 mm de large), brun acajou ; odeur iodée-raphanoïde ; stipe fortement appointi-radicant, lavé de rose ou gris de corne, sans trace de voile ; spores mesurant (8) 8,5-11 (11,5) x 5-5,5 (6) µm, subamygdaliformes ou subrhomboïdales, à verrucosité dense et forte. $C. castaneophyllus
+rem$ Stirps Duracinus
+22,0$ 22a : Lames initialement blanches ou blanchâtres ; chair inodore ou à légère odeur raphanoïde ; bois mixtes (épicéas et hêtres) acidiphiles ; spores mesurant (7,5) 8-10 (10,5) x 5-6 µm, largement ellipsoïdes, finement verruqueuses. [= C. duracinus ss. Quél., Bat., non Fr.]. $C. pallidophyllus
+22,23$ 22b : Lames non blanches au début.
+23,0$ 23a : Stipe gris violacé au sommet et chair gris acier ou violacée à l’apex, à légère odeur herbacée ; cespiteux sous feuillus ; spores mesurant (8) 8,5-11 (11,5) x 5-6 (6,5) µm, ellipsoïdes, densément verruqueuses. [= C. duracinus ss. J.E.Lange, non Fr.]. $C. caesiostipitatus
+23,24$ 23b : Aucune trace de pigment violacé.
+24,25$ 24a : Taxons de taille moyenne ou grande, à chapeau dépassant 60 mm de diamètre.
+24,28$ 24b : Taxons de plus petite taille ; chapeau ne dépassant pas 50/60 mm de diamètre.
+25,0$ 25a : Taxon spectaculaire par la taille, la forme et l’épaisseur du stipe terminé par une pointe recourbée en bec d’oiseau ; chair inodore ; gaïac fortement positif mais lent (10 min.) ; bois feuillus et pins ; spores mesurant (7) 7,5-9,5 (10) x 5-5,5 (6) µm, ellipsoïdes, fortement verruqueuses. $C. ornithopus
+25,26$ 25b : Taxons moins spectaculaires.
+26,0$ 26a : Réaction nulle au gaïac sur la chair ; stipe parfois nettement bulbeux, sans pointe radicante ; hêtraie-sapinière ; spores mesurant (8) 8,5-11 (11,5) x 5-6 µm, ellipsoïdes-subamygdaliformes, moyennement verruqueuses. $C. duracinus f. iners
+26,27$ 26b : Réaction positive de la chair au gaïac.
+27,0$ 27a : Réaction faiblement positive (+) de la chair au gaïac ; arête des lames fertile ; chapeau brun bai à fauve, passant au beige carné en séchant ; stipe blanc, fusoïde ou bulbeux-radicant ; chair blanchâtre, inodore ou légèrement acidulée ; conifères et feuillus (hêtraie-sapinière) ; spores mesurant (7,5) 8-9 (9,5) x 4,5-5,5 (6) µm, ellipsoïdes-subamygdaliformes, moyennement verruqueuses. $C. duracinus
+27,0$ 27b : Réaction fortement positive (+++) de la chair au gaïac ; arête des lames presque stérile par des cellules en bouquets ; chapeau brun foncé, passant à l’ocre orangé puis au gris-brun et à l’ocre pâle ; stipe blanc, fortement radicant, à bulbe terminé par une longue pointe déjetée de côté ; chair blanc rosé à odeur herbacée ; chênes ; spores mesurant (7) 7,5-9,5 (10) x (4,5) 5-5,5 µm, ellipsoïdes-subamygdaliformes, à très fines verrues hérissées. $C. furtimornatus
+28,29$ 28a : Taxons cespiteux comme les Damasceni.
+28,32$ 28b : Taxons non cespiteux.
+29,30$ 29a : Petites spores (jusqu’à 7-8,5 µm de longueur) ; feuillus acidiphiles.
+29,31$ 29b : Spores plus grandes et plus larges (8-10 x 5-6 µm).
+30,0$ 30a : Réactions positives de la chair à AgNO3 (lentement gris-vert) et à la phénolaniline (++), mais nulle au gaïac ; chapeau atteignant 50-60 mm de diamètre ; spores mesurant (7) 7,5-8,5 (9) x 4,5-5,5 µm, ellipsoïdes-subamygdaliformes, finement verruqueuses. [= C. damascenus ss. Lange, non Fr.]. $C. jacobi-langei
+30,0$ 30b : Réactions nulles de la chair à AgNO3 et à la phénolaniline, mais positive au gaïac (++) ; port plus grêle : chapeau 30-50 mm de diamètre, floriforme ; spores mesurant (6,5) 7-8,5 (9) x 4-5 µm, ellipsoïdes-subamygdaliformes, finement verruqueuses. $C. triangulus
+31,0$ 31a : Conifères calcicoles ; chapeau 12-35 mm de diamètre, très hygrophane, brun fauve foncé, se déshydratant en cocarde (aspect de Kuehneromyces mutabilis), beige ocré ou carné par le sec ; lames espacées, brun fauve ; odeur camphrée ou subsavonneuse ; spores mesurant (7) 7,5-9,5 (10) x (4,5) 5-6 µm, largement ellipsoïdes, à ornementation basse et subcristulée. $C. submutabilis
+31,0$ 31b : Feuillus ; chapeau atteignant 50 mm de diamètre, bai rouillé obscur, se déshydratant par stries, se maculant de flammèches crème, alutacé par le sec ; lames assez serrées, fauves, à arête crénelée et blanche ; odeur faiblement herbacée ; spores mesurant (7,5) 8-9,5 (10) x 5-6 µm, ellipsoïdes-subamygdaliformes, finement verruqueuses. $C. denseconnatus
+32,33$ 32a : Conifères ; chapeau de teintes fondues ; arête des lames ornée de cellules stériles.
+32,0$ 32b : Feuillus (hêtraies) ou bois mixtes (hêtraies-sapinières) calcicoles ; chapeau bicolore, à marge striolée ou cannelée, très hygrophane, à mamelon typiquement d’une autre couleur (ocre fauve) que le reste (brun foncé), se déshydratant par bandes radiales en gris brunâtre par le sec ; arête des lames fertile ; spores mesurant (6,5) 7-9,5 (10) x 5-5,5 µm, ellipsoïdes, moyennement verruqueuses. $C. poecilochroma
+33,0$ 33a : Spores mesurant (8) 8,5-11,5 (12) x (4,5) 5-5,5 (6) µm, ellipsoïdes-subnaviculaires, subcristulées ; chapeau roux fauve avec une nuance abricot pâle par le sec ; odeur faiblement raphanoïde à composante iodée. $C. navisporus
+33,34$ 33b : Spores moins longues.
+34,0$ 34a : Spores finement verruqueuses, subamygdaliformes, mesurant (8,5) 9-10 (10,5) x (4,5) 5-5,5 (6) µm ; odeur faible d’iodoforme. $C. aciegemmascens
+34,0$ 34b : Spores à grosses verrues, ellipsoïdes, mesurant (7,5) 8-9 (10) x 5-6 (6,5) µm ; odeur légèrement herbacée. [= C. gracilior Hry. ex Hry., non C. gracilior Jul. Schäffer in M.M.Moser]. $C. subgracilior
+rem$ Série Pseudocandelaris
+35,36$ 35a : Taxons de grande taille (chapeau de 80-120 mm de diamètre) : Stirps Pseudocandelaris.
+35,39$ 35b : Taxons de taille moyenne ou médiocre (chapeau 40-60 mm de diamètre) : Stirps Perscitus.
+Rem$ Stirps Pseudocandelaris
+36,37$ 36a : Spores inférieures à 10 µm ; chapeau à bords typiquement lacérés ; feuillus.
+36,38$ 36b : Spores supérieures à 10 µm.
+37,0$ 37a : Odeur faible d’encens ou de bois de cèdre ; spores fortement verruqueuses, subamygdaliformes, mesurant (7) 7,5-10 (10,5) x 4,5-6 µm ; chapeau roux orangé vif, jaune ambré et grisâtre sur les bords ; stipe d’abord blanc puis ambre ou orangé pâle ; lames assez serrées, brun-roux orangé. $C. rimosofissus
+37,0$ 37b : Odeur nulle ; spores finement verruqueuses, ellipsoïdes ou subamygdaliformes, mesurant (7) 7,5-9 (9,5) x (4) 4,5-5,5 µm ; chapeau roux orangé au centre, brun sombre et fortement irradié de fines flammèches sur les bords ; stipe couleur de corne puis blanchissant ; lames assez espacées, larges (jusqu’à 10 mm), roux fauvâtre. [= C. candelaris ss. Vel., non Fr.]. $C. laceratomarginatus
+38,0$ 38a : Spores mesurant (8) 8,5-11,5 (12) x (4,5) 5-6 µm, ellipsoïdes, faiblement verruqueuses ; réaction rouge éosine de la chair à la phénolaniline ; chapeau atteignant 120 mm de diamètre, fauve orangé puis d’un ocre pâle à peine roussi sur le disque, se maculant parfois de taches grisâtres sur la marge ; lames très serrées, d’un orangé rouillé très saturé ; odeur subnulle ; feuillus ou conifères. [= C. candelaris ss. Rick., non Fr.]. $C. pseudocandelaris
+38,0$ 38b : Spores plus courtes, mesurant (7,5) 8-10,5 (11) x 5,5-6,5 µm, ellipsoïdes, assez fortement verruqueuses ; chapeau de plus petite taille, 30-80 mm de diamètre, passant d’un beau brun-rouge chaud à l’orangé abricot, irradié de longues flammèches ; lames assez espacées, larges, de teinte vive, ocre orangé ; odeur faiblement iodée ; bois mêlés. [= C. candelaris ss. Mos., non Fr.]. $C. fulminans
+rem$ Stirps Perscitus
+39,40$ 39a : Taxons lumineux d’un très beau jaune orangé.
+39,42$ 39b : Taxons de teintes moins lumineuses, plus sombres ou plus fondues.
+40,0$ 40a : Spores subglobuleuses, mesurant (6,5) 7-8,5 (9) x 5,5-6,5 (7) µm, finement piquetées ; chapeau ocre orangé à fauve orangé ; stipe jaune orangé, à voile blanchâtre infère ; lames ventrues (8-10 mm de large), ocre orangé ; odeur herbacée ; feuillus ou bois mixtes (hêtraie-sapinière). $C. adarmeniacus
+40,41$ 40b : Spores d’une autre forme.
+41,0$ 41a : Spores sablées, presque lisses, subovoïdes, mesurant (6) 6,5-8,5 (9) x 4-5 (5,5) µm ; chapeau jaune fauve orangé ; odeur subnulle ; bois mêlés. [= C. candelaris ss. Bres., non Fr.]. $C. aurantiosplendidus
+41,0$ 41b : Spores fortement verruqueuses (ornementation saillante), pruniformes, mesurant (7) 8-9,5 (10) x 5-6,5 µm ; chapeau jaune orangé à marge brun-roux, rappelant les Renidentes ; odeur raphanoïde ; feuillus. $C. aurantionitens
+42,0$ 42a : Port râblé ; chapeau pourvu d’un mamelon pointu, passant du brun-rouge à l’ocre-jaune ou orangé ; conifères ; spores mesurant (7,5) 8-10,5 (11) x 5-6 (6,5) µm, ellipsoïdes-subamygdaliformes, assez fortement verruqueuses. $C. umbonatoides
+42,43$ 42b : Port plus banal sans mamelon pointu.
+43,0$ 43a : Chapeau brun-rouge sombre, presque noir au centre, passant à l’ocre fauve orangé en se déshydratant par bandes radiales ; lames assez espacées, jaune orangé ; chair inodore, brun-noir dans le chapeau, rousse dans le stipe ; bois mêlés ; spores largement ellipsoïdes, à petites verrues éparses, mesurant (7,5) 8-9,5 (10) x 5-6,5 µm. $C. redactus
+43,44$ 43b : Chapeau de teintes plus claires.
+44,0$ 44a : Présence de restes de voile membraneux sur le stipe, formant un anneau fugace et incomplet ; chapeau bicolore : centre orangé et couronne brun-roux ; inodore ; conifères et bois mêlés ; spores ellipsoïdes, à fines verrues plutôt éparses, mesurant (8,5) 9-12 (12,5) x (4,5) 5-5,5 (6) µm. $C. subvelatus
+44,45$ 44b : Stipe nu.
+45,0$ 45a : Spores étroitement ellipsoïdes, mesurant (8) 8,5-10,5 (11) x 4,5-5 µm, finement verruqueuses ; pas d’odeur particulière ; chapeau brun rougeâtre passant au fauve orangé par le sec ; bouleaux et conifères. $C. bonamei
+45,46$ 45b : Taxons odorants, à spores plus larges.
+46,0$ 46a : Forte odeur de radis ; conifères ; chapeau brun rougeâtre passant à l’orangé ou l’ocre orangé clair à sec ; lames assez serrées, fauve rouillé ; spores mesurant (7,5) 8-10 (10,5) x 5-6 (6,5) µm, ellipsoïdes, fortement et densément verruqueuses. $C. raphanicus
+46,0$ 46b : Légère odeur de bois de cèdre avec une pointe raphanoïde ; feuillus ; chapeau brun-rouge chocolat ou ocre orangé (couleur de C. renidens) puis abricot, passant au crème rosé vers la marge, irradié de flammèches rayonnantes ; lames plutôt espacées, ocre rouille ; spores mesurant (8,5) 9-10,5 (11) x 5-6 µm, ellipsoïdes, parfois un peu naviculaires, à verrues plus marquées à l’apex. $C. perscitus
+
+CS99,0$ Sous-section Acetosi Moënne-L. & Reum.
+1,3$ 1a : Taxons de couleurs ternes : alutacé, blanchâtre ou gris-brun jaunâtre par le sec. $$s"Série Rigens"
+1,2$ 1b : Taxons de couleurs plus vives par le sec, roux fauve à jaune orangé.
+2,10$ 2a : Taxons d’un beau roux fauve, roux orangé par le sec. $$s"Série Candelaris"
+2,15$ 2b : Taxons jaune orangé ou abricot pâle par le sec. $$s"Série Acetosus"
+rem$ Série Rigens
+3,4$ 3a : Taxons de teintes sombres à l’état imbu, brun-noir ou brun sombre.
+3,6$ 3b : Taxons imbus moins sombres, à chapeau brunâtre, gris-brun, brun-roux, ocre rosé ou crème aurore.
+4,5$ 4a : Spores globuleuses-ovoïdes.
+4,0$ 4b : Spores subamygdaliformes, finement verruqueuses, mesurant (6,5) 7-9,5 (10) x (4,5) 5-5,5 µm ; chapeau chamois à centre brun foncé, pâlissant beaucoup, à voile apprimé givrant ; odeur de vinaigre ; conifères et bouleaux. $C. rigens
+5,0$ 5a : Conifères ; odeur forte et complexe de bois de cèdre, de cuir de Russie et d’iodoforme ; spores très finement verruqueuses, sablées, mesurant (6,5) 7-9 (9,5) x (5) 5,5-6,5 (7) µm ; absence de poils marginaux ; chapeau brun-noir, puis gris-brun jaunâtre par le sec. $C. fragrantior
+5,0$ 5b : Feuillus ; fine odeur d’iodoforme ; spores peu ornées, mesurant (5,5) 6-8 (8,5) x 4,5-5,5 (6) µm ; présence de poils marginaux polymorphes (x 7-14 µm) ; port d’Inocybe ; chapeau brun sombre à disque pruineux de blanc, puis beige alutacé à sec. $C. albidodiscus
+6,0$ 6a : Arête des lames couverte de poils marginaux spectaculaires ; spores ellipsoïdes-pruniformes ou subovoïdes, à verrucosité très légère, mesurant (5,5) 6-8 (8,5) x 4-5 µm ; chapeau brun-roux, pâlissant par stries en jaune alutacé terne par le sec ; odeur de vinaigre ; feuillus, généralement au printemps. $C. cystidiophorus
+6,7$ 6b : Arête des lames banale.
+7,8$ 7a : Stipe à cortine située près de la base du stipe.
+7,9$ 7b : Pas de trace de cortine sur le stipe ; feuillus calcicoles ; forte odeur d’iodoforme.
+8,0$ 8a : Spores de petite taille, mesurant (6,5) 7-8 (8,5) x 4-5 µm, subamygdaliformes, à ornementation sublisse ; chapeau très pâle, ocre rosé par le sec ; lames serrées, ocre-jaune ; odeur de vinaigre ; feuillus. [= C. rigens ss. Vel., non Fr.]. $C. poliodes
+8,0$ 8b : Spores de plus grande taille, mesurant (8) 8,5-10,5 (11) x 5-6 µm, ellipsoïdes, finement verruqueuses ; chapeau très pâle, crème aurore, presque blanc par le sec ; lames très espacées, jaune safran vif ; forte odeur raphanoïde ; feuillus. $C. pseudopoliodes
+9,0$ 9a : Spores de petite taille, mesurant (6) 7-8,5 (9) x (4) 4,5-5 (5,5) µm, sublisses, ovo-ellipsoïdes ; présence de poils marginaux septés ; chapeau ocre brunâtre par imbibition, puis ocre jaunâtre ; lames assez serrées, veinées sur les faces, brun cannelle. $C. rigentium
+9,0$ 9b : Spores de plus grande taille, mesurant (7,5) 8-10,5 (11) x 5,5-6,5 µm, à forte verrucosité, largement ellipsoïdes ou ovoïdes ; chapeau gris-brun de corne étant imbu, blanchâtre ou blanc de lait par le sec ; lames très espacées, fortement ventrues, ocre argilacé pâle. $C. mutans
+rem$ Série Candelaris
+10,0$ 10a : Taxon des conifères (surtout sous les pins) et des bois mêlés ; chapeau à peine hygrophane, d’un beau roux, brillant-glacé par le sec ; lames serrées, ventrues, subconcolores ; stipe blanc puis jaunissant ; forte odeur d’iodoforme ; spores ellipsoïdes ou subamygdaliformes, à verrues subcristulées, mesurant (8) 8,5-11 (11,5) x 5-6 (6,5) µm. $C. candelaris
+10,11$ 10b : Taxons des bois feuillus.
+11,12$ 11a : Spores inférieures à 10 µm de longueur.
+11,0$ 11b : Spores de taille plus grande, mesurant (7,5) 8-10,5 (11) x 5-6 (6,5) µm, amygdaliformes, moyennement verruqueuses ; chapeau finement givré par le voile, ocre orangé à mamelon plus sombre (aspect en cocarde) ; odeur nettement iodée ; feuillus argilo-calcaires. $C. subarmeniacellus
+12,13$ 12a : Spores atteignant 9,5-10 µm.
+12,14$ 12b : Spores de taille plus petite (jusqu’à 8,5 µm de longueur) fortement verruqueuses ; taxons à mamelon conique fortement marqué ; présence de bouquets de cellules stériles sur l’arête des lames.
+13,0$ 13a : Spores ellipsoïdes, piquetées, à verrues saillantes, obtuses, mesurant (7) 7,5-9,5 (10) x 4,5-5,5 µm ; réaction fortement positive (+++) au gaïac sur la chair ; chapeau à mamelon peu marqué ou nul, jusqu’à 90 mm de diamètre, brun-rouge étant imbu, passant à l’orangé, puis à l’ocre fauve ; stipe blanc puis jaune paille ; chair inodore ou à odeur acide ; chênaie-charmaie calcicole. $C. badioflammeus
+13,0$ 13b : Spores largement ellipsoïdes ou ovoïdes, finement ornées, mesurant (7,5) 8-9,5 (10) x 5-6 µm ; réaction nulle au gaïac sur la chair ; chapeau brun orangé se déshydratant en ocre-roux orangé, voilé de blanc grisâtre au mamelon ; chair à odeur puissante iodée-vinaigrée ; feuillus sur sol plutôt acide. $C. pseudoarmeniacoides
+14,0$ 14a : Spores étroites mesurant (6,5) 7-8,5 (9) x 4-4,5 µm, ellipsoïdes, densément verruqueuses ; chapeau en cloche, à mamelon pointu, passant du roux à l’orangé puis à l’ocre-orangé soutenu ; stipe court, blanc rosé, souvent genouillé à la base ; odeur légère de vinaigre ; bois mixtes. $C. testaceorufus
+14,0$ 14b : Spores plus larges, mesurant (7) 7,5-8,5 (9) x 5-6 µm, ovoïdes ou pruniformes ; chapeau irrégulier, à mamelon saillant et marge fortement brisée-infléchie, brun-roux par le sec ; stipe d’aspect nacré, un peu plus pâle que le chapeau ; chair safranée à la base du stipe, à faible odeur iodée ; feuillus. [= C. candelaris ss. Hry., non Fr.]. $C. percandelaris
+rem$ Série Acetosus
+15,16$ 15a : Petites espèces à port grêle ou à voile caulinaire important ; position systématique incertaine (voir les Sous-sections Obtusi et Obtusoides).
+15,18$ 15b : Taxons charnus et robustes typiques de la Série.
+16,17$ 16a : Stipe nu.
+16,0$ 16b : Stipe guirlandé par un voile blanc couleuvrant, membraneux, crevassé en écailles ; spores ovoïdes, finement ornées, mesurant (7) 7,5-9 (9,5) x (4,5) 5-6 (6,5) µm ; chapeau d’un roux éteint puis orangé abricot éteint par le sec ; forte odeur d’iodoforme à composante vinaigrée ; feuillus. $C. colubripes
+17,0$ 17a : Petites spores, mesurant (6) 6,5-8 (8,5) x (4) 4,5-5 (5,5) µm, ellipsoïdes, sublisses ; chapeau passant de l’ocre-roux à l’ocre jaunâtre pâle ; forte odeur iodée ; conifères et feuillus humides acidiphiles. $C. duracinobtusus
+17,0$ 17b : Spores plus grandes, mesurant (7,5) 8-10 (10,5) x (4,5) 5-6 µm, ellipsoïdes-subamygdaliformes, nettement verruqueuses ; chapeau brun-roux sombre imbu, s’éclaircissant vers le fauve orangé pâle ; forte odeur de vinaigre ; sous Pinus sylvestris. $C. flammifer
+18,19$ 18a : Spores ovoïdes.
+18,21$ 18b : Spores ellipsoïdes ou subamygdaliformes.
+19,0$ 19a : Spores subovoïdes, à verrues éparses, mesurant (8) 8,5-10 (10,5) x 6-7 µm ; stipe spectaculairement épaissi au sommet (x 20 mm) ; chapeau finement givré, ocre abricot pâle ; conifères. $C. colossipes
+19,20$ 19b : Spores de plus petite taille.
+20,0$ 20a : Spores mesurant (6,5) 7-8,5 (9) x 5,5-6,5 µm, ovoïdes, finement piquetées ; chapeau brun fauve, se déshydratant radialement, ocre-jaune pâle par le sec ; bois de chênes. $C. sporovatus
+20,0$ 20b : Spores plus étroites, mesurant (6) 6,5-8 (8,5) x 4-5 µm, largement ellipsoïdes ou ovoïdes, peu ornées ; chapeau à centre souvent déprimé, brun-roux orangé, se décolorant en ocre-jaune pâle à la fin ; feuillus, au printemps. $C. canens
+21,22$ 21a : Spores de taille moyenne (8-11 µm de longueur).
+21,27$ 21b : Spores de plus grande taille, atteignant 12-13 µm de longueur ; réaction fortement positive de la chair au gaïac (+++) ; présence d’un voile givrant sur le chapeau.
+22,0$ 22a : Spores sublisses ou finement verruqueuses, ellipsoïdes, (8,5) 9-11 (11,5) µm ou (6) 6,5-8,5 (9) x 4-5 (5,2) µm sur la forme microsporée ; cellules stériles clavées-septées ; chapeau givré par le voile, ocre-jaune abricot ; très forte odeur d’iodoforme ; feuillus. $C. pseudoarmeniacus
+22,23$ 22b : Spores densément verruqueuses.
+23,24$ 23a : Chapeau fortement givré par le voile.
+23,0$ 23b : Chapeau lisse, nu, passant du fauve orangé à l’abricot pâle, noircissant parfois sur les bords par vétusté ; stipe pouvant être très long et grêle, mais également plus court et plus épais, blanc, grisonnant un peu à la base ; très forte odeur de vinaigre ; spores largement ellipsoïdes, à grosses verrues peu denses, (7) 7,5-10 (11) x 5-6 µm, mesurant sur la forme à long stipe grêle (8,5) 9-11,5 (12) x 6-7 µm. $C. acetosus
+24,0$ 24a : Lames remarquablement veinées-anastomosées ; chapeau passant du brun-roux au jaune orangé, puis au jaune pâle ; lames très espacées, épaisses, veinées en relief sur les faces, plissées, anastomosées dans les sinus, abricot ou ocre fauve, arête denticulée, blanche, à poils marginaux abondants ; forte odeur d’iodoforme ; feuillus ; spores largement ellipsoïdes ou ovoïdes, densément verruqueuses, mesurant (7,5) 8-10,5 (11) x 6-7 µm. $C. venosifolius
+24,25$ 24b : Lames peu ou non veinées ; forte odeur iodée-vinaigrée.
+25,0$ 25a : Chapeau crème jaunâtre nuancé d’orangé pâle ; réaction positive de la chair à AgNO3 (purpurin puis presque noir) ; lames très espacées, ocre rouillé vif, arête fortement denticulée par de nombreux poils marginaux septés ; bois mixtes ; spores largement ellipsoïdes ou ovoïdes, à verrues saillantes mais éparses, mesurant (7) 8-10,5 (11) x 5-6 µm. $C. flavidus
+25,26$ 25b : Chapeau nettement orangé ; réaction nulle de la chair à AgNO3 ; feuillus.
+26,0$ 26a : Spores ellipsoïdes, fortement verruqueuses, à ornementation subcristulée, saillante, mesurant (8) 8,5-10,5 (11) x 5,5-6,5 µm ; arête des lames sans cellules marginales différenciées ; port élancé ; stipe jaune orangé sous un fibrillum aérifère, 40-70 x 4-7 mm ; chapeau fauve orangé, à mamelon paraissant grisâtre sous la pruine blanche. $C. pruinatus
+26,0$ 26b : Spores plus étroites, (6,5) 7-9 (9,5) x 4-5,5 µm, ellipsoïdes, moyennement verruqueuses, à verrues saillantes à l’apex ; port trapu ; stipe blanc, 30-50 x 10-13 mm ; arête des lames blanche par des bouquets de cellules stériles clavées ; chapeau 30-40 mm de diamètre, d’un bel orangé puis pâlissant. $C. subcandelaris
+27,0$ 27a : Spores ellipsoïdes-oblongues, densément et finement verruqueuses, mesurant (8,5) 9-13 (13,5) x (5) 5,5-6 (6,5) µm ; arête des lames occupée par des poils marginaux clavés en palissade ; chapeau brun orangé, se déshydratant en ocre-jaune ; odeur exacerbée de vinaigre ; en touffes, bois feuillus en terrain argilo-calcaire. $C. masseei
+27,0$ 27b : Spores subfusiformes, sablées, mesurant (8) 8,5-12 (12,5) x 5-6 µm ; arête des lames sans particularité ; chapeau passant du brun-rouge au jaune ocré ; odeur iodo-raphanoïde ; subfasciculé sous feuillus acidiphiles. $C. pseudomasseei
+
+CS910,0$ Section Fraterni Moënne-L. & Reum.
+1,2$ 1a : Voile général blanc.
+1,CS915$ 1b : Voile général évident, brun, ochracé, brun-jaune (série Lanatus : spores amygdaliformes) ou blanc sale à brunâtre et plus fugace (série Fusisporus : spores typiquement fusiformes). $$s"Ss-sect. Vestiti"
+2,CS911$ 2a : Chapeau remarquablement couvert (entièrement ou sur la marge uniquement) de méchules ou squamettes retroussées. $$s"Ss-sect. Paleacei"
+2,3$ 2b : Chapeau ne présentant pas ce caractère.
+3,CS913$ 3a : Taxons entièrement de teinte violacée ou gris violacé ; port très grêle. $$s"Ss-sect. Pulchelli"
+3,4$ 3b : Pas ces caractères.
+4,CS914$ 4a : Taxons odorants (surtout de cèdre). $$s"Ss-sect. Parvuli"
+4,CS912$ 4b : Taxons inodores (ou à odeur insignifiante). $$s"Ss-sect. Fraterni"
+
+CS911,0$ Sous-section Paleacei (Kühn. & Romagn.) ex Moënne-L. & Reum.
+1,2$ 1a : Forte odeur de Pelargonium ou de poisson (exceptionnellement de bois de cèdre). $$s"Série Paleaceus"
+1,31$ 1b : Absence d’odeur remarquable. $$s"Série Hemitrichus"
+rem$ Série Paleaceus
+2,3$ 2a : Restes vélaires (méchules ou squames) couvrant entièrement le chapeau : Stirps Paleaceus.
+2,20$ 2b : Restes vélaires limités à la marge du chapeau : Stirps Rigidus.
+rem$ Stirps Paleaceus
+3,4$ 3a : Spores ellipsoïdes ou ovo-ellipsoïdes.
+3,19$ 3b : Spores amygdaliformes ou subfusiformes.
+4,5$ 4a : Spores d’assez grande taille (atteignant 11-11,5 x 6,5-7 µm).
+4,6$ 4b : Spores de plus petite taille, ne dépassant pas 9-10 µm de long.
+5,0$ 5a : Feuillus ; lames violacées ; chapeau non ridé radialement ; spores (9) 9,5-11 (11,5) x 5,5-6,5 (7) µm (Q = 1,7) ; à forte verrucosité. $C. geraniolens
+5,0$ 5b : Conifères avec sphaignes ; lames brunes ; chapeau radialement ridé-plissé ; spores (8) 8,5-10,5 (11) x 5,5-6 (6,5) µm (Q = 1,6), finement ornées. $C. plicatus
+6,7$ 6a : Odeur de Pelargonium.
+6,17$ 6b : Odeurs différentes.
+7,8$ 7a : Mycélium violacé.
+7,11$ 7b : Mycélium blanc.
+8,9$ 8a : Lames violacées ou gris-mauve ; réaction nulle de la chair au gaïac.
+8,0$ 8b : Lames sans pigment violacé ; réaction fortement positive de la chair (+++) au gaïac ; spores (6,5) 7-8,5 (9) x 5-5,5 µm (Q = 1,45), ovo-pruniformes, à verrucosité forte et saillante. $C. basimalvaceus
+9,10$ 9a : Feuillus.
+9,0$ 9b : Conifères ; spores (7) 7,5-9 (10) x 5-5,5 µm (Q = 1,6), finement ornées. $C. paleiferus (forme des conifères)
+10,0$ 10a : Spores étroites, (7) 7,5-8,5 (9) x 4,5-5 µm (Q = 1,7), à verrucosité moyenne. $C. violaceopapillatus
+10,0$ 10b : Spores plus larges, (7) 7,5-9 (10) x 5-5,5 µm (Q = 1,6), finement ornées. $C. paleiferus (forme des feuillus)
+11,12$ 11a : Lames violacées ou gris mauve ; feuillus.
+11,14$ 11b : Lames sans pigment violacé.
+12,0$ 12a : Taille minuscule (chapeau 8-10 mm de diamètre) ; Alnus glutinosa ; spores (7) 7,5-9 (9,5) x 4,5-5 (5,5) µm (Q = 1,65), finement ornées. $C. minipaleiferus
+12,13$ 12b : Taille plus grande.
+13,0$ 13a : Spores étroites, (7) 7,5-9 (9,5) x 4,5-5 (5,5) µm (Q = 1,7), à verrucosité fine. $C. frondosus
+13,0$ 13b : Spores plus larges, (7,5) 8-9 (9,5) x 5-6 µm (Q = 1,5-1,6), à forte verrucosité. $C. subcarcharias
+14,15$ 14a : Feuillus.
+14,16$ 14b : Conifères (avec ou sans sphaignes).
+15,0$ 15a : Réaction fortement positive de la chair (+++) au gaïac ; Betula pendula et Salix caprea ; spores (7) 7,5-9 (9,5) x 4,5-5,5 µm (Q = 1,7). $C. obtusocephalus
+15,0$ 15b : Réaction nulle de la chair au gaïac ; feuillus divers (Fagus selon Fries) ; spores (7) 7,5-9 (9,5) x 5-6 µm (Q = 1,5). $C. paleaceus
+16,0$ 16a : Stipe subégal ou atténué à la base ; pas de noircissement évident des parties altérées ; spores (7) 7,5-9 (9,5) x 5-6 µm (Q = 1,5), finement ornées. $C. paleaceus f. pinetorum
+16,0$ 16b : Stipe à base typiquement bulbilleuse et dure comme du bois ; noircissement rapide des parties altérées ; spores (7) 7,5-9 (9,5) x (4,5) 5-5,5 (6) µm (Q = 1,5), à verrucosité moyenne et dense. $C. bulbososolidus
+17,0$ 17a : Odeur nette de poisson ; lames violacées ; bois feuillus ; spores (7) 7,5-9,5 (10,5) x 5-5,5 (6) µm (Q = 1,6), à verrucosité forte et saillante. $C. pisciodorus
+17,18$ 17b : Odeurs différentes ; lames non violacées.
+18,0$ 18a : Odeur de bois de cèdre ; Picea abies ; spores (7) 7,5-8,5 (9) x 4,5-5,5 (6) µm (Q = 1,6), à verrucosité fine mais saillante. $C. cedriodor
+18,0$ 18b : Odeur faiblement raphanoïde ; Salix cinerea et Picea abies ; spores (7) 7,5-9 (9,5) x 5-5,7 (6) µm (Q = 1,4), à fine verrucosité. [= ? C. gossypinus H.Lindstr., ad int.]. $C. acutissimus (forma)
+19,0$ 19a : Feuillus ; spores subamygdaliformes ou amygdaliformes, (7,5) 8-9,5 (10) x 4,5-5 (5,5) µm (Q = 1,8) ; mycélium mauve ; port grêle, élancé. $C. tiliaceus
+19,0$ 19b : Conifères (Pinus sylvestris et Picea abies) ; spores subfusiformes, (7) 7,5-9 (9,5) x 3,5-4,5 (5) µm (Q = 1,9) ; mycélium blanc ; port trapu (stipe court). $C. violilamellatus
+rem$ Stirps Rigidus
+20,21$ 20a : Spores ellipsoïdes ou ovoïdes.
+20,27$ 20b : Spores (sub)amygdaliformes ou subfusiformes.
+21,22$ 21a : Spores étroites (x 4,5-5,5 µm) ; conifères stricts.
+21,23$ 21b : Spores plus larges (x 5-6,5 µm) ; conifères (éventuellement avec feuillus).
+22,0$ 22a : Spores (7) 7,5-8,5 (9) x 4,5-5,5 (5,8) µm (Q = 1,5) ; chapeau typiquement très pointu, à marge non striée. $C. acuminatus
+22,0$ 22b : Spores (7) 7,5-9,5 (10) x 4,5-5,5 µm (Q = 1,65) ; chapeau moins aigu, à marge fortement striée. $C. pelargoniostriatulus
+23,24$ 23a : Picea abies (sphaignes facultatives).
+23,26$ 23b : Pinus sylvestris (présence parfois de Quercus pubescens).
+24,0$ 24a : Odeur complexe de Pelargonium et de poisson ; port trapu ; stipe court, gris brunâtre, à voile peu marqué ; spores (6,5) 7,5-9 (9,5) x 5-6 µm (Q = 1,55). $C. pseudodepressus
+24,25$ 24b : Odeur pure de Pelargonium ; port grêle ; stipe plus élancé.
+25,0$ 25a : Lames brun fauve ; stipe cylindracé, brun-rouge, à voile membraneux et guirlandé très évident ; réaction nulle à la phénolaniline ; spores (7,5) 8-9,5 (10) x (5) 5,5-6,5 µm (Q = 1,45). $C. palustribus
+25,0$ 25b : Lames violacées ; stipe à bulbe ovalaire, fauve pâle, à voile discret (une seule zone annulaire fugace) ; réaction fortement positive à la phénolaniline ; spores (7,5) 8-9 (9,5) x 5-6 µm (Q = 1,55). $C. fulvocephalus
+26,0$ 26a : Stipe grêle, violacé au sommet ; mycélium blanc ; réaction fortement positive (+++) de la chair à la phénolaniline ; odeur forte de Pelargonium ; spores (7) 7,5-8,5 (9) x 5-6 µm (Q = 1,45), à verrucosité fine ou moyenne. $C. germanus
+26,0$ 26b : Stipe démesuré (jusqu’à 120 mm de long), non violacé au sommet ; mycélium violacé ; réaction nulle de la chair à la phénolaniline ; odeur faible (ou nulle) de Pelargonium ; spores (7) 7,5-8,5 (9) x 5-5,7 (6) µm (Q = 1,5), à verrucosité assez forte. $C. altipes
+26,0,N$ Si les spores atteignent 10,5-11 µm de long, voir C. plicatus dans la stirps Paleaceus.
+27,0$ 27a : Spores (8,5) 9-11 (11,5) x (4,5) 5-6 (6,5) µm (Q = 1,8), subamygdaliformes ou amygdaliformes, à fine et dense verrucosité ; Salix herbacea. $C. diasemospermus
+27,28$ 27b : Spores de plus petite taille.
+28,0$ 28a : Conifères (Abies alba) ; spores (8) 8,5-10 (10,5) x 4,5-5 µm (Q = 1,9), subfusiformes. $C. rigidus
+28,29$ 28b : Feuillus.
+29,0$ 29a : Réaction fortement positive de la chair (+++) au gaïac ; spores (7,5) 8-9,5 (10) x 4,5-5,5 µm (Q = 1,85), subfusiformes. $C. alopecurus
+29,30$ 29b : Réaction nulle de la chair au gaïac.
+30,0$ 30a : Chapeau brun-rouge ne se déshydratant pas en olivâtre ; base du stipe dure comme du bois à la pression des doigts ; feuillus hygrophiles ; spores (7) 7,5-9,5 (10) x 4-5 µm (Q = 1,95), subfusiformes, à fine verrucosité. $C. subrigidus
+30,0$ 30b : Chapeau présentant des nuances olivâtres en séchant ; base du stipe molle à la pression des doigts ; feuillus divers non particulièrement hygrophiles ; spores (7) 7,5-9 (9,5) x (4) 4,5-5,5 (6) µm (Q = 1,6), subamygdaliformes, à verrucosité moyenne. $C. abjectus
+rem$ Série Hemitrichus
+31,32$ 31a : Spores de grande taille (atteignant 11-12,5 µm), Q = 1,7.
+31,34$ 31b : Spores de plus faible taille.
+32,33$ 32a : Zone alpine (Salix herbacea).
+32,0$ 32b : Zone sylvatique (Pinus sylvestris et Quercus pubescens) ; réaction fortement positive de la chair (+++) au gaïac et à la phénolaniline ; spores (9,5) 10-12 (12,5) x 6-7 (7,5) µm, ellipsoïdes. $C. pseudogermanus
+33,0$ 33a : Spores (9) 9,5-12 (12,5) x 6-6,5 µm, ellipsoïdes ou subcylindracées ; voile fibrilleux sans véritable anneau sur le stipe. $C. hemitrichoides
+33,0$ 33b : Spores (8,5) 9-10,5 (11) x 5,5-6 (6,5) µm, ellipsoïdes ou subamygdaliformes ; voile membraneux, présence d’un anneau bien marqué. $C. atomatus
+34,35$ 34a : Spores de taille moyenne (8-10,5 µm de long).
+34,39$ 34b : Spores de petite taille [6,5-8,5 (9) µm de long].
+35,36$ 35a : Spores étroites [4-5 (5,5) µm de large], Q = 1,9.
+35,37$ 35b : Spores plus larges (x 5-6 µm), Q = 1,5-1,7.
+36,0$ 36a : Taille moyenne (chapeau atteignant 55 mm, presque 80 mm selon Fries) ; Alnus glutinosa et Picea abies ; spores (7,5) 8-10 (10,5) x (4) 4,5-5 µm, ellipsoïdes ou subfusiformes. $C. plumiger
+36,0$ 36b : Petite taille (chapeau dépassant à peine 20 mm de diamètre) ; Salix divers ; spores (8) 8,5-10 (10,5) x 4,5-5 (5,5) µm, ellipsoïdes. $C. albonigrellus
+37,38$ 37a : Lames initialement violacées.
+37,0$ 37b : Absence de pigment violacé dans les lames ; port élancé, stipe atteignant 120 mm de long ; conifères ; spores (7) 7,5-9 (9,5) x 5-6 µm (Q = 1,5), subovoïdes ou ovo-ellipsoïdes. $C. parastemmatus
+38,0$ 38a : Feuillus (Carpinus betulus) ; mycélium violacé ; port imposant ; réaction nulle de la chair au gaïac et à la phénolaniline ; spores (7,5) 8-9,5 (10) x 5-6 µm (Q = 1,55), ellipsoïdes ou ovo-ellipsoïdes. $C. subattenuatus
+38,0$ 38b : Conifères ; mycélium blanc ; port grêle ; réaction positive de la chair (++) au gaïac et à la phénolaniline ; spores (8,5) 9-10 (10,5) x 5-6 µm (Q = 1,7), ellipsoïdes, parfois subcylindracées. $C. lilacinosquamulosus
+38,0,N$ Rappel : sous Salix et odeur raphanoïde, voir C. acutissimus (forma) in stirps Paleaceus.
+39,40$ 39a : Feuillus ; spores étroites (x 4-5 µm), Q = 1,8-2.
+39,41$ 39b : Conifères ; spores plus larges, atteignant 5,5 (6) µm, Q = 1,4-1,5.
+40,0$ 40a : Base du stipe blanche ; réaction fortement positive de la chair (+++) au gaïac ; Betula divers ; spores (7) 7,5-8,5 (9) x (4,2) 4,5-4,8 (5) µm (Q = 1,9), subamygdaliformes. $C. hemitrichus
+40,0$ 40b : Base du stipe rose ou mauve ; réaction nulle de la chair au gaïac ; Quercus divers ; spores (6,5) 7-8,5 (9) x 4-4,5 (5) µm (Q = 1,8), ellipsoïdes. $C. roseohemitrichus
+41,0$ 41a : Lames et stipe violacés ; présence (obligatoire ?) de sphaignes ; spores (6) 6,5-8,5 (9) x 4,5-5,5 (6) µm (Q = 1,5) ; ovo-pruniformes ou subglobuleuses. $C. sublatisporus
+41,42$ 41b : Absence de tons violacés ; conifères seCS9 ; spores (6) 6,5-8 (8,5) x 5-5,5 (6) µm (Q = 1,4), subovoïdes ou ovo-ellipsoïdes.
+42,0$ 42a : Réaction nulle de la chair au gaïac. $C. comptulus
+42,0$ 42b : Réaction positive de la chair (++) au gaïac. $C. comptulus (forma)
+
+CS912,0$ Sous-section Fraterni Bid. & al.
+1,2$ 1a : Spores amygdaliformes ou fusiformes.
+1,3$ 1b : Spores de formes différentes.
+2,0$ 2a : Populus et Salix divers ; spores (7) 7,5-9,5 (10) x 5-6 µm (Q = 1,5), subamygdaliformes, à verrucosité moyenne, plus forte au sommet. $C. melanoleucus
+2,0$ 2b : Picea abies ; spores étroites, (7) 8-10 (10,5) x 4,5-5,5 µm (Q = 1,8), fusiformes, finement ornées. $C. flexipes
+3,4$ 3a : Spores subovoïdes (Q = 1,4-1,5).
+3,10$ 3b : Spores ellipsoïdes (Q = 1,6-1,8) ; feuillus.
+4,0$ 4a : Mycélium mauve ; spores (7) 7,5-8,5 (9) x 5-5,5 (6) µm (Q = 1,5), à fine verrucosité. $C. pilatii
+4,5$ 4b : Mycélium blanc.
+5,0$ 5a : Lames violacées ; réaction fortement positive de la chair à la phénolaniline (+++) et fulgurante au gaïac (++++) ; spores finement ornées, (6,5) 7-8,5 (9) x 4,5-5,5 µm (Q = 1,5). $C. sensibilis
+5,6$ 5b : Absence de violacé dans les lames.
+6,0$ 6a : Pigment violacé au sommet du stipe ou sur le chapeau ; conifères secs (parfois feuillus) ; spores (6,5) 7-9,5 (10) x 5-6 µm (Q = 1,5), à verrucosité moyenne, plus saillante au sommet. $C. atrocoeruleus
+6,7$ 6b : Absence de violacé sur une quelconque partie du basidiome.
+7,0$ 7a : Feuillus ; réaction fortement positive de la chair à la phénolaniline (+++) et au gaïac (+++) ; spores (6,5) 7-9,5 (10) x 5-6,5 µm (Q = 1,4), à forte verrucosité. $C. papillatus
+7,8$ 7b : Conifères (avec ou sans sphaignes) ; réaction nulle de la chair à la phénolaniline et au gaïac.
+8,0$ 8a : Spores (7,5) 8-10 (10,5) x (5) 5,5-6 (6,5) µm (Q = 1,5), à fine verrucosité. $C. inolens
+8,9$ 8b : Spores ne dépassant pas 8-9 µm.
+9,0$ 9a : Chapeau méchuleux ou squamuleux ; spores (6,5) 7-8 (8,5) x (4,5) 5-5,5 (6) µm (Q = 1,4), à verrucosité forte et dense. $C. inolens var. parvinolens
+9,0$ 9b : Chapeau fibrilleux ; spores (7) 7,5-8,5 (9) x 5-6 µm (Q = 1,5), à verrucosité petite ou moyenne. $C. flos-paludis
+10,11$ 10a : Teintes sombres.
+10,0$ 10b : Teintes moins sombres ; Alnus glutinosa ; chapeau pâlissant en gris noisette à reflet carné ; spores (8,5) 9-12 (12,5) x 5,5-6,2 (6,5) µm (Q = 1,8). $C. griseocarneus
+11,0$ 11a : Populus divers ; port grêle ; spores (7,5) 8-9,5 (10) x (4,5) 5-5,5 (6) µm (Q = 1,65). $C. fraternus
+11,0$ 11b : Alnus glutinosa ou A. incana ; port plus imposant ; spores (7,5) 8-10,5 (11) x 5-6 µm (Q = 1,7). $C. alnetorum
+
+CS913,0$ Sous-section Pulchelli (Kühn. & Romagn. ex Melot) Bid. & al.
+1,0$ 1a : Voile fibrilleux presque inexistant ; spores (7,5) 8-10 (10,5) x 5-6,5 (7) µm, ovo-ellipsoïdes, à verrucosité très fine, parfois à peine visible ; chapeau papillé ou muni d’un petit téton ; Alnus divers. $C. lilacinopusillus
+1,0$ 1b : Voile membraneux en bracelets sur le stipe ; spores plus petites ; Alnus. $Voir C. bibulus* et C. americanus*
+
+CS914,0$ Sous-section Parvuli (Kühn. & Romagn. ex Melot) Moënne-L. & Reum.
+1,2$ 1a : Teintes vives (ocre jaune, ocre roux, abricot) ; odeur de bois de cèdre (exceptionnellement de pélargonium). $$s"Série Parvannulatus"
+1,7$ 1b : Teintes plus ternes (marron, brun-rouge, brun châtain) ; odeur plus variées : bois de cèdre, violette, rave. $$s"Série Turibulosus"
+rem$ Série Parvannulatus
+2,0$ 2a : Spores de grande taille, (8,5) 9-12 (12,5) x (5,5) 6-7 µm (Q = 1,6), largement ellipsoïdes, à verrucosité fine et éparse ; odeur nulle ou faible de Pelargonium ; Picea abies et Betula pubescens. $C. subparvannulatus
+2,3$ 2b : Spores de plus petite taille ; odeur de bois de cèdre	3
+3,4$ 3a : Spores ellipsoïdes-subcylindracées ou ovo-ellipsoïdes, à verrucosité fine ou moyenne ; feuillus, conifères, saules nains.
+3,6$ 3b : Spores subamygdaliformes ou subrhomboïdales, à verrucosité parfois très forte ; feuillus stricts.
+4,0$ 4a : Spores 6,5-8,5 x 4,5-5 µm (Q = 1,55) ; anneau membraneux évident ; conifères. $C. parvannulatus
+4,5$ 4b : Spores 7,5-9,5 (10) x 5-5,5 (5,7) µm (Q = 1,6) ; anneau peu évident, souvent oblitéré.
+5,0$ 5a : Feuillus et conifères. $C. cedriolens
+5,0$ 5b : Salix nains de la zone alpine ; port plus grêle. $C. cedriolens f. alpinus
+6,0$ 6a : Spores finement à moyennement ornées, à tendance rhomboïdale, (7) 7,5-8 (8,5) x 4,5-5 (5,5) µm (Q = 1,65) ; feuillus hygrophiles. $C. neofallax
+6,0$ 6b : Spores fortement ornées, subamygdaliformes, (6,5) 7-8 (8,5) x 4-5 (5,5) µm (Q = 1,6) ; feuillus divers, non spécialement hygrophiles. $C. pseudofallax
+rem$ Série Turibulosus
+7,8$ 7a : Odeur de bois de cèdre ; conifères (exceptionnellement sous feuillus).
+7,9$ 7b : Odeurs différentes ; feuillus ou conifères.
+8,0$ 8a : Spores oblongues parfois subcylindracées, (8) 8,5-11,5 (12) x 5-6 µm (Q = 1,8), à verrucosité fine ; réaction fortement positive de la chair (+++) au gaïac et nulle à AgNO3. $C. turibulosus
+8,0$ 8b : Spores ovo-ellipsoïdes, (7) 7,5-10 (10,5) x (4,5) 5-6 µm (Q = 1,55), à verrucosité forte et saillante (au sommet) ; réaction nulle de la chair au gaïac, positive à AgNO3 (++). $C. scriptor
+9,10$ 9a : Odeur nulle ou faiblement raphanoïde ; marge du chapeau cannelée ou contractée ; spores ne dépassant pas 8,5 µm de long.
+9,0$ 9b : Odeur de violette ; spores de taille plus grande, (7,5) 8-10 (10,5) x 4,8-5,5 µm (Q = 1,7), ellipsoïdes, à forte verrucosité. $C. violaeolens
+10,0$ 10a : Chapeau ridé-crispé ; anneau réduit à quelques fibrilles ; conifères ; spores 6,5-8,5 x 5,2-5,8 µm (Q = 1,35), ovoïdes, finement ornées. $C. crispus
+10,0$ 10b : Chapeau non plissé-ridé radialement ; anneau membraneux ; feuillus ; spores (6) 6,5-8,5 x 4,5-5,5 µm (Q = 1,5), ellipsoïdes-sublarmiformes, à verrucosité subspinuleuse. $C. parvulus
+
+CS915,0$ Sous-section Vestiti Moënne-L. & Reum.
+1,2$ 1a : Spores fusiformes ; restes de voile fugaces, blanchâtres ou brunâtres. $$s"Série Fusisporus"
+1,0$ 1b : Spores amygdaliformes ; restes de voile évidents, bruns ou brun-jaune ochracé : Série Lanatus. $C. lanatus 
+1,0,N$ Série seulement représentée à ce jour par C. lanatus*
+rem$ Série Fusisporus
+2,3$ 2a : Spores de grande taille (atteignant 11-13 µm de long).
+2,11$ 2b : Spores de plus petite taille.
+3,4$ 3a : Pinus divers.
+3,6$ 3b : Habitats différents.
+4,0$ 4a : Inodore ou odeur poivrée ; réaction positive (++) de la chair au gaïac ; spores (9) 9,5-11,5 (12) x 4,5-5 µm (Q = 2,2). $C. fusisporus
+4,5$ 4b : Odeur différentes.
+5,0$ 5a : Odeur de bois de cèdre ; réaction nulle de la chair au gaïac ; spores (9) 9,5-11,5 (12) x 4-4,5 µm (Q = 2,2). $C. fusisporus var. olivaceodepressus
+5,0$ 5b : Odeur raphanoïde ; réaction inconnue de la chair au gaïac ; spores (8,5) 9-11 (11,5) x 4,5-5 µm (Q = 2,1). $C. tabacinus
+6,7$ 6a : Cistus divers en zone méditerranéenne.
+6,8$ 6b : Feuillus de la zone tempérée (sylvatique ou alpine).
+7,0$ 7a : Spores (10,5) 11-13 (13,5) x 5-6 µm (Q = 2) ; chapeau entièrement méchuleux-squamuleux ; voile blanc en bracelets étagés sur le stipe. $C. scobinaceus
+7,0$ 7b : Spores (10) 10,5-12 (12,5) x 4,5-5,2 (5,5) µm (Q = 2,2) ; chapeau méchuleux-squamuleux uniquement sur la marge ; voile blanc peu fourni sous forme d’un anneau fugace. $C. belleri
+8,9$ 8a : Salix divers (parfois Abies alba).
+8,0$ 8b : Betula divers ; réaction positive (++) de la chair au gaïac et à la phénolaniline ; spores (9,5) 10-12 x 5-6 (6,5) µm (Q = 1,9). $C. pseudofusisporus
+9,0$ 9a : Odeur de Macrocystidia cucumis (poisson et concombre) ; Salix divers : Spores (9) 9,5-11,5 (12) x 5-6 (6,5) µm (Q = 1,8), à verrucosité moyenne, plus grosse et plus saillante au sommet. $C. depressoides
+9,10$ 9b : Odeur insignifiante ou de rance ; spores plus étroites.
+10,0$ 10a : Spores (11) 11,5-13,5 (14) x (4,5) 5-5,5 (6) µm (Q = 2,2) ; odeur de rance. $C. pseudocasimiri
+10,0$ 10b : Spores (9,5) 10-11,5 (12) x (4,5) 5-5,5 (5,7) µm (Q = 2) ; odeur insignifiante ; Salix nains alpins ou Salix caprea (avec Abies alba). $C. cucumisporus (forma)
+11,12$ 11a : Spores atteignant 9,5-10 (10,5) µm de long ; feuillus.
+11,13$ 11b : Spores n’excédant pas 7,5-8 µm de long ; conifères (surtout Pinus).
+12,0$ 12a : Réaction positive (++) de la chair au gaïac ; lames étroites (2-3 mm) ; Populus et Alnus ; spores (7) 7,5-9,5 (10) x 4-5 µm (Q = 1,9). $C. impolitus
+12,0$ 12b : Réaction nulle de la chair au gaïac ; lames larges (5-7 mm) ; Betula ; spores (6,5) 7-10 (10,5) x 4-5 µm (Q = 1,9). $C. vestitus
+13,0$ 13a : Chapeau presque entièrement floconneux-méchuleux ; mycélium parfois mauve ; spores (6) 6,5-7,5 (8) x 3-3,8 (4) µm (Q = 2,1). $C. lux-nymphae
+13,14$ 13b : Chapeau simplement fibrilleux ; mycélium blanc.
+14,15$ 14a : Spores ne dépassant pas 3-4 µm de large.
+14,17$ 14b : Spores plus larges (x 4-5 µm) ; réaction positive (++) de la chair au gaïac.
+15,16$ 15a : Réaction fortement positive (+++) de la chair au gaïac et nulle à la phénolaniline.
+15,0$ 15b : Réaction nulle de la chair au gaïac mais positive (++) à la phénolaniline ; spores minuscules, (5) 5,5-7 (7,5) x 3,5-3,8 µm (Q = 1,75), fusiformes. $C. sporagnitus
+16,0$ 16a : Spores (5,5) 6-7,5 (8) x 3-3,5 (4) µm (Q = 2), étroitement ellipsoïdes, parfois subcylindracées ; zone annulaire blanche submembraneuse positionnée au tiers supérieur. $C. bohemicus
+16,0$ 16b : Spores (5,5) 6-7,5 (8) x 3-4 µm (Q = 1,85), ellipsoïdes ou subfusiformes ; anneau blanc typiquement positionné au quart inférieur (ou plus bas) du stipe ; sosie de la planche (n° 641) de C. heterosporus Bres. $C. bohemicus f. subheterosporus
+17,0$ 17a : Spores (5,5) 6-7,5 (8) x 4-4,5 µm (Q = 1,65), ellipsoïdes ou subamygdaliformes. $C. adalbertii
+17,0$ 17b : Spores (7) 7,5-9,5 (10) x 4-5 µm (Q = 1,9), subfusiformes. $C. impolitus
+
+CS916,0$ Section Fulvescentes Melot
+1,2$ 1a : Taxons de port le plus souvent grêle ; stipe le plus souvent très long. $$s"Série Fulvescens"
+1,6$ 1b : Taxons de port souvent plus râblé, à voile nettement rougissant (parfois aspect de Spilomei). $$s"Série Poirieri"
+rem$ Série Fulvescens
+2,0$ 2a : Mamelon pointu, comme C. acutus, très sombre (ou noir) par imbibition, tranchant sur le reste du revêtement ; conifères humides ; spores courtement ellipsoïdes ou ovoïdes, moyennement ornées, 6,5-8 (8,5) x 5-5,5 (6) µm (Q = 1,4). $C. fasciatus
+2,3$ 2b : Mamelon mousse.
+3,4$ 3a : Taxons des bois de conifères.
+3,5$ 3b : Taxons des bois feuillus.
+4,0$ 4a : Stipe (démesuré dans la f. maximus) le plus souvent dépourvu de ligne cortinale sous l’apex ; souvent dans les sphaignes ; spores ellipsoïdes, peu ornées, (9) 10-11,5 (12) x 5,5-6,5 µm (Q = 1,8). $C. fulvescens
+4,0$ 4b : Stipe (très souvent) à ligne cortinale située sous l’apex ; bois de conifères acides ou bois mêlés avec Abies alba ; spores de plus petite taille, ellipsoïdes, piquetées, (7,5) 8-9,5 (10) x 5-6 µm (Q = 1,6). $C. subfulvescens
+5,0$ 5a : Taxon très décolorant ayant tendance à se rider ; stipe orné de petits flocons fauves ; bois mêlés sur sol acide ; spores ovoïdes, finement piquetées, (7) 7,5-10 (10,5) x (5,5) 6-6,5 µm (Q = 1,5). $C. fulvofloccosus
+5,0$ 5b : Taxon beaucoup moins décolorant ; stipe ayant tendance à devenir tubuleux-creux, couvert de fibrilles fulvescentes en chevrons ; spores plus étroites, ellipsoïdes, peu ornées, (8) 8,5-10 (10,5) x 5-6 µm (Q = 1,6). $C. pseudofulvescens
+rem$ Série Poirieri
+6,7$ 6a : Taxons des conifères à spores moyennes, ovoïdes ou ellipsoïdes.
+6,8$ 6b : Taxons des feuillus et des conifères, à spores plus petites, souvent étroites.
+7,0$ 7a : Gaïac très faible, lentement positif (+) ; chapeau brun de châtaigne obscur, pâlissant ; lames rouillées chez l’adulte ; stipe égal ou bulbilleux, gris lilas au sommet, à petit voile rougissant à la base ; spores ellipsoïdes, fortement verruqueuses, (7,5) 8-10,5 x 5-6 µm (Q = 1,7). $C. submiraculosus
+7,0$ 7b : Gaïac foudroyant (++++) ; chapeau brun châtain clair, passant à l’ocre fauve ; lames ocre fauve ; stipe un peu clavé ou atténué à la base, argenté puis lavé de fibrilles roussâtres ; cespiteux sous Abies alba acidiphiles ; spores largement ellipsoïdes, piquetées ou subcristulées, (7,5) 8-10 (10,5) x 5-6 (6,5) µm (Q = 1,65). $C. citocyaneus (forma)
+8,0$ 8a : Gaïac nul (= 0) ; taxon des bois mêlés calcaires (hêtraie-sapinière), assez râblé, à chapeau soyeux (couleur rappelant celle de C. caninus) ; lames épaisses, fortement veinées ; stipe vite creux, argenté puis brunissant, à coton mycélien rose ; spores fusiformes, ponctuées, (5,5) 6-7,5 (8) x 3,5-4 µm (Q = 1,85). $C. roseomyceliosus
+8,9$ 8b : Gaïac foudroyant (++++).
+9,0$ 9a : Spores étroites (x 3,5-4,5 µm) ; taxon des conifères ; lames gris lilas ou lilacines au début ; taxon parfois cespiteux, à chapeau presque noir étant imbu et stipe à voile rougissant ; spores ellipsoïdes, très peu ornées, (6) 6,5-8 (8,5) x 3,5-4 (4,5) µm (Q = 1,9). [= C. borgotarensis Melot, pro maxima parte]. $C. erubescens
+9,10$ 9b : Spores plus larges (x 4,5-5 µm) ; taxons des conifères et des feuillus.
+10,0$ 10a : Lames gris lilas ou lilacines au début ; taxon à chapeau hygrophane, de port élancé, d’un beau bai roux brillant étant imbu ; stipe long et grêle à petit voile rougissant apprimé ; spores ellipsoïdes, finement ornées, (6) 6,5-8,5 (9) x (4) 4,5-5 µm (Q = 1,6). $C. poirieri
+10,0$ 10b : Lames claires au début ; forme du précédent, à ce jour trouvée exclusivement sous conifères ; spores identiques, sablées, sublisses, (6,5) 7-8,5 (9) x (4) 4,5-5 µm (Q = 1,6). $C. poirieri f. clarophyllus
+
+CS917,0$ Section Hydrocybe Moser & Horak
+1,CS918$ 1a : Stipe envahi de tons rose-rouge à partir de la base. $$s"Ss-sect. Rubellopedes"
+1,2$ 1b : Stipe non envahi de rose-rouge.
+2,CS919$ 2a : Pigment violacé évident sur le stipe ; voile moirant ou multizonant. $$s"Ss-sect. Subsertipedes"
+2,3$ 2b : Pigment violacé nul ou évanescent (reflet violacé en haut du stipe ou sur les bords du chapeau).
+3,CS920$ 3a : Petites espèces sombres, rarement subcespiteuses, à stipe argenté ou carné. $$s"Ss-sect. Hydrocybe"
+3,CS921$ 3b : Espèces souvent un peu plus grandes, typiquement cespiteuses, soit de teintes ternes (chapeau et lames), soit de teintes beaucoup plus vives (lames safranées). $$s"Ss-sect. Fistulares"
+
+CS918,0$ Sous-section Rubellopedes Moënne-L. & Reum.
+1,2$ 1a : Espèces liées aux saules ou poussant en prairie alpine parmi les hélianthèmes.
+1,3$ 1b : Habitat différent (ni saules, ni hélianthèmes).
+2,0$ 2a : Espèce planitiaire liée aux saules, à stipe et chair d’un beau rose (bois de rose) ; spores elliptiques, finement piquetées, (6,5) 7-9 (10) x 4,5-5 µm. $C. carminipes
+2,0$ 2b : Espèce poussant en prairie alpine près des hélianthèmes ; stipe envahi de rosâtre à la base ; spores elliptiques, fortement ornées (verrues saillantes), de (7,5) 8,5-10,5 (11) x 6-6,5 (7) µm. [= C. pulchripes ss. M.Bon, pro parte]. $C. helianthemorum
+3,0$ 3a : Spores ovoïdes, fortement verruqueuses, mesurant (7,5) 8-10 (10,5) x 6-7 µm ; stipe nu ou nettement voilé (anneau fugace ou zones annulaires échelonnées) ; sous feuillus hygrophiles (peupliers, chênes et charmes), en terrain acide. $C. roseipes
+3,4$ 3b : Spores ellipsoïdes.
+4,5$ 4a : Spores de taille moyenne (longueur 10-11 µm).
+4,7$ 4b : Spores de très grande taille.
+5,6$ 5a : Bois feuillus.
+5,0$ 5b : Bois de conifères (épicéas) ; chapeau à marge rosâtre ; stipe court, subbulbeux ; spores elliptiques, à sommet très obtus, un peu tronqué, fortement verruqueuses, (7,5) 8-10 (10,5) x 5-6 µm. $C. malefidus
+6,0$ 6a : Surtout sous chênes (dont il existe, sous les bouleaux, de très petites formes à chapeau de 10-15 mm de diamètre) ; stipe d’un beau carné aurore ; spores largement elliptiques, finement piquetées, (7,5) 8-11 (11,5) x 5-7 µm. $C. auroripes
+6,0$ 6b : Typiquement sous feuillus hygrophiles (récolte hors dition sous Douglas) ; chapeau sombre, ayant tendance à se rider fortement ; stipe devenant rouge betterave à la base ; spores fortement ornées, à verrues spinuleuses-tronquées, (6,5) 7-10 (10,5) x 5,5-6,5 µm. $C. subpulchripes
+7,8$ 7a : Bois feuillus ou mêlés.
+7,9$ 7b : Bois de conifères (épicéas).
+8,0$ 8a : Inodore ; chapeau peu mamelonné, crème ocre et ridé par le sec ; stipe parfois muni d’un tomentum rose à la base ; spores elliptiques, finement verruqueuses, (10) 10,5-13 (14) x 6,5-7 µm. $C. rubellopes
+8,0$ 8b : Forte odeur de gaz d’éclairage ; petite espèce, poussant sous charmes et bouleaux ; stipe souvent fortement tortueux ; spores ellipsoïdes, faiblement piquetées, (9) 9,5-12 x (4,5) 5-6,5 µm. $C. opertaneus
+9,0$ 9a : Spores subcylindracées, (9) 10-12,5 (13) x 5-6,5 µm ; mycélium rose. [= C. rubellopes Hry. in Atl. Cortin. Pars I, pl. 14]. $C. rubellopes var. pudoricolor
+9,0$ 9b : Spores elliptiques, finement verruqueuses, mesurant (10) 11-13,5 (14) x (5,5) 6-8 µm ; taxon faisant transition vers les Hydrocybe de la Section Fulvescentes. $C. calamitosus
+
+CS919,0$ Sous-section Subsertipedes Moënne-L. & Reum.
+1,3$ 1a : Taxons ayant une ressemblance certaine avec C. anthracinus et ses satellites. $$s"Série Anthracinicolor"
+1,2$ 1b : Taxons sans ressemblance avec C. anthracinus.
+2,9$ 2a : Teintes vives ; voile moirant. $$s"Série Erythrinellus"
+2,10$ 2b : Teintes beaucoup plus sombres et ternes ; voile moirant ou multizonant. $$s"Série Subsertipes"
+rem$ Série Anthracinicolor
+3,0$ 3a : Espèce de teinte très rouge, ressemblant vivement à C. subanthracinus ; sous les bouleaux ; spores elliptiques à verrues saillantes, (7,5) 8-10,5 (11) x 5,5-6,5 µm. $C. erythraeus
+3,4$ 3b : Espèces beaucoup plus sombres.
+4,5$ 4a : Spores étroites, elliptiques-oblongues.
+4,6$ 4b : Spores de forme différente.
+5,0$ 5a : Sous conifères ; petite taille ; odeur nettement pélargoniée ; spores à très fine verrucosité, (7) 8-9,5 (10) x 4,5-5 µm. $C. anthracinoides
+5,0$ 5b : Sous feuillus hygrophiles ; taille plus grande ; ressemblant à C. anthracinus ; spores à ornementation légère, plus forte à l’apex, mesurant (7,5) 8-10,5 (11) x 4,5-6 µm. $C. anthracinicolor
+6,0$ 6a : Spores de très petite taille (jusqu’à 7-8 µm de long) ; sous conifères ; chapeau discolore étant imbu (marge rose), décolorant ; stipe court, à tomentum basal un peu rose ; spores elliptiques à verrucosité fine, un peu plus forte à l’apex, mesurant (6) 6,5-8 (8,5) x 4,5-5 µm. $C. magus
+6,7$ 6b : Spores de taille moyenne ou de grande taille.
+7,0$ 7a : Espèce praticole (?), très décolorante ; anneau presque entier sur le stipe ; spores spinuleuses au sommet sur certaines récoltes, (7,5) 8,5-10 (11) x 5-6 µm. $C. campester
+7,8$ 7b : Espèces sylvicoles.
+8,0$ 8a : Dans les marais (Betula, Salix, Alnus) ; sosie de C. purpureobadius ; grandes spores de (8,5) 9-12 (12,5) x 6-6,5 µm. $C. purpurans
+8,0$ 8b : Sous conifères (Picea abies et Abies alba) ; chapeau conique, brun pourpré foncé ; stipe concolore à trace annulaire apprimée ; spores plus petites, elliptiques, un peu cristulées, (7) 7,5-10,5 (11) x 5-6,5 µm. $C. porphyreticus
+rem$ Série Erythrinellus
+9,0$ 9a : Lames de teinte vive (safran) ; chapeau vivement coloré ; stipe lilacin à l’apex ; sous conifères, surtout sous les pins, tard en saison (sous feuillus, on trouve une forme à spores un peu plus larges et à réaction positive au gaïac) ; spores elliptiques, nettement spinuleuses au sommet, mesurant (7,5) 8-10,5 (11) x 5-6 µm. [= C. erythrinus (Fr.) Fr. ss. Cooke, non ss. Fr.]. $C. erythrinellus
+9,0$ 9b : Lames ternes (cannelle fauvâtre) ; chapeau de teinte moins vive, bai roux sombre ; stipe devenant rosâtre ; sous feuillus ; spores larmiformes à pruniformes, à verrucosité fine, mesurant (7,8) 8,5-10 (10,5) x 5-6 µm. [= C. erythrinus var. recedens Fr.]. $C. recedens
+rem$ Série Subsertipes
+10,11$ 10a : Voile moirant : Stirps Griseovioleipes.
+10,15$ 10b : Voile multizonant : Stirps Subsertipes.
+Rem$ Stirps Griseovioleipes
+11,12$ 11a : Spores étroites (amygdaliformes, subfusiformes ou fusiformes).
+11,14$ 11b : Spores plus larges ; taxons des bois feuillus.
+12,13$ 12a : Très petites espèces.
+12,0$ 12b : Espèce beaucoup plus grande ; chapeau atteignant 40 mm, brun sombre puis bai brun ; lames initialement gris brun ; stipe violacé au sommet à trace annulaire apprimée ; dans les bois mêlés ; spores subfusiformes, finement verruqueuses, (7) 7,5-10,5 (11) x 4,5-5,5 µm. $C. derelictus
+13,0$ 13a : Sous Salix et Betula hygrophiles (ne différant du C. dumetorum J.Favre que par ses lames initialement lilacines) ; spores amygdaliformes, à fines verrues, (6,5) 7-10 (10,5) x 4,5-5,5 µm. $C. dumetorum (forma)
+13,0$ 13b : Sous pins sylvestres ; chapeau brun châtain, stipe entièrement violacé au début ; spores fusiformes, finement piquetées, (8) 8,5-11 (11,5) x 4-4,5 µm. $C. sp.
+14,0$ 14a : Port élancé ; long stipe flexueux et chapeau sombre, très fibrilleux ; lames initialement gris brun olivâtre, puis de teinte vive, safranée (espèce de transition vers les Hydrocybe de la Section Plumbosi) ; spores pépiniformes, bossues, légèrement verruqueuses, mesurant (8,5) 9-11 (11,5) x 6-6,5 µm. $C. griseophyllus
+14,0$ 14b : Port plus râblé ; stipe d’un gris violacé particulier et chapeau gris brun, brillant-soyeux par le voile ; lames initialement crème ocré ; spores plus étroites, elliptiques, (8,5) 9-10,5 (11) x 5-5,5 µm. $C. griseovioleipes
+rem$ Stirps Subsertipes
+15,16$ 15a : Spores de taille petite ou médiocre (longueur inférieure à 10 µm).
+15,18$ 15b : Spores de taille moyenne ou de grande taille.
+16,0$ 16a : Spores ellipsoïdes étroites à subamygdaliformes ; espèce hygrophile de port très élancé poussant sous Salix, Alnus et Betula ; chapeau pâlissant vers l’ocre carné et stipe à teinte lilacine fugace, multizoné par le voile blanc ; spores mesurant (6) 6,5-8,5 (9) x 4-4,5 µm. [= C. decipiens (Pers.:Fr.) Fr. ss. J.Favre, non ss. Fr.]. $C. paludophilus
+16,17$ 16b : Spores ovoïdes ou largement ellipsoïdes.
+17,0$ 17a : Bois feuillus ; teintes vives ; chapeau brun roux se déshydratant en gris lilas ; stipe violacé au sommet, à lambeaux de voile épars ; lames brun fauve à reflets lilacins ; spores largement ellipsoïdes, (7,5) 8-9,5 (10) x 5-5,5 µm. $C. insignis
+17,0$ 17b : Bois de conifères ; teintes beaucoup plus ternes ; chapeau brun châtain passant au fauve ochracé ; stipe blanc lilacin ou gris lilacin à gaine soyeuse très nette ; lames crème ocre, puis safranées ; spores ovoïdes, très finement ornées, (6,5) 7-9 (9,5) x 5-6 µm. [= C. decipiens (Pers.:Fr.) Fr. ss. J.Lange, non ss. Fr.]. $C. jacobii
+18,19$ 18a : Dans les sphaignes ou les lieux marécageux avec Salix, Betula et Populus tremula.
+18,20$ 18b : Dans les bois feuillus, non marécageux.
+19,0$ 19a : Spores amygdaliformes, finement piquetées, (7,5) 8-10 (10,5) x 4,5-5,5 µm ; stipe rose violacé ou rose lilacin, à voile très net. $C. pulchripes
+19,0$ 19b : Spores de grande taille, (9) 10-13,5 (14,5) x 6-7 µm ; stipe fortement stemmé, à petit bulbe ovoïde (pouvant manquer). $C. substemmatus
+20,0$ 20a : Spores de taille moyenne, ellipsoïdes-subovoïdes, à verrucosité saillante – surtout à l’apex – de (8) 8,5-10 (10,5) x 5-6,5 µm ; teinte très sombre ; stipe fortement violacé au sommet et multizoné par le voile (ressemblant à C. subsertipes). $C. subinsignis
+20,21$ 20b : Spores de grande ou de très grande taille (12-14,5 µm).
+21,0$ 21a : Spores elliptiques, finement à moyennement verruqueuses, (9) 10-12 (12,5) x 5,5-6,5 µm ; chapeau pâlissant dans les tons bai roussâtre, le mamelon restant longtemps plus sombre ; stipe multizoné, lilacin, pâlissant au sommet, typiquement pourvu d’un petit bulbe ovoïde (qui peut parfois manquer). $C. subsertipes
+21,0$ 21b : Spores plus larges, ellipsoïdes à tendance subcylindracée, (9) 10-13 (14,5) x 6,5-7,5 µm ; chapeau de teintes plus vives à la déshydratation (fauve orangé au centre) ; stipe stemmé par le voile, lilacin violacé au sommet ; lames très larges d’un beau fauve safrané vif. $C. similigenus
+
+CS920,0$ Sous-section Hydrocybe Bid. & al.
+1,2$ 1a : Spores de taille médiocre ou moyenne (longueur 7-11 µm). $$s"Série Hydrocybe"
+1,18$ 1b : Spores de grande taille (12-14,5 µm). $$s"Série Decipientoides"
+rem$ Série Hydrocybe
+2,3$ 2a : Spores globuleuses-ovoïdes.
+2,4$ 2b : Spores non globuleuses-ovoïdes.
+3,0$ 3a : Bois feuillus hygrophiles ; ressemblance certaine avec C. erythrinus ; très petite taille ; chapeau 5-10 (20) mm, fortement hygrophane, très sombre à l’état imbu, alutacé par le sec ; stipe à reflet gris lilacin évanescent à la récolte ; spores pruniformes, finement verruqueuses, de (6,5) 7-8,5 (9) x 6-6,5 µm. $C. tenebrosus
+3,0$ 3b : Bois mêlés ; pas de ressemblance avec C. erythrinus ; chapeau fortement ridé-cannelé, brun rouge étant imbu ; poils cystidiformes rappelant ceux des Inocybe acystidiés ; spores ovoïdes à verrues plates, de (6,5) 7-8 (8,5) x 5-6 µm. $C. fuscoruber
+4,5$ 4a : Spores de petite taille (longueur inférieure à 10 µm).
+4,7$ 4b : Spores de taille moyenne (longueur 9-11 µm).
+5,0$ 5a : Odeur acidulée ou de pélargonium ; chapeau fortement voilé d’une grisaille de fibrilles innées ; voile multizonant laissant souvent une trace annulaire au tiers supérieur ; sous les bouleaux ; spores subelliptiques, plus fortement ornées à l’apex, de (6,5) 7-8,5 (9) x 4,5-5 µm. $C. subodoratus
+5,6$ 5b : Espèces inodores.
+6,0$ 6a : Espèce vernale, très sombre, à mamelon bossu, poussant sous peupliers (Populus nigra) ; spores elliptiques, plus ornées à l’apex, de (6) 6,5-8,5 (9) x 4,5-5,5 µm. [= C. decipiens (Pers.:Fr.) Fr. ss. Hry. 1986, Bull. Soc. mycol. France 102 (I) : 28, non ss. Hry. 1931, Bull. Soc. hist. Nat. Doubs 43 : 97]. $C. robertii
+6,0$ 6b : Espèce automnale, cespiteuse, poussant sous Abies alba, très sombre, noirâtre étant imbue, passant au brun châtain en séchant ; stipe blanc, satiné, soyeux, à voile moirant, brunissant à la base en vieillissant ; spores elliptiques, finement piquetées, de (6) 6,5-9 (9,5) x 4,5-5 µm. $C. redactus
+7,8$ 7a : Spores étroites (x 4-5,5 µm), subamygdaliformes, elliptiques-oblongues ou subfusiformes.
+7,15$ 7b : Spores plus larges (x 5-6 µm).
+8,9$ 8a : Taxons des tourbières ou des lieux très humides, poussant sous Salix, Betula, Alnus.
+8,11$ 8b : Habitat moins spécifique.
+9,0$ 9a : Taxon poussant sous Salix, en bordure de tourbière, à chapeau brun de châtaigne, subpelucheux au bord par le voile ; stipe gris lilacin évanescent au sommet, à voile subannuliforme, en relief ; spores finement spinuleuses, de (8) 8,5-10,5 (11) x 5-5,5 µm. $C. sericeofibrillosus
+9,10$ 9b : Taxons des lieux humides – bords de lacs, d’étangs ou de ruisseaux – poussant sous Betula et Salix.
+10,0$ 10a : Chapeau très hygrophane, à bords striés, de teinte assez vive, brun fauve, ou à couronne fauve orangé, pâlissant, crème ocre par le sec ; spores finement piquetées, (7,5) 8-10 (11) x (4,5) 5-5,5 (5,8) µm. [= C. decipiens (Pers.:Fr.) Fr. in icône inédite de Fries conservée à Stockholm]. $C. friesianus
+10,0$ 10b : Taxon très sombre ; stipe à reflet lilacin au sommet ; forme de C. decipiens sans réaction au gaïac ; spores identiques au type, 8-10 x 5-5,5 µm. $C. decipiens f. saliceticolus
+11,0$ 11a : Très petite taille ; sous feuillus hygrophiles (surtout bouleaux) ; chapeau (10-20 mm) pâlissant sur les bords dans les tons olivacés ; stipe jaune paille au sommet ; odeur d’iodoforme ; spores finement piquetées, de (6,5) 7-10 (10,5) x 4,5-5 µm. $C. subiodolens
+11,12$ 11b : Taille plus grande ; odeur insignifiante.
+12,0$ 12a : Spores étroites ; sous pins et bouleaux ou dans les pinèdes pures ; chapeau peu hygrophane, brun roux châtain brillant ; stipe incarnat roussâtre ; spores elliptiques-oblongues ou subfusiformes, de (6) 6,5-9,5 (10) x 4-5 µm. $C. famatus
+12,13$ 12b : Spores moins étroites, de forme différente.
+13,0$ 13a : Voile en couronne brisée sur les bords du chapeau ; sous Quercus ilex ; teinte assez vive ; chair vineuse dans le stipe ; spores subamygdaliformes, finement verruqueuses, de (7,5) 8-10 (10,5) x 5-5,5 µm. $C. subcoronatus
+13,14$ 13b : Voile plus discret, simplement fibrilleux ; réaction fortement positive (+++) au gaïac.
+14,0$ 14a : Sous les conifères ; chapeau brun sombre ou brun châtain étant imbu, noir au mamelon ; stipe flexueux, d’aspect brillant nacré, moiré par le voile ; spores étroitement elliptiques, 8-10 (10,5) x 5-5,5 µm. $C. decipiens
+14,0$ 14b : Sous les feuillus (poussée parfois subcespiteuse) ; chapeau brunâtre passant au jaune fauve olivacé ; stipe à moire évanescente, devenant ochracé par détersion des fibrilles ; spores assez fortement verruqueuses, de (7) 7,5-10 (10,5) x 5-5,5 (6) µm. $C. exitiosus
+15,0$ 15a : Forte odeur de terre, de gaz d’éclairage ou de DDT ; surtout sous les bouleaux ; teinte très sombre à l’état imbu ; spores finement verruqueuses, de (7,5) 8-10,5 (11) x 4,7-6 µm. [= C. decipiens (Pers.:Fr.) Fr. var. graveolens M.Bon]. $C. bonii
+15,16$ 15b : Inodores.
+16,17$ 16a : Bois feuillus acidophiles ; teinte terne, brunâtre ou gris brun.
+16,0$ 16b : Bois feuillus calcicoles ; teinte plus vive ; chapeau brun roux et à lames jaune ochracé safrané ; spores de (7,5) 8-10,5 (11) x 5-6 µm. [= C. decipiens var. hoffmannii Reum.]. $C. hoffmannii
+17,0$ 17a : Arête des lames hétéromorphe par des poils cystidiformes différenciés ; stipe le plus souvent bulbilleux à la base ; spores quelquefois spinuleuses, de (7,5) 8-10 (10,5) x 5-6 µm. $C. tricognandus
+17,0$ 17b : Arête des lames sans particularité ; chapeau peu hygrophane et à long stipe brillant ; spores subovoïdes, finement verruqueuses, de (7,5) 8-10,5 (11) x 5-6 µm. $C. falsosus
+rem$ Série Decipientoides
+18,19$ 18a : Bois de conifères ou tourbières.
+18,21$ 18b : Bois feuillus.
+19,0$ 19a : Dans les tourbières ; chapeau brun châtain sombre, pâlissant et long stipe flexueux ; spores largement elliptiques, finement verruqueuses, de (8) 9-12 (13) x 6,5-7,2 µm. [= C. decipiens var. insignis Fr.]. $C. parinsignis
+19,20$ 19b : Sous les conifères, hors des tourbières.
+20,0$ 20a : Sous pins sylvestres ; chapeau sombre, peu hygrophane ; marge et stipe brillants, argentés ; spores ovoïdes, à verrues éparses, plus ornées à l’apex, de (8) 9-11 (12) x 6-7,5 µm. $C. subargyropus
+20,0$ 20b : Sous épicéas ; chapeau peu mamelonné, brun châtain pâlissant, plus sombre au centre ; stipe gris ochracé, à moire argentée évanescente ; spores elliptiques à sommet obtus, finement et densément verruqueuses, de (9) 10-13 (14) x 6,5-7 µm. $C. decipientoides
+21,22$ 21a : Spores d’assez grande taille (longueur 12-13 µm).
+21,0$ 21b : Spores de très grande taille (longueur 12-15 µm) ; surtout sous hêtres et chênes (mais aussi sous bouleaux) ; chapeau bai roux, peu hygrophane et stipe blanc carné, parfois bulbeux ; spores largement elliptiques, finement verruqueuses, de (9) 10-13,5 (14,5) x 6,5-8 µm. $C. badiorufus
+22,0$ 22a : Habitus élancé ; chapeau souvent bicolore : mamelon brun roux, bords gris incarnat ; long stipe grêle, argenté ou à reflet lilacin au sommet ; spores elliptiques, finement ou moyennement verruqueuses, de (8) 9-12 (12,5) x 6-6,5 (7) µm. $C. argyropus
+22,0$ 22b : Habitus moins élancé ; taille grêle ; chapeau 1-2 (3) cm, noisette par le sec, à mamelon plus foncé ; stipe nettement bulbeux, parfois revêtu d’un tomentum lilacin ; spores elliptiques-oblongues, moyennement verruqueuses, de (9) 10-12,5 (13) x 6-6,5 µm. $C. querculus
+
+CS921,0$ Sous-section Fistulares Bid. & al.
+1,2$ 1a : Lames de teinte très vive (safran). $$s"Série Unimodus"
+1,8$ 1b : Lames de teinte terne (ochracé). $$s"Série Fistularis"
+rem$ Série Unimodus
+2,3$ 2a : Spores globuleuses ou ovoïdes ; présence de cystides.
+2,4$ 2b : Spores ellipsoïdes.
+3,0$ 3a : Bois feuillus hygrophiles ; chapeau brun roux orangé et long stipe fistuleux, subconcolore ; spores subglobuleuses, fortement verruqueuses, de (6) 6,5-8 (8,5) x 5-6 µm. $C. fistularoides
+3,0$ 3b : Sous Betula ou Populus des gravières xériques ; plus petit, plus cespiteux que le précédent ; spores subglobuleuses, souvent subcylindriques de face, assez fortement verruqueuses, de (6,5) 7-9,5 (10) x 5-6 µm. $C. ochrorufus
+4,5$ 4a : Pinèdes ou bois feuillus acidophiles (bouleaux).
+4,6$ 4b : Sous les peupliers.
+5,0$ 5a : Spores de grande taille (longueur 10-12 µm) ; sous les pins ; chapeau et stipe uniformément rougeâtres ; spores ellipsoïdes, verruculeuses, de (7,5) 8,5-12 (12,5) x 5-6 µm. $C. unimodus
+5,0$ 5b : Spores de taille moyenne (longueur 9-11 µm) ; bois feuillus acidophiles [la forme pinastri Bid. & al. f. nov., exclusive des pinèdes, a des spores un peu plus grandes] ; chapeau pâlissant vers le brun orangé et stipe blanchâtre paille, multizoné par le voile ; spores ellipsoïdes, asymétriques, à face ventrale aplatie, piquetées, de (7,5) 8-9,5 (10) x 5-6 µm. [= C. decipiens ssp. rickenianus Hry.]. $C. rickenianus
+6,0$ 6a : Spores larges (x 6-6,5 µm) ; sous Populus alba, au bord des rivières ; spores ellipsoïdes, piquetées, de (8) 9-11 (12) x 6-6,5 µm. $C. populorum
+6,7$ 6b : Spores plus étroites (x 4,5-6 µm) ; gravières (carrières abandonnées) ou garrides, dans les feuillus mortes de Populus nigra.
+7,0$ 7a : Taxon très grêle, à odeur légère de bois de cèdre ; spores ellipsoïdes plus fortement verruqueuses à l’apex, de (7,5) 8-11 (11,5) x 5-6 µm. $C. kunicensis
+7,0$ 7b : Variété du précédent, très luxuriante, abondamment cespiteuse ; spores subcylindriques de (7) 8-9 (10) x 4,5-5 µm. $C. kunicensis var. caespitosus
+rem$ Série Fistularis
+8,0$ 8a : Espèce vernale très petite, à chapeau conique ou en bonnet de lutin, poussant sous bouleaux ; spores subcylindracées, de (7) 8-10,5 (11) x 5-5,5 µm. $C. tener
+8,9$ 8b : Espèces automnales.
+9,10$ 9a : Spores subfusiformes, fusiformes ou étroitement elliptiques (x 4,5-5 µm).
+9,12$ 9b : Spores subovoïdes ou largement ellipsoïdes (x 5-7 µm).
+10,0$ 10a : Spores de petite taille, étroitement elliptiques ; sous Salix eleagnos (gravières abandonnées) ; chapeau peu hygrophane et stipe parfois muni d’un anneau télamonioïde fugace ; spores de (6) 6,5-8 (8,5) x 4,5-5 µm. $C. fallaciosus
+10,11$ 10b : Spores plus grandes, fusiformes ou subfusiformes.
+11,0$ 11a : Espèce très hygrophane, à lames serrées, brun roux, poussant au bord des chemins sous pins et bouleaux ; spores fusiformes-naviculaires, de (6,5) 7-9 (9,5) x 4-5 µm. $C. incisus
+11,0$ 11b : Espèce beaucoup moins hygrophane, poussant sous châtaigniers, d’aspect sale, à chapeau noircissant par plages ; spores subfusiformes, fortement verruqueuses, de (8) 8,5-11 (11,5) x 4,5-5,5 µm. $C. spurcatus
+12,0$ 12a : Sous les conifères (Pinus) ; chapeau conique campanulé à mamelon aigu, noir ; présence de cheilocystides ; spores de (8) 8,5-11 (11,5) x 5-6 µm. $C. subfasciatus
+12,13$ 12b : Dans les bois feuillus.
+13,0$ 13a : Stipe brun roux à la base ; espèce peu hygrophane ; spores de (6,5) 7-9 (10) x 4,5-5,5 µm. $C. rufescentipes
+13,14$ 13b : Stipe ne roussissant pas à la base ; spores plus larges et/ou plus grandes.
+14,0$ 14a : Petite taille ; chapeau crème alutacé par le sec ; présence de cheilocystides ; spores largement ovoïdes, fortement ornées à  l’apex, de (8) 8,5-11 (11,5) x 5,5-7 µm. $C. intempestivus
+14,0$ 14b : Taille plus grande ; chapeau lacéré sur les bords et long stipe fistuleux, de consistance ligneuse à la base ; spores subovoïdes, (7) 7,5-9,5 (10) x 5-6,5 µm. $C. fistularis
+
+CS922,0$ Section Obtusi Hry. ex Melot
+1,2$ 1a : Teintes vives, tirant sur le roux (teinte d’Amanita fulva) ; stipe atténué à la base, à voile blanc moirant ou fragmenté ; fréquente odeur d’iodoforme ; cheilocystides souvent présentes.
+1,CS925$ 1b : Teintes tirant sur le jaune vif ou plus sombre (brun-roux, coque-de-noisette, brun olivâtre) ou encore prenant des tons jaune miel hyalin ; voile moirant ou nul ; stipe plus ou moins atténué à la base ; odeur de pélargonium, de radis, d’iodoforme ou subnulle. $$s"Ss-sect. Obtusoides"
+2,CS923$ 2a : Petite taille ; chapeau surmonté d’un petit mamelon mousse. $$s"Ss-sect. Obtusi"
+2,CS924$ 2b : Taille minuscule ; chapeau conique surmonté d’un mamelon aigu, rostriforme. $$s"Ss-sect. Acuti"
+
+CS923,0$ Sous-section Obtusi Bid., Moënne-L. & Reum.
+1,2$ 1a : Voile moirant ou subinvisible sur le stipe.
+1,40$ 1b : Voile annulaire et/ou à gaine étroitement apprimée, se dissociant en chinures sur le stipe. $$s"Série Albovariegatus"
+2,3$ 2a : Stipe simplement atténué à la base. $$s"Série Obtusus"
+2,42$ 2b : Stipe fortement épaissi au sommet, d’aspect gondolé, renflé au tiers inférieur (en fuseau de tisserand) ou en forme de S, remarquablement creux-tubuleux. $$s"Série Scandens"
+rem$ Série Obtusus
+3,7$ 3a : Espèces exclusivement trouvées sous feuillus : Stirps Pallidostriatus.
+3,4$ 3b : Espèces des conifères purs ou des bois mêlés.
+4,15$ 4a : Espèces à chapeau atteignant 40-50 (60) mm ; spores dépassant 10,5 µm ; réaction positive (rouge vineux) à la phénolaniline (inconnue pour C. resectipes) : Stirps Obtusus.
+4,5$ 4b : Espèces à chapeau de plus petite taille ; spores moins grandes.
+5,18$ 5a : Spores subglobuleuses ou ovoïdes (Q = 1,2/1,6) : Stirps Ovatosporus.
+5,6$ 5b : Spores de formes différentes.
+6,27$ 6a : Spores étroites (Q = 1,9/2) ; conifères ou bois mêlés ; arête des lames fertile : Stirps Obtusorum.
+6,31$ 6b : Spores plus larges (Q = 1,6/1,8) ; conifères ; arête des lames le plus souvent stérile : Stirps Obtusotinctus.
+Rem$ Stirps Pallidostriatus
+7,0$ 7a : Espèce cespiteuse, de grande taille (jusqu’à 80 mm), très colorée étant imbue, faiblement odorante ; hêtraie de pente acidiphile ; bouffées de cellules sur l’arête des lames ; spores elliptiques étroites (6) 6,5-8,5 (9) x 4-5 µm (Q = 1,6/1,7). $C. aciesterilis
+7,8$ 7b : Espèces non cespiteuses, de taille moins grande.
+8,9$ 8a : Espèces de très petite taille (10-15 mm), à cellules marginales peu remarquables.
+8,10$ 8b : Espèces de plus grande taille (20-35 mm) ; cellules marginales remarquables ou non.
+9,0$ 9a : Chapeau délicatement recouvert par le voile, parfois en frisons ; grandes spores largement elliptiques, peu ornées, 7,5-10,5 (11) x 5-6,5 µm (Q = 1,6). $C. subgaleroides
+9,0$ 9b : Chapeau non voilé, plissé à la déshydratation ; sous Fagus sylvatica ; spores plus étroites (Q = 1,8) et plus fortement ornées, à sommet un peu tronqué, (7) 8-10 (10,5) x 4,5-5,5 µm. $C. plicatilis
+10,0$ 10a : Spores minuscules, (5,8) 6-7,5 (7,8) x 4-4,5 µm (Q = 1,6), faiblement verruqueuses ; cellules marginales = 0 ; basides de grande taille, atteignant 40 µm, élancées ; stipe peu ou non atténué à la base ; trouvé seulement en Bretagne et en Ile-de-France. $C. citerinii
+10,11$ 10b : Spores de plus grande taille, nettement verruqueuses.
+11,12$ 11a : Cellules marginales remarquables ; basides courtes ou d’allure trapue.
+11,14$ 11b : Cellules marginales absentes ou insignifiantes ; basides plus longues ou élancées.
+12,0$ 12a : Espèce caractéristique des feuillus hygrophiles : Salix, Betula, Alnus ; stipe peu ou non atténué à la base ; odeur de radis puis d’iodoforme ou subnulle ; spores subovoïdes, (6,5) 7-8,5 (9) x 4,5-5,5 (6) µm (Q = 1,6). $C. sterilobtusus
+12,13$ 12b : Espèces des feuillus, à port plus élancé et à stipe fortement atténué à la base.
+13,0$ 13a : Chapeau de la couleur de Amanita fulva à l’état imbu, se déshydratant en cocarde puis par stries radiales ; stipe à remarquable voile blanc moirant ; forte odeur raphanoïde ; spores ellipsoïdes, (7) 7,5-9 (9,5) x (4,5) 5-5,5 µm (Q = 1,6). $C. vicinus
+13,0$ 13b : Chapeau d’un ocre plus terne, nettement strié à l’état imbu et se ridant en séchant ; stipe à fibrillum blanc discret ; faible odeur d’iodoforme ; spores ellipsoïdes (6,5) 7-9 (9,5) x 4,5-5 µm (Q = 1,7). $C. pallidostriatoides
+14,0$ 14a : Spores (6,5) 7-8,5 (9) x (4,5) 5-5,7 µm (Q = 1,4/1,5) ; cellules marginales insignifiantes ; chapeau de teinte vive, se déshydratant spectaculairement en blanc crème ; stipe nu ; forte odeur iodée. $C. nanus
+14,0$ 14b : Spores de taille plus grande, (8) 8,5-11 (11,5) x (4,8) 5-5,5 (6) µm (Q = 1,8/1,9) ; cellules marginales absentes ; chapeau de teinte moins vive, nettement bicolore imbu, moins spectaculairement hygrophane ; stipe blanc, rouillé dans le haut par le dépôt sporal ; faible odeur raphanoïde-iodée. $C. subobtusorum
+rem$ Stirps Obtusus
+15,16$ 15a : Espèces de teintes vives, fauve ou brun-roux chaud très uniforme, se déshydratant spectaculairement en blanc crème ; sous Picea abies ; Q vers 1,6/1,8.
+15,17$ 15b : Espèces de teintes plus variables, à déshydratation moins spectaculaire ; conifères et/ou feuillus ; Q vers 1,8/1,9.
+16,0$ 16a : Stipe plus long que le diamètre du chapeau qui, imbu, est très strié, ayant exactement la teinte d’Amanita vaginata var. fulva ; odeur aigrelette ; spores elliptiques, finement verruqueuses, (7) 8,5-10 (10,7) x 5-6,3 µm (Q = 1,7) ; cellules marginales clavées à globuleuses (x 7-11 µm). $C. eustriatulus
+16,0$ 16b : Stipe court, souvent égal au diamètre du chapeau qui, imbu, est d’un brun-roux chaud, à mamelon quasi absent ; inodore ; spores elliptiques, nettement verruqueuses, (7,5) 8-10 (11) x 5-6 (6,2) µm (Q = 1,6/1,7) ; cellules marginales remarquables, globuleuses, atteignant 40 x 22 µm. $C. resectipes
+17,0$ 17a : Teintes fauves, brun-roux ou ocre miel bariolées sur le chapeau ; stipe long, typiquement blanc ou le devenant ; forte odeur iodée ; sous conifères, plus fréquemment sous pins sylvestres ; spores (7,5) 8-11 (12,5) x 5-6 (6,5) µm (Q = 1,7/1,8), assez fortement verruqueuses ; cellules marginales remarquables, clavées à ovoïdes (x 5-14 µm). $C. obtusus
+17,0$ 17b : Teinte beige « café au lait » subunicolore, un peu tacheté par endroits ; stipe plus banal, subconcolore ; inodore ; sous feuillus ; spores (7,5) 8-12,5 (13) x 5-6 (6,5) µm (Q = 1,8/1,9), à verrucosité peu nette ; cellules marginales = 0 (arête concolore). $C. obtusoduracinoides
+rem$ Stirps Ovatosporus
+18,0$ 18a : Spores minuscules, subglobuleuses, (4,5) 5-6 (6,5) x 4-5 µm (Q = 1,2) ; phénolaniline = 0 ; espèce des terrains très acides (conifères et châtaigniers). $C. trossingenensis
+18,19$ 18b : Spores plus grandes.
+19,20$ 19a : Cellules marginales remarquables.
+19,23$ 19b : Cellules marginales = 0 ou peu remarquables.
+20,21$ 20a : Espèces graciles, ne réagissant pas à la phénolaniline.
+20,22$ 20b : Espèces non graciles, réagissant à la phénolaniline (rouge vineux).
+21,0$ 21a : Spores de petite taille, (7) 7,5-8 (9) x (4,5) 4,8-5,5 (5,8) µm (Q = 1,6) ; basides particulièrement courtes et trapues ; cellules marginales clavées ou en ballon (x 16 (20) µm) ; chapeau n’excédant guère 15 mm, imbu brun-rouge à roux beige, pâlissant beaucoup ; stipe long et grêle ; conifères marécageux avec sphaignes, parfois pessières sèches. [= C. obtusus var. gracilis Quél.]. $C. paludinellus
+21,0$ 21b : Spores plus grandes, (7) 8-10 (10,5) x 6-7 µm (Q = 1,4) ; basides très longues, atteignant 40-43 (47) µm ; cellules marginales spectaculaires, souvent flagellées (x 8-14 µm) ; espèce fluette à chapeau atteignant toutefois 30 mm, plus terne, prenant souvent des tons gris-brun à la déshydratation, +/- laineux-ébouriffé au début ; stipe long typiquement comprimé-sillonné, parfois rosâtre au sommet ; Picea abies. $C. lanceocystis
+22,0$ 22a : Chapeau atteignant 30 (40) mm, d’un brun-châtain foncé imbu ; stipe long, très fragile, souvent flexueux, profondément enfoncé dans le tapis d’aiguilles ; odeur faiblement iodée ; en troupes ou cespiteux, sous conifères mêlés ou non de bouleaux ; spores (6) 6,5-8 (8,5) x 4-5 (5,2) µm (Q = 1,6) ; cellules marginales globuleuses ou cylindracées, à sommet arrondi ou ogival, parfois +/- utriformes, atteignant 55 x (9) 10-17 (23) µm. $C. psathyrobtusus
+22,0$ 22b : Espèce un peu plus petite, de teintes et de port plus variables ; stipe parfois court, exceptionnellement guirlandé ; odeur nettement iodée ; en troupes, non cespiteux, sous Picea abies ; spores (6) 6,5-8 x 4,5-5,5 (6) µm (Q = 1,5), typiquement en « zéro » ; cellules marginales clavées à subglobuleuses, atteignant 70 x 8-19 (26) µm. $C. ovatosporus
+23,24$ 23a : Spores larges (x 6-6,5 µm).
+23,25$ 23b : Spores plus étroites (x 5-5,5 µm).
+24,0$ 24a : Chapeau 20-40 mm, fauve-roux à brun-roux chaud, fortement strié à l’état imbu ; stipe égal ou bulbilleux, parfois guirlandé de blanc par le voile ; odeur herbacée (non iodée) ou nulle ; arête fertile ; spores (8) 8,5-9,5 (10) x (5,2) 5,5-6 (6,2) µm (Q = 1,6) ; conifères. $C. fulvostriatulus
+24,0$ 24b : Chapeau atteignant 30 mm, fauve clair imbu, pâlissant peu, à marge fortement infléchie-brisée ; stipe parfois d’aspect « scandoïde », blanc pur à reflets aurore ou jaune, sublisse ; odeur iodée faible ; cellules marginales basidioliformes peu remarquables (x 5-6 µm) ; spores (6,5) 7-9 (9,5) x 5-6 (6,5) µm (Q = 1,4/1,5) ; sphaignes sous conifères. $C. helodes
+24,0,N$ Une petite forme existe dans les glariers sous Salix, Populus et Betula.
+25,0$ 25a : Chapeau 20-30 mm, de teintes vives, jaune abricot ou jaune orangé (Caill. N 60-N 65) ; lames safranées (N 57-P 57) ; forte odeur d’iode ; spores ovoïdes (Q = 1,6) ; stipe un peu guirlandé, peu ou non atténué à la base ; cellules marginales peu remarquables (x 7-10 µm) ; spores (6,5) 7-8 (8,5) x 5-5,2 µm (Q = 1,5/1,6) ; basides courtes, n’excédant guère 30 µm ; sous Abies alba. $C. aureobtusus
+25,26$ 25b : Teintes différentes ; odeur plus faible et spores différentes (Q = 1,6/1,7) ; taxons « border-line » (cf. renvoi in Stirps Obtusotinctus).
+26,0$ 26a : Spores (7) 7,5-8,5 (9) x (4,5) 5-5,2 (5,5) µm (Q = 1,6/1,7) ; chapeau brun-roux châtain, se déshydratant en cocarde puis en fines bandes radiales, à stipe assez long, atténué ou non, +/- chiné de la teinte du chapeau ; lames cannelle ; odeur faiblement iodée ; arête fertile ; sous Pinus sylvestris mêlés de Betula pendula, en terrain acide. $C. obtusobadius
+26,0$ 26b : Spores de plus petite taille, (6) 6,5-8,5 (9) x 4,5-5 µm (Q = 1,6) ; chapeau ocracé noisette ; stipe nu, blanc ou à peine lavé de la couleur du chapeau, fortement atténué ; lames de teintes vives, ayant la teinte de celles de C. orellanus ; odeur faible, non raphanoïde ; cellules marginales = 0 ou peu remarquables ; sous Picea abies et Abies alba. $C. duracinobtusus
+rem$ Stirps Obtusorum
+27,28$ 27a : Spores subfusiformes ; conifères stricts.
+27,29$ 27b : Spores ellipsoïdales ; conifères ou bois mêlés.
+28,0$ 28a : Spores nettement verruqueuses, (6,5) 7,5-10 (10,5) x 4-5 µm (Q = 1,9/2) ; basides étroites et élancées ; chapeau assez charnu, brun-rouge, se déshydratant par stries en blanc crème, à mamelon bien individualisé. $C. subumbonatus
+28,0$ 28b : Spores de plus grande taille, finement verruqueuses, très étroites, (8) 8,5-11,5 (12) x 4-5 µm (Q = 2,2) ; basides banales ; petite espèce cespiteuse prenant des tons d’un jaune assez vif par le sec. $C. subacutus
+29,0$ 29a : Petites spores, (6,5) 7-8,5 (9) x 4-4,5 µm (Q = 1,8/1,9) ; chapeau 30-35 mm, vivement coloré, brun-roux ou brun orangé imbu, souvent bicolore par déshydratation ; stipe long et trapu ; non cespiteux, sous Picea abies. $C. obtusorum
+29,30$ 29b : Spores plus grandes, atteignant 10 (10,5) µm.
+30,0$ 30a : Espèce abondamment cespiteuse, formant de grosses touffes dans les bois mêlés ; chapeau 20-30 mm, bicolore par déshydratation ; spores finement verruqueuses, (7) 7,5-10 (10,5) x 4,5-5 µm (Q = 1,7/1,8). $C. discoideus
+30,0$ 30b : Espèce parfois cespiteuse mais ne formant pas de grosses touffes, sous pins ou feuillus ; chapeau de teinte plus sombre, brun-châtain imbu, à marge fortement striée-pellucide, non bicolore par déshydratation ; spores nettement verruqueuses, (6,5) 7-10 (10,5) x (4) 4,3-5 (5,3) µm (Q = 1,8). $C. cinnamostriatulus
+rem$ Stirps Obtusotinctus
+31,32$ 31a : Spores assez grandes, atteignant 10,5-11 µm ; cellules marginales remarquables.
+31,33$ 31b : Spores plus petites, ne dépassant pas 10 µm ; cellules marginales remarquables ou non.
+32,0$ 32a : Espèce cespiteuse, poussant parfois en touffes denses, sous Picea abies et Abies alba ; chapeau d’un brun-roux chaud à brun-orangé imbu ; odeur raphanoïde-iodée ou de cuir de Russie ; cellules marginales clavées à subcylindracées, parfois nettement émergentes, peu larges (x 5-11 µm) ; spores à verrucosité marquée, parfois lourde et saillante, (7) 8-10 (11) x 4,5-6 µm (Q = 1,6). $C. obtusotinctus
+32,0$ 32b : Espèce non cespiteuse, miniature de C. obtusus (chapeau n’excédant pas 20 mm), à forte odeur iodée ; sous Abies alba ; cellules marginales clavées-fusoïdes (x 7-12 µm) ; spores (8) 8,5-10 (11) x 5-6 (6,2) µm (Q = 1,7), à verrucosité nette et dense. $C. parvulobtusus
+33,34$ 33a : Spores ellipsoïdales (Q = 1,7/1,9) ; arête souvent stérile.
+33,39$ 33b : Spores plus ovoïdes (Q = 1,6/1,7) ; arête fertile (cellules marginales = 0) ; taxons « border-line » (cf. renvoi in Stirps Ovatosporus).
+34,35$ 34a : Spores atteignant 9,5 (10) µm.
+34,37$ 34b : Spores plus petites, ne dépassant pas 8,5 (9) µm.
+35,0$ 35a : Minuscule espèce poussant en touffes sur les aiguilles de conifères ; chapeau 15-20 mm, à marge en dentelle, souvent révolutée à la fin (aspect floriforme) ; arête des lames subconcolore ; cellules marginales absentes ou discrètes, clavées, septées (x 8-10 µm), n’excédant guère 20 µm de long ; spores (6,5) 8,5-9,5 (10) x 4,5-5 (5,5) µm (Q = 1,8/1,9). [= ? C. obtusus ss. Cooke, non ss. Fries]. $C. miniobtusus
+35,36$ 35b : Espèces plus grandes, ne poussant pas en touffes sous Picea abies, d’aspect non floriforme ; cellules marginales remarquables.
+36,0$ 36a : Chapeau jaune-fauve ; stipe très coloré, presque brun-rouge ; lames remarquablement denticulées avec l’arête blanche floconneuse ; cellules marginales extravagantes, clavées et septées (x 12-18 µm), très longues ; basides claviformes ; spores (6,5) 7,5-9,5 (10) x 4,5-5,5 (6) µm (Q = 1,7). $C. obtusocrenatus
+36,0$ 36b : Chapeau d’un fauve-roux pâlissant violemment en blanc crème, à mamelon aigu, parfois remarquablement étiré ; stipe teinté de jaune paille ; cellules marginales en palissade le long de l’arête, clavées à subglobuleuses (x 4,5-12,5 µm) ; basides souvent subcylindracées ; spores (7,5) 8-9 (9,5) x (4,5) 4,7-5 (5,2) µm (Q = 1,7/1,8). $C. campanulobtusus
+37,0$ 37a : Très petite espèce cespiteuse dans les aiguilles de Picea abies et Pinus sylvestris ; chapeau 10-20 mm, peu strié imbu, dans les teintes de C. obtusus ; cellules marginales clavées à subglobuleuses, uniseptées, atteignant 33 x 5-13,5 µm ; spores (6,5) 7-8,5 (9) x 4,5-5,2 (5,5) µm (Q = 1,7). $C. fibulobtusus
+37,38$ 37b : Espèces plus grandes ; chapeau atteignant 30-40 mm, d’une teinte plus vive ou plus foncée, fortement strié-pellucide imbu.
+38,0$ 38a : Cellules marginales remarquables, clavées à globuleuses, parfois ellipsoïdes à subcylindracées, uniseptées (x 7,5-18,5 µm) ; chapeau brun « chocolat au lait » imbu, blanc crème ou blanchâtre à sec ; sous Picea abies et Abies alba ; spores (6) 6,5-8 (8,5) x 4-4,5 µm (Q = 1,7). $C. maxistriatulus
+38,0$ 38b : Cellules marginales = 0 ou insignifiantes, arête fertile ; chapeau plus roussâtre imbu, se déshydratant en blanchâtre ocré ; sous Picea abies, Pinus sp. ; suprapellis épais d’hyphes lâchement emmêlées, à nombreuses terminaisons libres souvent atténuées ; spores moyennement verruqueuses, (6) 6,5-8,5 (9) x (4,2) 4,5-5 (5,2) µm (Q = 1,7). $C. flagellostriatus
+39,0$ 39a : Espèce à chapeau brun-roux châtain, se déshydratant en cocarde puis en fines bandes radiales ; stipe assez long, atténué ou non, +/- chiné de la teinte du chapeau ; lames ocre cannelle ; odeur faiblement iodée ; arête fertile ; sous Pinus sylvestris mêlés de Betula pendula, en terrain acide ; spores (7) 7,5-8,5 (9) x (4,5) 5-5,2 (5,5) µm (Q = 1,7). $C. obtusobadius
+39,0$ 39b : Espèce fluette à chapeau ocracé noisette ; stipe nu, fortement atténué, blanc ou à peine lavé de la couleur du chapeau ; lames ayant la teinte de celles de C. orellanus ; odeur faible non raphanoïde ; sous Picea abies ; cellules marginales absentes ou peu remarquables ; spores (6) 6,5-8,5 (8,7) x 4,5-5 µm (Q = 1,6). $C. duracinobtusus
+rem$ Série Albovariegatus
+40,0$ 40a : Espèce précoce, d’assez grande taille ; chapeau atteignant 40-50 mm ; odeur légèrement iodée ou raphanoïde-herbacée ; sous Picea abies ; cellules marginales en palissade le long de l’arête, d’allure modeste, claviformes, 1-2 septa (x 5-10 µm) ; spores nettement verruqueuses, (6) 6,5-8 (8,5) x (4,5) 5-5,8 (6) µm (Q = 1,3). $C. albovariegatus
+40,41$ 40b : Espèces tardives, plus petites, avec l’arête fertile (cellules marginales = 0).
+41,0$ 41a : Espèce cespiteuse sur aiguilles de Picea abies ou Pinus sylvestris (une récolte effectuée sous Douglas et feuillus), à chapeau atteignant 30 mm ; stipe d’aspect soufflé-gondolé, peu ou non atténué à la base, chaussé par un voile blanc, fibrillo-furfuracé ; odeur faible ou tardive d’iodoforme ; basides étroites, souvent subétranglées à +/- coudées ; spores à verrucosité fine mais dense, (6) 6,5-8,5 (9) x (4) 4,5-5 (5,2) µm (Q = 1,8/1,9). $C. pulverobtusus
+41,0$ 41b : Espèce non cespiteuse sous Picea abies, à chapeau remarquablement campanulé-conique ; stipe subégal ou atténué à la base, à traces vélaires plus annuliformes ; inodore ; basides cylindro-clavées, de grande taille, atteignant 43 µm ; spores à verrucosité peu prononcée, (7,5) 8-9,5 (10) x 4,8-5,2 µm (Q = 2). $C. conicocampanulatus
+rem$ Série Scandens
+42,44$ 42a : Grandes spores atteignant 11,5-12 µm, étroites (Q = 1,7/2) ; cellules marginales + ou - ; conifères ou feuillus ; teintes variables : Stirps Subscandens.
+42,43$ 42b : Spores plus petites et plus larges ; cellules marginales + ; conifères (Seul C. subavellanofulvus f. glareosus possède un habitat particulier, dans les glariers).
+43,47$ 43a : Spores atteignant 9-10 x 5-6 µm, nettement verruqueuses ; teintes sombres : Stirps Scandens.
+43,49$ 43b : Spores plus petites, ne dépassant pas 8,5 x 5 µm, à verrucosité variable ; teintes plus variables : Stirps Sporanotus.
+Rem$ Stirps Subscandens
+44,45$ 44a : Espèces de petite taille ; arête fertile (cellules marginales absentes).
+44,46$ 44b : Espèces de taille plus grande ; arête stérile ; spores à verrucosité fine.
+45,0$ 45a : Espèce de très petites dimensions, des feuillus de gravières et carrières abandonnées, à chapeau cupuliforme ; odeur légèrement iodée à raphanoïde ; spores à verrucosité faible, mal définie (8) 8,5-11 (11,5) x 5-6 µm (Q = 1,8). $C. cupuliformis
+45,0$ 45b : Espèce un peu plus grande des bois mêlés, à stipe remarquablement curvulé, en forme de serpent rampant ; inodore ; spores à verrucosité fine mais dense, (8) 8,5-11 (11,5) x 4,5-6 µm (Q = 1,8). [= C. scandens ss. Hry., non ss. Fr.]. $C. ophiopoides
+46,0$ 46a : Espèce trapue, fauvâtre, se déshydratant en jaune ou jaune abricot ; faible odeur d’iodoforme avec parfois une composante de chou pourri ; sous Picea abies ; spores (8) 8,5-11 (12) x 4,5-6 µm (Q = 1,7/1,8). $C. pulcher
+46,0$ 46b : Espèce plus élancée, plus roussâtre, se déshydratant en ocre miel pâle ou ocre jaune « hinnuloïde » ; légère odeur camphrée (d’Inocybe pour l’auteur) ; sous feuillus ; spores (7,5) 8-11 (11,5) x 5-6 µm. $C. subscandens 
+rem$ Stirps Scandens
+47,0$ 47a : Spores ovoïdes, (6,5) 7-9 (9,2) x (4,5) 5-6 (6,2) µm (Q = 1,4) ; chapeau 20-30 mm, typiquement conico-campanulé, d’un beau brun-roux, à mamelon souvent plus sombre ; stipe parfois comprimé, un peu guirlandé par le voile ; odeur iodée parfois forte ; sous Picea abies. $C. umbrinomammosus
+47,48$ 47b : Spores plus ellipsoïdes (Q = 1,6/1,7) ; espèces plus grandes, à chapeau 30-50 mm, convexe-mamelonné.
+48,0$ 48a : Chapeau brun à tons verdâtres (pigment cytoplasmique vert), immédiatement identifiable à sa forte odeur de chou pourri ; sous Picea abies ; basides remarquablement élancées, 34-43 x 7,5-8,5 µm ; spores (7) 7,5-9,5 (10) x 4,8-6 µm (Q = 1,7). $C. brassicolens
+48,0$ 48b : Chapeau brun foncé imbu, dépourvu de teintes verdâtres ; stipe parfois nettement jaune ; odeur assez faible, raphanoïde-iodée ou de Lepiota cristata ; sous conifères, parfois avec des sphaignes ; basides plus trapues, banales ; spores (6) 6,5-9,5 (10) x 4,5-6 µm (Q = 1,4/1,5). $C. scandens
+rem$ Stirps Sporanotus
+49,0$ 49a : Petite espèce à chapeau jaune ocracé, de 10-20 mm de diamètre ; long stipe étonnamment boursouflé-gondolé ; odeur légère d’iodoforme ou inodore ; cellules marginales présentes mais peu remarquables, claviformes (x 5,5-9 µm) ; basides remarquablement élancées, 31-42 x 6,5-7,5 µm ; spores finement verruqueuses, (5,5) 6-8 (8,5) x 4-4,5 µm (Q = 1,6/1,7). $C. undantipes
+49,50$ 49b : Espèces nettement plus grandes, à chapeau atteignant 40 mm ; cellules marginales généralement remarquables ; basides plus trapues.
+50,51$ 50a : Espèces à spores subglobuleuses (Q = 1,4/1,6) et à odeur fortement iodée.
+50,0$ 50b : Spores plus ovoïdes, peu ornées, (6) 6,5-8 (8,5) x 4-5 µm (Q = 1,6) ; stipe typiquement court, épaissi au sommet, brun-roux, concolore au chapeau ; odeur raphanoïde ; cellules marginales remarquables ; suprapellis mince. $C. subavellanofulvus
+51,0$ 51a : Spores (5) 5,5-7,5 (8) x 4-5 µm (Q = 1,4/1,5) ; espèce acicole à chapeau brun-châtain à brun-fauve, bariolé de teintes vives, lavé d’orangé ; stipe blanchissant ; arête des lames souvent jaune clair (cellules marginales remarquables) ; suprapellis mince. $C. sporanotus
+51,0$ 51b : Spores de taille plus grande, à fortes verrues éparses, (6,5) 7-8,5 (9) x 5-6 µm (Q = 1,4) ; taxon des feuillus graveleux (glariers), à chapeau d’un brun foncé plus uniforme, non bariolé, à stipe subconcolore ; odeur iodée ; cellules marginales peu remarquables ; suprapellis épais d’hyphes larges. $C. subavellanofulvus var. glareosus
+
+CS924,0$ Sous-section Acuti Moënne-L. & Reum.
+1,3$ 1a : Cellules marginales remarquables, en longs flagelles dépassant parfois 100 µm ; sous Picea abies, fréquemment en tourbières. $$s"Série Acutus"
+1,2$ 1b : Cellules marginales banales, clavées à sphéropédonculées, exceptionnellement flagellées (mais alors nettement plus courtes), parfois absentes ; sous Picea abies en général.
+2,9$ 2a : Spores de grande taille, atteignant 10,5-12 µm. $$s"Série Acutorum"
+2,12$ 2b : Spores de taille inférieure, n’excédant pas 9,5 (10) µm. $$s"Série Acutoides"
+rem$ Série Acutus
+3,4$ 3a : Grandes spores elliptiques, atteignant 11-11,5 µm (Q = 1,7/1,8).
+3,6$ 3b : Petites spores subglobuleuses, atteignant 9,5 (10) µm (Q = 1,4/1,6).
+4,0$ 4a : Cellules marginales fusiformes (50-90 x 7-9 µm), mais également globuleuses à sphéropédonculées (x 9-25 µm) ; basides souvent trapues ; chapeau brun-roux, se déshydratant en blanc crème, remarquable à son mamelon dévié-scrobiculé ; absence de voile ; spores (7,5) 8-11 (11,5) x (4,5) 5-5,5 (6) µm (Q = 1,8). $C. codonius
+4,5$ 4b : Cellules marginales toujours flagellées ; basides plus banales.
+5,0$ 5a : Chapeau et stipe souvent fortement voilés ; odeur géraniée-iodée ou iodée ; spores (7,5) 8-10,5 (11,2) x (4,5) 5-6 µm (Q = 1,7). $C. acutostriatulus
+5,0$ 5b : Traces vélaires absentes ou discrètes, particulièrement sur le chapeau ; odeur iodée faible ; spores (8) 8,5-10,5 (11) x 5-5,5 (6) µm (Q = 1,8). $C. acutus
+6,0$ 6a : Espèce vernale à cellules marginales fusiformes (x 6-12 µm), mais également clavées à subglobuleuses (x 7-16 µm) ; voile subnul ; odeur légèrement iodée ; spores (6,5) 7-8,5 (9) x (4,8) 5-6 (6,5) µm (Q = 1,4). $C. acutellus
+6,7$ 6b : Espèces automnales, parfois tardives, à cellules marginales toujours flagellées.
+7,0$ 7a : Espèce nettement voilée sur les bords du chapeau, se ridant avec l’âge ; spores mesurant (6,5) 7-8,5 (9) x 4,5-5 (5,5) µm (Q = 1,6) ; basides atteignant 12,5 µm de large. $C. acutovelatus
+7,8$ 7b : Espèces non ou à peine voilées ; spores un peu plus grandes et surtout plus larges, atteignant 6 (6,5) µm ; basides plus étroites.
+8,0$ 8a : Espèce tardive poussant jusqu’au milieu des plaques de neige ; chapeau d’un roux vif et peu strié imbu ; mamelon parfois peu saillant ; spores (6,5) 7-9 (9,5) x 5-6 (6,5) µm (Q = 1,4/1,5). $C. hiemis
+8,0$ 8b : Espèce moins tardive ; chapeau d’une teinte brun-fauve cannelle, beaucoup moins vive que par imbibition, à surface fortement striée-pellucide ; mamelon pointu ; spores (7,5) 8-9,5 (10) x 5-6 µm (Q = 1,5/1,6). [= ? C. acutus ss. J.Favre, non ss. Fr.]. $C. acutus var. globispermus
+rem$ Série Acutorum
+9,0$ 9a : Spores subglobuleuses, assez fortement verruqueuses, (7,5) 8-10,5 (11) x 5,2-6,5 µm (Q = 1,5/1,6) ; cellules marginales clavées à subglobuleuses ; basides parfois très larges, atteignant 14 µm ; chapeau lisse, brun-roux puis ocre pâle et terne, à mamelon restant d’un orangé vif ; absence de déshydratation en jaune vif ; forte odeur iodée ; sous Picea abies. $C. acutorum
+9,10$ 9b : Spores ellipsoïdales (Q = 1,7/1,9), parfois étroites, finement verruqueuses ; espèces des conifères.
+10,0$ 10a : Chapeau entièrement et remarquablement ridé-plissé jusqu’au mamelon, brun-sombre, surtout au centre ; inodore ou à odeur de pélargonium ; bois de conifères, tourbières ; arête fertile (cellules marginales = 0) ; basides étroites ; spores (7,5) 8-11 (11,5) x 5-5,5 (6,5) µm (Q = 1,8). $C. stellorugosus
+10,11$ 10b : Chapeau non remarquablement plissé au mamelon, de teintes différentes, se déshydratant en jaune vif.
+11,0$ 11a : Minuscule espèce à stipe prenant des tons orangé feu ; cellules marginales flagellées mais peu spectaculaires, n’excédant guère 45 µm ; spores ellipsoïdales, (7) 7,5-10,5 (11) x 5-6 µm (Q = 1,6/1,7). $C. nitidissimus
+11,0$ 11b : Espèce plus grande, à couleurs rappelant Mycena flavoalba ; cellules marginales sphéropédonculées ; spores étroitement elliptiques, (9) 9,5-11,5 (12) x 5-6 µm (Q = 1,9). $C. flavoalbus
+rem$ Série Acutoides
+12,0$ 12a : Petites spores moyennement verruqueuses, (6) 6,5-8 (8,5) x 4,8-5,8 µm (Q = 1,5) ; espèce relativement grande, à chapeau atteignant 35 mm, d’un brun soutenu, à mamelon aigu et sombre puis noircissant ; forte odeur raphanoïde ; sphaignes, sous Picea abies. $C. fasciatus
+12,13$ 12b : Spores plus grandes, finement verruqueuses ; espèces plus graciles.
+13,0$ 13a : Espèce des bois feuillus (Betula pendula), à mamelon particulièrement aigu et proéminent, rostriforme ; arête fertile (cellules marginales = 0) ; forte odeur vinaigrée ; spores (7,5) 8-9,5 (10) x 5-6,5 µm (Q = 1,5). $C. cordae
+13,14$ 13b : Espèces des épicéas, à mamelon moins proéminent ; arête stérile.
+14,0$ 14a : Chapeau brun foncé imbu, en cloche ou à mamelon mousse ; voile moirant sur le stipe ; cellules marginales clavées à subglobuleuses ; spores (7) 7,5-9 (10) x 5-6 (6,5) µm (Q = 1,5). $C. acutoides
+14,0$ 14b : Chapeau brun-roux pâle imbu (couleur d’Amanita fulva selon l’auteur), strié, à mamelon plus saillant ; stipe dépourvu de toutes traces vélaires ; cellules marginales clavées ou en lame de couteau ; spores (7,5) 8-9,5 (10) x 4,5-6 µm (Q = 1,7/1,8). $C. striatuloides
+
+CS925,0$ Sous-section Obtusoides Hry. ex Moënne-L. & Reum.
+1,2$ 1a : Teintes ternes, brun-noir, brun châtain, brun rougeâtre, brun fauve, brun olivacé ou ochracé ; taille parfois minuscule.
+1,7$ 1b : Teintes plus vives, lavées de roux, de jaune ou d’orangé ; taille moyenne. $$s"Série Fulvaurantius"
+2,8$ 2a : Chapeau d’aspect bicolore, le centre étant et/ou restant plus foncé. $$s"Série Dissensio"
+2,3$ 2b : Chapeau non bicolore ou ne le devenant pas sensiblement en se déshydratant.
+3,4$ 3a : Chapeau sombre, brun-noir, brun rougeâtre ou châtain, presque toujours lavé d’olivacé ; odeur le plus souvent remarquable : pélargonium, bois de cèdre, cuir de Russie ou iodoforme. $$s"Série Udolivascens"
+3,5$ 3b : Chapeau jamais olivacé, brun fauve, brun rougeâtre, brun châtain ou ochracé.
+4,15$ 4a : Odeur toujours prononcée ; taille petite, moyenne ou assez grande : Stirps Udolivascens.
+4,25$ 4b : Odeur nulle ou presque ; taille moyenne : Stirps Subobtusus.
+5,28$ 5a : Odeur souvent négligeable ; taille moyenne. $$s"Série Pallidofulvus"
+5,6$ 5b : Taxons de petite taille, souvent odorants. $$s"Série Detonsus"
+6,33$ 6a : Teinte lilacine ou violetée dans le haut du stipe ou sur les lames : Stirps Fallax.
+6,39$ 6b : Absence de teinte lilacine ou violetée ; chapeau atteignant ou dépassant 25-30 mm de diamètre : Stirps Melitus.
+6,47$ 6c : Absence de teinte lilacine ou violetée ; chapeau n’excédant pas 15 (20) mm de diamètre ; port très gracile : Stirps Detonsus.
+7,56$ 7a : Souvent parmi les sphaignes des conifères de tourbières (exceptionnellement sous feuillus) ; stipe parfois démesurément long : Stirps Uliginobtusus.
+7,63$ 7b : Sous feuillus ou conifères ; stipe jamais démesurément long : Stirps Fulvaurantius.
+Rem$ Série Dissensio
+8,9$ 8a : Taxons des feuillus hygrophiles ; stipe nettement chiné par le voile blanc.
+8,11$ 8b : Taxons des conifères ou des bois feuillus non hygrophiles ; stipe non voilé.
+9,0$ 9a : Lames remarquablement épaisses et élastiques, ne se brisant pas au froissement, brun sombre ; chapeau brun rougeâtre étant imbu, pâlissant en ocre chamois, le mamelon restant plus foncé ; spores assez fortement verruqueuses, (8,5) 9-10,5 (11) x 5,5-6 (6,3) µm. $C. flexibilifolius
+9,10$ 9b : Lames banales, cassantes, safranées.
+10,0$ 10a : Chapeau bicolore à l’état imbu, brun châtain à bords nettement plus pâles, crème blanchâtre, pâlissant en orange abricot terne ; spores finement ou moyennement verruqueuses, (8) 8,5-10,5 (11) x 5-6 (6,2) µm. $C. subfuscodiscus
+10,0$ 10b : Chapeau non bicolore à l’état imbu, brun fauve sombre, pâlissant en gris olivacé pâle, le mamelon restant très foncé ; spores à verrues moyennes ou assez fortes, (7) 7,5-10,5 (11) x (4,5) 5-6 (6,2) µm. $C. privus
+11,12$ 11a : Bois de conifères ; chapeau noir ou presque au centre, dépourvu de teinte grise.
+11,13$ 11b : Bois feuillus ou mêlés ; chapeau relativement moins sombre au centre, parfois teinté de gris ou de gris olivacé.
+12,0$ 12a : Chapeau remarquablement bicolore étant imbu, presque noir au centre, beige ailleurs ; stipe banal, lavé d’ochracé ; sous pins ou sapins ; spores à verrucosité légère à moyenne, (8) 8,5-11 (11,5) x 5-6 (6,2) µm. $C. dissensio
+12,0$ 12b : Chapeau parfois rostriforme, noir au mamelon, se déshydratant en fauve roussâtre, le mamelon restant noir ; stipe long, non atténué, blanchâtre ; sous pins sylvestres ; spores finement piquetées, (8,5) 9-10,5 (11) x (4,8) 5-5,7 (6) µm. [= ? C. fulvescens Fr. ss. Bres. 1930, non ss. Fr. 1838]. $C. nigromammosus
+13,0$ 13a : Chapeau brunâtre, se déshydratant plus ou moins en cocarde, alutacé à sec ; odeur camphrée-raphanoïde ; typiquement sous les charmes ; cellules marginales abondantes ; spores moyennement verruqueuses, (7) 7,5-9,5 (10) x 5-6 (6,2) µm. $C. ostruophilus
+13,14$ 13b : Chapeau pâlissant dans les tons gris ocre ou gris olivacé ; cellules marginales négligeables.
+14,0$ 14a : Chapeau châtain, plus sombre au mamelon, pâlissant en gris ocré ; stipe clavé ; bois mêlés ; spores à verrucosité moyenne, (8) 8,5-11,5 (12) x 5-6 (6,5) µm. $C. parvepilus var. griseocephalus
+14,0$ 14b : Chapeau pâlissant en grisâtre ou gris olivâtre, le mamelon restant foncé ; stipe nettement atténué ; bois feuillus ou mêlés ; spores assez fortement verruqueuses, (6,5) 7-9,5 (10) x 4,5-5,5 (5,8) µm. $C. atrocinereus
+rem$ Série Udolivascens – Stirps Udolivascens
+15,0$ 15a : Stipe long et grêle (habitus d’Entoloma hebes Romagn.) ; chapeau brun olivacé étant imbu ; odeur de pélargonium ; sous les pins ; spores ovoïdes de (6) 6,5-8 (8,5) x 5-6 µm (Q = 1,4). $C. filopes
+15,16$ 15b : Habitus absolument différent.
+16,17$ 16a : Taille moyenne ou assez grande ; chapeau souvent couvert par un voile blanc remarquable ; odeur non pélargoniée ; spores ovoïdes (Q = 1,4/1,5).
+16,19$ 16b : Taille petite à moyenne ; absence de voile apprimé sur le chapeau ; odeur de pélargonium ; spores plus étroites.
+17,0$ 17a : Taxon ressemblant à un gros Inocybe ; chapeau brun bistre ou brun sombre, plus ochracé vers la marge, nettement voilé de blanc au centre, se déshydratant en ocre « hinnuloïde » ; stipe atténué, blanc ; odeur légèrement iodée ; feuillus (chênes, charmes) ; cellules marginales abondantes ; spores à verrucosité peu lisible, (5,5) 6-8 (8,5) x 4,5-5,7 (6) µm. $C. albidodiscus
+17,0,N$ Ce taxon paraît assurer la transition vers la Section Duracini, Sous-section Acetosi.
+17,18$ 17b : Taxons ne ressemblant pas à un Inocybe ; forte odeur de bois de cèdre ou de cuir de Russie ; cellules marginales négligeables.
+18,0$ 18a : Taille moyenne ; chapeau brun sombre, gris-brun noisette, masqué par un copieux voile blanc ; stipe légèrement voilé ; épicéas ; spores finement verruqueuses, (7) 7,5-9,5 (10) x 5,5-6,5 (7) µm	. $C. velenovskyi
+18,0$ 18b : Taille assez grande ; chapeau atteignant 70 mm de diamètre, à voile apprimé plus discret, parfois absent, brun châtain puis ochracé ou brun olivacé ; stipe blanc et nu, pouvant atteindre 15 mm de large ; conifères et feuillus ; spores finement verruqueuses, (7) 7,5-9 (9,5) x 5-6,2 (6,5) µm. $C. fragrantior
+19,20$ 19a : Spores très étroites (Q = 1,9/2,1).
+19,22$ 19b : Spores moins étroites (Q = 1,6/1,7).
+20,0$ 20a : Spores remarquablement étirées-mamelonnées, subfusiformes (Q = 2,1) ; chapeau brun châtain foncé éclatant comme une châtaigne cuite, pâlissant en ochracé fauvâtre puis en beige pâle ; stipe concolore, un peu chiné ; pins et bouleaux ; spores finement verruqueuses, (8) 8,5-11 (11,5) x 4,5-5 (5,5) µm. $C. goniosporus
+20,21$ 20b : Spores ellipsoïdales (Q = 1,9), non étirées-mamelonnées.
+21,0$ 21a : Port relativement élancé ; chapeau bai grenat foncé, se déshydratant, par stries, en brun olivâtre puis en ocre jaune ; bois mêlés ; spores mesurant (8) 8,5-11,5 (12) x 5-6 µm. $C. pelargoniosmus
+21,0$ 21b : Port plus râblé ; stipe parfois boursouflé ; chapeau châtain ou brun rougeâtre, se déshydratant en ocre olivacé ; pins sylvestres ; spores mesurant (7,5) 8-10,5 (11,2) x 4,5-5,5 µm. $C. difficillimus
+22,23$ 22a : Chapeau orné de méchules blanches vers les bords (cf. C. paleaceus) ; taxons relativement petits mais non graciles.
+22,24$ 22b : Chapeau glabre ; port gracile.
+23,0$ 23a : Chapeau brun châtain à brun rouge, se déshydratant en beige clair ; feuillus ; spores (7) 7,5-10 (10,5) x 5-6 µm. $C. croceofurfuraceus
+23,0$ 23b : Voile blanc remarquable, frangeant la marge du chapeau et annelant le stipe ; feuillus ; spores (6,5) 7-9,5 (10) x (5) 5,5-6 µm. $C. croceofurfuraceus var. pervestitus
+24,0$ 24a : Chapeau brun châtain olivacé ; réaction positive à la phénolaniline ; arête des lames fertile ; feuillus et/ou conifères ; spores (7) 7,5-9,5 (10) x 5-5,5 (6) µm. $C. udolivascens
+24,0,N$ Voir la var. lilacinostipitatus dans la Stirps Fallax, Série Detonsus.
+24,0$ 24b : Chapeau brun châtain dépourvu de nuance olivacée ; réaction négative à la phénolaniline ; cellules marginales présentes ; feuillus stricts ; spores (7,2) 7,5-9,5 (10) x (4,8) 5-5,8 (6) µm. $C. pelargoniobtusus
+rem$ Série Udolivascens – Stirps Subobtusus
+25,26$ 25a : Chapeau brun-noir ou presque noir étant imbu ; stipe blanc ou à peine teinté ; épicéas.
+25,27$ 25b : Chapeau moins sombre à l’état imbu ou plus rougeâtre ; stipe nettement coloré ; conifères ou feuillus.
+26,0$ 26a : Spores à verrucosité fine, subéchinulée, mesurant (7) 7,5-9,5 (10,5) x 5,8-6,4 µm ; chapeau presque noir étant imbu ; stipe blanc, fusoïde. $C. nigrobtusus
+26,0$ 26b : Spores à verrues basses, moyennes ou assez fortes, mesurant (7,5) 8-9,5 (10) x 5,5-6,5 µm ; chapeau brun-noir, à marge striée-pellucide à l’état imbu, se déshydratant en fauve ochracé ; stipe élancé, nettement atténué, soyeux, blanc à reflet carné. $C. subobtusobrunneus
+27,0$ 27a : Spores remarquablement étroites (Q = 2), parfois un peu « lacéroïdes », finement verruqueuses, (7,5) 8-11 (12) x 4-5 (5,5) µm ; chapeau brun châtain grisâtre, pâlissant peu ; stipe gris-brun, un peu comprimé, « scandoïde » ; bois mêlés. $C. morlaisianus
+27,0$ 27b : Spores subovoïdes (Q = 1,5/1,6), à verrucosité moyenne ou assez forte, (6,5) 7-9 (9,5) x 5-6 (6,2) µm ; chapeau brun rougeâtre devenant ocre moutarde lavé d’olivacé ; stipe non atténué – à base parfois même un peu renflée –, lavé de la teinte du chapeau ; pins sylvestres. $C. subobtusus
+rem$ Série Pallidofulvus
+28,29$ 28a : Sous conifères, jusque dans les tourbières ; teintes sombres, brun-noir ou brun rougeâtre foncé.
+28,32$ 28b : Sous feuillus ; teintes nettement moins sombres.
+29,30$ 29a : Spores ovoïdes (Q = 1,4/1,5) ; chapeau campanulé à conique.
+29,31$ 29b : Spores ellipsoïdales (Q = 1,7/1,8) ; chapeau convexe-mamelonné.
+30,0$ 30a : Spores à verrues assez fortes, (9) 9,5-12,5 (13) x 6,5-7,8 µm ; chapeau campanulé, brun sépia à brun-noir, fortement hygrophane, pâlissant en beige roussâtre, en se ridant nettement ; stipe flexueux, subconcolore ; épicéas. $C. rugatofibrillosus
+30,0$ 30b : Spores plus petites, nettement verruqueuses, (6) 6,5-8 (8,5) x 4-5 µm ; chapeau conique, brun-noir, se déshydratant en ocre roux à partir de la marge ; stipe grisâtre, teinté de roux vers le bas, à zone annuliforme médiane blanche ; conifères des tourbières. $C. rufobasalis
+31,0$ 31a : Stipe nu, blanc ou lavé de la teinte du chapeau ; odeur inconstante de rave ou d’iodoforme ; chapeau brun noirâtre à bai rougeâtre vers les bords, se déshydratant en ocre pâle ; épicéas, pins et bouleaux ; spores moyennement ou assez fortement verruqueuses, (7) 7,5-10 (10,5) x (5,4) 5-5,5 (5,7) µm. $C. obtusobrunneus
+31,0,N$ Une forme persimilis, inédite, à spores plus étroites (Q = 1,9), récoltée sous Pinus pinaster, est en cours d’étude ainsi qu’une forme des épicéas subalpins, à spores subglobuleuses et à odeur raphanoïde.
+31,0$ 31b : Stipe chiné par le voile, brun rougeâtre, concolore au chapeau ; odeur non significative ; chapeau d’un brun rougeâtre foncé, se déshydratant en ocre pâle à partir du centre ; épicéas ; spores moyennement verruqueuses, (7) 7,5-9,5 (10) x 5-6 µm. $C. pallidofulvus
+32,0$ 32a : Chapeau brun fauvâtre à fauve briqueté, se déshydratant en beige clair par stries ou par bandes alternées ; stipe blanchâtre puis ochracé, à voile moirant évanescent ; feuillus hygrophiles ; cellules marginales abondantes ; spores à verrues assez fortes, (8,5) 9-10,5 (11) x 5,5-6 (6,5) µm. $C. perzonatus
+32,0$ 32b : Chapeau brun chamois, brun châtain au centre, très strié à l’état imbu, pâlissant en ocre jaunâtre ; stipe long et subconcolore ; feuillus acidiphiles ; cellules marginales absentes ; spores plus petites, à verrues encroûtées, (7,5) 8-9 (9,5) x (4,5) 5-6 µm. $C. elaphinicolor
+rem$ Série Detonsus – Stirps Fallax
+33,34$ 33a : Chapeau très sombre, parfois noirâtre étant imbu, nettement voilé de blanc à la marge ; odeur faible à nulle.
+33,36$ 33b : Chapeau moins sombre, à couleurs parfois vives ; voile absent ou discret ; odeur forte.
+34,0$ 34a : Minuscule taxon à chapeau brun châtain foncé, blanchâtre aux bords, un peu pailleté par le voile ; stipe mauve violeté dans le tiers supérieur, à débris de voile en flocons ; odeur faible de pélargonium ; tourbières à saules ; spores finement mais densément verruqueuses, (6) 6,5-8 (8,5) x 4-5 µm. [= C. ianthipes Secr. ex Gill. ss. Quél. 1879, non ss. Gill. 1874]. $C. ianthipes
+34,35$ 34b : Taxons de taille nettement plus grande ; inodores.
+35,0$ 35a : Spores à tendance cylindracée, (7,5) 8-10,5 (11) x 4,5-5,5 (6) µm ; arête des lames fertile ; chapeau brun châtain grisâtre au mamelon, à marge éclaircie par un voile en couronne blanchâtre ; sommet du stipe lilacin violeté fugace ; feuillus. $C. insignitus
+35,0$ 35b : Spores plus petites, ellipsoïdales, (5,5) 6-8 (8,5) x 4,5-5 µm ; arête des lames stérile ; chapeau brun sombre nuancé de rougeâtre, se déshydratant en jaune paille, à voile blanc abondant, parfois presque membraneux à la marge ; teinte violetée parfois très accentuée en haut du stipe ; bois mêlés. $C. fallax
+36,37$ 36a : Port gracile ; odeur de pélargonium.
+36,38$ 36b : Port plus trapu ; odeur de bois de cèdre.
+37,0$ 37a : Teinte lilacine cantonnée dans les lames ; stipe noirâtre dans sa partie inférieure ; pins et bouleaux en terrain sableux ; spores finement verruqueuses, (7,5) 8-9 (9,5) x (4) 4,2-5 (5,2) µm. $C. lilacinophyllus
+37,0$ 37b : Teinte lilas violeté visible en haut du stipe et sur le tomentum basal ; chapeau brun châtain nuancé d’olivâtre, pâlissant en gris ocre pâle, à marge légèrement voilée de blanc, parfois furfuracée ; chênes ; spores à verrucosité moyenne, (7,5) 8-9 (9,5) x 4,5-5,5 µm. $C. udolivascens var. lilacinostipitatus
+38,0$ 38a : Chapeau brun olivacé, devenant orangé abricot, presque orangé au centre, à voile blanc discret, cantonné à la marge ; feuillus hygrophiles ; spores à verrues basses assez marquées, (7) 7,5-8,5 (9) x (4,5) 4,8-5 (5,5) µm. $C. neofallax
+38,0$ 38b : Chapeau fauve à brun-rouge, châtain rougeâtre au mamelon, pâlissant en ocre jaune, à marge striée-pellucide, nettement plus pâle ; stipe parfois annelé ; sous peupliers d’Italie herbeux ; spores fortement verruqueuses, (6,5) 7-8 (8,5) x 4-5 (5,5) µm. $C. pseudofallax
+rem$ Série Detonsus – Stirps Melitus
+39,40$ 39a : Taxons des feuillus ou des conifères, volontiers cespiteux, de teintes vives ou chaudes : fauve rougeâtre, roux orangé ou lavé de jaunâtre.
+39,43$ 39b : Taxons des feuillus, non cespiteux, de teintes sombres ou ternes : brun-noir, brun châtain, brun fauve, pâlissant en ocre « hinnuloïde » ou en gris ochracé.
+40,41$ 40a : Spores ellipsoïdales (Q = 1,8), n’excédant pas 9,5 x 5 µm, finement verruqueuses ; arête des lames stérile.
+40,42$ 40b : Spores plus grandes, fortement verruqueuses et plus globuleuses (Q = 1,6/1,7) ; arête des lames fertile.
+41,0$ 41a : Chapeau conico-campanulé, brun fauve chaud, pâlissant en ocre « hinnuloïde » ; stipe long, flexueux, nu, lavé de rose orangé et de jaune ; pins sylvestres ; spores (6,5) 7-8,5 (9) x 4-4,5 (5) µm. [= C. fascicularis Vel. 1921, non A.E.Johnson 1878]. $C. fascicularoides
+41,0$ 41b : Port de Laccaria ou de Tubaria ; chapeau convexe puis s’aplanissant, non mamelonné, roux fauve chaud, puis pâlissant ; stipe subconcolore, parfois moucheté par le voile blanc ; sphaignes sous pins et épicéas ; spores (7) 7,5-9 (9,5) x (4,2) 4,5-5 µm. $C. melitus
+42,0$ 42a : Chapeau fauve rougeâtre, à marge plus claire ocre orangé, striée-pellucide à l’état imbu, se déshydratant en ocre terne ; stipe subconcolore, moucheté par le voile blanc ; isolé sous épicéas ; spores (6,5) 7-9,5 (10) x 4,5-5,5 (6) µm. $C. striatulorufus
+42,0$ 42b : Taxon entièrement coloré de brun fauve, pâlissant en jaune paille puis en crème blanchâtre sur le chapeau, à marge non striée-pellucide ; chair nettement obscurcie dans le bas du stipe ; volontiers cespiteux sous chênes ; spores (8) 8,5-10 (10,5) x 5-6 (6,2) µm. $C. brunneostramineus
+43,44$ 43a : Chapeau brun-noir ou brun châtain sombre à l’état imbu ; marge non striée-pellucide.
+43,46$ 43b : Chapeau brun rougeâtre à l’état imbu ; marge fortement striée-pellucide.
+44,0$ 44a : Spores très finement verruqueuses, parfois à tendance subfusiforme, (7,5) 8-10 (10,5) x 4,5-5 (5,5) µm ; chapeau convexe vite aplani, brun châtain, pâlissant en ocre « hinnuloïde » légèrement lavé d’olivacé ; stipe fortement atténué, d’un ocre teinté d’acajou, bistre foncé vers le bas ; lames uncinées-décurrentes par une dent, « tubarioïdes » ; feuillus acidiphiles. $C. castaneopallidus
+44,45$ 44b : Spores nettement verruqueuses ; chapeau conique ou conico-campanulé, à mamelon souvent aigu.
+45,0$ 45a : Habitus de Conocybe ; chapeau brun bistre à brun olivâtre, se déshydratant radialement en gris brun ochracé, le mamelon devenant plus fauve orangé ; odeur légèrement pélargoniée à la coupe ; chênes ; spores ellipsoïdales (Q = 1,7), à verrucosité moyenne ou assez forte, (7) 7,5-9 (9,5) x (4,5) 5-5,3 (5,5) µm. $C. conocyboides
+45,0$ 45b : Taxon n’évoquant pas un Conocybe ; chapeau brun sombre puis ocre « hinnuloïde » ; stipe subconcolore, s’obscurcissant à partir de la base ; odeur d’herbe froissée ou légèrement raphanoïde ; feuillus hygrophiles ; spores fortement verruqueuses, (6,8) 7-8 (8,5) x 5-6 µm. $C. acutomammosus
+46,0$ 46a : Spores à verrues crêtées, encroûtées, (8) 8,5-11,8 (12,5) x 6-7 µm ; chapeau plan-nummulaire, unicolore, pâlissant par stries à partir de la marge ; stipe long ou très long, nu, concolore ; odeur herbacée ou un peu iodée ; chênes. $C. cristatosporus
+46,0$ 46b : Spores finement verruqueuses, (8) 8,5-9,5 (10) x (4,5) 4,7-5,2 (5,7) µm ; chapeau plan-convexe, mamelonné, brun rougeâtre, presque brun-noir au mamelon, se déshydratant à partir du centre en ocre « hinnuloïde » ; stipe moins long, plus fibrilleux, bistre noirâtre vers la base ; odeur insignifiante ; feuillus hygrophiles ; taxon évoquant un peu C. pseudostriatulus. $C. mimicus
+46,0,N$ Taxon « border-line », repris dans la Stirps Detonsus.
+Rem$ Série Detonsus – Stirps Detonsus
+47,48$ 47a : Chapeau se déshydratant en ocre pâle, de teintes sombres ou ternes : brun-noir, brun rougeâtre, brun châtain ; arête des lames le plus souvent fertile.
+47,54$ 47b : Chapeau se déshydratant en gris pâle, de teintes initiales nettement plus vives : jaunes, orangées à rouge orangé ; cellules marginales très abondantes.
+48,49$ 48a : Spores atteignant ou dépassant 11 µm de longueur et atteignant 6,5 (7) µm de largeur.
+48,51$ 48b : Spores n’excédant pas 9,5 (10) x 6 µm.
+49,0$ 49a : Spores de grande taille, (8,5) 9-12 (12,5) x 5,5-7 µm, faiblement verruqueuses ; cellules marginales abondantes, sphéropédonculées ; chapeau très sombre à l’état imbu, devenant bicolore par déshydratation, le mamelon restant presque noir ; sur débris ligneux de feuillus. $C. macrosporus
+49,50$ 49b : Spores de taille moins grande, nettement verruqueuses ; chapeau ne devenant pas sensiblement bicolore en séchant.
+50,0$ 50a : Spores subovoïdes (Q = 1,6), à verrues moyennes, (8,5) 9-10,5 (11,2) x 6,5-7 µm ; chapeau brun rougeâtre, brun-noir au centre, pâlissant en beige un peu orangé ; stipe à fibrillum blanc grisâtre évident, se déchirant en lambeaux discrets ; tourbières à épicéas. $C. pseudostriatulus
+50,0$ 50b : Spores ellipsoïdales (Q = 1,7/1,8), à très grosses verrues, parfois presque crêtées, (9) 9,5-11 (11,5) x 5,5-6 (6,5) µm ; chapeau brun châtain plus uniforme, pâlissant en crème beige ; stipe nu, concolore ou plus sombre vers le bas ; bois mêlés calcicoles. $C. russulaespermus
+51,52$ 51a : Spores ellipsoïdales (Q = 1,7/1,8), finement verruqueuses ; chapeau et stipe dépourvus de traces vélaires ; feuillus hygrophiles.
+51,53$ 51b : Spores subglobuleuses (Q = 1,4/1,6), assez fortement verruqueuses ; voile blanc apparent sur la marge du chapeau et sur le stipe ; conifères des tourbières à sphaignes.
+52,0$ 52a : Chapeau brun rougeâtre, brun-noir au mamelon, fortement strié-pellucide, se décolorant en ocre terne ; inodore ; spores (8) 8,5-9,5 (10) x (4,5) 4,7-5,2 (5,7) µm. $C. mimicus 
+52,0,N$ Taxon « border-line » : voir sa position dans la Stirps Melitus.
+52,0$ 52b : Chapeau brunâtre, brun fauve à l’état imbu, strié-pellucide jusqu’au centre, présentant parfois un petit cerne plus orangé autour du disque ; odeur de pélargonium ; spores (6,5) 7-9 (9,5) x 4,5-5,5 µm. $C. minimus
+53,0$ 53a : Spores mesurant (6) 6,5-8 (8,5) x 5-6 µm ; cellules marginales abondantes ; chapeau brun foncé, brun fauve, plus sombre au mamelon, discrètement voilé de blanc à la marge ; stipe concolore, à voile moirant très net ; odeur un peu camphrée-raphanoïde. $C. naucoriaeformis
+53,0$ 53b : Spores (7,5) 8-9,5 (10) x 5-6 µm ; cellules marginales peu remarquables ; chapeau de teinte à peu près similaire au précédent mais nettement plus voilé aux bords ; stipe subconcolore, plus bistré vers le bas, vaguement chiné par le voile blanc ; inodore. $C. sphagnicola
+54,55$ 54a : Spores subovoïdes (Q = 1,4/1,6) ; absence de teinte jaune ou jaune orangé ; chapeau non strié à l’état imbu, devenant très gris en séchant ; sous chênes.
+54,0$ 54b : Port de Galerina ; chapeau presque entièrement strié-pellucide, orangé ambré puis jaunâtre, gris blanchâtre à sec ; stipe long, concolore, nu ou presque ; conifères des hauts marais ; spores ellipsoïdales (Q = 1,8), finement verruqueuses, (7) 7,5-9 (10) x 4,5-6 µm. $C. detonsus
+55,0$ 55a : Port de C. acutus ; chapeau se ridant fortement en séchant, pâlissant en grisâtre ; lames remarquablement uncinées ; stipe grisonnant, sali de brun-rouge vers le bas ; inodore ; spores fortement verruqueuses, (6,5) 7-8,5 (9) x 5-5,7 (6) µm. $C. griseosulcatus
+55,0$ 55b : Port de Conocybe ; stipe long et grêle, rouge orangé, parcouru par un fibrillum blanc en zigzags, assez marqué ; odeur raphanoïde-iodée assez forte à la coupe ; spores à verrucosité peu visible, (7) 7,5-9 (9,5) x 5-6 µm. $C. griseoflammeus
+rem$ Série Fulvaurantius – Stirps Uliginobtusus
+56,57$ 56a : Spores de petite taille – n’excédant pas 8,5 µm de longueur –, subovoïdes (Q vers 1,5) ; arête des lames fertile ou stérile ; conifères des tourbières à sphaignes ou hauts-marais.
+56,59$ 56b : Spores atteignant ou dépassant 10 µm de longueur, plus étroites [Q = (1,5) 1,6/1,8] ; arête fertile ; feuillus ou conifères, jusque dans les tourbières.
+57,0$ 57a : Taxon rappelant un C. obtusus dont le stipe serait franchement jaune ; chapeau roux fauve à l’état imbu, crème blanchâtre par le sec ; stipe souvent atténué, jaune ou jaune orangé ; cellules marginales remarquables ; spores à verrues assez fortes, (6) 6,5-8 (8,5) x 4,8-5,5 (5,8) µm. [= C. scandens Fr. ss. Quél. 1879, non ss. Fr. 1838]. $C. luciani
+57,58$ 57b : Taxons n’évoquant pas C. obtusus ; teintes du chapeau plus foncées à l’état imbu.
+58,0$ 58a : Chapeau brun foncé s’éclaircissant par la marge en ocre roux, peu hygrophane ; stipe couvert d’un dense fibrillum blanc, brun rougeâtre vers le bas par détersion ; arête stérile ; spores à verrues moyennes, (6) 6,5-8 (8,5) x (4,5) 5-5,5 µm. $C. junghunii
+58,0$ 58b : Chapeau châtain foncé à marge blanchie par le voile, fortement hygrophane, ocre carné à centre roussâtre à la fin ; stipe d’un bel orangé par détersion du fibrillum argenté ; arête fertile ; spores finement verruqueuses, (6) 6,5-8 (8,5) x 4-5 (5,5) µm. $C. croceotinctus var. minisporus
+59,0$ 59a : Taxon des tourbières à stipe normalement long par rapport au diamètre du chapeau ; chapeau campanulé, brun-rouge à reflet vineux foncé au centre, s’éclaircissant vivement en roux orangé, et en orangé clair vers la marge ; spores à verrues assez fortes, (8) 8,5-10,5 (11,2) x 5-6 µm. $C. mastoideus
+59,60$ 59b : Taxons poussant dans les pessières ou les pinèdes hygrophiles, quelquefois sous les feuillus, possédant un stipe remarquablement long (groupe de C. uliginobtusus).
+60,61$ 60a : Spores relativement étroites (Q = 1,7/1,8) ; chapeau brun châtain ou brun-rouge châtain étant imbu, pâlissant en fauve cuivré ou en fauvâtre pâle, le mamelon restant plus foncé.
+60,62$ 60b : Spores plus larges (Q vers 1,6) ; chapeau moins foncé étant imbu.
+61,0$ 61a : Chapeau brun châtain puis fauve cuivré ; stipe blanchâtre pouvant atteindre 15 cm de longueur ; odeur insignifiante ; épicéas sur sol calcaire ; spores ellipsoïdales (Q = 1,8), faiblement verruqueuses, (7,5) 8-9,5 (10) x (4,8) 5-5,2 µm. $C. uliginobtusus
+61,0$ 61b : Chapeau brun châtain rougeâtre, à marge striée plus pâle, devenant fauvâtre pâle, le mamelon restant plus foncé ; stipe long, jaunissant légèrement en séchant ; odeur faiblement raphanoïde ; pins ou épicéas hygrophiles ; spores ellipsoïdales (Q = 1,7), à verrues moyennes ou assez fortes, (7) 7,5-10,5 (11) x 5-6 (6,3) µm. $C. uliginobtusus var. lutescens
+62,0$ 62a : Spores à verrues moyennes, atteignant 6,5 µm de largeur (Q = 1,5/1,6) ; chapeau conico-campanulé, fauve roussâtre, plus foncé au mamelon, pâlissant en ocre vif, à marge striée à l’état imbu, couronnée par le voile blanc ; inodore ; épicéas. $C. uliginobtusus var. campanulatostriatus
+62,0$ 62b : Spores à verrues fines à moyennes, n’excédant pas 5,5 µm de largeur (Q = 1,6) ; chapeau ochracé pâle à l’état sec, dépourvu de voile ; stipe long et fluet ; odeur pélargoniée ; feuillus. $C. uliginobtusus var. accedens
+rem$ Série Fulvaurantius – Stirps Fulvaurantius
+63,64$ 63a : Spores ovoïdes (Q = 1,3/1,5), à verrues assez fortes ; arête des lames stérile ou fertile.
+63,65$ 63b : Spores ellipsoïdales (Q = 1,6/1,8), à verrues souvent fines ; arête des lames fertile.
+64,0$ 64a : Spores presque rondes (Q = 1,3), minuscules, (4,5) 5-6 (6,5) x 4-4,5 µm ; cellules marginales insignifiantes ; chapeau hémisphérique, brun rougeâtre, se déshydratant en ocre orangé par le centre ; épicéas. $C. perlaetissimus
+64,0$ 64b : Spores moins globuleuses (Q = 1,4/1,5) et plus grandes, (6,5) 7-9 (9,5) x 5-6 (6,2) µm ; cellules marginales remarquables ; chapeau mamelonné, brun-rouge à roux fauve, devenant jaune fauve ou orangé en séchant ; stipe noircissant à partir de la base ; feuillus hygrophiles. $C. fulvaurantius
+65,66$ 65a : Taxons des conifères à spores atteignant 10,5 (11) x 5-6 µm.
+65,67$ 65b : Taxons des feuillus à spores ne dépassant pas 10 x 5,5 µm.
+66,0$ 66a : Chapeau d’un brun fauve chaud, devenant de plus en plus jaune en séchant ; stipe chiné par le voile ; forte odeur de menthe puis de pélargonium ; conifères. $C. umbrinolutescens
+66,0$ 66b : Chapeau roux fauve lavé d’orangé au centre, devenant d’un jaune terne en séchant ; stipe nu ; odeur de térébenthine. $C. luridus
+67,0$ 67a : Chapeau brun fauve, se déshydratant en jaune paille à partir du centre ; lames remarquablement uncinées, d’allure « tubarioïde » ; odeur puissante de bois de cèdre ; feuillus hygrophiles ; spores piquetées, (7) 7,5-8,5 (9) x (4,5) 4,8-5 (5,5) µm. $C. luteogracilis (forma)
+67,0$ 67b : Chapeau devenant, en séchant, d’un beau jaune au centre, plus brun orangé aux bords ; lames à insertion plus banale ; hêtres ; spores à verrues assez fines, (6,5) 7-9,5 (10) x 5-5,3 µm. $C. fulvoleoninus
+
+CS926,0$ Section Plumbosi Moënne-L. & Reum.
+1,2$ 1a : Lames initialement vert olive ou crème olivâtre. $$s"Série Plumbosus"
+1,13$ 1b : Lames d’abord ocre argilacé, fonçant beaucoup, souvent rougeâtres à maturité, typiquement peu ventrues ou subdécurrentes. $$s"Série Milvinus"
+rem$ Série Plumbosus
+2,0$ 2a : Stipe très élancé ; chiné par un voile jaune. $C. plumbosus
+2,0,N$ Fr. in icône inédite, non in textes*.
+2,3$ 2b : Pas ce caractère.
+3,0$ 3a : Grandes spores, (10) 11-12,5 (13) x 5,5-6,5 µm (Q = 1,9), à verrues très fines ; long stipe gracile. $C. subcylindrosporus
+3,4$ 3b : Spores nettement plus petites (11,5 µm au grand maximum) ; stipe de port plus banal.
+4,5$ 4a : Spores ovoïdes à ovo-ellipsoïdes (Q = 1,4/1,5), assez fortement ornées ; voile en couronne absent ou très peu marqué sur le pourtour du chapeau.
+4,6$ 4b : Spores ellipsoïdes ou subamygdaliformes (Q = 1,7/1,8), à verrucosité fine ou forte ; voile en couronne spectaculaire ou tout à fait absent sur le pourtour du chapeau.
+5,0$ 5a : Taxon des feuillus acidiphiles appartenant à la section Delibuti (sous-section Anomali, série Camurus) ; chapeau brun olivacé et stipe fugacement violeté lilacin au sommet ; spores (7) 7,5-9,5 (10) x 5,5-6,5 (6,7) µm. $C. raphanodiabolicus
+5,0$ 5b : Taxon des épicéas, typique de la série, à chapeau brun rougeâtre et stipe nettement violacé ou noir bleuté au sommet ; spores (6,5) 7-8,5 (9) x 4,5-5,5 (5,7) µm. $C. subplumbosus
+6,7$ 6a : Voile en couronne très net sur le pourtour du chapeau (exception : C. suberugatus) ; taxons assez grêles (exception : C. flabelloides).
+6,11$ 6b : Absence de voile en couronne sur le pourtour du chapeau ; taxons de taille plus importante.
+7,8$ 7a : Spores atteignant 10,5-11,5 (12) µm de long, à verrues moyennes, bien marquées, et même fortes au sommet (exception : C. suberugatus, verrues fines).
+7,0$ 7b : Spores (6,5) 7-8 (8,5) x 4-4,7 (5) µm, à verrues assez fines ou à peine moyennes, piquetées sur le contour ; conifères acidiphiles avec Betula. $C. atrocoeruleoides
+8,0$ 8a : Taxon-type de la série, à lames lavées d’olivâtre au début ; spores ellipsoïdes (8,5) 9-10,5 (11) x 5-6 µm ; feuillus humides ou conifères sphagnicoles. $C. plumbosus
+8,9$ 8b : Taxons appartenant à la série Milvinus (pas de tonalité olivacée sur les lames) [risques de confusion].
+9,10$ 9a : Taxons grêles des feuillus.
+9,0$ 9b : Taxon d’assez grande taille des conifères marécageux ; forte odeur « terreuse » (cf. C. variecolor) ; spores (8) 8,5-11 (11,5) x (4,5) 5-6 µm, ellipsoïdes ou légèrement amygdaliformes. $C. flabelloides
+10,0$ : Voile en couronne fragmentée sur le pourtour du chapeau ; revêtement piléique peu hygrophane, brun noirâtre plus ou moins nuancé de rougeâtre, restant sombre (roussâtre obscur) à l’état sec [tonalités olive sur le chapeau et les lames d’après Fries]. Spores ellipsoïdes, à verrues assez marquées. $C. milvinus
+10,0$ 10b : Absence de voile en couronne fragmentée sur le pourtour du chapeau ; revêtement piléique fortement hygrophane, se déshydratant en cocarde en prenant des tons jaune ocracé ; spores largement ellipsoïdes à quadrangulaires, finement ornées. $C. suberugatus
+11,0$ 11a : Chapeau très violemment hygrophane, brun noirâtre à reflets violacés laissant subitement apparaître, en séchant, des plages ocre pâle subolivacé ; spores (7) 7,5-10 (10,5) x 4-5 (5,5) µm, à verrues fines ; Pinus sylvestris et Betula en terrain sableux. $C. hygrophanus
+11,12$ 11b : Caractères différents.
+12,0$ 12a : Chapeau pâlissant par stries spectaculaires, de bistre sombre à olivâtre, ocre jaunâtre à la fin ; pas de composante rougeâtre, même à l’état imbu ; pigment violacé absent ou éventuellement présent au niveau du tomentum basal ; Pinus sylvestris ou bois mixtes ; spores (7) 7,5-9 (9,5) x (4,2) 4,5-5 (5,2) µm, à verrues assez fines. $C. milvinoides
+12,0$ 12b : Chapeau obscur et le restant, avec une composante rougeâtre étant imbu ; pigment violacé présent sur le stipe et dans la chair imbue (gris violacé) ; Pinus sylvestris sablonneux ; spores (7) 7,5-9 (9,5) x 4-5 µm, à verrues fortes, saillantes et spinuleuses au sommet. $C. plumbosoides
+Série Milvinus
+13,14$ 13a : Taxons relativement grands ou franchement graciles, présentant un voile blanc, en couronne fragmentée sur le pourtour du chapeau (exception : C. suberugatus), et d’aspect moirant ou par traces très discrètes sur le stipe ; déshydratation généralement en cocarde.
+13,17$ 13b : Taxons relativement grands, mais alors à voile très peu apparent, ou pour la plupart graciles (habitus des Paleacei), mais alors à voile spectaculaire sur le chapeau et/ou sur le stipe, parfois sous forme de couronne aux bords du chapeau mais, en ce cas, également abondant sur le stipe (exception : C. pseudoflabellus) ; déshydratation très majoritairement radiale.
+14,15$ 14a : Spores atteignant 11 (12) µm de long ; stipe souvent bleuté ou violacé au sommet (teinte parfois fugace) ; déshydratation parfois radiale.
+14,16$ 14b : Spores n’excédant pas 9,5 µm de long ; stipe dépourvu de tout pigment violacé ; déshydratation « en cocarde ».
+15,0$ 15a : Voile en couronne fragmentée sur le pourtour du chapeau ; revêtement piléique peu hygrophane, brun noirâtre plus ou moins nuancé de rougeâtre, restant sombre (roussâtre obscur) à l’état sec [tonalités olive sur le chapeau et les lames, d’après Fries] ; spores ellipsoïdes, à verrues assez marquées. $C. milvinus
+15,0$ 15b : Absence de voile en couronne fragmentée sur le chapeau ; revêtement piléique fortement hygrophane, se déshydratant en cocarde en prenant des tons jaune ocracé ; spores largement ellipsoïdes à quadrangulaires, finement ornées. $C. suberugatus
+16,0$ 16a : Chapeau atteignant 70 mm de diamètre et stipe 80 x 10 mm ; réaction nulle au gaïac ; spores (7) 7,5-9 (9,5) x 4-5 (5,5) µm (Q = 1,75) ; sous Quercus, Populus tremula et Betula. $C. marginatosplendens
+16,0$ 16b : Chapeau atteignant 45 mm de diamètre et stipe 60 x 6,5 mm ; réaction positive au gaïac (++) ; spores (7,5) 8-9 (9,5) x 5-6 µm (Q = 1,6) ; Picea et Betula. $C. submilvinus
+17,18$ 17a : Taxons relativement grands [chapeau atteignant 50-60 (80) mm de diamètre], à voile très peu apparent.
+17,23$ 17b : Taxons graciles (habitus des Paleacei), à voile spectaculaire (exception : C. cedriosmus) sur le chapeau et/ou sur le stipe, formant souvent des chevrons étagés sur ce dernier.
+18,0$ 18a : Spores presque rondes (Q = 1,1), mesurant (4,5) 5-7,5 (8) x 5-6,5 µm ; lames à reflets rouges (cf. C. phoeniceus) ; Pinus sylvestris acidiphiles. $C. miltinophyllus
+18,19$ 18b : Pas ces caractères.
+19,0$ 19a : Taxon appartenant à la section Hinnulei, se déshydratant volontiers « en cocarde » dans des tonalités rougeâtres ou orangées ; KOH violet foncé sur la chair du chapeau ; feuillus hygrophiles ; spores (7) 7,5-10 (10,5) x 5-6 µm, à verrues moyennes, cristulées (Q = 1,6). $C. milvinicolor
+19,20$ 19b : Taxons appartenant à la section Plumbosi.
+20,0$ 20a : Chapeau très violemment hygrophane, brun noirâtre à reflets violacés, laissant subitement apparaître, en séchant, des plages ocre pâle subolivacé ; KOH brun foncé ; Pinus sylvestris et Betula en terrain sableux ; spores (7) 7,5-10 (10,5) x 4-5 (5,5) µm, à verrues fines. $C. hygrophanus
+20,21$ 20b : Caractères différentes ; taxons appartenant à la série Plumbosus [rappel, voir supra].
+21,22$ 21a : Chapeau brun à reflet rougeâtre ; stipe lavé de violet ou de gris violacé ; spores à verrues relativement fortes.
+21,0$ 21b : Chapeau nettement lavé d’olivacé en séchant ; stipe dépourvu de pigment violacé ; spores finement ornées. $C. milvinoides
+21,0,N$ Série Plumbosus, supra.
+22,0$ 22a : Pinus sylvestris sablonneux ; spores (7) 7,5-9 (9,5) x 4-5 µm (Q = 1,8). $C. plumbosoides
+22,0,N$ Série Plumbosus, supra.
+22,0$ 22b : Picea abies, lieux humides ; spores (6,5) 7-8,5 (9) x 4,5-5,5 (5,7) µm (Q = 1,5). $C. subplumbosus
+22,0,N$ Série Plumbosus, supra.
+23,0$ 23a : Voile discret sur le chapeau et sur le stipe : forte odeur de bois de cèdre ; feuillus siliceux ; spores (7,5) 8-10 (10,5) x 5-5,2 µm, à verrues moyennes (Q = 1,75). $C. cedriosmus
+23,24$ 23b : Voile spectaculaire sur le chapeau et/ou sur le stipe ; odeur différente, souvent pélargoniée ; conifères.
+24,25$ 24a : Pigment violet présent, au sommet du stipe et dans la chair (exemplaires jeunes et frais de préférence) ; odeur forte et pure de Pelargonium.
+24,27$ 24b : Pigment violet absent (éventuellement présent au niveau du mycélium) ; odeur faible, fruitée ou de Pelargonium, parfois forte de poisson puis de Pelargonium.
+25,0$ 25a : Spores subovoïdes (Q = 1,4), à verrues assez marquées, souvent plus fortes au sommet ; voile peu abondant sur le chapeau (squamettes marginales) ; gaïac fortement positif (+++) ; Picea abies calcicoles. $C. flabelliformis
+25,26$ 25b : Spores plus ellipsoïdes (Q = 1,5/1,6) à verrues fines ; voile plus abondant sur le chapeau ; terrain acide.
+26,0$ 26a : Spores (6,5) 7-8,5 (9) x 5-5,5 (6) µm ; gaïac faiblement positif, phénolaniline positive (++) ; Abies alba, parfois dans les sphaignes. $C. flabellus
+26,0$ 26b : Spores (6) 6,5-8 (8,5) x (4) 4,5-5,2 (5,5) µm ; réactions inconnues au gaïac et à la phénolaniline ; Picea abies acidiphiles. $C. flabellus var. angustisporus
+26,0,N$ Rappel : Habitus assez similaire, voile en couronne fragmentée sur le pourtour du chapeau, méchuleux et assez fugace sur le stipe qui est bleuté violacé au sommet ; lames parfois touchées d’olivacé ; odeur insignifiante ; spores (6,5) 7-8 (8,5) x 4-5 µm, à verrues fines ou moyennes. Abies alba et Picea abies acidiphiles avec Betula : C. atrocoeruleoides (série Plumbosus, supra).
+27,0$ 27a : Voile ne laissant que quelques flocons épars sur le stipe ; base de celui-ci parfois lavée de mauve (remontée mycélienne) ; Abies alba acidiphiles. $C. pseudoflabellus
+27,28$ 27b : Voile très copieux sur le stipe, y formant souvent des chevrons étagés ; base du stipe blanche ; tourbières à sphaignes ou bordure, avec Picea abies.
+28,0$ 28a : Forte odeur de poisson à la récolte, puis de Pelargonium ; gaïac lentement positif ; spores (7) 7,5-9 (9,5) x 5-5,5 (6) µm, à verrues assez fines ou moyennes. $C. flabellus f. biolens
+28,0$ 28b : Odeur faiblement pélargoniée à la récolte ; gaïac inerte ; spores (7) 7,5-9,5 (10) x (4,8) 5-6 µm, finement ornées. $C. flabellus f. iners

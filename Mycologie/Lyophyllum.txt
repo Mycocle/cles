@@ -1,0 +1,48 @@
+1 Sporen ornamentiert, fein warzig bis stachelig.	2
+1 Sporen glatt.	3
+
+2 Fruchtkörper tricholomatoid bis clitocyboid, Hut 3-10 cm breit. Sporen zylindrisch mit abgerundeten Enden, 2,7-4,2 nm dick, Ornamente fein punktiert bis flach warzig. (Abb. 1). Stirps Leucophaeatum. In Europa bisher nur:	L. leucophaeatum (Karst.) Karst.
+2 Fruchtkörper mycenoid bis collybioid, Hut 1 2,5 cm breit. Sporen regelmäßig ellipsoidisch, über 4,5 um dick (Abb. 2). Stirps Oldae. Bisher nur:	L. oldae (Svrcek) CLC.
+
+3 Lamellen ockerlich schwefelgelb bis leuchtend ockergelb, verletzt rasch rötend, dann schwärzend. Sporen kürzer als 5,5 µm und dünner als 3,7 µm. Tricholomatoide Arten mit sehr gedrängten Lamellen. Stirps Favrei.	4
+3 Verletzte Lamellen nicht rötend. Andere Merkmalskombination.	5
+
+4 Hut graublau, schieferblau. Stiel weißlich bis blaß gleichfarbig wie der Hut. Ba- sidien 23-30 jum lang.	L. favrei Haller & Haller
+4 Hut und Stiel ocker. ockergelb. Basidien 15-20/um lang. 	L. ocliraceum (Haller) Schwöbel & Reutter in Schwöbel.
+
+5. Sporen klein: kürzer als 6,5 µm und dünner als 3,7 µm.	6
+5 Sporen länger als 6,5 jum oder dicker als 3,7 jum, oft beides zugleich.	8
+
+
+6 Hut glatt und glänzend, Huthaut subgelatinös. Basidien 20-24 /um lang. Stirps Tenebrosum.Bisher nur:	L. tenebrosum Clq.
+6 Hut angepreßt filzig (Lupe), matt. Huthaut ein trockenes Tomentum. Basidien kürzer als 21 um. Stirps Konradianum. In Europa bisher nur: 	7
+
+7 Geruch säuerlich. Cystidien fehlen. Lamellen olivbraun.	L fragile J.Schff.
+7 Geruch unbedeutend oder fehlend. Cystiden zahlreich und groß (Abb. 6). Lamellen mausgrau	L. konradianum (R. Mre) Konr. & Maubl.
+
+8 Sporen asymmetrisch, inaequilateral mit einem mehr oder weniger stark ausgeprägten abaxialen Höcker, oder „dreieckig" in Seitenansicht, adaxia- le Sporenfläche rhomboidisch, supra-apikulare Depression meist vorhanden (Abb. 7-10).	9
+8 Adaxiale Sporen fläche ellipsoidal, gelegentlich mit spitz zulaufendem Api. kularende (Abb. 16). Sporen subgiobulär bis lang ellipsoidisch, nicht inae-quilateral.	12
+
+9 Abaxialer Höcker sehr groß, dadurch erscheint die Seitenansicht der Sporen mehr oder weniger dreieckig (Abb. 7, 8). Stirps Tramforme. In Europa nur:	10
+9 Sporen inaequilateral. aber nicht dreieckig (Abb. 9, 10). Stirps Infumatum. In Europa nur:	11
+
+10 Huthauthyphen liegend, zylindrisch, gerade bis leicht gebogen, in allen Richtungen verwoben.	L. tramforme (Britz.) Sing.
+10 Huthaut erst locker filzig, dann der Filz zu einem unregelmäßigen Gefüge zusammengepreßt und die unregelmäßigen Hyphen durch ein braunschwarzes Pigment miteinander verklebt.	L. rhopalopodium Clç.
+
+11. Huthaut eine radial-reguläre, 20-40 µm dicke Ixocutis, deren Hyphen 1—2 µm dick. Hyphen des Mediostratums der Lamellentrama 3 8 µm dick. Hut dunkel graulich braun. Geruch unbedeutend.	L. infumatum (Bres.) Kühner
+11 Nur die alleroberste Schicht der Huthaut teilweise gelatinös, sonst trocken, Hyphen 2-5 µm dick, verwoben. Hyphen des Mediostratums der Lamellentrama bis 20 µm dick. Hut ockergelb bis ockerbraun. Geruch unangenehm.	L. macrosporum Sing.
+
+12 Sporen subglobulär bis kurz ellipsoidisch: die folgenden Kriterien lassen sich auf wenigstens 90 °k aller Sporen anwenden: Q = 1 1,4, zugleich Differenz zwischen Länge und Dicke höchstens 2 µm, und die supra-apikuläre Depression fehlt (Abb. 11, 14, 15).	13
+12 Sporen länger ellipsoidisch: entweder Q über 1,5 oder Differenz zwischen Länge und Dicke größer als 2 µm. Verschiedene Restgruppen, davon in Europa bisher nur: Stirps Semitale: Hut grau bis graubraun oder ockergrau, ohne rote Töne. Geruch ranzig bis mehlig. Sporenbasis oft V-förmig (Abb. 16).	L. semitale (Fr.) Kühner
+
+13 Stiel abwärts veijüngt und bisweilen wurzelnd; erst ausgestopft, dann hohl. Stirps Eustygium:	14
+13* Stiel gleichdick oder mit schwach erweiterter Basis. Stirps Paelochroum. In Europa nur:	15
+
+14 Lamellen dunkel grau, Hut und Stiel weißlich bis graulich creme. Stielbasis dunkelbraun werdend.	L. eustygium (Cooke) CI9.
+14 Lamellen weißlich bis blaß grau. Hut dunkel ocker. Stiel weißlich mit bräunender Basis.	L. caerulescens Cl<j.
+
+15 Gelatinöse Schicht der Huthaut 40-50 /um dick: in dieser Ixocutis ist die Entfernung der Hyphen meist größer als ihr Durchmesser. Basidien 27 30 x 7,5-8.5 µm.	L. helvella (Boud.) CI9.
+15 Huthaut nicht gelatinös, oder nur die oberste, 5-20 juni dik- ke Lage schwach gelatinös: die Hyphen dieser Zone liegen näher beisammen als sie dick sind. Basidien größer.	16
+
+16 Stiel unter den Lamellen erst schorfig-flockig, im Alter verkahlend. Hyphen der Lamellentrama 3—6 µm dick, oft mit öligem Inhalt. Geschmack schwach bitter.	L. amariusculum Clç.
+16 Stiel von Anfang an unter den Lamellen kahl. Hyphen der Lamellentrama 5-17 /um dick, selten mit öligem Inhalt. Geschmack gar nicht bitter.	L. paelochroum Clç.

@@ -1,0 +1,55 @@
+titre$ Craterellus Jordi Vila 
+com$adaptation GF oct 2013
+rem$LANGUE$Espagnol
+
+1,0$ Source
+1,0,n$///Notas sobre el género Craterellus Pers. Jordi Vila  Errotari 08/2006; 3:57-62. 
+rem$ 1,21$ Bibliografia
+
+1,0$Bibliografia
+1,0,n$///APICELLA, P. & A. VIZZINI (1994). Un Craterellus tutto giallo: Craterellus konradii R. Maire et Bourdot 1928. Rivista di Micol.,38(2): 173-177.///ARAMENDI, R. & F. HIDALGO  (2005). Craterellus cornucopioides (L.: Fr.) Pers. f. lutea f. nov. Una curiosa variedad cromatica de la trompeta de los muertos. Errotari 2: 77-80.///BECKER,  G. (1993). Une étrange trouvaille. Bull. Féd. Mycol. Dauphiné-Savoie, 130: 28.///BON,  M.;  MASSART,  F.  &  P.  ROUZEAU  (1993). Une variété nouvelle de chanterelle. Documents Mycol. 88: 25.///BON, M. & R. PACAUD (1999). Une chanterelle blanche de la còte atlantique : Cantharellus lutescens var. albidus v. nov. DocumentsMycol. 114: 13-16.///CONTU, M. (2004). Un intrigante Craterellus sconosciuto dalle sugherete della Gallura (Sardegna). Micol. e Veget. Medit. 19(2): 109-114. ///CORNER,  E.J.H.  (1966). A monograph  of Cantharelloid  Fungi.  Oxford University Press. London. 255 pp. + 5 pl. ///DAHLMAN, M.; DANELL, E. & J.W. SPATAFORA (2000). Molecular systematics of Craterellus: cladistic analysis of nuclearLSU rDNA sequence data. Mycol. Res. 104 (4): 388-394.///EYSSARTIER, G. & B. BUYCK (2000). Le genre Cantharellus en Europe, nomenclature et taxinomie. Bull. Soc. mycol. Fr. 116(2): 91-137.///FEIBELMAN,  T.P.; DOUDRICK,  R.L.; CIBULA, W.G. & J.W. BENNETT  (1997). Phylogenetic relationships within the Cantharellaceae inferred from sequence analysis of the nuclear large subunit rDNA. Mycol. Res. 101 (12): 1423-1430.///FERNANDEZ SASIA, R.; PÉREZ-DE-GREGORIO, M.À. & G. EYSSARTIER (2003). Cantharellus parviluteus, une nouvelle espèce décrite de la Péninsule Ibérique. Bull. Soc. mycol. Fr. 119(3-4): 261-266.///GULDEN, G. & K. H0ILAND (1989). Craterellus konradii and an intermediate form between C. cornucopioides and C. konradii. Opera Bot., 100: 85-91.///GULDEN,   G.   (1994).   Kantareller   og   trompetsopper   i   Norge.   Sertrykk   VGre   Nyttevekster ,   89(4):   116-126. ///HERMITTE, J.C.; EYSSARTIER, G. & S. POUMARAT (2005). Cantharellus lilacinopruinatus sp. nov., une nouvelle chantarelle thermophile. Bull. Feder. Assoc. Myc. Medit., 28: 27-32.///HOYO, M.P.; LLORENS,  L. & J. LLISTOSELLLA (2004). Noves dades sobre fongs ibèrics. Revista Catalana Micol., 26: 33-41.///JULICH, W. (1984). Guida alla determinazione dei funghi. Vol. 2. Saturnia. Trento. 579 pp. ///LOCQUIN, M.V. (1982). Chanterelles d'Europe. B ll. Féd. Mycol. Dauphiné-Savoie, 85: 9-18. ///MAIRE, R. (1930). Études mycologiques, (Fascicule 4). Bull. Soc. mycol. Fr., 46: 226-227.
+
+
+1,2$ a) Hifas no fibuliferas
+1,9$ b) Hifas fibuliferas
+2,3$ a) Basidios predominantemente tetrasporicos
+2,7$ b) Basidios predominantemente bisporicos
+3,0$ a) Basidioma muy pequenio, con el pileo de hasta 5 mm de diametro, de color ocraceo: $ Craterellus pertenuis (Skovst.) Vila
+3,4$ b) Basidioma de mayor tamafio  ( non : pileo de hasta 5 mm de diametro)
+4,5$ a) Basidioma con tonos de color grisaceo, pardo grisaceo o negruzco
+4,6$ b) Basidioma con tonos amarillos, al menos, en el himenio
+5,0$ a) Pileo y estipite de color negro, himenio arrugado-venoso de color gris: $ Craterellus cinereus (Pers.) Quél. 
+5,0,n $ (ver también Cr. boyacensis Singer, en "Observaciones adicionales")
+5,0$ b) Pileo de color grisaceo o pardo grisaceo; himenio y estipite mas palidos: $ Craterellus sinuosus (Fr.) Fr. 
+5,0,n $typus =  Pseudocraterellus undulatus (Pers.) Courtec.
+5,0$ b') Ejemplares con el margen muy ondulado o rizado; basidioma algo mas palido que en el tipo: $ Craterellus sinuosus (Fr.) Fr. f. crispus (Pers.) Vila
+6,0$ a) Basidioma de color uniforme, de amarillo a amarillo palido: $ Craterellus sinuosus (Fr.) Fr. var. luteoalbus (Bon, F. Massart et Rouzeau) Vila
+6,0$ b) Himenio amarillo citrino; pileo y estipite negruzcos: $ Craterellus fuscocitrinus Contu nom. prov.
+7,0$ a) Basidioma sin tonos amarillos: $ Craterellus cornucopioides (L.: Fr.) Pers. typus
+7,8$ b) Basidioma con tonos amarillos, al menos, en el himenio
+8,0$ a) Himenio de color amarillo, resto del basidioma negruzco: $ Craterellus cornucopioides (L.: Fr.) Pers. var. flavicans Sacc.
+8,0$ b) Basidioma amarillo, amarillento o combinando el amarillo con el negro: $ Craterellus cornucopioides (L.: Fr.) Pers. f. lutea  Aramendi et Hidalgo  
+8,0,n $= Cr. konradii Bourdot et Maire
+9,0$ a) Pileo y estipite de color negro, himenio de color gris: $ Craterellus cinereus (Pers.) Quél.
+9,10$ b) Colores diferentes (non : Pileo y estipite de color negro, himenio de color gris)
+10,0$ a) Carne que se vuelve grisacea al corte; pileo con manchas negruzcas en los ejemplares envejecidos; reacci6n al fenol de color grisaceo: $ Craterellus melanoxeros (Desm.) PérezDeGreg.
+10,11$ b) Combinacion de caracteres diferente (non:  Carne que se vuelve grisacea al corte; pileo con manchas negruzcas en los ejemplares envejecidos; reacci6n al fenol de color grisaceo)
+11,12$ a) Himenio liso, solamente algo arrugado al envejecer
+11,16$ b) Himenio claramente arrugado-venoso
+12,0$ a) Basidioma de color amarillo, sin tonos pardos ni blanquecinos: $ Craterellus luteocomus (Bigelow) Vila
+12,13$ b) Basidioma con tonos pardos o blanquecinos presentes en el pileo y/o estipite
+13,0$ a) Color blanquecino o crema en todo el basidioma: $ Craterellus lutescens (Pers.: Fr.) Fr. var. albidus (Bon et Pacaud) Vila
+13,14$ b) Color pardo presente, al menos en el pileo
+14,0$ a) Estipite blanco: $ Craterellus lutescens (Pers.: Fr.) Fr. f. niveipes (Schild et Wafler) Vila
+14,15$ b) Estipite de color amarillo vivo o pardo gris
+15,0$ a) Estipite de color amarillo vivo: $ Craterellus lutescens (Pers.: Fr.) Fr. 
+15,0,n $typus  = Cantharellus aurora Kuyper
+15,0$ b) Estipite de color pardo grisaceo: $ Craterellus norvegicus Vila
+16,0$ a) Estipite lleno, macizo; carne de color pardo rosado al aplicar fenol: $ Craterellus ianthinoxanthus (Maire) PérezDeGreg.  
+16,0,n $(esta especie representa una probable transici6n hacia el genero Cantharellus).
+16,17$ b) Estipite hueco; carne de color pardo chocolate al aplicar fenol
+17,0$ a) Pileo de color pardo o ferruginoso: $ Craterellus tubaeformis (Fr.) Quél. f. tubaeformis
+17,0$ b) Pileo amarillo: $ Craterellus tubaeformis (Fr.) Quél. f. pallidus (Gillet) Vila
+
+rem$20,0$ Notas sobre el género Craterellus Pers. Jordi Vila  Errotari 08/2006; 3:57-62. 
+rem$ 21,0$ ///APICELLA, P. & A. VIZZINI (1994). Un Craterellus tutto giallo: Craterellus konradii R. Maire et Bourdot 1928. Rivista di Micol.,38(2): 173-177.///ARAMENDI, R. & F. HIDALGO  (2005). Craterellus cornucopioides (L.: Fr.) Pers. f. lutea f. nov. Una curiosa variedad cromatica de la trompeta de los muertos. Errotari 2: 77-80.///BECKER,  G. (1993). Une étrange trouvaille. Bull. Féd. Mycol. Dauphiné-Savoie, 130: 28.///BON,  M.;  MASSART,  F.  &  P.  ROUZEAU  (1993). Une variété nouvelle de chanterelle. Documents Mycol. 88: 25.///BON, M. & R. PACAUD (1999). Une chanterelle blanche de la còte atlantique : Cantharellus lutescens var. albidus v. nov. DocumentsMycol. 114: 13-16.///CONTU, M. (2004). Un intrigante Craterellus sconosciuto dalle sugherete della Gallura (Sardegna). Micol. e Veget. Medit. 19(2): 109-114. ///CORNER,  E.J.H.  (1966). A monograph  of Cantharelloid  Fungi.  Oxford University Press. London. 255 pp. + 5 pl. ///DAHLMAN, M.; DANELL, E. & J.W. SPATAFORA (2000). Molecular systematics of Craterellus: cladistic analysis of nuclearLSU rDNA sequence data. Mycol. Res. 104 (4): 388-394.///EYSSARTIER, G. & B. BUYCK (2000). Le genre Cantharellus en Europe, nomenclature et taxinomie. Bull. Soc. mycol. Fr. 116(2): 91-137.///FEIBELMAN,  T.P.; DOUDRICK,  R.L.; CIBULA, W.G. & J.W. BENNETT  (1997). Phylogenetic relationships within the Cantharellaceae inferred from sequence analysis of the nuclear large subunit rDNA. Mycol. Res. 101 (12): 1423-1430.///FERNANDEZ SASIA, R.; PÉREZ-DE-GREGORIO, M.À. & G. EYSSARTIER (2003). Cantharellus parviluteus, une nouvelle espèce décrite de la Péninsule Ibérique. Bull. Soc. mycol. Fr. 119(3-4): 261-266.///GULDEN, G. & K. H0ILAND (1989). Craterellus konradii and an intermediate form between C. cornucopioides and C. konradii. Opera Bot., 100: 85-91.///GULDEN,   G.   (1994).   Kantareller   og   trompetsopper   i   Norge.   Sertrykk   VGre   Nyttevekster ,   89(4):   116-126. ///HERMITTE, J.C.; EYSSARTIER, G. & S. POUMARAT (2005). Cantharellus lilacinopruinatus sp. nov., une nouvelle chantarelle thermophile. Bull. Feder. Assoc. Myc. Medit., 28: 27-32.///HOYO, M.P.; LLORENS,  L. & J. LLISTOSELLLA (2004). Noves dades sobre fongs ibèrics. Revista Catalana Micol., 26: 33-41.///JULICH, W. (1984). Guida alla determinazione dei funghi. Vol. 2. Saturnia. Trento. 579 pp. ///LOCQUIN, M.V. (1982). Chanterelles d'Europe. B ll. Féd. Mycol. Dauphiné-Savoie, 85: 9-18. ///MAIRE, R. (1930). Études mycologiques, (Fascicule 4). Bull. Soc. mycol. Fr., 46: 226-227.

@@ -1,0 +1,24 @@
+titre$ Key to the species resembling T. guldeniae in northern Europe:
+com$ adapt GF 2012
+rem$LANGUE$Anglais
+1,0$source : MYCOTAXON Volume 107, pp. 431–440 January–March 2009///Two new boreal species of Tricholoma from Fennoscandia ///Morten Christensen & Jacob Heilmann-Clausen
+1,0$
+Morten Christensen & Jacob Heilmann-Clausen mc@tricholoma.dk
+Egesvinget 24, 4180 Sorø,, Denmark jhc@habitatvision.dk
+HabitatVision Skælskørvej 22, 4180 Sorø, Denmark
+
+1,0 $ Spores small (4-6 x 3-5  µm ), most hyphae in pileipellis with clamp connections, pileus in mature basidiocarps straw-yellow or brownish yellow without greenish colours $ T. arvernense
+1,2 $ Spores longer (> 6  µm ), hyphae in pileipellis without clamp connections, but basal clamp connections at the basidia sometimes present, pileus with or without greenish colours
+2,3 $ Stipe more or less squarrulose, colour of pileus olive-green, olive-brown or golden-brown
+2,4 $ Stipe glabrous or slightly fibrillose, colour of pileus yellow, greenish or greyish
+3,0 $ Basidiocarps slender, pileus olive-green, olive-brown or blackish olive, spores subglobose (7-8.5 x 6-7  µm ), basidia without clamps $ T. fucatum
+3,0 $ Basidiocarps stout, pileus golden brown, spores ellipsoid (6-7 x 4.5-5  µm ), basidia sometimes with clamps $ T. joachimii
+4,5 $ At least some spores very large (length > 8.5  µm ), pileus pale greyish green or dark olive green
+4,6 $ All spores smaller than 8.5  µm , pileus with yellow green colours, with or without dark blackish innate fibrils
+5,0 $ Spores homogeneous in size (8-10 x 5-7  µm ), basidia 4 spored, pileus often viscid, lamellae greyish to grey, distant, under deciduous and coniferous hosts in Europe south of Fennoscandia $ T. luridum
+5,0 $ Spores heterogeneous in size and shape, but at least some spores very large (7-11 x 6-8.5  µm ), basidia 1, 2, 3 or 4 spored, pileus normally non-viscid, often with pale greyish innate fibrils, lamellae whitish or pale greyish, under conifers in Fennoscandia and Scotland $ T. guldeniae
+6,0 $ In deciduous forest, pileus greenish or yellowish, (spores 6-7.5 x 5-6  µm ) $ T. sejunctum
+6,0 $ In coniferous forest, pileus greyish yellow-green or brownish yellow with innate blackish fibrils, (spores 6-8.5 x 5-7  µm ) $ T. viridilutescens
+
+µm 
+

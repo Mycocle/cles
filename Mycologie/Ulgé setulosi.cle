@@ -1,0 +1,83 @@
+1,2 $ . Spores smooth
+1,37 $ . Spores warty
+2,3 $ . Basidia 4-spored
+2,33 $ . Basidia 2-spored
+3,4 $ . Spores ellipsoid, ovoid or oblong
+3,32 $ . Spores mitriform or angular, not ellipsoid, ovoid or oblong
+4,5 $ . Pileocystidia with distinctly tapering neck
+4,20 $ . Pileocystidia (sub)cylindrical, with apex more or less thickened or not, but not tapering
+5,6 $ . No velar spherocysts on pileipellis
+5,18 $ . With velar spherocysts on pileipellis
+6,7 $ . Germ pore eccentric (sometimes only slightly)
+6,15 $ . Germ pore central
+7,8 $ . With pleurocystidia
+7,11 $ . Without pleurocystidia
+8,9 $ . On dung
+8,10 $ . Not on dung
+9,0 $ Clamps-connections absent: $ C. congregatus
+9,0 $ Clamps-connections present: $ C. ephemerus
+10,0 $ Av. Q of spores c. 1.25: $ C. eurysporus
+10,0 $ Av. Q of spores c. 1.60: $ C. sp. Uljé 877
+11,12 $ . Cheilocystidia predominantly globose, subglobose, ellipsoid, broadly ellipsoid, ovoid or obovoid
+11,14 $ . Cheilocystidia predominantly lageniform
+12,0 $ On dung. Pileus < 8 mm in diameter: $ C. heterosetulosus
+12,13 $ . Not on dung. Pileus larger
+13,0 $ Pileocystidia < 100 µm. Sclerocystidia absent: $ C. sp. Uljé 1009
+13,0 $ Pileocystidia > 100 µm. Sclerocystidia present: $ C. callinus
+13,0,n $ (compare also C. sclerocystidiosus)
+14,0 $ Av. Q of spores c. 1.25: $ C. eurysporus
+14,0 $ Av. Q of spores c. 1.60: $ C. impatiens
+15,16 $ . On dung and decaying straw. Base of spores rounded
+15,17 $ . Not on dung. Base of spores rounded or obconical
+16,0 $ With pleurocystidia. Breadth of spores 5-6 µm. Pileus c. 20 mm: $ C. stellatus
+16,0 $ Without pleurocystidia. Breadth of spores 4-5 µm. Pileus < 8 mm: $ C. pellucidus
+17,0 $ With cylindrical elements of veil on pileus. Base of spores obconical: $ C. hiascens
+17,0 $ Without cylindrical elements of veil on pileus. Base of spores rounded: $ C. impatiens
+18,0 $ On dung. Pileus brown, < 10 mm: $ C. heptemerus
+18,19 $ . Not on dung. Pileus orange, somewhat larger
+19,0 $ Cheilocystidia in general ellipsoid to globose: $ C. pyrrhanthes
+19,0 $ Cheilocystidia in general lageniform: $ C. dilectus
+20,21 $ . Av. length of spores 10-12 µm
+20,27 $ . Av. length of spores < 10 µm or > 12 µm
+21,0 $ Velar spherocysts present on pileipellis. On dung: $ C. curtus
+21,22 $ . No velar spherocysts on pileipellis. Not on dung
+22,23 $ . No cylindrical veil on pileus
+22,25 $ . Cylindrical veil present on pileus
+23,0 $ Cheilocystidia globose: $ C. plagioporus
+23,0 ,n$ (compare C. subpurpureus and C. fallax)
+23,24 $ . Cheilocystidia at least partly lageniform
+24,0 $ Cheilocystidia lageniform. Av. Q of spores > > 1.80: $ C. subdisseminatus
+24,0 $ Cheilocystidia mixed, ellipsoid to globose and lageniform. Av. Q of spores < 1.80: $ C. subimpatiens
+25,0 $ Spores > 6 µm broad. Cheilocystidia ellipsoid to globose: $ C. velatopruinatus
+25,26 $ . Spores < 6 µm broad. Cheilocystidia lageniform
+26,0 $ Av. Q of spores c. 1.70: $ C. heterothrix
+26,0 $ Av. Q of spores c. 2.00: $ C. sp. Uljé 952
+27,28 $ . Av. length of spores more than 12 µm
+27,30 $ . Av. length of spores less than 10 µm
+28,0 $ Cheilocystidia lageniform: $ C. sp. den Held Jager 1276
+28,29 $ . Cheilocystidia globose or ellipsoid
+29,0 $ Pileus brown. Sclerocystidia numerous: $ C. sclerocystidiosus
+29,0,n $(compare C. callinus)
+29,0 $ Pileus with purple tinges. Sclerocystidia rare: $ C. subpurpureus
+29,0,n $(compare C. plagioporus and C. fallax
+30,0 $ With spherocysts on pileipellis. Pileocystidia up to 200 µm long. Base of spores obconical. Germ pore central: $ C. disseminatus
+30,31 $ . Without spherocysts on pileus. Cylindrical elements of veil present. Pileocystidia < 120 µm
+31,0 $ Germ pore central. Cheilocystidia ellipsoid to globose: $ C. sp. Uljé 926
+31,0 $ Germ pore eccentric. Cheilocystidia lageniform: $ C. heterothrix
+32,0 $ Spores hexagonal (more or less 6-angled) in front view: $ C. marculentus
+32,0 $ Spores mitriform: $ C. angulatus
+33,34 $ . Cheilocystidia globose, subglobose, ellipsoid, broadly ellipsoid, ovoid or obovoid
+33,36 $ . Cheilocystidia lageniform
+34,0 $ Sclerocystidia, pleurocystidia and clamp-connections present. On dung: $ C. sassii
+34,35 $ . No sclerocystidia. No clamps-connections. Pleurocystidia absent or present
+35,0 $ Pleurocystidia absent. On dung or decaying straw: $ C. bisporus
+35,0 $ Pleurocystidia usually present. On sticks, not on dung: $ C. bisporiger
+36,0 $ Germ pore central. Spores broadly cylindrical to ovoid. Av. Q of spores 1.35-1.50: $ C. singularis
+36,0 $ Germ pore eccentric. Spores ellipsoid. Av. Q of spores 1.75-1.80: $ C. amphithallus
+37,0 $ Basidia 2-spored. Cheilocystidia ellipsoid to globose. Pleurocystidia present: $ C. verrucispermus
+37,0 $ Basidia 4-spored. Cheilocystidia lageniform. Pleurocystidia absent: $ C. silvaticus
+
+
+Rem -->(compare C. plagioporus and C. fallax
+
+Rem -->KEY TO THE SPECIES IN SUBSECTION SETULOSI1. Spores smooth

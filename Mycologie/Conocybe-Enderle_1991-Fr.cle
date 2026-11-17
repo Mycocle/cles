@@ -1,0 +1,144 @@
+Titre$CONOCYBE ss. str. Enderle 1991
+com$adapt G Fannechere 24/01/2020
+rem$ Clé utilisable via le logiciel Mycoclé : http://mycolim.free.fr/DOC_SML/mycoCLE/Charg_Mycocle.htm
+
+1,0$ GENRE CONOCYBE ss. str.///Zeitschrift für Mykologie, 1991, 57(1): 55- 72///DIE GATTUNG CONOCYBE FAYOD///Manfred ENDERLE///Traduction Jacques BOIFFARD
+1,0$
+1,0$(Attention! Examiner l'extrême sommet et l’extrême base du pied)
+1,cs1$A - Pied avec uniquement des cystides capitées (Iécythiformes)	clé 1
+1,cs2$B - Pied sans cystides capitées mais avec cystides capillaires, en bouteille ou autres	clé 2
+1,cs3$C - Pied avec des cystides capitées et des cystides capillaires, en bouteille ou autres	clé 3
+
+
+µm
+cs1,0$
+1,0 $ Espèce robuste, charnue ressemblant à un Hebeloma ou un Cortinarius. Chapeau Ø 40-90 mm, brunâtre-rouge ou brunâtre-ocre. Pied épais de 10-15 mm au milieu. Sur sol fumé, fumier, dans les serres $ C. intrusa (Peck) Singer
+1,2 $ Espèces relativement petites, élancées, à pied fragile
+2,0 $ Spores finement verruqueuses-ponctuées (immersion!), 5-7 x 3-4  µm  (6-8,5(10) x 3-5  µm ), souvent rétrécies en bec au sommet. Chapeau Ø-> 12 mm, ocre à rougeâtre-ochracé. Pied bicolore, à sommet + clair et à base + sombre. A terre et sur bois pourri $ C. laricina (Kühn.) Kühn. (= C. dumetorum (Velo) Svrcek)
+2,3 $ Spores lisses
+3,0 $ Chapeau vert-olive sombre, Ø->  25 mm, marge devenant ocre-incarnat, striée. Spores 18-22 x 10-12  µm  $ C. olivacea Moser (inédit)
+3,4 $ Chapeau d'autres couleurs, tout au plus avec un soupçon d'olivâtre
+4,5 $ Basides bisporiques
+4,6 $ Basides (en majorité) tétrasporiques
+5,0 $ Chapeau humide 2/3 strié, parfois faiblement ridé radialement. Pied blanchâtre avec racine,  ->  30 mm. Têtes des cystides Ø-> -> 5  µm . Spores (12)12,4-19,2(21,1) x 7-10,5 x 8,1-12,5  µm , un peu aplaties. Chapeau Ø->  28 mm, brun-ocre à brun-orangé pâle. Dans les prés $ C. alboradicans Àrnolds
+5,0 $ Chapeau jamais strié, bientôt fortement ridé-veiné. Pied blanchâtre-crème avec racine  ->  10 mm. Têtes des cheilos Ø en moyenne  ->  4  µm . Spores 12,3-17,5 x (7,7)8-10(11)  µm , à parois épaisses, jamais aplaties. Chapeau Ø->  32 mm, avec des tons bruns chez les jeunes, puis jaunes. Dans les champs. $ C. neoantipus var. carinthiaca Singer & Hausknecht
+6,0 $ Spores en partie anguleuses-hexagonales à citriformes. Pied généralement longuement fusiforme radicant. (Dans la forme arrhiza Métrod, non radicant, caulos très étroites 10-12 x 1-2 x 2  µm . Spores 8,5-9 x 6-7  µm ). Spores 8-11 x 6-7,5 x 4-6  µm . Chapeau brun cannelle $ C. antipus (Lash) Fayod
+6,7 $ Spores autres, pied non radicant 
+7,0 $ Poussant dans le sable dunaire ou dans les régions côtières. Chapeau conique à campanulé. brunchâtain à rouge-brique sombre. (NH3 -). Spores (10)12-14(15) x 7-8(9)  µm  $ C. dunensis T. J. Wallace ap.Orton
+7,8 $ Autres stations
+8,0 $ Pied blanchâtre ou remarquablement pâle. Chapeau ocre-brun, très hygrophane, ridé radialement. Spores 11,5-13(14,5) x 6,5-8(9)  µm . Col des cheilos remarquablement long et élancé. Sol sablonneux, argileux, bord des chemins $ C. leucopus (Kühn.) ex Kühn. & Watl.
+8,9 $ Pied nettement coloré (s'il est très pâle, spores + courtes ou autres stations, etc.)
+9,0 $ Au moins le bord du chapeau et la moitié supérieure du pied fortement teintés de jaune d'oeuf, safran ou jaune citron gais, éclatants. Chapeau Ø ->  30 mm. Spores (9)11-12(13) x (5)6-7  µm . Basides 4 et 2 sporiques. Cellules de la cuticule piléique avec un suc jaune. (NH3 fortement +) $ C. aurea (J. Schff.) Hongo
+9,10 $ Chapeau et pied sans ces teintes très gaies
+10,0 $ Pore germinatif des spores non ou à peine visible. Spores sub. micro très claires, à paroi mince, 7,5- 9,5 x 4,2-5,5  µm . (NH3 - ou faiblement +). Têtes des caulos Ø->  10  µm . Cheilos 17-32 x 8-14,5 x 4-6  µm  $ C. spiculoides (Kühn.) ex Kühn. & Watl.
+10,11 $ Pore germinatif ± évident. Spores + sombres sub. micr .
+11,12 $ Réaction NH3 nette et forte + (dans le cas contraire, attendre une ½ heure)
+11,14 $ . Réacion NH3 (très) faible ou négative 
+12,0 $ Spores (9) 10-13 x 5-6  µm , à paroi épaisse. Pied ± nettement coloré. Chapeau Ø->  40 mm, fortement et longuement sillonné, conique, campanulé, ensuite convexe. Cheilos 17-25 x 7-10(12) x 3,5-5  µm  $ C. tenera (Schaeff. : Fr.) Fayod (si spores + larges, cheilos Ø->  15  µm  de large, à têtes Ø->  7  µm  d'épaisseur et pied à bulbe net, comparer à C. subovalis).
+12,13 $ Spores 8-10,5  µm  de long. Pied pâle, au moins dans la jeunesse
+13,0 $ Cheilos larges de 8,5-9,5  µm . Spores 8-9,5 x 4,5-5,5  µm . Chapeau à peine strié ou seulement à la marge. Pied blanc, ochracé en bas, entièrement recouvert d'une pruine blanche, à bulbe net presque marginé. Cheilos 17,5-22,5 x 8,5-9,5 X 4,5-5,5  µm . Le long des chemins forestiers, dans les prés-bois, les terrains sablonneux argileux $ C. abruptibulbosa Watling
+13,14 $ . Cheilos 10-15  µm  de large. Spores 8,5-10,5 x 5,5-6,5  µm . Chapeau (sur le frais) strié jusqu'à la moitié. Pied ivoire-crème-jaunâtre, puis avec des tonalités jaune-rougeâtre, rouille. Cheilos 17-26 x 10-15 x 4- 6(7)  µm . Surtout dans les prés-bois C. macrocephala (Kühn.) ex Kühn. & Watl.
+14,16 $ Cheilos à ventre Ø->  7-11(12,5) et tête Ø 2,5-5(5,7)  µm 
+14,15 $ Cheilos soit avec un ventre + large en moyenne, Soit une tête + large
+15,19 $ Cheilos à ventre Ø->  15  µm  et tête Ø 8  µm 
+15,0 $ Cheilos à ventre Ø->  7-11  µm  et tête (4)5-7  µm . Spores 8,5-10,5 x 4,5-5,7  µm . Chapeau à couleurs sales brunâtres, ocre-gris clair ("vinaceous-buff or clay-buff"). Décrit d'un sol calcaire, à l'ombre, occasionnellement parmi Mercurialis, Circea ou Urtica $ C. sordescens P. D. Orton
+16,0 $ Spores (10,5)11,3-13,5(14) x 5,6-7,5  µm . Chapeau souvent ± hémisphérique à hémisphériquecampanulé(non conique), Ø->  30 mm, faiblement strié seulement chez les jeunes exemplaires. $ C. semiglobata (Kühn.) ex Kühn. & Watl
+16,17 $ Spores ne dépassant pas 10  µm  de long
+17,0 $ Petite espèce avec des spores ± phaséoliformes en vue de profil, 6-8 x 3-4  µm  $ C. brunneola (Kühn.) ex Kühn. & Watl. (=  ->  C. microspora (Vel.) Svrcek 1983)
+17,18 $ Espèces + grandes à spores ellipsoïdes à faiblement amygdaliformes
+18,0 $ Spores 7,5-10 x 4,2-5,.5  µm . Chapeau Ø->  35 mm, ocre-orangé à brunâtre-ochracé, distinctement strié aux 2/3 $ C. mesospora (Kühn.) ex Kühn. & Watl.
+18,0 $ Spores (6,2)6,7-7,8(8,2) x (4,2)4,5(5)  µm . Chapeau Ø->  20 mm, à couleurs moins gaies que l'espèce précédente, à marge un peu excédente. Col des cheilos étiré. Une partie des basides avec un contenu amorphe $ C. excedens (Kühn.) ex Kühn. & Watl. (=  ->  C. microspora (Vel.) Svrcek 1983)
+19,0 $ Espèce robuste. Chapeau Ø->  40 mm, avec un peu d'olivâtre en pâlissant. Pied à bulbe Ø->  6 mm, ± marginé. Spores 11,5-14(15) x 6,5-8(8,5)  µm . (Réaction NH3 généralement tardive mais pourtant souvent fortement + ensuite) $ C. subovalis (Kühn.) ex Kühn. & Watl.
+19,20 $ Espèces + petites à bulbe du pied moins évident et à spores + petites
+20,0 $ Spores 9-11(12) x 5-6(7,5)  µm  souvent à paroi relativement épaisse. Pore distinct. Chapeau brunocre, brunâtre-rouge, à peine distinctement strié à l'état humide (comme C. rickeniana), bientôt pâlissant sale, s'ouvrant à peine $ C. magnicapitata P.D. Orton
+20,21 $ . Spores un peu + petites, non à paroi épaisse.
+21,0 $ Chapeau humide d'un beau rouille-ochracé vif, ocre-jaune, fortement strié de façon frappante, s'ouvrant largement. Arête des lames finement "ébréchée". Spores 8-10(10,4) x 4,7-5,5  µm , à paroi mince, à pore petit à presque indistinct. Espèce fréquente, pelouses et forêts $ C. rickeniana P. D. Orton
+21,0 $ Chapeau à teintes pâles et sales avec çà et là une légère touche de rougeâtre-vineux, à peine strié, souvent rayé radialement en séchant. Spores (7)7,5-8(10) x 4-5  µm , avec un petit pore germinatif $ C. echinata (Vel.) Sing. (= C. sordida (Kühn.) ex Kühn. & Watl.)
+
+
+
+cs2,0$
+1,0 $ Base du pied à volve peu frappante à évidente (Sect. Singerella). Marge du chapeau en partie avec de minuscules restes de voile. Carpophore généralement robuste. Spores (10,5)11-14(15,3) x 7,5-8,7(9) x 6,5-8  µm, à paroi épaisse, avec un grand pore. Sporée en dépôt épais brun de noix à brun sombre. En été, sur débris de paille et de foin $ C. bornana Singer & Hausknecht
+1,2 $ Base du pied sans volve, autres caractères
+2,3 $ Basides bisporiques …
+2,9 $ Basides tétrasporiques
+3,0 $ Pied robuste (Ø->  5 mm) avec bulbe évident épais de 6-12 mm, souvent marginé ±. Chapeau jaunâtrecuir à café au lait pâle. Spores 14,5-17,5 x 7,5-8 µm $ C. inocybeoides Watling (= C. bulbifera ss Moser, etc.)
+3,4 $ Pied + élancé, le + souvent large de 1-3 mm, avec tout au plus un petit bulbe
+4,0 $ Lames ondulées-plissées et en partie anastomosées, vite collapsées. Habitus semblable à C. lactea. Chapeau Ø->  25 mm, ivoire à crème. Spores 12-16 x 7-10,5 µm $ C. crispa (Longyear) Singer
+4,5 $ Lames à bord entier, non ondulé
+5,6 $ Spores 12-17 µm de long
+5,7 $ Spores 9,5-12(12,5) µm de long
+6,0 $ Espèce fréquente des endroits fumés ou riches en engrais. Chapeau Ø->  30 mm, ochracé pâle,entièrement strié faiblement à non strié, humide brillant gras, de forme digitée-conique, s'ouvrant peu. Spores 12,5-16,8(18) x (7,3)8-10(10,7) m. Caulos rarement un peu élargies $ C. rickenii (J. Schff.) Kühn.
+6,0 $ Chapeau Ø->  15 mm, hémisphérique-campanulé, blanchâtre avec légère tonalité ochracée. Spores 13,5-17 x 7,5-8,5 m. Espèce insuffisamment débrouillée. Prairies et bords herbeux des chemins $ C. siliginea ss Moser 1983
+7,0 $ Chapeau fortement coloré, (jeune et humide, brun à brun sombre, en partie "cognac"; vieux. + clair); largement conique et pointu. Pied avec racine  ->  7 mm. Spores (9)10,3-12 x 7,3-7,8 x 7-7,5 m, souvent lenticulaires (NH3 -) Pelouses sèches $ C. leporina var leporina (Vel.) Singer
+7,8 $ Chapeau + clair et spores différentes
+8,0 $ Chapeau Ø->  20 mm, non strié, très pâle, crème-gris à ocre-gris Lames pas très serrées Pied strié et finement poudré surtout au sommet Caulos en bouteille, fusiformes. Spores 11-12 x 6,5-7 µm $ C. siliginea ss. Watling
+8,0 $ Chapeau Ø->  20 mm, humide ± strié par transparence, blanchâtre à centre + gris-brunâtre ou entièrement argilacé. Lames presque serrées. Pied nu macroscopiquement. Spores 9,5-12,5 x 5,8-7 µm $ C. fuscomarginata var. bispora Singer
+9,10 $ Chapeau très clair, ivoire à crème, en forme de dé ou convexe
+9,11 $ Chapeau + coloré
+10,0 $ Chapeau en dé, conique à forte pente, s'ouvrant à peine. Bulbe à la base du pied. Spores 12-14(15,7) x 7,5-9(10) m. Cheilos à col relativement court et épais. Caulos rarement élargies en tête $ C. lactea (J. Lange) Métrod
+10,0 $ Chapeau convexe à ± hémisphérique. Base du pied renflée. Spores 11,5-13(13,5) x 6,5-7,5 m. Cheilos à col + long et + étroit que pour l'espèce précédente $ C. huijsmanii Watling
+11,0 $ Pied généralement d'une robustesse inhabituelle, fortement clavé, 80-140 x 4-6 mm, base Ø 15-25 mm. Chapeau Ø->  50 mm, ochracé avec un soupçon de cannelle, un peu lubrifié. Spores 11-13,5 x 6,5-7,5(8) µm $ C. elegans Watling
+11,12 $ Pied différent, normalement conformé
+12,13 $ Spores larges de 3,5-5 µm en moyenne et longues de 6-9 m
+12,16 $ Spores + larges en moyenne
+13,14 $ Spores ± fortement colorées sub. micro Lames serrées de façon évidente
+13,15 $ Spores nettement pâles à presque incolores sub. micr., à paroi épaisse. Chapeau Ø-> 15 mm en moyenne
+14,0 $ Spores (6,2)7,2-8,7 x (3,7)4,2-4,7 m. Chapeau Ø 13-37 mm, jaune ochracé à brun-ocre. Cheilos 18- 23 x 7-10 x 4,2-5(5,7) m. Le + souvent sur bois pourri $ C. pilosella (Pers. : Fr.) Kühn.
+14,0 $ Spores (5,5)6-7,5(8) x 3,5-4,5(5) m, sans pore germinatif. Chapeau Ø 11-24 mm, brun-ocre. Cheilos 16-23 x (5,7)8-8,7(11,5) x (2,5)3,5-4,5(4,7) m. A terre $ C. piloselloides Watling
+15,0 $ Chapeau ochracé à brunâtre-ocre, centre brunâtre, crème à ochracé-crème sur le sec. Cheilos vers 17-18 x 7-10 x 2-4(4,5) m. Caulos ovales, très allongées; il y a aussi au sommet du pied quelques cystides capitées isolées. Spores (5,7)7-8(8,7-11) x (3,5)4,5-5(6,2) m. Pore relativement grand mais peu apparent $ C. pallidospora (Kühn.) ex Kühn. & Watl.
+15,0 $ Chapeau brun-ochracé, brun-fuligineux, à centre + sombre, sec brun-gris à gris-crème. Lames à peine serrées à presque écartées. Base du pied rougeâtre sale. Cheilos 14-22 x 6-9 x 2,5-4 m. Il est manifeste qu'il n'y a pas de caulos capitées au sommet du pied. Caulos ovales, clavées, en bouteille et capillaires. (NH3 -). Spores (5,8)6,7-8,5(10) x (3,7)4,2-5(5,3) m. Surtout sur places à feu, endroits herbus $ C. leptospora Zsehieschang
+16,17 $ Spores souvent légèrement hexagonales
+16,18 $ Spores non hexagonales
+17,0 $ Spores 10-12,5 x 6-7 x 7-8,5 m, avec un grand pore. Chapeau brun d'ombre, brun de datte ou brunrougeâtre. Lames ventrues. Sur crottin de cheval $ C. lenticulospora Watling
+17,0 $ Spores 8-9 x 6-7 x 5 m, avec un grand pore. Chapeau ochracé-gris, centre rougeâtre-fauve. Lames peu ventrues. Sur vieilles places à feu $ C. hexagonospora (Metrod) ex Hauskn. & Enderle 1993
+18,19 $ Chapeau seulement à peine strié ou non strié même par l'humidité (en cas de doute, essayer l'autre alternative 18)
+18,20 $ Chapeau strié par transparence au moins dans la jeunesse et par l'humidité (cependant souvent pâlissant vite et par suite non strié sur le sec)
+19,0 $ Chapeau Ø->  33 mm, noir-violet pâle à gris-vineux, gris-souris, fauve-vineux sur le sec. Pied 40-100 x 1,5-2,5 mm. Spores 10,5-12,5 x 6-7 m. Sur vieux crottin de cheval (de haut, aspect de Paneolus sphinctrinus) $ C. murinacea Watling
+19,0 $ Chapeau Ø->  30 mm, fauve pâle, crème à ocre, parfois légèrement lavé de saumon, de rose, de cannelle. Pied 40-90 x 1-2 mm. Spores 10-12 x 6-7 m. Cellules du piléocutis jaune-verdâtre clair avec NH3 (pour la récolte d'Enderlé). Sur terrains fumés, rarement sur fumier lui-même $ C. fuscimarginata (Murrill) Singer
+20,0 $ Espèce généralement robuste des places à feu. Chapeau haut  ->  45 mm, Ø -27 mm, campanulé à campanulé-conique, portant de longues stries serrées, ocre-brun, brun-rougeâtre, souvent noirâtre rouillé au disque. Lames larges 7 3 mm, serrées. Spores 10-11,5(12,2) x 6,5-7,3-7,5 µm ovoïdes $ C. anthracophila (R. Mre & Kühn.) Singer ss Kühn., Moser
+20,21 $ Pas sur places à feu. Carpophores généralement + petits
+21,22 $ Pied à racine ± évidente
+21,23 $ Pied sans prolongement radiculaire
+22,0 $ Chapeau jeune et humide, brun à brun sombre lavé de rougeâtre, pouvant être également flammé ou cognac. Racine  ->  7 mm. (NH3-). Spores (8)8,8-10(11) x (4,5)5,5-6,5(7) m. Sur terre sablonneuse de pelouses à demi sèches $ C. leporina var. tetraspora Singer & Hausknecht
+22,0 $ Chapeau d'ocre miel à une (belle) couleur brun-ocre, parfois ridé en pâlissant. Spores 10,5-13(14) x (6)7-8(8,5) m. Sur bouse ou crottin $ C. siliginea var. neoantipus (Atk.) Kühn. Ss. Kühn. non Atk. (= C. neoantipus ss. Moser 1983)
+23,0 $ Cheilos larges de 11-15 µm (x 16,5-28 x 3,8-4,4 m). Caulos lagéniformes. Chapeau  ->  20 mm, couleur terre de Sienne, ochracé à cannelle. Spores 11-12 x (6,7)7,2-7,8 m, à paroi épaisse. Rare ( -> ). Sur crottin (sec) $ C. fimetaria Watling
+23,24 $ Cheilos moins larges de 2-3 µm en moyenne. Dans l'herbe, les champs, les jardins, les bois clairs, etc
+24,25 $ Chapeau à couleur dominante ochracée (à brunâtre-ocre)
+24,26 $ Chapeau autrement coloré (sans teinte "typique" de Conocybe)
+25,0 $ Spores larges de (5)5,4-6,5 µm (longueur (9)9,2-11,5(12,5) m). Chapeau Ø->  12(23) mm, robuste et d'une couleur ochracée gaie, + clair à la marge, ochracé clair en pâlissant. Cheilos 16-22 x 8-9 x 4 µm $ C. siennophylla (Berk. & Br.) Singer
+25,0 $ Spores larges de (6)6,5-8(8,5) µm (longueur (10)11-13(14) m). Chapeau Ø->  24 mm, ocre à brunâtre, crème sale sur le sec, gris crème, brunâtre pâle. Cheilos 15-25 x 7-11 x 4-5 µm $ C. kühneriana Singer
+26,0 $ Chapeau brun-rouille. brunâtre sombre sale. brun-noisette, en partie lavé d'olivâtre, brun-gris sur le sec, rouillé-gris sombre. Pied blanchâtre-hyalin au sommet, ensuite ochracé, virant à brun-tabac clair à partir de la base. Spores 8.5-11.5(12.5) x 5-7 m. Cheilos 17-25 x 6,5-10 x 3.5-4,5 µm $ C. moseri Watling
+26,0 $ Chapeau d'abord brun-châtain à rouge-brique sombre, allant bientôt vers l'incarnat clair lavé de  ougevineux. Pied ± concolore sur le frais. Spores 8-10,5 x 5-6 m. Cheilos 17-25 x 5,5-8 x 3,5-4,5 µm $ C. fragilis (Peck) Singer (non Galera incarnata J. Schaeffer)
+
+
+cs3,0$
+
+1,5 $ Basides tétrasporiques
+1,2$ Basides autres 
+2,0$. Basides (1 )2-4 sporiques (majorité 2-sporiques). Chapeau Ø (3)56(12) mm, brun-cuivré. terre de Sienne, orangé-brunâtre, très ridé. Lames nettement distantes. Pied court. Spores 7-10(12) x (4)4,5- 6,7(7.5) m. (NH3 -). Pelouses sèches$C. lobauensis Singer & Hausknecht
+2,3 $ Basides 2-sporiques. Champignons généralement + grands, à long pied
+3,0 $ Caulos capitées isolées seules présentes. Chapeau peu à presque pas strié, haut de 20-30 mm, ivoire à crème. Chapeau et lames vite collapsés et presque déliquescents. Lames ± plissées-ondulées et en partie anastomosées. Habitus semblable à C. lactea. Spores 12-16 x 7-10,5 m. Prairies (seulement ?). (rare ?) $ C. crispa (Longyear) Singer
+3,4 $ Caulos formant un mélange ± distinct de cellules capitées et de cellules clavées à ± cylindriques. A l'état frais et humide, chapeau strié presque jusqu'au milieu et (comme la moitié inférieure du pied) assez nettement coloré, par exemple en ocre-rouille, cannelle-fauve, etc.
+4,0 $ Spores (11 )12-14(16) x 6-8(9) m, faiblement amygdalaires de profil. Pied d'abord ± bicolore, très pâle au sommet et rouillé au dessous du milieu. Forêts, dans l'herbe et les feuilles mortes $ C. ambigua Watling
+4,0 $ Spores (14)15-19 x (7,5)8-9(9,5) m, ellipsoïdes de profil comme de face. Chapeau à peine étalé. Parmi les herbes en prairies basoclines, également en zone alpine sur calcaire $ C. rubiginosa Watling
+5,0 $ Pied nettement radicant, très pâle, racine -> 35 mm de long. Chapeau Ø->  20(35) mm, brun-ocre à brunâtre-rouge. Spores (10)10,7-12,6(13,4) x 6,6-7,5(8,5) m. Cheilos 17-25 x 7-10 x 3,44,2 m. A terre où l'on a enfoui du fumier de vache avec de la paille. Nord de l'Italie, Trentin. $ C. cettoina Hauskn. & Enderle 1992
+5,6 $ Pied non (nettement) radicant
+6,0 $ Pied généralement d'une robustesse insolite, en massue épaisse, 80-140 x 4-6 mm et 15-25 mm à la base. Chapeau Ø->  50 mm, ochracé légèrement nuancé de cannelle, un peu gras. Spores 11-13,5 x 6,5-7,5(8) µm $ C. elegans Watling
+6,7 $ Pied autre, conformé "normalement"
+7,8 $ Spores longues de 6-9 µm en moyenne
+7,9 $ Spores nettement + longues
+8,0 $ Marge du chapeau toujours sans flocons de voile. Spores sub .micr. remarquablement pâles à presque incolores, à paroi très mince. Chapeau Ø->  15 mm, ochracé à brunâtre-ochracé, centre brunâtre. Spores (5,5)7-8(8,7-11) x (3,5)4,5-5(6,2) m, à pore germinatif grand et pourtant difficile à voir. Cheilos environ 17-18 x 7-10 x 2-4(4,5) µm $ C. pallidospora (Kühn.) ex Kühn. & Watl.
+8,9 $ . Marge du chapeau ocre à brun-châtain avec des flocons blancs de voiles, ténus ou évidents (parfois fugaces). Spores sub. micr, + nettement colorées que pour l'espèce précédente, certaines faiblement phaséoliformes, munies d'un pore petit mais évident, 7,5-8,5 x 4-4,8(5,2) m. Cheilos (20)25-35(40) x 6-10 x 4-6 µm Pholiotina brunnea (J. E. Lange & Kühn. ex Watl.) Singer
+9,0 $ Odeur et saveur nettement farineuses. Chapeau Ø 8-35 mm, souvent légèrement umboné. Caulos très diverses: arrondies, ellipsoïdes, capitées et capillaires. Spores 11-14 x 7-9 m. Sur crottin de cheval $ C. farinacea Watling (= C. tenera var. farinodora J. Schaeff. ad int. ?)
+9,10 $ Odeur et saveur non farineuse
+10,0 $ Sous les pins dans la litière d'aiguilles et sur débris de bois. Spores (14)15-19 x 8-10(11) m, avec pore -> 2,5 m. Chapeau Ø->  30 mm, rougeâtre-cuivré à fauve orangé, avec sur te frais une très légère pointe d'olivacé $ C. pinetorum Watl. Esteve-Raventos & Moreno
+10,11 $ Autres stations
+11,0 $ Petite espèce. Chapeau Ø 6-12 mm, souvent aussi haut ou + haut que large. Epaisseur du pied 0,5-1 mm. Lames pas très serrées. Cheilos à tête remarquablement petite 2-3(4) m. Spores (11)12-14(16) x 7-8 m. Dans l'herbe $ C. pseudopilosella (Kühn.) ex Kühn. & Watl.
+11,12 $ Espèces + grandes en moyenne. Chapeau Ø 6-30(40) mm. Pied Ø->  2-3,5 mm. Lames un peu + serrées. Tête des cheilos un peu + épaisse
+12,0 $ Spores (12,5)14-17,5(19-22) x 7-9(10) m. Assez rare sur terre fortement fumée ou mélangée à du fumier. Base du pied bulbilleuse. Surtout sur fumier (de cheval) $ C. pubescens (Gillet) Kühn.
+12,13 $ Spores + petites. Carpophores ne poussant pas généralement (directement) sur fumier
+13,0 $ Tête des caulos (celles qui sont ventrues-capitées) Ø 6-10 m. Tête des cheilos Ø 5,5-7,4 m. Spores 11,6-12,4(13) x 6,2-7,4 m. Pied des carpophores généralement avec un petit bulbe évident Ø->  5 mm. Chapeau avec une pointe d'olivacé en séchant. Caulos capillaires au sommet du pied. (NH3 - ou faiblement + seulement après des heures). Dans l'herbe, les pelouses $ C. subovalis (Kühn.) ex Kühn. & Watl. (forma ?)
+13,14 $ Tête des caulos Ø seulement -> 5,5 m
+14,0 $ Spores 10-11,6(13) X 5,8-6,8 m, pas très sor:nbres. Col des caulos ventrues-capitées souvent remarquablement étiré. Caulos 28-42 x 10-16 x 4,5-5,5 m. Tête des cheilos Ø 4-5 m. (NH3 - ou très faiblement +). Couleur du chapeau relativement pâle, même par l'humidité. Pied crème clair. Régions marécageuses, etc. $ C. subpallida Enderle 1991
+14,0 $ Spores (11)12-14(15) x 6-8 m. Col des caulos ventrues-capitées relativement court. Caulos vers 19- 28 x 8-12 x 3,5-4,5(5,5) m. Chapeau (et pied) très colorés, brunâtre-cannelle vif à brunâtrerouge vif. Sur le frais, chapeau et pied avec des poils fins et duvetés dépassant 100 µm (loupe !). généralement dans les  bois $ C. digitalina (Vel.) Singer (= C. subpubescens P. D. Orton = C. cryptocystis ss. Moser)

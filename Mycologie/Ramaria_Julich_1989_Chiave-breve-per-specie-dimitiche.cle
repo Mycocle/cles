@@ -1,0 +1,27 @@
+Titre$ Ramaria Julich Chiave breve per specie dimitiche
+com$ /Adapt gF nov 2013
+rem$LANGUE$Italien
+
+1,60$ Source
+1,65$ Définitions
+
+1,2$ Carpof. terricolo.
+1,4$ *.Carpof. lignicolo.
+2,3$ (1) Ife basali scheletoidi.
+2,0$ *.Ife basali con parete leggerm. grossa, ma non scheletoidi. $ R. suecica
+3,0$ (2) Terricolo. Sp. 8-10,5x4,5-5,3 µm . $ R. pseudogracilis 
+3,0$ *.Spesso lignicolo. Sp. 5-7x3,5-4,5 µm . $ R. gracilis
+4,5$ (1) Sp. piccole, 4-7x3-3,5-4 µm .
+4,6$ *.Sp. più grandi, ca. 7-10 µm .
+5,0$ (4) Specie più frequente. Sp. 5-7x3,5-4,5 µm $ R. gracilis 
+5,0$ *.Specie rara, mediterranea. Sp. 4-6x3-3,5 µm . $ R. bourdotiana
+6,0$ (4) Rizomorfi rosa in KOH. $ R. rubella 
+6,7$ *.Rizomorfi non rosa in KOH.
+7,0$ (6) Rizomorfi monomitici. $ R. apiculata 
+7,0$ *.Rizomorfi dimitici. $ R. stricta
+
+60,0$ Jülich W - Guida alla determinazione dei funghi isbn=8885013481  vol.2  p 104..114
+65,0$ Ramariaceae Corner 1970 ///Carpof. eretto, ramificato, da chiaro a scuro. Monomitico nel carpof., in alcune specie dimitico alla base. Ife generative da ialine a giallastre, con o senza giunti a fibbia. Sp. da gialline a brunastre, elliss., ornamentate, non amiloidi.
+65,0$ Ramaria Holmskj. ex S.F. Gray 1821 /// Sin.: Clavariella P. Karst. 1881; Phaeoclavulina Brinkm. 1897///Carpof. generalm. terricolo, raram. su legno, sempre ramificato, chiaro o scuro. Carne friabile o tenace. Monomitico nel carpof., in alcune specie dimitico alla base del feltro ifale e nei rizomorfi (=subgen. Lentoramaria Corner 1970). Ife generative con o senza giunti a fibbia. Basidi a 2-4 sp. Sp. gialline, ocra o brunastre, elliss., quasi lisce, striate, verrucose o aculeate, con ornamentazione cianofila.///Le».: Corner 1950: 542-637; Corner 1970: 237-283; Marr e Stuntz 1973: 1-232; Petersen 1975: 1-161; Petersen 1981: 1-261.
+
+µm ± 

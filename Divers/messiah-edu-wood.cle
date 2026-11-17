@@ -1,0 +1,618 @@
+gestion de clés mycologiques
+Titre$ Fungi Growing on Wood   
+Com$ tiré de http://www.messiah.edu/Oakes//fungi_on_wood/    adaptée  : décembre 2007
+rem http://www.messiah.edu/Oakes/fungi_on_wood/
+adapt GF  dec 2007
+
+1,cs1$ Bird's Nest $$S"Bird's Nest "
+1,cs2$Club, Coral and Leafy$$S"Club, Coral and Leafy"
+1,cs3$Crust and Parchment  $$S"Crust and Parchment "
+1,cs4$Cup and Saucer$$S"Cup and Saucer"
+1,cs5$Gilled$$S"Gilled"
+1,cs6$Jelly$$S"Jelly"
+1,cs7$Poroid$$S"Poroid"
+1,cs8$Puffball$$S"Puffball"
+1,cs9$Stinkhorn$$S"Stinkhorn"
+1,cs10$Teeth and Spines$$S"Teeth and Spine"
+
+cs1,0$ 
+s"Bird's Nest"
+1,0 $ Fruit body tiny (1.5-3 mm wide), almost spherical at first; white to orange-yellow; opening to form 4-9star-shaped rays and exposing a single, dark spore ball (peridiole) which may be catapulted a distanceof more than 6 m $ Sphaerobolus stellatus
+1,2 $ Fruit body larger, typically 6-10 mm wide and high; numerous “eggs”(peridioles) contained in eachcup (“nest”)
+2,0 $ Peridioles white; interior of cup smooth $ Crucibulum laeve
+2,3 $ Peridioles gray to grayish-brown to blackish
+3,0 $ Cup interior vertically lined or grooved; cup exterior shaggy-hairy $ Cyathus striatus
+3,4 $ Cup interior smooth; cup exterior finely hairy to shaggy-hairy
+4,0 $ Peridioles 2-3.5 mm wide; cup exterior finely hairy, velvety; mouth of cupflaring, margin often wavy $ Cyathus olla
+4,0 $ Peridioles 1-2 mm wide; cup exterior shaggy-hairy (wooly) atleast when young; mouth of cup not conspicuously flaring, margin typically circular $ Cyathus stercoreus
+
+
+cs2,0$
+s"Club, Coral and Leafy"
+gestion de clés mycologiques
+Titre Fungi Growing on Wood/Key to Gilled Fungi / Key to Club, Coral, or Leafy Lettuce-like Fungi
+Com$ tiré de http://www.messiah.edu/Oakes
+
+1,2 $ Fruit bodies occurring either as 1) complex, lettuce-like masses of flattened and wavy-margined branchesor 2) complex, coral-like structures of erect worm-like stalks which branch repeatedly
+1,6 $ Fruit bodies individually simple in appearance, occurring as single, upright, unbranched or sparingly branchedor forked structures which may or may not be tightly packed together
+2,3 $ Branches flattened and wavy-margined, forming complex lettuce-like clusters
+2,5 $ Branches not conspicuously flattened, forming complex, highly branched, coral-like clusters
+3,0 $ Fruit body light to dark reddish brown $ Tremella foliacea
+3,4 $ Fruit body white to pale yellow or pale tan
+4,0 $ Deeply rooting dark brown to black stalk present; individual branches darkest attips $ Sparassis crispa
+4,0 $ Rooting stalk absent; individual branches palest at tips $ Sparassis spathulata
+5,0 $ Fruit body more compact, appearing to be formed of many highly branched, but parallel, upright stalks;branches pointed and without crown-like tips $ Ramaria spp.
+5,0 $ Fruit body with open, candelabra--like structure; branches with crown-like tips $ Clavicorona pyxidata
+6,7 $ Fruit body brown to black, at least in part
+6,10 $ Fruit body various shades of white, yellow, orange or red; in no part black
+7,0 $ Fruit bodies in dense clusters; individual fruit bodies delicate, without internal fleshy tissue, verythin (1-1.5 mm wide), up to 2 cm tall, and appearing as a cylindrical head on narrow, short,shiny, black stalk $ Stemonitis spp.
+7,8 $ Fruit bodies single or clustered; individual fruit bodies greater than 1.5 mm wide, up to 8 cm tall,with internal fleshy tissue which may be quite tough or woody
+8,0 $ Flesh inside brown to black; fruit body unbranched; upper club- like head elongate or not andusually compressed or having a longitudinal furrow, stalk velvety; stalk and head with blackspines (use hand lens) $ Trichoglossum hirsutum
+8,9 $ Flesh inside white; fruit body branched or not; upper portions not compressed or having alongitudinal furrow. External surfaces of the following species may be partly white to buff whenimmature but are mostly black or blackish-brown.
+9,0 $ Fruit body thick (1-3 cm wide); appearing as distorted, finger-like clubs $ Xylaria polymorpha
+9,0 $ Fruit body thin (0.5-1 cm wide), forked, appearing as antler-like clubs $ Xylaria hypoxylon
+10,11 $ Fruit bodies without structural strength, collapsing into a slimy material where touched; whiteto pinkish to red
+10,12 $ Fruit bodies tougher than described above, maintaining structural integrity when touched; whitish orvariously colored
+11,0 $ Fruit bodies whitish, appearing as scattered and clustered masses of tiny, translucent "icicles";individual erect fruit bodies 0.5-1 mm wide and 0.1-1 cm high;branched or simple $ Ceratiomyxa fruticulosa
+11,35 $ Fruit bodies pinkish to reddish, appearing as densely crowded and compressed masseswith the appearance of raspberries; individual erect fruit bodies less than 0.5 mm wide and
+12,0 $ Fruit body very tiny (1-1.5 mm wide, 3-10 mm tall), whitish; occurring on algae-covered,debarked logs $ Multiclavula mucida
+12,13 $ Fruit body not as described above, typically larger, not whitish
+13,14 $ Fruit body consists of a head-like portion borne on a stalk
+13,18 $ Fruit body lacking a stalked head-like portion, occurring as upright cylindrical stalks withpointed tips, branched or not; yellow to yellow-orange; flesh tough and gelatinous
+14,15 $ Head flattened longitudnally in some manner
+14,16 $ Head cap-like, irregularly lobed and convoluted, margins strongly inrolled; not longitudnallycompressed
+15,0 $ Head fan to spoon-shaped with wavy margins, cream colored to yellowish tobrownish yellow; stalk darker in color (ochre to reddish-brown), minutely downy,attached to substrate by orange hairs $ Spathulariopsis velutipes
+15,0 $ Head spoon or tongue-shaped, compressed or longitudinally furrowed; stalkscaly-granular; head and stalk orange to yellow $ Microglossum rufum
+16,0 $ Head dark greenish, stalk yellow to orange yellow $ Leotia viscosa
+16,17 $ Head and stalk more or less the same color
+17,0 $ Fruit body dull yellow to orange-yellow $ Leotia lubrica
+17,0 $ Fruit body pea green to bluish green $ Leotia atrovirens
+18,0 $ Fruit body 1-2.5 cm wide, 2.5-10 cm tall; branching from base with upper branchesusually forked $ Calocera viscosa
+18,0 $ Fruit body up to 3 mm wide and up to 1.5 cm tall; unbranched or sometimes forkedat apex $ Calocera cornea
+35,0 $ mm high $ Tubifera ferruginosa
+
+gestion de clés mycologiques
+gestion de clés mycologiques
+Titre Fungi Growing on Wood/Key to Gilled Fungi / / Key to Crust and Parchment Fungi
+Com$ tiré de http://www.messiah.edu/Oakes
+cs3,0$
+s"Crust and Parchment"
+1,2 $ Fruit body occurring as projecting shelf-like or petal-like caps (parchment-like in texture) with or withoutresupinate (crust-like) portions
+1,6 $ Fruit body without projecting shelf or petal-like caps, appearing 1) as a sheetlike or crustlike spreading formor 2) as swollen, blackish spindle-like growths on twigs or 3) as closely arranged, broken pieces of whitishto grayish to tanish ceramic tile
+2,0 $ Fertile resupinate surface brown with conical setae (use hand lens), surface smooth or cracked; capsbrownish and concentrically zoned; flesh turns blackish with KOH; fruit bodies often fuse laterally to formlarger colonies $ Hymenochaete tabacina complex
+2,3 $ Fertile surface without conical setae; flesh not blackish with KOH
+3,0 $ Cap pale gray/silvery and covered with tiny radiating silky fibers; caps 0.5-1 cm wide but often laterallyfused; fertile surface whitish, growing dead twigs and branches of hornbeam(Carpinus caroliniana) $ Stereum striatum
+3,4 $ Cap typically hairy but color, size, and substrate not as above
+4,0 $ Caps 1-7 cm wide; distinctly zoned with shades of dark brown, rust, and gray; fertile surface buff tocinnamon-buff; typically forming individual brackets rather than fusing $ Stereum ostrea
+4,5 $ Caps 0.3-2 cm wide, zonate, often fused laterally
+5,0 $ Cap covered with coarse, stiff hairs; fertile surface buff to gray $ Stereum hirsutum
+5,0 $ Cap silky hairy, smooth and shiny near margin, radially furrowed; fertile surface orange but fadingto cinnamon-buff, slightly ridged where caps join $ Stereum complicatum
+6,7 $ Fruit body sheetlike, crustlike, spreading in appearance
+6,9 $ Fruit body as swollen, blackish spindle-like growths on twigs or as closely arranged, broken pieces of whitishto grayish to tanish ceramic tiles
+7,0 $ Fruit body soft, fluffy, slimy, yellowish, spreading mass at first; maturing into dry, ochre to red-brownmass up to 20 cm long, 1-3 cm thick; with a brittle crust and blackish, powdery, dryspore mass underneath $ Fuligo septica
+7,8 $ Fruit body hard, blackish, carbon-like
+8,0 $ On decaying hardwood branches, often encircling them; surface finely roughened to nearlysmooth and shiny, sometimes cracked; flesh 1-1.5 mm thick $ Diatrype stigma
+8,0 $ On stumps and roots of decaying hardwoods; surface irregular with bump-like pores giving finelyroughened appearance; flesh 3-6 mm thick; often brittle and easily detached $ Ustulina deusta
+9,0 $ Fruit body as spindle-shaped or as knot-like swellings on cherry (Prunus) twigs andbranches $ Apiosporina morbosa
+9,0 $ Fruit body hard and woody; appearing as closely arranged, small, broken pieces of whitishto pinkish-buff tiles typically on debarked oak logs and stumps $ Xylobolus frustulatus
+
+cs4,0$
+gestion de clés mycologiques
+1,2 $ Fertile surface (inside of cup or if saucer-like, the upper surface) colored yellow or orange to orange-redor green or purplish
+1,9 $ Fertile surface (inside of cup or if saucer-like, the upper surface) 1) whitish and concentrically zoned, 2) entirelywhitish or blackish, or 3) some shade of brown including tan, reddish brown or darker brown
+2,3 $ Fruit body red, orange-red, orange-yellow to dull orange; margin fringed with conspicuous (use hand lens)dark brown or blackish hairs
+2,4 $ Fruit body not with above combination of color and marginal dark hairs
+3,0 $ Fruit body orange-yellow to dull orange; 1.5-5 mm wide $ Scutellinia erinaceus
+3,0 $ Fruit body red, orange-red to orange; 3-15 mm wide $ Scutellinia scutellata
+4,5 $ Fruit body green or yellow or purplish
+4,7 $ Fruit body bright red
+5,0 $ Fruit body green; colonized wood green $ Chlorociboria aeruginascens
+5,6 $ Fruit body yellow or purplish
+6,0 $ Fruit body lemon-yellow $ Bisporella citrina
+6,0 $ Fruit body purplish $ Ascocoryne sarcoides
+7,0 $ Cup-like fruit body borne on a stalk, stalk and cup covered with conspicuouswhite hairs $ Microstoma floccosa
+7,8 $ Fruit body stalked or not; not covered with conspicuous white hairs
+8,0 $ Shallow cup-like fruit body up to 1.3 cm wide; stalk conspicuous $ Sarcoscypha occidentalis
+8,0 $ Shallow, cup-like fruit body 2-5 cm wide; stalk short or lacking $ Sarcoscypha austriaca
+9,0 $ Fertile surface concentrically zoned, 0.5-2 cm wide $ Trametes conchifer
+9,10 $ Fertile surface not zoned
+10,11 $ Fertile surface whitish or blackish
+10,14 $ Fertile some shade of brown including tan, reddish brown or darker brown
+11,12 $ Fertile surface whitish
+11,13 $ Fertile surface blackish
+12,0 $ Fruit body larger (1-3 cm wide), outer surface covered with conspicuousbrownish hairs $ Humaria hemisphaerica
+12,0 $ Fruit body very small (1 mm wide), stalked, and covered with conspicuouswhite hairs $ Dasyscyphus virgineus
+13,0 $ Fruit body an urn-shaped cup, 3-8 cm wide; distinct stalk present $ Urnula craterium
+13,0 $ Fruit body saucer-shaped to flat-topped at maturity, 2-4 cm wide; stalkless $ Bulgaria inquinans
+14,15 $ Flesh of fruit body rubbery-gelatinous
+14,16 $ Flesh of fruit body brittle, not gelatinous or rubbery; fruit body cup to saucer-shaped, and sometimesirregularly shaped with wavy or torn margins
+15,0 $ Fruit body 1-3.5 cm wide, decidedly two-toned with the fertile surface tan to reddish brownand the outer surface blackish-brown and finely hairy $ Galiella rufa
+15,0 $ Fruit body 3-15 cm wide, not distinctly two-toned; fruit body ear-shaped to irregularlycup-shaped with portions of the fruit body irregularly wrinkled or with raised, vein-likemarkings $ Auricularia auricula
+16,0 $ Outer surface similar in color to inner (fertile) surface $ Peziza badioconfusa
+16,0 $ Outer surface whitish $ Peziza repanda
+
+gestion de clés mycologiques
+gestion de clés mycologiques
+Titre Fungi Growing on Wood/Key to Gilled Fungi / /Key to Gilled Fungi
+Com$ tiré de http://www.messiah.edu/Oakes
+
+cs5,0$
+
+1,cs11$ Basidiocarp sessile or with a lateral stem $ Group A
+1,2 $ Basidiocarp with a central to eccentric stem
+2,0 $ Volva present, annulus absent $ Volvariella bombycina
+2,3 $ Volva absent, annulus present or not
+3,cs15 $ Annulus present on upper portion of stipe $ Group E
+3,4 $ Annulus absent on upper portion of stipe
+4,5 $ Edge of gills even
+4,7 $ Edge of gills notched or toothed like a saw or appearing eroded or torn
+5,cs12 $ Gills conspicuously decurrent to subdecurrent $ Group B
+5,6 $ Gills free or if attached, not decurrent
+6,cs14 $ Spore print purple-brown to black $ Group D
+6,cs13 $ Spore print white to buff or pinkish-salmon $ Group C
+7,0 $ Spore print buff, cap pinkish-brown to brown, smooth; gills pinkish brown $ Lentinellus omphalodes
+7,8 $ Spore print pinkish or white
+8,0 $ Spore print pinkish, cap bluish to violet, gill edges dark blue-black $ Leptonia serrulata
+8,0 $ Spore print white, cap brownish-grey, streaked with dark, radial fibers; gills white,may appear torn or eroded; white rhizomorphs at base of stalk $ Megacollybia platyphylla
+
+cs6,0$
+
+gestion de clés mycologiques
+gestion de clés mycologiques
+Titre Fungi Growing on Wood/Key to Gilled Fungi / / Key to Crust and Parchment Fungi
+Com$ tiré de http://www.messiah.edu/Oakes
+
+
+1,2 $ Fruit body blackish or whitish
+1,3 $ Fruit body yellowish to yellow-orange or purplish or brownish
+2,0 $ Fruit body blackish $ Exidia glandulosa
+2,0 $ Fruit body whitish $ Ductifera pululahuana
+3,4 $ Fruit body yellowish to yellow-orange
+3,5 $ Fruit body purplish or brownish; on hardwoods
+4,0 $ Fruit body whitish near point of attachment; grows on conifer logs $ Dacrymyces palmatus
+4,0 $ Fruit body without whitish point of attachment; on hardwood logs $ Tremella mesenterica
+5,0 $ Fruit body purplish; individual fruit bodies cup-like or disc-like up to 1 cm wide but sooncoalesce to form an irregular gelatinous mass $ Ascocoryne sarcoides
+5,6 $ Fruit body brownish (yellowish to reddish to grayish brown)
+6,0 $ Fruit body irregularly cup-shaped or ear-shaped with portions irregularly wrinkled or with raisedvein-like markings, finely tomentose $ Auricularia auricula
+6,0 $ Fruit body not as above, occurring as irregularly-shaped, contorted clusters;not tomentose $ Exidia recisa
+
+
+cs7,0$
+
+gestion de clés mycologiques
+gestion de clés mycologiques
+Titre Fungi Growing on Wood/Key to Gilled Fungi / Key to Poroid Fungi
+Com$ tiré de http://www.messiah.edu/Oakes
+1,2 $ Basidiocarp 1) almost globose; 1-3 cm diameter; on coniferous wood; pore surface coveredby partial veil or 2) basidiocarp extremely small (1-3 mm in diameter), pendent from a stalk-likebase
+1,3 $ Basidiocarp not as above
+2,0 $ Basidiocarp extremely small and pendent $ Porodisculus pendulus
+2,0 $ Basidiocarp globose with pores covered by a partial veil $ Cryptoporus volvatus
+3,4 $ Fertile surface superficially porelike but consisting of a network of shallow pits, wrinkles, andbranched folds with cross-veins
+3,5 $ Fertile surface with 1) distinct round or angular pores, or 2) pores that form tooth-like structures, or 3)sinuous or winding pores very much longer in one direction (mazelike or daedaleoid), or 4) pores thatform gill-like (lamellate) structures
+4,0 $ Upper surface of pileus coral pink, nearly glabrous; projecting up to 8 cm from substrate $ Phlebia incarnata
+4,0 $ Upper surface of pileus white, wooly; projecting up to 1.5 cm from substrate $ Phlebia tremellosa
+5,6 $ Fertile surface with pores that appear as toothlike, mazelike, or lamellate
+5,7 $ Fertile surface with distinct round or angular pores
+6,cs17$ Fertile surface as daedaleoid or lamellate $ Group B
+6,cs16 $ Fertile surface toothlike $Group A 
+7,cs18 $ Basidiocarp hard and woody when fresh and showing more than one layer of tubes (i.e. morethan one year’s growth) when cut vertically down the center (perennial polypores) $ Group C
+7,8 $ Basidiocarps soft, fleshy, leathery, or corky when fresh and showing only one layer of tubeswhen cut down vertically down the center
+8,9 $ Inner substance (context) yellowish brown or darker brown or decidedly pinkish, reddish,yellowish, or orange
+8,10 $ Inner substance (context) white, whitish, pale yellow or very light tan
+9,cs19 $ Context pinkish to reddish or yellowish or orange $Group D
+9,cs20 $ Context yellowish brown or darker brown $Group E
+10,cs21 $ Basidiocarp with a more or less distinct simple or branched stem $Group F 
+10,11 $ Basidiocarp not stemmed (sessile)
+11,12 $ Pore surface distinctly yellow or more or less smoke-colored or black
+11,13 $ Pore surface not as above
+12,0 $ Pore surface distinctly yellow $ Laetiporus sulphureus
+12,cs22 $ Pore surface more or less smoke-colored or black $Group G
+13,0$ Margin of pileus projecting downward 5 mm or more beyond the pore surface; found only on birch (Betula) $ Piptoporus betulinus
+13,14 $ Margin not as above
+14,0 $ Pileus surface more or less entirely brown or blackish; pores white,bruising brownish, flesh watery when young $ Ischnoderma resinosum
+14,15 $ Pileus surface not uniformly brown in color
+15,0 $ Basidiocarp firm and corky, fibrous or tough and leathery whenfresh $ Group I
+15,cs24 $ Basidiocarp firm and corky, fibrous or tough and leathery whenfresh $ Group I
+
+
+
+
+15,cs23 $ Basidiocarp soft and spongy in texture when fresh,context often watery $Group H $
+
+cs8,0$
+Titre Fungi Growing on Wood/Key to Gilled Fungi / Key to Puffball-shaped Fungi
+Com$ tiré de http://www.messiah.edu/Oakes
+1,2 $ Fruitbody small, 0.15-1.5 cm wide and high at maturity
+1,4 $ Fruitbody typically larger than 1.5 cm wide and high at maturity
+2,0 $ Fruitbody velvety; yellowish orange or paler with a yellowish orange hairy membrane(lid) covering the top. Removal of the membrane reveals a number of whitish “eggs” (peridioles) withinthe cup (“nest”) $ Crucibulum laeve
+2,0,N$Note: Other species of bird’s nest fungi, when young, also have membranes covering the peridioles.
+2,3 $ Fruitbody variously colored but not hairy; peridioles absent
+3,0 $ Surface brick red to black, minutely bumpy; sectioning reveals hard, black flesh with minute cavities(perithecia) $ Hypoxylon fragiforme
+3,0 $ Surface pinkish-gray or yellowish-brown or olivaceous-brown; sectioning reveals uniform pinkish, paste-likespore mass when immature, changing to powdery, ochre spore mass when mature $ Lycogala epidendrum
+4,5 $ Fruitbody firm to the touch, hard or woody
+4,7 $ Fruitbody fleshy or soft
+5,0 $ Tough membrane present, covering pores of a poroid fruitbody; membrane eventually opensforming a hole; on conifers $ Cryptoporus volvatus
+5,6 $ Membrane absent, not a poroid fungus
+6,0 $ Fruitbody rounded or flattened; skin thick, tough, yellow-brown, and warted;interior purplish-black, marbled with whitish veins $ Scleroderma citrinum
+6,0 $ Fruitbody rounded, surface blackish at maturity (grayish-white, then reddish-brown when immature),pimply; flesh blackish and concentrically zoned $ Daldinia concentrica
+7,8 $ Fruitbody interior, when sectioned from top to bottom, revealing two or more internal chambersfilled with olive-green slime
+7,10 $ Fruitbody interior without greenish slime in distinct chambers
+8,0 $ Slime occurring as several (more than two) chambers in the upper portion of the fruit body;fruitbody pear-shaped to rounded, white to pinkish, attached to substrate at base by white topinkish rhizomorphs $ Phallogaster saccatus
+8,9 $ Slime appearing as two chambers on either side of a central core of non slime tissue
+9,0 $ Fruitbody, unsectioned, appearing egg-like (oval to pear-shaped); 3.5-6 cm tall and 3-4.5 cm wide;whitish to pinkish; attached to substrate by pinkish rhizomorphs $ Phallus ravenelii
+9,0 $ Fruitbody, unsectioned, appearing egg-like (oval to round or pear-shaped),1-2 cm tall and 1-1.5 cmwide; white to pinkish-red; attached to substrate by white rhizomorphs $ Mutinus spp.
+10,0 $ Interior whitish and spongy, often marbled with pinkish veins; exterior whitish; fruitbodies arebumpy, rounded to irregular masses usually found in association with grayish-brown mushroomswith pinkish gills and a whitish stalk $ Entoloma abortivum
+10,11 $ Interior whitish and fleshy when immature, dry and powdery at maturiy; mature spore masspurple-brown or yellow to olive-brown
+11,0 $ Spore mass purplish-brown when mature.. $ Morganella subincarnata
+11,12 $ Spore mass greenish-brown when mature
+12,0 $ Pear-shaped to nearly round; surface smoothish, yellow-brown, covered at first with minutewarts, granules or spines; opening with a pore on top; fruitbody attached to wood bywhite rhizomorphs $ Lycoperdon pyriforme
+12,0 $ Round to turban-shaped, white, aging to yellow-brown; surface at first covered by longerconical spines with shorter spines and granules between, larger spines break off in age leavingdistinct round scars surrounded by short spines and granules.Opening by a pore on top $ Lycoperdon perlatum
+
+cs9,0$
+
+gestion de clés mycologiques
+gestion de clés mycologiques
+Titre Fungi Growing on Wood/Key to Gilled Fungi /Key to Stinkhorn Fungi
+Com$ tiré de http://www.messiah.edu/Oakes
+
+
+1,0 $ Stalk whitish; distinct head covered with olive brown slime, lower margin of head free from stalk; whiteto pinkish cup (volva) at base of stalk $ Phallus ravenelii
+1,2 $ Stalk pinkish-red to orangish (or white); distinct head lacking; olive-brown slime covering a portion of theupper stalk; white, sac-like volva at base of stalk
+2,0 $ Stalk pinkish red to pinkish-orange, gracefully tapered from middle toward apex; slimy sporemass covering upper 1/3 or ½ of stalk (up to 6 cm) $ Mutinus elegans
+2,0 $ Stalk white to pink to pinkish-red, tapered abruptly at apex; slimy spore mass covering only the upper¼ or less (2-3 cm) of the stalk $ Mutinus caninus
+
+cs10,0$
+gestion de clés mycologiques
+Titre Fungi Growing on Wood/Key to Gilled Fungi / Key to Fungi Bearing Spines or Tooth-like Projections
+Com$ tiré de http://www.messiah.edu/Oakes
+
+
+1,2 $ Caps present, either 1) individually sessile or stalked, or 2) consisting of the reflexed portions of an effused-reflexed growth habit
+1,6 $ Caps absent, fruit body either 1) entirely resupinate or 2) occuring as a mass of pendulous spines
+2,0 $ Fruit body distinctly gelatinous, occurring as stalkless caps 2-8 cm wide or with lateral stalks; upper surface of cap whitish to grayish to brownish; underside covered with short, toothlike, whitish-translucent spines $ Pseudohydnum gelatinosum
+2,3 $ Fruit body not with above combination of traits
+3,4 $ Fruit body effused-reflexed
+3,5 $ Fruit body of sessile or stalked caps, not effused-reflexed
+4,0 $ Caps ochre with whitish margins; fertile surface tan or ochre, whitish toward margin, bearing spines 1-1.5 mm long and often forked $ Steccherinum ochraceum
+4,0 $ Caps white; fertile surface white, bearing white to yellowish flattened teeth 0.5-5 mm long which form from tubes $ Irpex lacteus
+4,0,N$Note: Irpex lacteus is a poroid fungus. It's pores quickly break down (i.e. portions of the walls betweenadjacent tubes disappear) to form tooth-like projections. Check near the margins for evidence of itsporoid nature. Certain other poroid fungi (Key Group A) also develop a tooth-like fertile surface.
+5,0 $ Fruit body consisting of tall (15-30 cm high) clusters of large (10-15 cm wide), stalkless, overlapping yellowish-white caps with toothed or spiny undersurfaces; spines 0.5-2 cm long; fungus occurs on the trunks of living broad-leaved trees $ Climacodon septentrionale
+5,0 $ Fruit body consisting of thin, tough, kidney to fan-shaped to circular caps 2.5-7.5 cm wide with or without a short lateral stalk; caps bear brownish spines 1-3 mm long on undersurface; spines appear fused and forked at their tips; fungus occurs on logs and fallen branches $ Mycorrhaphium adustum
+6,7 $ Fruit body resupinate, appearing crustlike
+6,11 $ Fruitbody occurring as a mass of pendulous spines; usually whitsh but older specimens may be yellowish
+7,8 $ Fruit body whitish or distinctly bright yellow or yellow-orange
+7,10 $ Mushroom tan, ochre or brownish
+8,0 $ Fertile surface white, bearing white to yellowish flattened teeth 0.5-5 mm long which form from tubes (see note above) $ Irpex lacteus
+8,9 $ Fertile surface distinctly bright yellow or yellow-orange
+9,0 $ Fruit body forming spreading patches with downward pointed teeth (5-10 mm long); occurring on fruit trees, particularly apples; odor strong, sweet- fruity or unpleasant $ Sarcodontia setosa
+9,0 $ Fruit body sheetlike with bright orange-yellow, toothed fertile surface and with bright orange rhizomorphs (10-20 cm long) present; teeth 1-4 mm long $ Phanerochaete chrysorhiza
+10,0 $ Fertile surface olive-brown to cinnamon brown; covered with uneven, flattened teeth 3-6 mm long, teeth covered by dark setae (use hand lens) $ Hydnochaete olivaceus
+10,0 $ Fertile surface tan or ochre, whitish toward the margin; covered with spines 1-1.5 mm long and often forked $ Steccherinum ochraceum
+11,0 $ Fruitbody appearing unbranched, occurring as a globose, beardlike mass 10-25 cm wide and high with 2-5 cm long spines (teeth) formed in lines and covering the sides $ Hericium erinaceus
+11,12 $ Fruitbody branched with spines on the branches
+12,0 $ Spines 0.3-1 cm long, hanging more or less evenly in rows along the branches $ Hericium coralloides
+12,0 $ Spines 2-4 cm long, tending to be in tufts at ends of branches but also along the branches as well $ Hericium americanum
+
+
+ cs11,0$
+gestion de clés mycologiques
+Titre Fungi Growing on Wood/Key to Gilled Fungi / groupe A :! Basidiocarp sessile or with a lateral stem.
+Com$ tiré de http://www.messiah.edu/Oakes
+1,0 $ Gill edges notched or toothed, like a saw; cap brownish, densely hairy $ Lentinellus ursinus
+1,2 $ Gill edges even
+2,0 $ Basidiocarps grayish black, very small (2-6 mm wide), found on undersides oflogs $ Resupinatus applicatus
+2,3 $ Basidiocarps not black, typically larger, more prominently displayed
+3,0 $ Spore print brown $ Crepidotus spp.
+3,4 $ Spore print white, lilac-gray, pink or yellowish
+4,5 $ Spore print white or lilac-gray
+4,11 $ Spore print pink or yellowish
+5,6 $ Cap conspicuously hairy or fuzzy
+5,9 $ Cap smooth to minutely hairy or scaly, not distinctly hairy or fuzzy
+6,0 $ Fruiting body larger (2.5-7.5 cm wide); cap pinkish-tan to reddish-brown or tinged violet, tanwith age $ Lentinus strigosus
+6,7 $ Fruiting body small (1-3 cm wide); cap whitish, whitish-gray to brownish
+7,0 $ True gills present, neither crimped nor split lengthwise; cap semi-circular or kidney-shaped;gills brownish to pale cinnamon; bitter taste $ Panellus stipticus
+7,8 $ Gill-like folds either crimped or split lengthwise; folds whitish, gray or pink-tinged
+8,0 $ Folds crimped $ Plicaturopsis crispa
+8,0 $ Folds split lengthwise $ Schizophyllum commune
+9,0 $ Cap flesh thick; cap 5-30 cm wide; cap color white to cream to grayish or grayish-brown;gills white or grayish-white; on logs, stumps, and standing trees of mostly hardwoods; oftengrowing in overlapping clusters $ Pleurotus ostreatus complex
+9,10 $ Cap flesh thin; cap 2.5-10 cm wide
+10,0 $ Cap brownish; gills whitish-gray; stalk short and stubby; on logs andstumps $ Hohenbuehelia petaloides
+10,0 $ Cap white; gills white to cream; stalk absent; on conifers, particularlyhemlock $ Pleurocybella porrigens
+11,0 $ Spore print pink; cap densely fuzzy, yellowish- orange; gills yellow to orange,odor bad $ Phyllotopsis nidulans
+11,12 $ Spore print yellowish
+12,0 $ Cap color a combination of yellow, green, and purple; surface sticky when young,gills yellowish to orangish yellow, not forked or crimped $ Panellus serotinus
+12,0 $ Cap olive-yellow to yellow-brown, surface dry, gills yellowish, forked, often wavyor crimped at least toward base $ Paxillus panuoides
+
+
+cs12,0$
+gestion de clés mycologiques
+Titre Fungi Growing on Wood/Key to Gilled Fungi / groupe B : Gills conspicuously decurrent to subdecurrent.
+Com$ tiré de http://www.messiah.edu/Oakes
+
+
+1,2 $ Cap, stalk or both with conspicuously hairy or velvety areas
+1,4 $ Cap and stalk smooth, without conspicuous hairy or velvety areas although tufts of fibers, matted hairs, and smallscales may be present on some species
+2,0 $ Cap 0.5-2.5 cm wide, base of stalk covered with dense orangish hairs, mushroomsdensely clustered $ Xeromphalina campanella
+2,3 $ Cap typically larger than 2.5 cm wide, mushrooms solitary to grouped or clustered
+3,0 $ Cap convex to flat, brownish; stalk 2.5-10 cm long, up to 3 cm thick, central to eccentric, velvety withblackish-brown hairs; gills yellowish, forked to pore-like near stalk, spore print yellowishto brownish $ Paxillus atrotomentosus
+3,25 $ Cap kidney to fan or funnel-shaped; cap and stalk densely hairy and velvety, pinkish tan to reddish brownwith violet tints, becoming pale ochraceous or tan with age; stalk short and stubby (typically less than
+4,0 $ Spore print salmon pink; aborted forms present in addition to gilled forms $ Entoloma abortivum
+4,5 $ Spore print white to cream, pale yellow, lilac-gray, or brownish
+5,0 $ Spore print brownish; cap brownish, dry to slimy, smooth or covered with matted hairs;flesh, gills, and stalk bruise reddish- brown or brown on handling $ Paxillus involutus
+5,6 $ Spore print white to cream or yellow or lilac-gray
+6,0 $ Spore print yellow; cap brownish; gills golden $ Chrysomphalina chrysophylla
+6,7 $ Spore print white to cream or lilac-gray
+7,8 $ Cap red-orange to orange to yellow-orange
+7,9 $ Cap dark brown to yellow-brown or white to cream or grayish-brown
+8,0 $ Cap 7.5-20 cm wide $ Omphalotus illudens
+8,0 $ Cap smaller, up to 4 cm wide $ Hygrocybe cantharellus
+9,0 $ Cap color white to cream to grayish or grayish-brown; surface smooth, without tuftsof fibers or scales $ Pleurotus ostreatus complex
+9,0 $ Cap yellow-brown with darker brown tufts of fibers or scales; occurs inclusters at base of trees $ Armillaria tabescens
+25,0 $ cm long), eccentric; gills not forked or porelike; spore print white $ Lentinus strigosus
+
+
+cs13,0$
+
+gestion de clés mycologiques
+Titre Fungi Growing on Wood/Key to Gilled Fungi / groupe C : Spore print white to buff or pinkish-salmon
+Com$ tiré de http://www.messiah.edu/Oakes
+
+1,2 $ Spore print white to buff
+1,14 $ Spore print pink or pinkish/salmon
+2,0 $ Cap 5-15 cm wide, whitish at first, with age, becoming tannish, often cracking and forming minute scalesor scaly patches; gills attached, whitish to cream; stalk whitish, stout, eccentric, 5-10 cm long, 1-2 cm thick, oftenbending from point of attachment; occurring singly or in small groups on hardwoods, often from woundson living box elder (Acer negundo) trees $ Hypsizygus ulmarius
+2,3 $ Not with above combination of characteristics
+3,4 $ Cap with conspicuous fibers, fibrous scales, or hairs of a different color than the cap background color
+3,7 $ Cap smooth, without conspicuous hairs or fibrous scales different in color than cap background color
+4,0 $ Gills free, cap with long, radially arranged tawny hairs $ Crinipellis zonata
+4,5 $ Gills attached
+5,0 $ Cap brownish-grey, streaked with dark, radial fibers; gills white; white rhizomorphsat base of stalk $ Megacollybia platyphylla
+5,6 $ Cap yellowish to yellowish-orange; gills yellow; stalk without rhizomorphs
+6,0 $ Cap yellowish with blackish, fibrous scales over the center $ Tricholomopsis decora
+6,0 $ Cap yellowish-orange with reddish, fibrous scales $ Tricholomopsis rutilans
+7,8 $ Basidiocarp very small (caps from 2 mm to 3 cm wide, stalks up to 1.5 mm thick);caps pleated, sunken in center, gills may be attached to a collar
+7,9 $ Basidiocarp larger than above, cap not pleated or sunken in the center
+8,0 $ Cap brownish; stalk velvet-brown; gills attached to a collar; mushroom has afoul odor.. $ Micromphale foetidum
+8,0 $ Cap white; stalk tough, shiny, black; gills may be attached to a collaror to the stalk $ Marasmius rotulu
+9,0 $ Stalk very long (8-20 cm) above ground and having an equally long rooting portionbelow ground, attached to a root; cap brownish and sticky, sometimeswrinkled; gills white $ Xerula furfuracea
+9,10 $ Stalk not as above; mushroom on wood
+10,11 $ Mushroom orangish with conspicuous red-orange gill edges or mushroom reddish-brownwith flesh and stalk exuding blood-red juice where cut
+10,12 $ Mushroom without red-orange gill edges or blood- red juice
+11,0 $ Flesh and stalk exuding blood-red juice $ Mycena haematopus
+11,0 $ Gill edges red-orange $ Mycena leaiana
+12,0 $ Cap sticky and tawny in color; stalk yellowish above and velvety dark below with shortbrown to blackish-brown hairs below; gills cream to yellow $ Flammulina velutipes
+12,13 $ Not as above
+13,0 $ Cap conical to bell-shaped, buff-brown to cinnamon-brown with grayish striate margin;stipe pale grayish-white to dark brown in age, base not covered by white mycelium; odorand taste unpleasant; single or in cespitose clusters on decayedhardwood logs and stumps $ Mycena galericulata
+13,0 $ Cap convex to nearly flat, reddish-brown fading to tan; stalk reddish-brown with basecovered by white mycelium; odor and taste not distinctive; often growing in cespitoseclusters on conifer logs and decayed wood $ Gymnopus acervatus
+14,0 $ Cap reddish to pinkish and conspicuously netted with ridges and pits;gills attached and pinkish $ Rhodotus palmatus
+14,15 $ Cap yellowish or brownish; gills free and pinkish at maturity
+15,0 $ Cap and stalk yellow $ Pluteus admirabilis
+15,16 $ Cap brownish
+16,0 $ Cap brownish; gill edges same color as gill; stalk whitish $ Pluteus cervinus
+16,0 $ Cap dark brown; gill edges dark brown to black; stalk whitish,covered by small dark fibers $ Pluteus atromarginatus
+
+cs14,0$
+gestion de clés mycologiques
+Titre Fungi Growing on Wood/Key to Gilled Fungi / groupe D : Spore print purple-brown to blac
+Com$ tiré de http://www.messiah.edu/Oakes
+
+
+1,2 $ Spore print purple brown
+1,6 $ Spore print black
+2,3 $ Cap yellowish or brick-red
+2,4 $ Cap white or creamy to light brown to dark brown
+3,0 $ Cap brick-red; gills whitish, becoming purplish-gray at maturity $ Hypholoma sublateritium
+3,0 $ Cap yellowish; gills yellow, then greenish, then tinted purple-brownwhen mature $ Hypholoma fasciculare
+4,5 $ Cap smooth, without distinct radial wrinkling; stipe less than 6 mm thick at apex
+4,6 $ Cap distinctly radially wrinkled, brownish fading to tawny; stipe greater than
+5,0 $ Cap creamy white to honey-brown; occurring single to scattered to numerous $ Psathyrella candolleana
+5,0 $ Cap dark brown fading to tan; often occurring in dense, cespitose clusters $ Psathyrella hydrophila
+6,0 $ Cap gray-brown, 5-7.5 cm wide; stalk 1-2 cm thick at apex; gills inky $ Coprinus atramentarius 
+6,0,N$Note: a membrane-like, fibrous ring may be present near the stalk base.
+6,0 $ Cap tawny-brown, 2.5-5 cm wide, with mica-like granules at first;stalk 3-5 mm at apex, gills somewhat inky $ Coprinus micaceus
+6,0 $ mm thick at the apex $ Psathyrella rugocephala
+
+cs15,0$
+gestion de clés mycologiques
+Titre Fungi Growing on Wood/Key to Gilled Fungi / groupe E : Annulus present on upper portion of stipe
+Com$ tiré de http://www.messiah.edu/Oakes
+
+
+1,2 $ Spore print white
+1,5 $ Spore print either orange to rusty orange to rusty brown to brown or purple-brown or darker
+2,0 $ Gill edges serrate; cap whitish with brown scales, stalk scaly $ Lentinus lepidius
+2,3 $ Gill edges even
+3,0 $ Gills strongly decurrent on the stem; veil an evanescent, membranous ring leavingfragments on the cap margin $ Pleurotus dryinus
+3,4 $ Gills attached to stem but not markedly decurrent
+4,0 $ Cap orange and granular; stalk sheathed with orange granules up to ring $ Cystoderma granosum
+4,0 $ Cap yellow brown, sticky, with erect black hairs over the darker center. Associated with blackshoestring-like rhizomorphs under the bark of parasitized trees $ Armillaria mellea
+5,6 $ Spore print orange to rusty orange to rusty brown to brown
+5,12 $ Spore print purple-brown to purple-black
+6,7 $ Cap and stalk covered with conspicuous scales or granules
+6,10 $ Cap and stalk not covered with conspicuous scales
+7,0 $ Basidiocarps solitary to several; cap margin ragged with partial veil remnants;a zone of fibers or a slight ring on the upper stalk $ Phaeomarasmius erinaceellus
+7,8 $ Basidiocarps typically in cespitose clusters
+8,0 $ Cap dry $ Pholiota squarrosa
+8,9 $ Cap sticky to viscid (slimy)
+9,0 $ Cap slimy, scales flat $ Pholiota aurivella
+9,0 $ Cap sticky, scales erect and pointed $ Pholiota squarrosoides
+10,0 $ Basidiocarp large (cap 7.5 – 18 cm wide, stalk 5-18 cm long, 1-3 cm thick);spore print orange to rusty orange $ Gymnopilus spectabilis
+10,11 $ Basidiocarp smaller (cap 2.5-10 cm wide, stalk 3-12.5 cm long, 3-10 mm thick);spore print brown
+11,0 $ Cap dark brown and fading, not cracking; stalk brownish to blackish toward basewith dense white mycelium at base $ Galerina autumnalis
+11,0 $ Cap yellowish-brown, may be cracked to fissured with age; stalk whitish withcordlike white rhizomorphs at base $ Agrocybe acericola
+12,13 $ Annulus membranous
+12,14 $ Annulus not membranous but rather in the form of a conspicuous ring zone of appressed fibers near apexof stalk. Such fibrillose zones may take on the dark color of the spores after sufficient spore depositionand accumulation.
+13,0 $ Annulus evanescent, fragile $ Psathyrella candolleana
+13,0 $ Annulus persistent, conspicuous, segmented on the underside and radially groovedon the upper surface $ Stropharia rugosoannulata
+14,0 $ Cap brick-red; gills whitish, becoming purplish-gray at maturity $ Hypholoma sublateritium
+14,0 $ Cap yellowish; gills yellow, then greenish, then tinted purple-brownwhen mature $ Hypholoma fasciculare
+
+
+polypores
+ cs16,0$
+
+
+rem $ Group A - Poroid fungi with pores that break up to Formtoothlike structures
+1,2 $ Pore surface with purple or violet coloration at least near the margin
+1,3 $ Pore surface without purple or violet tones
+2,0 $ Growing on coniferous wood $ Trichaptum abietinum
+2,0 $ Growing on hardwoods .. $ Trichaptum biforme
+3,0 $ Caplike portion of effused-reflexed (sometimes entirely resupinate) basidiocarp less than 1 cm long, all parts white to cream-colored $ Irpex lacteus
+3,4 $ Caplike portion of sessile or effused-reflexed basidiocarp more than 1 cm long, whitish or not
+4,0 $ Pileus azonate or faintly zonate, margin radially striate; upper surface creamy white to yellowish buff; pores cream to yellowish buff; no thin dark line in context below thepubescence of the cap surface $ Trametes pubescens
+4,0 $ Pileus zonate, margin not radially striate; upper surface white to gray to pale brown but may be greenish due to algae; pores whitish when young, ashy grey to smoky with age; thin dark linein context below the pubescence of the cap surface $ Cerrena unicolor
+
+cs17,0$
+
+rem $ Group B - poroid fungi with a daedaloid or (in part) lamellateFertile Surface
+1,2 $ Inner substance (context) of basidiocarp white or light colored or, if darker, then less than 1 mm thick.
+1,7 $ Inner substance (context) distinctly brown and more than 1 mm thick
+2,0 $ Basidiocarp occurring as large, complex cluster or rosette of large (often 10 cm or more broad),stemmed pilei .. … $ Bondarzewia berkeleyi
+2,3 $ Basidiocarps not as above, not stemmed (sessile), simpler in structure
+3,4 $ Upper surface more or less glabrous
+3,6 $ Upper surface pubescent, strongly zonate
+4,0 $ Pore openings 1-4 mm wide, pore walls about 1 (or more) mm thick; upper surface not typicallyzonate; occurring mostly on oak (Quercus) and chestnut (Castanea) $ Daedalea quercina
+4,5 $ Pore openings 0.5-1.5 mm wide; pore walls less than 1 mm thick; upper surface often concentricallygrooved (sulcate); on various hosts.
+5,0 $ Upper surface grayish to typically brownish, zonate; pores whitish when young, brownish withage; young pore surfaces bruising pinkish-brown $ Daedaleopsis confragosa
+5,0 $ Upper surface mostly white to whitish, not zonate; pores whitish, not bruising $ Trametes elegans
+6,0 $ Marginal pores daedaloid $ Cerrena unicolor
+6,0 $ Marginal pores lamellate $ Lenzites betulina
+7,8 $ Basidiocarp less than 1 cm thick
+7,9 $ Basidiocarp more than 1 cm thick
+8,0 $ Upper surface glabrous, zonate; inner substance very light tan; pores white to brownish, sometimesbruising pinkish-brown; on hardwoods $ Daedaleopsis confragosa
+8,0 $ Upper surface hairy and zonate; inner substance rusty-brown; on conifersonly $ Gloeophyllum sepiarium
+9,0 $ Basidiocarp on a great variety of hardwoods; pores up to 1 mm in diameter, pore wallsless than 1 mm thick $ Daedaleopsis confragosa
+9,0 $ Basidiocarp only on oak (Quercus) and chestnut (Castanea); pore openings 1-4 mm wide,pore walls 1-3 mm thick $ Daedalea quercina
+
+cs18,0$
+rem $ Group C - Poroid Fungi with round or angular pores and morethan one layer of tubes
+1,2 $ Inner substance (context) yellowish brown to darker brown or pinkish to reddish
+1,5 $ Inner substance white or light-colored
+2,0 $ Inner substance rosy pink to pinkish brown $ Fomitopsis cajanderi
+2,3 $ Inner substance yellowish-brown or darker brown
+3,0 $ Basidiocarp typically on living black locust (Robinia); upper surface black, furrowed and cracked;pore surface yellowish to reddish brown $ Phellinus robineae
+3,0,N$Note: There are many other Phellinus species which can only be reliably separated from each otherusing microscopic characters.
+3,4 $ Basidiocarp on various hardwood hosts (living or dead); upper surface not black and cracked but coveredwith a hard crust below which the inner substance is softer; pore surface white or brown
+4,0 $ Basidiocarp hoof-shaped; pore surface brown, not bruising $ Fomes fomentarius
+4,0 $ Basidiocarps flat; pore surface white, bruising dark brown $ Ganoderma applanatum
+5,0 $ Upper surface reddish at first, becoming brownish or blackish, usually with persistent reddish, resinous (sticky)crust on the rounded margin; pore surface whitish to yellowish; occurring on hardwoods andconifers $ Fomitopsis pinicola
+5,6 $ Not as above
+6,0 $ Basidiocarp occurring on the stumps and at the base of living and dead conifers $ Heterobasidion annosum
+6,7 $ Basidiocarp occurring on hardwoods
+7,0 $ Basidiocarp white to cream, older specimens often with moss on top; on living hardwoods only,usually at the base of maple (Acer) $ Oxyporus populinus
+7,0 $ Basidiocarp with blackish, cracked and furrowed upper surface, pore surface light brown; occurringonly on living or dead ash (Fraxinus); $ Perenniporia fraxinophila
+
+cs19,0$
+
+rem $Group D - Poroid fungi with round or angular pores, onelayer of tubes, and a pinkish, reddish, or orangish Context
+1,0 $ Pores separable as independent tubes; basidiocarp fleshy, gelatinous on top;flesh exuding red sap when cut $ Fistulina hepatica
+1,2 $ Pores not separable, basidiocarp not gelatinous; not exuding red sap when cut
+2,0 $ Pore surface pink or pinkish brown; typically on coniferous hosts;context rosy pink to pinkish brown $ Fomitopsis cajandari
+2,3 $ Pore surface deep red or bright reddish-orange when fresh; on hardwoods
+3,0 $ Pore surface bright reddish orange when fresh; pileus surface bright yellowish orange when fresh;basidiocarp soft and watery when fresh; pileus surface cherry red with KOH $ Hapalopilus croceus
+3,0 $ Pore surface deep red; pileus surface orange to cinnabar red when fresh, fading towhite with age; basidiocarp leathery when fresh; pore surface retains color better thanpileus surface $ Pycnoporus cinnabarinus
+
+cs20,0$
+
+rem $ Group E - Poroid Fungi with round or angular pores, onelayer of tubes, and a yellowish brown or darker brown Context
+1,2 $ Basidiocarp with more or less of a distinct stem
+1,3 $ Basidiocarp not with a stem but of the bracket type (sessile)
+2,0 $ Upper surface not varnished; only on conifers, mostly stipitate on ground from roots; contextof uniform texture, not of two layers of different consistency $ Phaeolus schweinitzii
+2,0 $ Upper surface of basidiocarp covered with a red varnish; only on hardwoods $ Ganoderma lucidum
+3,0 $ Upper surface of basidiocarp red varnished $ Ganoderma lucidum
+3,4 $ Upper surface not red varnished
+4,5 $ Growing only on conifers
+4,6 $ Growing on hardwoods
+5,0 $ Pileus glabrous; corky or leathery $ Fomitopsis cajandera
+5,0 $ Pileus tomentose, soft when fresh, brittle when dry $ Phaeolus schweinitzii
+6,0 $ Basidiocarp a more or less globose mass, with many small,closely overlapping pilei $ Globifomes graveolens
+6,7 $ Basidiocarp a single bracket or a few overlapping pilei
+7,0 $ Inner substance of basidiocarp tannish to ochraceous; pore surface white andbruising brown $ Ischnoderma resinosum
+7,8 $ Inner substance yellowish brown or darker brown; pore surface not white and bruising
+8,0 $ Basidiocarp turning violet where touched with KOH $ Hapalopilus nidulans
+8,9 $ Basidiocarp turning black or darker (but not violet) where touched with KOH solution
+9,0 $ Basidiocarp 2.5 - 15 cm wide and up to 2 cm thick; on various dead hardwoodspecies; upper surface dark, rusty brown to black with age, velvety at least on yellow-ochre growing margin $ Phellinus gilvus
+9,0 $ Basidiocarp up to 35 cm wide and 10 cm thick; mostly at base of living oak (Quercus) treescausing a butt and root rot; upper surface yellowish-brown, becoming dark brown andcracking with age, glabrous, margin same color as cap or paler when activelygrowing $ Inonotus dryadeus
+9,0,N$Note: There are many other Inonotus species which can only be reliably separated from eachother using microscopic characters.
+
+cs21,0$
+
+rem $ Group F - Poroid Fungi with round or angular pores, onelayer of tubes, Whitish to light tan context, and a stem
+1,2 $ Upper surface covered with a brownish or reddish, varnish-like layer or crust.
+1,2,N$Note: A varnished layer, if present, is typically hard, glabrous, and shiny or glossy at least when young.Upper surfaces of older varnished specimens may become dull if covered by a layer of deposited spores.
+1,4 $ Upper surface not at all varnished, although sometimes reddish
+2,0 $ Upper surface covered with a brownish varnish, stem black $ Polyporus badius
+2,3 $ Upper surface and stem covered with a reddish varnish
+3,0 $ On coniferous wood only; inner substance creamy white to pale buff $ Ganoderma tsugae
+3,0 $ On hardwoods only; inner substance creamy white $ Ganoderma lucidum
+4,5 $ Pileus upper surface bright orange to salmon colored, without scales; pores small (3-5 per mm)
+4,6 $ Pileus upper surface not bright orange or salmon; if orangish, then caps are scaly and pores arelarge (1-2 mm wide)
+5,0 $ Pore surface bright yellow; occurring as single pilei to imbricate clusters on trunks of treesor fallen logs $ Laetiporus sulphureus
+5,0 $ Pore surface white; occurring as rosettes at base of tree or on ground nearby $ Laetiporus cincinnatus
+6,7 $ Stem more or less branched, giving rise to compound clusters and/or rosettes of laterally stemmedor attached pilei; occurring at the base of trees or from buried roots
+6,9 $ Stem not branched, each stem giving rise to one pileus (Note: stems of 2- 3 pilei may originate from a commonbase); occurring on logs, trunks, and fallen stems.
+7,0 $ Pilei small (mainly less than 7 cm broad) and numerous $ Grifola frondosa
+7,8 $ Pilei larger (often 10 cm or more broad) and not as numerous
+8,0 $ Basidiocarp becoming blackish where handled and on drying $ Meripilus sumstinei
+8,0 $ Basidiocarp not becoming blackish $ Bondarzewia berkeleyi
+9,10 $ Stem black or very dark brown at least in part
+9,12 $ Stem not black or very dark brown
+10,0 $ Pores 0.25 to 2 per mm $ Polyporus squamosus
+10,11 $ Pores 4 to 8 per mm
+11,0 $ Pileus surface chestnut brown to darker $ Polyporus badius
+11,0 $ Pileus surface cinnamon buff to tan $ Polyporus varius
+12,13 $ Stem poorly developed, stubby, lateral; pileus semicircular to kidney-shaped
+12,14 $ Stem well-developed, central to eccentric; pileus circular in outline
+13,0 $ Cap margin not projecting downward; cap orange-yellow to reddish-orange (fading with age)on top, scaly; pores 1-2/mm $ Polyporus alveolaris
+13,0 $ Cap margin projecting downward below the level of the tubes; cap pallid to pale brown on top;pores 3-4/mm $ Piptoporus betulinus
+14,0 $ Pores 2-3 per mm; pileus smoky-brown or smoky-black $ Polyporus brumalis
+14,15 $ Pores 0.5 to 1 per mm; pileus lighter in color
+15,0 $ Cap margin fringed with hairs $ Polyporus arcularius
+15,0 $ Cap margin lacerate, not fringed with hairs $ Polyporus craterellus
+
+
+cs22,0$
+rem $ Group G - Poroid Fungi with round or angular pores, onelayer of tubes, Whitish to light tan context, no stem, anda smoke-colored or black Pore surface
+1,2 $ Pileus surface azonate or faintly zonate
+1,4 $ Pileus surface distinctly zonate; decidedly hairy
+2,0 $ Basidiocarp less than 1 cm thick; pores 6-7 per mm $ Bjerkandera adusta
+2,3 $ Basidiocarp greater than 1 cm thick; pores 2-5 per mm
+3,0 $ Dark layer absent at base of tubes; almost always on willow (Salix); smells of anisewhen fresh. $ Trametes suaveolens
+3,0 $ Dark layer in context at base of tubes; occurring on various hardwoods $ Bjerkandera fumosa
+4,0 $ Pileus not so strongly zonate, pileus grayish white to gray to brownish with zones nearly unicolorousin any given specimen except for darker brown marginal zones $ Trametes hirsuta
+4,0 $ Pileus surface strongly zonate with many narrow differently colored bands $ Trametes versicolor
+
+cs23,0
+
+rem $ Group H - Poroid Fungi with round or angular pores, onelayer of tubes, Whitish to light tan context, no stem, nosmoke Or Black colored pore surface, and a Soft, spongytexture with a watery context
+1,0 $ Pore surface reddish colored when fresh and able to be peeled off in a thinrubbery layer $ Gloeoporus dichrous
+1,2 $ Pore surface not reddish and not able to be peeled off
+2,3 $ Basidiocarp either 1) whitish with tints of blue, or 2) whitish to buff and bruising reddish-brown where handled
+2,4 $ Basidiocarp white to cream to buff or straw colored, not bruising
+3,0 $ Upper and lower surfaces whitish to buff and bruising reddish brownwhere handled $ Oligoporus fragilis
+3,0 $ Upper and lower surfaces whitish with tints of blue, sometimes bruising intensely bluewhere handled $ Oligoporus caesius
+4,0 $ Occurring on conifers; pores 1-2 per mm $ Climacocystis borealis
+4,0 $ Occurring on hardwoods; pores 3-5 per mm $ Tyromyces chioneus
+
+cs24,0$
+rem $ Group I - Poroid Fungi with round or angular pores, onelayer of tubes, Whitish to light tan context, no stem, nosmoke Or Black colored pore surface, and a Corky, fibrous,tough, or leathery texture
+1,2 $ Growing on conifers
+1,3 $ Growing on hardwoods
+2,0 $ Pileus less than 5 mm thick; pore surface with violet coloration $ Trichaptum abietinum
+2,0 $ Pileus up to 5 cm thick; pore surface cream colored $ Heterobasidion annosum
+3,4 $ Pore surface with violet or reddish colors
+3,5 $ Pore surface without violet or reddish colors
+4,0 $ Pore surface reddish when fresh and peeling off in a thin rubbery layer $ Gloeoporus dichrous
+4,0 $ Pores with violet colors $ Trichaptum biforme
+5,0 $ Fruitbody forming small concentrically zoned, cup-shaped structures on top of sessile, whitish,shelf-like portions bearing pores beneath $ Trametes conchifer
+5,6 $ Fruitbody without cup-shaped structures
+6,7 $ Upper surface of pileus zonate
+6,8 $ Upper surface of pileus azonate or faintly zonate; pileus cream or buff-colored
+7,0 $ Pileus not so strongly zonate, pileus grayish white to gray to brown with zonesnearly unicolorous in any given specimen except for darker marginal zones $ Trametes hirsuta
+7,0 $ Pileus zonation conspicuous with many narrow, sharply contrasting, differentlycolored zones $ Trametes versicolor
+8,0 $ Pileus thin (less than 1 cm), up to 6 cm wide; margin radially striate $ Trametes pubescens
+8,9 $ Pileus thick (1-4 cm), 10 or more cm wide; margin not radially striate
+9,0 $ Context separated from tubes by narrow dark layer $ Bjerkandera fumosa
+9,10 $ Context not separated from tubes by narrow dark layer
+10,0 $ Growing on black locust (Robinia) or hackberry (Celtis); does not smell ofanise; 5-7 pores per mm $ Perenniporia robiniophila
+10,0 $ Growing on willow (Salix), anise smell when fresh; 2-3 pores per mm $ Trametes suaveolens
+

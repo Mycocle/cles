@@ -1,0 +1,183 @@
+titre$ AGARICUS/CHIAVE PER LA DETERMINAZIONE DELLE SPECIE EUROPEE
+com$A.M.B. Centro Studi Micologici
+1,10$ notes
+1,0$
+1,0$
+
+1, 2$a Specie a carne ± arrossante al taglio, superfici di regola non ingiallenti per sfregamento; odore sul fresco acidulo, o comunque non simile a mandorle o fenolo; RS-
+1, 4$b Specie a superfici ± ingiallente per sfregamento; odore simile a mandorle o fenolo, non arrossanti al taglio; RS±
+2, CS1$a Specie con anello infero (che si asporta dall'alto verso il basso) crescenti di regola fuori dai boschi$Chiave 1. 1$s"Sezione BITORQUES "
+2, 3$b Caratteri diversi
+3, CS2$a Specie con anello supero, crescenti di regola fuori dai boschi, carne leggermente arrossante al taglio$Chiave 1. 2$s"Sezione AGARICUS "
+3, CS3$b Specie con anello generalmente supero, crescenti di regola nei boschi, carne generalmente molto arrossante al taglio$Chiave 1. 3$s"Sezione SANGUINOLENTI "
+4, CS4$a Specie con odore simile a mandorle, di taglia non piccola, diametro del cappello maggiore di 5-6 cm, RS+ (1)\$Chiave 1. 4$s"Sezione ARVENSES "
+4,0,n$ Due sole specie a RS-: A. aestivalis (Mòller) Pilat e A. cappelli Bohus et Albert; una capricciosa RS±: A. spissicaulis Mòller
+
+4, 5$b Specie con odore di fenolo; o se con odore simile a mandorla allora di piccola taglia, cappello minore di 5-6 cm
+5, CS5$a Specie con odore simile a mandorle, RS+$Chiave 1. 5$s"Sezione MINORES "
+5, CS6$b Specie con odore di fenolo, carne ingiallente alla base del gambo al taglio, spesso con cordoni miceliari, RS-$Chiave 1. 6$s"Sezione XANTHODERMATEI "
+
+
+10,0$ figures tirées de Parra Sanchez$$f"Agaricus_AMB_Capelli.pdf"
+10,0$ RIASSUNTO : ///Viene presentata una chiave di determinazione dicotomica per le specie europee del Genere Agaricus elaborata seguendo la suddivisione presentata da A. Cappelli, 1984 nella sua eccellente monografia AGARICUS L.: Fr.
+10,0$RS± = Reazione di Schaeffer; è una reazione macrochimica, tale reazione si esegue preferibilmente sulla superficie del cappello sia sul fresco che su exsiccata. Essa consiste nel tracciare due linee in croce con due bacchette di vetro, bagnate una in anilina e l’altra in acido nitrico; se nel punto di incrocio compare una colorazione arancio o rosso-fuoco la reazione è positiva e si indica RS+, in assenza di colorazione è negativa e si indica RS-. Sp. = Spore; da ricordare che vanno misurate solo spore mature, sono mature le spore più colorate. In tutte le specie con cheilocistidi il taglio lamellare si presenta sterile pallido, al contrario nelle specie in cui non ci sono i cheilocistidi il taglio lamellare si presenta fertile concolore alla faccia della lamella. Ne segue che la presenza o assenza dei cheilocistidi si può rilevare anche macroscopicamente, basta osservare alla luce le lamelle dei carpofori maturi!!!///Nell’ambito del Genere Agaricus si intende specie di piccola taglia se il diametro del cappello è minore di 5-6 cm. Specie di taglia media se il diametro del cappello è compreso fra 5 e 10 cm. Specie di taglia grande se il diametro del cappello è maggiore di 10 cm.///Negli Agaricus vi sono caratteri importanti particolarmente delicati o addirittura fugaci, quali la conformazione dell’anello e in genere dei residui dei veli, il viraggio di colore delle superfici per sfregamento e della carne al taglio, l’odore, eventuali cordoni miceliari ecc. Per cui bisogna prestare attenzione nella raccolta per non perdere questi caratteri; bisogna osservare anche l’habitat (molto importante per seguire la chiave) e eventuale crescita cespitosa. Fra questi caratteri di primaria importanza è il viraggio della carne al taglio o per manipolazione; occorre tener presente che l’intensità del viraggio è influenzata dalle condizioni climatiche e in particolare dal grado di umidità: la carne di alcune specie che con tempo umido è solo leggermente colorata al taglio, con tempo secco può addirittura risultare iµmutabile. Anche l’odore è molto importante e va valutato sia su esemplari giovani che adulti, nel caso non fosse evidente schiacciare e strofinare la carne fra le dita.Per l’uso delle chiavi nel caso in cui ci si dovesse trovare in condizioni di dubbio, di quale delle due strade scegliere, si provi con una, se non ci porta ad un risultato sicuro si segue l’altra. Esempio: abbiamo effettuato una raccolta nei giardini pubblici, fra alberi e prati, molto probabilmente troveremo un punto in cui viene chiesto, specie crescente nei boschi oppure specie crescente fuori dai boschi, la scelta ovviamente sarà dubbia in tal caso si provano entrambe le strade.///Tener sempre presente ciò che disse Francesco Bellù in quanto all’uso delle chiavi di determinazione: le chiavi di determinazione aiutano solamente nella determinazione, non determinano!!! cioè, quando noi, servendoci di una chiave di determinazione, siamo alfine arrivati ad un punto terminale, cioè ad una specie, non abbiamo ancora determinato il fungo, che vediamo davanti, ma abbiamo solo un ragionevole sospetto sulla sua determinazione. Per confermare questo sospetto bisogna reperire in letteratura una descrizione completa del fungo allo studio, fatta possibilmente da un grosso Autore di notevole affidabilità scientifica o almeno specialista nel gruppo di funghi in questione e vedere se tutte le caratteristiche morfologiche corrispondono oppure no. Solo a questo punto la determinazione può dirsi completa!
+
+
+CS1, 0$
+
+1, 2$a Gambo con due anelli inferi, di cui uno, generalmente quello più basso, può essere dissociato in squamette
+1, 5$b Gambo con un solo anello infero carnoso polposo, o formante una pseudovolva basale membranacea semplice
+2, 0$a Con due anelli inferi ben evidenti, membranosi di taglia media, portamento tozzo, crescente generalmente in parchi margini di strade ecc., di centri abitati; cappello bianco o biancastro, liscio con margine a lungo arrotolato su se stesso; lamelle con taglio sterile pallido, gambo biancastro corto e robusto a base attenuata, carne leggermente virante al rosa rosso-vinoso odore fungino ma anche leggermente anisato, Sp. 5-6x4-5 um, cheilocistidi largamente clavati, RS-$A. bitorquis (Quélet) Saccardo
+ 2, 0, n$ se carne molto spessa con viraggio al rosa rosso vinoso più pronunciato, varietà validus (Mòller) Bon et Cappelli
+2, 3$b Con un solo anello infero ben evidente e uno dissociato
+3, 0$a Specie medio-piccola dal portamento non tozzo, piuttosto esile e slanciato, crescente in terreni sabbiosi prossimi ai litorali, cappello bianco o biancastro liscio, margine leggermente involuto eccedente le lamelle, quasi sempre coperto di sabbia, carne poco arrossante, odore leggero gradevole, Sp 5-6, 5x4-5 µm, cheilocistidi claviformi, RS-$A. devoniensis Orton
+3, 4$b Specie medio-grande dal portamento tozzo
+4, 0$a Cappello biancastro, presto marroncino-rossiccio-grigiastro profondamente screpolato, crescente nei prati, generalmente vicini al mare; margine fortemente involuto, gambo corto, tozzo, carne arrossante molto vivacemente nella zona cappello-gambo, odore sgradevole di pesce, Sp. 5, 5-7x5-5, 5 µm, cheilocistidi claviformi flessuosi, RS-$A. bernardii (Quélet) Saccardo 
+4, 0, n$Se veli di struttura cotonosa, non membranosa, carne non arrossante e odore debole cfr. A. bernardjformis Bohus se privo di cheilocistidi, con carne meno arrossante e odore di Lepiota cristata cfr. A. robynsianus Heinemann)
+4, 0$b Cappello alutaceo o color argilla già nel giovane, con delicate squame fibrillose, crescente sotto alberi o siepi, giardini ecc. margine involuto, gambo tipicamente brevemente acuminato, quasi fusiforme, carne virante al rosso, odore nauseoso di pesce, Sp. 5, 5-7, 5x4, 5-5, 5 µm, cheilocistidi claviformi flessuosi, RS-$A. maleolens Mòller
+5, 0$a Anello in zona mediana, carnoso-polposo di taglia media crescente nei terreni concimati (coltivato), cappello bruno-grigiastro pallido, squamuloso-fibrilloso verso il margine lamelle rosa, gambo cilindrico con base ingrossata, carne soda, virante al rosso-vinoso, basidi bisporici, Sp. 5-7x4, 5-5, 5 µm, cheilocistidi claviformi, RS-$A. bisporus (J. Lange) Imbach
+ 5, 0, n$ se cappello bianco, carne più tenera e meno arrossante, taglia generalmente inferiore, varietà albidus (J. Lange) Singer
+5, 6$b Anello basale che forma una pseudovolva membranosa
+6, 0$a Specie di taglia medio-piccola, generalmente in terreni sabbiosi ma anche nelle serre; cappello bianco un po'ocraceo, sericeo, gambo cilindrico con base attenuata, squamoso sopra la pseudovolva, carne bianca quasi iµmutabile, odore urinoso, Sp. 7-10x5-7 µm, cheilocistidi cilindrico-clavati, RS-$A. gennadii (Chatin & Boudier) Orton
+6, 0, n$  se cappello bianco sfumato di violaceo o di rosa e carne velocemente rosso-sangue al taglio A. volvatus (Pearson) Heinemann
+6, 0$b Specie di grande taglia e portamento robusto, crescente generalmente in luoghi chiusi (serre, stalle) ma anche all'aperto, cappello bianco crema, centro depresso e margine involuto, gambo molto robusto, ventricoso, sopra la pseudovolva ricoperto da squame trasversali grigio-purpuree, carne arrossante, odore gradevole, Sp. 6-7x5-6 µm, cheilocistidi claviformi, RS$A. pequinii (Boudier) Konrad & Maublanc
+
+
+cs2, 0$
+
+1, 2$a Specie con taglio lamellare fertile, concolore alla faccia della lamella (senza i cheilocistidi)
+1, 6$b Specie con taglio lamellare sterile pallido e residui bruni del velo generale sul gambo
+2, 0$a Gambo con base un po'bulbosa e ingiallente, munita di robusto cordone miceliare; cappello bruno-grigiastro-fuliginoso, con margine biancastro, carne rosata al taglio con odore leggero, crescente sotto Robinia in parchi e boschetti, Sp. 6-7x4-5 µm, RS-$A. bresadolanus Bohus, 
+ 2, 0, n$ se taglio lamellare sterile pallido, con cheilocistidi, in luoghi erbosi sotto latifoglie, vedi A. romagnesii Wasser chiave 1. 6, 7b
+2, 3$b Gambo con base non bulbosa (cilindrico, attenuato, o ventricoso) e senza cordone miceliari
+3, 4$a Specie bianche biancastre con squamule brunastre
+3, 5$b Specie completamente brune, bruno-lilla
+4, 0$a Carne leggermente arrossante al taglio con leggero odore acidulo di taglia media, cappello biancastro, sericeo-fibrilloso, lamelle rosa, gambo generalmente attenuato, nel giovane un po' fioccoso, Sp. 7-8x4-5, 5 µm, RS-$A. campestris Linneo: Fries, 
+4, 0, n$se cappello con squamule brunastre, varietà squamulosus (Rea) Pilat, se spore 8-10x5, 5-7 µm, a parete più spessa e poro germinativo evidente A. pampeanus Spegazzini sensu acut. europ. 
+4, 0$b Carne leggermente arrossante al taglio con leggero odore anisato di taglia media, cappello bianco, sericeo-fibrilloso, sovente nell'adulto con larghe squame al centro, portamento che ricorda un Lycoperdon nel giovane, leggermente giallo limone per sfregamento, Sp. 6-7, 5x4, 5-5, 5 µm, RS-$A. floccipes (Mòller) Bohus
+5, 0$a Portamento non tozzo, gambo cilindrico attenuato in basso cappello bruno lilla-porpora nel giovane con squamosità in rilievo, gambo con residui elicoidali incompleti biancastre, ocracee o brune, Sp. 7-9x4-5 µm, RS-$A. cupreobrunneus (J. Schaeff. ex Moll. ) Pil. 
+5, 0$b Portamento tozzo, gambo robusto, spesso ventricoso, cappello bruno-porfirio, molto scuro, radialmente fibrilloso striato gambo bruno-fulvastro alla base, Sp. 5-7x3, 5-4, 5 µm, RS-$A. porphyrocephalus Mòller
+6, 0$a Specie dal portamento robusto, taglia medio-grande cappello marrone scuro, a volte desquamato sino al disco, nel giovane trapezoidale gambo robusto cilindrico-attenuato, anello ampio nei prati vicini ad immondezzai, Sp. 6-7(-8)x5-6 µm, cheilocistidi claviformi non facilmente staccabili, RS-$A. vaporarius (Pearson) Cappelli
+6, 0$b Specie di media taglia, cappello bruno-rossastro a larghe squame appressate, con evidente orlo bianco denticolato, convesso, gambo cilindrico, anello sottile con doppio margine, sotto di esso è presente una zona membranosa circolare biancastra-ocra-bruniccia, Sp. 6-7x4, 5-5, 5 µm, cheilocistidi claviformi, RS-$A. subperonatus (J. Lange) Singer
+
+cs3, 0$
+1, 2$a Specie con gambo cilindrico e base ± bulbosa, Sp. minori di 6, 5 µm
+1, 6$b Specie con gambo a base non bulbosa, di varia forma (cilindrico, clavato o attenuato)
+2, 0$a Gambo con base un po' bulbosa e ingiallente, munita di robusto cordone miceliari vedi$A. bresadolanus Bohus 
+chiave 1. 2, 2a
+2, 3$b Gambo con base bulbosa senza cordoni miceliari
+3, 4$a Nei boschi di conifere (eccezionalmente nelle latifoglie o fuori dal bosco)
+3, 5$b Nei boschi di latifoglie
+4, 0$aCarne molto arrossante al taglio, odore gradevole, cappello con cuticola bruna di tonalità molto variabile, dissociata fuori dal disco in piccole squame su fondo biancastro, anello semplice ma consistente, Sp. 4, 5-6x3-3, 5 µm, cheilocistidi largamente clavati, RS-$A. silvaticus J. C; Schaeffer: Fries
+4, 0$b Carne non arrossante al taglio, arrossante solo sulle lamelle, odore leggero ± simile a quello di Lepiota cristata, cappello bruno scuro, gambo slanciato poco bulboso, squamoso, Sp. 5-6x3-3, 5 µm, cheilocistidi largamente clavati, RS-$A. impudicus (Rea) Pilat
+5, 0$a Cappello color bruno-cioccolato, cuticola normalmente non dissociata o poco dissociata in squamette, sovente cosparso di piccole squame pallide verso il margine (residui del velo generale), gambo nettamente bulboso, squamoso, anello doppio, sovente con tratti bruni verso l'orlo, carne arrossante al taglio, Sp. 4, 5-6, 5x3-3, 5 µm, cheilocistidi largamente clavati$A. haemorrhoidarius Schulzer
+5, 0$b Cappello bianco, solo nell'adulto con leggere tonalità brunicce al disco, dal portamento molto slanciato, macchiantesi di rosso sangue per sfregamento, gambo squamoso, anello doppio, Sp. 5-6, 5x3, 5-4, 5 µm, cheilocistidi clavato-piriformi$A. benesii (Pilat) Singer
+6, 7$a Specie con gambo cilindrico, clavato o attenuato, con cappello bruno almeno nell'adulto squamoso-fibrilloso e spore minori di 7, 5 µm. 
+6, 12$b Specie con gambo cilindrico, con cappello ± bruno squamoso oppure bianco puro e spore comprese fra 7 e 10 µm; anche specie con gambo cilindrico-claviforme e cappello alutaceo (almeno al centro), liscio o solo indistintamente fibrilloso
+7, 0$a Specie di taglia medio-piccola, gambo cilindrico nudo e anello semplice, cappello color nocciola densamente striato da minute fibrille brunastre in rilievo simili a peli, Sp. 5-7(8)x4-4, 5 µm, cheilocistidi claviformi, RS-$A. fuscofibrillosus (Mòller) Pilat
+7, 8$b Specie di taglia media o medio-grande, gambo clavato, attenuato o cilindrico e allora decorato da squame e anello non semplice
+8, 9$a Specie a crescita cespitosa
+8, 10$b Specie a crescita non cespitosa
+9, 0$a Gambo attenuato verso la base, cappello con cuticola bruna, areolata al centro, fuori da questo dissociata in larghe squame triangolari con punta ± rialzata, anello grande doppio con strato esterno infero dissociato in fibrille Sp. 6-7x4, 5-5, 5 µm, cheilocistidi cilindrici o clavati, RS-$A. bohusii Bon
+9, 0$b Gambo cilindrico leggermente clavato, cappello brunastro, poi annerente, con centro quasi appiattito, margine appendicolato, gambo poco separabile con anello corto, carnoso fragile, carne bianca, color zafferano al taglio, virante al rosso-vinoso intenso poi ingrigente, Sp. 5, 5-6-6, 5x4-4, 5-4, 8 µm, cheilocistidi riuniti in corte catene con parte terminale globosa o ellissoidale, RS-$A. boisseletii Heinemann
+10, 0$a Gambo claviforme, verso la base cinto da file dì squame brune, e sovente munita di robusto cordone miceliare, cappello color cioccolato dissociato in squame separate da nette fenditure, anello semplice, carne arrossante solo leggermente, sovente giallo-albicocca verso la base del gambo, Sp. 5, 5-6, 5x3, 5-4, 5 µm cheilocistidi claviformi$A. lanipes (Mòller et J. Schaeff. ) Singer
+10, 11$b Caratteri diversi
+11, 0$a Margine del cappello (nel giovane) cosparso di fiocchi lanosi, anello doppio, di cui quello esterno infero, dentato al margine, cappello bruniccio chiaro, margine biancastro involuto, gambo robusto cilindrico o leggermente clavato, fioccoso, nei boschi di conifere, carne con odore gradevole nel giovane, sgradevole nell'adulto, Sp. 5-7x3, 5-4, 5 µm, cheilocistidi largamente clavati, RS-$A. subfloccosus (J. Lange) Pilat
+11, 0$b Margine del cappello senza fiocchi lanosi, anello doppio, supero, quello esterno dissociato a ruota dentata, cappello inizialmente bianco, poi bruno-grigiastro, brunastro, dissociato in squame, gambo robusto, cilindrico un po'allargato verso la base, fioccoso, nei boschi di conifere, latifoglie, ma anche nei prati, Sp. 5-7x3, 5-4, 5 µm, cheilocistidi claviformi, RS-$A. squamulifer (Mòller) Pilat
+ 11, 0, n$ se cappello colorato in bruno pallido già nel giovane, con cuticola presto lacerata in squame su fondo pallido, varietà caroli (Pilat) Pilat
+12, 13$a Specie con gambo cilindrico, con cappello ± bruno squamoso oppure bianco puro e spore fra 7 e 10 µm
+12, 16$b Specie con gambo cilindrico-claviforme e cappello alutaceo (almeno al centro), liscio o solo indistintamente fibrilloso
+13, 0$a Cappello bianco puro, quasi glabro, gambo quasi cilindrico, leggermente fioccoso o nudo anello supero doppio, di cui la parte esterna dissociata a ruota dentata, Sp. 7, 5-10x4, 5-6 µm, cheilocistidi ovati-piriformi, RS-$A. deylii Pilat
+13, 14$b Cappello non bianco puro
+14, 0$a Cappello con centro ocraceo, e fuori da questo, fondamentalmente biancastro sericeo, con fibrille ocra chiaro, gambo lungo e sottile, flessuoso, profondamente infisso nel terreno si macchia di rosso dove graffiato, Sp. 7, 5-9, 5x4, 5-5, 5 µm, cheilocistidi globoso-piriformi, RS-$A. annae Pilat
+14, 15$b Caratteri diversi
+15, 0$a Cappello con cuticola bruno-ruggine, presto dissociata in fibrille squamulose, gambo non corto, cilindrico minutamente fioccoso; quasi nudo, sfumato di rosa, in boschi di conifere e latifoglie, Sp. 7-9x4-5 µm, cheilocistidi ovato-clavati, RS-$A. langei (Mòller) Mòller
+15, 0$b Cappello con cuticola bruno-violacea, presto dissociata in piccole squame nettamente contrastanti con lo sfondo pallido, gambo corto, cosparso di piccole squame concolori al cappello, in boschi di conifere, talvolta fuori dai boschi, Sp. 6, 5-8, 5x4-4, 5 µm, cheilocistidi largamente clavati o piriformi, RS-$A. mediofuscus (Mòller) Mòller
+16, 0$a Specie con gambo lungo, robusto, claviforme, in boschi di conifere cappello bianco-alutaceo carnicino al centro, spesso largamente umbonato, lamelle con taglio fertile concolore, carne leggermente arrossante al taglio, con odore di Lepiota cristata, anello supero semplice, sottile, Sp. 5, 5-7, 5x4-5 µm, RS-$A. altipes (Mòller) Pilat 
+ 16, 0, n$ se cappello leggermente squamoso, anello doppio e più ampio e crescente sotto latifoglie A. decoratus (Mòller) Pilat
+16, 0$b Specie con gambo cilindrico, sovente flessuoso, crescente sotto arbusti di latifoglie, cappello alutaceo con sfumatura carnicina, più scuro al centro minutamente fibrilloso, anello con, nella faccia inferiore, piccoli denti debordanti dal margine, carne leggermente arrossante al taglio, con leggero odore (non di cristata, non simile a mandorle), Sp. 7, 5-9x4-5 µm, cheilocistidi largamente clavati, RS-$A. depauperatus (Mòller) Pilat
+
+
+cs4, 0$
+
+1, 2$a Specie a cappello colorato di bruno, bruno-ocra o bruno-porpora-vinoso, squamoso, squamoso fibrilloso
+1, 3$b Specie a cappello bianco, bianco-giallastro, alutaceo
+2, 0$a Di taglia medio-grande, in parchi e boschetti, cappello con squame brune di tonalità molto variabile su sfondo paglierino, gambo robusto, squamoso sotto l'anello (squame inizialmente bianche solo tardivamente giallo-ocra), anello supero molto ampio, sottile, rilassato, sul gambo, squamoso nella faccia inferiore Sp. 7-9x5-6 µm, cheilocistidi numerosi per lo più catenulati, RS+$A. augustus Fries, 
+2, 0, n$  se cappello color ocra o bruno-ocra, squame sul gambo e nella faccia inferiore dell'anello facilmente ingiallenti, gambo sovente leggermente bulboso, vari età perrarus (Schulzer) Bon a Cappelli; se cappello molto pallido, quasi bianco, varietà a/bus Moser
+2, 0$b Di taglia media, cappello porpora o bruno-porpora-vinoso, gambo nudo, bianco ma facilmente ingiallente nella metà inferiore, anello supero, semplice sottile, sovente lacerato, Sp. 4, 5-6x3-4 µm, cheilocistidi subsferici, RS+$A. porphyrizon Orton
+3, 4$a Specie crescenti di regola fuori dai boschi
+3, 12$b Specie crescenti nei boschi
+4, 5$a Specie dal portamento non tozzo e spore minori di 10 µm
+4, 8$b Non con questa combinazione di caratteri (Specie dal portamento non tozzo e spore minori di 10 µm)
+5, 0$a Di taglia medio-piccola, gambo con base bulbosa, ornata da sottili squame trasversali membranose (come Amanita muscaria), cappello bianco, carne quasi iµmutabile, con odore leggero complesso lamelle a lungo pallide, con taglio sterile pallido, nei parchi e giardini, Sp. 5, 5-7x3, 5-4, 5 µm, RS+$A. amanitaeformis Wasser
+5, 6$b Di taglia medio-grande, gambo cilindrico anche un po'allargato verso la base, ma non bulboso
+6, 0$a Cappello a lungo bianco neve, nei prati, ma anche nei parchi debolmente giallo citrino per sfregamento, gambo generalmente robusto, da giovane forforaceo nella metà inferiore, anello doppio con faccia inferiore lacerata a ruota dentata, carne con odore simile a mandorle piuttosto pronunciato, Sp. 5-7x4-5 µm, cheilocistidi subsferici, RS+$A. nivescens (Mòller) Mòller
+6, 7$b Cappello bianco-ocraceo al centro o giallo-paglia-ocraceo$7se carne leggermente arrossante al taglio e da giovane con portamento che ricorda un Lycoperdon, senza cheilocistidi, e RS- vedi A. floccipes chiave 1. 2, 4b
+7, 0$a Cappello bianco, ocraceo al centro, alla lunga completamente alutaceo, lamelle a lungo pallide, gambo quasi nudo, anello doppio dissociato a ruota dentata, carne con odore simile a mandorle piuttosto debole, Sp. 6, 5-8x4-5 µm, cheilocistidi subsferici, RS+$A. arvensis J. C. Schaeffer: Fries
+7, 8$b Cappello giallo-paglia-ocraceo già nel giovane, in prati nei pressi dei litorali, con cuticola presto dissociata in fibrille e ± radialmente fessurata, lamelle rosa, gambo non slanciato, da giovane sovente con piccoli fiocchi in rilievo nella parte alta, anello sottile con leggere squame nella faccia inferiore ma non a ruota dentata, Sp. 7-9x4, 5-5, 5 µm, cheilocistidi sferici o a forma di bottiglia, RS+ A. fissuratus (Mòller) Mòller,  (se superfici del cappello e del gambo ± fioccoso-squamose e anello con margine inferiore a ruota dentata, A. macrosporoides Bohus)
+8, 9$a Specie dal portamento tozzo e spore minori di 10 µm
+8, 10$b Specie con spore maggiori di 10 µm
+9, 0$a Di taglia media, crescente nei prati prossimi ai litorali, carne al taglio leggermente rosata, ma con odore simile a mandorle e ingiallente allo sfregamento, cappello biancastro-grigiastro crema, gambo tozzo, liscio, con cordone miceliare, lamelle con taglio sterile pallido, anello supero, Sp. 5-7(-7, 5)x4-5, 5 µm, cheilocistidi cilindrici, RS± (capricciosa)$A. spissicaulis Mòller
+9, 0$b Di taglia grossa, carne con odore complesso non simile a mandorle però superficie ingiallente per sfregamento (anche dopo alcune ore) cappello biancastro-grigiastro rosato, gambo tozzo con residui del velo generale, con cordone miceliare, lamelle con taglio sterile pallido, anello supero, Sp. 7-8(9)x4, 8-5, 6 µm, cheilocistidi clavato-cilindrici. RS+$A. maskae Pilat
+10, 0$a Di taglia medio-grande, dal portamento slanciato e robusto, crescente in boschi o in prati sotto alberi, cappello biancastro, poco ingiallente per sfregamento, gambo lungo e robusto grossolanamente cosparso da squame nella metà inferiore, carne leggermente rosata al taglio ma con odore simile a mandorle debole ma persistente, Sp. (9-)10-12x5-6, 5 µm cheilocistidi quasi sferici, RS+$A. excellens (Mòller) Mòller
+10, 11$b Caratteri diversi
+11, 0$a Di taglia grande o molto grande, dal portamento robusto, nei prati, pascoli di montagna, cappello biancastro o camoscio, gambo corto e molto grosso, nel giovane fusiforme, fioccoso-squamoso sotto l'anello, carne leggermente rosata nel gambo al taglio ma con odore leggero simile a mandorle, Sp. 10-13x6-7 µm, cheilocistidi subsferici, RS+$A. macrosporus (Möller et Schaeff. ) Pilat
+11, 0$b Dì taglia medio-grande, nei prati, cappello color giallo-paglia, completamente cosparso di piccole squame giallo-ocra, gambo fioccoso-squamoso, carne rosata al taglio ma con odore simile a mandorle nel giovane e superfici ingiallenti per strofinio, Sp. 10-13x5, 5-6, 5 µm, cheilocistidi clavati, corti quasi ovali, RS+$A. stramineus (Mòller et Schaeff. ) Singer
+12, 0$a Specie con spore maggiori di 10 µm vedi$A. excellens 
+12, 13$b Specie con spore minori di 10 µm
+13, 14$a Specie con gambo a base bulbosa
+13, 17$b Specie con gambo a base non bulbosa
+14, 15$a Di taglia media e dal portamento slanciato
+14, 16$b Di taglia medio-grande e dal portamento robusto
+15, 0$a Gambo con base bulbosa arrotondata, un po' rosato verso l'apice con anello sottile quasi fugace, sovente lacerato, in boschi di conifere e di latifoglie, cappello bianco bianco-giallastro, fibrilloso sericeo, nudo, lamelle a lungo pallide, Sp. 5-6x3-4 µm, cheilocistidi subsferici, RS+$A. silvicola (Vitt. ) Saccardo
+15, 0$b Gambo con base bulbosa marginata, leggermente fioccoso verso la base, talvolta rosato sopra l'anello, anello ampio, sottile, nella faccia inferiore con squame disposte a ruota dentata, in boschi di conifere, cappello bianco biancastro, sericeo, nudo o leggermente fioccoso verso il margine, lamelle a lungo pallide, Sp. 6-8x4-5, cheilocistidi subsferici, RS+$A. essettei Bon
+16, 0$a Cappello a lungo bianco, nudo o leggermente fioccoso verso il margine, gambo robusto con base bulbosa marginata poco evidente, anello ampio, abbastanza spesso, nella faccia inferiore, formante una ruota dentata ± evidente, Sp. 7-8x4, 5-5 µm, cheilocistidi da quasi sferici a forma di bottiglia, RS+$A. macrocarpus (Mòller) Mòller
+16, 0$b Cappello mai bianco puro, sempre ± giallo-zolfo, cosparso, di squame bianche adnate membranose (residui del velo generale), gambo robusto con base bulbosa arrotondata, fioccoso, anello ampio sottile, Sp. 5-6, 5x4-4, 5 µm, cheilocistidi ovali o a forma di bottiglia, RS±$A. tenuivolvatus (Mòller) Mòller
+17, 0$a Specie crescente in boschi di latifoglie, cappello bianco bianco-grigiastro, iµmutabile, ingiallente solo leggermente dopo alcune ore, gambo gracile, liscio, annerente all'apice, anello semplice, carne con odore debole, Sp. 8-9, 5(-l0)x5, 5-6, 3(-7) µm, cheilocistidi ovati o leggermente clavati, RS-$A. cappellii Bohus et Albert
+17, 0, n$vedi anche A. chinoderma Chiave 1. 4, 19 A
+17, 18$b Specie crescenti in boschi di conifere
+18, 0$a Cappello bianco-paglierino, poi ocraceo, ovunque coperto da piccole squame lanuginose bianche, piuttosto evidenti, gambo ± cilindrico decorato come il cappello, Sp. 6-8x4-5 µm, cheilocistidi subsferici, RS+$A. leucotrichus (Mòller) Mòller
+18, 19$b Caratteri diversi
+19, 0$a Cappello a lungo bianco candido, iµmutabile per sfregamento (ingiallente solo dopo molte ore), gambo profondamente interrato, coperto di squame, anello doppio sovente rivolto verso l'alto, carne con odore molto debole non simile a mandorle, Sp. 7-8(-10)x4, 5-5, 5) µm, cheilocistidi piriformi o clavati, RS+$A. chionoderma Pilat
+19, 0$b Cappello bianco sericeo con sfumatura paglierina, ingiallente, gambo cilindrico liscio, anello sottile e fragile, carne con odore simile a mandorle, lamelle di un bel rosa carne già nel giovane con taglio fertile concolore alla faccia, Sp. 6, 5-8, 5x4-5 µm, RS-$A. aestivalis (Mòller) Pilat
+
+
+cs5, 0$
+1, 2$a Specie crescenti nei prati (gambo cilindrico o attenuato)
+1, 3$b Specie crescenti nei boschi (gambo con base ± bulbosa)
+2, 0$a Con taglio lamellare fertile, concolore alla faccia della lamella, cappello inizialmente bianco sericeo, con disco generalmente colorato di carnicino, lamelle rosa già nel giovane, gambo bianco, giallo ocra alla base, cilindrico o attenuato, Sp. 4, 5-5, 5x3-3, 5 µm, RS+$A. comtulus Fries
+2, 0$b Con taglio lamellare sterile pallido, cappello ocraceo sin da giovane, sericeo, con centro bruno-porpora, depresso, lamelle inizialmente pallide, gambo ingiallente nella metà inferiore, cilindrico o attenuato, Sp. 4-5x3-3, 5 µm, cheilocistidi largamente clavati, RS+$A. lutosus (Mòller) Mòller
+3, 0$a Con taglio lamellare fertile, concolore alla faccia della lamella cappello bianco-sporco, lamelle inizialmente biancastre, gambo cilindrico con base ingrossata, nei boschi umidi di latifoglie, Sp. 4, 5-5x3-3, 5 µm, RS+$A. rusiophyllus Lasch
+3, 4$b Con taglio lamellare sterile pallido
+4, 0$a Cappello sin dall'inizio completamente vinoso o lilla-rossiccio, densamente fibrilloso, di portamento slanciato, gambo cilindrico con base bulbosa, ingiallente, nudo, nei boschi di conifere, Sp. 4-5x3-3, 5 µm, cheilocistidi quasi sferici, RS+$A. purpurellus (Mòller) Mòller
+4, 5$b Non con questa colorazione, se disco lilla-violaceo allora fuori di esso biancastro
+5, 6$a Cappello bianco, biancastro, con disco colorato di bruno-lilacino o completamente bianco
+5, 7$b Cappello colorato sin dall'inizio, paglierino, paglierino-brunastro giallo-ocraceo
+6, 0$a Cappello bianco o biancastro con centro colorato di bruno-lilacino con l'età il colore bianco dello sfondo diviene gialliccio-grigiastro, gambo progressivamente allargato verso la base bulbosa, ingiallente, Sp. 4-5x2, 5-3, 5 µm, cheilocistidi piriformi o quasi sferici, RS+$A. semotus Fries
+6, 0, n$se cappello piccolissimo 0, 8-1 cm a squame pelose dure, nei cespugli e nei parchi, A. minimus (Ricken) Pilat
+6, 0$b Cappello inizialmente bianco puro, poi bianco-crema, ingiallente al minimo tocco, fibrilloso-sericeo, gambo lungo e sottile con base bulbosa ingiallente, Sp. 4, 3-5, 8x3, 3-3, 8 µm, cheilocistidi largamente clavati o quasi sferici, RS+$A. niveolutescens Huijsman
+7, 0$a Cappello inizialmente paglierino, poi brunastro-porporino, dove toccato giallo scuro, cuticola dissociata in squame al disco, margine spesso debordante e denticolato, gambo biancastro che diviene giallo-scuro al tocco, carne virante all'ocra-ruggine, Sp. 5, 5-6, 5x3, 8-4, 5 µm, cheilocistidi quasi sferici, RS+$A. luteomaculatus (Mòller) Mòller
+7, 0$b Dal portamento robusto, cappello giallo-ocraceo, poi con squame fibrillose giallastre su sfondo bianco, lamelle larghe, gambo corto e relativamente robusto con base svasata ingiallente, Sp. 4-5, 5x3-3, 5 µm, cheilocistidi largamente clavati, RS+$A. xantholepis (Mòller) Mòller
+
+cs6, 0$
+
+1, 2$a Specie di portamento slanciato, con gambo cilindrico, non robusto a base ± bulbosa
+1, 4$b Non con questi caratteri (Specie di portamento slanciato, con gambo cilindrico, non robusto a base ± bulbosa)
+2, 0$a Cappello di colore bruno marrone puro, con collare grossolano in rilievo presente nella faccia inferiore dell'anello, bruno, rompentesi in tratti generalmente di diversa lunghezza, gambo slanciato flessuoso, con base nettamente bulbosa ± marginata nudo, sericeo, carne non sempre virante al giallo alla base del gambo, al taglio rosa salmone nella parte alta del gambo, Sp. 5-6, 5x3-3, 5 µm, cheilocistidi largamente clavati, grandi 18-50x12-34 µm, RS-$A. phaeolepidotus (Mòller) Mòller
+2, 3$b Caratteri diversi
+3, 0$a Cappello con cuticola dissociata in minute squame brunastro-fuliginose, piuttosto rade, su sfondo biancastro, gambo bianco vitreo, nudo, sericeo, anello doppio con nella faccia inferiore uno spesso collare biancastro o bruniccio pallido tendente a rompersi in denti, simile ad una ruota dentata, Sp. 4, 5-5, 5(-6)x3-3, 5(-4) µm, cheilocistidi subsferici o piriformi, l0-20x10-14 µm, RS-$A. praeclaresquamosus Freeman, 
+ 3, 0, n$ se cappello con cuticola decisamente nerastra e con squame più fitte mostranti meno evidentemente lo sfondo sottostante, varietà terricolor (Mòller) Bon et Cappelli
+3, 0$b Cappello con cuticola liscia, non dissociata in squame, bianco, o solo leggermente grigiognolo-alutaceo a maturità, anello doppio con un collare aderente talvolta dissociato in denti nella faccia inferiore, Sp. 5-6, 5x3, 5-4 µm, cheilocistidi subsferici, RS-$A. xanthoderma Genevier
+ 3, 0, n$se cappello completamente grigiastro-bruniccio, sovente screpolata, radialmente fessurata, faccia inferiore dell'anello fioccosa e Sp. 5-6x4-4, 5 µm, varietà griseus (Pearson) Bon et Cappelli; se cappello grigiastro-bruniccio presto profondamente screpolato, con squame separate da larghe fenditure, varietà lepiotoides Maire. 
+4, 5$a Specie di portamento non slanciato, piuttosto robusto, con gambo a base non bulbosa (sovente attenuata), e anello a struttura complessa
+4, 7$b Specie non slanciata, con gambo a base non bulbosa e anello semplice
+5, 0$a Cappello biancastro poi sfumato di ocraceo o di grigio-rosa, crescente tra le dune dei litorali, anello doppio strettamente inguainante, odore di fenolo debole, Sp. 7-9(-1 I)x5, 5-6, 5(-7) µm, cheilocistidi claviformi, RS-$A. menieri Bon
+5, 6$b Caratteri diversi (spore minori di 7, 5 µm)
+6, 0$a Di taglia medio-grande, crescente in giardini, parchi, cimiteri ecc. cappello fuligineo brunastro, anche quasi biancastro sporco, squamuloso-fibrilloso, anello con margine ripiegato tre volte, visto dal basso si nota una barruletta circolare adiacente al gambo concolore al cappello, carne fortemente ingiallente alla base del gambo al taglio, e con odore di fenolo pronunciato, Sp. 5, 5-7x4, 5-5, 5 µm, cheilocistidi clavati, RS-$A. pilatianus Bohus
+6, 0$b Di taglia grande e molto robusto, crescente in giardini e parchi delle regioni meridionali, sovente cespitoso, cappello con cuticola bruno-fumo scuro, dissociata in periferia in grosse squame, gambo corto e robusto spesso attenuato, anello con barruletta, carne soda, fortemente ingiallente alla base del gambo con odore di iodoformio, Sp. 6-7, 5x4, 5-5 µm, cheilocistidi clavati, RS -$A. iodosmus Heinemann
+7, 0$a Cappello a rade squame grigio-nocciola su fondo bianco, gambo cilindrico senza evidenti grossi cordoni miceliari, carne leggermente ingiallente alla base del gambo e dopo alcuni minuti virante al rosso-vinoso, odore di fenolo piuttosto debole, Sp. 5-7x4-5 µm, cheilocistidi clavati RS-$A. pseudopratensis (Bohus) Wasser
+7, 0, n$se cappello completamente bianco neve o appena crema pallido al centro, alutaceo nell'adulto, in terreni sabbiosi, varietà niveus Bohus
+7, 0$b Cappello a squame fibrillose grigio-nocciola su sfondo biancastro gambo con base (rigonfia o no) attenuata, con robusti cordoni miceliari, spesso ramificati, carne con odore complesso ± fenico, leggermente arrossante nella parte alta del gambo e leggermente ingiallente alla base, Sp. 6-7, 5(-8)x3, 5-5 µm, cheilocistidi clavati, RS-$A. romagnesii Wasser
+ 7, 0, n$se taglio lamellare fertile, concolore alla faccia, senza cheilocistidi, vedi A. bresadolianus Bohus chiave 1. 2, 2a
+
+

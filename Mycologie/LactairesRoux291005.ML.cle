@@ -1,0 +1,104 @@
+rem gestion de clés mycologiques
+Titre$CLé lactaire roux de  MLecomte 
+Com$ adapt GF dec 2007
+rem ----------
+
+rem mm voir en bas
+1,2$.1.la priorité de caractère à observer est accordée au biotope ou à l’arbre qui abrite l’espèce, car ils sont très typés 1a.
+1,3$2. la priorité de caractère à observer est accordée à l’aspect organoleptique (odeur ou saveur), qui est caractéristique 1b.
+1,4$3. la priorité de caractère à observer est accordée à la couleur du lait, car le biotope, l’hôte ou l’odeur ne sont pas discriminatoires 1c.
+
+2,0$1a. 1. Espèce à couleur d’un roux fauve intense ; saveur extrêmement âcre ; avec très souvent un mamelon aigu dans la dépression du disque ; ubiquiste, mais nette préférence pour les conifères$rufus
+2,14$2. Espèce inféodée uniquement à une essence (arbre) bien précise (aulne, chêne, chêne vert, pin, mélèze … par exemple) 10.
+2,16$3. Espèce inféodée à un type de biotope bien précis (endroits boueux, sphaignes, bord de cours d’eau ou d’étangs …. par exemple) 12.
+2,20$4. Espèces de petite taille (1 à 3(4) cm de diamètre maximum), ubiquiste (Noisetier, Hêtre…), mais ne poussant ni sous Alnus glutinosa, ni sous Alnus viridis 16.
+
+3,12$1b. espèces à odeur nettement définie et interprétable (caoutchouc, géranium, chicorée, topinambour, curry, buanderie …. par exemple) 8.
+4,5$1c. 1. Espèce à lait nettement et indiscutablement blanc  2.
+4,7$2. Espèce à lait nettement aqueux ou séreux, non blanc pur mat 3.
+
+
+5,0$1. Espèce à chapeau micacé, zoné de scrobicules +/- orangés sur fond abricot pâle ; lait blanc devenant jaune vif à l’air en quelques secondes ; sous feuillus, surtout chênes$chrysorrheus
+5,9$2. Espèce à lait blanc jaunissant nettement et rapidement, sur un mouchoir en tissu (moins de 20 secondes) 5.
+5,8$3. Espèce à lait blanc jaunissant nettement mais lente-ment (de 3 à 4 minutes), sur un mouchoir en tissu, et à chapeau orangé à fauve vif 4.
+5,6$4. Espèce à lait blanc, encore immuable après 5 minutes, sur un mouchoir en tissu 3a.
+
+
+
+6,0$3a.1. Sous épicéas d’altitude (+ de 900 m), lait âcrescent (peu âcre), odeur de caoutchouc $aurantiofulvus
+6,0$2. Sous feuillus en plaine, lait nettement âcre, odeur de lessive$aurantiacus
+6,0$3. Ubiquiste, à lait doux, inodore ; essentiellement sous épicéas $mitissimus
+6,0$4. Pied nettement marqué d’un cerne rougeâtre, en des-sous des lames ; reflets lilacins dans les lames ; peu commun, sous feuillus sur sol riche$rubrocinctus
+6,0$5. Lames très nettement décurrentes ; pied sombre (moins que le chapeau) ; lait totalement immuable surle mouchoir$fulvissimus ss. Basso voir RC1 p.169 KR p.480
+
+
+
+
+7,0$. 1. Espèce des endroits boueux et humides (ornières, fos-sés talutés), de couleur variable (brun quasi noir à brun clair), et lames nettement orangées, à couleur s’accentuant avec l’âge, à marge festonnée-flexueuse.$subumbonatus
+7,0$2. Espèce de couleur brun rougeâtre (surtout le pied), semblable à L. camphoratus, mais d’odeur différente (plus proche de L. quietus)$cimicarius
+7,0$3. Espèce beaucoup plus pâle, brun caramel, à lait extrê-mement séreux$serifluus
+
+
+
+
+8,0$. 1. Lames décurrentes par une dent (dessus du pied peu cannelé) ; pied clair (plus que le chapeau) ; chapeau sou-vent uni ; lait jaunissant uniformément sur le mouchoir après quelques minutes (3 à 5) ; sous conifères $subsericatus = britannicus ss. Basso 
+8,0$. 2. Sous charmes (Carpinus betulus) sur sol argilo cal-caire ; chapeau d’un fauve brun sombre très marqué au départ, virant à l’orangé vif ; chapeau à bordure plus claire, jaunâtre$subsericatus var. pseudofulvissimus
+8,0$. 3. Espèce à cuticule veloutée (S.G. Rhizocybe)$ichoratus
+
+9,0$. 1. Espèce poussant sous les aulnes verts (Alnus viridis) en zone subalpine ; chapeau brun olivâtre foncé vieillis-sant en brun rouge plus clair ; lait doux$brunneohepaticus
+9,0$2. Espèce de taille petite à moyenne, ubiquiste (feuillus et épicéas) ; jaunissement très rapide sur le mouchoir, à par-tir du centre de la tache $tabidus
+9,0$3. Lait à jaunissement rapide sur le mouchoir et sur la peau ; cuticule du chapeau fauve chair, de couleur car-née ; odeur normalement pélargoniée $decipiens
+9,10$4. Espèce inodore, ou odeur nettement différente du Pe-largonium ou du Geranium 6.
+
+
+10,11$. espèce inodore ; cuticule du chapeau vivement colorée : brun sombre, brun rouge, bistre …. de taille au moins moyenne (3 à 6 cm minimum) 7.
+10,12$espèce à odeur reconnaissable 8.
+
+11,0$. 1. Espèce à lait doux, poussant surtout sous épicea en altitude (Picea abies) ; cuticule brillante ; jaunissement du lait assez rapide mais faible$badiosanguineus
+11,0$2. Espèce à lait âcre, poussant sous les pins (Pinus sp.) ; cuticule mate, couleur de foie oxydé (pas toujours) ; jau-nissement du lait rapide$hepaticus
+11,0$3. Espèce à lait nettement plus amer que âcre, poussant dans les endroits boueux, en bordure des chemins défon-cés, au bord des mares, des flaques ; cuticule mate et chapeau souvent torturé ; jaunissement du lait peu rapide$lacunarum
+
+12,19$. 1. Nette odeur de chicorée ou de bouillon cube 15.
+12,0$2. Odeur très nette de topinambour (crustacés) ; chair ré-agissant au fer en vert ; espèce de grande taille, à cha-peau mat velouté craquelé ; orangé à jaune rougeâtre$volemus
+12,0$3. Semblable au précédent, mais odeur plutôt d’artichaut ; la chair ne verdit pas au fer$rugatus
+12,0$4. Espèce à odeur nette et définissable de baudruche (ballon à gonfler) ; lait amer après quelques secondes, à peine séreux, interprété souvent comme blanc ; cuticule mate, alutacée, lames nettement décurrentes$subdulcis
+12,0$5. Nette odeur pélargoniée (odeur de géranium) ; lait à jaunissement rapide sur le mouchoir et sur la peau ; cuticule du chapeau fauve chair ; $decipiens
+12,13$6. Odeur peu agréable, qualifiée d’odeur de punaise, ou de buanderie, ou de lessive chaude, ou de feuille de lierre 9.
+
+
+13,0$. 1. Chapeau brun roux rougeâtre terne, mat, mais parfois comme couvert de bave d’escargot séchée, souvent mar-qué de scrobicules marginaux ; lait doux (rarement âcres-cent) et abondant, de couleur légèrement crème, très vite épaissi et coagulé ; inféodé au chêne (Quercus sp.)$quietus
+13,0$2. Chapeau roux pâle, à marge nettement crénelée ; lait très séreux$cremor
+
+14,0$. 1. Inféodé au mélèze (Larix) en moyenne montagne ; cha-peau brillant, orangé à fauve jaunâtre vif ; chair amère, lait doux ou amarescent ; souvent avec une odeur fruitée de mandarine $ porninsis
+14,0$2. Sous épicéas (Picea abies) de moyenne montagne ; chapeau zoné, roux à orange vif ; lait très âcre ; odeur fruitée ; chair nettement rouge brique immédiat à la phé-naniline$bresadolanus
+14,0$3. Inféodé au chêne (Quercus) ; chapeau brun roux rou-geâtre terne, micacé (comme couvert de bave s’escargot séchée), souvent marqué de scrobicules marginaux ; lait doux et abondant ; odeur de lessive, de buanderie$ quietus
+14,0$4. Inféodé au chêne vert (Quercus ilex), sur le littoral atlantique ou méditerranéen ; chapeau roux orangé à bri-que ; base du pied nettement strigueuse $atlanticus
+14,0$5. Inféodé aux pins ; surtout sur sol sablonneux ; couleur assez caractéristique, qualifiée souvent de « foie malade » $hepaticus
+14,15$6. Espèces inféodées à l’aulne (en plaine ou en monta-gne) parfois avec bouleaux mêlés ; graciles, de petite taille (1 à 3(4) cm de diamètre maximum), et à marge plus ou moins striée  11.
+
+15,0$. 1. Espèce poussant sous les aulnes verts (Alnus viridis) en zone subalpine ; chapeau brun olivâtre foncé vieillis-sant en brun rouge plus clair ; lait doux, jaunissant vive-ment sur le mouchoir$brunneohepaticus
+15,0$2. Espèce poussant sous les aulnes en plaine (Alnus glu-tinosa), au bord des rivières ; chapeau souvent plus jau-nâtre que roux +/- strié à la marge $obscuratus var. obscuratus
+15,0$3. Espèce poussant sous les aulnes en plaine (Alnus glu-tinosa), et en moyenne montagne au bord des rivières ; chapeau roux chair, nettement strié à la marge et souvent plus loin que la moitié du chapeau $obscuratus var. radiatus
+15,0$4. Espèce poussant sous les aulnes verts (Alnus viridis) en zone subalpine ; chapeau roux brunâtre, peu strié à la marge $obscuratus var. subalpinus
+15,20$5. Espèces rares, ressemblant à L. obscuratus, avec des caractères particuliers 16.
+
+16,17$. 1. Espèces poussant dans des endroits boueux (ornières, bords de mares, chemins défoncés) 13.
+16,18$2. Espèces typiques des terrains humides acides, avec Alnus, Betula et sphaignes  14.
+
+17,0$. Espèce à lait nettement plus amer que âcre ; cuticule mate et chapeau souvent torturé ; jaunissement du lait peu rapide$lacunarum
+17,0$Petite espèce (5 cm maximum), à couleur tirant parfois nettement vers le brun chocolat ; lames devenant de plus en plus orangées en vieillissant$subumbonatus
+
+18,0$. 1. Espèce typique des endroits humides, souvent avec aulnes, bouleaux et sphaignes ; très petite taille (de 5 à 16 mm) ; couleur jaune orangé brillant ; port nettement omphaloïde$omphaliformis
+18,0$2. Espèce d’altitude, liée aux sphaignes, de tonalité rou-geâtre dominante$sphagneti
+18,0$3. Chapeau de petite taille, mince, à cuticule ocre rosâtre, à dominante claire, à pied long, poussant dans les sphai-gnes, et à bordure du chapeau nettement striée$theiogalus
+
+19,0$. 1. Grande espèce (jusque 15 cm), à chapeau feutré ; lait aqueux et doux ; odeur à dominante proche de celle du curry$helvus
+19,0$2. Espèce de taille moyenne ; forte odeur, encore plus perceptible sur exsiccatum ; lait opalescent à blanchâtre, parfois blanc ; pied et lames nettement violaçant sur les sujets âgés ; pousse souvent sur vieilles souches d’épicéa$camphoratus
+
+20,0$. 1. Disque du chapeau nettement olivâtre et forme typique ; lait jaunissant légèrement, au moins sur le mouchoir $cyathuliformis
+20,0$2. Espèce inodore ; bord du chapeau strié par transpa-rence ; lait blanc et âcre ; très rare$cletrophilus
+
+
+
+
+

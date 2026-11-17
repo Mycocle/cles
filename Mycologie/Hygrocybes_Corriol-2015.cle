@@ -1,0 +1,140 @@
+titre$Clé d’orientation des Hygrocybe de pelouses sèches pour le diagnostic terrain (littoral et étage alpin exclus).
+com$ adapt GF 08/2016
+1,0$source : Gilles Corriol, version 3 octobre 2015
+1,0$Remarques préliminaires./// Le genre Hygrocybe est relativement accessible. Les difficultés de détermination -même si elles existent-, ne sont pas rédhibitoires pour une approche assez large sur le terrain, même sans expérience. Cette clé originale a été conçue spécifiquement dans cet esprit. Elle devrait permettre au néophyte de se faire une idée de la diversité de ses sites d’étude. Certaines espèces pourront être déterminées sur le terrain. Pour d’autres, lorsqu’il s’agit de groupes complexes ou lorsqu'une étude plus approfondie est nécessaire, il est indiqué dans quel groupe on se situe avec la liste des espèces concernées. Volontairement, aucun taxon infraspécifique n’a été intégré. De nombreuses espèces possèdent des variations importantes de coloration de leurs carpophores, aussi, ce caractère n’est pas priorisé dans les clés. Quelques taxons d’autres genres à écologie similaire et à confusion plausible ont été également inclus dans la clé. Certaines espèces apparaissent plusieurs fois dans la clé et les noms des espèces illustrées sont soulignés.
+
+1,100$ Bibliographie complémentaire.
+1,110$Caractères généraux du genre 
+1,120$Caractères macroscopiques important pour l’orientation sur le terrain :
+1,0$Photos$$f"Hygrocybes_Corriol-2015.pdf"
+
+
+
+1,0$
+
+1,2$  Chapeau conique aigu et lames ascendantes, adnexées à sublibres, marge souvent fissile avec l’ouverture du chapeau.
+1,7$ ’. Chapeau convexe, parfois bassement et obtusément conique ; lames échancrées, adnées ou décurrentes.
+2,0$  Chair noircissante à manipulation (carpophores entièrement noirs en vieillissants). $ H. gpe. conica (conica [F], pseudoconica [F], minor [?], cinereifolia [?])
+2,3$ ’. Chair immuable.
+3,0$  Carpophore entièrement vieux rose $ H. calyptriformis [EE]
+3,4$ ’. Carpophore sans rose, avec des teintes jaunes ou oranges, au moins dans les lames et le pied.
+4,0$  Chapeau brun, contrastant avec les lames jaune vif. $ H. spadicea [EE]
+4,5$ ’. Chapeau jaune à orangé-rougeâtre, sans couleur brune.
+5,0$  Chapeau à revêtement gélifié. $ H. gpe. persistens (persistens [M], konradii [M], subglobispora [E]) 
+5,6$ ’. Chapeau sec, soyeux, parfois fibrilleux.
+6,0$  Pied à revêtement fibrilleux, chapeau rouge à orange. $ H. intermedia [EE]
+6,0$ ’. Pied lisse, chapeau jaune citrin à jaune verdâtre, parfois avec du orangé. $ H. gpe. citrinovirens (citrinovirens [EE], brevispora [ EE], cystidiata [ ?])
+7,16$ ’. Pied sec.
+7,8$  Pied à revêtement gélifié, d’aspect visqueux, collant ou gras sur le frais.
+8,0$  Chapeau grisâtre, brunâtre ou blanchâtre, sans couleurs vives. $ H. irrigata [E]
+8,9$ ’. Couleurs plus vives présentes (jaune, orange, rouge, violacé, vert).
+9,0$  Chair à saveur amère. $ H. gpe. mucronella (mucronella[ ?], reae [M])
+9,10$ ’. Chair non amère.
+10,11$  Lames décurrentes à arête gélifiée, translucide sous la loupe (tester à l’aide d’une aiguille : l’arête résiste puis se détache du reste de la lame).
+10,12$ ’. Arête des lames non gélifiée, ces dernières adnées, adnexées ou décurrentes.
+11,0$  Carpophores entièrement jaune vif. $ H. vittelina [E]
+11,0$ ’. Carpophores de couleurs variables, souvent cassées (orangé-brunâtre), parfois mêlé d’olivâtre. $ H. laeta [M]
+12,13$  Couleurs jaune, orange ou rouge, vives.
+12,15$  Couleurs vertes, olivâtres, bleutées, rosâtres, violacées et/ou rouge cassé (rouge brique, brun-rouge)
+13,0$  Carpophores assez charnus, à chapeau large de (1)2-7 cm et pied large de 4- 10 mm ; lames ventrues-ascendantes. $ H. chlorophana [M]
+13,14$ ’. Carpophores grêles, à chapeau large de 0,5-2,5(3) cm et pied large de 1-3 mm ; lames adnées à décurrentes.
+14,0$  Carpophores très visqueux sur le chapeau et le pied ; lames adnées à légèrement décurrentes. $ H. gpe. glutinipes (glutinipes [E], aurantioviscida [E], subminutula [E], ortoniana [ ?])
+14,0$ ’. Carpophore à viscosité moins forte, en particulier sur le pied qui est plus lubrifié que visqueux ; lames adnées à décurrentes. $ H. gpe. insipida ( insipida [M], minutula[ ?])
+15,0$  Carpophores rouge brique assez constant et uniforme, sans teintes vertes. $ H. perplexa [E]
+15,0$ ’. Carpophores de couleur variable, souvent bariolé, avec du vert, de l’olive, du rose, du violacé ou du bleuâtre. $ H. psittacina [F]
+16,17$  Lames arquées-décurrentes ; couleurs peu vives (blanchâtre, brunâtre à tout au plus orangé).
+16,34$ ’. Couleurs vives (jaune, orange, rouge) et lames d’insertion variable ou bien couleurs ternes et lames non décurrentes.
+17,18$  Chapeau à revêtement sec, mat, non lubrifié, généralement non strié.
+17,27$ ’. Chapeau à revêtement d’aspect gras ou lubrifié, brillant, strié à la marge sur le frais et +/- hygrophane.
+18,0$  Grosse espèce grise à lames blanches peu épaisses, à pied clavé et spongieux, à odeur cyanique ou fruitée écœurante, à chapeau 4-10 cm, mat, à marge souvent pruineuse et guttulée. $ Ampulloclitocybe clavipes
+18,19$ ’. Espèces soit plus petites soit plus vives, soit à revêtement non mat, à lames plus nettement épaissies.
+19,20$  Carpophores petits, fragiles, à chapeau 0,5-2,5(3) cm, à revêtement micacé à velouté, très hygrophane ; stipe à revêtement lisse, polit, brillant ou floconneux ; lames souvent sombres dans les sinus à maturité. $$S "Genre Camarophyllopsis"
+19,25$ ’. Carpophores plus gros et plus tenaces, à chapeau (2)4-7(10) cm, à revêtement glabre ou fibrilleux, non hygrophane ; stipe mat et fibrilleux. ; lames ne devenant pas sombres.
+20,21$  Chapeau à revêtement velouté.
+20,22$ ’. Chapeau à revêtement micacé.
+21,0$  Chapeau brunâtre à beige. $ C. schulzeri [EE]
+21,0$ ’. Chapeau gris. $ C. atrovelutina [EE]
+22,0$  Teintes jaunes présentes, au moins au niveau du pied. $ C. gpe micacea (micacea [EE], phaeoxantha [EE])
+22,23$ ’. Teintes jaunes absentes
+23,0$  Odeur très forte, fétide et âcre. $ C. foetens [E]
+23,24$ ’. Odeur non remarquable.
+24,0$  Pied couvert de flocons noirâtres contrastant fortement sur le fond beige-grisâtre. $ C. atropuncta [E]
+24,0$ ’. Pied sans flocons ou à flocons peu remarquables. $ C. phaeophylla [E]
+25,0$  Couleur orangée cassée à orangée-brunâtre. $ H. pratensis [F]
+25,26$ ’. Couleurs blanchâtres, beiges ou grisâtres.
+26,0$  Chapeau blanc à légèrement ocracé. $ H. gpe. berkeleyi (berkeleyi [E], borealis [ ?], ochraceopallida [ ?])
+26,0$ ’. Chapeau gris. $ H. canescens [EE]
+27,28$  Teintes grises présentes dans le chapeau et les lames, parfois à reflets bleutés ou violacés.
+27,30$ ’. Chapeau à teintes blanchâtres, ocracées ou brunes ; teintes grises absentes du carpophore.
+28,0$  Pied lisse, comme poli ; odeur désagréable, terreuse et saveur acidulée ou rance. $ H. lacmus [EE]
+28,29$ ’. Pied entièrement fibrilleux de blanchâtre ; odeur et saveur peu remarquables.
+29,0$  Base du pied franchement jaune. $ H. flavipes [E]
+29,0$ ’. Pied à base blanchâtre, sans teinte jaune évidente $ H. gpe. radiata (radiata [ E], rigellae [ ?], cinerea [?])
+30,0$  Chapeau brun. $ H. colemanniana [E]
+30,31$ ’. Chapeau plus pâle, tout au plus ocracé.
+31,0$  Odeur aromatique forte, caractéristique (de cuir de Russie). $ H. russocoriacea [E]
+31,32$ ’. Odeur faible, non caractéristique.
+32,0$  Chapeau entièrement blanc à crème, uniforme. $ H. virginea [F]
+32,33$ ’. Chapeau ocracé, au moins au disque.
+33,0$  Carpophores uniformément ocracé-carné. $ H. cereopallida [M]
+33,0$ ’. Chapeau ocracé-brunâtre au centre, blanchâtre, contrasté à la marge. $ H. fuscescens [E]
+34,35$  Couleurs ternes (grisâtre, brunâtre, noirâtre) ; lames échancrées, adnexées à adnées.
+34,43$ ’. Couleurs vives (jaune, orange, rouge) ; lames le plus souvent adnées ou décurrentes, parfois échancrées.
+35,36$  Odeur d’acide nitrique (proche du chlore, eau de Javel).
+35,37$ ’. Odeur non nitreuse.
+36,0$  Chapeau à revêtement lisse, chair roussissante à rougissante à la coupe. $ H. ingrata [E]
+36,0$ ’. Chapeau à revêtement fibrillo-squamuleux, chair immuable. $ H. nitrata [E]
+37,38$  Carpophores rougissants à la manipulation et à la coupe.
+37,41$ ’. Carpophores non rougissants.
+38,39$  Odeur et saveur de farine fraîche ou rance ; lames relativement minces et non typiquement espacées.
+38,40$ ’. Chair sans odeur ni saveur remarquables ; lames typique du genre, épaisses, espacées et cireuses.
+39,0$  Carpophores robustes, à chapeau large de 5-10 cm et pied large de 10-20 mm, à 40-50 lames ; chapeau et pied brun-gris. $ Porpoloma metapodium [EE]
+39,0$ ’. Carpophores plus grêles, à chapeau large de 2,5-5 cm et pied large de 4- 12 mm, à 28-40 lames ; pied beaucoup plus pâle que le chapeau. $ Dermoloma magicum [EE]
+40,0$  Carpophores entièrement noirâtres. $ H. ovina [EE]
+40,0$ ’. Pied et lames blanchâtres. $ H. fornicata [E]
+41,0$ ’. Pas d’odeur de farine fraîche ; lames plus typique du genre, plus épaisses et espacées. (Si les lames sont largement adnées, revenir à 16). $ H. fornicata [E]
+41,42$  Odeur de farine fraîche ; lames relativement minces et non typiquement espacées.
+42,0$  Chapeau à tendance conique, à revêtement fibrilleux radialement. $ Porpoloma pescaprae [EE]
+42,0$ ’. Chapeau convexe, à revêtement absolument pas fibrilleux, mat, micacé. $ Genre Dermoloma [E] (difficile)
+43,44$  Chapeau à revêtement velouté à squamuleux, jamais gélifié ni lubrifié.
+43,47$ ’. Chapeau à revêtement lisse ou tout au plus chagriné, gélifié ou non.
+44,0$  Odeur de miel, chapeau à revêtement légèrement feutré à furfuracé sur le tard. $ H. reidii [M]
+44,45$ ’. Odeur non remarquable, chapeau plus nettement squamuleux.
+45,0$ ’. Lames adnées ou échancrées, parfois légèrement décurrentes par une dent, mais non arquées-décurrentes. $ H. gpe. miniata (miniata [M], calciphila [E])
+45,46$  Lames nettement arquées-décurrentes.
+46,0$  Squamules teintées de brun foncé à noirâtre. $ H. turunda [EE]
+46,0$ ’. Squamules concolores au chapeau. $ H. cantharellus [E]
+47,48$  Carpophores assez robustes, pied large de 4-15 mm, chapeau large de (2)3-8(10) cm souvent conique ou mamelonné ; lames adnexées à adnées ou échancrées.
+47,53$ ’. Carpophores plus grêles, stipe large de 1-4(6) mm, chapeau large de 0,3-3,5(5) cm, convexe à plan ; lames largement adnées à décurrentes.
+48,49$  Chapeau jaune à orangé.
+48,51$ ’. Chapeau rouge vif intense.
+49,0$  Odeur de punaise, chapeau sec ou faiblement lubrifié ; pied jaune, orangé vers le sommet, glabre ; lames à maturité jaune-orangé, plus foncées que le chapeau. $ H. quieta [M]
+49,50$ ’. Odeur non remarquable, chapeau généralement plus nettement gélifié, pied jaune, glabre ou fibrillo-pruineux de blanc ; lames concolores au chapeau ou plus pâles. (La distinction des deux espèces suivantes peu s’avérer difficile sur le terrain).
+50,0$  Chapeau conique à largement mamelonné, très hygrophane, orangé à orangé-rougeâtre, plus rarement jaune ; pied jaune, à revêtement fibrillo pruineux de blanc, en particulier au sommet, plus pâle que le chapeau. $ H. aurantiosplendens [EE]
+50,0$ ’. Chapeau hémisphérique puis plan-convexe, un peu hygrophane, jaune à jaune-orangé ; pied glabre ou légèrement pruineux, concolore au chapeau. $ H. euroflavescens [M]
+51,0$  Pied à revêtement entièrement fibrilleux ; chair jaune pâle, blanche au moins dans la base du pied. $ H. punicea [E]
+51,52$ ’. Pied à revêtement entièrement lisse ; chair jaune-orangé à rougeâtre dans tout le carpophore (mais du mycélium blanc peut enrober la base du pied).
+52,0$  Chapeau à revêtement sec ou à peine lubrifié, complètement lisse ; lames ventrues, étroitement adnées ; odeur de miel en séchant. $ H. splendidissima [E]
+52,0$ ’. Chapeau à revêtement chagriné et nettement lubrifié ; lames largement adnées ; pas d’odeur remarquable. $ H. coccinea [M] 
+53,0$  Odeur de punaise ; chapeau jaune à jaune-orangé, à revêtement sec ou faiblement lubrifié. $ H. quieta [M]
+53,54$ ’. Pas d’odeur de punaise ; chapeau de couleur et gélification variables.
+54,0$  Chair à saveur amère. $ H. gpe. mucronella (mucronella[ ?], reae [M])
+54,55$ ’. Chair non amère.
+55,56$  Chapeau à revêtement gélifié, brillant.
+55,60$ ’. Chapeau sec, mat.
+56,57$  Chapeau rouge à rouge orangé, à revêtement assez opaque, peu strié, finement ruguleux ou veiné sous la loupe.
+56,58$ ’. Chapeau jaune, orangé ou rouge, à revêtement lisse, généralement strié.
+57,0$  Chapeau rouge vif ; lames rougeâtres au moins dans les sinus. $ H. coccinea [M]
+57,0$ ’. Chapeau orangé-rougeâtre plus décolorant avec l’âge ; lames pâles. $ H. marchii [E]
+58,0$  Pied à revêtement initialement lubrifié (jeunes exemplaires), mais vite sec avec l’âge. $ H. gpe. insipida (insipida [M], minutula[ ?])
+58,59$ ’. Pied à revêtement sec dès le départ.
+59,0$  Chapeau papillé, au moins sur certains carpophores, légèrement strié. $ H. subpapillata [E]
+59,0$ ’. Chapeau plan convexe, jamais papillé, à revêtement translucide, très strié. $ H. gpe. ceracea (ceracea [M], paraceracea [ ?])
+60,0$  Odeur de miel ; carpophores orangé-rougeâtre, peu grêles (pied large de 2-5 mm, chapeau large de 1-5 cm). $ H. reidii [M]
+60,61$ ’. Pas d’odeur remarquable ; carpophores grêles, pied large de 1-3 mm, chapeau large de 0,3-3,5 cm, généralement rouge.
+61,0$  Chapeau à revêtement couvert d’une pellicule brun-noirâtre caractéristique, particulièrement vers le centre ; lames largement adnées, parfois décurrentes par une dent, subconcolores au chapeau ; pied concolore au chapeau. $ H. phaeococcinea [EE]
+61,0$ ’. Chapeau à revêtement parfois légèrement lubrifié dans le jeune âge, sans pellicule brune ; lames décurrentes, plus pâle que le chapeau ; pied plus pâle que le chapeau. $ H. constrictospora [E]
+.............
+100,0$BOERTMANN D. 2010. — The genus Hygrocybe. 2nd rev. ed. Fungi of Northern Europe 1. Vesterholt & co ed., 200 p.///BON M. 1990. — Flore Mycologique d’Europe. Les hygrophores. Doc. mycol., Mémoire hors série N°1, 99 p.///CANDUSSO M. 1997. — Hygrophorus s.l. Fungi Europaei, 6, 784 p.
+110,0$(ici au sens large pour raisons pratiques et écologiques ; les études moléculaires actuelles confortent la séparation du genre Cuphophyllus [Lodge et al., 2013]) : ///lames typiquement épaisses et espacées, d’aspect cireux ; chair souvent fragile, parfois juteuse ; couleurs souvent vives ; voiles absents ; humicoles endophytes sur graminoïdes, oligotrophiles, sensibles au intrants et particulièrement au phosphore.
+120,0$Revêtements du chapeau et du pied :///- la gélification : caractère très important, à apprécier sur des carpophores en parfait état de fraîcheur ; les revêtements gélifiés se montrent comme lubrifiés, collants ou gluants en fonction de l’importance de la gélification et de l’humidité ambiante ; dans les cas difficiles, on peut toucher le revêtement avec les lèvres après humectation pour apprécier s’il adhère ou non ;///- lorsque les revêtements ne sont pas gélifiés, leur aspect reste diversifié : mat, brillant, opaque, translucide (laissant apparaître la striation des lames par transparence), glabre, fibrilleux, velouté, squamuleux….///- un phénomène appelé hygrophanéité existe chez certaines espèces : le revêtement du chapeau en se déshydratant s’éclaircit en devenant opaque (progressivement, par plages), de façon irréversible.///Insertion des lames sur le pied : les lames peuvent adhérer plus ou moins sur le pied à leur point d’insertion ; lorsqu’elles n’adhèrent quasiment pas, leur insertion est ascendante et elles sont sublibres ou juste accolées au pied à son sommet (adnexées) ; elles peuvent être plus nettement soudées au pied, soit avec une petite échancrure au niveau de leur insertion (échancrées), soit d’insertion plus ou moins droite (adnées), soit largement soudées et d’insertion descendante (décurrentes).///Saveur et odeur de la chair : remarquables chez quelques espèces (lorsque nécessaire, goutter un fragment et recracher) ; pour sentir un échantillon, le couper ou le froisser légèrement et le placer au creux de la main juste sous le nez ou bien le conserver préalablement quelques minutes dans une boite étanche.

@@ -1,0 +1,843 @@
+Titre$ NOUVELLES CLÉS DES RUSSULES de M. BON / privée
+Com$ Adaptation par Aurélien Paris, mars 2008
+
+Bon M. – 2002 – Nouvelles clés des Russules (1) – Doc. Mycol. n° 125, p. 43-64
+Bon M. – 2003 – Nouvelles clés des Russules (2) – Doc. Mycol. n° 127-128, p. 49-67
+
+1,CS1$ 1a : Sous-genre Compacta (Fr.) M.Bon
+1,CS5$ 1b : Sous-genre Ingratula Romagn.
+1,CS6$ 1c : Sous-genre Heterophyllidia Romagn.
+1,CS11$ 1d : Sous-genre Amoenula Sarn.
+1,CS12$ 1e : Sous-genre Tenellula Romagn.
+1,CS18$ 1f : Sous-genre Polychromidia (R.Maire) Romagn.
+1,CS23$ 1g : Sous-genre Coccinula Romagn. emend., ss. str.
+
+
+CS1,0$ Sous-genre Compacta (FR.) M.BON
+
+Chair dure ou compacte, soit juteuse, soit rougissante ou noircissante. Silhouette lactarioïde, parfois hygrophoroïde, à marge fortement enroulée lisse ou ± cannelée, souvent à lames ± décurrentes et rarement fourchues, mais généralement à nombreuses lamelles et lamellules libres. Couleurs ternes blanchâtres à brunes, ochracées ou jaunâtres, parfois grisonnantes ou rougissantes. – Type sp. : R. nigricans Bull.->Fr.
+
+Clé des sections
+
+1,CS2$ 1a : Chair rougissante ou noircissante, parfois bleuissante. Piléocystides peu évidentes, parfois absentes ou SBA négatives, souvent à terminaisons bifides ou diverticulées. $ Sect. Compactae Fr. $s"Sect. Compactae."
+1,2$ 1b : Chair blanche, souvent juteuse, immuable ou à peine brunissante.
+
+2,CS3$ 2a : Aspect hygrophoroïde, à lames épaisses ou céracées, ± anastomosées. Spores < 6(7) x 4.5(5) µm, faiblement ponctuées, à plage supra-appendiculaire nulle. Espèces africaines nombreuses, les européennes (jusqu’à nouvel ordre) uniquement blanches ou tachées de jaune ochracé. $ Sect. Archaeinae Heim ex Romagn. $s"Sect. Archaeinae."
+2,CS4$ 2b : Aspect lactarioïde, à marge souvent enroulée et lames ± pentues ou subdécurrentes et chair particulièrement juteuse. Spores à ornementation plus importante et plage supra-appendiculaire amyloïde. $ Sect. Lactarioides Bat. $s"Sect. Lactarioides."
+
+
+CS2,0$ Section Compactae FR. (= Nigricantinae Bat.)
+
+1,2$ 1a : Noircissement précoce ou rosissement préalable nul ou douteux.
+1,11$ 1b : Rougissement ou bleuissement ± vif, et noircissement plus tardif.
+
+2,3$ 2a : Piléocystides nulles. Revêtement sec ou velouté. Lames assez serrées, régulières. $ Série Anthracina. $s"Série Anthracina."
+2,7$ 2b : Piléocystides présentes. Revêtement plus glabre ou visqueux. Lames ± espacées.
+
+3,0$ 3a : Espèce méridionale (maquis, chênaie verte, etc.), à odeur fruitée et saveur mentholée (de type lepida) ou rappelant R. albonigra. Spores 7-9 x 5.5-7 µm, cristulées à subréticulées. Poils piléiques cylindracés, x 6-8 µm, à articles allongés. (B. AMER 26:27, Sar. 175, 177). $ R. atramentosa Sarn.
+3,4$ 3b : Espèces banalement caducicoles. Saveur douce ou âcre, non mentholée. Spores réticulées, jusqu’à 10(12) µm et poils piléiques ± grêles ou variables, x (3)5-8(10) µm. $ R. anthracina ss. l.
+
+4,0$ 4a : Saveur douce. Lames à reflets rosé pâle ou brique. Spores jusqu’à 11(12) µm. (RRM 20, SMF 94:9). $ R. anthracina var. insipida Romagn.
+4,5$ 4b : Saveur âcre. Lames variables et spores généralement < 10 µm.
+
+5,0$ 5a : Lames rosé vif (rappelant Clitopilus prunulus). $ R. anthracina var. carneifolia Romagn.
+5,6$ 5b : Lames blanc crème ou terne mais non rosées.
+
+6,0$ 6a : Chapeau noircissant ou marbré de brunâtre. Odeur faible, fruitée. Poils piléiques ± épais ou plus courtement articulés, jusqu’à 30(50) x 6-8(10) µm. (CD 1347, MJ 4-R. 1). $ R. anthracina var. anthracina Romagn.
+6,0$ 6b : Chapeau blanchâtre ou subimmuable. Seule la chair tend à noircir. Odeur banale. Spores 9-10 x 8-8.5 µm, finement réticulées. Poils piléiques grêles < x 4(5) µm. (DM 70-71:7). $ R. anthracina var. semicrema (Fr.) M.Bon
+
+7,0$ 7a : Saveur particulière, mentholée ou rappelant R. lepida. Odeur fruitée ou lactarioïde. Revêtement sec ou feutré pouvant rappeler les espèces précédentes. Spores finement réticulées ou sublisses en coupe optique. Hyméno- et piléocystides SBA nulles. (Bo 55, Cat. 391, CD 1346, Skirg. 37). $ R. albonigra (Krombh.) Fr.
+7,8$ 7b : Saveur banale ou ± âcre. Odeur non fruitée ou parfois farineuse. Cystides SBA +.
+
+8,0$ 8a : Odeur farineuse. Saveur âcre. Lames peu serrées. Stipe scrobiculé. Chair peu grisonnante. Spores < 7 x 6 µm, réticulées. Poils et piléocystides grêles, x 3-5 µm. (SMF 115:424, pl. 342). $ R. derelicta Reum.
+8,9$ 8b : Odeur banale. Saveur douce ou âcre. Stipe lisse ou spores > (6)7 µm.
+
+9,0$ 9a : Lames épaisses ou espacées. Spores banales, jusqu’à 9 x 7 µm, réticulées. Il existe des récoltes non ou peu rougissantes de R. nigricans (!). $ Cf R. nigricans.
+9,10$ 9b : Lames très serrées, blanches, subimmuables ou noircissant lentement. Spores courtes ou subglobuleuses (Q < 1.2), à réticule ± complet.
+
+10,0$ 10a : Piléocystides et poils ± larges rappelant R. densifolia. Spores subglobuleuses, réticulées, vers 8 x 7 µm. Sous feuillus divers ± septentrionaux. (RRM 18). $ R. densissima (J.Sch. ex) Romagn.
+10,0,N$ On peut la considérer comme une R. densifolia non rougissante ou à sp. courtes ou plus réticulées.
+10,0$ 10b : Piléocystides et poils étroits x 3-5 µm. Lames blanc pur ou subimmuables, peu régulières ou inégales. Spores 7-9 x 5.5-7 µm, subcristulées ou à réticule ± grossier. Poils piléiques cylindracés et piléocystides capitulées ou étranglées. Feuillus méridionaux. (MVM 8(1):53, RdM 36(1):37, Sarn. 171). $ R. fuliginosa Sarn.
+
+11,12$ 11a : Des nuances bleues au moins vers la marge, avant noircissement. $ R. cyanescens.
+11,13$ 11b : Pas de nuances bleues.
+
+12,0$ 12a : Chair bleuissante. Lames un peu bleutées, à la manière de R. chloroides. Spores 9-10 x 7-8.5 µm, sublisses à finement réticulées. $ R. cyanescens var. cyanescens Kicks
+12,0$ 12b : Chair rougissante, seule la marge est ± bleutée. Stipe court. Spores subréticulées ou plus étroites. (RRM 18). $ R. cyanescens var. subrubescens Reum.
+
+13,0$ 13a : Grosse espèce, jusqu’à 20(30) cm, à lames épaisses ou cassantes et fortement espacées, ± horizontales. Spores finement réticulées. Poils piléiques obtus ou peu atténués et piléocystides rares ou douteuses, SBA faible. (Sarn. 155, Skirg. 35). $ R. nigricans Bull.->Fr.
+13,0,N$ Il peut exister des récoltes à lames ± espacées (mais moins épaisses) chez R. adusta, par ailleurs à silhouette plus lactarioïde, lames pentues ou décurrentes, rougissement plus faible et stipe à base ± scrobiculée. Si la saveur rappelle R. lepida, voir aussi R. albonigra var. pseudonigricans.
+13,14$ 13b : Espèces moyennes ou à lames moins espacées et peu fragiles.
+
+14,0$ 14a : Lames ± jaunes. Odeur de pomme. Spores subglobuleuses, 6.5-7 x 6-6.5 µm, réticulées. Sous conifères. (FND 8:5, pl. 2:2, Ri. BP. 136) (= R. albonigra ss. Ricken). $ R. adalbertii Reum., Bid. & M.-Loc.
+14,15$ 14b : Lames blanches ou crème, ± rougissantes. Odeur nulle ou différente.
+
+15,0$ 15a : Saveur rappelant R. lepida. $ R. albonigra fo. pseudonigricans Romagn.
+15,16$ 15b : Saveur banale douce ou âcre.
+
+16,17$ 16a : Stipe difforme ou à base ± scrobiculée. Espèces quercicoles ou pinicoles.
+16,20$ 16b : Stipe banal, régulier ou clavé, lisse. Habitat varié.
+
+17,0$ 17a : Rougissement vif (de type Dapetes). Poils piléiques à articles ± courts ou épais Q < 4(6). Spores 7-10 x 5-6.5 µm, bassement crêtées à subréticulées. (RRM 19, FND 8:3). $ R. clementinae Reum.
+17,18$ 17b : Rougissement faible ou moins intense, rosâtre, saumoné. Spores finement verruculeuses avec quelques verrues libres. $ R. adusta ss. l.
+
+18,0$ 18a : Rougissement faible. Espèce caducicole ± acidophile (Quercion ou Ilici-fagion). (Bo 55). $ R. adusta var. adusta Fr.
+18,0,N$ Si les lames sont plus serrées et le rougissement subnul avec spores plus courtes et plus nettement réticulées, cf. R. densissima qui est plus caducicole.
+18,19$ 18b : Rougissement moyen. Habitat pinicole, neutrophile ou sabulicole.
+
+19,0$ 19a : Lames saumonées. Espèce ± cespiteuse, à stipe court 3(7) x 1-2(4) cm ou appointé. Saveur douce. Spores finement subréticulées et piléocystides grêles, x 3-4 µm, avec poils à articles moyens, x 3-6 µm, ± capitulés ou en tétine. Pins sylvestres. (FND 8:3) (cf. = R. reumauxii ou rickenii ad int.). $ R. adusta ss. Rick. in Reum.
+19,0$ 19b : Lames banales. Rougissement plus net. Poils piléiques épais ou à articles courts (rappelant R. densifolia). Espèce sabulicole des pins maritimes, parfois chênes verts (?). (Crypto.-Myco. 7(4):36). $ R. adusta var. sabulosa Heim & Blum ex M.Bon
+
+20,0$ 20a : Saveur très âcre (au moins dans les lames). Odeur faible. Chapeau ± visqueux, brun roussâtre. Lames peu serrées. Poils piléiques grêles ou à articles allongés (Q > 10). Spores cristulées à subréticulées. Feuillus banals. (Cat 740, Dh 842, RRM 42, Sarn. 149) (= R. densifolia ss. Schäff.). $ R. acrifolia Romagn.
+20,0,N$ Si les poils sont à articles courts ou renflés, sinués, cf. var. heteropellis Sarnari ad int. – Clé Sarn. 148.
+20,21$ 20b : Saveur douce et odeur spéciale (de bois ou terreuse). Chapeau ± brun grisâtre et lames serrées. Poils piléiques variables ou ± grêles. $ R. densifolia.
+
+21,0$ 21a : Lames blanches et port banal du groupe ou chapeau infundibuliforme à marge étalée. Odeur nette, terreuse ou de bois humide. (Sarn. 165). $ R. densifolia var. densifolia Gill.
+21,22$ 21b : Variantes macro- ou microscopiques. Odeur faible.
+
+22,0$ 22a : Lames jaunâtres et odeur faible. Marge enroulée et port hygrophoroïde rappelant R. camarophyllus. (RRM 19:pl.53). $ R. densifolia var. hygrophoroides Reum. ad int.
+22,0$ 22b : Lames banales mais port plus trapu. Spores interrupto-réticulées et poils piléiques à articles ± renflés. (SMF 115(2):150). $ R. densifolia var. colletarum Dagron
+22,0,N$ Dagron, l.c. 153, a aussi proposé la combinaison R. densifolia fo. clementinae (Reum.) Dagr. pour un taxon plus fortement rougissant dont les poils piléiques sont à peine différents du type.
+
+
+CS3,0$ Section Archaeinae HEIM ex ROMAGN.
+Note : Sarnari, l.c. p. 227, représente, sub R. archaea Heim, un exemple des Archaeinae tropicales ou équatoriales, à cannelures marginales pouvant faire penser aux espèces du sous-genre Ingratula ; voir aussi la section Pelliculariae Heim in DM 70-71, p. 11, pour la recherche d’éventuelles récoltes méditerranéennes ou subtropicales.
+
+1,0$ 1a : Lames épaisses, décurrentes et espacées, blanches à arête piquetée de roussâtre. Espèce blanc terne ou ± tachée de brunâtre, à lames piquetées de rouille. Poils piléiques ± clavés, x 6-8 µm. Habitat caducicole ± méridional. (B. AMER 23(2):7, RdM 41(1):61, Soc. Myc. Belfort 13:59). $ R. camarophyllus Romagn.
+1,0$ 1b : Lames plus serrées, minces, subadnées, crème, non piquetées. Espèce blanchâtre à taches ochracées. Poils piléiques étroits ou cylindracés x 2-4 µm. Sous chêne liège (Quercus suber). (Sarn. 225). $ R. archaeosuberis Sarn.
+
+
+CS4,0$ Section Lactarioides BAT. (= Plorantes Sing.)
+
+1,2$ 1a : Sporée blanche à crème pâle : I-(IIb). Lames pâles, parfois à reflets glauques ou verdâtres. Spores jusqu’à 10(12) x 7-8.5 µm. Piléocystides SBA+ et poils piléiques épais x 5-8(10) µm. $ Sous-sect. Delicinae Bat. $s"Sous-sect. Delicinae."
+1,7$ 1b : Sporée crème à ± jaune : IIc-III (IV). Lames ochracées à ± jaunes. Spores < 9 x 7 µm. Piléocystides SBA faible et poils grêles, x 2-4(5) µm. $ Sous-sect. Pallidosporinae M.Bon. $s"Sous-sect. Pallidosporinae."
+
+2,3$ 2a : Lames peu serrées, larges ou souvent épaisses et interveinées. Stipe plutôt court. Fer terne. Spores crêtées à subréticulées. Espèces normalement calcicoles. $ R. delica Fr. ss. l.
+2,5$ 2b : Lames plus serrées ou étroites, souvent à reflets glauques ou verdâtres. Stipe ± allongé souvent égal au diamètre du chapeau. Fer rose vif ou rouge. Spores plus épineuses ou peu crêtées. Espèces acidoclines. $ R. chloroides.
+
+3,0$ 3a : Chapeau jusqu’à 12(15) cm, à revêtement souvent irrégulier, rugueux ou anfractueux, blanc sale. Spores 10-12 x 7-8.5 µm, ± crêtées. Piléocystides x 8-10 µm, à sommet ± étranglé ou en tétine, SBA faible. Poils piléiques banals, cylindracés. Hêtraie calcicole ou Berberidion et Mesobromion, jusqu’en zone alpine. (Arct. Alp. Myco.:220). $ R. delica var. delica fo. alpina ad int.
+3,4$ 3b : Chapeau < 9(11) cm, plus régulier, à dépression centrale étroite ou à marge amincie. Revêtement plus lisse. Spores plus réticulées ou fortement épineuses (variétés en transition vers chloroides).
+
+4,0$ 4a : Lames relativement étroites ou serrées (comme chez R. chloroides) et sporée blanche (Ia-b). Spores < 9(10) µm, entièrement réticulées. Piléocystides ± douteuses, grêles ou SBA faible. Poils cylindracés, x 2-4 µm. Feuillus divers, calcicoles ou arénacés. (RRM 22, Sarn. 194-195). $ R. delica var. puta Romagn.
+4,0$ 4b : Lames plus larges comme chez le type de R. delica. Sporée jusqu’à IIb. Spores 9-10(11) x 7-8.5 µm, à épines plus fortes et ± reliées (vers chloroides). Piléocystides du type et poils piléiques à articles ± courts. Variété apparemment plus neutrophile, parfois subacidophile. (Sarn. 201 sub var. de chloroides, AMK 92(1):28, RRM 22) (= var. bresadoliana Sing. ?). $ R. delica var. trachyspora Romagn.
+
+5,0$ 5a : Revêtement visqueux, parfois à reflets bleutés. Spore ± ailée. Des récoltes à Tl-4 verdâtre rappellent la parenté avec les lactaires du groupe Piperatus. (Crypt. Myc. 7(4):300). $ R. chloroides var. glutinosa Blum ex M.Bon
+5,6$ 5b : Revêtement mat ou satiné-feutré. Spores ± crêtées.
+
+6,0$ 6a : Spores 9-11 x 7.5-9 µm, cristulées. Revêtement jaunâtre, satiné ou peu rugueux. Lames souvent glauques ou à reflets verdâtres, parfois verdissantes aux blessures. Odeur dite « ferreuse » ou un peu fruitée. Piléocystides rares, SBA+ et poils cylindracés x 3-6 µ. Hêtraie neutro-acidocline, souvent Ilici-Fagion. (Bo 55, Sarn. 197). $ R. chloroides var. chloroides (Krombh.) Bres.
+6,0$ 6b : Spores jusqu’à 8(8.5) x 7 µm, plus crêtées ou subréticulées. Revêtement feutré-micacé ou craquelé à fibrilleux. Hyphes piléiques du type. (Sarn. 202) (= R. romagnesiana Schaf.). $ R. chloroides var. parvispora Romagn.
+
+7,0$ 7a : Spores à plage supra-appendiculaire nulle ou mal délimitée et ornementation faible, subréticulée (6-8(10) x 5.5-6.5(7) µm). Lames ± anastomosées rappelant les Archaeinae, crème pâle (sporée IIc). Chapeau 5-8 cm, sec, ochracé à roussâtre pâle. Stipe 3-4 x 1-2(2.5) cm, blanc crème à ochracé. Chair pâle, ± tachée, à odeur lactarioïde et saveur douce ou tardivement âcre. Piléocystides x 3-5 µm, SBA+. (CD 1353, SMF 88:33). $ R. litoralis Blum ex Romagn.
+7,8$ 7b : Spore à plage supra-appendiculaire étroite et amyloïde, ornementation plus grossière.
+
+8,9$ 8a : Sporée jaune (IV). Spores échinulées ou à fortes épines peu cristulées. Chapeau 6-10 cm, blanchâtre à ochracé ou café au lait et centre sombre. Stipe court vers 3 x 1 cm, blanc à brunâtre. Chair blanche à odeur de R. pectinatoides. Poils piléiques et piléocystides banals. Feuillus herbeux ± siliceux. $ R. flavispora ss. l.
+8,10$ 8b : Sporée crème à ocre (II-III). Spores à verrues moyennes, isolées ou ± cristulées.
+
+9,0$ 9a : Lames peu serrées, crème ochracé à ± jaunes. (Myco. Bavar. 3:2, Sarn. 211). $ R. flavispora var. flavispora Bl. ex Romagn.
+9,0$ 9b : Lames plus serrées, à reflets bleutés, parfois aussi au sommet du stipe. Aspect de R. choloroides. (Cesk. Myk. 33:47). $ R. flavispora var. blumiana Hornicek
+
+10,0$ 10a : Spores à verrues subisolées. Sporée IIc. Chapeau 8-10(12) cm, glabre ou visqueux. Stipe robuste 3-6 x 2-3 µm. Odeur subnulle. Hyphes piléiques grêles, piléocystides subnulles ou douteuses. Hêtraies. (DM 70/71:11, Skirg. 33). $ R. pseudodelica Lange
+10,0$ 10b : Spores ± crêtées à subréticulées. Sporée jusqu’à III. Chapeau 10-12(15) cm, blanc à jaunâtre ou taché de roux orangé. Lames jaunes à reflets orangés. Odeur forte de R. pseudointegra ou même des xerampelina. Cystides jusqu’à 100 µm ou plus, SBA subnul. Hyphes piléiques grêles x 1-2 µm et piléocystides x 5-6(8) µm, ± pailletées, mais SBA subnul. (AMK 02(1):17, CD 1352, MJ4-R.38, Rev. Catal. Myco. 19:41, Sarn. 207, Skirg. 34). $ R. pallidospora Blum ex Romagn.
+
+
+CS5,0$ Sous-genre Ingratula ROMAGN.
+
+1,2$ 1a : Lames blanchâtres. Sporée blanche (Ia).
+1,4$ 1b : Lames crème à ± ochracées (II-III).
+
+2,0$ 2a : Marge lisse, couleur ocre à brunâtre. $ Cf. Felleinae (Melz. & Zv.) Sarn. in s.-g. Russula.
+2,0,N$ Une seule espèce, à odeur de pomme cuite : R. fellea, selon Sarnari (p. 481), mais il est certainement préférable de conserver cette espèce (et sa section) dans le voisinage de la section Citrinae, à spores ± pâles, avec R. consobrina, par exemple.
+2,3$ 2b : Marge ± costulée, striée ou tuberculeuse, couleur plus vive, jaune ou rousse. Stipe blanc ± pruineux. Odeur ± fruitée. $ Sect. Farinipedes Sing. $s"Sect. Farinipedes."
+
+3,0$ 3a : Caducicole à chapeau 6-8 cm, peu épais et jaune ± vif. Stipe blanc pur, nettement poudré. Spores < 8 x 6.5 µm, à épines isolées. (Bo 79, Dh 843, Sarn. 413, Skirg. 43). $ R. farinipes Romell
+3,0$ 3b : Acicole, à chapeau 2-4(5) cm, ± roussâtre pâle . Spores jusqu’à 9 x 7.5 µm, bassement cristulées. (RRM 39, Sarn. 417). $ R. pallescens P.Karst. ss. Sarn. (non Blum, etc., cf. R. amoenolens var.)
+
+4,0$ 4a : Présence d’un voile jaunâtre surtout marginal ou caulinaire. KOH rouge vif (Section Subvelatae Sing.). Une seule espèces européenne. (CD 1359, Sarn. 477) (= R. livescens Batsch ss. auct. pp.). $ R. insignis Quél.
+4,5$ 4b : Pas de voile particulier. KOH nul ou jaunâtre à rarement orangé. $ Sect. Foetentinae Melz. & Zv. $s"Sect. Foetentinae."
+
+5,6$ 5a : Chapeau ocre roux vif. Espèces moyennes à ± robustes. Odeurs fortes, particulières. Piléocystides banales. $ Sous-sect. Foetentinae. $s"Sous-sect. Foetentinae."
+5,14$ 5b : Chapeau ocre terne à brunâtre ou grisâtre. Espèces petites à moyennes < 6(7) cm. Piléocystides coniques. $ Sous-sect. Pectinatae. $s"Sous-sect. Pectinatae."
+
+6,7$ 6a : Odeur de laurier cerise (amande amère ou « frangipane »). $ Série Laurocerasi. $s"Série Laurocerasi."
+6,9$ 6b : Odeur fruitée ou désagréable, fétide, chlorée, etc. $ Série Foetens. $s"Série Foetens."
+
+7,0$ 7a : Marge sublisse ou peu striée et non tuberculeuse. Odeur forte ou pure, parfois un peu anisée. Spores à crêtes robustes mais peu ailées. (Bol. S. M. Cast. 7:84, MI 11(2):11, MJ 4-R.38, RdM 40(3):217, Sarn. 449). $ R. fragrantissima Romagn.
+7,8$ 7b : Marge striée-costulée ou tuberculeuse. Odeur pouvant être mêlée de celle de R. foetens avec l’âge.
+
+8,0$ 8a : Lames ou stipe ± ponctués de noir. Viscosité piléique ± purpurine. Saveur âcre et odeur parfois mixte. Spores ailées. (Sarn. 445). $ R. illota Romagn.
+8,0$ 8b : Lames et stipe non ponctués. Odeur pure et spores nettement ailées. (RRM 51, Sarn. 439) (= R. laurocerasi ss. auct. pp. = R. grata Britz.). $ R. fragrans Romagn.
+
+9,10$ 9a : KOH nul. Spores subglobuleuses. $ Stirpe Foetens. $s"Stirpe Foetens."
+9,11$ 9b : KOH ± jaune à orangé. Spores variables. $ Stirpe Subfoetens. $s"Stirpe Subfoetens."
+
+10,0$ 10a : Chapeau 8-12(15) cm, ± glutineux. Espèce plutôt ubiquiste. Spores à ornements subisolés. (Sarn. 423). $ R. foetens (Pers.:Fr.) Fr.
+10,0$ 10b : Chapeau < 8(10) cm. Espèce méditerranéenne (cistes ou pins), à spores ± crêtées à subréticulées. (Sarn. 427). $ R. putida Sarn.
+
+11,0$ 11a : Chapeau roux ochracé à reflets orangés, KOH pâle. Spores < 8.5 µm, subglobuleuses rappelant les précédentes, ± crêtées à subailées. Poils piléiques ± atténués. Quercicole méditerranéenne, Q. cerris, etc. (B.AMER 33:7, Sarn. 435). $ R. inamoena Sarn.
+11,12$ 11b : Couleurs plus ternes. Spores allongées vers 9-10 x 7 µm, à verrues isolées.
+
+12,0$ 12a : Odeur de beurre rance. KOH faible. $ R. josserandii Bertault
+12,13$ 12b : Odeur rappelant R. foetens ou chlorée. $ R. subfoetens ss. l.
+
+13,0$ 13a : KOH jaune vif. Odeur de R. foetens. $ R. subfoetens var. subfoetens Pers.:Fr.
+13,0$ 13b : KOH orangé à roux vif. Odeur chlorée. (RRM 37). $ R. subfoetens var. johannae Moënne-Loc.
+
+14,0$ 14a : Odeur pélargoniée. Chapeau jaunâtre à centre gris. Lames ochracées. Sporée III. (RRM 39). $ R. foeda Reum.
+14,15$ 14b : Odeurs différentes. Sporée crème (II).
+
+15,16$ 15a : Saveur âcre. Odeur vers foetens ou de topinambour (R. amoena). $ Stirpe Pectinata. $s"Stirpe Pectinata."
+15,20$ 15b : Saveur douce ou amère. Odeur de poisson ou caoutchoutée (Scleroderma). $ Stirpe Pectinatoides. $s"Stirpe Pectinatoides."
+
+16,17$ 16a : Odeur de topinambour (R. amoena). $ R. amoenolens ss. l.
+16,18$ 16b : Odeur vers foetens ou spermatique.
+
+17,0$ 17a : Chapeau gris brunâtre sombre. $ R. amoenolens var. amoenolens Romagn.
+17,0$ 17b : Chapeau gris blanchâtre. $ R. amoenolens var. pallescens ss. Bl., Bon, etc.
+
+18,0$ 18a : Chapeau ocre jaunâtre, ± taché de roux. Odeur fétide. Spores subcristulées. $ R. pectinata Fr.
+18,19$ 18b : Chapeau ocre brunâtre ± sombre. Odeur spermatique. Spores à verrues ± isolées. $ R. sororia ss. l.
+
+19,0$ 19a : Chapeau 5-9(12) cm. Habitat caducicole banal. (Sarn. 459). $ R. sororia var. sororia Fr.
+19,0$ 19b : Chapeau < 5(6) cm, sous Quercus ilex. (BGMB 28(3-4):107, MI 23(1):31, Sarn. 471). $ R. sororia fo. pseudoaffinis (Migl. & Nic.) Sarn.
+
+20,21$ 20a : Odeur de poisson (anchois, harengs, etc.). Saveur douce ou amarescente. Chapeau ± jaunâtre.
+20,22$ 20b : Odeur caoutchoutée (scléroderme). Saveur ingrate ou nauséeuse. Chapeau ocre brun terne à brun grisâtre. $ R. pectinatoides ss. l.
+
+21,0$ 21a : Chapeau brun rougeâtre. Saveur douce ou nauséeuse. Spores réticulées. Espèce méridionale des chênes verts (Q. ilex). (Sarn. 471). $ R. hortensis Sarn.
+21,0$ 21b : Chapeau ocre brunâtre pâle ou ± taché de rouille (surtout le stipe). Saveur amère. Spores cristulées à subréticulées. Sous pins ou chênes. (Sarn. 465) (= R. pectinatoides ss. Sarnari 1994). $ R. praetervisa Sarn.
+
+22,0$ 22a : Couleur brun jaunâtre terne ou relativement pâle. (Ro 364, DM 70-71:15). $ R. pectinatoides var. pectinatoides Peck
+22,23$ 22b : Variétés à couleur plus soutenue ou obscure, au moins au centre.
+
+23,0$ 23a : Chapeau brun grisâtre rappelant R. amoenolens. (Ro 367, Mtg 509). $ R. pectinatoides Var. pseudoamoenolens Romagn.
+23,24$ 23b : Couleur ± bistrée au centre ou palissant vers l’extérieur.
+
+24,0$ 24a : Cystides banales, peu nombreuses, de type fusiforme pluriétranglé. Couleur brun ochracé ± sombre mais non grisâtre. Odeur faible ou seulement fruitée. Spores bassement subcristulées. (Ro 370, DM 70-71:15). $ R. pectinatoides var. brevispinosa Romagn.
+24,25$ 24b : Cystides hétérogènes ou rappelant les extrémités de laticifères. Spores à ornementation plus reliée à ± zébrée. Couleur plus grisâtre, au moins au disque. Spores subréticulées.
+
+25,0$ 25a : Lames ± serrées. Chapeau sombre à marge cannelée. Feuillus acidophiles. (Ro 372). $ R. pectinatoides fo. dimorphocystis Romagn.
+25,0$ 25b : Lames très espacées. Chapeau brun à marge pâle ou translucide. Feuillus hygrophiles ou sentiers boueux. (Ro 371). $ R. pectinatoides fo. pseudoconsobrina Romagn.
+
+
+CS6,0$ Sous-genre Heterophyllidia ROMAGN.
+
+Espèces douces ou parfois seulement âcres au niveau des lames, à couleur violacées, verdâtres, brun rosâtre ou rousses, sans couleur rouge vif. Piléocystides ± nombreuses et poils piléiques ± articulés. Spores à plage supra-appendiculaire nue ou faiblement amyloïde.
+
+Clé des sections
+
+1,2$ 1a : Sporée blanche Ia-(b). Lames généralement blanc pur.
+1,3$ 1b : Sporée crème à ocre (II-III). Lames à maturité ± ocres à jaunâtres.
+
+2,CS7$ 2a : Sulfate de fer nul ou très faible et lentement verdâtre. Revêtement glabre à visqueux, parfois vergeté radialement. Lames molles à ± lardacées. Saveur douce à parfois âcre ou désagréable dans les lames. Poils piléiques minces, x 2-4(5) µm, à articles allongés (Q > (10)15), le terminal jamais étiré-amenuisé. $ Sect. Cyanoxanthae Sing. (= ss.-sect. Indolentinae Romagn.) $s"Sect. Cyanoxanthae."
+2,CS8$ 2b : Sulfate de fer rosé ± vif. Lames friables, élastiques ou non lardacées. Revêtement sec, parfois pulvérulent ou craquelé. Saveur toujours douce (comestibles réputés). Poils piléiques plus larges x (3)5-6(8) µm, à articles ± courts (Q<5(10)), parfois subcelluleux (ss.-sect. Virescentinae). Il peut exister des crins à paroi épaisse. $ Sect. Heterophyllae Fr. $s"Sect. Heterophyllae."
+2,0,N$ Si la saveur est âcre au niveau des lames et les poils piléiques en transition vers Cyanoxanthae, cf. section Ilicinae pp., stirpe Leucospora.
+
+3,CS9$ 3a : Poils piléiques de type Cyanoxanthae (étroits, cylindracés, à articles allongés, le terminal non étiré). Couleurs variées, gris bleuté, vertes ou pâles à blanchâtres. Fer parfois faible, gris verdâtre ou rosâtre douteux. Sporée crème pâle, parfois blanchâtre (Ia-IIc). $ Sect. Ilicineae (Romagn.) Buyck. $s"Sect. Ilicineae."
+3,4$ 3b : Poils piléiques de type Heterophyllae, x (3)5-6(8) µm, ou ± franchement articulés, parfois à articles subisodiamétriques, au moins à partir du 2e ou 3e segment, avec le terminal souvent étiré-amenuisé, en pointe ± aiguë.
+
+4,CS10$ 4a : Espèces inodores ou à odeur fongique, banale, saveur douce sauf au niveau des lames, ± âcres. Couleurs bleutées à violacées, parfois blanchâtres, non vertes ou seulement partiellement, panachées ou en couronne vers la marge. Articles terminaux banals ou ± étirés, cheilocystides nulles ou poils marginaux non particuliers. $ Sect. Griseinae (Schaeff.) J.Sch. ex M.Bon. $s"Sect. Griseinae."
+4,CS11$ 4b : Odeur particulière (de topinambour, fruitée ou vers R. xerampelina), couleurs rosées, violacées, verdâtres ou jaunes. Saveur douce ou rappelant l’odeur. Poils piléiques à articles terminaux ± cystidioïdes, longuement effilés, raides ou à paroi ± épaisse, avec les sous-jacents typiquement subcelluleux. Cheilocystides de même type, rendant souvent l’arête stérile. (= Sect. Amoenina Romagn.). $ Sous-g. Amoenula Sarn. $s"Sous-g. Amoenula."
+
+
+CS7,0$ Section Cyanoxanthae SING.
+
+Sporée blanche, Fer nul ou lentement verdâtre à rosâtre douteux. Poils piléiques étroits x 2-4(5) µm, à articles allongés, Q > 10-15
+
+1,2$ 1a : Couleurs jaunes ou vertes dominantes. $ Stirpe Peltereaui. $s"Stirpe Peltereaui."
+1,5$ 1b : Couleurs violacées dominantes, parfois lilacines ou mêlées de verdâtre. $ Stirpe Cyanoxantha. $s"Stirpe Cyanoxantha."
+
+2,0$ 2a : Chapeau jaune citrin parfois à peine lavé d’olivâtre ou à vagues reflets violeté lilacin. Lames fourchues ou anastomosées. Spores 7-8(8.5) x 6-6.5 µm, subcristulées. Piléocystides cylindracées, peu différenciées et poils piléiques ± enchevêtrés. (DM 70-71, Sarn. 241 var.). $ R. flavoviridis Romagn.
+2,3$ 2b : Espèces ± vertes.
+
+3,0$ 3a : Lames lardacées comme R. cyanoxantha, ± fourchues, blanches à reflets glaucescents. Revêtement glabre ou ± visqueux, couleur vert d’eau ou « wagon ». Spores comme ci-dessus à verrues basses, courtement cristulées. Piléocystides cylindracées, x 3-5 µm. Poils grêles banals. Feuillus argileux subhygrophiles. (RRM 56, Sarn. 236 fo.). $ R. peltereaui R.Mre.
+3,0,N$ Si le revêtement est crevassé, à partir de la marge, cf. formes vertes de R. cutefracta.
+3,4$ 3b : Lames ± fragiles, non ou peu lardacées, surtout fourchues à l’insertion. Piléocystides plus larges ou ± clavées. Spores plus largement ovoïdes, x 7.5(8) µm. Feuillus divers.
+
+4,0$ 4a : Couleur vert sombre rappelant R. peltereaui avec la marge plus bistrée. Stipe blanc, dur, raide ou cassant. Sulfate de fer nul. Piléocystides typiques en « tête de serpent ». Poils piléiques à articles peu allongés, Q < 10. (FnD 8:7). $ R. furcata (Pers.) Fr.
+4,0$ 4b : Couleur vert pâle, marge glaucescente légèrement striée. Lames assez épaisses, blanc mat (sporée Ib). Stipe plus fragile ou ± farci. Sulfate de fer lentement rosâtre sale. Piléocystides simplement cylindro-clavées et poils à articles allongés, Q > (10)15. (FnD 8:9). $ R. subfurcata Reum.
+4,0,N$ Si sulfate de fer orangé vif ou rapide, cf. R. subviridis Reum. ad int., RRM 27, à spores plus échinulées et poils piléiques longuement atténués, pouvant rappeler ceux du sous-genre Amoenula.
+
+5,6$ 5a : Lames franchement molles ou lardacées, consistance banale de russule. Sulfate de fer nul ou très tardivement gris verdâtre pâle. Spores à verrues basses, subisolées ou peu cristulées. $ R. cyanoxantha ss. l.
+5,8$ 5b : Sulfate de fer ± rapidement gris verdâtre, au point parfois de confondre avec les Xerampelinae. Lames moins molles ou parfois crème malgré la blancheur de la spore. Saveur ± douce à acrescente. Spores à verrues plus grossières ou ± cristulées.
+
+6,0$ 6a : Couleurs uniquement violacées, pouvant pâlir en gris bleuté ou rosé lilacin. Revêtement souvent ridulé radialement. Saveur toujours douce. $ R. cyanoxantha (Sch.) Fr.
+6,7$ 6b : Couleurs plus variables pâles ou panachées.
+
+7,0$ 7a : Couleur lilacine dominante, même au début. (Sarn. 234). $ R. cyanoxantha var. lilacina Britz.
+7,0$ 7b : Couleur pâle, bleutée ou livide à rosâtre douteux. (RRM 23). $ R. cyanoxantha var. pallida (Sing.) Cooke
+
+8,0$ 8a : Saveur acrescente et odeur plutôt désagréable. Chapeau bronze à noirâtre ou violacé purpurin sombre. Lames serrées ou étroites à arête souvent tachée de rouille avec l’âge. Stipe blanc parfois lavé de rosâtre. Spores subcristulées. Piléocystides cylindracées, banales mais SBA subnul. Feuillus calcicoles. (DM 70-71:49, RRM 24, pl. p. 57, Sarn. 245) (= R. variata (Bann.) Sing. ss. auct. europ., non Peck). $ R. subacerba (Reum.) st. nov.
+8,0,N$ Basionyme : R. cyanoxantha var. subacerba Reum. 1996, Russules rares ou méconnues:284.
+8,9$ 8b : Saveur douce et odeur banale. Chapeau violacé parfois mêlé de verdâtre.
+
+9,0$ 9a : Revêtement crevassé ou pulvérulent (aspect de R. virescens), violacé à ± verdâtre. Lames fourchues ou anastomosées, parfois à reflets verdâtres. Spores à verrues espacées ou subcristulées. Feuillus neutrophiles. (Bo 57, DM 70-71:49, Sarn. 239). $ R. cutefracta Cke.
+9,0$ 9b : Revêtement lisse ou légèrement ridé comme R. cyanoxantha, à couleur violacé sombre mais palissant à ± verdâtre à partir du centre. Stipe souvent lavé de violeté. Sulfate de fer suffisamment vert pour avoir favorisé la confusion avec une « xérampéline ». (cf. Ph 105). Feuillus ± acidophiles. (Bo 57, CD 1410, DM 70-71:49, etc.) (= R. cyanoxantha var. atroviolacea Lge, non sp. Burl.). $ R. langei M.Bon
+
+
+CS8,0$ Section Heterophyllae FR.
+
+1,0$ 1a : Revêtement ± pulvérulent (aspect de moisissure de Penicillum glaucum) ou ± craquelé à partir de la marge comme P. cutefracta. Spores variables en taille et ornementation. Piléipellis à tendance pseudoparenchymateuse, à poils courtement articulés, subisodiamétriques, le dernier article seulement un peu étiré (aspect rappelant les lactaires Plinthogali). – Sous-sect. Virescentinae ss. str. Sarnari. Une seule espèce (DM 70-71 :52, etc.). $ R. virescens (Sch.) Fr.
+1,2$ 1b : Revêtement glabre à subvelouté mais non pulvérulent. Poils piléiques à articles ± allongés, au moins le terminal (pas d’aspect Plinthogali). $ Sous-sect. Heterophyllinae (Fr.) R.Mre. $s"Sous-sect. Heterophyllinae."
+
+2,3$ 2a : Sporée blanc mat (Ib) parfois vers IIa (?). Revêtement ± mat à subvelouté. Couleurs brun marron à roussâtre. Poils piléiques du groupe, sans crins particuliers. Espèces ± acicoles. (cf. DM 70-71:52). $ Stirpe Mustelina. $s"Stirpe Mustelina."
+2,4$ 2b : Sporée blanc pur (Ia). Revêtement glabre à couleurs vertes ou rosâtres. Piléipellis à crins particuliers, aigus, à paroi épaisse. $ Stirpe Heterophylla. $s"Stirpe Heterophylla."
+
+3,0$ 3a : Chapeau jusqu’à 12(15) cm, charnu, épais (silhouette bolétoïde !). Lames crème paille ou un peu tachées de rouille avec l’âge. Stipe épais, souvent cabossé avec l’âge. Chair à odeur faible (fromage ?), parfois iodée (cf. var. iodolens M.Bon & Robert). Sulfate de fer brun rosé vif. Spores bassement cristulées, jusqu’à 11(12) x 7(8) µm. Poils piléiques à articles courts ou ± renflés et piléocystides rares ou SBA subnul. Picea surtout en montagne. (DM 70-71:52). $ R. mustelina Fr.
+3,0$ 3b : Chapeau < 7(9) cm, à revêtement mat ou un peu craquelé vers la marge. Stipe brunâtre, pruineux. Chair comme ci-dessus. Spores plus courtes < 8(9) x 7(7.5) µm, piquetées ou peu cristulées. Poils piléiques variables, flexueux ou à paroi réfringente et piléocystides clavées, nombreuses, SBA +. Feuillus mêlés, jusqu’en plaine. (DM 70-71:52). $ R. fulva Blum ex Bon
+
+4,0$ 4a : (2b) Spores < 7(7.5) x 5.5(6) µm (parmi les plus petites du genre), à ornementation basse et isolée ou peu cristulée. Chapeau vert, blanchâtre ou rarement rosâtre (cf. variétés in DM 70-71:50). Lames blanches, serrées, fourchues ou anastomosées vers l’insertion. Poils piléiques à articles courts ou subisodiamétriques, l’externe seul restant étiré. Piléocystides clavées. SBA subnul. Espèce et var. ± ubiquistes. (Bo 57). $ R. heterophylla (Fr.) Fr.
+4,0$ 4b : Spores jusqu’à 8(9) x 6(6.5) µm, à verrues espacées, subisolées. Lames peu ou non fourchues. Couleurs rosées, rarement verdâtres ou pâles, blanchâtres à noisette (cf. variétés in DM 70-71:51). Poils piléiques à articles plus allongés (Q =3-5), crins rares et piléocystides atypiques ou tortueuses, SBA subnul. Feuillus acidoclines. (Bo 57, CD 1413, fo. ?). $ R. vesca Fr.
+
+
+CS9,0$ Section Ilicinae (ROMAGN.) BUYCK.
+
+Griseinae à poils piléiques grêles et Fer ± grisâtre ou pâle.
+
+1,2$ 1a : Sporée blanche (Ia-b). $ Stirpe Leucospora. $s"Stirpe Leucospora."
+1,3$ 1b : Sporée crème à ochracé pâle (II-IIIb).
+
+2,0$ 2a : Chapeau panaché ou cocardé de violet et vert, ± velouté. Spores 7-8 x 6-7 µm, à verrues basses ± reliées. Conifères mêlés, Picea. (DM 70-71:54). $ R. variegatula Romagn. ex M.Bon
+2,0$ 2b : Chapeau lilacin violeté (rappelant cyanoxantha) puis gris purpurin ardoisé. Spores plus allongées ou étroites, jusqu’à 9 x 6.5 µm, à verrues basses, subisolées. Conifères. $ R. leucospora (Bl.) Romagn.
+2,0,N$ A spores échinulées et piléocystides cloisonnées, cf. R. purpureofusca Reum. ad int. (RRM 30).
+
+3,4$ 3a : Couleur verdâtre à gris olivâtre dominante (rares traces violetées ou purpurines). $ Stirpe Aeruginea. $s"Stirpe Aeruginea."
+3,6$ 3b : Couleur pâle blanchâtre à ochracée ou bleutée sans traces de verdâtre. $ Stirpe Ilicis. $s"Stirpe Ilicis."
+
+4,0$ 4a : Couleur olive sombre, parfois lavée de brun pourpre ou ± ochracée-bistrée avec l’âge (vers Foetentinae ?). Stipe caverneux, blanchâtre, Fe subnul. Spores (5.5)6-6.5(7) x 4.5-5.5 µm, cristulées à zébrées avec quelques verrues libres. Poils piléiques grêles, obtus x 2-3(5) µm, à articles Q > 15. Feuillus mêlés, sableux, acidophiles. (Ro. supp. 1629, SMF 171-Atl 240). $ R. helgae Romagn.
+4,5$ 4b : Couleur verte plus vive à centre jaunâtre. Sulfate de fer orangé moyen. Spores jusqu’à 8(9) µm, plus nettement crêtées. Poils à articles moins longs (Q < 10).
+
+5,0$ 5a : Couleur verte plutôt vive, seulement décolorée vers l’extérieur. Spores jusqu’à 8(9) x 6(6.5) µm, à verrues subisolées ou peu crêtées. Poils piléiques cylindracés x 2-4(5) µm, à articles moyens (Q vers 5-10). Piléocystides cylindracées x 4-6 µm. Bois mêlés, surtout bouleaux. (Bo 59, DM 70-71:56). $ R. aeruginea Lindbl. ex Fr.
+5,0$ 5b : Couleur verdâtre ou gris olivâtre ± jaune au centre. Spores < 7(7.5) x 5-6.5 µm, ± subglobuleuses, crêtées. Poils piléiques grêles, x 2-3(5) µm, à articles Q < 5 (transition vers Griseinae) mais le terminal est plus allongé et cylindracé. Piléocystides clavées. Feuillus argilo-calcaires. (DM 70-71:57, Sarn. 297). $ R. stenotricha Romagn.
+
+6,0$ 6a : Couleur ivoire à ochracée à reflets lilacin glauque ou ± bleutée à rosâtres vers l’extérieur. Odeur salicylée (Sistotrema ?). Saveur ± âcre au moins sur les lames. Sporée IIa-b. Spores 6.5-8 x 5.7-6.5 µm, à verrues basses (0.5 µm), ± réticulées. Poils piléiques filiformes x 2-3 µm, à articles allongés, rarement clavés. Piléocystides cylindracées, à sommet ± étranglé. Méridionale sous Quercus ilex ou pubescens. (SMF 88(1):33). $ R. ilicis Romagn., Chev. & Priv.
+6,0$ 6b : Couleur identique ou plus pâles sans reflets bleutés. Sulfate de fer faible ou gris verdâtre. Lames ochracées. Sporée III (IVa ?). Spores jusqu’à 9(10) x 6(7) µm, finement subréticulées, ou à crêtes basses comme chez certaines Plorantinae. Poils piléiques grêles ± subgélifiés. Piléocystides cylindracées x 4-6(7) µm, à sommet étranglé ou capité. Feuillus méditerranéens siliceux ou acidophiles, maquis. (cf. DM 70-71, Sarn. 365). $ R. werneri R.Mre.
+
+
+CS10,0$ Section Griseinae SCHAEFF. ex M.BON
+
+1,2$ 1a : Sulfate de fer faible à subnul ou grisâtre à gris verdâtre. $ Sous-sect. Anatinae ad int. $s"Sous-sect. Anatinae."
+1,6$ 1b : Sulfate de fer normal, rose ou orangé ± vif. $ Sous-sect. Griseinae Schaeff. $s"Sous-sect. Griseinae."
+
+2,3$ 2a : Spores à verrues subisolées, (5)6-7(8.5) x (4.5)5-6.5(7) µm. Chapeau gris violacé à vert ou glauque à ± lilacin. (DM 70-71:55). $ R. anatina ss. l.
+2,4$ 2b : Spores ± cristulées à réticulées.
+
+3,0$ 3a : Revêtement craquelé à la manière de R. cutefracta-virescens, gris ochracé à vert sombre ou glauque. (Bo 59, Sarn. 337). $ R. anatina var. anatina Romagn.
+3,0$ 3b : Revêtement ± glabre ou seulement furfuracé, brun rosâtre à lilacin vineux. (Sarn. 341). $ R. anatina var. subvesca Sarnari
+
+4,0$ 4a : Chapeau glauque sombre ou noirâtre. Spores finement crêtées ou zébrées, 6.5-8(9) x 5-6.5(7) µm. (Hoppea 39:103). $ R. atroglauca Einh.
+4,5$ 4b : Chapeau moins sombre ou rappelant R. cyanoxantha. Spores réticulées.
+
+5,0$ 5a : Lames crème, sporée IIb-c. Couleurs rappelant R. cyanoxantha ou mauve lilacin bigarré de vert. Marge cannelée. Spores 7-8.5 x 6-6.5 µm, à réticule plutôt fin. Piléocystides 1-2-cloisonnées. Poils piléiques à articles ± épais x (3)6-8 µm, le dernier peu effilé. Sous bouleaux. (RRM 31). $ R. betulae Bidaud
+5,0$ 5b : Lames ocre, sporée III. Chapeau à couleur pâle, de gris olivacé à glauque avec le centre plus brun. Spores jusqu’à 9(10) x 8(9) µm, à réticule plus en relief. Piléocystides non cloisonnées, poils piléiques à articles moyens, le dernier très amenuisé et allongé. Feuillus méditerranéens. (DM 56:32, Sarn. 355). $ R. ochrospora (Nicol.) Quadr.
+
+6,7$ 6a : Couleurs blanchâtres à ± ochracées, parfois à faibles tonalités verdâtres ou violetées. $ Stirpe Galochroa. $s"Stirpe Galochroa."
+6,11$ 6b : Espèces ± polychromes, violacées ou purpurines à ± mêlées de verdâtre. $ Stirpe Grisea. $s"Stirpe Grisea."
+
+7,8$ 7a : Spores à verrues subisolées ou peu crêtées.
+7,0,N$ Si les verrues sont basses, peu visibles en coupe optique, cf. formes blanches de R. sublevispora.
+7,9$ 7b : Spores zébrées à subréticulées.
+7,0,N$ Si espèce fragile, à basides < 40(45) µm, rappelant les Tenellae (MVM 8(1):20), cf. R. schizopellis Sarn. ad int.
+
+8,0$ 8a : Chapeau blanc ou ivoire, parfois à reflets bleutés ou rosâtre pâle. Lames non fourchues. Poils piléiques à articles courts ou épais (Q < 5 ou subisodiamétriques, au moins à partir du 2e ou 3e article). Piléocystides cylindracées x 6-9 µm, unicellulaires. Feuillus jusqu’en zone méditerranéenne. (Sarn. 319). $ R. galochroa (Fr.) Fr.
+8,0$ 8b : Chapeau blanc terne ou olivacéo-brunâtre à ± lavé de violacé grisâtre. Lames fourchues. Piléocystides ± clavées ou cylindro-fusiformes x 5-7 µm. (DM 70-71:57). $ R. subterfurcata Romagn.
+
+9,0$ 9a : Odeur rappelant Lactarius subdulcis (baudruche). Chapeau blanc ivoire à jaunâtre, sans traces de bleu ou de vert. Poils à articles larges ou courts (Q < 3). Piléocystides ± cloisonnées, parfois courtes ou rares. Feuillus méditerranéens calcicoles, chênes verts, etc. (RRM 32). $ R. galactea Bid. & Heul.
+9,10$ 9b : Odeur banale ou nulle, reflets bleutés ou verdâtres possibles. Piléocystides unicellulaires.
+
+10,0$ 10a : Chapeau ocre clair à gris noisette, brunissant ou à reflets bronze verdâtre. Spores zébrées. Poils piléiques à articles courts à subisodiamétriques, le terminal étiré-amenuisé. Piléocystides courtes, x 7-12 µm. hêtraie calcaire. (Sarn. 326). $ R. faustiana Sarn.
+10,0$ 10b : Chapeau ivoire clair à gris noisette ou brunissant, à reflets verdâtres. Spores cristulées à subréticulées (non zébrées). Poils piléiques à articles ± courts, non subisodiamétriques (Q vers 3-5), avec le terminal ± cylindracé. Feuillus méditerranéens, chênes verts, Arbutus, etc. (B. AMER. 13:8, Sarn. 313, SMF 104(3):141). $ R. galochroides Sarn.
+
+11,12$ 11a : Couleurs bleutées, violetées, lilacines ou vineuses sans traces de vert (ou nuances insignifiantes).
+11,20$ 11b : Couleurs verdâtres ± dominantes ou mêlées de bleu violet ou lilacin.
+
+12,13$ 12a : Spores fortement crêtées à ± réticulées. Sulfate de fer orangé pâle.
+12,15$ 12b : Spores échinulées ou à crêtes courtes. Sulfate de fer rosé plus vif.
+
+13,0$ 13a : Espèce fragile (à consistance et basides courtes de Tenellae). Revêtement brillant ou humide. Lames crème ochracé. Spores ± crêtées et poils à articles courts (Q < 5). Sous chênes lièges. (MVM 8(1):22). $ R. griseoflaccida Sarn.
+13,14$ 13b : Espèce plus charnue à chapeau bleu violacé sombre, rarement vert (?). Lames pâles (Sporée IIa). Poils à articles moyens. Feuillus ou conifères. $ R. parazurea ss. l.
+
+14,0$ 14a : Stipe blanc, revêtement ruguleux à marge pruineuse. Feuillus gramineux banals (Bo 59, Sarn 281 + 283, forme verte ?). $ R. parazurea var. parazurea J.Schaeff.
+14,0$ 14b : Stipe lavé de violet, revêtement ± rimeux. Conifères calcicoles. (BGMB 28:84). $ R. parazurea var. dibapha Romagn.
+
+15,0$ 15a : Spores subcrêtées à ornementation faible ou peu visible en coupe optique. Chapeau à reflets violacés, gris bleuté sur fond crème à rares nuances verdâtres ou vers R. vesca ? Spores < 8.5(9) x 6.5(7) µm. Poils piléiques à articles ± isodiamétriques, seul le dernier étant étiré (Q vers 10). Piléocystides unicellulaires, mucronées. (Ro. 294, Sarn. 343). $ R. sublevispora Romagn.
+15,16$ 15b : Spores à ornementation moyenne ou ± fortement échinulées, non ou peu crêtées.
+
+16,0$ 16a : Spores petites ou subglobuleuses vers 5-6 µm, à verrues fines (< 0.5 µm) et isolées. Chapeau 8-12 cm, ridé ou vergeté, à marge cannelée ou rimeuse mais peu striée. Couleur violacée sur fond ochracé, vaguement olivâtre ou gris lilacin à carné rosâtre. Chair blanche à grisâtre, Fer orangé vif et Gaïac ++. Poils piléiques à articles ± allongés (Q = 5-7). Piléocystides cylindroclavées. Chênes. (RRM 29). $ R. columbaria Velen.
+16,17$ 16b : Spores > 6(7) µm, à verrues plus importantes (0.6-0.8 µm). Chapeau sans traces de vert olive.
+
+17,0$ 17a : Grandes spores jusqu’à 10(11) µm, échinulées ou à grosses verrues isolées, tronquées (0.8-1 µm). Chapeau purpurin violacé sombre. Lames pâles (Ib-IIa). Poils piléiques à articles allongés (Q > 15-20), le terminal cylindracé ou non effilé. Epicéas. (RRM 30). $ R. purpureolilacea Reum. ad int.
+17,18$ 17b : Spores moyennes (< 9.5 x 6.5 µm), à verrues ± cristulées ou subréticulées. Couleur gris violeté à purpurin. $ R. grisea ss. l.
+
+18,0$ 18a : Spores peu cristulées. Chapeau gris bleuté à violeté au disque. Poils piléiques x 3-5 µm, à articles moyens (Q = 5-10), le terminal ± étiré. Piléocystides ± fusiformes à sommet ogival ou étranglé. Feuillus. (Bo 59, DM 70-71:59, etc.). $ R. grisea var. grisea Pers. ex Fr.
+18,19$ 18b : Spores ± subréticulées. Chapeau plus bariolé de verdâtre ou de purpurin.
+
+19,0$ 19a : (18b) Stipe ± lavé de violeté. Chapeau du type ou mêlé de verdâtre. Spores crêtées ou peu réticulées. Poils à articles moyens (Q = 5-10). Piléocystides clavées. $ R. grisea var. pictipes Bl. ex M.Bon
+19,0$ 19b : Stipe blanc ou brunissant. Chapeau velouté, purpurin (aspect de R. amoena ?). Spores plus franchement réticulées ou à épines fortes, jusqu’à 1 µm. Poils à articles subisodiamétriques et piléocystides cylindracées ou appendiculées. (Ro 295). $ R. grisea var. iodes Romagn.
+
+20,21$ 20a : Couleurs vertes dominantes.
+20,24$ 20b : Couleurs vertes ± mêlées de violet vers le centre ou en cocarde marginale.
+
+21,22$ 21a : Spores piquetées ou à verrues subisolées.
+21,23$ 21b : Spores cristulées à subréticulées.
+
+22,0$ 22a : Chapeau vert amande à olivacé ou glauque grisâtre, à centre ± lavé de lilacin vineux ou brunâtre bleuté. Lames ocre. Sporée vers III (parfois IV ?). Stipe typiquement médulleux, blanc, brunissant. Poils à articles courts ou moyens (Q < 3-5), souvent ramifiés, le terminal ± lagéniforme. Piléocystides cylindracées, capitulées, non cloisonnées. Prés-bois, jusqu’en zone subalpine supérieure. (CD 1421, Grzyby 20:79, R. Catal. Mic. 20:117, Sarn. 349). $ R. medullata Romagn.
+22,0,N$ En fourrés méridionaux, si la sporée ne dépasse pas IId, cf. R. monspeliensis.
+22,0$ 22b : Chapeau gris verdâtre, ochracé ou délavé, à centre plus sombre. Stipe solide, blanchâtre, paille à ochracé rouille. Sporée IIa. Poils piléiques à articles épais, en tonnelets (Q vers 3, au moins à partir du 3e ou 4e article), les terminaux plus étirés. Piléocystides clavées, peu nombreuses, 0-1-cloisonnées. (RRM 30). $ R. ochroviridis (Cke) Reum.
+
+23,0$ 23a : Chapeau 5-8 cm, gris verdâtre olivacé, à centre jaunâtre et extérieur plus sombre. Lames assez distantes et fourchues. Spores subréticulées, 6.5-8.5 x 5.5-6.5 µm. Poils piléiques à articles courts ou subisodiamétriques (Q < 2). Feuillus argilocalcaires. (DM 70-71:57, Psia 12(4):45). $ R. pseudoaeruginea (Romagn.) Kuyp. & V. Uure
+23,0$ 23b : Chapeau jusqu’à 13 cm, vert bronze, nuancé de violet pâle comme une R. cyanoxantha décolorée. Lames épaisses ou peu serrées. Spores jusqu’à 9(10) x 6(7) µm, subcristulées. Poils piléiques à articles allongés (Q > 8-10), le terminal obtus ou étroit x 3-5 µm. Pessières moussues, subalpines. (RRM 31). $ R. montensis Bid. & al.
+
+24,25$ 24a : Chapeau zoné de vert et de violet. Spores crêtées ou zébrées.
+24,26$ 24b : Chapeau ± panaché ou bronzé. Spores à verrues subisolées ou caténulées.
+
+25,0$ 25a : Chapeau franchement cocardé, à centre violet et marge verdâtre (parfois l’inverse ?). Spores à verrues basses (< 0.5 µm) et crêtes courtes. Poils piléiques à articles courts ou subisodiamétriques à partir du 2e ou 3e segment, avec le terminal franchement étiré. Piléocystides unicellulaires, subcylindracées. Feuillus, surtout Fagus. (DM 70-71:59). $ R. ionochlora Romagn.
+25,0$ 25b : Chapeau plus délavé, violet dilué, à marge verdâtre ochracé. Spores cristulées à zébrées. Poils piléiques à articles oblongs (Q > 5) ou épais, x 5-8(11) µm, le terminal grêle ou cylindracé. Piléocystides 1-2-cloisonnées. Chênes calcicoles. (RRM 33). $ R. pyrrhonii Moënne-L. & Reum.
+
+26,28$ 26a : Spores à verrues subisolées ou peu cristulées.
+26,27$ 26b : Spores à verrues ± caténulées. Chapeau verdâtre, panaché de violet. Odeur faible, aromatique (?). Poils piléiques à articles moyens (Q = 3-6). $ R. monspeliensis ss. l.
+
+27,0$ 27a : Revêtement glabre à marge lisse. (CD 1428, MI 16(3):67, Rev. Catal. Mic. 21:84, Sarn. 305). $ R. monspeliensis var. monspeliensis Sarn.
+27,0$ 27b : Marge ± rimeuse, R. cutefracta en plus vert. (Sarn. 310) (= R. m. fo. ad. medullatam ss. M.Bon). $ R. monspeliensis var. sejuncta Sarn.
+
+28,0$ 28a : Chapeau vers 4 cm et stipe peu épais (aspect de Tenellae) ; revêtement humide ou luisant, violacé à verdâtre, à marge ± striée. Spores courtement crêtées. Poils piléiques à articles courts (Q < 3-5), le terminal subobtus. Feuillus. (MVM 8(1):21). $ R. synaptica Sarn. ad int.
+28,0$ 28b : Chapeau > 6 cm ; aspect pouvant rappeler R. ionochlora, en plus terne ou ocre bronze. Spores piquetées. Poils piléiques à articles moyens (Q vers 5-8), le terminal étiré. Piléocystides clavées 0-1-cloisonnées. Trembles ou saules. (RRM 33). $ R. ferreri Sing.
+
+
+CS11,0$ Sous-genre Amoenula SARN. (= Heterophyllidia sect. Amoenina Romagn.)
+
+1,0$ 1a : Pas de cystides faciales. (Sarn. 388). $ R. amoena var. acystidiata Romagn.
+1,0,N$ Voir aussi R. aciculocystis.
+1,2$ 1b : Cystides faciales présentes.
+
+2,3$ 2a : Cystides étroites < x 10 µm ; spores ± oblongues (Q > 1.3).
+2,0,N$ Pleuros rares ou nulles, piléos lancéolées, petite espèce rouge-rosé à spores finement crêtées-zébrées : cf. R. aciculocystis Sing. in RRM 25.
+2,5$ 2b : Cystides larges jusqu’à x 15(20) µm ; spores à tendance subglobuleuse (Q < 1.3).
+
+3,0$ 3a : Phénol banal ; chapeau jusqu’à 10(12) cm. (Sarn. 316). $ R. amoenicolor var. stenocystidiata Sarn.
+3,0,N$ La réaction banale au phénol rappelant l’espèce violeipes, il serait plus souhaitable que cette variété en fasse partie : R. violeipes var. stenocystidiata (Sarn.) ad int.
+3,4$ 3b : Phénol pourpre ; espèce relativement petite < 5(6) cm. $ R. amoena Quél. ss. l.
+
+4,0$ 4a : Couleur carminée. (RRM 25, Sarn. 385, Skirg. 67) (= R. mariae ss. Reum.). $ R. amoena fo. amoena Quél.
+4,0,N$ Il semble que le type de R. mariae possède des spores subglobuleuses rappelant plutôt le groupe amoenicolor-violeipes.
+4,0$ 4b : Couleur ± verte. $ R. amoena fo. viridis Sarn.
+
+5,6$ 5a : Sporée pâle < IIb. Poils à articles basaux isodiamétriques. Phénol brunâtre. $ R. violeipes.
+5,7$ 5b : Sporée IId à III. Poils à articles allongés. Couleurs variées. Phénol pourpre. $ R. amoenicolor.
+
+6,0$ 6a : Chapeau violet. Stipe ± rosé lilacin. (Einh. 202, Sarn. 398, Skirg. 69). $ R. violeipes var. violeipes Quél.
+6,0$ 6b : Chapeau jaune, stipe blanc ou peu teinté. (Sarn. 400). $ R. violeipes var. citrina Quél.
+
+7,0$ 7a : Couleur variées, violacées à rose brunâtre. Stipe ± rose. (Sarn. 389, Skirg. 66) (= R. mariae ss. Schaef., Sing., pp.) $ R. amoenicolor var. amoenicolor Romagn.
+7,0,N$ Espèce proche de R. alachuana Murr., selon Reumaux (FnD 8 :11), mais la diagnose originale indique des lames blanches et les poils piléiques, décrits d’après un exsiccatum type, semblent trop obtus pour le sous-genre Amoenula.
+7,0$ 7b : Couleur verte dominante. Stipe blanc. (Sarn. 394). $ R. amoenicolor fo. olivacea Sarn.
+7,0$ 7c : Couleur pourpre noirâtre. (Sarn. 395). $ R. amoenicolor fo. nigrosanguinea Romagn. (non val.)
+
+
+CS12,0$ Sous-genre Tenellula ROMAGN.
+
+Espèces peu charnues à stipe grêle ou compressible ; basides peu allongées ou ± trapues < 40(50) x 8-12 µm.
+
+1,CS13$ 1a : Espèces à odeur suave, fruitée à pélargoniée, à sporée moyenne (II-III rarement IV). Si la saveur est ± âcre et la sporée vers II, penser à la section Violaceinae qui pourrait faire partie des Tenellae par la relative gracilité des espèces ou les basides parfois courtes ou étroites. $ Section Odoratinae (M.Bon) st. nov. $s"Section Odoratinae."
+1,CS16$ 1b : Espèces peu ou non odorantes, à sporée jaune (« maxi », jusqu’à IVe), avec une tendance au grisonnement ou une saveur parfois âcrescente. $ Section Laricinae Romagn. $s"Section Laricinae."
+1,CS14$ 1c : Jaunissement ± fort, parfois ochracé brunâtre, à sporée crème ou ocre (II-III). $ Section Puellarinae (Sing.) st. nov. $s"Section Puellarinae."
+1,2$ 1d : Espèces immuables ou presque.
+
+2,CS15$ 2a : Couleurs ± rouges et marge lisse, peu ou courtement striée-cannelée. $ Section Rhodellinae Romagn. $s"Section Rhodellinae."
+2,CS17$ 2b : Couleurs plus variées, de rougeâtre à verdâtre ou brun violacé et marge ± fortement striée ou cannelée. (= Sphagnophilae Sing. 1951 inval.). $ Section Betulinae Romagn. $s"Section Betulinae."
+
+
+CS13,0$ Section Odoratinae (M.BON) M.BON
+
+1,2$ 1a : Sporée pâle vers II, odeur surtout pélargoniée (espèces pouvant être considérées comme des Violaceinae douces).
+1,3$ 1b : Sporée ± ocre à jaune (III-IV), odeur variable, parfois fruitée.
+
+2,0$ 2a : Lames espacées ; chapeau vineux à violacé, à marge cannelée, vite décolorée et disque plus sombre. Stipe vite creux, blanc, ± jaunissant. Spores cristulées. (DM 70-71:66). $ R. terenopus Romagn.
+2,0$ 2b : Lames normalement serrées et marge non ou peu cannelée. Couleur plus lilacine ou pâle à disque crème. Stipe légèrement grisonnant. (RRM 153 + 283) (= R. cremeolilacina Reum. 1996, non Pegler 1980). $ R. cremeolilacinoides Reum.
+
+3,0$ 3a : Lames et sporée jaune vif (IVc) ; spores subréticulées. Chapeau purpurin à lilacin (plus rouge dans la var. rutilans Sarn.). Odeur fruitée. (DM 70-71:67). $ R. odorata Romagn.
+3,0,N$ R. lilacinicolor Blum, parfois peu jaunissante, possède une odeur plus faible, rappelant R. delica. Par contre, on peut confondre la var. rutilans (BGMB 29:10) avec R. lutensis var. reducta Romagn., plus immuable, hygrophile et à spores peu cristulées.
+3,4$ 3b : Lames et sporée ocre III (IVa). Spores plus faiblement cristulées. Chapeau à couleurs plus variables. $ Stirpe Versatilis. $s"Stirpe Versatilis."
+
+4,0$ 4a : Couleur terne pouvant rappeler les Pectinatae, rarement verdâtre bronzé ou cuivré. Odeur vers R. pseudointegra et chair parfois un peu jaunissante. (DM 70-71:67). $ R. pulchralis Britz.
+4,5$ 4b : Couleurs plus vives, rouges ou lilacines, parfois verdâtres, tout au plus pâlies vers le crème rosâtre, bronzé ou cuivré.
+
+5,0$ 5a : Odeur pélargoniée ; couleur lilacine à vineuse ± mêlée d’olivâtre, pouvant pâlir à crème rosâtre ± cuivré. (DM 70-71:67). $ R. versatilis Romagn.
+5,0$ 5b : Odeur rappelant R. fellea ou R. queletii. Couleur rougeâtre plus vive ou vite tachée d’ocre roussâtre à la manière des Puellarinae. Sporée IIIc (IVa), spores subréticulées. (B. AMER 30-31:8). $ R. arpalices Sarn.
+
+
+CS14,0$ Section Puellarinae (SINGER) M.BON
+
+1,2$ 1a : Sporée pâle (vers II). $ R. puellaris ss. l.
+1,7$ 1b : Sporée ocre à jaune (III-IV).
+
+2,0$ 2a : Couleurs ternes ou sombre, vite envahie de jaune orangé ou ocre vif à safrané, à partir de la marge ou à manipulation. Stipe fortement taché de jaune ± safrané. Spores crêtées à ± zébrées. Généralement sous feuillus. (DM 70-71:62). $ R. puellaris var. puellaris Fr.
+2,0,N$ Une var. cupreovinosa Reum. (RRM 230), plus cuivrée, pourrait rappeler la var. pseudoabietina en moins sombre. Par contre, la f. rubida Romagn., nettement plus rouge, se signale en outre par ses basides et cystides un peu plus grandes et des piléocystides aussi plus trapues, de sorte qu’elle pourrait faire partie du sous-genre Polychromidia, à condition de l’élever au niveau d’espèce.
+2,3$ 2b : Couleur particulières ou plus rougeâtres, spores ou habitat différents.
+
+3,4$ 3a : Variétés caducicoles ± graciles, à marge sillonnée.
+3,5$ 3b : Variétés acicoles plus charnues ou à marge lisse.
+
+4,0$ 4a : Chapeau glabre, rose vineux à ± ochracé cuivré ou olivâtre, à centre sombre. Spores courtement cristulées à zébrées. (DM 70-71:63). $ R. puellaris var. minutalis (Britz.) Sing.
+4,0$ 4b : Chapeau rougeâtre à revêtement floconneux ; saveur âcrescente. Feuillus hygrophiles, aulnes, etc. (Br 65). $ R. puellaris var. leprosa Bres.
+
+5,0$ 5a : Couleurs purpurines, parfois sombres (vers R. atropurpurea). Spores échinulées, subglobuleuses chez une forme grêle nommée « porphyrea ». (DM 70-71:63, RRM 151) (= R. puellaris var. abietina (Peck) M.Bon n. ambig.). $ R. puellaris var. pseudoabietina Bidaud & Moënne-L.
+5,6$ 5b : Couleur plus rouge et sporée cristulées à subréticulées.
+
+6,0$ 6a : Chapeau rouge vif et spores peu cristulées. (RRM 150). $ R. puellaris f. rubida Romagn.
+6,0$ 6b : Chapeau plus vineux ou cuivré ; spores zébrées à subréticulées. (RRM 150). $ R. puellaris var. cupreovinosa Reum.
+
+7,8$ 7a : Sporée moyenne (vers III). Couleurs ternes ou peu vives et jaunissement souvent important.
+7,12$ 7b : Sporée jaune vif (IV). Couleurs plus vives ou jaunissement faible.
+
+8,0$ 8a : Couleur terne rappelant le s.-g. Ingratula, rarement lavées de rosâtre (forme ?). Spores entièrement réticulées. (DM 70-71:63). $ R. scotica A.Pearson.
+8,9$ 8b : Couleurs rose violacé à verdâtres ou cuivrée. Spores épineuses, cristulées ou peu réticulées.
+
+9,10$ 9a : Jaunissement important ou ± safrané (de type puellaris), couleurs variées.
+9,11$ 9b : Jaunissement faible ou moyen, non safrané, couleur pourpre violacé. $ R. versicolor ss. l.
+
+10,0$ 10a : Sous feuillus banals ; chapeau bariolé. $ R. pseudopuellaris (M.Bon) M.Bon
+10,0,N$ Curieusement, Reumaux (RRM 151) rapprocherait ce taxon de R. laeticolor Blum, décrit comme espèce âcre (Maculatinae) et plutôt immuable, in SMF 67:171.
+10,0$ 10b : Sous épicéas subalpins. Couleurs plus rouge violacé. (B. AMER 33:12). $ Cf. R. sapinea.
+
+11,0$ 11a : Jaunissement faible ou moyen. Chapeau bariolé de rosâtre vineux avec le centre ± olivâtre, jusqu’à entièrement gris verdâtre. Spores subréticulées. (cf. DM 70-71:64). $ R. versicolor var. versicolor J. Schäf.
+11,0$ 11b : Jaunissement important. Chapeau plus rougeâtre ou violacé, rarement lavé de verdâtre au disque. Spores à crêtes caténulées ou zébrées. (DM 70-71 :64). $ R. versicolor var. intensior (Cke) Kühn. & Romagn. ex M.Bon
+
+12,0$ 12a : Spores à épines isolées. Couleurs variées, rougeâtre à vineux pourpré ou mêlées de verdâtre. $ Cf. R. carpini f. tenella M.Bon
+12,13$ 12b : Spores crêtées à ± réticulées.
+
+13,0$ 13a : Odeur faible, fruitée ou vers R. delica. $ Cf. R lilacinicolor Blum
+13,14$ 13b : Odeur nulle ou fongique. Couleurs rouge vif parfois délavées.
+
+14,0$ 14a : Chapeau jusqu’à 6-7 cm, rouge vineux. Spores à réticule complet. (DM 70-71:66). $ R. elegans Bres.
+14,15$ 14b : Chapeau 2(-3) cm, chair mince ; spores ± subréticulées.
+
+15,0$ 15a : Couleur comme R. elegans. (DM 70-71:66). $ R. pseudoruberrima Romagn.
+15,16$ 15b : Couleur pâle ou ± violacée.
+
+16,0$ 16a : Feuillus acidoclines. Couleur pâle ou délavée. (DM 70-71:66). $ R. lilacinocremea Romagn. ex Bidaud et al.
+16,0,N$ R. cremeolilacinoides Reumaux (RRM 153-283), un peu plus grisonnante, à peine plus squamuleux et à spores plus pâles vers IIb (c), pourrait être considérée comme une Violaceinae subdouce.
+16,0$ 16b : Epicéas subalpins. Couleurs violetées ou jaunissement plus vif. Spores cristulées, jusqu’à 10(-11) µm, piléocystides à 3-5 articles subisodiamétriques. (B. AMER 33:12). $ R. sapinea Sarn.
+
+
+CS15,0$ Section Rhodellinae ROMAGN.
+
+1,0$ 1a : Sporée pâle (IIa-c). Couleur rouge ou rosée à ± ochracée au disque. Cuticule peu séparable. Spores crêtées à zébrées. (DM 70-71:68). $ R. puellula Ebbesen, F.Moeller & J.Schäffer
+1,2$ 1b : Sporée ocre à jaune (III-IV) et couleur ± brique à carminée ou purpurine.
+
+2,3$ 2a : Spores échinulées, à épines isolées ou rarement courtement crêtées. Sporée III.
+2,5$ 2b : Spores ± crêtées à ± réticulées. Sporée IV.
+
+3,0$ 3a : Espèce alpine, bisporique. (SMF 91:365). $ R. heterochroa Kühner
+3,4$ 3b : Espèces caducicoles ± planitiaires (hêtraies ?).
+
+4,0$ 4a : Chapeau zoné, ± rosé, rappelant Hygrophorus russula. Poils cuticulaires banals, étroits, x 2-3 µm. $ R. zonatula Ebbesen & J.Schäffer
+4,0,N$ A spores ± réticulées, voir aussi R. rhodella var. heterosperma.
+4,0$ 4b : Couleur ± rouge, vers velenovskyi. (DM 70-71:69). $ R. rhodella J.-E.Gilbert
+4,0,N$ R. convivialis Sarn., plus méridionale, peut posséder des spores à peine cristulées, peu connexées ou caténulées.
+
+5,6$ 5a : Revêtement mat ± ruguleux, vite sec ou pruineux.
+5,0$ 5b : Revêtement lisse ou glabre à ± lubrifié. Chapeau (4)5-6 cm, charnu ou épais, rouge ou orangé à ± cuivré à la fin (vers R. velenovskyi). Spores jusqu’à 9(10) µm x 7(8) µm. (DM 70-71:69, RRM 155). $ R. fontqueri Sing.
+5,0,N$ A chapeau < 3(4) cm, mince ou peu charnu et spores < 7(8) x 6(6.5) µm, cf. var. microspora Romagn., non valide. Si aspect Hygrophorus russula, cf. R. rhodella var. heterospora Sarn. (AMB 36:50).
+
+6,0$ 6a : Espèce ± ubiquiste, caducicole (Fagus ?), à couleur carminée ± vive, pouvant rappeler R. pseudointegra. Poils cuticulaires à articles courts ou tortueux, parfois en puzzle avec le terminal plus obtus. (DM 70-71:68). $ R. melzeri Zvara
+6,7$ 6b : Espèces plus méridionales (Italie ?) à couleur plus rosée ou orangée à brun rougeâtre. Poils cuticulaires à dernier article ± atténué.
+
+7,0$ 7a : Couleur rose carminé à orangé. Spores peu cristulées ou plutôt caténulées. Poils cuticulaires à articles allongés. (AMER 33:3). $ R. convivialis Sarn.
+7,0$ 7b : Couleur plus brun rougeâtre. Spores subréticulées. Poils cuticulaires à articles courts ou subisodiamétriques, sauf le dernier, plus allongé ou atténué. (BGMB 30:33). $ R. pseudoimpolita Sarn.
+
+
+CS16,0$ Section Laricinae ROMAGN.
+
+1,2$ 1a : Spores strictement épineuse ou à peine cristulées. Espèces ± charnues à marge non ou peu striée.
+1,6$ 1b : Spores crêtées à ± réticulées.
+
+2,0$ 2a : Sous feuillus. Chapeau 5-7 cm et stipe court < 2 cm, couleurs variées ; grandes spores jusqu’à 15(17) x 11-12 µm. $ R. maximispora J.Blum. ex M.Bon
+2,3$ 2b : Sous conifères, souvent pessières humides. Espèces plus graciles à marge ± cannelée. Spores < 12(14) x 8(10) µm.
+
+3,0$ 3a : Bisporie. Spores jusqu’à 14 x 10 µm. Couleur jaune à verdâtre. (Karst. 30 :15). $ R. olivina Ruotsalainen & Vauras
+3,4$ 3b : Tétrasporie. Spores < 12 x 8 µm ; couleurs variées. $ R. nauseosa ss. l.
+
+4,0$ 4a : Couleurs variées et stipe ± teinté de grisâtre ; saveur ou odeur peu agréables. $ R. nauseosa var. nauseosa (Pers.) Fr.
+4,5$ 4b : Couleur ± pourprée ou plus uniforme.
+
+5,0$ 5a : Chapeau < 3 cm, pourpre rosé. (RRM 160). $ R. nauseosa var. striatella J.Schäffer ex Moënne-Loccoz
+5,0$ 5b : Chapeau > (4)5 cm, pourpre sombre. Saveur ± âcre (?). Spores < 9(10) µm, subcristulées (= R. allescheri ss. J.Blum.). $ R. nauseosa var. atropurpurea Allescher
+
+6,7$ 6a : Spores entièrement ou confusément réticulées. Spores 9-11(12) x 7-8.5(9) µm. Sous pins surtout en sol calcaire. $ R. cessans ss. l.
+6,8$ 6b : Spores cristulées à crêtées ou subréticulées.
+
+7,0$ 7a : Couleur variable, rougeâtre à purpurine ou lavées de verdâtre ; récoltes assez ubiquistes. $ R. cessans var. cessans A.Pearson
+7,0$ 7b : Couleur rouge dominante, var. méridionale ; pins d’Alep plutôt en terrain siliceux. (RRM 233) (= R. cessans ss. Reumaux pp.). $ R. cessans var. meridionalis M.Bon
+
+8,9$ 8a : Espèces fragiles, à marge ± striée ; couleurs variées. $ Stirpe Laricina. $s"Stirpe Laricina."
+8,10$ 8b : Espèces plus charnues, à marge non striée et couleur rouge plus uniforme.
+
+9,0$ 9a : Espèce acicole pouvant rappeler R. nauseosa (pessières et lariçaies). Couleurs violacées à rosâtre ou rougeâtre, mêlées de verdâtre ou parfois jaunes au disque (var. flavida (Cooke) M.Bon). Stipe plutôt grisonnant. Spores oblongues jusqu’à 10(11) x 7.5(8) µm. (DM 70-71:60). $ R. laricina Velenovsky
+9,0$ 9b : Espèce quercicole plutôt méridionale, méditerranéenne ou thermophile (Quercus ilex, Q. alba), rare plus au nord sous chênes banals. Couleur brun rosâtre sombre à bronze olivâtre. Stipe non grisonnant. Spores subglobuleuses vers 9-10 x 8-9 µm. (FMDS 108:11, AR 370). $ R. laricinoaffinis M.Bon
+9,0,N$ Des récoltes ± septentrionales pourraient rappeler R. querceti, qui diffère par ses spores moins subglobuleuses et à forte épines subisolées.
+
+10,0$ 10a : Couleur rouge carminé. (DM 70-71:62). $ R. ruberrima Romagn.
+10,0$ 10b : Couleurs plus orangé cassé ou vineuses à brunâtres. Sporée IVb-c, tendance vers Rhodellinae. Chênes. (DM 70-71:62). $ R. querceti Haas & J.Schäffer
+10,0,N$ La spore est à peine plus pâle (IVa) chez R. font-queri, à couleur plutôt vers R. velenovskyi. – cf. Rhodellinae.
+
+
+CS17,0$ Section Betulinae ROMAGN. (= Sphagnophilae Singer inval.)
+
+1,2$ 1a : Couleur ± brun violacé ou pourprée, marge obtuse ou peu sillonnée, sporée vers II. $ R. brunneoviolacea ss. l.
+1,4$ 1b : Couleurs rouges ou verdâtres, bronzées, etc. ; sporée jusqu’à IIIc.
+
+2,0$ 2a : Spores fortement cristulées à ± réticulées. Chapeau brun pourpré à fines ponctuations rouille. $ R. brunneoviolacea var. cristatispora Blum
+2,0,N$ En zone alpine, à spores finement réticulées, il s’agit de R. saliceticola. Voir aussi R. fusconigra en pessières subalpines ou septentrionales.
+2,3$ 2b : Spores à épines isolées ou à peine cristulées.
+
+3,0$ 3a : Chapeau jusqu’à 8(10) cm à couleur typique, d’un vineux violeté ± foncé à reflets bleutés avec de fines taches rouille ou à reflets palissandre, granuleuses. Spores à fortes épines grossières, parfois subisolées. Feuillus souvent acidoclines, Quercion, Ilici-Fagion, etc. $ R. brunneoviolacea var. brunneoviolacea Crawshay.
+3,0$ 3b : Chapeau < 3 cm à couleur plus rougeâtre ou carminée, à centre sombre ou grisâtre. Odeur subnulle ou vers xerampelina. Spores à épines plus fines ou ± reliées. (Ro. 649, RRM 158). $ R. rubrogrisea (Romagn.) Reumaux
+
+4,5$ 4a : Spores ± réticulées, sporées vers II(III). $ Stirpe Sphagnophila. $s"Stirpe Sphagnophila."
+4,6$ 4b : Spores épineuses à ornementation subisolée ou cristulée ; sporée jusqu’à IIIb-c. $ Stirpe Nitida. $s"Stirpe Nitida."
+
+5,0$ 5a : Espèce hygrophile. Chapeau (3)4-7(8) cm, relativement fragile à marge striée-cannelée et lames espacées. Couleurs variées, de verdâtre ou ± brun olivâtre à rouge pourpre ou violacé vineux (± pâlies dans la var. pallida (J.E.Lange) M.Bon). Stipe fragile, mou, creux ou compressible, ruguleux ou veiné. Chair rougeâtre sous la cuticule, parfois jaunissante à odeur faible vers R. violacea et saveur parfois âcrescente. Spores 8-10(11) x 6.5-7.5 µm, épineuses. Marais, mousses hygrophiles ± acidophiles ou sphaignes. (RRM 157, cf. Wuilbaut Misc. Micol. 52:36). $ R. sphagnicola Kauffmann ss. Reumaux pp. ?
+5,0$ 5b : Espèce des feuillus banals. Chapeau plus violeté, à marge non ou peu striée. Saveur ± âcre (?) et odeur vers R. emetica. Sporée à peine plus pâle (< IId ?). (Bl. 158, Ro. 652, RRM 156). $ R. robertii Blum
+
+6,7$ 6a : En zone alpine (saulaies naines). Spores ± crêtées à subréticulées.
+6,8$ 6b : Habitats banals, spores à verrues isolées ou un peu cristulées. $ R. nitida ss. l.
+
+7,0$ 7a : Sur saules herbacés. Chapeau vers 2 cm, purpurin sombre, à marge lisse ou peu sillonnée. Spores subréticulées. (DM 70-71:72). $ R. saliceticola (Singer) Kühner & Knudsen
+7,0,N$ Il semble exister aussi une forme planitiaire, rappelant R. atrorubens et qui pourrait être attribuée à l’espèce R. nitida.
+7,0$ 7b : Espèce scandinave des saulaies réticulées (à rechercher dans l’arc alpin). Chapeau 3-4 cm, brun rouge terne. Spores peu crêtées. (SMF 91:368). $ R. purpureofusca Kühner
+
+8,0$ 8a : Chapeau (2)3-5(7) cm, assez charnu, à marge ± sillonnée, revêtement satiné, brillant ou chagriné, rougeâtre à purpurin ou vineux, de palissandre à feuille morte ou à rares reflets verdâtres avec l’âge. Lames larges ou ventrues-obtuses, peu serrées, parfois à arête rougeâtre. Stipe blanc à base souvent rosée, parfois jaunissante. Spores jusqu’à 12(13) x 8(9) µm, à épines pratiquement isolées. Piléocystides ± cloisonnées. Feuillus ± hygrophiles ou acidophiles, Betula, plus rarement Picea. (DM 70-71:71). $ R. nitida var. nitida (Pers.:Fr.) Fr.
+8,9$ 8b : Variantes de coloration ou à spores ± crêtées.
+
+9,0$ 9a : Spores < 9 µm, à verrues épineuses basses ou un peu reliées. Couleur du type ou plus terne dans les bistre lilacin ou à reflets verdâtres. Feuillus ± thermophiles, assez rare. (DM 70-71:71). $ R. nitida var. heterosperma (Singer) M.Bon
+9,0,N$ La var. subheterosperma Singer, à odeur fruitée rappelant R. odorata, serait moins rare selon Reumaux – RRM 157, tandis qu’en Europe boréo-orientale, R. taigarum Ruotsalainen & Vauras – Karst. 30:22, plus violacé olivâtre à stipe rosé, possède des spores plus confusément cristulées ou caténulées = variété possible de R. nitida ?
+9,0$ 9b : Spores jusqu’à 10(11) µm à ornements plus nets mais isolés. Couleurs ternes sans traces de rose ou de violacé, seulement un peu cuivrées sur fond bistre jaunâtre à olivâtre, parfois décolorées en beige sale. Feuillus divers, surtout bouleaux. $ R. nitida fo. olivaceoalba (Singer) M.Bon
+9,0,N$ Il s’agit peut-être d’un sosie ± hétérosporé de R. sphagnophila var. pallida ou, tout simplement, de R. placida var. olivaceoalbescens Bidaud ad int. – RRM 158. D’autre part, une var. subingrata (Singer) M.Bon, à saveur relativement âcre pourrait être reportée dans les russules « insidieuses », vers R. cuprea.
+
+
+CS18,0$ Sous-genre Polychromidia (R.MAIRE) ROMAGN. (= Sect. Polychromae R. Maire ss. lato, non M.Bon 1988)
+
+Espèces douces, relativement robustes ou non fragiles, à couleur variables autour des rouges ± cassés ou brun orangé à purpurin ou noirâtre parfois mêlés d’olivâtre, ni rosé pur, ni rouge vif (cf. Coccinula), ni franchement violet ou verdâtre (cf. Heterophyllidia) ; sporée ocre à jaune (III-IV) rarement crème (IId) pour quelques espèces ± brunissantes ou noircissantes. Espèce type selon Romagnesi = R. integra (L.) Fr.
+
+Clé des sections
+
+1,CS19$ 1a : Espèces jaunissantes, brunissantes ou grisonnantes à sporée variable, de crème à ocre ou jaune vif ; piléocystides non incrustées. $ Sect. Decolorantes R. Maire ss. l. $s"Sect. Decolorantes."
+1,2$ 1b : Espèces immuables ou seulement partiellement à faiblement décolorantes.
+
+2,0$ 2a : Brunissement léger ou seulement à partir de la base du stipe. Odeur particulière (crustacés) et sulfate de fer vert ; piléocystides parfois douteuses ou SBA faible à subnul : cf. section Viridantes (non traitée ici), qu’il sera possible de traiter plus tard comme sous-genre Viridantula (st. nov. ad int.). $ Cf. section Viridantes.
+2,CS20$ 2b : Brunissement nul ou rare jaunissement par taches, sulfate de fer nul ou ± rosé. $ Sect. Polychromae ss. str. $s"Sect. Polychromae."
+
+
+CS19,0$ Section Decolorantes R.MAIRE
+
+1,2$ 1a : Espèces grisonnantes ou noircissantes. $ Sous-sect. Decolorantinae R.Maire. $s"Sous-sect. Decolorantinae."
+1,6$ 1b : Espèces jaunissantes ou brunissantes. $ Sous-sect. Melliolentinae Singer. $s"Sous-sect. Melliolentinae."
+
+2,0$ 2a : Sporée jaune (IVb-c). Couleur variable, de purpurin violacé à ± verdâtre ou ochracé olivâtre au disque (nombreuses variantes de colorations ?). cf. DM 70-71 :73. $ R. seperina Dupain
+2,3$ 2b : Sporée crème à ocre moyen II (III).
+
+3,0$ 3a : Chapeau cuivré à ± orangé cassé ; noircissement important ; conifères, marécages, surtout en montagne. (DM 70-71:73). $ R. decolorans (Fr.:Fr.) Fr.
+3,4$ 3b : Couleurs rougeâtres ± vives ou orangées parfois mêlées de brun vineux ou purpurin.
+
+4,0$ 4a : Sporée crème vers II. Spores à verrues ± isolées ou peu crêtées. Epicéas, Europe centrale. $ R. steinbachii Singer
+4,5$ 4b : Sporée vers III et spores réticulées. Espèces plutôt boréales ou scandinaves.
+
+5,0$ 5a : Espèce hygrophile, aulnaies, sphaignes : chapeau polychrome de rouge à brun vineux ou fauvâtre. (Mico 2000:562). $ R. rivulicola Ruotsalainen & Vauras
+5,0$ 5b : Sous bouleaux ou épicéas gramineux. Chapeau rouge à brun purpurin ; grisonnement parfois tardif. (Mico 2000:558). $ R. vinososordida Ruotsalainen & Vauras
+5,0,N$ Si espèce méditerranéenne et couleurs rappelant les Griseinae, cf. R. nuragica.
+
+6,0$ 6a : Spores à ornementation bassement réticulée, peu visible en coupe optique ; chapeau de rouge carminé à orangé cassé ou jaunissant à partir de la marge, parfois plus pourpré noirâtre au disque (fo. atropurpurea Singer) ou marbrée de gris violacé verdâtre (fo. viridescens Moënne-Loccoz & Reumaux). Odeur miellée. (DM 70-71:74, RRM 161). $ R. melliolens Quélet
+6,7$ 6b : Spores à ornementation moyennes (> 0.5 µm ou bien visible en coupe optique).
+
+7,0$ 7a : Saveur franchement douce et couleur vineuse à rose purpurin avec le centre ochracé ou taché de rouille. Feuillus thermophiles. (BGMB 29(5-6):263). $ R. dryophila Sarnari
+7,8$ 7b : Saveur ± âcrescente et couleur généralement sombre (R. atropurpurea ou plus noirâtre). Revêtement luisant ou d’aspect gras. (Ss.-sect. Viscidinae Sarnari – MVM 6(2) :128).
+
+8,9$ 8a : Espèce acicole ou montagnarde. (DM 70-71 :75). $ R. viscida ss. l.
+8,12$ 8b : Espèce des feuillus planitiaires.
+
+9,0$ 9a : Couleur sombre vers R. atropurpurea ou plus noirâtre. (CD 1451, MB 75, RRM 163, AMK 2000 (1):17) (= R. rigelliae Vel. ss. Melz.-Zv.). $ R. viscida var. viscida Kudrna
+9,10$ 9b : Formes de couleur moins sombre ou ochracée à verdâtre.
+
+10,0$ 10a : Chapeau ochracé. (MVM 6:2). $ R. viscida fo. ochroleuca Sarnari
+10,11$ 10b : Couleur verte au moins au disque ou vers la marge.
+
+11,0$ 11a : Chapeau vert à marge violacée. (RRM 164). $ R. viscida fo. dissidens Reumaux
+11,0$ 11b : Centre brun roux et marge verte. (RRM 163 pl. 234). $ R. viscida fo. chlorantha J.Schäffer
+
+12,0$ 12a : Aspect R. atropurpurea en plus grand, le plus souvent à chapeau jusqu’à 15(20) cm et stipe jusqu’à 18 x 3-5(7) cm. Stipe ± brunissant. Chênaies méso-acidophiles. (DM 70-71:75, CD 1452, RRM 163). $ R. artesiana M.Bon
+12,0$ 12b : Chapeau pâle, ochracé ou cuivré, à marge cannelée, stipe court, plus jaunâtre. Chênaies humides. (RRM 162). $ R. ochroflavescens P.Moënne-Loccoz & Reumaux  
+12,0,N$ A chapeau panaché, polychrome ou bariolé, un peu jaunissant, espèce parfois considérée comme une forme peu âcre de R. atropurpurea, il s’agirait de R. pantherina (Zvara) Moënne-Loccoz & Reumaux – RRM 164:pl. 236, peu bariolée ?
+
+
+CS20,0$ Section Polychromae R.MAIRE
+
+1,CS22$ 1a : Piléocystides à incrustations acido-résistantes. $ Sous-sect. Integrinae R.Maire. $s"Sous-sect. Integrinae."
+1,CS21$ 1b : Piléocystides non incrustées. $ Sous-sect. Integriforminae M.Bon. $s"Sous-sect. Integriforminae."
+
+
+CS21,0$ Sous-section Integriforminae M.BON (Russules polychromes à piléocystides non incrustées)
+
+1,0$ 1a : Couleurs jaunâtre à brunâtres pouvant rappeler les « ingrates » à marge peu cannelée (ou pas du tout dans la var. battouenii Blum, à odeur fruitée). Spores subglobuleuses, à épines obtuses isolées. (DM 70-71:78). $ R. straminea Malençon
+1,0,N$ Si les spores sont cristulées et l’habitat sous chênes thermophiles ou méridionaux, cf. R. annea Sarnari (MVM 6(2):117)
+1,2$ 1b : Couleurs brun rosâtre à palissandre ou purpurines à ± verdâtres ou olivacées.
+
+2,3$ 2a : (1b) Sporée crème à ocre (II) III, couleurs parfois sombres à noirâtres (R. atropurpurea).
+2,5$ 2b : Sporée jaune (IV) ; couleurs variées ou peu sombres ou non noirâtres.
+
+3,0$ 3a : Couleur plus sombre ou brun noirâtre à sépia olivâtre ; léger grisonnement possible. Spores peu crêtées. Espèce acicole, septentrionale. (DM 70-71:79) (= R. fuscomaculata Romagnesi inval.). $ R. fusconigra Moser
+3,0,N$ A stipe rosé et habitat plus hygrophile, R. taigarum Ruotsalainen & Vauras serait mieux à sa place ici que dans les Sphagnophilae où les auteurs l’ont classée – Karstenia 30:22, cf. FnD 1-1.
+3,4$ 3b : Couleurs vives ou marbrées, léger jaunissement ou faible brunissement.
+
+4,0$ 4a : Aspect R. atropurpurea à reflets subcuticulaires ± jaunes ou flammés de pourpre. Sporée III. Spores subréticulées. (DM 70-71:78). $ R. speciosa Blum ex M.Bon  
+4,0,N$ Les reflets ± jaunâtres marquent une transition vers les Melliolentinae, cf. R. decolorans var. constans Crawshay et R. ochraceoflavescens Reumaux – RRM 162.
+4,0$ 4b : Couleur vineuse ou purpurine et centre plus ochracé ; brunissement ou jaunissement faible ou tardif. Sporée vers II et poils cuticulaires effilés. Espèce thermophile ou méditerranéenne. $ Cf. R. dryophila Sarnari.
+4,0,N$ Attention aux espèces scandinaves ou boréales à grisonnement parfois tardif ou faible, en particulier R. vinososordida.
+
+5,6$ 5a : Spores ± réticulées.
+5,11$ 5b : Spores à verrues isolées ou courtement crêtées.
+
+6,7$ 6a : Spores entièrement réticulées.
+6,8$ 6b : Spores nettement crêtées à subréticulées.
+
+7,0$ 7a : Espèce planitiaire, polychrome ou ± bariolée, à lames larges ou cassantes, ± orangées. Sporée IVe (maxi ?) ; chair blanche, jaune sous la cuticule. (cf. DM 70-71:79). $ R. romellii R. Maire
+7,0$ 7b : Espèce boréo-alpine des bétulaies et saulaies herbacées. Lames banales ou seulement tachées de jaune vif et stipe légèrement brunissant ; sporée IVa. (Persoonia 15:509). $ R. violaceoincarnata Knudsen & Borgen
+
+8,9$ 8a : Espèces méditerranéennes des chênaies vertes, maquis, etc.
+8,10$ 8b : Feuillus banals ou septentrionaux.
+
+9,0$ 9a : Aspect de Griseinae à chapeau bleuté lilacin pâle (pouvant rappeler R. ilicis ?) ou ± vineux. Chair assez grisonnante, Fe rosé. Piléocystides non ou peu cloisonnées. Sous Quercus ilex, Q. suber, Q. pubescens, Buxus, etc. (DM 70-71:79, BGMB 29:4). $ R. nuragica Sarnari
+9,0$ 9b : Chapeau polychrome puis ± décoloré avec l’âge, chair immuable, Fe nul. Spores subglobuleuses, crêtées. Piléocystides (2)4-6-cloisonnées. Quercus ilex uniquement (?). (AMER 12:30). $ R. prinophila Sarnari
+
+10,0$ 10a : Aspect de R. romellii ou couleurs plus purpurines, à stipe court et lames plus banales ou moins cassantes. Spores plus petites ou bassement ornées ; feuillus banals. (RRM 195). $ R. romellii var. alternata Zvara
+10,0,N$ R. caeruleomalva Blum = R. alternata ss. auct. pp., à marge plus violacée, grandes spores zébrées et piléocystides pratiquement nulles – RRM 194, est plus souvent classée dans la section Alutaceae.
+10,0$ 10b : Chapeau polychrome ou à centre ± verdâtre ; saveur âcrescente et odeur fruitée. Espèce alni-bétulicole, scandinave. (RdM 1997(2):100). $ R. fulvograminea Ruotsalainen, Sarnari & Vauras
+
+11,12$ 11a : Espèces caducicoles, à couleurs rougeâtres ou zonées, relativement vives.
+11,14$ 11b : Espèces acicoles ± robustes, rappelant R. integra (= stirpe Subintegra = trimbachii).
+
+12,0$ 12a : Jaunissement net au niveau des blessures. Couleurs variées, de lilacin à orangé ou verdâtre. Odeur faible pouvant rappeler R. pseudointegra. Sporée jaune « maxi ». Spores jusqu’à 10(-11) x 8.5(-9) µm, à épines franchement isolées. (DM 70-71:79). $ R. carpini Heinemann & Girard
+12,0,N$ 43 La f. tenella M. Bon – FRIC 11:83, plus gracile ou à stipe mou pourrait être classée dans les Tenellae.
+12,13$ 12b : Jaunissement nul ou très discret ; couleurs plus zonées et spores subcrêtées ou plus grandes.
+
+13,0$ 13a : Spores jusqu’à 15(-17) x 11(-12) µm, à épines isolées. Chapeau ± rosé ou violacé à centre parfois olivâtre. (DM 70-71:80). $ R. maximispora Blum ex M. Bon
+13,0$ 13b : Spores < 9(-10) µm, subcrêtées. Chapeau 8-10 cm, rouge vineux à centre décoloré, ochracé ou olivâtre bistré, à revêtement mat ou ruguleux. (DM 70-71:80, RRM 193). $ R. pseudoromellii Blum ex M. Bon
+13,0,N$ Chapeau < 5(-6) cm – cf. Tenellae mais relativement peu fragile, rouge purpurin à centre noirâtre : cf. R. querceti Haas et J. Schäffer.
+
+14,15$ 14a : Spores caténulées à subcrêtées et verrues ou épines obtuses (tronquées).
+14,17$ 14b : Spores à ornementation isolée.
+
+15,0$ 15a : Spores à verrues caténulées, tronquées ou subcristulées. Chapeau à couleur « R. integra » ou plus sombre. Acicole montagnarde. (DM 70-71:81, FMDS 155:36). $ R. phlyctidospora (Romagn.) M.Bon inval.
+15,16$ 15b : Spores à verrues plus épineuses, obtuses ou crêtées mais non caténulées.
+
+16,0$ 16a : Espèce planitiaire à chapeau purpurin sombre ou sépia à brun jaune de type « R. integra » ou ± olivâtre avec l’âge. Lames serrées, ochracées à jaune sale (Spores IVa) avec l’arête concolore c’est-à-dire sans « effet integra ». Spores ± crêtées. Piléocystides peu nombreuses, 2-5-cloisonnées. (DM 70-71:81, FMDS 155:25) (= R. subintegra Blum ex M.Bon inval.). $ R. trimbachii M.Bon
+16,0,N$ La f. gigas (Romagn.) P.-A.Moreau et al. – FMDS 155:32, à sporée plus jaune (IVc) et chapeau plus pâle (parfois jusqu’à blanchâtre ?) avec le stipe à base cabossée comme chez R. adusta pourrait être élevée au rang de variété ou même d’espèce.
+16,0$ 16b : Pessières subalpines. Chapeau brun violacé noirâtre ou bistré à marge plus rosé violacé ; stipe un peu rosâtre. Chair douce ou à saveur rance. Spores à épines sub-isolées ou ± jumelées en courtes crêtes. Piléocystides peu cloisonnées, nullement incrustées. (DM 106:53, RRM 191, FMDS) (s.n. R. purpureonigra ? in RRM). $ R. nigropurpurea Bidaud & R.Moënne-Loccoz
+
+17,0$ 17a : Spores à épines aiguës. Chapeau jusqu’à 10(-13) cm, dur ou charnu, d’un pourpre obscur parfois noirâtre ; aspect R. integra mais cuticule peu ou moins séparable. Poils cuticulaires atténués. Pessières en montagne. (DM 70-71:81, voir aussi FMDS 156:37). $ R. purpurea Gillet ss. Blum.
+17,0,N$ Le type de R. purpurea serait une espèce de la section Viridantinae vers R. purpurata.
+17,18$ 17b : Spores à épines basses ou obtuses ; poils cuticulaires cylindracés, non atténués ; habitat souvent hors des bois ou ± graminicole.
+
+18,0$ 18a : En pinèdes herbacées. Chapeau jusqu’à 8(-10) cm, à couleurs vers R. integra ou plus cuivrée et maculée d’olivâtre. Lames jaunes sans « effet integra ». (DM 70-71:81, FMDS 156:39). $ R. campestris (Romagn.) Romagn.
+18,0,N$ Il existe une f. meridionalis M.Bon 1992 – DM 85:59, à chapeau > 10(11) cm et spores finement verruculeuses.
+18,0$ 18b : En pâturages boréo-alpins ; chapeau < 5 cm (transition vers Tenellae) et basides bisporiques, il s’agit d’une espèce alpine scandinave à rechercher dans l’arc alpin. (DM 70-71:81). $ R. pseudocampestris Kühn.
+
+
+CS22,0$ Sous-section Integrinae R.MAIRE (= Sect. Russulinae (J.Schröter) Singer ss. M.Bon – DM 70-71:92) (Russules polychromes à piléocystides incrustées)
+
+1,2$ 1a : Spores à ornementation ± réticulée mais basse ou à peine visible en coupe optique ; sporée ocre à jaune (IIIc-d à IV).
+1,3$ 1b : Spores à ornementation plus haute, banale ou ± épineuse (sporée II à IV).
+
+2,0$ 2a : Spores entièrement réticulées. Stipe à base souvent rosée ; chapeau jusqu’à 10(-12) cm, pourpre foncé à brun rosâtre ou rougeâtre ou briqueté cuivré avec le centre ± décoloré à reflets gris ou olivâtres. Lames ocre jaune, parfois rosées vers l’arête. Odeur faible, vers R. pseudointegra. (DM 70-71:92, FnD 8:48). $ R. carminipes Blum
+2,0$ 2b : Spores ± crêtées à subréticulées. Stipe jamais rosé ; chapeau 5-8 cm, violet bistré à lie de vin ou taché d’olivâtre. Lames serrées, crème jaunâtre sale. Odeur nulle ou banale. Piléocystides peu incrustées ou SBA faible. (DM 70-71:92, RRM 192). $ R. pseudomelitodes Blum ex M.Bon
+
+3,0$ 3a : Sporée crème à ochracée II (III), spores interruptoréticulées. Chapeau < 7 cm, brun vineux à carminé rosâtre vers la marge (entièrement rosé chez la var. pseudotenella Sarnari). Odeur fruitée ou de moisi (?) et saveur parfois âcrescente. Piléocystides septées à incrustations insolubles dans l’ammoniaque. Espèce méridionale des pinèdes arénacées ou cistes. (BGMB 27:282, SMF 101(4):327). $ R. tyrrhenica Sarnari
+3,4$ 3b : Spores jaunes (IV) à ornementation peu crêtée à ± isolée.
+
+4,5$ 4a : Feuillus caducicoles planitiaires ou sempervirents méridionaux.
+4,7$ 4b : Conifères collinéens ou montagnards. $ Stirpe Integra. $s"Stirpe Integra."
+
+5,0$ 5a : Espèce des feuillus argilo-calcaires de la plaine, parfois mêlés de conifères. Chapeau à couleur rappelant R. integra. Stipe blanc, veiné ou à base tachée de brun ou parfois lavée des couleurs du chapeau (f. coloratipes M.Bon). Odeur vaguement fruitée. Spores crêtées ou à épines ± finement connexées. Epicutis de type R. integra. (Ro 75, etc. ; DM 70-71:93, RRM 191, ico 247). $ R. melitodes Romagn.
+5,6$ 5b : Végétation méditerranéenne, chênes cistes, etc.
+
+6,0$ 6a : Sous chênes lièges (Quercus suber) ou maquis (cistes ?). (SMF 108:19, MI 22(2):42). $ R. suberetorum Dagron
+6,0$ 6b : Sous chênes verts (Quercus ilex) ; spores < 10 x 8.5 µm, à fines épines subcristulées. (SMF 114(1):20). $ R. pseudosuberetorum Dagron
+
+7,8$ 7a : Spores à verrues courtes, tronquées ou crêtées à subcaténulées.
+7,9$ 7b : Spores à épines isolées ; poils cuticulaires atténués. $ R. integra s.l. (nomen conservandum).
+
+8,0$ 8a : Chapeau brun vineux pourpré ou rougeâtre à centre olivâtre ou pâlissant, parfois entièrement vert jaunâtre (f. flavella (Singer) Romagn.), sous épicéas. (DM 70-71:93, RRM 190, FMDS 155:35) (= R. fusca var. oreas (Romagn.) Bidaud et al.). $ R. integra var. oreas Romagn.
+8,0$ 8b : Sosie de R. integra. Spores à verrues subisolées mais obtuses. Poils cuticulaires cylindracés, non atténués. (AMER 33:21). $ R. integriformis Sarnari
+8,0,N$ Cette espèce n’a rien à voir avec la section Integriforminae à piléocystides non incrustées.
+
+9,0$ 9a : Chapeau (4-)6-12(-15) cm de brun jaunâtre à palissandre ou purpurin sombre puis marbré de bronzé olivâtre. Cuticule séparable jusqu’au demi-rayon. Lames ± épaisses, longtemps pâles puis ocre jaune à reflets crème vers l’arête qui semblerait stérile (= « effet integra »). Stipe blanc puis taché ou ridulé de brunâtre à partir de la base qui devient ± bosselée. Odeur faible, parfois iodée ou un peu miellée (forma ?). Saveur particulière, dite de noisette mais aussi de « papier mâché » ou de poussière. (DM 70-71:94) (= R. fusca Quélet – RRM 190). $ R. integra (L.) Fr.
+9,10$ 9b : Formes de colorations.
+
+10,0$ 10a : Couleur vive ou plus nettement purpurine (sosie de R. purpurea à cuticule différente) ; cuticule peu séparable. Stipe pouvant être lavé de rosé. Odeur et saveur non particulières. Spores jusqu’à 11(-12) x 9(-10) µm, à épines jusqu’à 1.5(-2) µm, parfois jumelées. (DM 70-71:94, FMDS 155:34, RRM 190). $ R. integra fo. purpurella (Singer) Romagn.
+10,11$ 10b : Couleurs grisâtres à olivâtres.
+
+11,0$ 11a : Chapeau grisâtre pouvant rappeler les Griseinae mais à sporée plus jaune (= R. grisea ss. A.Pearson). $ R. integra fo. grisella (Singer) M.Bon
+11,0$ 11b : Couleur dominante vert olive ou bronze. (FMDS 100:31, id. 155:35). $ R. integra var. pseudoolivascens (Singer) M.Bon
+11,0,N$ La fo. flavella Singer a été attribuée à la var. oreas par Romagnesi – FMDS 155:35.
+
+
+CS23,0$ Sous-genre Coccinula ROMAGN. emend., ss. str. (= Sect. Polychromae R. Maire ss. lato, non M.Bon 1988)
+
+Espèces rappelant celles du sous-genre Polychromidia par la taille, la robustesse ou les caractères organoleptiques (saveur douce ou légèrement âprescente) et microscopiques (revêtement piléique à piléocystides SBA+), mais en différant par les couleurs vives ou pures, rouges, roses, parfois entièrement blanches ou jaunes mais non polychromes, c’est-à-dire non mêlées de violacé purpurin ou verdâtre. 
+Ce sous-genre est considéré ici dans un sens relativement strict, ne comprenant pas les espèces dites à cuticule « sans rien » (= Alutaceae) qui pourraient faire l’objet d’un nouveau sous-genre (Alutacella ad int.).
+
+1,2$ 1a : Piléocystides non incrustées. $ Sect. Laeticolorinae. $s"Sect. Laeticolorinae."
+1,10$ 1b : Piléocystides à incrustations acido-résistantes (Fuchsine + HCl).
+
+2,0$ 2a : Stipe blanc, à base rosée ou purpurine. Spores subglobuleuses, jusqu’à 10(-11) x 9(-10) µm, à ornementation faiblement cristulée, à peine visible en coupe optique. Chair tardivement salie de grisâtre, à odeur faible pouvant rappeler R. pseudointegra. Piléocystides légèrement clavées, à 1-2 cloisons et poils grêles ou banals. Feuillus parfois hygrophiles. (DM 70-71:76). $ R. tinctipes Blum ex M.Bon
+2,3$ 2b : Stipe entièrement blanc ou vaguement rosâtre ; spores elliptiques à ornementation jusqu’à 0.5(-1) µm de hauteur ; odeur nulle ou variable.
+
+3,4$ 3a : Espèces blanches.
+3,5$ 3b : Espèces rouges.
+
+4,0$ 4a : Sporée ocre (III). Piléocystides rares, parfois nulles (in section Alutaceae). $ Cf. R. europae.
+4,0$ 4b : Sporée jaune (IV ou « maxi »), lames orangées, fragiles ; spores ± réticulées. $ Cf. R. romellii fo. alba Marchand ex M.Bon.
+
+5,6$ 5a : Chapeau rouge carminé, vineux, ± décoloré au centre.
+5,8$ 5b : Chapeau rouge vif non ou peu décoloré avec l’âge.
+
+6,0$ 6a : Poils cuticulaires épaissis vers la base ou à articles ± subisodiamétriques. Stipe souvent plus court que le diamètre du chapeau. Spores zébrées-cristulées à subréticulées. Piléocystides grêles, parfois rares ou peu évidentes ou SBA faible. Feuillus. (DM 70-71:77). $ R. curtipes Moeller & J.Schäffer
+6,7$ 6b : Poils cuticulaires banals ou peu cloisonnés ; spores à épines plus isolées et piléocystides abondantes ou trapues.
+
+7,0$ 7a : Chapeau rouge violacé, à marge cannelée. Lames jaune vif (IV). Odeur nulle ou banale. Sous chênes. (RRM 252). $ R. venosa Velenovsky ss. Reumaux
+7,0$ 7b : Chapeau rose vineux à palissandre, à centre décoloré ochracé cuivré (aspect curtipes). Odeur ± miellée et saveur subdouce. Feuillus mêlés. $ R. veternosa fo. subdulcis J.E.Lange ex M.Bon
+7,0,N$ Il existe aussi des formes douces de R. maculata ou R. decipiens. Si la couleur est plus vineuse ou purpurin noirâtre ou verdâtre, à sporée plus ocre pâle, cf. R. pseudoromellii, qui est mieux à sa place dans le s.-g. Polychromidia.
+
+8,0$ 8a : Odeur fruitée aromatique (rappelant R. pseudointegra), habitat hygrophile. Chapeau rouge, parfois foncé ou à reflets jaunes, cuivrés ou abricot. Spores subcristulées, jusqu’à 10(-11) x 8(-8.5) µm. Feuillus humides, bourbiers, ornières, etc. (DM 70-71:77, etc.). $ R. lutensis Romagnesi & Le Gal
+8,9$ 8b : Odeur faible ou miellée, parfois vers R. emetica ; spores 7 x 8 µm, variables.
+
+9,0$ 9a : Sporée réticulées. Chapeau rouge vif puis ± bigarré de jaune ou cuivré. Sporée IVe (maxi ?). Fe pâle ou gris verdâtre. Piléocystides peu abondantes, étroite ou peu cloisonnées. Feuillus calcaires. (DM 70-71:78). $ R. rubroalba (Singer) Romagnesi
+9,0,N$ Une forme quercilicicole, rappelant la forme douce de R. maculata, possède des spores un peu plus pâles et des piléocystides plus rares.
+9,0$ 9b : Spores à verrues isolées ou peu crêtées. Chapeau rouge rosé à purpurin ou orangé cuivré ou rouillé vers le centre, parfois aspect de R. borealis. Stipe imbu, légèrement grisâtre comme R. pseudointegra mais odeur nulle. (DM 70-71:78, Sarn. MVM 5:13). $ R. laeta J.Schäffer
+
+10,11$ 10a : Sporée ocre, vers III. $ Sect. Paludosinae. $s"Sect. Paludosinae."
+10,14$ 10b : Sporée jaune (IV). $ Sect. Coccineae. $s"Sect. Coccineae."
+
+11,0$ 11a : Grosse espèce des conifères marécageux, surtout de montagne. Chapeau jusqu’à 15(-18) cm, rouge vif à ± pourpré avec l’âge ou décoloré vers le centre. Spores jusqu’à 11(-12) x 7-8 µm, cristulées à subréticulées. Poils cuticulaires banals et piléocystides peu incrustées. (DM 70-71:94, etc.). $ R. paludosa Britzelmayr
+11,12$ 11b : Espèces moyennes ou peu robustes à chapeau < 7(-10) cm. Spores verruqueuses ou peu cristulées 8-10 x 7-8.5 µm. Piléocystides plus nettement incrustées à dernier article ± atténué et réfringent ; poils cuticulaires grêles ou atténués. $ R. velenovskyi ss. l.
+
+12,0$ 12a : Type ou variété assez courante des forêts acidophiles (Ilici-Fagion) souvent mêlées de conifères. Chapeau < 6(-8) cm peu charnu ou déprimé à mamelon central, d’un rouge briqueté particulier un peu cocardé de carmin vif vers l’extérieur avec le centre plus orangé cuivré. (DM 70-71:95). $ R. velenovskyi var. velenovskyi Melzer & Zvara
+12,13$ 12b : Variantes de couleurs ou d’habitat.
+
+13,0$ 13a : Chapeau plus robuste, moins cocardé ou à couleur plus chaude et uniforme. Lames ocres ou à reflets citrins avec l’arête rosée. Stipe plus souvent rosé, au moins d’un côté. Les incrustations des piléocystides peuvent manquer selon Blum. (RRM 251 sub sp.). $ R. velenovskyi var. cruentata (Quélet & Schulzer) Blum
+13,0$ 13b : Aspect macroscopique assez semblable mais habitat franchement hygrophile. Spores plus petites < 7(-9) µm et plus nettement cristulées. $ R. velenovskyi var. sphagnophila Romagnesi
+
+14,15$ 14a : Couleurs fondamentales jaunâtres avec reflets roses ou rouges.
+14,17$ 14b : Couleurs rouges rarement ou tardivement pâlissantes.
+
+15,0$ 15a : Chapeau rouge à voile jaune ± diffracté ou aréolé ; lames jaune vif et stipe ± jaunâtre. Odeur aromatique ou fruitée (alcool ?). Spores cristulées à subréticulées mais peu de relief. Piléocystides peu abondantes mais présence d’hyphes primordiales à incrustations assez spectaculaires (AMER 18, AMB 33:163). $ R. messapica Sarnari
+15,16$ 15b : Couleurs jaune ± fondamentales, sans voile particulier mais disque pouvant pâlir à crème ochracé, vaguement brunâtre avec l’âge.
+
+16,0$ 16a : Chapeau jaunâtre mêlé de rose ou de rougeâtre. Odeur et saveur pouvant rappeler R. lepida. Spores à verrues épineuses subisolées ou courtement cristulées. Piléocystides à SBA et incrustations variables, parfois seulement sur hyphes primordiales. Feuillus, Betula, Carpinus. (DM 70-71:95). $ R. cremeoavellanea Singer
+16,0$ 16b : Chapeau plus rouge à disque ± ochracé. Léger grisonnement, surtout ver le stipe. Odeur de pain ou de levure. Spores densément verruqueuses ou échinulées à zébrées ou subcaténulées. Feuillus argileux ou cistes. (Sarnari, 1988). $ R. rhodomarginata Sarnari
+
+17,0$ 17a : Odeur fruitée, vers R. pseudointegra ou R. emetica. Chapeau rappelant R. velenovskyi ou plus orangé. Lames jaune vif à maturité. Stipe légèrement rosé ou taché de brunâtre. Spores à épines isolées ou jumelées. Piléocystides banales ou à incrustations basales. Feuillus, surtout Betula. (DM 70-71:96, etc.). $ R. aurantiaca (J.Schäffer) Romagnesi ex M.Bon
+17,18$ 17b : Odeur nulle ou insignifiante ; pas d’aspect « velenovskyi ».
+17,0,N$ Si l’odeur est peu agréable, cf. R. lateritia, à hyphes primordiales incrustées, mais piléocystides douteuses à SBA subnul (Integroidinae).
+
+18,0$ 18a : Chapeau jusqu’à 6(-8) cm souvent lobé ou flexueux, à cuticule brillante ou lubrifiée, rouge cuivré à purpurin foncé puis décolorée à partir du centre, un peu comme R. cremeoavellanea. Stipe blanc à brun jaune ochracé. Spores à fortes épines subisolées. Piléocystides un peu clavées ou ± ventrues (type à SBA nul, vers Olivaceinae selon Reumaux ?) et poils cuticulaires atténués ou à base ventrues. Feuillus. (DM 70-71:96 ; RRM 252). $ R. borealis Kauffmann
+18,0$ 18b : Chapeau 2-4 cm, à revêtement ruguleux ou subvelouté, orangé à cuivré ou pourpre saumoné (un peu comme R. font-queri). Lames fourchues ou anastomosées, jaune vif. Stipe jusqu’à 3 x 1 cm, blanc, taché de rose ou brun rosâtre. Spores à verrues subisolées. Piléocystides banales à incrustations nettes. Feuillus. (DM 70-71:96). $ R. impolita (Romagnesi) M.Bon

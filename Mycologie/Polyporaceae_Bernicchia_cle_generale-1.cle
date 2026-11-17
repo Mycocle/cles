@@ -1,0 +1,234 @@
+ berniccia  p 60..62
+titre $CHIAVE DELLE FAMIGLIE E DEI GENERI DELLE SPECIE POLIPOROIDI
+com$ BERNICCHIA 2005 POLYPORACEAE / adapt GF juil 09
+1,0 $Basidiospore giallo brunastre con un evidente endosporio ed exosporio $Ganoderma
+1,2 $Basidiospore diverse dalla precedenti (<> giallo brunastre con un evidente endosporio ed exosporio)
+2,0 $Tubuli separati tra loro, ma strettamente addensati $Fistulina
+2,3 $Tubuli non separati tra loro
+3,cs1 $Basidiomi che divengono neri con KOH, ife generatrici prive di unioni a fibbia, sete spesso presenti $Hymenochaetaceae$s"Hymenochaetaceae"
+3,cs2 $Basidiomi che di solito non divengono neri con KOH, se divengono neri, hanno allora leife generatrici provviste di unioni a fibbia; ife generatrici con o senza unioni a fibbia, sete assenti $Specie poliporoidi$s"poliporoidi"
+
+cs 1 ,0 $CHIAVE DELLE HYMENOCHAETACEAE
+1,2 $Basidiomi resupinati o pileati
+1,0 $Basidiomi stipitati $Coltricia
+2,3 $Sistema ifale monomitico, sete presenti od assenti, specie annuali
+2,0 $Sistema ifale dimitico, sete presenti od assenti, specie solitamente perenni $Phellinus
+3,0 $Sete assenti, basidiospore ellissoidali, giallastre, inferiori a 4.5 µm, contesto con struttura duplice $Phylloporia
+3,0 $Sete assenti o presenti, basidiospore ialine o brunastre, più lunghe di 4.5 µm, contesto omogeneo $Inonotus
+
+
+cs2 ,0$CHIAVE DEI GENERI E DELLE SPECIE POLIPOROIDI
+rem$A: BASIDIOMI CENTRALMENTE O LATERALMENTE STIPITATI, RARAMENTE PSEUDOSTIPITATI, CESPITOSI  CON BASE COMUNE
+rem$11,24$tempo 14
+rem$11,40$tempo 30
+rem$11,46$tempo 36
+rem$11,56$tempo 46
+rem$11,68$tempo 58
+rem$11,74$tempo 64
+rem$11,81$tempo 71
+
+1,11 $Basidiomi centralmente o lateralmente stipitati, raramente pseudostipitati, cespitosi o con una base comune
+1,2 $Basidiomi resupinati, concoidi, pileati o pseudostipitati
+2,24 $Imenoforo con pori molto irregolari, sinuosi, dedaleiformi, idnoidi fino a lamellati
+2,3 $Imenoforo con pori regolari, rotondo-angolosi, talvolta stirati allungati, dentati quando crescono su substrati verticali
+3,36 $Basidiospore ornamentate
+3,4 $Basidiospore lisce
+4,40 $Basidiospore, cistidi o ife amiloidi o destrinoidi
+4,5 $Basidiospore, cistidi o ife non amiloidi e non destrinoidi
+5,6 $Ife generatrici provviste di unioni a fibbia
+5,46 $Ife generatrici prive di unioni a fibbia
+6,56 $Tubuli e contesto intensamente colorati o bruni, bruno rossiccio neri
+6,7 $Tubuli e contesto bianco, cremeo, giallo, ocraceo
+7,68 $Cistidi presenti
+7,8 $Cistidi assenti
+8,74 $Sistema ifale monomitico
+8,81 $Sistema ifale dimitico o trimitico
+
+ rem$renumerotation pour insérer appels : 1 => 11
+
+
+11,12$Basidiospore ornamentate
+11,13$Basidiospore lisce
+12,0$Basidiospore amiloidi $Bondarzewia
+12,0$Basidiospore non amiloidi $Boletopsis
+13,14$Basidiomi numerosi che si formano su un gambo ripetutamente ramificato
+13,16$Basidiomi singoli o cespitosi, uniti solo alla base
+14,0$Singolo basidioma con un diametro di 2-5 cm, sistema ifale dimitico con ife scheleto-connettive $Polyporus umbellatus
+14,15$Basidiomi più ampi, sistema ifale monomitico o dimitico privo di ife scheleto-connettive
+15,0$Ife provviste di unioni a fibbia $Grifola frondosa
+15,0$Ife prive di unioni a fibbia $Meripilus giganteus
+16,17$Sistema ifale dimitico o trimitico
+16,19$Sistema ifale monomitico
+17,0$Sistema ifale trimitico $Podofomes
+17,18$Sistema ifale dimitico
+18,0$Ife scheleto-connettive presenti, cistidi assenti $Polyporus
+18,0$Ife scheleto-connettive assenti, cistidi presenti $Neolentiporus
+19,0$Basidiomi bianchi, molto duri, ossei dopo essiccazione $Oligoporus obductus
+19,20$Basidiomi di colore diverso, non duri, ossei dopo essiccazione
+20,21$Gloeocistidi presenti
+20,23$Gloeocistidi assenti
+21,0$Basidioma di piccole dimensioni, di colore giallo brillante, cheilo- e caulocistidi presenti $Favolaschia calocera
+21,22$Basidiomi di dimensioni maggiori e colori diversi, cheilo- e caulocistidi assenti
+22,0$Basidiomi bruno rossiccio, unioni a fibbia assenti $Phaeolus
+22,0$Basidiomi di colore diverso, unione a fibbia presenti $Abortiporus
+23,0$Basidiospore fusiformi, navicolari $Jahnoporus
+23,0$Basidiospore da ellissoidali a subglobose $Albatrellus
+;;;;;;;;;;;;;
+rem$B: BASIDIOMI SESSILI O RESUPINATI, CONCOIDI, IMENOFORO IRREGOLARMENTE POROIDE, SINUOSO DEDALEIFORME, IDNOIDE FINO A LAMELLATO
+
+
+24,25$Imenoforo molto irregolare, con pori sinuoso dedaleiformi o lamellati fino a idnoidi
+24,36$Imenoforo poroide con pori regolari, rotondo-angolosi, talvolta stirati allungati, dentati quando crescono su substrati verticali
+25,26$Contesto da bruno a nerastro, cistidi presenti
+25,27$Contesto di colore diverso e comunque più chiaro dei precedenti
+26,0$Imenoforo idnoide, contesto bruno chiaro, basidiospore amiloidi ed echinulate $Echinodontium
+26,0$Imenoforo non idnoide, contesto da bruno a nerastro, basidiospore non amiloidi e lisce $Gloeophyllum
+27,28$Basidiomi con il margine superiore ripiegato, sessili, contesto di colore bruno ambrato chiaro od ocraceo bruno
+27,30$Basidiomi da resupinati a pileati, contesto da biancastro ad ocraceo
+28,0$Imenoforo da labirintiforme a spatulato fino ad irpicoide-idnoide, contesto ocraceo bruno con una linea nera in prossimità del substrato, basidiospore finemente verrucose e brune $Lenzitopsis oxycedri.
+28,29$Imenoforo dedaloide, sinuoso, lamellato, contesto bruno privo di linea scura, basidiospore lisce ed ialine
+29,0$Superficie sterile solcata, opaca, imenoforo dedaloide, basidiospore lunghe 5-6(7) µm. $Daedalea
+29,0$Superficie sterile liscia e zonata, imenoforo da sinuoso a lamellato, basidiospore lunghe 7- 1 1 µm $Daedaleopsis
+30,0$Basidiomi pileati, imenoforo lamellato, sono presenti pseudocistidi acuminati $Lenzites
+30,31$Basidiomi pileati o resupinati, imenoforo irregolarmente poroide, idnoide-lamellato ma non esclusivamente lamellato, pseudocistidi assenti
+31,32$Cistidi presenti
+31,33$Cistidi assenti
+32,0$Basidioma bianco cremeo, imenoforo bianco, ife generatrici prive di unioni a fibbia $Irpex
+32,0$Basidioma grigio bruno, imenoforo violetto, ife generatrici provviste di unioni a fibbia $Trichaptum
+33,0$Superficie sterile tomentosa, zonata, con una linea nera che separa due strati del contesto. $Cerrena unicolor
+33,34$Superficie sterile, quando è presente, diversa dalla precedente
+34,0$Basidiomi resupinati, ampi, sistema ifale mono-, dimitico, sono presenti terminazioni ifali capitate $Schizopora
+34,35$Basidiomi pileati, sistema ifale monomitico, privi di terminazioni ifali capitate
+35,0$Basidiospore subglobose con pareti ispessite $Spongipellis
+35,0$Basidiospore subcilindriche con pareti sottili $Irpicodon
+;;;;;;;;;;;;;;;;;;
+rem $C BASIDIOMI DA SESSILI A RESUPINATI, IMENOFORO CON PORI REGOLARI, BASIDIOSPORE ORNAMENTATE
+36,0$Basidiomi con forte odore di anice, basidiospore destrinoidi $Haploporus odorus
+36,37$Basidiomi diversi, basidiospore non destrinoidi
+
+37,38$Sistema ifale dimitico
+37,39$Sistema ifale monomitico
+38,0$Basidiospore ellissoidali, verrucoso-striate, più lunghe di 10 µm $Pachykytospora tuberculosa
+38,0$Basidiospore solo leggermente asperulate, più piccole di 10 µm $Heterobasidion
+39,0$Basidiospore lisce od asperulate, di solito più corte di 5-6 µm, basidi privi di contenuto granulare. $Trechispora
+39,0$Basidiospore lisce o provviste di creste, di solito più lunghe di 5-6 µm, basidi con contenuto granulare $Lindtneria
+
+rem$D. BASIDIOMI DA SESSILI A RESUPINATI, IMENOFORO CON PORI REGOLARI, BASIDIOSPORE LISCE BASIDIOSPORE, CISTIDI OD IFE AMILOIDI O DESTRINOIDI
+40,0$Basidiospore amiloidi $Anomoporia
+40,41$Basidiospore destrinoidi o non destrinoidi
+41,0$Cistidi presenti ed amiloidi $Amylocystis
+41,42$Cistidi assenti
+42,0$Sistema ifale monomitico, ife provviste di unioni a fibbia, basidiospore destrinoidi e cilindriche. $Parmastomyces
+42,43$Sistema ifale di-, trimitico con ife destrinoidi od amiloidi, ife provviste di unioni a fibbia e non, basidiospore da destrinoidi a non destrinoidi, globoso-ellissoidali o tronche
+43,0$Basidiospore lisce, più o meno destrinoidi, ellissoidali o tronche, talvolta con pareti ispessite, ife vegetative da negative a destrinoidi fino ad amiloidi $Perenniporia
+43,44$Basidiospore lisce o leggermente asperulate, non destrinoidi e con pareti non ispessite, ife vegetative più o meno destrinoidi od amiloidi
+44,0$Basidiospore globose, solo leggermente asperulate, ife generatrici prive di unioni a fibbia, ife scheletriche destrinoidi $Heterobasidion
+44,45$Basidiospore non globose, lisce, ife generatrici con unioni a fibbia, ife scheletriche talvolta amiloidi
+45,0$Ife scheletriche immutabili in KOH, agenti di carie bruna $Antrodia
+45,0$Ife scheletriche gelatinizzano in KOH, agente di carie bianca $Diplomitoporus lindbladii
+
+
+rem$E. RASIDIOMI SESSILI O CON IL MARGINE SUPERIORE RIPIEGATO, IMENOFORO CON PORI REGOLARI,BASIDIOSPORE LISCE; BASIDIOSPORE, CISTIDI ED IFE NEGATIVE IN MELZER, IFE GENERATRICI PRIVEDI UNIONI A FIBBIA
+46,0$Basidioma pileato, color giallo zolfo $Laetiporus
+46,47$Basidioma pileato o resupinato, di colore diverso
+47,48$Cistidi presenti
+47,51$Cistidi assenti, cistidioli talvolta presenti
+48,49$Basidiomi di colore rosso bruno o giallo aranciato rossastro
+48,50$Basidiomi di colore diverso
+49,0$Basidiomi pileati, di colore rosso bruno o bruno scuro, cistidi con un contenuto giallastro bruno $Phaeolus
+49,0$Basidiomi resupinati o pileati, di colore giallo-aranciato-rossastro, cistidi con contenuto ialino $Pycnoporellus
+50,0$Basidiomi resupinati o pileati, superficie poroide rosa, aranciato o rossastro-bruna $Rigidoporus
+50,0$Basidiomi resupinati o pileati, superficie poroide bianco cremea $Oxyporus
+51,52$Basidiospore allantoidi, cilindriche od ellissoidali
+51,54$Basidiospore globose o subglobose
+52,0$Basidiomi resupinati, di colore bianco, cremeo, rosa o verdastro $Ceriporia
+52,53$Basidiomi resupinati o pileati, da bianco rosa a rosso porpora
+53,0$Imenio continuo anche sopra i dissepimenti, superficie poroide di colore rosso, rosso porpora, pori poco profondi $Gloeoporus
+53,0$Imenio non continuo sopra i dissepimenti, superficie poroide di colore bianco, rosa, rossastro fino a violaceo, pori profondi $Leptoporus mollis
+54,0$Basidiomi resupinati o pileati, di colore bianco, rosso, bruno o nero, ife basali con pareti ispessite, i campioni induriscono dopo essiccazione e possono tingersi di rosso o nero $Rigidoporus
+54,55$Basidiomi resupinati, di colore bianco cremeo giallastro, ife basali con pareti sottili, sono fragili dopo essiccazione ed immutabili
+55,0$Superficie poroide giallastra, immutabile, rizomorfe presenti, basidiospore con pareti ispessite $Byssoporia terrestris
+55,0$Superficie poroide bianco rosata, rizomorfe assenti, basidiospore con pareti sottili $Physisporinus
+
+
+rem$F. BASIDIOMI SESSILI O CON IL MARGINE SUPERIORE RIPIEGATO, IMENOFORO CON PORI REGOLARI,BASIDIOSPORE LISCE; BASIDIOSPORE, CISTIDI ED IFE NEGATIVE CON MELZER, TUBULI E CONTESTOINTENSAMENTE COLORATI IN BRUNO, BRUNO ROSSICCIO, ROSSO CINABRO O NERO, IFE GENERATRICICON UNIONI A FIBBIA
+56,57$Contesto e tubuli con colori brillanti, aranciato o rosso
+56,59$Contesto e tubuli di colore bruno, bruno rossiccio, nero
+57,58$Basidiomi annuali, resupinati o pileati, contesto e tubuli di colore rosso aranciato
+57,0$Basidiomi pluriannuali, spesso ungulati, tubuli e contesto di colore rossastro $Pyrofomes
+58,0$Basidiomi carnosi, contesto di colore rosso aranciato, sistema ifale monomitico, divengono di colore violetto con KOH $Hapalopilus
+58,0$Basidiomi coriacei, contesto' di colore rosso vivo, sistema ifale trimitico, non divengono di colore violetto con KOH $Pycnoporus
+59,0$Basidiomi pluriannuali, ungulati, lisci o provvisti di crosta, di consistenza legnosa, nucleo miceliale presente $Fomes
+59,60$Basidiomi annuali, resupinati od applanati, privi di nucleo miceliale, di consistenza carnosa o legnosa, con o senza crosta
+60,61$Basidiomi carnosi, igrofani da freschi, sistema ifale mono- o dimitico
+60,62$Basidiomi duri, legnosi, tenaci da freschi, sistema ifale di- o trimitico
+61,0$Basidioma bruno cannella, diviene violetto con KOH, sistema ifale monomitico $Hapalopilus
+61,0$Basidioma bruno scuro o nero, non diviene violetto con KOH, sistema ifale dimitico $Ischnoderma
+62,63$Basidiomi resupinati
+62,64$Basidiomi pileati o con il margine superiore ripiegato
+63,0$Basidiomi pluriannuali, resupinati, di consistenza legnosa, basidiospore ellissoidali, agenti di carie bianca, cresce spesso su Quercus $Donkopora expansa
+63,0$Basidiomi annuali o pluriannuali, resupinati o pileati, di consistenza coriacea, basidiospore cilindriche, agenti di carie bruna, su conifere e su latifoglie $Gloeophyllum
+64,65$Basidiomi con il margine superiore ripiegato o pileati, contesto bruno scuro, con una linea nera tra contesto e tomento, ife connettive rare od assenti
+64,66$Basidiomi resupinati o pileati, privi di linea nera tra contesto e tomento, ife connettive presenti
+65,0$Su latifoglie, basidiospore cilindriche, lunghe 8-12 µm $Datronia
+65,0$Solitamente su conifere, basidiospore allantoidi, lunghe 3.5-4 µm $Piloporia
+66,0$Superficie sterile liscia o tomentosa, agenti di carie bruna, solitamente su conifere $Gloeophyllum
+66,67$Superficie sterile liscia o tomentosa, vellutata, agenti di carie bianca, su latifoglie
+67,0$Superficie sterile liscia o con ciuffi di ife agglutinate, solcata, di colore nero, pori ampi, specie dell'area mediterranea $Hexagonia
+67,0$Superficie sterile ispida, tomentosa, pori da piccoli a medi, specie delle zone temperate $Coriolopsis
+
+rem $G. BASIDIOMI DA SESSILI A RESUPINATI, IMENOFORO CON PORI REGOLARI, BASIDIOSPORE LISCE; CISTIDI,IFE E BASIDIOSPORE NEGATIVE CON MELZER, CONTESTO E TUBULI DI COLORE CHIARO, CISTIDIPRESENTI
+68,69$Superficie poroide rosa, lilla, giallo, aranciato, bruno chiaro o color cacao, sistema ifale dimitico
+68,71$Superficie poroide bianca, ocracea, sistema ifale monomitico
+69,0$Basidiomi pileati, superficie sterile bianca, grigio ocracea, superficie poroide violacea quando è fresco, basidiospore cilindriche $Trichaptum
+69,70$Basidiomi solitamente resupinati, superficie poroide rosa, giallo-aranciato, color cacao fino a bruno, basidiospore di forma diversa
+70,0$Superficie poroide giallo-aranciato, cistidi ventricosi, con pareti ispessite, ife scheletriche poco numerose. $Auriporia
+70,0$Superficie poroide rosa, bruno cannella o color cacao, cistidi con pareti ispessite e densamente incrostati, ife scheletriche predominanti $Junghuhnia
+71,0$Basidiomi pileati, tomentosi, ampi e carnosi, cistidi ventricosi con pareti ispessite nella parte apicale $Climacocystis
+71,72$Basidiomi resupinati o pileati, soffici o coriacei, cistidi da cilindrici a ventricosi
+72,73$Cistidi cilindrici, con pareti sottili e lisce
+72,0$Cistidi da cilindrici a ventricosi, con pareti sottili od ispessite, incrostati nella parte apicale, basidiospore cilindriche od allantoidi, lunghe 3-6 ym $Oligoporus
+73,0$Superficie poroide bruno chiaro, pori angolosi, spesso lacerati, 1-3 per mm, basidiospore allantoidi, 4-5 x 0.7-0.8 µm $Hyphodontia latitans
+73,0$Superficie poroide cremeo giallastra od olivastra, pori rotondeggianti, 5-8 per mm, basidiospore allantoidi, 3.5-4.5 x 0.7-0.9 µm $Ceriporiopsis pannocincta
+
+
+rem$H. BASIDIOMI DA SESSILI A RESUPINATI, IMENOFORO CON PORI REGOLARI, BASIDIOSPORE LISCE, IFEPROVVISTE D1 UNIONI A FIBBIA, SISTEMA IFALE MONOMITICO, CISTIDI ASSENTI, BASIDIOSPORE ED IFE NEGATIVE CON MELZER, TUBULI E CONTESTO DI COLORE CHIARO
+74,75$Basidiospore globoso-subglobose, o ellissoidali
+74,77$Basidiospore cilindriche, allantoidi od ovoidali, talvolta ellissoidali
+75,0$Basidiomi pileati, biancastri, carnosi, basidiospore globoso-subglobose con pareti ispessite $Spongipellis
+75,76$Basidiomi resupinati o stipitati, basidiospore subgloboso-ellissoidali con pareti sottili
+76,0$Superficie poroide biancastra o giallastra, basidi con 6-8 sterigmi, ife con contenuto oleos $Sistotrema
+76,0$Superficie poroide biancastra, cremea o verdastra, basidi con 4 sterigmi, ife prive o solo raramente con contenuto oleoso $Ceriporiopsis
+77,0$Superficie poroide di colore rosa, rossastra, fertile anche sopra i dissepimenti, tubuli gelatinosi, contesto bianco e cotonoso $Gloeoporus
+77,78$Superficie poroide bianco cremea, grigiastra, verdastra, dissepimenti sterili
+78,0$Pori e tubuli di colore cremeo grigiastro, grigio nerastro, contesto cremeo con o senza linea nera $Bjerkandera
+78,79$Pori e tubuli mai di colore grigio nerastro, contesto privo di linea nera
+79,0$Basidiomi resupinati, agenti di carie bianca $Ceriporiopsis
+79,80$Basidiomi resupinati o pileati, agenti di carie bianca o bruna
+80,0$Basidiomi con il margine superiore ripiegato, agenti di carie bruna $Oligoporus
+80,0$Basidiomi pileati, agenti di carie bianca $Tyromyces
+
+
+rem$I. BASIDIOMI DA SESSILI A RESUPINATI, IMENOFORO CON PORI REGOLARI, BASIDIOSPORE LISCE, CISTIDI,IFE E BASIDIOSPORE NEGATIVE CON MELZER, IFE GENERATRICI PROVVISTE DI UNIONI A FIBBIA,TUBULI E CONTESTO DI COLORE CHIARO, SISTEMA IFALE DIMITICO O TRIMITICO
+81,0$Basidiospore ellissoidali o tronche, con pareti ispessite $Perenniporia
+81,82$Basidiospore di forma variabile ma non tronche e prive di pareti ispessite
+82,0$Basidioma pileato, ampio, glabro, provvisto di una cuticola di consistenza papiracea $Piptoporus
+82,83$Basidioma pileato o resupinato, di dimensioni variabili, la superficie sterile quando è presente, può essere liscia ma non papiracea
+83,84$Ife scheletriche assenti, ife a ramificazione dendroide presenti
+83,85$Ife scheletriche presenti, ife a ramificazione dendroide assenti, ife connettive presenti od assenti
+84,0$Basidiomi resupinati o pileati $Dichomitus
+84,0$Basidiomi stipitati $Polyporus
+85,86$Basidiomi annuali o pluriannuali, pileati, sessili, dimidiati, superficie sterile liscia o irsuta, con o senza crosta, con o senza linea scura tra tomento e contesto
+85,88$Basidiomi annuali, resupinati, con il margine superiore ripiegato o pileati, privi di crosta e linea nera tra contesto e tomento
+86,0$Basidiomi annuali, soffici, ife connettive assenti, ife generatrici predominanti con scarse ife scheletriche $Tyromyces
+86,87$Basidiomi annuali o pluriannuali, di consistenza tenace o legnosa, superficie sterile liscia o irsuta, ife connettive generalmente presenti, ife scheletriche dominanti
+87,0$Basidiomi pileati, lisci o tomentosi, talvolta è presente una linea scura tra tomento e contesto, comprende specie annuali, agenti di carie bianca $Trametes
+87,0$Basidiomi pileati, lisci, privi di linea scura nel contesto, comprende specie annuali e pluriannuali, agente di carie bruna $Fomitopsis
+88,0$Basidiomi resupinati o pileati, superficie poroide bianca o colorata, ife scheletriche solitamente finemente incrostate, talvolta con rari cristalli stellati $Skeletocutis
+88,89$Basidiomi resupinati o pileati, superficie poroide di colore variabile, ife scheletriche lisce o con rari cristalli
+89,0$Basidioma resupinato, basidi settati longitudinalmente, superficie poroide rosa brunastro, ife generatrici di difficile osservazione $Protomeulius caryae
+89,90$Basidiomi resupinati o pileati, basidi non settati longitudinalmente, superficie poroide di colore variabile, ife generatrici di solito di facile osservazione
+90,0$Basidiomi resupinati o pileati, biancastri, basidiospore da globoso-ellissoidali a cilindriche, raramente più lunghe di 4 µm(se più lunghe, vedi A. ichnusana) $Antrodiella
+90,91$Basidiomi resupinati o pileati, bianchi o colorati, basidiospore quasi sempre più lunghe di 4 µm, cilindrico-allantoidi o cilindrico-ellissoidali
+91,0$Basidiomi resupinati, biancastri, basidiospore cilindrico-allantoidi, agenti di carie bianca $Diplomitoporus
+91,0$Basidiomi resupinati o pileati, di colore variabile, basidiospore da cilindriche ad ellissoidali ad allantoidi, agenti di carie bruna $Antrodia

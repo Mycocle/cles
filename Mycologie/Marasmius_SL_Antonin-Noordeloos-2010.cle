@@ -1,0 +1,106 @@
+titre$ Marasmius sensu lato in Europe Antonin-Noordeloos  2010
+com$adapt G Fannechere 28 sept 2019
+rem$ Clé utilisable via le logiciel Mycoclé : http://mycolim.free.fr/DOC_SML/mycoCLE/Charg_Mycocle.htm
+
+1,0$source :Vladimir Antonin & Machiel E. Noordeloos ///A monograph of marasmioid and collybioid fungi in Europe VERLAG 2010
+1,0$Ne pas diffuser !
+1,0$
+µm 
+
+
+Key to the species of Marasmius sensu lato in Europe Antonin-Noordeloos  1993
+com$ libri botanici vol8  part1  /adapt G F
+1,0$ source : tiré de ///
+LIBRI BOTANICI Vol. 8 A Monograph of Marasmius,Collybia and related genera in Europe
+Part 1: Marasmius, Setulipes, and Marasmiellus.
+by Vladimfr Antonfn and  Machiel E. Noordeloos
+
+µm
+1,0 $Basidiocarps pleurotoid; stipe very short, eccentric or latéral, reduced and sometimes almost lacking in mature specimens $Gloiocephala, p 413
+1,2 $Basidiocarps marasmioid or collybioid; stipe normally developed and central in mature specimens
+2,3 $(1) Lamellae attached to a distinct free collarium round the apex of stipe
+2,9 $Lamellae free or attached to the stipe, non-collariatc, rarely partly loosening from the stipe in form of a pseudocollarium
+3,4 $(2) Pileus bright orange, orange-brown, red, reddish-yellow or red-brown
+3,5 $Pileus white, grey or brownish
+4,0 $(3) Pileus up to 5 mm broad; lamellae distant (L = (4) 6-8), white; spores (9.0) 11-16 (18) µm long; pileipellis with broom cells of the Rotalis-type $ M graminum
+4,0 $Pileus 4-10 ( 15) mm broad; lamellae more crowded (L = 9-13), cream-coloured to yellowisb, rarely purely white; spores (7.5) 8.0-11 (13) µm long; pileipellis with broom cells of the Siccus-type $ M curreyi
+5,6 $(3) Only few lamellae present (L = 6-9)
+5,7 $With more lamellae (L > 10)
+6,0 $(5) Basidia 2-spored, short, 17-22 µm long; spores 8.0-12 (14) x 4.5-6.0 (7.0) µm ; on grasses and sedges, in particular on Phragmites, Baldingera and Carex spp in moist localities, swamps, etc $ M limosus
+6,0 $Basidia 4-spored, 30-35 µm long; spores (10) 11.5-19 x 4.0-6.5 µm ; on leaves of Duschekia alnobetula (= Alnus viridis) $ M alniphilus
+7,0 $(5) Pileus white to cream-coloured when fresh with greyish centre (papilla), 4-14 (18) mm broad, with 17-21 (25) lamellae; on dead wood (sticks, branches, bark) $ M rotula
+7,8 $Pileus beige-brown when fresh, or when white or whitish, then with distinctly delimitated, darker, brown or blackish central papilla, usually smaller, pileus never exceeding 10 mm, with 11-17 (19) lamellae; never on deciduous wood
+8,0 $(7) Pileus some shade of brown when fresh; L = 11-15 ( 16), in average 13-14; projections of broom cells in pileipellis (1.0) 2 0 ^ 0 (5.0) µm long; stipe sometimes with distinct side branches; on leaves of deciduous trees, especially of Quercus and Fagus $ M bulliardii
+8,0 $Pileus white when fresh with grey to grey-brown papilla; L = (12) 13-17 (19), in average 14-15; projections of broom cells in pileipellis 1.0-2.0 (3.5) µm long; stipe never with side-branches; on needles and litter of coniferous trees (Picea, rarely Abies or Pinus) $M wettsteinii
+9,10 $(2) Stipe insititious, filiform; basidiocarps marasmioid
+9,24 $Stipe with basal mycelium; basidiocarps marasmioid or collybioid
+10,11 $(9) Pileus white or whitish cream
+10,17 $Pileus distinctly coloured 
+11,0$(10) Pileipellis made up of broom cells; lamellae reduced, usually not reaching the margin of pileus; spores (11) 14-17 x 3.0-3.5 (4.0) µm ; hyphae of trama non-dextrinoid; on Hedera hélix.$M epiphylloides
+11,12 $Pileipellis made up of smooth or slightly roughened éléments; lamellae reduced or well developed; hyphae of trama non-dextrinoid or dextrinoid at least in apex of stipe; on différent substrata
+12,13 $(11) Hyphae of trama dextrinoid, at least in apex of stipe; lamellae well-developed .
+12,14 $Hyphae always non-dextrinoid; lamellae usually more or less reduced, less frequently well-developed
+13,0 $(12) Spores (9.0) 10-14.5 x 4.0-6.0 µm , usually broadly fusiform; stipe with up to 1 mm long, hyaline hairs, especially when young; pileus with 5-7 (11) entire lamellae; cheilocystidia cylindrical to fusiform, often capitate; hyphae in apex of stipe dextrinoid, in other parts not $ M setosus
+13,0 $Spores 5.0-7.5 x (2.5) 3.0-4.0 µm , ellipsoid; stipe without such long hairs; pileus with up to 16 entire lamellae; chcilocystidia clavate, with one or more apical projections; hyphae in ail parts of basidiocarp dextrinoid (exccpt for subhymenium) $M saccharinus
+14,15 $(12) Pileus small, 1-4 mm broad; lamellae reduced, usually not reaching the margin of the pileus; spores (7.5) 10-14 x 3.5-4.0 µm , almost cylindrical; basidia mostly 2-spored; hyphae clampless
+14,16 $Pileus up to 10 mm broad; lamellae reduced or well-developed; spores 8.0-12 (14) x 3.0-5.0 µm , usually broadly ellipsoid; basidia usually 4-sporcd; hyphae clamped .
+15,0 $(14) Spores (9.5) 10-14 x 3.0^1.5 µm ; Q = 3.1; on leaves of Populus $ M favrei var favrei
+15,0 $Spores (7.5) 9.5-12 x 3.0-4.0 µm ; Q = 2.8; on leaves of Sorbus aucuparia $M favrei var sorbi
+16,0 $(14) Lamellae strongly reduced to low veins; basidia 4-, 3- or 2-spored; pileipellis made up of broadly clavate, fusiform or vesiculose, thin-walled éléments; on Helleborus corsicus $M Itellebori-corsici
+16,0 $Lamellae well-developed or reduced, but always distinct; basidia 4-sporcd; elements of pileipellis broadly lageniform or fusiform, thin- or thick-walled; on other substrata $M epiphyllus
+17,0 $(10) Pileus and stipe with long, setiform hairs; on dead leaves of Ilex europeus $M hudsonii
+17,18 $Pileus and stipe without setiform hairs; on other substrata
+18,0 $(17) Pileipellis a hymeniderm of smooth elements, mixed with (sub)capitate cheilocystidia; lamellae reduced, vein-like, not reaching the margin of the pileus $Gloiocephala cerkesii
+18,19 $Pileipellis a hymeniderm of broom cells or made up of diverticulate elements; pileocystidia absent
+19,20 $(18) Pileipellis a true hymeniderm, made up of regularly shaped broom cells of the Rotalistype; pileus usually small, 0.5-7 mm broad, dark brown to red-brown, at least at centre
+19,0 $Pileipellis a true hymeniderm in primordial stages only, later on an irregular trichoderm of very irregular diverticulate elements; pileus somewhat larger, 3-15 mm broad, with some shade of brown, flesh-colour, pink or creamy-white $(compare Gymnopus sect Androsacei, p 259)
+20,0 $( 19) Broom cells of pileipellis of the Siccus-type; smell strong, like garlic $ M subalpinus
+20,21 $Broom cells of pileipellis of Rotalis-type; smell none or différent
+21,0 $(20) Cheilocystidia of one type: lageniform or tibiiform; pleurocystidia absent; spores (7.0) 8.0-12.5 (13) µm long; on leaves of Buxus $M buxi
+21,22 $Cheilocystidia of two types: broom cells and fusiform, clavate or lageniform; pleurocystidia present; spores 6.0-10 µm long; on other substrata
+22,0 $(21 ) Pileus distinctly bicoloured: with dark centre and pale marginal zone; L = 10-14; pileocystidia absent; on leaves of evergreen and deciduous trees and shrubs in mediterranean areas $M corbariensis
+22,23 $Pileus uniformly coloured; well-developed lamellae more distant (L = (0) 3-9) to missing; pileocystidia present
+23,0 $(22) Lamellae well-developed (L = (0) 3-9); spores 6.0-9.5 x 2.0-5.0 µm ; pileo- and caulocystidia present; on leaves of Populus species $ M minutus
+23,0 $Well-developed lamellae absent, hymenophore smooth to fold-like; spores 8.0-10 (11) x 5.0-7.0 µm ; pileocystidia present; caulocystidia absent $ M celtibericus
+24,0 $(9) Smell strong, like garlic $see Mycetinis, p 445
+24,25 $Smell différent or absent
+25,0 $(24) Lamellae pale yellow to yellow-brown with conspicuous brown setiform cystidia on pileus, lamellae and stipe (visible with strong lens); pileipellis with broom cells of the Siccus-type $ M cohaerens
+25,26 $Lamellae white or pale, never with setiform cystidia
+26,27 $(25) Stipe glabrous, polished, shilling
+26,38 $Stipe pruinose or hairy
+rem$ bug org : 26,40 $Stipe pruinose or hairy
+27,28 $(26) Elements of pileipellis smooth
+27,31 $Pileipellis with broom cells
+28,0 $(27) Stipe white, strongly striate-fissurate; pileus purplish-brown $ M.fissipes
+28,29 $Stipe coloured, not distinctly striate; pileus differently coloured
+29,0 $(28) Pileus and stipe about the same pale ochraceous-brown colour; stipe hollow; basidiocarps rather fragile like in most Collybia species; cheilocystidia absent; in grasslands $M collinus
+29,30 $Pileus and stipe differently coloured; fruit bodies rather tough; cheilocystidia présent; usually in forest
+30,0 $(29) Pileus colour ranging from white to grey with violaceous tinge; stipe white at first then reddening from base upwards, finally red-brown; cheilocystidia irregularly clavate; smell often like almonds $ M wynneae
+30,0 $Pileus red brown; stipe red-brown with darker base; cheilocystidia at east in part in form of broom cells; smell none $ M mediterraneus
+31,32 $(27) Species so far only found in hot greenhouses, and probably of tropical origin
+31,34 $Species found in natural habitats
+32,0 $(31 ) Pileus pale grey-brown with flesh-coloured centre; lamellae distant, L = 12-13; cheilocystidia of two-types: Siccus-type broom cells mixed with smooth clavate to lecithiform elements $ M anisocystidiatus
+32,33 $Pileus dark brown; lamellae more crowded, L= about 15-20; cheilocystidia of the Siccus- type only
+33,0 $(32) Pileus and stipe reddish-brown; spores (12) 13-19 x 4.0-5.0 µm , Q - 3.3; broom cells of pileipellis with 2.0-8.0 µm long projections $ M skalae
+33,0 $Pileus and stipe dull brown without reddish tinge, rarely with reddish tinge when old; spores 18-22 x 3.0-5.0 µm , Q = 4.9; broom cells of pileipellis with up to 10 (15) µm long projections $ M teplicensis
+34,0 $(31) Stipe, lamellae, and pileus with brown, thick-walled cystidia $ M cohaerens
+34,35 $Stipe and pileus without such thick-walled cystidia
+35,0 $(34) Stipe citrine-yellow in apical part, turning green on drying $ M ventalloi
+35,36 $Stipe pale yellow at apex, not turning green
+36,0 $(35) Pileus up to 30 mm broad, usually bright orange-yellow when fresh; lamellae narrow, often somewhat reduced and vein-like; in litter in boréal forest and heath-like végétation $ M siccus
+36,37 $Pileus up to 15 mm broad, dull yellowish-ochre or yellowish white when fresh; lamellae well-developed, often ventricose; in grassland and on remnants of grasses in rather exposed, often xerophytic grassiand communities
+37,0 $(36) Spores (12)16-22 (24) x (3.0) 3.5-^.5 (6.0) µm , Q = 4.4 $M anomalus var anomalus
+37,0 $Spores 12-18 (19) x (3.5) 4.0-5.0 (6.0) µm , Q = 3.8 $M anomalus var microsporus
+rem$ bug réparé 38 non appelée
+38,39 $(26) Hyphae of context non-dextrinoid
+38,40 $Hyphae of context dextrinoid
+39,0 $(38) Stipe long and slender, 60-150 x 1.5-2.5 mm; grey-brown with white pruinose covering when mature; spores broadly fusiform to amygdaliform; pileo- and caulocystidia thin-walled, hyaline or slightly pigmented; in forest on or near rhizomes of Pteridium aquilinum $Rhizomarasmius undatus, p 427
+39,0 $Stipe short, 5-40 (60) x (0.5) 1-2 mm, dark brown with rusty brown covering; spores ellipsoid or amygdaliform; pileo- and caulocystidia brown, thick-walled; on old, dead parts of Dry a s spp in alpine and arctic habitats $Mycetinis epidryas, p 408
+40,0 $(26,38) Thick-walled setiform cystidia present on pileus and stipe; cheilo- and pleurocystidia present $M torquescens
+40,41 $Thick-walled setiform cystidia absent; cheilocystidia present or absent; pleurocystidia always absent
+41,0 $(40) Pileus (and stipe) red-brown; spores 9.5-12 x 5.0-6.5 µm , amygdaliform $ M todae
+41,42 $Pileus differently coloured; spores smaller and differently shaped
+42,0 $(41) Pileus pale ochraceous, cream-coloured, strongly pallescent to almost white; stipe coticolorous with pileus, tomentose, rather elastic; spores (7.0) 8.0-10.5 (11.5) x 4.0-6.0 µm ; cheilocystidia absent $M oreades
+42,43 $Pileus and stipe differently coloured; cheilocystidia present; spores smaller
+43,0 $(42) Pileus white or grey, often with violaceous tinge; stipe white at first, soon becoming reddish to orange-brown from base upwards, finally reddish brown, squamulose; pileocystidia absent; cheilocystidia irregularly clavate to coralloid; éléments of pileipellis smooth $M wynnae
+43,0 $Pileus dirty grey or blackish with ochraceous-tinged centre; stipe white at apex, rusty brown to black towards base, pruinose above, woolly-tomentose below; pileocystidia present; cheilocystidia mostly fusiform or sublageniform, elements of pileipellis smooth and of broom cells type $M cespitum

@@ -1,0 +1,104 @@
+titre = Lactarius ;;;;;;;;;;
+commentaire = http://shnvc.e-monsite.com/pages/mycologie/outils-determination.html;;;;;;;;;;
+Auteur : Eric Michon;;;;;;;;;;
+
+
+champ=LACTARIUS;Couleur chp;Cuticule;marge;Latex;Saveur;Lames;Stipe;Odeur;Habitat;autre
+acerrimus;orangé;;;Blanc;;crispées;;;;Lames  rose-crème
+acris;café au lait;marbrée;;Blanc > rose en 30 s;acre;crème;;;Fagus;
+albocarneus;crème;glutineuse;glutineuse;Blanc;insuportable;blanches  ;;;Conifères; Lait séchant en gris-olivâtre
+alpinus;jaune orangé;sèche mate;;Blanc;Acre;;;;Alnus Z A;
+aquizonatus;blanc;zonée;barbue laineuse;Blanc > jaune vif;astringente;crème;scrobiculé;fruitée;Betula;
+aquizonatus;blanc;zonée;;Blanc > jaune vif;;crème;;;Salix;
+aquizonatus;blanc;zonée;;Blanc > jaune vif;;crème;;;Populus;
+aspideus;jaune pâle;;;Blanc > violet;Amère;décurrentes;;;Salix;
+atlanticus;orangé;mamelonnée;sèche;Aqueux;;crème;cocolore hirsute;;Quercus;
+aurantiacus;orangé;;;Blanc;;;concolore;;Feuillus;
+aurantiofulvus;orange vif;grasse;;Blanc;;;;;Picea; Chair blanche                                 
+badiosanguineus;brun rouge;unie;;Blanc > jaune/mouchoir;Subdouce;crème ocre;;;Picea;
+badiosanguineus;brun rouge;unie;;Blanc > jaune/mouchoir;Subdouce;crème ocre;;;Abies;
+bertillonii;blanc;feutrée;enroulée;Blanc;Acre;très espacées;blanchâtre;acidulée;Feuillus;Ø 20 cm. Latex  + KOH = jaune-orangé         
+bertillonii;blanc;feutrée;enroulée;Blanc;Acre;très espacées;blanchâtre;acidulée;Conifères;Ø 20 cm. Latex  + KOH = jaune-orangé         
+blennius;Gris;visqueuse;;blanc abondant;;;;;Fagus; Lames se tâchant de vert         
+blennius var. viridis;verdâtre;visqueuse;;blanc abondant;;;;;Fagus; Lames se tâchant de vert        
+blennius f. albidopallens;verdâtre;visqueuse;;blanc abondant;;crème;;;Fagus; Lames se tâchant de vert        
+brit. var. fulvissimus;brun roux;sèche;;Blanc;;;;Caoutchouc;Feuillus;
+britannicus ;brun roux;mate;;Blanc;;;;Punaise;Fagus;
+camphoratus;brun roux;unie;;Aqueux;;;base vineuse;Chicorée;souches;
+chrysorheus;orangé mat;sèche;;Blanc > jaune;;;;;Castaneus;
+cimicarius;brun roux;unie;;Aqueux;;;;Punaise;Quercus;
+circellatus;Gris;zonée;;Blanc;;sérrées;;;Carpinus;L crème       
+cistophilus;;visqueuse;;Blanc > violet;Amère;;;;Cistes arbousiers;
+citriolens;jaune citron;;poils secs;Blanc > jaune;;;;;Betula;
+controversus;blanc;tâches roses;;Blanc;Acre;roses;blanchâtre;;Populus;
+cremor;brun foncé;ridée ;;Aqueux;;;;Lierre;Fagus;
+curtus;brun rouge;grasse;zonée ou guttulée;Blanc;;jaunâtre;;Cire à cacheter;;  ? L. musteus chp uni
+decipiens;rose orangé;mamelon fin;;Blanc > jaune/mouchoir;;;;Géranium;Feuillus;
+deliciosus;orange vif;visqueuse;;orange > vineux    ;douce;orangées;scrobiculé;fruitée;Pinus;
+deterrimus;orangé;  +ou- zoné;;orange;savon;orangées;lisse;fruitée;Picea;
+evosmus;orangé;;;Blanc;;sérrées;;;;Lames  blanchâtres non crispées
+flavidus;jaune;collante;;Blanc > violet;Amère;crème;crème;;Feuillus;tâches de violet, saveur âcre
+fluens;gris;zonée;pâle;blanc abondant;;;;;Fagus;Chap. sec,. Lames se tâchant de brun        
+fuliginosus;brun;marbrée;;Blanc > rose;;crème sérrées;;;; si pied blanc = L. azonites
+fulvissimus;fauve;;;Blanc;;;;Lepiota cristata;Feuillus;Chap. gras brun-rougeâtre. L crème.Stipe orangé, base brun-rouge. 
+glauscescens;blanc;mate;;Blanc;Acre;très sérrées;;acidulée;;Latex séchant verdâtre + KOH = jaune-orangé ? L. pergamenus  Ø 15 cm.
+glyciosmus;gris rose;mamelon ;pâle;Blanc;acre;crème;concolore;Noix de coco;Betula; ? L. fuscus Chp.pruineux violacé
+helvus;brun rose;feutrée mamelonnée;;Aqueux;;;;Céleri;Conifères;
+helvus;brun rose;feutrée mamelonnée;;Aqueux;;;;Céleri;Betula;
+hepaticus;brun rouge;unie;;Blanc > jaune/mouchoir;Amère;;;Caoutchouc;Pinus;
+hepaticus;brun rouge;unie;;Blanc > jaune/mouchoir;Amère;;;Caoutchouc;Picea;
+hepaticus;brun rouge;unie;;Blanc > jaune/mouchoir;Amère;;;Caoutchouc;Douglasi;
+illyricus;blanc crème;zonée;;Blanc;;;;;Fagus;
+illyricus;blanc crème;zonée;;Blanc;;;;;Quercus;
+illyricus;blanc crème;zonée;;Blanc;;;;;Castaneus;
+intermedius;jaune;non zoné;barbe courte;Blanc > jaune;astringente;crème;petites fossetes;fruitée;Abies;
+lacunarum;brun jaune;;;Blanc > jaune/mouchoir;;décurrentes par une dent;;;Feuillus .; en zone humide
+lignyotus;noir;ridée mamelonnée;;Blanc > rose;Douce;blanches décurrentes;brun foncé;;Picea;
+lilacinus;gris lilacin;sèche mate;;Aqueux;;;;;Alnus;Latex blanc tâchant les L en vert    
+luridus;sombre;guttules concentriques;;Blanc > violet;;;;;Quercus;Chap. sec           
+luteolus;crème;;;blanc > brun;Subdouce;espacées;;fruitée;Thermophile;
+mairei;orangé;méchuleuse ;barbue laineuse;Blanc;Acre;crème;lisse;fruitée;Quercus;
+mitissimus;orangé;papillée;;Blanc;;;;Inodore;Feuillus;, papillé. Inodore          
+nanus;gris brun;grasse;;Blanc > jaune/mouchoir;;espacées chamois ;gorgé d'eau;;Salix Z. A.; Saules nains en Z.A.
+obscuratus;brun orangé;mamelonnée;striée;Aqueux;;;;;Alnus; mamelon + sombre ou olivâtre                                              
+omphaliformis;roux;rugueuse;striée;Aqueux;;décurrentes;;;zones humides;
+pallidus;crème;;;Blanc;;;concolore;;Fagus;
+picinus;brun foncé;veloutée;;Blanc > rose;douce > amère;sérrées;brun sale;;conifères; en Montagne
+piperatus;blanc;mate;;Blanc;Acre;très sérrées;;acidulée;Feuillus;
+plumbeus;vert sale;  +ou- zoné;;Blanc;acre;tâchées de vert;concolore;;Betula;
+plumbeus;vert sale;  +ou- zoné;;Blanc;acre;tâchées de vert;concolore;;Picea;
+porninsis;orange vif;;;Blanc;;;concolore;;larix;
+pterosporus;café au lait;ridée ;blanche;Blanc > rose;douce > acre;sérrées;crème;;Feuillus;
+pubescens;rose orangé;non zonée;barbue laineuse;Blanc;Acre;;;;Betula;
+pyrogalus;Gris;;;Blanc;Brûlante;espacées;;;Corylus;Lames orangé, espacées.
+quieticolor;orangé sale;collante;;orange > vineux    ;Subdouce;orangées;cerne blanc;;Pinus;
+quietus;brun ;zonée;;Blanc;;;;Buanderie;Quercus;Chap. sec brun-noisette à brun-rouge zoné ou fossettes. 
+repraesentaneus;jaune citron;visqueuse;barbue laineuse;Blanc > violet;douce > amère;tachées de violet;scrobiculé;fruitée;Betula;en montagne
+repraesentaneus;jaune citron;visqueuse;barbue laineuse;Blanc > violet;douce > amère;tachées de violet;scrobiculé;fruitée;Conifères;en montagne
+resimus;;visqueuse;duveteuse;Blanc > jaune;;;;;Pinus;
+robertianus;gris violacé;collante;;Blanc > violet;Subdouce;crème;crème ;Cuir de Russie;Salix Z. A.;
+romagnesii;brun;veloutée;enroulée;Blanc > rose;douce > amère;ocre sale , espacées;;Caoutchouc;Feuillus; en Plaine
+roseozonatus;gris lilacin;grasse;zonée de rose;Blanc;;;;;;
+rubrocinctus;roux;rugueuse;;Blanc;;crème;;;;Chap. roux rugueux. Lames crème > brun-violet au froissement. Cerne rouge sous insertion L
+rufus;roux;feutrée mamelonnée;;Blanc;insuportable;;;;Conifères;
+rugatus;orangé roux;rugueuse;;blanc abondant;;crème;concolore;;Thermophile;Odeur de crustacés. Lait abondant. Thermophile
+ruginosus;;;festonnée;Blanc > rose;Douce;espacées ;;Noix de coco;;.Chair blanche piquée de roux
+salmonicolor;orangé;  +ou- zoné;enroulée;orange;carotte;orangées;scrobiculé;fruitée;Abies;
+sanguifluus;orangé;;;Vineux;douce;rose-vineux;scrobiculé;;Pinus;
+scrobiculatus;jaune;zonée;barbe courte;Blanc > jaune;Acre;crème;larges fossettes;fruitée;Picea;
+semisanguifluus;orangé;verdissante;;orange > vineux    ;;orangées;peu scrobiculé;;Pinus;
+serifluus = cimicarius;fauve;mamelonné ridée;;Aqueux;;;;;Feuillus;Chap. sec                    
+spinosulus;rose lilacin;zonée;barbue laineuse;Aqueux;;;;;Betula; KOH + cutis = olive           
+subdulcis;orangé;unie;;Blanc;;;Haut blanchâtre ;Caoutchouc;Fagus;
+subumbonatus;brun foncé;mamelonnée;cannelée;Aqueux;;;;;ornières et bords de chemins; 
+tabidus;orangé;ridé mamelonné;;Blanc > jaune/mouchoir;;;;;Betula;
+torminosus;orangé;zonée;barbue laineuse;Blanc;Acre;rosâtres;cerne rose;fruitée;Betula;
+trivialis;gris brun;grasse;;Blanc > jaune/mouchoir;;;;fruitée;Betula; Ø 15 cm
+trivialis;gris brun;grasse;;Blanc > jaune/mouchoir;;;;fruitée;Conifères; Ø 15 cm
+uvidus;gris violacé;visqueuse;;Blanc > violet;Amère;crème;crème;;zones humides;
+vellereus;blanc;feutrée;enroulée;Blanc;Douce chair âcre;espacées;blanchâtre;acidulée;Feuillus;Chap.Ø 25 cm.   Latex + KOH = 0  
+vietus;rose sale;lisse;;Blanc;;crème;;;Betula; Lames  se tâchant de brun-gris  /  tourbières
+violascens;brun violacé;  +ou- zoné;;Blanc > violet;;;;;Quercus;
+volemus;orangé;lisse & mate;;blanc abondant;Douce;;concolore;Crustacés;;Chap. orange mat lisse à craquelé .
+zonarioides;orangé roux;zonée;;Blanc;;crème;;;Conifères;
+zonarius;jaune orangé;zonée;;Blanc;;crème;;Résine;Quercus;

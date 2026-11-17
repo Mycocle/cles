@@ -1,0 +1,210 @@
+
+
+
+Titre$GROGER : Bestimmungsschlüssel für Blätterpilze und Röhrlinge in Europa  p25
+com$ adpt GF 2013
+
+rem$LANGUE$Allemand
+
+page 25 : Hauptschlüssel
+
+1,25$Abbildung
+1,2 $ a Fruchtschicht röhrenförmig, mit nach unten offenen Poren ("löcherig"; wie bei einem Schwamm; selten auch mit gröberen, wabenartigen Öffnungen)
+1,6 $ b Frachtschicht lamellig [seltener aderig-(netzig), bei winzigen Arten manchmal glatt - Hut-Unterseite nie löcherig]
+2,0 $ a Stiel völlig fehlend (Fruchtkörper konsolenförmig) oder seitlich bis deutlich exzentrisch: hier nicht behandelte $ * Nichtblätterpilze, "Aphyllophorales", z.B. Porlinge, Leberpilz (Fistulina) usw.
+2,3 $ b Stiel ± zentral
+3,0$ a Stiel verzweigt: hier nicht behandelte$* Nichtblätterpilze, z.B. Dendropolyporus umbellatus, Eichhase usw.
+3,4 $ b Stiel nicht verzweigt
+4,0 $ a Fruchtkörper bald sehr zäh, lederig, holzartig:$ * hier nicht behandelte seitlingsverwandte Pilze (Pleurotaceae) mit Poren (Polyporus, Stielporling, hier nicht aufgeschlüsselt)
+4,5 $ b Fruchtkörper fleischiger, meist bald faulend
+5,0 $ a Poren (anfangs) blass - Röhren deutlich am Stiel herablaufend, nicht (gut) vom H lösbar - Sporen Pulver schwach gefärbt: $ * hier nicht behandelte "Fleischporlinge", Albatrellus (Kamm-, Schaf-, Semmel-, Ziegenfuß-Porling) und Boletopsis, Ruß-Porling
+5,0 $ b Poren deutlich gefärbt oder Röhren nicht herablaufend und leicht vom Fl lösbar oder Sporen Pulver kräftiger gefärbt $ Gattungsschlüssel 10, S. 78 $$s"Familien Boletaceae und Strobiomycetaceae, Röhrenpilze"
+
+cf clé10
+
+
+6,7 $ a Stiel-Fleisch mürbe, in beliebige Richtungen brechend - St- und Hut-Fleisch nie auffaserbar (Hut- und St-Trama heteromer, d.h. zwischen den Hyphen gibt es Gruppen ("Nester") blasiger Zellen, Sphärozyten) - [Sporen kugelig bis kurz ellipsoid, mit amyloidem Ornament - Zellwände stets ohne Schnallen]: Familie Russulaceae, Täublings artige Pilze
+6,8 $ b Stiel-Fleisch immer längs,Hut-Fleisch oft radial auf fasernd (Hut- und Stiel-Fleisch homöomer, grundsätzlich aus Hyphen, ohne eingebettete Gruppen blasiger Zellen, aufgebaut) (die Elemente der Trama-Hyphen können aber manchmal kurzgliedrig sein)
+7,0 $ a Fruchtkörper verletzt mit (farblosem, weißem, rosa-, orange-, dunkelrotem) Milchsaft - L-Trama ohne Sphärozyten oder solche nur spärlich und inkonstant; L daher oft biegsam, wenig brüchig - St meist gefärbt - [fl p.p. konzentrisch gezont (oft trübfarbig), am Rande manchmal flaumig-fransig - L oft trüber gefärbt als bei der folgenden Gattung - [(kurze) Zwischen-L immer ausgebildet] $ Lactarius, Milchling (Teil 2)
+7,0 $ b Fruchtkörper sondert keinen Milchsaft ab (aber L oder St-Spitze manchmal von Tröpfchen gesäumt) - L-Trama immer mit Sphärozyten, stets in "Nestern"; L daher, bis auf wenige Ausnahmen, spröde-splitternd - Stiel weiß (manchmal gilbend, bräunend oder grauend) oder rosa, rot bis violett - [H am Rande nie flaumig-fransig - L weiß, gelb oder ocker] - [hierher alle Arten ohne (kurze) Zwischen-L] $ Russula, Täubling (Teil 2)
+8,cs1 $ a Fruchtkörper ungestielt oder Stiel seitlich bis stark exzentrisch stehend $ Gattungsschlüssel 1, S. 30Ungestielte, seitlich oder stark exzentrisch gestielte Blätterpilze$s"Gattungsschlüssel 1"
+8,0,n$ Gattungsschlüssel 1: Ungestielte, seitlich oder stark exzentrisch gestielte Blätterpilze
+8,9 $ b Fruchtkörper mit zentral stehendem Stiel (oder Stiel nur ausnahmsweise schwach exzentrisch)
+8,9,n $ Die nachstehende Entscheidung 9a/9b ist nur für geübte Mikroskopierer nachvollziehbar (L-Schnitt!). Die im Gattungsschlüssel 2 aufzufindenden Gattungen mit divergierender L-Trama sind aber auch makroskopisch leicht erkennbar und über die Gattungsschlüssel 3, 4 und 6 bequem zu erreichen, so dass in jedem Fall auch ab Schlüsselziffer lOa/lOb weiterbestimmt werden kann.
+9,0 $ a L-Trama (jung) deutlich divergierend (bilateral, Abbildung la) $ Gattungsschlüssel 2, S. 36x  Blätterpilze mit bilateraler L-Trama
+cf cle 2
+9,10 $ b L-Trama irregulär (Abbildung lb) oder ± regulär (Abbildung lc) (höchstens gegen das Hymenium hin sehr jung ein wenig bilateral) oder Struktur der L-Trama nicht feststellbar
+
+
+10,0 $ a L frei (Abbildung 2h), nicht am Stiel angewachsen $ Gattungsschlüssel 3, S. 37 Freiblättler
+
+cle3
+
+10,11 $ b L stets am Stiel angewachsen (in unterschiedlicher Weise, Abbildung 2c-f; manchmal den Stiel nur in einem Punkt berührend) 
+11,0$a Sporen Pulver (und reife L) rosa, fleischbraun, rosabraun$ Gattungsschlüssel 4, S. 37 $$s"Blätterpilze mit rosafarbenem, rosabraunem Sporen Pulver"
+cle 4
+
+11,12$ b Sporen Pulver anders gefärbt 
+12,22$ b Sporen Pulver deutlich gefärbt, mindestens ockerbraun, rostgelb (bis intensiv braun, erdbraun, graubraun, violettbraun, schwärzlich)
+(Gattungsschlüssel für die dunkelsporigen Gattungen; sämtlich in Teil 2)
+12,13 $ a Sporen Pulver weiß, creme oder gelblich (selten olivgrau, selten hell violettlich)...
+
+13,0 $ a Deckschicht des Hutes "zellig", d.h. Hut-Oberfläche entweder mit freien, blasigen Zellen (Sphärozyten, Abbildung 2a) oder mit einer geschlossenen Schicht aufrechtHauptschlüssel stehender (meist) keuliger (Abbildung 2b), blasiger oder langgestreckter, seltener spindeliger oder fast zylindrischer Zellen (in die manchmal auch ± aufrechtstehende Borsten oder Zystiden [Pileo-Zystiden] eingefügt sein können, Abbildung 2c)$ Gattungsschlüssel 5, S. 40 $$s"Glattsporige Hellsporer mit zelliger Huthaut"
+13,0,n $Bei Skalpschnitten, die leicht gequetscht werden, um Luftblasen zu entfernen, werden stellenweise auch tiefer liegende, oft hyphige Zelllagen sichtbar. Es ist jedoch stets nur die oberste Zelllage (kenntlich an aufliegenden Fremdkörpern oder aufliegenden Sporen) zu beurteilen.///Arten mit undeutlicher Deckschicht des Hutes oder mit kurzzeitigen Hyphen, zwischen denen zystidenartige Zellen stehen können oder mit Hyphen(enden), die in der Hut-Mitte aufgerichtet sind (trichodermale Deckschicht des Hutes), suche man ab Schlsselziffer 13b.
+  cle 5
+13,14 $ b Deckschicht des Hutes eindeutig hyphig (Abbildung 2d; manchmal schwer zu erkennen, wenn oberste Lage dicht gepackt-verzweigt, igelig-koralloid verzweigt, gelatinisiert, Abbildung 2e, oder sogar kollabiert: junge Fruchtkörper!)
+14,0 $ a Sporen skulpturiert (im Lichtmikroskop ohne Immersion mit sichtbaren Vorsprüngen, Warzen, Pusteln, Stacheln usw.) $ Gattungsschlüssel 6, S. 43$$s" Hellsporer mit Oberflächenskulpturen auf den Sporen"
+14,0 ,n$Eventuelle Skulpturen auf den Sporen können manchmal mithilfe von Färbungen (Baumwollblau, Melzers Reagenz) besser sichtbar gemacht werden.
+cle6
+
+14,15 $ b Sporen im Lichtmikroskop glatt erscheinend: Glattsporige Hellsporer
+15,0 $ a H fein haarig-schuppig (besonders in der Mitte), gelb, olivgelb, verschiedenartig braun - Stiel meist mit Ring oder Ringresten (nur zwei sehr seltene Arten ganz ohne Ring oder Ringreste) - Ges adstringierend - Vork. an Holz gebunden (auch an vergrabenem Holz, an Wurzeln; manchmal weit von Holzresten entfernt, aber durch schwarze, flach gedrückte Myzelstränge damit verbunden (nur eine sehr seltene Art ghne Holzbezug in Mooren und auf feuchten Wiesen) - [Sporen ellipsoid, > 6 - L-Schneide steril: Cheilo-Z ellipsoid, keulig, zylindrisch] $ Armillaria, Hallimasch  28
+15,16 $ b Fruchtkörper ohne diese Merkmalskombination
+16,17 $ a Ger nach Knoblauch oder nach faulendem Kohl (faulenden Zwiebeln) (Fruchtkörper zerquetschen; angetrocknete Pilze befeuchten) -
+" Wenn solcher Ger nur schwach und Fruchtkörper orangerot, orange o=> 21a.3 Hygrocybe helobia, Stinkender Filz-Saftling
+16,18 $ b Fruchtkörper ohne diesen Geruch und ohne die weiteren, bei Schlüsselziffer 16a angegebenen Merkmale
+17,0 $ a Deckschicht des Hutes oder L-Trama etwas gelatinös - [hierher zwei Arten mit dunkelbrauner oder schwärzlicher St-Basis und mit Ger nach faulendem Kohl: eine auf abgefallenen Nadeln, die andere auf Lbh-Ästen: H radial gefurcht - Stiel matt, bereift, ohne Basalfilz]$ Marasmiellus p.p. (Teilschlüssel a), Zwergschwindling 59
+17,0 $ b Deckschicht des Hutes und L-Trama nicht gelatinös - [hierher die Arten mit reinem Ger nach Knoblauch (Allium sativum), mit glänzendem Stiel oder mit filziger St-Basis] $ Collybia p.p. (Teilschlüssel c), Rübling  40
+18,19 $ b Fruchtkörper ohne diese Merkmale: entweder deutlich gefärbt (besonders Hut-Mitte und St-Basis beachten) oder größer werdend
+18,0 $ a Fruchtkörper rein weiß (hyalinweiß) und klein bis sehr klein: H < 20 (max 30); Stiel max x 2 (3) $ Hemimycena, Scheinhelmling & Delicatula 49, Schleierhelmling
+18,0 ,n$ sowie einige Vertreter anderer Gattungen mit ähnlichen Fruchtkörper (Resinomycena, Ölzystiden- Helmling, Mycena p.p., Helmling, Omphalina p.p., Nabeling)
+18,0 $ Fruchtkörper rein weiß (hyalinweiß) und klein bis sehr klein: H < 20  :   Wenn Sporen < 4,5, subglobos-kurzellipsoid •=> 70.1-70.3 Pseudobaeospora p.p., Purpurblatt
+19,0 $ a Stiel kurzsamtig, unten oft dunkel - H schmierig-klebrig, creme, gelb, fuchsig  - L weißlich, gelblich, blass orange - Sporen ellipsoid - [H 10-60 (100); Stiel x 210 (15)] - Vork. an Holz, auch an Wurzeln] $ Flammulina, Samtfußrübling 46
+19,20 $ b Fruchtkörper ohne diese Merkmalskombination
+20,0 $ a L breit am Stiel angewachsen (Abbildung 2j) bis herablaufend (Abbildung 2k) $ Gattungsschlüssel 7, S. 46 $$s"Glattsporige Hellsporer mit breit angewachsenen oder herablaufenden Lamellen"
+20,0 ,n$Der L-Ansatz ist oft sehr variabel. Nur in ganz eindeutigen Fällen suche man daher hier. Alle zweifelhaften oder variablen Fälle findet man eher unter der Schlüsselziffer 20b. So auch aufsteigende L bei kegelig-glockenförmigem H, auch wenn sie manchmal ± breit angewachsen sein sollten oder sogar mit einem kleinen Zahn "herablaufen". Besitzt der Pilz die Merkmale der Hilfsschlüssel A, B oder C, so führen diese manchmal schneller und sicherer zum Bestimmungsziel.
+20,21 $ b L ± verschmälert (Abbildung 2i), deutlich ausgebuchtet (Abbildung 21) oder aufsteigend angewachsen (Abbildung 2m) 
+20,21 ,n$Alle zweifelhaften oder variablen Fälle sind hier eingeschlossen beziehungsweise ein zweites Mal ausgeschlüsselt. Besitzt der Pilz die Merkmale der Hilfsschlüssel A, B, oder C, so führen diese manchmal schneller und sicherer zum Ziel.
+21,0 $ a L mit Z oder zumindest mit zystidenartigen Zellen an der L-Schneide (L-Schneide heteromorph, Abbildung ld/3, oder steril, Abbildung ld/2 (gelegentlich sind zusätzlich zu den Cheilo-Z auch Pleuro-Z vorhanden) $ Gattungsschlüssel 8, S. 58$$s"Glattsporige Hellsporer mit verschmälert angewachsenen Lamellen und mit Zystiden"
+
+page 29
+
+21,0 $ b L stets ohne (deutliche) Z: L-Schneide ± vollständig fertil (Abbildung ld/1) $ Gattungsschlüssel 9, S. 65 $$s"Glattsporige Hellsporer mit verschmälert angewachsenen Lamellen, jedoch ohne ohne Zystiden"
+21,0 ,n$ Arten, bei denen die Z so unscheinbar sind, dass sie sich in Form, Größe und Zellinhalt nicht deutlich von Bas und Basidiolen unterscheiden, suche man stets hier.
+22,0 $ a Sporen skulpturiert (im Lichtmikroskop ohne Immersion mit sichtbaren Vorsprüngen, Warzen, Pusteln, Stacheln usw.) . $ Gattungsschlüssel 11 (Teil 2)$$s" Dunkelsporer mit warzigen Sporen"
+22,23 $ b Sporen im Lichtmikroskop glatt erscheinend: Glattsporige Dunkelsporer
+23,0 $ a Deckschicht des Hutes zellig: entweder mit blasigen, ± isodiametrischen Zellen (Sphärozyten, Abbildung 2a; beachte Anmerkung!) oder ein Hymeniderm aus aufrecht stehenden, birnenförmigen (seltener keuligen) Zellen bildend, Abbildung 2b (manchmal mit darin eingefugten, spindeligen Pileo-Z (Borsten, Metuloiden, Abbildung 2c) [Deckschicht des Hutes meist nicht abziehbar] $ Gattungsschlüssel 12 (Teil 2)$$s" Glattsporige Dunkelsporer mit zelliger Huthaut"
+23,0 ,n$ Nicht hierher gehören Arten mit einem Belag aus zellig-blasigen Velum-Elementen, welche der hyphigen Deckschicht des Hutes (Schlüsselziffer 23b!) lose aufliegen.
+23,0 $ b Deckschicht des Hutes hyphig (Abbildung 2d) oder zumindest teilweise mit eingemischten hyphigen Elementen $ Gattungsschlüssel 13 (Teil 2)$$s" Glattsporige Dunkelsporer mit hyphiger Huthaut"
+
+page  29
+
+25,0$Abbildung  1: Lamellenschnitte und Lamellen-Trama$$f"groger-1.jpg"
+25,0$Abbildung  2: Strukturen der Huthaut und Lamellen-Ansätze$$f"groger-2.jpg"
+25,0$Abbildung  3: Sporen$$f"groger-3.jpg"
+25,0$Abbildung  4: Zystiden$$f"groger-4.jpg"
+25,0$Abbildung  5: Strukturen von Hut- und Stiel-Oberfläche$$f"groger-5.jpg"
+25,0$Abbildung  6: Makroskopische Merkmale$$f"groger-6.jpg"
+25,0$Abbildung  7: Spezielle Lamellen Schneiden$$f"groger-7.jpg"
+
+..............
+page 29  Überblick über die Gattungsschlüssel in Kurzform : a rajouter ...
+...............
+
+page 30 
+cs1,0$Gattungsschlüssel 1: Ungestielte, seitlich oder stark exzentrisch gestielte Blätterpilze
+1,0 $ a Frk konsolenförmig, seltener mit dem H-Scheitel angewachsen (resupinat)  - Oberfläche oft konzentrisch gezont - "Lamellen" oft labyrinthisch - St  fehlend - "Fleisch" zäh, manchmal Fremdkörper umwachsend - Vork. an  Holz <=> $ * verschiedene Porlinge, wie Daedalea, Wirrling, Daedaleopsis,  Blätterwirrling, Gloeophyllum, Blättling, Trichaptum, Lederporling usw.  (hier nicht behandelt)
+1,2 $ b Frk nicht konsolenförmig, doch gelegentlich mit dem H-Scheitel aufgewachsen:  dann aber H ungezont oder zumindest jung weichfleischig und  nie Fremdkörper einschließend
+2,0 $ a L längs gespalten, graurosa, trocken Spalthälften nach außen umgerollt - H  hellgrau, filzig, etwas gezont - Vork. (meist) an Holz >=> $ Schizophyllum,  Spaltblättling (hier nicht behandelt)
+2,3 $ b L nicht längs gespalten
+3,4  $ a Sp eckig oder skulpturiert (mit ± erhabenen Pusteln, Warzen, Höckern,  Stacheln usw.) 
+3,4,n  $  Vergleiche den Hinweis im Hauptschlüssel bei Schlüsselziffer 14a, S. 27
+3,8 $ b Sp glatt
+4,0 $ a L-Schneide gesägt - Fl mit "Saftadern", die sich in Sulfovanillin blau färben  - Gloeo-Z vorhanden $ L Lentinellus, Zähling, S. 170
+4,5 $ b L-Schneide glatt - Frk ohne solche blauenden Saftadern und ohne Gloeo-Z
+5,0 $ a H aderig gerunzelt, fleischocker, orange-rötlich - Fl unter der Hh schwammig-  gelatinös - St gut entwickelt, oft exzentrisch - Sp fast kugelig, warzig $ Rhodotus palmatus, Orangerötlicher Adernseitling  74.1 
+5,6 $ b H nicht runzelig, ohne gelatinöse Schicht unter der Hh - St fehlend oder  stark reduziert
+6,0 $ a Spp ocker, lehmbraun, rostfarben - L-Schneide steril $ Crepidotus p.p., Krüppelfuß (Teil 2)
+6,7 $ b Spp rosa (rosabraun) und/oder L-Schneide fertil
+7,0 $ a H rosa, -braun - Sp kaum $ Arrhenia roseola, Rötlicher Adermoosling 29 1
+7,0 $ b H weiß oder graubraun - Sp deutlich (grob) eckig $ Entoloma, Untergattung Claudopus p.p., Stammelfuß   (Teilschlüssel u, S. 596) 85 
+8,9 $ a Spp kräftig gefärbt: ± braun (oliv-, grau-, ocker-, rost-, dunkel-, violettbraun)
+8,9,n $  Wenn Spp nicht erhältlich (Frk zu klein oder zu trocken), Sp mikroskopisch auf Färbung   prüfen.
+8,14 $ b Spp viel heller: weiß, weißlich, gelb, rosa (lila)
+9,0 $ a St dick, x > 10, kurz, aber immer deutlich ausgebildet, dunkel filzig -  Vork. an morschem Ndh (-wurzeln) $ Paxillus atrotomentosus, Samtfuß-Krempling   17.6
+9,10 $ b St viel schlanker oder St völlig fehlend
+10,0 $ a Hh mit Pileo-Z (Abb. 2c) - [Frk winzig, matt-bereift, mit Olivton] $ Simocybe rubi, Olivschnitzling (Teil 2)
+10,11 $ b Hh rein hyphig, ohne Pileo-Z.
+11,0 $ a Hyphen ohne Schnallen $ Crepiditus p.p. Krüpelfußo C. epibryus hat recht helles Spp (o=> Schlüsselziffern 8b & 32a).
+11,12 $ b Hyphen mit Schnallen
+12,0 $ a L häufig anastomosierend (Abb. 6j) und gegabelt (Abb. 6i), ockerblass, okkergelb,  olivgelb, zimtfarben - H 20-80 (100), ocker, oliv, braun - Cheilo-  Z fehlend - [Marginalzellen unauffällig] - Sp ohne Keimporus (Abb. 3b),  stark dextrinoid, ellipsoid, 4-6 x 3-4 $ Paxilluspanuoides, Muschel-Krempling 17.7 
+12,13 $ b L nicht anastomosierend - Cheilo-Z vorhanden (L-Schneide steril) - Sp  meist > 6 - [hierher alle Arten mit Keimporus an den Sp, Abb. 3a/l]
+13,0 $ a Spp umbra- bis purpurbraun - St vorhanden, unten dunkelbraun $ Melanotus, Muschelfüßchen (Teil 2)
+13,0 $ b Spp rostbraun - [Pigment in Hh inkrustierend, Abb. 5g - Frk holzbewohnend]  o=> $ Phaeomarasmius, Schüppchenschnitzling [Ges mild, Bas 1-4-///sporig, Hyphen der Hh x 5-8 (19), stark inkrustiert] & Pleuroflammula ragazziana,  Muschelflämmling [Ges bitter, Bas 2-sporig, Hyphen der Hh x 3-  6, membranär pigmentiert, Abb. 5i] (beide Teil 2)
+13,0 $ Wenn Ges mild und Pigment fehlend (H creme, olivbräunlich und Vork. am Erdboden $ O Crepidotus autochthonus, Zerbrechlicher Krüppelfuß (Teil 2)
+14,15 $ a Pleuro-Z auffallend dickwandig (Metuloide, Abb. 4f) 
+14,15,n $  o Wenn nur Cheilo-Z etwas dickwandig 14b
+14,16$ b Pleuro-Z dünnwandig oder völlig fehlend
+15,0 $ a H-Fl mit Gallertschicht (H radial dehnen!) (wenn Frk trocken: Gallertschicht   hornartig verhärtet) - Pleuro-Z oben verjüngt-zugespitzt - Trama  monomitisch (Hyphen bleiben dünnwandig) - [hierher Formen mit allantoiden  Sp oder mit solchen > 6,5 Länge] $ Hohenhuehelia, Harpunenschwamm (Muscheling) 50 
+15,0 $ b H-Fl ohne Gallertschicht - Pleuro-Z oben breit gerundet - Sp ellipsoid, <  6,5 - Trama (alt) dimitisch (Hyphen p.p. dickwandig) $ Panus, Knäueling  25
+15,0 $ Wenn Frk trichterlingsartig (Abb. ähnlich 6e) und St nur leicht exzentrisch sowie L  sehr schmal, aderig ^ 2 3 . 1 $ Faerberia carbonaria, Kohlenleistling
+16,17 $ a Fruchtschicht ohne deutliche Lamellenbildung: diese höchstens runzelig,  aderig oder netzig-aderig
+16,21 $ b L deutlich ausgebildet (wenn auch manchmal etwas anastomosierend) ..
+17,0 $ a Sp > 10 - Hh zellig (Abb. 2b) $ Marasmius p.p., Schwindling (Teilschlüssel a, S. 307)  60
+17,0 $ Sp > 10 - Hh zellig  : Wenn Hh nicht zellig, Frk groß und kräftig sowie L leistenförmig und herablaufend o=> $ Lentinus degener, Becherförmiger Sägeblättling  24.7 
+17,18 $ b Sp < 10 - Hh hyphig (Abb. 2d & 2e)
+18,19 $ a Frk weiß - Sp kurz ellipsoid, Q 1.2-1.5 - Vork. an Moosen
+18,0 $ a Frk weiß - Sp kurz ellipsoid, Q 1.2-1.5 - Vork. an Moosen : Wenn Sp deutlicher ellipsoid und Vork. auf feuchtem, sauren Boden O 49a. $ Omphalina mutila, Kurzstieliger Nabeling (ausgeschlüsselt unter 49 Hemimycena)  13
+
+18,20 $ b Frk gefärbt - Sp ± ellipsoid, Q 1.4-2.0
+19,0 $ a Sp < 5 - Cheilo-Z vorhanden - Schnallen fehlend $ Cyphellostereum, Becherschichtpilz  42
+19,0 $ b Sp > 6 - Cheilo-Z fehlend - Schnallen vorhanden $ Rimhachia hryophila,  29.4 
+19,0 $ Ovalsporiger Mooshäutling  $ ausgeschlüsselt unter 29 Arrhenia, Adermoosling
+20,0 $ a Fruchtschicht netzig-aderig - Fl gelatinös - Hyphen der Hh und Cheilo-Z  p.p. koralloid verzweigt und igelig - Schnallen vorhanden $Campanella caesia, Weehselfarbiger Aderhäutling   33.1 
+20,0 $ b Fruchtschicht eher runzelig-aderig - Fl nicht gelatinös - Hyphen der Hh  nicht koralloid - Cheilo-Z fehlend - [hierher die Arten ohne Schnallen] $ Arrhenia, Adermoosling 29 
+21,22 $ a L-Schneide gesägt, gezähnt oder schartig zerrissen (Abb. 6k)
+21,23 $ b L-Schneide nicht gesägt oder schartig zerrissen - [Frk ohne die bei  Schlüsselziffer 22a/22b angeführten Merkmalskombinationen]
+22,0 $ a Gloeo-Z vorhanden - "Saftadern" im Fl mit Sulfovanillin blau - Sp fein  warzig (bis glatt), Ornament amyloid, kugelig bis kurzellipsoid, < 6 (7) $ L Lentinellus, Zähling, S. 170
+22,0 $ b Z, wenn vorhanden, nicht in Form von Gloeo-Z - Fl ohne so verfärbende  "Saftadern" - Sp glatt, nicht amyloid, ellipsoid - [hierher die Arten mit  größeren Sp] $ Lentinus   24 , Sägeblättling (incl. Lentinula edodes, Shiitake, & Resupinatus vetlinianus, Sägeblatt-Zwergseitling)
+23,24 $ a H frisch mit Gallertschicht (in der Hh, unter der Hhaoder im oberen Teil des  Fleisches) (H vorsichtig radial dehnen oder versuchen, die Hli mit einer  Nadel vorsichtig abzuheben); Frk im trockenen Zustand geschnitten mit einer  hornartig gefärbten, etwas glasigen Schicht 
+23,24,n $ Arten mit einer solchen gelatinösen Schicht findet man auch unter den Schlüsselziffern  5a, 1 la & 20a.
+23,26 $ b H ohne Gallertschicht unter der Hh oder im Fleisch: Fortsetzung von Gattungsschlüssel $$s"Arten ohne die speziellen Merkmale des vorangegangenen Schlüsselteils"
+24,0 $ a Sp kugelig bis subglobos, x 4-6 - Frk 2-15 $ Resupinatus, Zwergseitling  73
+24,25 $ b Sp stärker gestreckt - [hierher die Arten mit deutlich größeren Frk oder  größeren Sp]
+25,0 $ a Sp sehr schmal, x < 3 - St vorhanden, aber sehr kurz, stummeiförmig -  [hierher die Arten mit Velum, mit ockerlich-gelbbraunen L und mit amyloiden  Sp] $ Panellus, Zwergknäueling  (incl. "Tectella" patellaris, Beschleierter Z.)  68 
+25,0 $ b Sp breiter, x > 3,5 (-" x 5), nicht amyloid - St fehlend $ Hohenbuehelia p.p., Harpunenschwamm (Muscheling)(Arten ohne dickwandige Metuloide) 50 
+
+
+page  34
+Fortsetzung von Gattungsschlüssel 1:
+
+Arten ohne die speziellen Merkmale des vorangegangenen Schlüsselteils
+
+
+26,0 $ a Hh mit dickwandigen, zugespitzten Borsten (am H-Rand auch dünnwandig)  - Sp kurzellipsoid, 7-9 - Cheilo-Z mit fmgerartigen Verlängerungen  (Abb. ähnlich 4e) - [H < 20, weißlich-creme] $ Chaetocalathus, Muschelseitling 36 
+26,27 $ b Hh ohne solche Borsten
+27,28 $ a Sp kugelig oder kurzellipsoid (Q 1.0-1.5) 
+27,0$ Sp kugelig oder kurzellipsoid (Q 1.0-1.5)  : Wenn Spp rosa und Sp längsgerippt (schwer sichtbar, am besten vom Polende der Sp  aus betrachtet, Abb. 3c) o=>$ Clitopilus, Räsling  84 
+27,31 $ b Sp deutlicher gestreckt (Q > 1.5)
+28,0 $ a L lebhaft orange-gelb - St deutlich ausgebildet, 7-20 x 7-25 - Spp weißlich  - Sp fast kugelig, x 4,5-7 - Pseudo-Z verstreut $ Omphalotus, Ölbaumpilz 16
+28,29 $ b L anders gefärbt
+29,0 $ a Frk grau bis schwarz gefärbt, < 15 - [Fl gelatinös] $ Resupinatus, Zwergseitling  73 
+29,30 $ b Frk weiß und/oder größer werdend - F l nicht gelatinös
+30,0 $ a Frk ungestielt oder mit sehr kleinem St-Stummel - Ger 0 - Cheilo-Z (oder  diesen ähnliche Hyphenenden) am reifen Frk vorhanden $ Cheimonophyllum & Pleurocybella, Öhrling 37 
+30,0 $ b1 Frk deutlich gestielt - Ger nach Mehl (auch "grasartig") - Cheilo-Z fehlend $ Ossicaulis lignutilis. Holzknöcheling  57.1 
+30,0 $ b2 Frk deutlich gestielt - Ger nach Mehl (auch "grasartig") - Cheilo-Z fehlend $ Hypsizygus M//M"m/.v,l lmenseitling 57.2 
+31,32 $ a Hyphen ohne Schnallen 
+31,0$ Hyphen ohne Schnallen  : Wenn L zwar sehr schmal, doch deutlich ausgebildet und Frk weißlich o=>$Omphalina mutila  49a. 13  , Kurzstieliger Nabeling
+31,33 $ b Hyphen mit Schnallen
+32,0 $ a Spp creme-ocker - Sp glatt oder (kaum sichtbar) runzelig - Cheilo-Z vorhanden  (zumindest an jungen Frk) ... $ Crepidotus p.p., Krüppelfuß (Teil 2)
+32,0 $ b Spp rosa - Sp längsgerippt (schwer sichtbar) - Cheilo-Z vorhanden oder  fehlend - [hierher die Arten mit Mehl-Ger] $ Clitopilus, Räsling 84 
+33,0 $ a Hh zellig (hymeniform, Abb. 2b) - Sp > 12 - Frk klein: H < 15, weiß -  Vork. an Pflanzenteilen von Feuchtstellen $ Marasmius p.p., Schwindling (Teilschlüssel a, S. 307) 60 
+33,34 $ b Hh hyphig (oder hyphig-koralloid verzweigt) - [hierher die gefärbten Arten  sowie diejenigen mit größeren Frk oder mit kleineren Sp]
+34,0 $ a L ockergelb, orangegelb - St fehlend oder nur rudimentär ausgebildet -  Spp lachsrosa -" weißlich - Sp nierenförmig gebogen, x 2-4 - Z fehlend $ Phyllotopsis nidulans 26.1 , Gemeiner Orangeseitling® Wenn Sp noch schlanker, x 1,5-2,5 & L mit großen, oft gelblichen Cheilo-Z ^ 68.1Panellus patellaris & 68.2 P. serotinus, Beschleierter & Gelbstieliger Zwergknäueling
+34,0,n $ Wenn L nahe dem H-Rand auffallend gegabelt, Sp ellipsoid und stark dextrinoid o=> exzentrisch gestielte Exemplare von $ Hygrophoropsis aurantiaca 15.3 , Gemeiner Afterleistling, Falscher Pfifferling
+34,35 $ b L nicht so lebhaft gefärbt
+35,0 $ a Frk groß und kräftig: H > 30; St x > 8 (-> x 30) - L deutlich herablaufend - [Sp > 7] $Pleurotus  27 , Seitling
+35,0 $ Frk groß und kräftig: H > 30; St x > 8 (-> x 30) - L deutlich herablaufend - [Sp > 7] :  Wenn Sp < 6 und H faserig-schuppig sowie St nur leicht exzentrisch o=> $Lentinula edodes   24.2 , Shiitake
+35,36 $ b Frk (viel) kleiner, < 30 und/oder Sp kleiner ?:
+36,0 $ a Cheilo-Z fehlend - Sp nicht amyloid - [Frk auf Moosen wachsend (ausnahmsweise  auf Erde)] $Arrhenia, Adermoosling  29 
+36,0 $ Cheilo-Z fehlend - Sp nicht amyloid   : Wenn Vork. auf Holz (Ästen), H ockerlich-rotbraun und Sp sehr klein, < 4: $ Plicaturopsis crispa (Pers. : Fr.) D.A. Reid (hier nicht behandelt)
+36,37 $ b Cheilo-Z vorhanden und/oder Spp amyloid - Vork. an morschem Holz
+37,0 $ a Frk weiß - Hh & L-Schneide nicht gelatinös abziehbar - Sp nicht amyloid $ Marasmiellus lateralis 59.1 , Krüppelfuß-Zwergschwindling
+37,0 $ b Frk gefärbt und meist größer werdend (wenn Frk weiß, dann Hh & LSchneide  gelatinös abziehbar) - [hierher die Arten mit p.p. (schwach)  amyloidem Spp] - Vork. p.p. in den Wintermonaten $ Panellus, Zwergknäueling 68 
+
+
+page 35
+
+page 36 ..........a continuer
+
+Blätterpilze mit bilateraler Lamellentrama

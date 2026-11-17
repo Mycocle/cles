@@ -1,0 +1,83 @@
+Titre$ H E B E L O M A   Henry BEKER & All  -  Fungi Europeae 14  -  2016
+Com$   Adaptée par Paul Bertéa 12/2017 - 07/10/2018
+
+1,2 $ Growing with Salix repens
+1,9 $ Growing with other hosts
+1,0 $$
+1,0 $ ===> Retour à la clé principale $$f"Hebeloma_Henry_Beker_2016.cle"
+
+2,3 $ Growing in the pans
+2,5 $ Growing in other dune habitats
+
+3,0 $ Cheilocystidia primarily ventricose $ H. dunense
+3,4 $ Cheilocystidia primarily with clavate or capitate apex
+
+4,0 $ Ave. cheilocystidiuum apex width ? 8 µm $ H. vaccinum
+4,0 $ Ave. cheilocystidiuum apex width > 8 µm $ H. salicicola
+
+5,6 $ Cheilocystidia primarily ventricose
+5,7 $ Cheilocystidia otherwise
+
+6,0 $ Ave. spore length < 10 µm or ave. spore width ? 6 µm and spores only rarely amygdaloid $ H. mesophaeum
+6,0 $ Ave. spore length > 10 µm and ave. spore width > 6 µm or if spores smaller then many spores amygdaloid $ H. psammophilum
+
+7,8 $ Cheilocystidia primarily clavate-stipitate or clavate-ventricose, rarely gently clavate
+7,0 $ Cheilocystidia primarily gently clavate $ H. velutipes
+
+8,0 $ Cheilocystidia primarily clavate-stipitate $ H. aanenii
+8,0 $ Cheilocystidia primarily clavate-ventricose $ H. hiemale
+
+9,0 $ Growing with Cistus or Halimium $ H. cistophilum
+9,10 $ Not associated with Cistus or Halimium
+
+10,11 $ Cheilocystdia mainly ventricose
+10,15 $ Cheilocystidia otherwise
+
+11,12 $ Spores mainly amygdaloid, very few ellipsoid
+11,13 $ Majority of spores ellipsoid
+
+12,0 $ Average width of cheilocystidium apex > 5.5 µm $ H. erebium
+12,0 $ Average width of cheilocystidium apex < 5.5 µm $ H. sordescens
+
+13,0 $ Ave. spore length < 10 µm or ave. spore width < 6 µm and spores only rarely amygdaloid $ H. mesophaeum
+13,14 $ Ave. spore length >10 µm and ave. spore width > 6 µm or if spores smaller then many spores amygdaloid
+
+14,0 $ Stipe width > 8 mm and number of full length lamellae (L) > 50 $ H. psammophilum
+14,0 $ Any of the above conditions not satisfied [Stipe width > 8 mm and number of full length lamellae (L) > 50] $ H. dunense
+
+15,16 $ Cheilocystidia primarily cylindrical
+15,17 $ Cheilocystidia otherwise
+
+16,0 $ Spores primarily cylindrical $ H. cylindrosporum
+16,0 $ Spores primarily amygdaloid $ H. lindae
+
+17,18 $ Cheilocystidia primarily clavate-stipitate or clavate-ventricose, few cheilocystidia gently clavate
+17,25 $ Cheilocystidia primarily gently clavate
+
+18,19 $ Cheilocystidia primarily clavate-stipitate
+18,22 $ Cheilocystidia primarily clavate-ventricose
+
+19,20 $ Ave. spore width > 6.4 µm or ave. spore length > 10.75 µm and ave. spore width 6 µm
+19,21 $ Ave. spore width < 6.4 µm and ave. spore length ? 10.75 µm or ave. spore width 6 µm
+
+20,0 $ Ave. width of cheilocystidia apex > 8 µm $ H. eburneum
+20,0 $ Ave. width of cheilocystidia apex < 8 µm $ H. crustuliniforme
+
+21,0 $ Ave. width of cheilocystidia apex > 9 µm $ H. geminatum
+21,0 $ Ave. width of cheilocystidia apex > 8 µm and < 9 µm $ H. aanenii/H. geminatum
+21,0 $ Ave. width of cheilocystidia apex < 8 µm $ H. aanenii
+
+22,0 $ Many spores Ol or O2 and many spores DO or D1 and spores not P2 or if spores are P2 then pileus is not yellow or cream in the centre but with brown or buff tones $ H. hiemale
+22,23 $ The above conditions not satisfied [Many spores Ol or O2 and many spores DO or D1 and spores not P2 or if spores are P2 then pileus is not yellow or cream in the centre but with brown or buff tones]
+
+23,0 $ Pileus dominantly white or whitish, at least in the outer part, sometimes with yellow or buff-yellow or honey in the centre $ H. fragilipes
+23,24 $ Pileus with distinct brown colours in the centre, often distinctly two-coloured
+
+24,0 $ Ave. spore length <11 µm $ H. ingratum
+24,0 $ Ave. spore length >11 µm $ H. cavipes
+
+25,0 $ Ave. width of cheilocystidium apex < 6.5 µm $ H. incarnatulum
+25,26 $ Ave. width of cheilocystidium apex >6.5 µm
+
+26,0 $ Basidiome slenderness > 10, distinctly umbonate, colour of pileus at least in centre and in young basidiomes quite dark, ochraceous or Isabella or yellow-brown or um- oer or brick $ H. leucosarx
+26,0 $ Any of the above conditions not satisfied [Basidiome slenderness > 10, distinctly umbonate, colour of pileus at least in centre and in young basidiomes quite dark, ochraceous or Isabella or yellow-brown or um- oer or brick] $ H. velutipes

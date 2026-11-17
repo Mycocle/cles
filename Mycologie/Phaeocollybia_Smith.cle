@@ -1,0 +1,41 @@
+Titre$ P H A E O C O L L Y B I A   -  Smith
+Com$ Adaptée par Paul Bertéa 13-09-2011
+rem$LANGUE$Français
+
+1,0 $ ===> Retour au Kit $$f"Phaeocollybia_Kit.cle"
+1,cs1 $ Cheilocystides le plus souvent non-clavées mais allongées-capitées, la tête mesurant de 4-8 µm, avec un corps régulier d’un maximum de 3 µm ; rarement quelques poils mesurent moins de 3 µm.$$s"Section Versicolores"
+1,cs1,N$ Pileus versicolor: cheilocystidia non-clavata. Typus: P. lugubris (Fr.) Heim.
+1,cs2 $ Cheilocystides en général avec un cou de 3,5-2 µm, finissant en pointe ou en petit du capitellum de 2 ou 3 µm de diam., les parois du cou réfringents et habituellement ochracés en KOH, la partie basse habituellement légèrement renflée (3-7 µm de diamètre.); si le chevelu, les parois s'épaississent légèrement dans au moins certains des individus. $$s"Section Phaeocollybia"
+1,cs2,N$ Cheilocystidies clavées à subcylindriques. Typus: P. festiva (Fr.) Heim.
+SECTION VERSICOLORES Smith, sect. nov.
+Cs1,0 $
+1,4 $ Spores petites, 5-6.5 X 3-4.5 µm
+1,2 $ Spores grandes, 7.5-10 X 4.5-6 µm
+2,0 $ Boucles nettement visibles aux cloisons des hyphes du carpophore, spécialement dans les hyphes du pileus $ P. radicata (11)
+2,3 $ Boucles absentes ou très rares
+3,0 $ Spores ochracées très pâles en KOH; saveur non amère (?) $ P. christinae (10)
+3,0 $ Spores brun-foncé in KOH; saveur distinctement amère $ P. jennyae (12)
+4,0 $ Chapeau d’abord olive à gris-olive, brun cannelle avec l’âge $ P. pseudofestiva (13)
+4,5 $ Chapeau de couleur différente (non d’abord olive à gris-olive, brun cannelle avec l’âge)
+5,0 $ Pleurocystides et caulocystides présentes et semblables aux cheilocystides; spores sans papille $ P. lugubris (14)
+5,6 $ Spores papillées; pas de pleurocystides ou seulement quelques unes près de l’arête
+6,0 $ Stipe large de 1-2 cm; chapeau brun-datte teinté d’un peu de rouge $ P. spadicea (15)
+6,0 $ Stipe large de (3)4-8(10) mm ; chapeau brun-ambre devenant ferrugineux $ P. californica (16)
+ SECTION PHAEOCOLLYBIA
+Cs2,0 $
+1,2 $ Lames, quand jeunes, constamment et distinctement violacées
+1,3 $ Lames pâles, olives ou brunâtre quand jeunes
+2,0 $ Chapeau brun cannelle ou brun foie: stipe 8-15 mm au sommet $ P. lilacifolia (1)
+2,0 $ Chapeau gris olive ou olive foncé; stipe large de 4-8 mm $ P. fallax (2)
+3,4 $ Stipe large de 10-30 mm
+3,5 $ Stipe typiquement large de 2-6 mm
+4,0 $ Chapeau rougeâtre cannelle à brun-foie $ P. kauffmanii (3)
+4,0 $ Chapeau brun olive ou olive foncé $ P. olivacea (4)
+5,0 $ Chapeau et stipe avec des teintes ocre-brun incontestables ; cuticule lègèrement subgelatineuse $ P. attenuata (6)
+5,6 $ Chapeau et stipe aves des teintes distinctement rouge à ferrugineuse en vieillissant; cuticule constituée d’hyphes gélatineuses
+6,0 $ Spores 5-6.5 X 3.5-4 µm $ P. sipei (7)
+6,7 $ Spores grandes
+7,0 $ Spores 7-9 X 4.5-5.5 µm $ P. festiva (9)
+7,0 $ Spores 8-10 X 6-7 µm $ P. simili (8)
+7,0 $ Spores 9-11 X 3.5-4 µm $ P. laterarius (5)
+

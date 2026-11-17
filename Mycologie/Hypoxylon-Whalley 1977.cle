@@ -1,0 +1,41 @@
+titre$BRITISH SPECIES OF HYPOXYLON-A.J.S. Whalley 
+com$adapt GF 03/2015
+rem$LANGUE$Anglais
+1,0$ source : Bulletin of BMS 11(1) Spring 1977-KEY TO THE BRITISH SPECIES OF HYPOXYLON- A.J.S. Whalley
+1,0$
+1,0$  Stromata applanate, restricted or indefinitely effused, black and carbonaceous at maturity. Ostioles papillate often becoming punctate with age. Ascospores 10-16 x 6-l O µm. Chiefly on Fagus $ H. nummularium Bull. ex Fr.
+1,2$-Stromata globose, semiglobose, pulvinate or widely effused
+2,3$  Ostioles umbilicate (perithecial necks flush with the surface of the stroma, the ostioles appearing as small pores)
+2,7$-Ostioles papillate (perithecial necks project beyond the stromal surface forming distinctive protuberances)
+3,0$  Stromata indefinitely effused or occasionally pulvinate when erumpent from bark, usually red or purple-red in colour. Ascospores 9-13 x 4-7  µm. Chiefly on Fraxinus $ H. rubiginosum Pers. ex Fr.
+3,0,n$(This is a very common species and it is extremely variable. In moist situations the colour is red or purple red but when growing under dry conditions of high light intensity it may be pale brown. On small branches with bark the stromata are usually small and pulvinate and may be mistaken for H. fuscum.)
+3,4$ Stromata globose, semiglobose, or pulvinate, strongly coloured
+4,5$  Stromata brick red or orange, some times black when very old
+4,6$ Stromata clay-colour or purple, never brick red or orange
+5,0$  Ascospores greater than 10  µm. Chiefly on Fagus $ H. fragiforme (Pers. ex Fr.) Kickx
+5,0$ Ascospores less than 10  µm. On a variety of hosts but never on Fagus $ H. howeianum Peck
+6,0$  Stromata globose to semiglobose, clay-colour. Ascospores greater than 15  µm. On Fraxinus $ H. argillaceum Pers. ex Beck.
+6,0$-Stromata pulvinate, purple. Ascospores less than 15  µm. Chiefly on Corylus $ H. fuscum Pers. ex Fr.
+7,8$  Stromata initially coloured and at maturity remaining coloured or becoming blackened
+7,10$ Stromata initially light grey to white, at maturity black and carbonaceous
+8,9$  Stromata initially red or red-brown, at maturity dark purple-brown or black
+8,0$-Stromata initially straw-colour, later dark brown, ectostroma characteristically blood red beneath the surface. Ascospores 7-10 x 3.5-4.5 µm. On Fagus $ H. rutilum Tul.
+9,0$  Ascospores 8-12 x 3.5-6  µm. Chiefly on Betula $ H. multiforme Fr.
+9,0$ Ascospores 9-12 x 4-5  µm. Chiefly on Fagus $ H. cohaerens Pers. ex. Fr 
+9,0,n$ (H. cohaerens and H. multiforme both have similar ascospore dimensions which can make separation difficult. However, H. multiforme is commonly found on Betula and Alnus, occasionally on Corylus but H. cohaerens is almost exclusively found on Fagus.)
+10,11$  Stromata widely effused
+10,13$-Stromata subglobose with one to several perithecia
+11,0$  Strornata 2-4 mm thick, easily separated from the substrate. Ascospores 25-35 x 7-12 µm $ H. deusturn (Hoffm. ex Fr.) Grev 
+11,1,n$ (= Ustulina deusta (Fr.) Petrak.)
+11,12$ Stromata 1-2 mm thick, firmly adherent to substrate, ascospores under 20  µm in length :
+12,0$  Ascospores 10-17 x 5-8 µm $ H. serpens (Pers. ex Fr.) Kickx 
+12,0,n$ (This species is extremely variable with a thick undulating stroma when growing on bark but on decorticated wood the stroma is usually thin and smooth.)
+12,0$-Ascospores 8.-10 x 4-5  µm $ H. serpens var. effusum (Nits.) Mill. 
+12,0,n$ (The only British record is from Leckford Estate, Stockbridge, Hampshire 1972, see Dennis, 1974.)
+13,0$  Ascospores broadly elliptic never greater than 25  µm $ H. confluens (Tode ex Fr.) West. 
+13,0,n$ (= H. semiimmersum Nits.)
+13,0$-Ascospores oblong with germ-pore, never less than 25  µm $ H. udum Pers. ex Fr.
+13,0,n$ (The perithecia of this species and of H. con fluens have their lower halves immersed in the wood, the depth of immersion depending on the hardness . of the wood, and when the surrounding stroma is poorly developed maybe confused with Rosellinia.)
+
+
+µm

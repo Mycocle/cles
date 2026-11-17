@@ -1,0 +1,26 @@
+
+
+Titre$ Orders Myxomycetes Dr. Steven L. Stephenson
+Universitéd’Arkansas
+com$ Université d’Arkansas -slsteph@uark.edu /Adapt GF  juillet 2013
+REM$LANGUE$Français
+
+Clé des Ordres des Myxomycètes
+1,10$ Spores externes$Ceratiomyxales$s " Ceratiomyxales "
+1,2$ Spores internes
+2,13$ Vrai capillitium absent$Liceales$s"Liceales" $s"Liceales"
+2,3$ Vrai capillitium présent
+3,11$ Petites fructifications (<0.5 mm de haut)$Echinosteliales)$s "Echinosteliales "
+3,4$ Fructifications plus grandes(>0.5 mm de haut) 
+4,14$ Spores en masse plus oumoinsde couleursclaires$Trichiales$S"Trichiales"
+4,5$Spores en masse généralementbrun-violet ànoires
+5,15$ Calcaireprésentdansunepartiede la fructification$Physarales$s "Physarales	" 
+5,12$ Calcaireabsent dans toutes les parties de la fructification$Stemonitales$s "Stemonitales "
+
+10,0$spores externes ///fructification différente des autres myxomycètes ///chaque spore donne huit cellules groupées$Ordre des Ceratiomyxales
+11,0$de minuscule à très petite fructification ///vrai capillitium présent ///fructification avec un pied$Ordre des Echinosteliales
+12,0$capillitium ressemblant à un filet, d’ordinaire sombre et lisse ///spores noires ou du moins sombres ///fructifications essentiellement en sporanges$Ordre des Stemonitales
+13,0$pas de vrai capillitium ///pseudocapillitium parfois présent ///spores d’ordinaire de couleur claire$Ordre des Liceales
+14,0$columelle jamais présente ///spores plus ou moins de couleur claire ///capillitium en filet, souvent orné$Ordre des Trichiales
+15,0$calcaire présent dans une partie de la fructification///spores en masse toujours sombres///phaneroplasmodium$Ordre des Physarales
+

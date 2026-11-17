@@ -1,0 +1,22 @@
+titre= Coprophilous ascomycetes Brezil 2017
+
+commentaire= source : ROGER FAGNER RIBEIRO MELO & al  Coprophilous ascomycetes with passive ascospore liberation from Brazil
+commentaire=https://doi.org/10.11646/phytotaxa.295.2.4
+commentaire=adapt GF juill 2019
+
+champ = Species; Ascomata ;Peridium ;Ascomatal hairs; Ascospores
+Chaetomidium;Non-ostiolate;Pseudoparenchymatous or cephalothecoid;Long and hyphoid, evenly distributed;Limoniform to fusiform, with a single germ pore
+Chaetomium;Ostiolate, without a neck;Pseudoparenchymatous, textura angularis;Terminal (long, by the ostiole) usually coiled and lateral (short, evenly distributed);Limoniform to subglobose, lacking conspicuous germ pores
+Corynascus;Non-ostiolate;Pseudoparenchymatous, textura angularis;Glabrous, occasionally setose, evenly distributed;Ellipsoidal to fusiform, with two germ pores
+Faurelina;Non-ostiolate;Stromatic, with cells varying in shape;Glabrous;Ellipsoidal-navicular, with longitudinal striae, lacking conspicuous germ pores
+Kernia;Non-ostiolate;Pseudoparenchymatous, textura angularis;Circinate, in tufts of few to several, at opposite parts of the ascoma;Obovate to reniform, with a single germ pore
+Leuconeurospora;Non-ostiolate;Cephalothecoid;Glabrous;Ellipsoidal, with anastomosing ridges, lacking germ pores
+Lophotrichus;Ostiolate, with short to long neck;Pseudoparenchymatous, textura angularis;Terminal (long, by the ostiole) usually straight and lateral (short, evenly distributed);Ellipsoidal to fusiform, with two germ pores
+Melanospora;Ostiolate;Pseudoparenchymatous;Glabrous to tomentose, evenly distributed;Ellipsoidal to limoniform, with two germ pores
+Microascus;Ostiolate, with short to long neck;Pseudoparenchymatous, textura angularis;Glabrous or in loose tufts by the ostiole;Reniform to triangular, with a single germ pore
+Monascus;Non-ostiolate;Prosenchymatous, textura epidermoidea;Glabrous;Ellipsoidal, lacking conspicuous germ pores
+Mycoarachis;Non-ostiolate;Pseudoparenchymatous, with a hyaline outer layer in one species;Glabrous;2-celled, arachiform, lacking conspicuous germ pores
+Pseudoallescheria;Non-ostiolate;Pseudoparenchymatous, textura epidermoidea;Hyphoid, flexuous, evenly distributed;Ellipsoidal to fusiform, with two germ pores
+Thielavia;Non-ostiolate;Pseudoparenchymatous, textura epidermoidea;Glabrous to tomentose, evenly distributed;Ellipsoidal to clavate, with a single germ pore
+Tripterosporella;Non-ostiolate;Pseudoparenchymatous, textura angularis;Glabrous to tomentose, evenly distributed;2-celled, with a dark head cell and a pedicel, bearing gelatinous caudae
+Zopfiella;Non-ostiolate;Pseudoparenchymatous, textura angularis;Glabrous or with tufts of setose hairs, evenly distributed;2-celled, with a dark head cell and a pedicel, lacking gelatinous caudae

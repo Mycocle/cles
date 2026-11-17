@@ -1,0 +1,632 @@
+Titre$ Clé des Genres d'Ascomycètes
+com$ Adaptation par Aurélien Paris
+rem$ Nordic Macromycetes. Vol. 1 – Ascomycetes. Nordsvamp, Copenhagen, 309 p. (2000).
+
+Key to the included orders of ascomycetes
+
+1,0$ 1a : Frb absent ; parasitic, forming ± conspicuous galls on leaves and fruits of living trees and shrubs. Asci formed in a palisade within the host epidermis. $ Taphrinales (Taphrina). $s"Taphrinales (Taphrina)."
+1,2$ 1b : Frb present or if not asci intermixed with paraphyses ; saprotrophic, parasitic or mycorrhizal.
+2,3$ 2a : Frb an apothecium or a hypogeous, tuber-like cleistothecium.
+2,8$ 2b : Frb a perithecium or a tiny, epigeous cleistothecium.
+3,0$ 3a : Frb hypogeous, hollow at first, later filled with evanescent asci ; interior powdery at maturity, surface smooth to coarsely scaly. Sp brown, globose, ornamented. Ectotrophic. $ Eurotiales (Elaphomyces). $s"Eurotiales (Elaphomyces)."
+3,4$ 3b : Frb an apothecium or a hypogeous tuber-like cleistothecium, solid at first and with persistent asci. Sp versiform, smooth or ornamented ; interior never powdery at maturity ; sapro- or ectotrophic.
+4,CS14$ 4a : Asci operculate in taxa with active spore dispersal. Frb a short-lived apothecium, a tuber-like cleistothecium with passive spore dispersal aided by animals or rarely absent. Sp often large, ellipsoid to globose and often ornamented ; ascus walls amyloid or non-amyloid. Many soil and dung inhabiting saprophitic species, but some ectotrophic. $ Pezizales. $s"Pezizales."
+4,5$ 4b : Asci inoperculate. Frb a short- or long-lived apothecium. Sp tiny to large, of various form ; ascus walls non-amyloid, apical apparatus amyloid or non-amyloid. Saprotrophic, parasitic or rarely ectotrophic.
+5,CS25$ 5a : Frb formed within host tissue or within a black sclerotium-like stroma formed within host tissue, variously shaped, often slit-like or splitting host surface in a stellate or irregular fashion ; in some spp. the apothecia develop in spring on overwintered stromata. Sp phaseoliform to filiform, 1- to multi-celled ; ascus apical structure poroid ; paraphyses much branched apically or curled at the tip. Saprophitic or parasitic. $ Rhytismatales (Rhytismataceae). $s"Rhytismatales (Rhytismataceae)."
+5,6$ 5b : Frb formed outside host tissue or erumpent, cup-, disc-, club-shaped or resembling a corticioid fungus. Sp of various form.
+6,0$ 6a : Paraphyses and croziers absent. Frb clavate. Ascus wall amyloid after KOH treatment ; sp reniform, producing phialoconidia, hyaline ; ascus apex thickened, with narrow pore. Associated with conifer roots (parasitic ?). $ Neolectales (Neolecta). $s"Neolectales (Neolecta)."
+6,7$ 6b : Paraphyses present, if absent then frb tiny, with very few asci. Frb variously shaped. Ascus wall non-amyloid ; apical apparatus absent or pore-like, amyloid or non-amyloid.
+7,CS1$ 7a : Asci dehiscing with a slit, without operculum or internal pore-like structure, sometimes with subapical annular thickening, saccate, from 1- to often polysporous ; sp ellipsoid, smooth, hyaline. Frb simple apothecia or hardly developed in one genus, short-lived ; coprophilous saprotrophs. $ Erysiphales (Thelebolaceae). $s"Erysiphales (Thelebolaceae)."
+7,CS5$ 7b : Asci not dehiscing slit-like, often with distinct internal pore-like structure ; sp ellipsoid, fusoid or filiform. Frb discoid, cupulate, turbinate, clavate, etc., often relatively long lived and firm textured, some develop from sclerotia ; many litter inhabiting species, saprotrophic, parasitic or rarely ectotrophic. $ Leotiales. $s"Leotiales."
+8,0$ 8a : Frb a stipitate cleistothecium. Asci spherical, deliquesching. Saprotrophs on hoofs, horns and feathers. $ Onygenales (Onygena). $s"Onygenales (Onygena)."
+8,9$ 8b : Frb a perithecium, either solitary or enclosed in stroma. Asci unitunicate, mostly cylindric, persistent, typically with an apical apparatus. On a range of substrates but not on hoofs, horns and feathers.
+9,CS2$ 9a : Frb never carbonized, often with brown, yellow or red colours ; stroma when present soft and fleshy. Paraphyses not present at maturity ; asci with non-amyloid apical apparatus ; sp often hyaline to pale brown, ornamented and 2-celled, never with germ apparatus. Saprotrophic or parasitic on plants, insects or fungi. $ Hypocreales. $s"Hypocreales."
+9,10$ 9b : Frb carbonized or if not then maturing in living leaves ; stroma, when present, mostly with firm texture. True paraphyses present, asci with amyloid or non-amyloid apical apparatus ; sp hyaline to opaque brown, smooth or ornamented, often with appendages and some with a pore or slit-like germ apparatus. Saprotrophic or parasitic on plants.
+10,0$ 10a : Asci typically very long stipitate with allantoid sp arranged more or less biseriately or irregularly ; apical apparatus diminutive, amyloid or nor ; anamorphs typically coelomycetous. $ Diatrypales (Diatrype). $s"Diatrypales (Diatrype)."
+10,11$ 10b : Asci not long stipitate or sp shaped differently.
+11,CS24$ 11a : Parasitic on leaves of Rosaceae ; stroma immersed beneath epidermis in living leaves, in shades of orange. Asci clavate ; sp ellipsoid, 1-celled, smooth, hyaline to yellowish. Stromata harden and blacken after leaf fall and the perithecia are fully mature in spring. $ Phyllachorales (Polystigma). $s"Phyllachorales (Polystigma)."
+11,12$ 11b : Not parasitic on Rosaceae and with orange stromata.
+12,0$ 12a : Sp inconspicuously terminally bi-porous, 1-celled, smoky grey or olive ; ascus apparatus minute, non-amyloid. Perithecia aggregated in small to very big, ± erumpent stromata, arranged mono- or polysticuously. Saprotrophic or parasitic on deciduous trees and conifers. $ Sordariales (Camarops). $s"Sordariales (Camarops)."
+12,13$ 12b : Sp not terminally bi-porous, 1-celled or with hyaline dwarf cell (primary appendage) ; apical apparatus amyloid, dextrinoid or unstained.
+13,CS24$ 13a : Sp hyaline to yellowish without germ apparatus ; apical apparatus inamyloid. Frb immersed beneath blackened clypeus. Anamorphs coelomycetous. Parasitic on herbs including grasses (note that a range of pyrenomycetes, e.g. belonging to the Diaporthales will key out here, but they are not included in this work). $ Phyllachorales (Phyllachora). $s"Phyllachorales (Phyllachora)."
+13,CS26$ 13b : Sp grey, olive brown or nearly black, with longitudinal germ slits, rarely without or with poroid, non-terminal germ apparatus ; apical apparatus normally amyloid or dextrinoid. Stromata present, typically as flattened or pulvinate crusts, or erect club-shaped or filiform ; when stroma clypeoid then sp either brown and/or apical apparatus amyloid ; anamorphs when present usually hyphomycetous. Saprotrophic or more rarely necrotrophic or parasitic. $ Xylariales (Xylariaceae). $s"Xylariales (Xylariaceae)."
+
+CS1,0$ Erysiphales GWYNNER-VAUGHAN - Thelebolaceae (BRUMM.) ECKBLAD
+
+1,0$ 1a : Asci with 8-64 sp, sp 11.5-13 x 3.5-6 µm. $ Ascozonus. $s"Ascozonus." 
+1,2$ 1b : Asci with more sp and/or sp smaller.
+2,3$ 2a : Asci with 8 sp.
+2,4$ 2b : Asci with 32-7000 sp.
+3,0$ 3a : Apothecia c. 0.1 mm, without excipulum. $ Pseudoascozonus. $s"Pseudoascozonus."
+3,0$ 3b : Apothecia c. 0.5-1 mm, with excipulum. $ Thelebolus p.p. $s"Thelebolus p.p."
+4,0$ 4a : Apothecia with stiff, pointed hairs. $ Trichobolus. $s"Trichobolus."
+4,0$ 4b : Apothecia glabrous. $ Thelebolus. $s"Thelebolus."
+
+CS2,0$ Hypocreales LINDAU
+
+1,CS3$ 1a : Sp filiform or almost so, mostly multiseptate ; asci with distinct apical crown. $ Clavicipitaceae. $s"Clavicipitaceae."
+1,CS4$ 1b : Sp globose, ellipsoid to cylindric, 1-septate or more rarely aseptate or with several septa ; asci with simple apical pores or without apparent apical apparatus. $ Hypocreaceae. $s"Hypocreaceae."
+
+CS3,0$ Clavicipitaceae (LINDAU) EARLE ex ROGERSON
+
+1,2$ 1a : Parasitic on fungi incl. lichenized fungi and insects.
+1,3$ 1b : Parasitic on inflorescences of Poaceae and Cyperaceae.
+2,0$ 2a : Parasitic on Bertia moriformis, Claviceps-sclerotia or Cladonia-thalli ; perithecia united or not in fleshy stromata. $ Neobarya. $s"Neobarya."
+2,0$ 2b : Parasitic on insects or Elaphomyces ; perithecia united in fleshy stromata. $ Cordyceps. $s"Cordyceps."
+3,0$ 3a : Stromata sheathing living culms of Poaceae in late summer ; first white and anamorphic then straw coloured with immersed Perithecia. $ Epichloe. $s"Epichloe."
+3,0$ 3b : Perithecia immersed in capitate, purplish, stipitate stromata, developed from sclerotia in early summer ; sclerotia developed in late summer and autumn. $ Claviceps. $s"Claviceps."
+
+CS4,0$ Hypocreaceae DE NOT. s.l.
+
+1,0$ 1a : Frb a cleistothecium containing orange sp in globose asci. $ Heleococcum. $s"Heleococcum."
+1,2$ 1b : Frb a perithecium, non-stromatic or seated upon or contained within a stroma or subiculum. Asci clavate to cylindric, sp of various coulours or hyaline.
+2,3$ 2a : Sp with more than one septum.
+2,10$ 2b : Sp without or with one septum.
+3,4$ 3a : Sp muriform.
+3,5$ 3b : Sp only transversely septate.
+4,0$ 4a : Sp without cilia. Perithecia in dense clusters on Berberis or Ribes. $ Nectria p.p. $s"Nectria p.p."
+4,0$ 4b : Sp ciliate. Perithecia superficial on lichen-thalli. $ Paranectria p.p. $s"Paranectria p.p."
+5,0$ 5a : Perithecia appearing black but dark blue in transmitted light. $ Gibberella. $s"Gibberella."
+5,6$ 5b : Perithecia in shades of yellow and red, never black or blue.
+6,0$ 6a : Perithecia with hyaline, thick-walled hairs. $ Trichonectria. $s"Trichonectria."
+6,7$ 6b : Perithecia not with such hairs.
+7,0$ 7a : On conifer bark ; perithecia conspicuous, red. $ Nectria p.p. $s"Nectria p.p."
+7,8$ 7b : On leaf litter, lichen- and algae-thalli, etc.
+8,0$ 8a : On leaf litter, rarely on woody substrates. Sp 3-5-septate, 40-80 µm long. Perithecia superficial. $ Calonectria. $s"Calonectria."
+8,9$ 8b : On lichen- or algae-thalli. Perithecia immersed or superficial.
+9,0$ 9a : Sp without cilia. Perithecia completely immersed, only ostiole erumpent. On lichen- or algae-thalli. $ Pronectria p.p. $s"Pronectria p.p."
+9,0$ 9b : Sp ciliate. Perithecia superficial. On lichen-thalli. $ Paranectria p.p. $s"Paranectria p.p."
+10,0$ 10a : Sp non-septate, fusoid, thick-walled, smooth, more than 40 µm long. On dung. $ Selinia. $s"Selinia."
+10,11$ 10b : Sp septate or if non-septate with other shapes or ornamentations. Not on dung.
+11,12$ 11a : Sp at maturity breaking into part sp.
+11,13$ 11b : Sp not breaking into part sp at maturity.
+12,0$ 12a : Part sp acutely pointed to apiculate. Stromata arachnoid, very thin. $ Arachnocrea. $s"Arachnocrea."
+12,0$ 12b : Part sp normally with rounded ends. Stromata spongy and loose to firm with distinct rind. $ Hypocrea. $s"Hypocrea."
+12,0,N$ See also Podostroma.
+13,0$ 13a : Stromata with fingerlike outgrowths. Parasitic on Hymenochaete. $ Hypocreopsis. $s"Hypocreopsis."
+13,14$ 13b : Stromata either absent, pulvinate or effused without finger-like outgrowths. Not associated with Hymenochaete.
+14,15$ 14a : Stromata developing on fungi or on a thin subiculum. Sp ± fusoid.
+14,17$ 14b : Stromata, if present, developing on other substrate or sp with different shape.
+15,0$ 15a : Sp > 15 µm, densely verrucose, often with distinct apiculi ; anamorphs in Cladobotryum, Mycogone, Papulospora, Pseudohansfordia, Sepedonium and Sibirina. $ Hypomyces. $s"Hypomyces."
+15,16$ 15b : Sp < 15 µm long, never apiculate.
+16,0$ 16a : On both myxomycetes and fungi ; anamorphs Acremonium-like. $ Nectriopsis. $s"Nectriopsis."
+16,0$ 16b : On Stereum, anamorphs in Gliocladium. $ Sphaerostilbella. $s"Sphaerostilbella."
+17,18$ 17a : Perithecia superficial, with or without a basal stroma.
+17,20$ 17b : Perithecia immersed, erumpent or not.
+18,0$ 18a : Perithecia hyaline or whitish. On Hylocomium. $ Bryonectria. $s"Bryonectria."
+18,19$ 18b : Perithecia more colourful or host different.
+19,0$ 19a : Perithecia smooth or scurfy, rarely hairy, stromata often developed underneath. Sp 2-celled. On all kind of substrates. $ Nectria p.p. $s"Nectria p.p."
+19,0$ 19b : Perithecia more or less hairy, no obvious stroma present. Sp aseptate. On leaves of Buxus. $ Pseudonectria. $s"Pseudonectria."
+20,0$ 20a : On lichenized fungi and Laminaria-thalli. $ Pronectria. $s"Pronectria."
+20,0$ 20b : On other substrates. $ Nectriella. $s"Nectriella."
+
+CS5,0$ Leotiales S.E.CARP.
+
+1,CS6$ 1a : Frb a very thin, whitish mat, a few mm in diam. On bark (often inner side) of Pinus. $ Ascocorticiaceae. $s"Ascocorticiaceae."
+1,2$ 1b : Frb with a more distinct shape.
+2,0$ 2a : Sp hyaline, filiform, very long, breaking into numerous part-sp, 1-2.5 µm thick. In springs. $ Vibrisseaceae (Vibrissea). $s"Vibrisseaceae (Vibrissea)."
+2,3$ 2b : Sp hyaline or coloured ; if very long then not breaking apart or thicker than 3 µm.
+3,4$ 3a : Apothecia arising from a stroma or sclerotium, or from stromatised host tissue.
+3,5$ 3b : Apothecia not with the above characters.
+4,CS13$ 4a : Apothecia cupulate, arising distinct sclerotia or stroma with a well differentiated rind and medulla. Obligatory or facultative parasites. Sp unicellular. $ Sclerotiniaceae. $s"Sclerotiniaceae."
+4,CS12$ 4b : Apothecia cupulate or campanulate, arising from an indeterminate brown to black crust-like stroma or stromatal host tissue with or without a rind. Mainly saprotrophs. Sp uni- or multicellular. $ Rutstroemiaceae. $s"Rutstroemiaceae."
+5,CS9$ 5a : Apothecia subsessile or stipitate, disc-shaped or cup-shaped ; outside covered with white or coloured hairs. On leaves, herbaceous stems or wood. $ Hyaloscyphaceae. $s"Hyaloscyphaceae."
+5,6$ 5b : Apothecia not with the above combinations of characters.
+6,7$ 6a : Frb distinctly stipitate.
+6,9$ 6b : Frb sessile or subsessile.
+7,CS10$ 7a : Apothecia convex and lobed, clavate, hemispheric or globose, or disc-shaped to cup-shaped, margin free of stem. $ Leotiaceae. $s"Leotiaceae."
+7,8$ 7b : Apothecia clavate, spathulate or capitate, with no abrupt or definite margin between hymenium and stem.
+8,CS8$ 8a : Paraphyses present. $ Geoglossaceae. $s"Geoglossaceae."
+8,CS$ 8b : Paraphyses absent. Frb with white to yellowish stem and yellow hymenium. $ Neolectales. $s"Neolectales."
+9,CS7$ 9a : Apothecia disc-shaped, margin even or torn, outside often dark brownish. Flesh soft, composed of angular or subglobose cells. $ Dermateaceae. $s"Dermateaceae."
+9,10$ 9b : Apothecia disc-shaped, cup-shaped or turbinate ; margin even or delicately dentate ; outside often concolorous with the hymenium. Flesh tough, leathery or gelatinous.
+10,CS11$ 10a : Frb disc-shaped, sessile, 1-2 mm, waxy, light-coloured and hyaline when fresh. Asci and paraphyses adherent ; paraphyses capitate. $ Orbiliaceae. $s"Orbiliaceae."
+10,CS10$ 10b : Frb variously shaped, sessile or stipitate, small or large, rarely hyaline. Asci and paraphyses not adherent. $ Leotiaceae. $s"Leotiaceae."
+
+CS6,0$ Ascocorticiaceae J.SCHRÖT.
+
+1,0$ 1a : Sp ellipsoid, aseptate ; asci cylindric, 8-spored. $ Ascocorticium. $s"Ascocorticium."
+1,0$ 1b : Sp vermiform, 3-septate ; asci broadly clavate, 16-spored. $ Ascocorticiellum. $s"Ascocorticiellum."
+
+CS7,0$ Dermateaceae FR.
+
+1,0$ 1a : On soil or plant debris. Apothecia turbinate to cup-shaped, hymenium bright yellow ; margin dentate ; outside dark brown to black. $ Podophacidium. $s"Podophacidium."
+1,0$ 1b : On wood of deciduous trees. Apothecia disc-shaped, hymenium greyish or yellowish grey, margin nearly white, even ; outside brownish. $ Mollisia. $s"Mollisia."
+
+CS8,0$ Geoglossaceae CORDA
+
+1,2$ 1a : Frb clavate, black or brown.
+1,5$ 1b : Frb clavate or compressed, yellow, ochraceous or green.
+2,3$ 2a : Sp persistently hyaline.
+2,4$ 2b : Sp brown at maturity.
+3,0$ 3a : Frb black or dark purplish. $ Geoglossum. $s"Geoglossum."
+3,0$ 3b : Frb pale brown to reddish brown. $ Microglossum. $s"Microglossum."
+4,0$ 4a : Setae absent. $ Geoglossum. $s"Geoglossum."
+4,0$ 4b : Brown setae present (frb hairy, use lens !). $ Trichoglossum. $s"Trichoglossum."
+5,0$ 5a : Frb ± green. $ Microglossum. $s"Microglossum."
+5,6$ 5b : Frb yellow or ochraceous.
+6,7$ 6a : Sp filiform, finally septate.
+6,8$ 6b : Sp fusoid.
+7,0$ 7a : Frb spathulate, with laterally compressed hymenium. $ Spathularia. $s"Spathularia."
+7,0$ 7b : Frb capitate, with rounded hymenium. $ Cudonia. $s"Cudonia."
+8,0$ 8a : Stem white, ± hyaline, often > 1 mm thick ; hymenium bright yellow to orange yellow. In water or in very moist places. $ Mitrula. $s"Mitrula."
+8,0$ 8b : Stem pale, not hyaline, often < 1 mm thick ; hymenium pale yellow to pale orange yellow. In mosses in forests and open land. $ Bryoglossum. $s"Bryoglossum."
+
+CS9,0$ Hyaloscyphaceae NANNF.
+
+1,2$ 1a : Frb seated on an arachnoid subiculum.
+1,4$ 1b : Frb not seated on a subiculum.
+2,0$ 2a : Sp septate at maturity. Outside of frb white, yellow or orange. $ Arachnopeziza p.p. $s"Arachnopeziza p.p."
+2,3$ 2b : Sp aseptate. Outside of frb olivaceous to dark brown.
+3,0$ 3a : Subiculum copious. $ Eriopezia. $s"Eriopezia."
+3,0$ 3b : Subiculum scanty. $ Proliferodiscus. $s"Proliferodiscus."
+4,5$ 4a : Hairs at least partially rough or densely granulose, or > 100 µm long.
+4,18$ 4b : Hairs smooth or with scattered granules, < 100 µm long.
+5,6$ 5a : Hairs sharply pointed.
+5,7$ 5b : Hairs cylindric or tapering, but not sharply pointed.
+6,0$ 6a : Hairs multiseptate. $ Albotricha. $s"Albotricha."
+6,0$ 6b : Hairs 0-2-septate. $ Incrupila. $s"Incrupila."
+7,8$ 7a : Hairs at least partially rough.
+7,12$ 7b : Hairs smooth or with superficial granules.
+8,0$ 8a : Apical 1-3 cell(s) of hairs smooth. $ Dasyscyphella. $s"Dasyscyphella."
+8,9$ 8b : Hairs granulose at apex.
+9,0$ 9a : Hairs smooth in basal part, ± clavate, to 50 µm long. $ Cistella. $s"Cistella."
+9,10$ 9b : Hairs entirely rough, cylindric, often longer than 50 µm.
+10,0$ 10a : Frb revivable. Paraphyses mostly cylindric. On coniferous wood. $ Lachnellula. $s"Lachnellula."
+10,11$ 10b : Frb ephemeral. Paraphyses cylindric or lanceolate. On various substrates.
+11,0$ 11a : Hairs brown. Paraphyses cylindric. $ Fuscolachnum. $s"Fuscolachnum."
+11,0$ 11b : Hairs hyaline, if brown then paraphyses distinctly lanceolate. $ Lachnum. $s"Lachnum."
+12,0$ 12a : Outside blackish with greyish hairs. $ Proliferodiscus. $s"Proliferodiscus."
+12,13$ 12b : Outside with brown, brownish or white hairs.
+13,0$ 13a : Ascus pore non-amyloid. $ Perrotia. $s"Perrotia."
+13,14$ 13b : Ascus pore amyloid.
+14,15$ 14a : On herbaceous stems.
+14,16$ 14b : On wood.
+15,0$ 15a : Hairs hyaline, yellowish or ochraceous. $ Trichopeziza. $s"Trichopeziza."
+15,0$ 15b : Hairs brown. $ Lasiobelonium p.p. $s"Lasiobelonium p.p."
+16,0$ 16a : Hairs densely incrusted with amorphous granules. $ Neodasyscypha. $s"Neodasyscypha."
+16,17$ 16b : Hairs smooth or with scattered granules.
+17,0$ 17a : Hairs thin-walled. $ Arachnopeziza p.p. $s"Arachnopeziza p.p."
+17,0$ 17b : Hairs with thickened walls. $ Lasiobelonium p.p. $s"Lasiobelonium p.p."
+18,0$ 18a : Paraphyses richly branched. $ Polydesmia. $s"Polydesmia."
+18,19$ 18b : Paraphyses simple or sparsely branched.
+19,20$ 19a : Hairs with thick and glassy walls ; lumen narrow or absent.
+19,23$ 19b : Hairs thin-walled or slightly thick-walled.
+20,0$ 20a : Paraphyses with hooked apices. $ Unguiculella. $s"Unguiculella."
+20,21$ 20b : Paraphyses without hooked apices.
+21,0$ 21a : Hairs loosening glassiness in > 5 % KOH. $ Urceolella. $s"Urceolella."
+21,22$ 21b : Hairs retaining glassiness in KOH.
+22,0$ 22a : Hairs purplish in Melzer. $ Unguicularia. $s"Unguicularia."
+22,0$ 22b : Hairs not purplish in Melzer. $ Hyalopeziza. $s"Hyalopeziza."
+23,0$ 23a : Hairs uncinate or helicoids, apex mostly blunt, not forked. $ Hamatocanthoscypha. $s"Hamatocanthoscypha."
+23,24$ 23b : Hairs straight or with a strongly bent and sharply pointed apex, or some hairs with forked apex.
+24,25$ 24a : Hairs cylindric.
+24,26$ 24b : Hairs tapering or with a very narrow apical part.
+25,0$ 25a : Apothecia white to yellow. $ Psilachnum. $s"Psilachnum."
+25,0$ 25b : Apothecia at least basally brown. $ Microscypha. $s"Microscypha."
+26,0$ 26a : Apothecia dark coloured. $ Dematioscypha. $s"Dematioscypha."
+26,27$ 26b : Apothecia with pale or bright colours.
+27,0$ 27a : On wood, cones or old polypores. $ Hyaloscypha p.p. $s"Hyaloscypha p.p."
+27,28$ 27b : On leaves, ferns or herbaceous stems.
+28,0$ 28a : Apex of hairs strongly curved or irregularly bent. $ Phialina. $s"Phialina."
+28,29$ 28b : Hairs conical with apex tapering to a narrow point.
+29,0$ 29a : Paraphyses lanceolate, far exceeding the asci. On ferns. $ See Albotricha washingtonensis.
+29,0$ 29b : Paraphyses filiform, not exceeding the asci. On various substrates. $ Hyaloscypha p.p. $s"Hyaloscypha p.p."
+
+CS10,0$ Leotiaceae CORDA
+
+1,2$ 1a : On bryophytes or in Sphagnum on stems of Cyperaceae.
+1,6$ 1b : On other substrates.
+2,0$ 2a : In Sphagnum on stems of Cyperaceae. Apothecia 0.4-2 cm, purplish. $ See Ascocoryne turficola.
+2,3$ 2b : On bryophytes.
+3,0$ 3a : Apothecia cylindric, egg-shaped or campanulate ; frb stipitate. $ See Bryoglossum.
+3,4$ 3b : Apothecia cup- or disc-shaped ; frb stipitate or sessile.
+4,0$ 4a : Apothecia dark bluish green. $ Mniaecia. $s"Mniaecia."
+4,5$ 4b : Apothecia brown or brownish.
+5,0$ 5a : On Sphagnum. Sp 14-17 x 3-4 µm, ± ellipsoid, aseptate. $ See Hymenoscyphus vasaensis.
+5,0$ 5b : On other mosses. Sp 6-10 µm broad, ± fusoid or rhomboid, often septate at maturity. $ Bryoscyphus. $s"Bryoscyphus."
+6,7$ 6a : Frb terrestrial.
+6,10$ 6b : Frb not terrestrial.
+7,0$ 7a : Apothecia substipitate. $ Discinella. $s"Discinella."
+7,8$ 7b : Frb distinctly stipitate.
+8,0$ 8a : Sp 0-1-septate. Apothecia sphaeric to hemisphaeric. $ Sarcoleotia. $s"Sarcoleotia."
+8,9$ 8b : Sp 5- to multiseptate. Apothecia convex, folded or lobed with recurved margin.
+9,0$ 9a : Apothecia gelatinous. $ Leotia. $s"Leotia."
+9,0$ 9b : Apothecia not gelatinous. $ See Cudonia.
+10,11$ 10a : Sp filiform and > 30 µm long.
+10,15$ 10b : Sp not filiform, mostly shorter.
+11,12$ 11a : Apothecia at first closed, opening when mature.
+11,13$ 11b : Apothecia not so.
+12,0$ 12a : Asci non-amyloid. Apothecia opening irregularly, with crenulate edges. $ Discocainia. $s"Discocainia."
+12,0$ 12b : Asci with amyloid pore. Apothecia opening regularly. $ Godronia. $s"Godronia."
+13,0$ 13a : Disc black. On Tilia. $ Holwaya. $s"Holwaya."
+13,14$ 13b : Disc pale or greenish. On wood in water or on conifers.
+14,0$ 14a : On wood or stems soaked in water. $ See Vibrisseaceae.
+14,0$ 14b : On coniferous wood in more dry habitats. $ Gorgoniceps. $s"Gorgoniceps."
+15,16$ 15a : Frb with a long stem and a well-delimited globose, cylindric or campanulate apothecium.
+15,17$ 15b : Frb sessile or apothecia with a different shape.
+16,0$ 16a : On plant debris in lemming burrows. $ Capillipes. $s"Capillipes."
+16,0$ 16b : On needles. $ Heyderia. $s"Heyderia."
+17,18$ 17a : Apothecia mostly fasciculate, 5-30 mm broad, distinctly soft and gelatinous, purplish, pale violaceous, brown or black.
+17,21$ 17b : Apothecia single or fasciculate, mostly smaller ; if soft and gelatinous then with different colours.
+18,19$ 18a : Apothecia purplish or pale violaceous.
+18,20$ 18b : Apothecia purplish brown or dark brown to black.
+19,0$ 19a : Apothecia purplish, disc-shaped or turbinate. $ Ascocoryne p.p. $s"Ascocoryne p.p."
+19,0$ 19b : Apothecia pale violaceous, cup-shaped. $ Neobulgaria. $s"Neobulgaria."
+20,0$ 20a : Apothecia dark brown to black. Asci with 4 brown and 4 hyaline sp. $ Bulgaria. $s"Bulgaria."
+20,0$ 20b : Apothecia purplish brown. Sp hyaline. $ Ascotremella. $s"Ascotremella."
+21,0$ 21a : Apothecia greenish, gelatinous, 0.2-1.5 mm broad, sessile. $ Claussenomyces. $s"Claussenomyces."
+21,22$ 21b : Apothecia with different colours or not gelatinous, sessile or stipitate.
+22,23$ 22a : Frb stipitate, greenish, olive or greenish black ; apothecia 2-15 mm broad.
+22,25$ 22b : Frb sessile or without green colours or apothecia smaller than 2 mm.
+23,0$ 23a : Disc yellowish green to bluish green. $ Chlorociboria. $s"Chlorociboria."
+23,24$ 23b : Disc olive or greenish black.
+24,0$ 24a : Disc olive. On wood. $ Chlorencoelia. $s"Chlorencoelia."
+24,0$ 24b : Disc greenish black. On cones of Picea. $ Piceomphale. $s"Piceomphale."
+25,26$ 25a : Sp brown at maturity or forming small secondary sp.
+25,31$ 25b : Sp hyaline, not forming secondary sp.
+26,27$ 26a : Sp brown at maturity, not forming small secondary sp.
+26,29$ 26b : Sp hyaline, forming small secondary sp.
+27,0$ 27a : Sp rough, with a gelatinous sheath. $ See Crocicreas melanosporum.
+27,28$ 27b : Sp smooth, without a gelatinous sheath.
+28,0$ 28a : Apothecia disc-shaped. $ Bulgariella. $s"Bulgariella."
+28,0$ 28b : Apothecia cup-shaped. $ Velutarina. $s"Velutarina."
+29,0$ 29a : Primary sp < 10 µm long. $ Tympanis p.p. $s"Tympanis p.p."
+29,30$ 29b : Primary sp > 10 µm long.
+30,0$ 30a : Primary sp becoming multiseptate. $ See Tympanis confusa.
+30,0$ 30b : Primary sp becoming 2-3-septate. $ Gremmeniella. $s"Gremmeniella."
+31,0$ 31a : On caryopses of grasses or fruits of Carex. Apothecia stipitate, brown. $ Gloeotinia. $s"Gloeotinia."
+31,32$ 31b : On other substrates.
+32,33$ 32a : Frb erumpent or seated on a stroma, mostly externally dark, coriaceous, often closed when young, opening at maturity.
+32,41$ 32b : Frb superficial, not seated on a stroma, pale or dark, not closed when young.
+33,34$ 33a : On herbaceous stems.
+33,35$ 33b : On wood, leaves, needles or fruits.
+34,0$ 34a : Apothecia opening by an elongate slit. On Filipendula. $ Holmiodiscus. $s"Holmiodiscus."
+34,0$ 34b : Apothecia opening by a pore. On herbaceous stems, preferably of Apiaceae. $ Heterosphaeria. $s"Heterosphaeria."
+35,36$ 35a : Sp aseptate.
+35,38$ 35b : Sp 1-7-septate.
+36,0$ 36a : On dead needles, twigs or branches of conifers. Apothecia 1-3 mm broad. $ Cenangium. $s"Cenangium."
+36,37$ 36b : On deciduous wood. Apothecia often larger.
+37,0$ 37a : Pigment soluble and turning reddish brown in KOH. $ Ionomidotis. $s"Ionomidotis."
+37,0$ 37b : Pigment not soluble and turning reddish brown in KOH. $ See Encoelia.
+38,0$ 38a : On dead leaves and twigs of Ledum. $ Neogodronia. $s"Neogodronia."
+38,39$ 38b : On other substrates.
+39,0$ 39a : Sp 15-20 x 3-4 µm. On dead twigs of Calluna. $ Erikssonopsis. $s"Erikssonopsis."
+39,40$ 39b : Sp > 20 µm long. On various substrates.
+40,0$ 40a : Sp 6-8 µm broad. Frb developing from widely effused, black stroma on Betula. $ Dencoeliopsis. $s"Dencoeliopsis."
+40,0$ 40b : Sp 1-5 µm broad. Stroma present or absent ; on various hosts. $ Godronia p.p. $s"Godronia p.p."
+41,42$ 41a : Frb sessile, saucer-shaped, blackish or red.
+41,43$ 41b : Frb sessile or stipitate, not saucer-shaped, with paler colours.
+42,0$ 42a : Apothecia seated on a red subiculum. $ Patinellaria. $s"Patinellaria."
+42,0$ 42b : Apothecia growing directly on wood substrate. $ Durella. $s"Durella."
+43,0$ 43a : Apothecia convex. $ Cudoniella. $s"Cudoniella."
+43,44$ 43b : Apothecia concave or ± plane.
+44,45$ 44a : Hyphae of excipulum thick-walled or embedded in a gel.
+44,47$ 44b : Hyphae of excipulum thin-walled, not embedded in a gel.
+45,0$ 45a : Frb tan to brown, if white or whitish then distinctly stipitate. $ Crocicreas p.p. $s"Crocicreas p.p."
+45,46$ 45b : Frb ± yellow, if white or whitish then sessile or sub-sessile.
+46,0$ 46a : On wood or fungi. $ Bisporella. $s"Bisporella."
+46,0$ 46b : On herbaceous stems or ferns. $ Allophylaria. $s"Allophylaria."
+47,0$ 47a : Margin of apothecia with a distinct hyaline collar. On stems of Equisetum. $ Stamnaria. $s"Stamnaria."
+47,48$ 47b : Margin of apothecia without distinct, hyaline collar. On various substrates.
+48,49$ 48a : On leaves, needles or herbaceous stems.
+48,50$ 48b : On other substrates.
+49,0$ 49a : Excipulum mostly pubescent from hair-like hyphae ; frb sessile or subsessile, to 1 mm broad. $ Calycellina. $s"Calycellina."
+49,0$ 49b : Excipulum not pubescent ; frb stipitate or larger. $ Hymenoscyphus p.p. $s"Hymenoscyphus p.p."
+50,0$ 50a : Excipulum of large, thin-walled hyphae. On wood. $ Phaeohelotium. $s"Phaeohelotium."
+50,0$ 50b : Excipulum of thin-walled hyphae. On various substrates. $ Hymenoscyphus p.p. $s"Hymenoscyphus p.p.
+
+CS11,0$ Orbiliaceae NANNF.
+
+1,0$ 1a : Margin of apothecia dentate from cohering glassy hairs. $ Hyalinia. $s"Hyalinia."
+1,0$ 1b : Margin of apothecia even and lacking hairs. $ Orbilia. $s"Orbilia."
+
+CS12,0$ Rutstroemiaceae HOLST-JENSEN, L.M.KOHN & T.SCHUMACHER
+
+1,0$ 1a : Sp brownish when mature, 14.5-21 µm long. $ Lambertella. $s"Lambertella."
+1,2$ 1b : Sp hyaline.
+2,0$ 2a : Apothecia with long stem and ± campanulate hymenial part or if cupulate then sp < 10 µm long. $ Scleromitrula. $s"Scleromitrula."
+2,3$ 2b : Apothecia ± cupulate, stipitate or sessile. Sp > 10 µm long.
+3,0$ 3a : Outer excipulum with a distinct layer of hyphae embedded in a gelatinous matrix. $ Rutstroemia. $s"Rutstroemia."
+3,0$ 3b : Outer excipulum of hexagonal or prismatic cells ; no gelatinous matrix in outer excipulum. $ Lanzia. $s"Lanzia."
+
+CS13,0$ Sclerotiniaceae WHETZEL
+
+1,2$ 1a : Apothecia arising from a distinct sclerotium with a well differentiated rind and medulla.
+1,6$ 1b : Apothecia arising from an indeterminate, crust-like, black stroma or from stromatized host tissues.
+2,3$ 2a : Sclerotia tuberoid to globose, borne in soil between roots of the host ; sclerotial medulla without obvious remnants of host tissues, or without gelatinous substance between sclerotial hyphae.
+2,4$ 2b : Sclerotia cylindric, loaf-shaped, tuberoid, pyramidal or discoid ; on stems, leaves or roots of herbaceous plants ; rarely borne inside culms or stems.
+3,0$ 3a : Outer excipulum with a layer of prismatic, elongate cells embedded in a gelatinous matrix. Macroconidial state unknown. $ Dumontinia. $s"Dumontinia."
+3,0$ 3b : Outer excipulum with a layer of angular to globose cells, no gelatinous matrix. Macroconidial state unknown. $ Sclerotinia. $s"
+4,0$ 4a : Sclerotia borne within stems of juncaceous and cyperaceous hosts, sclerotia cylindric to tuberoid. Macroconidial state unknown (see also Sclerotinia tetraspora). $ Myriosclerotinia. $s"Myriosclerotinia."
+4,5$ 4b : Sclerotia formed on leaves, stems and roots of other plants, wholly or partially embedded in and digesting host tissues ; sclerotial medulla with remnants of host tissues, or with a gelatinous substance between sclerotial hyphae.
+5,0$ 5a : Sclerotia discoid ; on wilting flowers (petals) of Rhododendron. Macroconidia borne on short conidiophores (form genus Ovulitis). $ Ovulinia. $s"Ovulinia."
+5,0$ 5b : Sclerotia pyramidal, discoid or flat ; on stems, leaves or rhizomes. Macroconidia borne on straight, branched conidiophores (form genus Botrytis). $ Botryotinia. $s"Botryotinia."
+6,7$ 6a : Stroma a black crust-like stroma with a well differentiated rind.
+6,9$ 6b : Stroma consisting of areas of stromatized (blackened) host tissues with or without an obvious stromatal rind.
+7,0$ 7a : Stroma crusty, black, mummified, formed within fruits of ericaceous and rosaceous hosts. Macroconidial state on leaves or fruits ; macroconidia borne in monilioid chains separated by disjunctors or not (form genus Monilia). $ Monilinia. $s"Monilinia."
+7,8$ 7b : Stroma not as above.
+8,0$ 8a : Stroma a blackened, mantling stroma of indefinite dimensions developed on rhizomes and bulbs of monocotyledons. Macroconidial state absent. $ Stromatinia. $s"Stromatinia."
+8,0$ 8b : Stroma an indefinite, crust-like stroma ; on leaves of Vaccinium myrtillus. Conidial anamorph with four-armed diasporas (form genus Valdensia), ca. 0.5 mm diam. $ Valdensinia. $s"Valdensinia."
+9,0$ 9a : Sp ± allantoid. On wood. $ Encoelia. $s"Encoelia."
+9,10$ 9b : Sp ± ellipsoid. On leaves, catkins, fruits, bulbils.
+10,0$ 10a : Apothecia short-stipitate, at first closed and ‘cup-shaped’, then expanding and radially splitting in a stellate manner, hymenium pale yellowish brown, outside brownish black ; on leaves and branchlets. Macroconidial state borne in pycnidia-like organs, consisting of arthroconidia in chains on branches on the host (form genus Acarosporium). $ Pycnopeziza. $s"Pycnopeziza."
+10,0$ 10b : Apothecia regularly cup-shaped, hymenium and receptacle concolorous. $ Ciboria. $s"Ciboria."
+
+CS14,0$ Pezizales BESSEY
+
+1,2$ 1a : Frb in soil, hypogeous or nearly so, closed or with one to several small apical openings. Spore liberation passive.
+1,7$ 1b : Frb epigeous ; on soil, wood or dung. At maturity with free hymenium or asci protruding. Spore liberation active.
+2,3$ 2a : Frb solid, ± regularly tuber-like, with veined gleba and well defined peridium, with or without rhizoids on the lower side.
+2,5$ 2b : Frb ± hollow, often strongly folded and with several smaller or larger interior lacunes, in some spp. with a small, central opening on the upper side, often irregular in shape and/or with thin, ill defined peridium.
+3,CS19$ 3a : Frb with small depression on the upper side and rhizoids on the lower side, usually < 2 cm. Asci amyloid, at least at apex, 8-spored ; sp ornamented. $ Pezizaceae (Pachyphloeus). $s"Pezizaceae (Pachyphloeus)"
+3,4$ 3b : Frb without specific depression on the upper side, with or without rhizoids on the lower side, often > 2 cm. Asci non-amyloid, 1-8-spored, sp ornamented or smooth.
+4,CS17$ 4a : Sp ellipsoid and smooth or > 50 µm long and verrucose. $ Helvellaceae. $s"Helvellaceae."
+4,CS23$ 4b : Sp ornamented and if > 50 µm long then with a reticulate ornamentation. $ Tuberaceae. $s"Tuberaceae."
+5,CS17$ 5a : Frb grey, pubescent, mostly epigeous, closed, ± hollow and strongly folded inside. Sp ellipsoid, smooth. $ Helvellaceae (Helvella astieri). $s"Helvellaceae (Helvella astieri)."
+5,6$ 5b : Frb different.
+6,CS20$ 6a : Sp smooth or if ornamented then frb ± cup-shaped with a central opening on top and folded-hollow inside. $ Pyronemataceae p.p. $s"Pyronemataceae p.p."
+6,CS16$ 6b : Sp ornamented. Frb with very irregular outline or strongly folded inside, reddish brown or becoming red when sectioned. $ Discinaceae p.p. $s"Discinaceae p.p."
+7,8$ 7a : Asci amyloid, at least at apex.
+7,9$ 7b : Asci non-amyloid.
+8,CS15$ 8a : Apothecia whitish, yellowish, greyish, with bluish or purplish tinge, usually 0.1-12 mm broad, pulvinate, disc-shaped or turbinate. Sp hyaline or purplish, globose or ellipsoid, smooth or ornamented, without guttules. Often on dung. $ Ascobolaceae. $s"Ascobolaceae."
+8,CS19$ 8b : Apothecia greyish, brownish, greenish, bluish, purplish or black, usually 1-8 cm broad, pulvinate, disc-shaped or cup-shaped. Sp hyaline to pale brownish, globose, ellipsoid or fusoid, smooth or ornamented, with or without guttules. $ Pezizaceae p.p. $s"Pezizaceae p.p."
+9,CS21$ 9a : Apothecia either sessile, orange and on needles or twigs of Juniperus, Abies or Picea, or stipitate with scarlet hymenium and on ± buried twigs and branches. Spring. $ Sarcoscyphaceae. $s"Sarcoscyphaceae."
+9,10$ 9b : Apothecia not with the above combination of characters.
+10,CS22$ 10a : Apothecia either 0.5-12 cm broad, with dark brown to black hymenium, cup-shaped, subglobose, infundibuliform or urceolate, with greyish, brownish to black, glabrous, wrinkled to folded or hairy outside or apothecia 0.1-0.3 cm broad, whitish, disc-shaped with long brown hairs, on needles of Pinus. Early spring to summer. $ Sarcosomataceae. $s"Sarcosomataceae."
+10,11$ 10b : Apothecia not with the above combination of characters.
+11,0$ 11a : On dung of carnivorous or herbivorous animals or birds. Apothecia whitish, yellowish or brownish, with a distinct excipulum. Asci with 8-7000 hyaline sp. $ See Thelebolaceae.
+11,12$ 11b : Apothecia not with the above combination of characters.
+12,13$ 12a : Apothecia from early spring to early summer, one spp. in autumn ; often stipitate or substipitate, several cm high and broad, often thick-fleshed (> 2 mm), yellow brown, brown to blackish brown. Sp with prominent appendages at the poles or smooth and globose or ellipsoid. On soil or wood.
+12,14$ 12b : Apothecia in autumn or if in spring then smaller, of another colour and more thin-fleshed (< 2 mm).
+13,CS18$ 13a : Most spp. with a campanulate, even or wrinkled, sponge-like or honeycomb-like ‘cap’ and a ± hollow, whitish stem, longer than cap, one sp. substipitate, cup-shaped, fragile, 3-12 cm broad and with a smell of chlorine when broken ; apothecia (1)-2-8 cm broad and 4-20 cm high. Sp smooth, ellipsoid, sp-print yellowish. On soil. $ Morchellaceae. $s"Morchellaceae."
+13,CS16$ 13b : Apothecia with an irregular, saddle-shaped or brain-like folded ‘cap’ or cup-shaped and substipitate, 2-12 cm broad, 2-12 cm high, no smell of chlorine when broken ; stem generally shorter than ‘cap’ high. Sp with prominent appendages at the poles or smooth, ellipsoid or globose ; sp-print whitish. On soil, trunks or stumps. $ Discinaceae. $s"Discinaceae."
+14,15$ 14a : Apothecia ear-shaped.
+14,16$ 14b : Apothecia pulvinate, disc-shaped or cup-shaped.
+15,CS17$ 15a : Apothecia blood-red to reddish brown, outside glabrous. Sp broadly ellipsoid with one large guttule. $ Helvellaceae (Wynnella). $s"Helvellaceae (Wynnella)."
+15,CS20$ 15b : Apothecia yellowish, orange, ochraceous or brownish, sometimes with olivaceous, pinkish or reddish tinge. Sp narrowly ellipsoid with two small guttules. $ Pyronemataceae p.p. $s"Pyronemataceae p.p."
+16,0$ 16a : Apothecia pulvinate, chestnut, 4-15 cm broad, with numerous rhizoids. Sp fusoid, apiculate, with delicate, reticulate ornamentation. On burnt ground ; autumn. $ Rhizinaceae (Rhizina).
+16,17$ 16b : Apothecia not with the above combination of characters.
+17,CS17$ 17a : Apothecia medium to large or if small then black, subsessile to stipitate, cup-shaped, saddle-shaped to irregularly saddle-shaped ; hymenium brownish, greyish or black ; outside glabrous or pubescent. Sp broadly ellipsoid, rarely fusoid, typically with one large guttule. On mull or calcareous soil ; spring to autumn. $ Helvellaceae p.p. $s"Helvellaceae p.p."
+17,18$ 17b : Apothecia very small to medium, sessile or substipitate.
+18,0$ 18a : Apothecia membranous, 3-12 mm in diam., brownish red, paler towards the margin. Excipulum of interwoven hyphae ; sp 12-15 x 5.5-7 µm, ellipsoid, smooth, without guttules. Spring to early summer. $ See Karstenellaceae (Karstenella).
+18,CS20$ 18b : Apothecia not with the above combination of characters, fleshy, rarely hypogeous, pulvinate, disc-shaped or cup-shaped ; hymenium whitish, greyish, yellowish, orange, reddish, bluish or purplish ; outside glabrous, furfuraceous or hairy. Sp hyaline or pale brownish or purplish, globose, ellipsoid or fusoid, with or without guttules, smooth or ornamented. Spring to autumn. $ Pyronemataceae p.p. $s"Pyronemataceae p.p."
+
+CS15,0$ Ascobolaceae BOUD. ex SACC.
+
+1,2$ 1a : Sp hyaline, then purplish to reddish violet ; asci with 8 free sp or sp united in a cluster.
+1,0$ 1b : Sp permanently hyaline ; asci with 8-32 free sp, ellipsoid, thick-walled, smooth or ornamented, with apiculi at the poles, with thick gelatinous coating. On dung. $ Thecotheus. $s"Thecotheus."
+2,0$ 2a : Apothecia globose, turbinate or disc-shaped, 0.2-8-(12) mm broad, whitish, yellow or pale brownish, then often purplish brown. Sp free, ellipsoid or globose, smooth or ornamented, often with gelatinous coating. On dung, herbaceous stems, soil or burnt ground. $ Ascobolus. $s"Ascobolus."
+2,0$ 2b : Apothecia globose, turbinate or pulvinate, 0.1-1 mm broad, whitish with purplish tinge or yellow. Sp united in one cluster, smooth or ornamented, with unilateral or universal gelatinous coating. On dung. $ Saccobolus. $s"Saccobolus."
+
+CS16,0$ Discinaceae BENEDIX
+
+1,2$ 1a : Frb epigeous.
+1,3$ 1b : Frb hypogeous.
+2,0$ 2a : Frb saddle-shaped to cerebriform, reddish brown to dark brown, often with a purplish tinge, stipitate. Sp smooth, narrowly ellipsoid and with 2 small guttules or globose. $ Gyromitra. $s"Gyromitra."
+2,0$ 2b : Frb disc-shaped or cerebriform, brownish, subsessile or stipitate. Sp broadly ellipsoid, apiculate, when mature with a reticulate ornamentation and 3-4 large guttules. $ Discina. $s"Discina."
+3,0$ 3a : Sp 20-25 µm in diam., with a reticulate ornamentation. $ Hydnobolites. $s"Hydnobolites."
+3,0$ 3b : Sp 22-40 µm in diam., verrucose. $ Hydnotrya. $s"Hydnotrya."
+
+CS17,0$ Helvellaceae FR. (Incl. Balsamiaceae E.Fisch.)
+
+1,2$ 1a : Frb epigeous.
+1,4$ 1b : Frb hypogeous.
+2,0$ 2a : Frb 3-6 mm broad, purplish blanc. $ Pindara. $s"Pindara."
+2,3$ 2b : Frb larger.
+3,0$ 3a : Frb cup-shaped to saddle-shaped, hymenium white, greyish, brownish or black, subsessile to distinctly stipitate. $ Helvella. $s"Helvella."
+3,0$ 3b : Frb rabbit-ear shaped, subsessile or with a short narrow stem. $ Wynnella. $s"Wynnella."
+4,0$ 4a : Sp smooth, 17-24 µm long. $ Balsamia. $s"Balsamia."
+4,0$ 4b : Sp verrucose, 55-69 µm long. $ Fischerula. $s"Fischerula."
+
+CS18,0$ Morchellaceae REICHENB.
+
+1,0$ 1a : Sessile or subsessile, cup-shaped to expanded, inside wrinkled to folded, 3-12 cm broad ; flesh with smell of chlorine. $ Disciotis. $s"Disciotis."
+1,2$ 1b : Distinctly stipitate ; smell faint.
+2,0$ 2a : Apothecia campanulate, 1.5-3 cm high, even or with irregular or longitudinal furrows or ribs. Asci with 2 or 8 sp. $ Verpa. $s"Verpa."
+2,0$ 2b : Apothecia sponge-like or honeycomb-like, 2-10 cm high. Asci with 8 sp. $ Morchella. $s"Morchella."
+
+CS19,0$ Pezizaceae DUMORT.
+
+1,2$ 1a : Sp ellipsoid.
+1,5$ 1b : Sp globose.
+2,0$ 2a : Excipulum cells embedded in a gel. Apothecia pulvinate ; on wet, sometimes submerged wood. $ Pachyella. $s"Pachyella."
+2,3$ 2b : Excipulum cells not embedded in a gel. Apothecia disc-shaped or cup-shaped.
+3,0$ 3a : Apothecia very large, at first hypogeous and globose, then deeply cup-shaped, margin splitting into irregular rays ; hymenium violaceous. $ Sarcosphaera. $s"Sarcosphaera."
+3,4$ 3b : Apothecia small to medium, disc-shaped to cup-shaped, epigeous.
+4,0$ 4a : Apothecia < 3 mm, whitish, yellowish to pale orange. $ Iodophanus. $s"Iodophanus."
+4,0$ 4b : Apothecia > 1 mm, typically brown, with shades of violaceous, yellow, green, blue, etc. $ Peziza. $s"Peziza."
+5,0$ 5a : Frb hypogeous. $ Pachyphloeus. $s"Pachyphloeus."
+5,6$ 5b : Frb epigeous.
+6,0$ 6a : Hymenium greenish, outer surface of the apothecia prominently pustulate, composed of aggregates of globose to angular cells. On soil and decaying wood. $ Scabropezia. $s"Scabropezia."
+6,7$ 6b : Hymenium purplish, brownish or black ; outer surface glabrous or furfuraceous. On soil or burnt areas.
+7,0$ 7a : Apothecia pulvinate. Outer excipulum with globose to elongate cells, medullary excipulum of densely interwoven hyphae. On soil, often in recently flooded areas. $ Boudiera. $s"Boudiera."
+7,0$ 7b : Apothecia disc-shaped to cup-shaped. Outer excipulum of globose cells and intermixed broad hyphae. Often on burnt areas. $ Plicaria. $s"Plicaria."
+
+CS20,0$ Pyronemataceae CORDA
+
+1,2$ 1a : Frb epigeous.
+1,58$ 1b : Frb ± hypogeous, ± hollow (see also Geopora).
+2,3$ 2a : Apothecia on outside with appressed or projecting hairs.
+2,28$ 2b : Apothecia on outside glabrous or furfuraceous.
+3,4$ 3a : Hymenium yellowish, orange, pink or red.
+3,16$ 3b : Hymenium whitish, greyish, ochraceous or brownish.
+4,5$ 4a : Hairs yellowish, brownish to black.
+4,12$ 4b : Hairs whitish or hyaline.
+5,6$ 5a : Hairs appressed, yellowish brown to black, obtuse.
+5,8$ 5b : Hairs projecting, yellowish to dark brown, pointed.
+6,0$ 6a : Sp globose or subglobose, echinulate. Apothecia disc-shaped, 0.1-0.6 cm, margin indistinct ; hymenium yellowish, orange or red ; outside with short, yellowish brown hairs (lens !). On naked soil or lime. $ Ramsbottomia. $s"Ramsbottomia."
+6,7$ 6b : Sp ellipsoid.
+7,0$ 7a : Apothecia on burnt ground. Sessile, often gregarious, disc-shaped, 0.2-1.2 cm broad ; margin distinct; hymenium yellowish, orange or red ; outside with short brownish hairs. Sp ellipsoid, smooth, with two guttules. $ Anthracobia. $s"Anthracobia."
+7,0$ 7b : Apothecia on soil. Sessile, solitary or gregarious, disc-shaped or cup-shaped, 0.3-2.5 cm broad ; margin distinct ; hymenium orange or red ; outside with adnate, pale brownish to black hairs. Sp ellipsoid, ornamented. $ Melastiza. $s"Melastiza."
+8,0$ 8a : Hairs rooting, developing from cells in the medullary excipulum ; apothecia disc-shaped, 0.5-1.5 cm broad ; margin distinct ; hymenium red to scarlet ; outside with pointed, brown or dark brown, 150-200 µm long hairs. Sp ellipsoid, globose or subglobose, ornamented. $ Scutellinia. $s"Scutellinia."
+8,9$ 8b : Hairs developing form cells in the outer excipulum.
+9,0$ 9a : Hymenium red with bluish tinge, apothecia solitary, sessile, low cup-shaped, 3-5 mm broad ; margin distinct ; outside set with 140-600 µm long, multiseptate, brown hairs developing form bulbose cells in outer excipulum. Sp ellipsoid, smooth, with two guttules. In temporarily inundated areas along rivers, ponds, etc. $ Parascutellinia. $s"Parascutellinia."
+9,10$ 9b : Hymenium yellowish, orange or red.
+10,0$ 10a : On limestone or burnt ground ; apothecia sessile, hemispheric to low cup-shaped, 0.5-1 cm broad ; hymenium yellowish, outside concolorous or brownish, with bundles of thin-walled, pale brownish hairs. Sp ellipsoid, smooth. $ Tricharina. $s"Tricharina."
+10,11$ 10b : On dung, soil or plant debris.
+11,0$ 11a : Hairs ± furcated at the base or stellate ; sp without guttules. $ Cheilymenia. $s"Cheilymenia."
+11,0$ 11b : Hairs not furcated ; sp with two guttules. $ Spooneromyces. $s"Spooneromyces."
+12,0$ 12a : Hymenium pink ; apothecia solitary or in troops, 0.5-1 cm broad, disc-shaped to cup-shaped ; outside whitish, covered by a dense mat of short, white, flexuose hairs. Sp fusoid, 33-46 x 10-16.5 µm, with guttules. On soil or debris. $ Rhodoscypha. $s"Rhodoscypha."
+12,13$ 12b : Hymenium yellowish, orange or red. Sp ellipsoid.
+13,14$ 13a : Hairs slender, like hyphae, obtuse or pointed.
+13,15$ 13b : Hairs thick-walled, pointed.
+14,0$ 14a : Apothecia cup-shaped, 0.2-1.5 cm broad ; hymenium orange or reddish, margin distinct, narrow ; outside with pointed, narrow, whitish hairs. Sp ellipsoid, ornamented or smooth, with guttules. On sandy soil together with Polytrichum or with Funaria on burnt ground. $ Neottiella. $s"Neottiella."
+14,0$ 14b : Apothecia first hemispheric, subimmersed, then disc-shaped, 0.3-1.5 cm broad ; hymenium pale orange or dirty yellowish, margin distinct ; outside with obtuse, short, whitish hairs. Sp ellipsoid to fusoid, with guttules. On naked clayey or calcareous soil. $ Pustularia patavina.
+14,0,N$ See Tarzetta.
+15,0$ 15a : On dung. Hairs non-septate, thick-walled, pointed ; apothecia 0.2-1 mm broad, turbinate to disc-shaped, yellowish or reddish. Sp ellipsoid, smooth, with gelatinous coating, without guttules. $ Lasiobolus. $s"Lasiobolus."
+15,0$ 15b : On dung, soil or plant debris. Hairs septate, whitish or brownish ; apothecia 0.5-1.5 cm broad, disc-shaped, margin distinct. $ Cheilymenia p.p. $s"Cheilymenia p.p."
+16,17$ 16a : Hairs brownish.
+16,27$ 16b : Hairs whitish.
+17,0$ 17a : Hairs rooting, developing from cells in medullary excipulum. $ Scutellinia p.p. $s"Scutellinia p.p."
+17,18$ 17b : Hairs developing from cells in outer excipulum.
+18,0$ 18a : Apothecia first hypogeous, globose and closed, then splitting in irregular rays, cup-shaped, rarely expanding to disc-shaped, sunken, with margin at soil level ; outside covered by flexuose, brownish hairs. Sp ellipsoid, smooth, with guttules. $ Geopora. $s"Geopora."
+18,19$ 18b : Apothecia epigeous.
+19,20$ 19a : Hairs projecting, pointed or blunt.
+19,25$ 19b : Hairs appressed, short or long, straight or flexuose.
+20,0$ 20a : Sp globose. Apothecia turbinate to disc-shaped, 0.2-0.6 cm broad ; margin distinct ; hymenium brownish ; outside brown, covered by short, brownish pointed hairs. On burnt ground or clayey soil. $ Sphaerosporella. $s"Sphaerosporella."
+20,21$ 20b : Sp subglobose, ellipsoid or fusoid.
+21,22$ 21a : Sp with guttules.
+21,23$ 21b : Sp without guttules.
+22,0$ 22a : Apothecia deeply cup-shaped, rarely disc-shaped, 0.5-3 cm broad ; hymenium greyish to greyish yellow, sometimes with pink tinge ; outside covered with stiff, brownish, multiseptate hairs. Sp ellipsoid, ornamented, with two guttules. On rich soil. $ Humaria. $s"Humaria."
+22,0$ 22b : Apothecia disc-shaped to low cup-shaped, 0.2-1.2 cm broad, hymenium greyish white ; outside with scattered hyaline or brownish hairs or groups of hairs. Sp subglobose, ellipsoid or fusoid, smooth or ornamented. On soil or burnt ground. $ Trichophaea. $s"Trichophaea."
+23,0$ 23a : Hairs long, stiff, some bifurcate with one downward pointing branch, outer excipulum cells in vertical rows. Apothecia 0.5-3 mm broad, turbinate to disc-shaped, margin distinct ; hymenium whitish. Sp smooth. On cow-dung, soil or plant debris. $ Trichophaeopsis. $s"Trichophaeopsis."
+23,24$ 23b : Hairs simple, outer excipulum cells not in rows.
+24,0$ 24a : Apothecia broadly sessile, partially sunken in the substrate ; hairs only marginal. Excipulum distinctly 2-layered with relatively uniform thickness ; sp almost filling the ascus. $ Tricharina. $s"Tricharina."
+24,0$ 24b : Apothecia sessile, centrally attached ; hairs marginal and all over the outside. Sp in upper half of the ascus only. $ Wilcoxina. $s"Wilcoxina."
+25,0$ 25a : Sp without guttules, ellipsoid, smooth or rarely delicately ornamented. Hymenium whitish, yellowish grey or pale ochraceous to darker brownish. $ Pseudombrophila. $s"Pseudombrophila."
+25,26$ 25b : Sp with guttules, ± ellipsoid, ornamented or smooth.
+26,0$ 26a : Hymenium dark brown with violet tinge ; apothecia sessile, disc-shaped, 0.3-2.5 cm broad ; outside tomentose, with flexuose hairs. Sp ornamented. Usually in association with the orange Byssonectria terrestris. $ Nannfeldtiella. $s"Nannfeldtiella."
+26,0$ 26b : Hymenium greyish brown or dark brownish ; apothecia 0.2-1.2 cm broad, sessile, disc-shaped, gregarious; outside with short, straight, appressed hairs. Sp smooth, with two guttules. On burnt ground. $ Anthracobia. $s"Anthracobia."
+27,0$ 27a : On dung. Apothecia subimmersed, globose or subglobose, whitish or pale yellowish brown, 0.2-0.5 mm broad ; hairs stiff, pointed, 1-10 septate. With one to 3 asci each containing 1500-1700 sp. $ See Trichobolus.
+27,0$ 27b : On acid soil. Apothecia superficial, disc-shaped, white all over, 0.2-1 cm broad ; hairs white, multiseptate. Asci with 8 fusoid, ornamented sp. $ Leucoscypha. $s"Leucoscypha."
+28,29$ 28a : Hymenium yellowish, orange, pink or red.
+28,45$ 28b : Hymenium whitish, greyish, ochraceous, brown or purplish.
+29,30$ 29a : Apothecia membranous or pulvinate to disc-shaped, margin indistinct or lacking.
+29,38$ 29b : Apothecia disc-shaped, cup-shaped or ear-shaped.
+30,0$ 30a : On burnt ground or on otherwise sterilized soil. Apothecia densely gregarious on whitish mycelium, turbinate to pulvinate, 1-2 mm broad ; hymenium pink or reddish. Sp ellipsoid, smooth, without guttules. $ Pyronema. $s"Pyronema."
+30,31$ 30b : On soil, limestone, dung, plant debris or wood.
+31,32$ 31a : On soil or limestone.
+31,33$ 31b : On dung, plant debris or wood.
+32,0$ 32a : Sp globose or ellipsoid, with guttules ; paraphyses filiform, curved above. Apothecia 0.2-1 cm broad ; hymenium yellowish, orange or red. $ Pulvinula p.p. $s"Pulvinula p.p."
+32,0$ 32b : Sp ellipsoid, with many guttules (“spumose”) ; paraphyses straight. Apothecia 1-2 mm broad ; hymenium yellowish orange. $ Kotlabaea. $s"Kotlabaea."
+33,34$ 33a : On dung.
+33,36$ 33b : On plant debris or wood.
+34,0$ 34a : Sp ellipsoid, very delicately longitudinally striate (oil imm.) ; paraphyses stout, enlarged above to 12-15 µm broad. Apothecia 0.2-1 cm broad, hymenium orange ; outside yellowish white, furfuraceous. $ Coprobia. $s"Coprobia."
+34,35$ 34b : Sp ellipsoid, smooth ; paraphyses slender, straight or curved above.
+35,0$ 35a : Sp with conspicuous de Bary bubbles ; paraphyses straight, filiform or curved above. Apothecia yellow or orange, pulvinate to disc-shaped, 0.1-1 mm broad. $ Coprotus p.p. $s"Coprotus p.p."
+35,0$ 35b : Sp without de Bary bubbles ; paraphyses straight, enlarged above. Apothecia yellow or yellowish brown, pulvinate to disc-shaped, 0.05-1 mm broad. $ See Thelebolus.
+36,0$ 36a : Apothecia on plant debris and leaves, in places where animals urinate, in Norway, Sweden and Finland often associated with Nannfeldtiella. Apothecia gregarious on a whitish mat of mycelium (subiculum), 0.5-3 mm broad ; hymenium orange ; outside glabrous. Sp fusoid with guttules, smooth. $ Byssonectria. $s"Byssonectria."
+36,37$ 36b : Apothecia on wood or soil.
+37,0$ 37a : Apothecia pulvinate, 0.5-1 cm broad, yellowish, orange or ochraceous. Sp broadly ellipsoid, verruculose, with many guttules. On wet wood. $ Miladina p.p. $s"Miladina p.p."
+37,0$ 37b : Apothecia thin, membranous, 0.3-1.2 cm broad, brownish red, paler towards the margin, which is orange or greenish yellow in young specimens. Sp ellipsoid, smooth without guttules. $ See Karstenella.
+38,0$ 38a : Apothecia split down on one side or ear-shaped, sessile or stipitate, yellow, ochraceous, orange or pink, whitish near the pubescent base of stem. Sp ± ellipsoid, with two guttules, smooth ; paraphyses often hooked. $ Otidea p.p. $s"Otidea p.p."
+38,39$ 38b : Apothecia disc-shaped or cup-shaped.
+39,0$ 39a : Apothecia with ± rooting stem, fulvous, orange, yellow or greenish yellow, low cup-shaped, 0.5-5 cm broad ; stem 1-5 cm long, encrusted with debris. Sp ellipsoid, ornamented. $ Sowerbyella. $s"Sowerbyella."
+39,40$ 39b : Apothecia sessile, yellowish, orange, pink or red.
+40,41$ 40a : Sp globose or subglobosse.
+40,42$ 40b : Sp ellipsoid or fusoid.
+41,0$ 41a : Apothecia cup-shaped, 0.5-4 cm broad ; hymenium orange ; outside olivaceous orange, often blue-tinged ; greenish or bluish all over when touched. Sp smooth. $ Caloscypha. $s"Caloscypha."
+41,0$ 41b : Apothecia disc-shaped, 1-2 mm broad ; hymenium yellow, orange or red, margin distinct, dentate or fimbriate. Sp ornamented. $ Lamprospora. $s"Lamprospora."
+42,0$ 42a : Apothecia cup-shaped, pink, 0.5-1.2 cm broad. Sp ellipsoid, smooth, with 2 guttules. On burnt ground. $ Rhodotarzetta. $s"Rhodotarzetta."
+42,43$ 42b : Apothecia yellowish, orange or reddish. On soil or mosses.
+43,0$ 43a : Paraphyses above spirally curved. $ Boubovia. $s"Boubovia."
+43,44$ 43b : Paraphyses above straight or slightly curved.
+44,0$ 44a : Sp smooth or ornamented, with guttules. Apothecia disc-shaped or cup-shaped, 0.1-1 cm broad ; margin membranous, often dentate or fimbriate. Often together with mosses. $ Octospora. $s"Octospora."
+44,0$ 44b : Sp regularly reticulate or with prominent ridges, with two guttules. Apothecia disc-shaped or deeply cup-shaped, 1-12 cm broad. Often on naked soil. $ Aleuria. $s"Aleuria."
+45,46$ 45a : Apothecia globose, turbinate, pulvinate or disc-shaped.
+45,55$ 45b : Apothecia cup-shaped or ear-shaped.
+46,47$ 46a : On dung.
+46,50$ 46b : On soil or wood.
+47,0$ 47a : Sp broadly ellipsoid, subglobose or globose, with brown ornamentation. Apothecia whitish, pulvinate to globose, very simple, without excipulum cells, 0.08-0.18 mm broad. $ Ascodesmis. $s"Ascodesmis."
+47,48$ 47b : Sp ellipsoid or fusoid, hyaline, smooth.
+48,0$ 48a : Apothecia turbinate, white, 0.1-0.3 mm broad ; outside furfuraceous. Asci opening by a split down to an annular thickening near the apex, with 8 to 128 fusoid sp. Winter and early spring. $ See Ascozonus.
+48,49$ 48b : Apothecia globose to pulvinate, white, yellow or brown, with 8 to 2500 sp in asci.
+49,0$ 49a : Apothecia subglobose and subimmersed or disc-shaped and superficial, yellowish to brownish, 0.1-1 mm broad. Asci cylindric to almost globose, with 8-2500 sp, with operculum or rupturing down to a ring-like thickening below apex ; sp ellipsoid, without de Bary bubbles. $ See Thelebolus.
+49,0$ 49b : Apothecia pulvinate to disc-shaped, superficial, white, greyish, yellow, orange, 0.1-1 mm broad. Asci cylindric to club-shaped, with 8-256 sp, operculate ; sp ellipsoid, with de Bary bubbles. $ Coprotus p.p. $s"Coprotus p.p."
+50,51$ 50a : On soil.
+50,54$ 50b : On wood.
+51,52$ 51a : Apothecia white or whitish.
+51,53$ 51b : Apothecia purplish or violet.
+52,0$ 52a : Sp globose, smooth. Apothecia white, pulvinate to disc-shaped, 0.5-2 mm broad. $ Pulvinula p.p. $s"Pulvinula p.p."
+52,0$ 52b : Sp ellipsoid, thick-walled, with semiglobose warts. Apothecia whitish, pulvinate, 0.3-0.6 mm broad. $ Chalazion. $s"Chalazion."
+53,0$ 53a : Sp globose, smooth or with warts or ridges. Apothecia disc-shaped, 3-6 mm broad. $ Marcelleina. $s"Marcelleina."
+53,0$ 53b : Sp ellipsoid to fusoid, coarsely ornamented with rounded warts. Apothecia disc-shaped, 0.5-2 cm broad. $ Smardaea. $s"Smardaea."
+54,0$ 54a : Apothecia pulvinate, 0.5-1 cm broad, yellowish, orange or ochraceous. Sp broadly ellipsoid, verruculose, with many guttules. On wet wood (Pachyella (Pezizaceae) with non-amyloid asci will key out here). $ Miladina p.p. $s"Miladina p.p."
+54,0$ 54b : Apothecia thin, membranous, 0.3-1.2 cm broad, brownish red, paler towards the margin, which is irange, or greenish yellow in young specimens. Sp ellipsoid, smooth, without guttules. $ See Karstenella.
+55,0$ 55a : On burnt ground. Apothecia regular, substipitate, 0.5-1.2 cm broad, ochraceous to greyish brown, with yellowish white margin. Sp ellipsoid, smooth, without guttules. $ Geopyxis. $s"Geopyxis."
+55,56$ 55b : On soil.
+56,0$ 56a : Apothecia eccentric, split down on one side or ear-shaped, rarely cup-shaped, sessile or stipitate, yellow, ochraceous with pink tinge, or brownish to olivaceous, whitish near the pubescent base of the stem. Sp ellipsoid, with two guttules, smooth ; paraphyses often hooked. $ Otidea p.p. $s"Otidea p.p."
+56,57$ 56b : Apothecia cup-shaped.
+57,0$ 57a : Apothecia stipitate, whitish to cream, 0.5-1.5 cm broad, margin crenate ; outside furfuraceous. Asci bifurcate at the base ; sp broadly ellipsoid, smooth, when mature with one large guttules. $ Arpinia. $s"Arpinia."
+57,0$ 57b : Apothecia sessile or stipitate, hymenium yellowish grey, greyish or pale ochraceous, 0.2-4 cm broad, margin crenate ; outside furfuraceous, concolorous with or slightly darker than hymenium. Sp ellipsoid, smooth, with two large guttules. $ Tarzetta p.p. $s"Tarzetta p.p."
+58,0$ 58a : Sp smooth, globose. $ Stephensia. $s"Stephensia."
+58,0$ 58b : Sp verrucose, broadly ellipsoid. $ Genea. $s"Genea."
+
+CS21,0$ Sarcoscyphaceae LE GAL ex ECKBLAD
+
+1,0$ 1a : Apothecia disc-shaped, orange, 0.2-1.2 cm broad, sessile or subsessile. Sp globose. On needles, twigs or branches of coniferous trees. $ Pithya. $s"Pithya."
+1,2$ 1b : Apothecia scarlet or reddish pink. Sp large, ellipsoid. On ± buried twigs or branches of deciduous trees.
+2,0$ 2a : Apothecia deeply cup-shaped, scarlet, 1-4 cm broad, stem 0-2 cm high. Asci maturing individually. $ Sarcoscypha. $s"Sarcoscypha."
+2,0$ 2b : Apothecia urnulate, reddish pink, 1-1.8 cm broad, stem 2-5 cm long, rooting, sometimes branching. Asci maturing simultaneously. $ Microstoma. $s"Microstoma."
+
+CS22,0$ Sarcosomataceae KOBAYASI
+
+1,0$ 1a : Apothecia heavy, globose to broadly cylindric ; hymenium dark brown to black ; excipulum very thick, inside gelatinous. $ Sarcosoma. $s"Sarcosoma."
+1,2$ 1b : Apothecia disc-shaped, cup-shaped or urniform ; excipulum thin, not gelatinous.
+2,0$ 2a : Hymenium whitish with dark brown dots ; apothecia disc-shaped to turbinate, 1-3 mm broad. On old needles of conifers. $ Desmazierella. $s"Desmazierella."
+2,3$ 2b : Hymenium dark brownish to black	3.
+3,0$ 3a : Apothecia urnulate to infundibuliform, sessile or distinctly stipitate. Sp ellipsoid, hyaline, smooth, without guttules. $ Urnula. $s"Urnula."
+3,4$ 3b : Apothecia cup-shaped or disc-shaped. Sp ellipsoid, ornamented and with guttules, or globose.
+4,0$ 4a : Hymenium dark brown with violet tinge ; apothecia disc-shaped, 0.3-1 cm broad, outside tomentose, brown. Sp ellipsoid. In associations with the orange Byssonectria terrestris. $ See Nannfeldtiella.
+4,5$ 4b : Hymenium dark brown. On needles or twigs of coniferous trees, or on Sphagnum tufts.
+5,0$ 5a : Apothecia deeply cup-shaped, sessile, 0.5-1.5 cm broad ; hymenium dark brown, outside concolorous, above covered by rust red scales. Sp ellipsoid. $ Plectania. $s"Plectania."
+5,0$ 5b : Apothecia cup-shaped to disc-shaped, sessile or stipitate, 0.5-6 cm broad ; hymenium dark brown to black, outside black. Sp globose. $ Pseudoplectania. $s"Pseudoplectania."
+
+CS23,0$ Tuberaceae DUMORT.
+
+1,0$ 1a : Asci 8-spored. Frb often large, whitish to beige. $ Choiromyces. $s"Choiromyces."
+1,0$ 1b : Asci 1-4-(7)-spored. Frb often small or dark coloured. $ Tuber. $s"Tuber."
+
+CS24,0$ Phyllachorales BARR - Phyllachoraceae THEISS. & SYD.
+
+1,0$ 1a : Stromata elongate, 2-3 mm long, on living leaves of grasses and herbs, shining black ; perithecia erumpent through the epidermis of the leaf. $ Phyllachora. $s"Phyllachora."
+1,0$ 1b : Stromata forming 2-10 mm broad, yellowish reddish areas on living leaves of trees and herbs ; perithecia developing in the darkened stroma on fallen leaves. $ Polystigma. $s"Polystigma."
+
+CS25,0$ Rhytismatales M.E.BARR ex MINTER - Rhytismataceae CHEVALL.
+
+1,0$ 1a : Apothecia immersed in wood of deciduous trees ; hymenium white, pruinose, exposed by rupturing of epidermis or bark. $ Propolis. $s"Propolis."
+1,2$ 1b : Apothecia in dark brownish to black stroma on leaves	2.
+2,0$ 2a : Only one apothecium in a dark brown, thin, circular or angular stroma, opening by many fine rays. $ Coccomyces. $s"Coccomyces."
+2,0$ 2b : Several lineate, wrinkled apothecia in a common, shining, rounded, black stroma. $ Rhytisma. $s"Rhytisma."
+
+CS26,0$ Xylariales NANNF. - Xylariaceae TUL. & C.TUL. ex WINTER
+
+1,2$ 1a : Perithecia immersed in well developed stromata or scanted on cord- or thread-like structures ; the stromata may be greatly reduced in some species.
+1,11$ 1b :  On dung or perithecia superficial, free, or immersed in plant tissues, with a subiculum or beneath a clypeus or a rudimentary stroma.
+2,3$ 2a : Stromata stipitate, clavate, strap-like or thread-like, often forked especially at the apices.
+2,5$ 2b : Stromata sessile, globose, hemispheric, discoid, orbicular, or effused.
+3,0$ 3a : Perithecia not confined to the apex ; stromata with thin brown to black ectostromal crust, flesh remaining white or at least light coloured. $ Xylaria. $s"Xylaria."
+3,4$ 3b : Perithecia clustered at the apex of stipitate stromata.
+4,0$ 4a : Upper surface of stroma white or pale ; perithecia embedded in a flat disc. $ Poronia. $s"Poronia."
+4,0$ 4b : Stromatal surface brown or black ; perithecia clustered at the apex of stipitate stromata which are rooted in dung or well manured soil. $ Podosordaria. $s"Podosordaria."
+5,0$ 5a : Entostroma with conspicuous concentric zonation ; stromata often almost globose. $ Daldinia. $s"Daldinia."
+5,6$ 5b : Entostroma not conspicuously zonate ; stromata of variable size, rarely massive.
+6,0$ 6a : Entostroma white and fleshy when young, collapsing and very brittle when mature. $ Ustulina. $s"Ustulina."
+6,7$ 6b : Entostroma pale brown or black when young and at maturity, not collapsing even when old.
+7,0$ 7a : Entostroma pale, composed of both host and fungus tissue, perithecia seated in its base, often with long ostiole necks. $ Biscogniauxia. $s"Biscogniauxia."
+7,8$ 7b : Entostroma dark brown or black or red immediately below the surface, composed of fungal tissue only, perithecia inserted in layer just below surface of stromata, ostiole necks short.
+8,0$ 8a : Sp with a short, distinct, ellipsoid germ slit. $ Euepixylon. $s"Euepixylon."
+8,9$ 8b : Sp with a short or long longitudinal germ slit.
+9,0$ 9a : Stromata 0.5-1 cm in diam., in circular or semicircular groups in the host bark, with 1-10(-30) angularly demarcated perithecia in each stroma. $ Entoleuca. $s"Entoleuca."
+9,10$ 9b : Stromata about 1 mm thick, mostly on wood, effused or in spots.
+10,0$ 10a : Ascus-apparatus cylindric hat-shaped (seen in Melzer solution) ; sp with ventral germ slit if present, without loosening epispore. Frb without extractable pigments (put on 10% KOH on piece of frb on white paper) ; anamorph Geniculosporium. $ Nemania. $s"Nemania."
+10,0$ 10b : Ascus-apparatus broader than high ; sp with dorsal germ slit, often with loosening epispore. Frb with extractable pigments ; anamorph Nodulosporium. $ Hypoxylon. $s"Hypoxylon."
+11,12$ 11a : On dung.
+11,13$ 11b : Perithecia not in or on dung.
+12,0$ 12a : Stromata prominent, ( covering the dung. Sp without gelatinous coating. $ Wawelia. $s"Wawelia."
+12,0$ 12b : Stromata reduced, ( immersed in the dung. Sp with a gelatinous coating. $ Hypocopra. $s"Hypocopra."
+13,0$ 13a : Perithecia superficial on wood or bark, or on herbaceous stems, often on a subiculum. $ Rosellinia. $s"Rosellinia."
+13,14$ 13b : Perithecia embedded in plant tissue.
+14,0$ 14a : Perithecia in small clusters in bark, with convergent ostiole necks. $ Lopadostoma. $s"Lopadostoma."
+14,0$ 14b : Perithecia solitary or barely coalescing, often beneath a thin clypeus. $ Anthostomella. $s"Anthostomella."

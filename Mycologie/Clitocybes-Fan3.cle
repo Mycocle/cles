@@ -1,0 +1,75 @@
+titre$ CLITOCYBE- FAN 3
+com$cf FLORA AGARICINA NEERLANDICA 3  adapt GF 06/2011
+rem$
+1,50$ bibliographie
+1,2$Pileus hygrophanous, pallescent on drying, with or without aeriferous (givré) covering. 
+1,23$Pileus not hygrophanous, not or only slightly pallescent on drying; without aeriferous covering. 
+2,0$Pileipellis with inftated elements (physalids, intercalary cystidia); smell of smelt. $C. phaeophthalma
+2,3$Pileipellis without such elements; smell different. 
+3,10$Pileus without aeriferous covering (except at extreme margin). 
+3,4$Pileus with aeriferous covering (givré). 
+4,0$Lamellae grey; spores very small (3.0-4.0 x 2.5-3.5 um) $C. ditopa 
+4,5$Lamellae whitish to pale crearn; spores larger. 
+5,6$Spore print pinkish cream; spores in exsiccates in tetrads. 
+5,7$Spore print white to cream. (without pink tinge); spores in exsiccates predominantly single. 
+6,0$Pileus large (20-95 mm); lamellae broadly adnate; smell herbaceous $C. phyllophila 
+6,0$Pileus medium (12-47 mm); lamellae decurrent; smell of aniseed $C. albofragrans 
+7,8$Lamellae very crowded; smell pungent, herbaceous-acidulous; in forests. 
+7,9$Lamellae less crowded; smell sweetish or farinaceous; usually outside forests between grasses. 
+8,0$Spores ellipsoid to oblong; terrestrial. . $C. candicans 
+8,0$Spores subglobose to broadly ellipsoid; on wood. . $C. tnmcicola 
+9,0$Smell farinaceous; stipe longer than diameter of pileus $C. augeana 
+9,0$Smell sweetish or indistinct; stipe shorter than diameter of pileus $ C. rivulosa 
+10,14$smell and taste not rancid-farinaceous
+10,11$Smell and taste rancid-farinaceous. 
+11,0$Spores small, subglobose (3.0-4.0 x 2.5-3.5 um). $ C. ditopa 
+11,12$Spores larger (more than 4.5 um long), ellipsoid. 
+12,0$Pileipellis an ixocutis with distinctly incrusting pigment; in dune grassland $C. barbularum 
+12,13$Pileipellis a (gelatinised) cutis with minutely incrusting pigment; in forests, heathlands, etc. 
+13,0$Lamellae broadly adnate, ochraceous with olivaceous tinge. . $C. foetens 
+13,0$Lamellae decurrent, grey to grey-brown $C. vibecina 
+14,15$Spores on average 4.5-5.5 x 3.0-3.5 um 
+14,19$Spores on average 5.5-9.0 x 3.5-4.5 um. 
+15,0$Spore print white $C. subcordispora 
+15,16$Spore print crearn to orange cream. 
+16,0$Spores acyanophilous, in exsiccates single; on wood. $C. subbulbipes 
+16,17$Spores cyanophilous, in exsiccates in tetrads; on leaf and needle litter. 
+17,0$Pileus not striate, with reddish or pinkish tinge. . $C. diatreta 
+17,18$Pileus translucently striate, without pinkish or reddish tinges. 
+18,0$Pileus unicolorous, pale isabella or cream. $ C. agrestis 
+18,0$Pileus with yellow-brown to brown centre and paler outer part. $C. marginella 
+19,0$Smell strong, of aniseed $C. fragrans 
+19,20$smell different. 
+20,0$Lamellae and pileus with bright pink tinges; smell oftomato leaves $  C. boughtonii
+20,21$Lamellae without bright pink tinges; smell different. 
+21,0$Pileipellis with incrusting pigment; pileus with subinvolute margin $C. metachroides 
+21,22$Pileipellis without incrusting pigment; pileus with straight margin. 
+22,0$Spore print cream; stipe unicolorous; on dung, ruderal places, etc $C. amarescens 
+22,0$Spore print white; stipe towards base darkening to dark grey-brown; in forests. . $C. metachroa 
+23,24$Spores lacrymoid, with confluent base: pileus infundibuliform. 
+23,28$Spores not lacrymoid, with obtuse to acute base; pileus convex to depressed. 
+24,0$Pileus large (to 160 mm); stipe stout (13-20 mm); spores subglobose $C. geotropa 
+24,25$Pileus smaller (to 80 mm); stipe less stout (3-8 mm); spores ellipsoid to oblong. 
+25,0$Stipe whitish; pileipellis in exsiccate not darkening in KOH $C. gibba 
+25,26$Stipe concolorous with pileus, isabella, brown or reddish brown; pileipellis dark brown with KOH. 
+26,0$Pileus red to red-brown $C. glareosa 
+26,27$Pileus isabella to greyish brown. 
+27,0$Pileipellis a cutis; margin ofpileus often costate $C. costata 
+27,0$Pileipellis a trichoderm, especially in the centre; pileus squamulose, at margin never costate.$ C. squamulosa 
+28,0$smell strong, of aniseed $C. odora 
+28,29$Smell not of aniseed. 
+29,0$Spore print deep ochraceous; lamellae very crowded $ C. nebularis 
+29,30$Spore print white to pale cream; lamellae crowded to subdistant. 
+30,31$Stipe with conspicuous rhizoids. 
+30,32$Stipe without conspicuous rhizoids. 
+31,0$Spores ellipsoid; pileus infundibuliform, red-brown; smell farinaceous. . $ C. sinopica 
+31,0$Spores fusiform; pileus applanate, greyish brown; smell not farinaceous $  C. inornata 
+32,0$Taste very bitter; spores cyanophilous $Pseudoomphalina pachyphylla 
+32,33$Taste not bitter; spores acyanophilous. 
+33,0$Pileus pale pinkish buff; lamellae narrow, often furcate. . $C. subalutacea 
+33,34$Pileus darker, isabella-brown ta dark grey-brown: lamellae not furcate. 
+34,0$Pileus isabella-brown; lamellae adnexed to decurrent. $C. alexandri 
+34,35$Pileus dark grey to dark brown; lamellae deeply decurrent. 
+35,0$Pileus brown; lamellae cream; smell sweet. $C. clavipes
+35,0$Pileus grey-brown; lamellae white; smell farinaceous. .. $C. trullaeformis 
+50,0$ FAN 3, page 42. Version simplifiée de la clé de THOMAS W KUYPER///SELECTED LITERATURE - Harm. in Karstenia 10: 1-168. 1969; H. Bigelow in Clémençon, Spec. Concept Hymenomyc.: 105-121.1977; H. Bigelow in Beih. Nova Hedwigia 72: 1-180. 1982; H. Bigelow in Beih. Nova Hedwigia 81: 281-521.1985;Kuyp., Clitocybe subgenus Pseudo1yophyllum: 1-126. 1982; C1émençon in Beih. Z. Mykol. 5: 1-68. 1984; Sing., Agaricales modo Taxon., Ed. 4: 236-247.1986.

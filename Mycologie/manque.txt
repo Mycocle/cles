@@ -1,0 +1,25 @@
+fichiers manquants  :
+Pholiotina vexans - Pholiotina - Forum di Micologia AMB Gruppo di Muggia e del Carso	???
+
+ f"Pholiotina_FlNord.cle"  		 
+
+ f"Zschieschang_Conocybe_fig.pdf"
+
+
+
+remarque  :
+s'agissant des documents liés (jpg, pdf ), ma règle est que la base du nom du fichier est celle de la clé, pour simplifier la mise au point et
+
+ex si truc.cle
+ fichiers lies
+truc1.pdf
+truc1.jpg
+truc2.jpg etc ...
+
+.
+ pbs divers
+
+
+Lepiotes hymeniforme_Vellinga_Huijser 1998.cle
+
+il y a des notes peu cohérentes à la fin

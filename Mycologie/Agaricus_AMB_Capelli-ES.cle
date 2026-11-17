@@ -1,0 +1,188 @@
+titre$Clave del género AGARICUS (CHIAVE PER LA DETERMINAZIONE DELLE SPECIE EUROPEE)
+
+rem$ titre$ version Espagnole de AGARICUS/CHIAVE PER LA DETERMINAZIONE DELLE SPECIE EUROPEE
+com$A.M.B. Centro Studi Micologici /version Espagnole, trad ? / adapt GF janv 2010
+
+1,2 $A. Especie con carne que enrojece más o menos al corte. Superficie no amarillea al roce (por regla general), olor acídulo fresco pero no a almendras o fenol. RS-.
+1,4 $b Especie con superficie que amarillea al roce, olor similar a almendras o fenol, no enrojece al corte. RS ±.
+2 ,cs1 $aEspecie con anillo ínfero (se puede quitar tirando de arriba abajo), crecen fuera del bosque (por regla general).$CS11$s"Sección BITORQUES"
+2,3 $b Características diferentes.
+3 ,cs2$A. Especie con anillo súpero, crece generalmente fuera del bosque, carne enrojece ligeramente al corte.$CS 1.2$s"Sección AGARICUS."
+3 ,cs3$b Especie con anillo generalmente súpero, crecen generalmente en el bosque, carne enrojecemucho al corte.$CS1.3$s"Sección SANGUINOLENTI."
+4 ,cs4$A. Especie con olor similar a almendras, de talla no pequeña, diámetro del sombrero de más de 56 cm, RS +.$CS1.4$s"Sección ARVENSES"
+4,5 $b Especie con olor similar a fenol, o si huele a almendras de talla menor de 5-6 cm.
+5 ,cs5$A. Especie con olor similar a almendras, RS+.CS1.5$s"Sección MINORES"
+5,cs6 $b Especie con olor similar a fenol, carne amarillea en la base del pie al corte, a menudo con cordón miceliar, RS-. $cs1.6$s"Sección XANTHODERMATEI"
+
+cs1,0$Sección BITORQUES
+1,2 $A. Pie con anillo inferior doble, de los cuales uno, el más bajo, puede estar disociado en escamas
+1,5 $b Pie con un solo anillo infero carnoso y con forma de pulpa, o formando una pseudo-volva basal membranosa simple.
+2,0 $A. Con dos anillos inferiores muy evidentes, membranoso de talla media, porte grueso, que crece generalmente al borde de parques o de carreteras, etc, de centros habitados; sombrero blanco o blanquecino, liso, con margen enrollado sobre sí mismo. Láminas con borde estéril más pálido. Pie blanquecino, corto y robusto con la base atenuada, carne que vira ligeramente al rosa o rojo vinoso. Olor fúngico también algo anisado. Esporas de 5-6 x 4-5 mm, queilocistidios ampliamente clavados. RS- $A. bitorquis
+2,3 $Si la carne es muy espesa y vira al rojo vinoso muy pronunciado, variedad validus 2 b Con un anillo ínfero muy evidente y uno disociado
+3,0 $A. Especie medio pequeña de porte no grueso, bastante fino y esbelto, creciendo en terrenos salados cerca del mar, sombrero liso blanco o blanquecino, margen ligeramente involuto con láminas excedentes, casi siempre cubierto de arena, carne poco rojiza, olor ligero agradable. Esporas de 5-6 x 4-5 mm, queilocistidios claviformes. RS -. $A. devoniensis
+3,4 $b Especie medio grande de porte grueso
+4,0 $A. Sombrero blanquecino, pronto marrón-rojizo-grisáceo profundamente agrietado, crece en prados, generalmente cerca del mar. Margen fuertemente involuto. Pie corto, grueso, carne que enrojece muy vivamente cerca de la unión entre el sombrero y el pie. Olor agradable a pescado. Esporas de 5.5-7 x 5-5.5 mm. Queilocistidios claviformes flexuosos. RS -. $A. bernardii.
+4,0,n $Si el velo tiene estructura algodonosa no membranosa, la carne no enrojece y el olor es débil se confunde con A. bernardiformis.///Si no presenta queilocistidios, con carne que enrojece menos y olor de lepiota cristata se confunde con A. robynsianus. 
+4,0 $b Sombrero alutáceo o de color arcilla ya en los ejemplares jóvenes, con delicadas escamas fibillosas, creciendo bajo árboles, setos, jardines, etc. Margen involuto. Pie ligeramente acuminado, casi fusiforme. Carne que vira al rojo, de olor nauseabundo a pescado. Esporas de 5.5-7.5 x 4.5-5.5 mm. Queilocistidios claviformes flexuosos. RS -. $A. maleolens.
+5,0 $A. Anillo en la zona mediana, carnoso-pulposo, de talla media. Crece en terrenos cultivados, sombrero pardo-grisáceo pálido, escuamoso-fibriloso hacia el margen. Láminas rosas. Pie cilíndrico con base engrosada, carne dura, que vira al rojo-vinoso. Basidios bispóricos. Esporas de 5-7 x 4.5-5.5 mm. Queilocistidios claviformes. RS -. $A. bisporus
+5,0,n $ Si el sombrero blanco, carne más tierna y que enrojece menos. Talla generalmente inferior, variedad albidus.
+5,0,n $Si el sombrero blanco, carne más tierna y que enrojece menos. Talla generalmente inferior, variedad albidus. 
+5,6 $b Anillo basal que forma una pseudovolva membranosa
+6,0 $A. Especie de talla medio-pequeña, generalmente en terrenos arenosos pero incluso en invernaderos. Sombrero blanco o un poco ocráceo, seríceo. Pie cilíndrico con base atenuada, escamoso sobre la pseudovolva. Carne blanca casi inmutable, olor a orín. Esporas de 7-10 x 5-5-7 mm. Queilocistidios cilíndrico-claviformes. RS -. $A. gennadii
+6,0 $Especie de talla medio-pequeña, generalmente en terrenos arenosos pero incluso en invernaderos. sombrero blanco esfumado de violáceo o de rosa. Pie cilíndrico con base atenuada, escamoso sobre la pseudovolva. la carne vira rápidamente al rojosangre al corte. Esporas de 7-10 x 5-5-7 mm. Queilocistidios cilíndrico-claviformes. RS -. $A. volvatus.
+
+6,0 $b Especie de talla grande y porte robusto. Crece en lugares cerrados y abiertos. sombrero blanco esfumado de violáceo o de rosa y la carne vira rápidamente al rojosangre al corte,centro deprimido y margen involuto. Pie muy robusto, ventricoso, sobre la pseudovolva recubierto de escamas transversales gris -púrpura. La carne enrojece. Olor agradable. Esporas de 6-7 x 5-6 mm. Queilocistidios claviformes. RS -. $A. pequinii.
+
+cs2,0$Sección AGARICUS.
+
+1,2 $A. Especies con bordes de las láminas fértiles, concoloros a la cara de la lámina .
+1,6 $b Especies con bordes de las láminas estériles, pálidos, con queilocistidios. Residuos rojizos del velo general sobre el pie.
+2,0 $A. Pie con base un poco bulbosa y que amarillea, robustecida con un robusto cordón miceliar. Sombrero rojizo, grisáceo fuliginoso, con margen blanquecino, carne rosada al corte con olor ligero, crece bajo robinia en parques y bosques. Esporas de 6-7 x 4-5 mm. RS -. $A. bresadolanus
+2,0 ,n$Si el borde de las láminas estériles es pálido, con queilocistidios, en lugares herbosos bajo latifolios, se confunde con A. romagnesi. 
+2,3 $b Pie con base no bulbosa (cilíndrico, atenuado o ventricoso) y sin cordón miceliar.
+3,4 $A. Especie blanco blanquecino con escuámulas rojizas.
+3,5 $b Especie completamente rojiza, rojizo-lila.
+4,0 $A. Carne que enrojece ligeramente al corte con ligero olor acidulado, de talla media, sombrero blanquecino, seríceo-fibrilloso, láminas rosas, pie generalmente atenuado, en los jóvenes un poco flocoso. Esporas de 7-8 x 4-5.5 mm. RS-. $A. campestris.
+4,0,n$Si el sombrero tiene escuámulas rojizas, variedad squamulosus.
+4,0 $Carne que enrojece ligeramente al corte con ligero olor acidulado, de talla media, sombrero blanquecino, seríceo-fibrilloso, láminas rosas, pie generalmente atenuado, en los jóvenes un poco flocoso. Esporas de 8-10 x 5.5-7mm, una pared más gruesa y un poro germinativo evidente$A. pampeanus
+
+
+4,0 $b Carne que enrojece ligeramente al corte con ligero olor acídulo, de talla media, cutícula blanquecina, seríceo-fibrillosa. Solo en el adulto con una gran escama en el centro. Porte que recuerda al de un licoperdon jóven. Ligeramente amarillo limón al roce. Esporas de 6-7.5 x 4.55.5 mm. RS -. $A. floccipes.
+5,0 $A. Porte no grueso. Pie cilíndrico atenuado en la base, sombrero rojizo lila -púrpura en los ejemplares jóvenes con escamosidad en relieve. Pie con resíduos helicoidales incompletos blanquecinos, ocres o rojizos. Esporas de 7-9 x 4-5 mm. RS -. $A. cupreo-brunneus.
+5,0 $b Porte grueso. Pie robusto, carnoso, ventricoso. Sombrero rojizo-porfirio, muy oscuro, radialmente fibriloso y estriado. Pie rojizo fulvastro en la base. Esporas de 5-7 x 3.5-4.5 mm. RS -. $A. porphyrocephalus.
+6,0 $A. Especie de porte robusto, talla medio grande. Cutícula marrón oscuro. A veces sin escamas en el disco. Sombrero con forma trapezoidal en los jóvenes. Pie robusto cilíndrico a atenuado. Anillo amplio. Vive cerca de prados y de inmundicia. Esporas de 5-7 x 3.5-4.5 mm. Queilocistidios claviformes difíciles de desprender. RS -. $A. vaporarius.
+6,0 $b Especie de talla media, cutícula rojiza a rosada con una gran escama, con una orla blanca evidente denticulada, convexo. Pie cilíndrico. Anillo sutil con doble margen, debajo hay una zona membranosa circular blanquecino-ocre-rojiza. Esporas de 6-7 x 4.5-5.5 mm. Queilocistidios claviformes. RS -. $A. subperonatus.
+
+
+cs3,0$Sección SANGUINOLENTI
+1,2 $A. Especie con pie cilíndrico y base ± bulbosa. Esporas menores de 6.5 mm
+1,6 $b Especie con pie y base no bulbosos, de formas diversas (cilíndrico, en forma de clava, o atenuado)
+2,0 $A. Pie con base un poco bulbosa que amarillea, reforzado por un cordón miceliar visible. $A. bresadolanus. Clave 1.2, 2 a
+2,3 $b Pie con base bulbosa sin cordón miceliar
+3,4 $A. En bosques de coníferas (excepcionalmente en latifolios o fuera del bosque)
+3,5 $b En bosque de latifolios
+4,0 $A. Carne que enrojece mucho al corte, olor agradable, cutícula rojiza con tonalidades muy variables, disociada fuera del disco en pequeñas escamas sobre fondo blanquecino. Anillo simple pero consistente. Esporas de 4.5-6 x 3-3.5 mm. Queilocistidios ampliamente claviformes. RS -. $A. silvaticus.
+4,0 $b Carne que no enrojece al corte, solo la zona sobre las láminas. Olor ligero similar al de la L. cristata. Cutícula rojiza oscura. Pie esbelto poco bulboso, escamoso. Esporas de 5-6 x 3-3.5 mm. Queilocistidios ampliamente claviformes. RS -. $A. impudicus.
+5,0 $A. Cutícula marrón-chocolate, no disociada o poco disociada en escamas, a menudo con pequeñas escamas pálidas esparcidas hacia el margen (residuo del velo general). Pie claramente bulboso, escamoso. Anillo doble, a menudo con fragmentos marrones hacia el borde. Carne que enrojece al corte. Esporas de 4.5-6.5 x 3-3.5 mm. Queilocistidios ampliamente claviformes. $A. haemorrhoidarius.
+5,0 $b Cutícula blanca, solo en los adultos con una ligera tonalidad marrón en el disco. De porte muy esbelto. Se mancha de rojo sangre al roce. Pie escamoso. Anillo doble. Esporas de 5-6.5 x 3.54.5 mm. Queilocistidios de claviformes a forma de pera. $A. benesi.
+6,7 $A. Especie con pie cilíndrico, en forma de clava o atenuado, con sombrero marrón, al menos en los adultos, escamoso fibriloso y esporas menores de 7.5 mm.
+6,12 $b Especie con pie cilíndrico, con sombrero más o menos marrón, escamoso o blanco puro y esporas comprendidas entre 7 y 10 mm. Especie ancha con pie cilíndrico claviforme y sombrero alutáceo (al menos en el centro), liso o solo indistintamente fibriloso.
+7,0 $A. Especie de talla medio pequeña, pie cilíndrico desnudo y anillo simple, sombrero de color avellana densamente estriado con fibras parduscas en relieve similar al pelo. Esporas de 5-7 (8) x 4-4.5 mm. Queilocistidios claviformes. RS -. $A. fusco-fibrillosus.
+7,8 $b Especie de talla media o medio grande, pie en forma de clava, atenuado o cilíndrico, decorado con escamas y anillo no simple.
+8,9 $A. Especie que crece de forma cespitosa
+8,10 $b Especie que crece de forma no cespitosa
+9,0 $A. Pie atenuado hacia la base, sombrero con cutícula marrón, areolada en el centro, fuera de éste disociada en escamas triangulares con punta más o menos erecta. Anillo doble, grande, ínfero, con la capa externa disociada en fibrillas. Esporas de 6-7 x 4.5-5.5 mm. Queilocistidios cilíndricos o. RS -. $A. bohusii.
+9,0 $b Pie cilíndrico ligeramente claviforme. Sombrero pardusco, después negruzco, con centro casi aplanado, margen apendiculado, pie poco separable con anillo corto, carnoso y frágil. Carne blanca, color azafrán al corte, que vira al rojo vino intenso después al gris. Esporas de 5.5-6.5 x 4-4.8 mm. Queilocistidios reunidos en cortas cadenas con parte terminal globosa o elipsoidal. RS -. $A. boisseletii.
+10,0 $A. Pie claviforme, hacia la base con escamas parduscas agrupadas en círculos, y a menudo reforzado con un robusto cordón miceliar. Sombrero de color chocolate disociado en escamas separadas en grietas limpias. Anillo simple. La carne enrojece solo ligeramente. A menudo amarillo albaricoque hacia la base del pie. Esporas de 5.5-6.5 x 3.5-4.5 mm. Queilocistidios claviformes. $A. lanipes.
+10,11 $b Características diversas
+11,0 $A. Margen del sombrero (en los jóvenes) lleno de cintas lanosas. Anillo doble, el inferior es ínfero con margen dentado. Sombrero pardusco claro, margen blancuzco involuto. Pie robusto cilíndrico o ligeramente claviforme, flocoso. En bosque de coníferas. Carne de olor agradable en los jóvenes, desagradable en los adultos. Esporas de 5-7 x 3.5-4.5 mm. Queilocistidios largamente claviformes. RS -. $A. subfloccosus.
+11,0 $b Margen del sombrero sin cintas lanosas. Anillo doble, súpero, externamente disociado en forma de rueda dentada. Sombrero inicialmente blanco, después pardo grisáceo, negruzco, disociado en escamas. Pie robusto, cilíndrico, un poco alargado hacia la base, flocoso. En bosques de coníferas, latifolios, pero también en prados. Esporas de 5-7 x 3.5-4.5 mm. Queilocistidios claviformes. RS -. $A. squamulifer
+11,0 ,n$Si el sombrero está coloreado de marrón pálido en los ejemplares jóvenes, con cutícula rasgada en escamas sobre fondo pálido: variedad caroli.
+
+
+12,13 $A. Especie con pie cilíndrico, con sombrero ± marrón escamoso o blanco puro y esporas contamaños entre 7 y 10 mm.
+12,16 $b Especie con pie cilíndrico claviforme y sombrero atutáceo (al menos en el centro), o soloindistintamente fibriloso.
+13,0 $A. Sombrero blanco puro, casi glabro. Pie casi cilíndrico, ligera mente flocoso o desnudo. Anillo súpero doble, en el que la parte externa está disociada como una rueda dentada. Esporas de 7.510 x 4.5-6 mm. Queilocistidios ovados o piriformes. RS -. $A. deylii.
+13,14 $b Sombrero no blanco puro
+14,0 $A. Sombrero con centro ocráceo, y por fuera blanquecino seríceo, con fibras ocre claro. Pie largo y sutil, flesuoso, profundamente enterrado en la tierra, manchado de rojo en las heridas. Esporas de 7.5-9.5 x 4.5-5.5 mm. Queilocistidios globoso piriformes. RS -. $A. annae.
+14,15 $b Caracteres diversos
+15,0 $A. Sombrero con cutícula marrón herrumbre, pronto disociada en fibrillas escuamosas. Pie no corto, cilíndrico finamente flocoso, casi desnudo, con esfumaciones rosas. En bosques de coníferas y latifolios. Esporas de 7-9 x 4-5 mm. Queilocistidios ovado-claviformes. RS -. $A. langei.
+15,0 $b Sombrero con cutícula marrón violácea, pronto disociada en pequeñas escamas que contrastan claramente con el fondo pálido. Pie corto, cubierto de pequeñas escamas concoloras al sombrero. En bosques de coníferas, a veces fuera del mismo. Esporas de 6.5-8.5 x 4-4.5 mm. Queilocistidios ampliamente claviformes o piriformes. RS -. $A. mediofuscus.
+16,0 $A. Especie con pie largo, robusto, claviforme. En bosque de coníferas. Sombrero blanco alutáceo o color carne en el centro. Carnoso, ampliamente umbonado. Láminas con borde fértil concoloro. Carne que enrojece débilmente al corte, con olor a L. cristata. Anillo súpero simple, sutil. Esporas de 5.5-7.5 x 4-5 mm. RS -. $A. altipes.
+16,0 $b Especie con pie cilíndrico, a menudo flexuoso. Crece bajo arbustos de latifolios. Sombrero alutáceo con esfumaciones de color carne, más oscuro en el centro, finamente fibrilloso. Anillo con un pequeño diente sobresaliendo del margen en la cara inferior. Carne enrojece ligeramente al corte. Con olor ligero (diferente de L. cristata y de almendras). Esporas de 7.5-9 x 4-5 mm. Queilocistidios ampliamente claviformes. RS -. $A. depauperatus.
+
+cs4,0$Sección ARVENSES.
+
+1,2 $A. Especies con sombrero marrón, marrón ocre, marrón púrpura vinoso, escamoso, fibriloso
+1,3 $b Especies con sombrero blanco, blanco-amarillento, alutáceo
+2,0 $A. Talla medio grande, parques y bosques, sombrero con escamas marrones de tonalidad muy variable sobre fondo pajizo, pie robusto, escamoso por encima del anillo (escamas inicialmente blancas, solo tardíamente amarillo -ocre. Anillo súpero muy amplio, sutil, relajado. Sobre el pie escamoso en la cara inferior. Esporas de 7-9 x 5-6 mm. Queilocistidios unidos pero poco concatenados. RS +. $A. augustus.
+2,0,n $Si el sombrero de color ocre o pardo ocráceo, escamas sobre el pie y en la cara inferior del anillo fácilmente se tiñe de amarillo. Pie a menudo ligeramente bulboso, variedad perrarus.///Si el sombrero es más pálido, casi blanco, variedad albus.
+
+2,0 $b De talla media, sombrero púrpura o pardo-púrpura-vinoso. Pie desnudo, blanco, pero que amarillea fácilmente en la mitad inferior. Anillo súpero, simple, sutil. A menudo lacerado. Esporas de 4.5-6 x 3-4 mm. Queilocistidios subesféricos. RS +. $A. porphyrizon.
+3,4 $A. Especie que crece normalmente fuera del bosque
+3,12 $b Especie que crece en el bosque
+4,5 $A. Especie de porte no grueso y esporas menores de 10 mm
+4,8 $b No con esta combinación de caracteres
+5,0 $A. De talla medio -pequeña. Pie con base bulbosa, decorada con sutiles escamas transversales membranosas (como A. muscaria). Sombrero blanco. Carne casi inmutable con olor ligero complejo. Láminas son durante mucho tiempo pálidas, con el borde estéril pálido. En parques y jardines. Esporas de 5.5-7 x 3.5-4.5 mm. RS +. $A. amanitaeformis.
+5,6 $b De talla medio-grande, pie cilíndrico aún un poco alargado hacia la base, pero no bulboso.
+6,0 $A. Sombrero blanco nieve. Cerca de prados pero aún cerca de los parques débilmente amarillo citrino por frotamiento. Pie generalmente robusto, desde joven furfuráceo en la mitad inferior. Anillo doble con una rueda dentada en su cara inferior. Carne con olor débil similar a almendras. Esporas de 5-7 x 4-5 mm. Queilocistidios subesféricos. RS + . $A. nivescens.
+
+
+6,0$Sombrero blanco nieve. Cerca de prados pero aún cerca de los parques débilmente amarillo citrino por frotamiento. Pie generalmente robusto, desde joven furfuráceo en la mitad inferior. Anillo doble con una rueda dentada en su cara inferior. carne enrojece ligeramente al corte y de joven con porte que recuerda a un Lycoperdon,. Esporas de 5-7 x 4-5 mm. sin queilocystidios y RS -. $A. floccipes: clave 1.2, 4 b.
+
+
+6,7 $b Sombrero blanco-ocráceo en el centro o amarillo-paja -ocráceo.
+7,0 $A. Sombrero blanco, ocráceo en el centro. A la larga completamente alutáceo. Laminas mucho tiempo pálidas. Pie casi desnudo. Anillo doble disociado en rueda dentada. Carne con olor débil similar a almendras. Esporas de 6.5-8 x 4-5 mm. Queilocistidios subesféricos. RS +. $A. arvensis.
+7,0 $b Sombrero amarillo-paja-ocráceo ya en los jóvenes. En prados cercanos al mar. Cutícula pronto disociada en fibrillas y más o menos fisurada. Láminas rosas. Pie no esbelto. De joven a menudo con pequeños flecos en relieve en la parte alta . Anillo sutil algo escamoso en la cara inferior pero sin forma de rueda dentada. Esporas de 7-9 x 4.5-5.5 mm. Queilocistidios esféricos o en forma de botella. RS +. $A. fissuratus.
+
+7,0 $Sombrero amarillo-paja-ocráceo ya en los jóvenes. superficie del sombrero y del pie es más o menos flocosa-escamosa . En prados cercanos al mar. Cutícula pronto disociada en fibrillas y más o menos fisurada. Láminas rosas. Pie no esbelto. De joven a menudo con pequeños flecos en relieve en la parte alta . anillo tiene una rueda dentada en su margen inferior. Esporas de 7-9 x 4.5-5.5 mm. Queilocistidios esféricos o en forma de botella. RS +. $A. macrosporoides.
+8,9 $A. Especie con porte grueso y esporas menores de 10 mm
+8,10 $b Especies con esporas mayores de 10 mm.
+9,0 $A. De talla media, crece en prados cercanos al mar. Carne que enrojece ligeramente al rosa, pero con olor parecido al de las almendras y amarillea al frotar. Sombrero blanquecino-grisáceo crema. Pie grueso, liso, con cordón miceliar. Láminas con borde estéril pálido. Anillo súpero. Esporas de 5-7 (7.5) x 4-5.5 mm. Queilocistidios cilíndricos. RS ±. $A. spissicaulis.
+9,0 $b De talla gruesa. Carne con olor complejo distinto al de las almendras pero la superficie amarillea al frotamiento (a veces después de varias horas). Sombrero blanquecino-grisáceo rosado. Pie grueso con residuos del velo general, con cordón miceliar. Láminas con borde estéril pálido. Anillo súpero. Esporas de 5-8 (9) x 4.8-5.6 mm. Queilocistidios laviformescilíndricos. RS +. $A. maskae.
+10,0 $A. De talla medio-grande, con porte esbelto o robusto. Crece en bosques o prados bajo árboles. Sombrero blanquecino, amarillea poco al frotar. Pie largo y robusto cubierto de escamas bastas en la mitad inferior. Carne rosada al corte, con olor débil pero persistente a almendras. Esporas e (9) 10-12 x 5-6.5 mm. Queilocistidios casi esféricos. RS +. $A. excellens
+10,11$b Otros caracteres
+11,0 $A. De talla grande o muy grande, de porte robusto. En prados, pastos de montaña. Sombrero blanquecino o gamuza. Pie corto y muy grueso, fusiforme en los jóvenes, flocoso-escamo so bajo el anillo. Carne ligeramente rosada del pie al corte. Con olor suave similar a las almendras. Esporas de 10-13 x 6-7 mm. Queilocistidios subesféricos. RS +. $A. macrosporus.
+11,0 $b De talla medio-grande, en prados. Sombrero amarillo-paja, completamente cubierto de pequeñas escamas amarillo-ocre dispersas. Pie flocoso-escuamoso. Carne rosa al corte pero con olor similar a almendra en los jóvenes y la superficie amarillea por frotamiento. Esporas de 1013 x 5.5-6.5 mm. Queilocistidios claviformes, cortos, casi ovales. RS +. $A. stramineus.
+12,0 $A. Especies con esporas mayores de 10 mm. $Ver A. excellens clave 1.4, 10ª
+12,13 $b Especies con esporas menores de 10 mm.
+13,14 $A. Especie con pie de base bulbosa
+13,17 $b Especie con pie de base no bulbosa
+14,15 $A. De talla media y de porte esbelto
+14,16 $b De talla medio-grande y de porte robusto
+15,0 $A. Pie con base bulbosa redondeada, un poco rosado hacia el ápice con anillo sutil casi fugaz, frecuentemente lacerado. En bosques de coníferas y de latifolios. Sombrero blanco o blanquecino-amarillento, fibrilloso-seríceo, desnudo. Láminas largo tiempo pálidas. Esporas de 5-6 x 3-4 mm. Queilocistidios subesféricos. RS +. $A. silvicola.
+15,0 $b Pie con base bulbosa marginada, ligeramente flocoso hacia la base, a veces rosado sobre el anillo. Anillo amplio, sutil, en la car inferior con escamas dispuestas en rueda dentada. En bosques de coníferas. Sombrero blanco o blanquecino, seríceo, desnudo o ligeramente flocoso hacia el margen. Láminas mucho tiempo pálidas. Esporas de 6-8 x 4-5 mm. Queilocistidios subesféricos. RS +. $A. essetei.
+16,0 $A. Sombrero durante tiempo blanco, desnudo o ligermanete flocoso hacia el margen. Pie robusto con base bulbosa marginada poco evidente. Anillo amplio bastante carnoso, en la cara inferior presenta una rueda dentada ± evidente. Esporas de 7-8 x 4.5-5 mm. Queilocistidios de casi esféricos a forma de botella. RS +. $A. macrocarpus.
+16,0 $b Sombrero nunca blanco puro, siempre ± amarillo-sulfuroso, con escamas blancas adnatas membranosas dispersas (residuos del velo general). Pie robusto con base bulbosa redondeada, flocoso. Anillo amplio sutil. Esporas de 5-6.5 x 4-4.5 mm. Queilocistidios ovales o de forma de botella. RS +. $A. tenuivolvatus.
+17,0 $A. Especie que crece en bosques de latifolios. Sombrero blanco a blanco-grisáceo, inmutable, amarillea solo ligeramente después de algunas horas. Pie grácil, liso, que ennegrece en el ápice. Anillo simple. Carne con olor débil. Esporas de 8-9.5 (10) x 5.5-6.3 (7) mm. Queilocistidios ovales o ligeramente claviformes. RS +. $A. cappelli.
+17,18 $b Especie que crece en bosques de coníferas
+18,0 $A. Sombrero blanco-pajizo, después ocráceo, aunque cubierto de pequeñas escamas lanuginosas blancas, más bien evidente, pie ± cilíndrico decorado como el sombrero. Esporas de 6-8 x 4-5 mm. Queilocistidios subesféricos. RS +. $A. leucotrichus.
+18,19 $b Caracteres diversos
+19,0 $A. Sombrero durante mucho tiempo blanco cándido, inmutable al frotamiento (amarillea solo después de varias horas). Pie profundamente enterrado, cubierto de escamas, anillo doble frecuentemente curvado hacia arriba. Carne con olor muy débil no similar a almendras. Esporas de 7-8 (10) x 4.5-5.5 mm. Queilocistidios piriformes o claviformes. RS +. $A. chionoderma.
+19,0 $b Sombrero blanco seríceo con esfumaciones pajizas, amarillento. Pie cilíndrico liso, anillo sutil y frágil. Carne con olor a almendras. Láminas de un bello rosa carne ya en los jóvenes. Con borde fértil concoloro a la cara. Esporas de 6.5-8.5 x 4-5 mm. RS +. $A. aestivalis.
+
+
+
+cs5,0$Sección MINORES .
+
+1,2$A. Especies que crecen en prados (pie cilíndrico o atenuado)
+1,3 $b Especies que crecen en los bosques (pie con base ± bulbosa)
+2,0 $A. Con borde laminar fértil, concoloro con la cara de la lámina. Sombrero inicialmente blanco seríceo, con disco generalmente coloreado de carne. Láminas rosas ya en los jóvenes. Pie blanco, amarillo ocre en la base, cilíndrico o atenuado. Esporas de 4.5-5.5 x 3-3.5 mm. RS +. $A. comtulus.
+2,0 $b Con borde laminar estéril pálido. Sombrero ocráceo sin duda desde jóvenes, seríceo, con centro pardo-púrpura, deprimido. Láminas inicialmente pálidas. Pie amarillento en la mitad inferior, cilíndrico o atenuado. Esporas de 4-5 x 3-3.5 mm. Queilocistidios ampliamente piriformes. RS +. $A. lutosus.
+3,0 $A. Con borde laminar fértil, concoloro con la cara de la lámina. Sombrero blanco sucio. Láminas inicialemente blanquecinas. Pie cilíndrico con base engrosada. En bosques húmedos de latifolios. Esporas de 4.5-5 x 3-3.5 mm. RS +. $A. rusiophyllus.
+3,4 $b Con borde laminar estéril pálido
+4,0 $A. Sombrero sin duda completamente vinoso o lila -rosado desde el principio, densamente fibriloso, de porte esbelto. Pie cilíndrico con base bulbosa, amarillento, desnudo, en bosques de coníferas. Esporas de 4-5 x 3-3.5 mm. Queilocistidios ampliamente piriformes. RS +. $A. purpurellus.
+4,5 $b Sin esta coloración. Si el disco es lila-violáceo entonces fuera de éste blanquecino.
+5,6 $A. Sombrero blanco o blanquecino, con disco coloreado de pardo-lilacino o completamente blanco
+5,7 $b Sombrero sin duda coloreado desde el principio, pajizo, pajizo-pardusco o amarillo ocráceo
+6,0 $A. Sombrero blanco o blanquecino con centro coloreado de pardo-lilacino con la edad el color blanco del fondo se convierte en amarillo-grisáceo. Pie progresivamente ancho hacia la base bulbosa, amarillento. Esporas de 4-5 x 2.5-3.5 mm. Queilocistidios piriformes o casi esféricos. RS +. $A. semotus.
+6,0 $Sombrero blanco o blanquecino, muy pequeño (entre 0.8-1 cm) y con escamas pelosas duras.con centro coloreado de pardo-lilacino con la edad el color blanco del fondo se convierte en amarillo-grisáceo. Pie progresivamente ancho hacia la base bulbosa, amarillento. Esporas de 4-5 x 2.5-3.5 mm. Queilocistidios piriformes o casi esféricos. RS +. En matorral o en parques.A. minimus.$A. semotus.
+6,0 $b Sombrero inicialmente blanco puro, después blanco-crema, amarillea al menor roce, fibrillososeríceo. Pie largo y sutil con base bulbosa amarillenta. Esporas de 4.3-5.8 x 3.3-3.8 mm. Queilocistidios ampliamente claviformes o casi esféricos. RS +. $A. niveolutescens.
+7,0 $A. Sombrero inicialmente pajizo, después pardusco-púrpura, amariilo oscuro en las zonas rozadas. Cutícula disociada en escamas en el disco, margen grueso desbordante y denticulado. Pie blanquecino que vira al amarillo oscuro al roce. La carne vira al ocre-manzana reineta. Esporas de 5.5-6.5 x 3.8-4.5 mm. Queilocistidios casi esféricos. RS +. $A. luteo-maculatus.
+7,0 $b De porte robusto. Sombrero amarillo-ocráceo, después con escmas fibrillosas sobre fondo blanco. Láminas amplias. Pie corto y relativamente robusto con base que amarillea violentamente. Esporas de 4-5.5 x 3-3.5 mm. Queilocistidios ampliamente claviformes. RS +. $A. xantholepis.
+
+
+
+cs6,0$Sección XANTHODERMATEI
+1,2 $A. Especie de porte esbelto, con pie cilíndrico, no robusto y base ± bulbosa
+1,4 $b No con estos caracteres
+2,0 $A. Sombrero de color marrón pardo puro, con collar grosero en relieve presente en la cara inferior del anillo, pardo, que generalmente se rompe en trozos de diversa longitud. Pie esbelto, flexuoso, con la base claramente bulbosa ± marginada, desnudo y seríceo. Carne que no siempre vira al amarillo en la base del pie, al corte rosa salmón en la parte alta del pie. Esporas de 5-6 x 3-3.5 mm. Queilocistidios ampliamente claviformes, grandes 18-50 x 12-34 mm. RS -. $A. phaeolepidotus.
+2,3 $b Caracteres diversos 3
+3,0 $A. Sombrero con cutícula disociada en diminutas escamas pardusco-fuliginosas, más bien infrecuentes, sobre fondo blanquecino. Pie blanco vítreo, desnudo, seríceo. Anillo doble con un carnoso collar blanquecino o pardusco pálido en la cara inferior del anillo que tiende a romperse en dientes, similares a una rueda dentada. Esporas de 4.5-5.5 (6) x 3-3.5 (4) mm. Queilocistidios subesféricos o piriformes de 10-20 x 10-14 mm. RS -. $A. praeclaresquamosus
+3,0,n$Si el sombrero tiene una cutícula decididamente negruzca y con escamas más dirigidas radialmente mostrando menos evidentemente el fondo de la cutícula, variedad terricolor
+3,0 $b Sombrero con cutícula lisa no disociada en escamas, blanco o solo ligeramente grisáceo alutáceo en la madurez. Anillo doble con un collar adherente a veces disociado en dientes en la cara inferior. Esporas de 5-6.5 x 3.5-4 mm. Queilocistidios subesféricos. RS -. $A. xanthoderma.
+3,0,n$Si el sombrero completamente grisáceo-pardusco, a menudo agrietada, fisurada radialmente.Cara inferior del anillo flocosa y Esporas de 5-6 x 4-4.5 mm. Variedad griseus.///Si el sombrero es gris -pardusco y pronto profundamente agrietado, con escamas separadas de amplias grietas. Variedad lepiotoides.
+
+
+4,5 $A. Especie de porte no esbelto, más bien robusto, con pie de base no bulbosa (a menudo atenuada), y anillo de estructura compleja.
+4,7 $b Especie de porte no esbelto, con pie de base no bulbosa y anillo simple.
+5,0 $A. Sombrero blanquecino después esfumado de ocráceo o de grisáceo-rosa. Crece entre las dunas del litoral. Anillo doble estrechamente envainante: Olor débil a fenol. Esporas de 7-9 (11) x 5.5-6.5 (7) mm. Queilocistidios claviformes. RS -. $A. menieri.
+5,6 $b Caracteres diversos (esporas menores de 7.5 mm)
+6,0 $A. De talla medio-grande, que crece en jardines, parques, cementerios, etc. Sombrero fuligíneopardusco, aún casi blanquecino sucio, escamoso-fibrilloso, anillo con margen replegado tres veces, en la parte inferior se nota una barrita circular adyacente al pie concoloro con el sombrero. Carne que amarillea fuertemente en la base del pie al corte. Con olor a fenol pronunciado. Esporas de 5.5-7 (11) x 4.5-5.5 mm. Queilocistidios claviformes. RS -. $A. pilatianus.
+6,0 $b De talla grande y muy robusto, que crece en jardines y parques de la región meridional, a menudo cespitoso. Sombrero con cutícula pardo-humo oscuro, disociado en escamas en la periferia. Pie corto y robusto carnoso y atenuado. Anillo con barrita, carne dura que amarillea fuertemente en la base del pie con olor a yodoformo. Esporas de 6-7 x 4.5-5 mm. Queilocistidios claviformes. RS -. $A. iodosmus.
+7,0 $A. Sombrero con escamas dispersas gris -castaño sobre fondo blanco, pie cilíndrico sin cordón miceliar grueso evidente. Carne amarillea ligeramente en la base del pie y después de algunos minutos vira al rosa-vinoso. Olor a fenol más bien débil. Esporas de 5-7 x 4-5 mm. Queilocistidios claviformes. RS -. $A. pseudopratensis.
+7,0,n $Si el sombrero completamente blanco-nieve o apenas crema pálido en el centro, alutáceo en los adultos, que crece en terrenos arenosos, variedad niveus.
+7,0 $b Sombrero con escamas fibrillosas gris -castaño sobre fondo blanquecino. Pie con base (hinchada o no) atenuada, con cordón miceliar robusto, a menudo ramificado. Carne con olor complejo ± fénico. Enrojece ligeramente en la parte alta del pie y amarillea ligeramente en la base. Esporas de 6-7.5 (8) x 3.5-5 mm. Queilocistidios claviformes. RS -. $A. romagnesii.
+7,0,n $Si el borde de las láminas es fértil, concoloro con la cara, sin queilocistidios, vease A.bresadolianus, clave 1.2, 2 a.
+
+

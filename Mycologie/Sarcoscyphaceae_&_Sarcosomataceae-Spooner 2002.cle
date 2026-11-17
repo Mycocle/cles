@@ -1,0 +1,49 @@
+
+titre$Sarcoscypha-Spooner
+com$Adapt GF mars 2015
+rem$LANGUE$Anglais
+1,0$ source: Brian Spooner Key to British Genera of Sarcoscyphaceae and Sarcosomataceae - Field Mycology Volume 3(1), January 2002
+1,0$. Table of diagnostic characters (* = living state) $$f"sarcoscypha_Baral_table.pdf"
+1,0$ 
+
+
+
+1,2 $ Disc whitish or grey to blackish, lacking carotenoid pigments; outer surface dark- or dull-coloured, grey to blackish, with dark brown basal tomentum or subiculum, and sometimes bearing dark brown setae (Sarcosomataceae)
+1,4 $ Disc bright orange to red or scarlet, carotenoid pigments present; outer surface whitish to pale orange, whitish felty, lacking both dark brown tomentum and setae (Sarcoscyphaceae)
+2,cs4 $ Setae present on receptacle and in hymenium; spores ellipsoid, biguttulate, with short, blunt apiculae; gelatinised tissues lacking $ Desmazierella$s"Desmazierella"
+2,3 $ Setae lacking throughout; spores globose or ellipsoid to fusoid, multiguttulate, not apiculate; gelatinised tissues present
+3,cs6 $ Ascospores ellipsoid or ellipso-fusoid; apothecia stipitate, outer surface bearing brick-red granules in British species $ Plectania$s"Plectania"
+3,cs2 $ Ascospores globose; apothecia sessile or short-stipitate, outer surface lacking red granules. $ Pseudoplectania $s"Pseudoplectania"
+4,cs1 $ Ascospores globose; apothecia on dead leaves or branches of conifers $Pithya $s"Pithya"
+4,5 $ Ascospores ellipsoid to fusoid; apothecia on woody debris or soil
+5,cs5 $ Apothecia arising from a hard, black 'root' (pseudorhiza); apothecia often caespitose, with common base; margin lobed; excipulum with gel layer present; asci maturing simultaneously $ Microstoma$s"Microstoma"
+5,cs3 $ Apothecia lacking a pseudorhiza; apothecia not caespitose; margin even; excipulum lacking a gel layer; asci maturing successively $ Sarcoscypha$s"Sarcoscypha"
+
+
+
+cs1,0$ Key to British species of Pithya
+
+1,0$. Apothecia 1 - 3 mm diam., on leaves or twigs of Juniperus spp. Paraphyses simple or occasionally branched, mostly regular, 3 - 3.5 (-4) ?m wide $ P. cupressina
+1,0$. Apothecia 3 - 6 (-10) mm diam., on bark or rarely needles of Pinaceae. Paraphyses commonly branched or lobed, irregular towards the apex and enlarged to 4 - 6.5 ?m diam. $ P. vulgaris
+
+cs2,0$Key to British species of Pseudoplectania
+1,0$. Apothecia among moss or on the ground in coniferous litter; paraphyses irregularly much-branched and lobed, sometimes anastomosing, apex 4 - 6 ?m diam. . . . . . . . . . . . . . . . . . . . . . . . . P. nigrella
+1,0$. Apothecia in Sphagnum; paraphyses simple or only occasionally branched, apex 2.5 - 4 ?m diam.$P. sphagnophila
+
+cs3,0$Key to British species of Sarcoscypha
+1,0$. Excipular hairs straight to slightly sinuous; ascospores mostly 9 - 12 ?m wide, usually with rounded ends, apparently never germinating to form conidia; paraphyses never moniliform $S. coccinea
+1,0$. Excipular hairs strongly sinuous to coiled and convoluted; ascospores mostly 11 - 14 ?m wide, usually truncate to indented at the ends, sometimes germinating to form conidia on short germ tubes; paraphyses often moniliform below $ S. austriaca
+
+cs4,0$ Desmazierella Lib., 1829
+1,0$Type and only British species:$D. acicola Lib.
+1,0,n$Literature: Dennis (1978); Ellis & Ellis (1997); Meléndez-Howell et al. (1998); Petersen (1998).
+
+
+cs5,0$Microstoma Bernstein, 1852 = AnthopezizaWettst. 1885
+1,0$Type and only British species:$M. protracta (Fr.) Kanouse 
+1,0,n$(= Peziza protracta Fr.; Anthopeziza protracta (Fr.) Nannf.; Plectania protracta (Fr.) Gelin; Sarcoscypha protracta (Fr.) Sacc.; Peziza mirabilis I.G.
+
+
+cs6,0$Plectania Fuckel, 1870
+1,0$Type and only British species:$P. melastoma (Sow.) Fuckel 
+1,0,n$(=Peziza melastoma Sow.; Urnula melastoma (Sow.) Boud.; Rhizopodella melastoma (Sow.) Cke; Lachnea melastoma (Sow.) Gill.; Sarcoscypha melastoma (Sow.) Quél.; Peziza atrorufa Grev.) Literature: Dennis (1978); Donadini (1987); Korf (1957); Nannfeldt (1949)

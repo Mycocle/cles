@@ -1,0 +1,222 @@
+titre $ European Polypores :  Key to families and genera
+com$  Ryvarden  & Gibertson / adpt GF 07/09
+1,0 $Spores pale brown to yellowish, spore wall double, the inner ornamented. and yellow to brown, the outer, smooth and hyaline $Ganoderma
+1,2 $ Spores hyaline to rusty brown, spore wall simple
+2,cs1 $ Basidiocarp brown, becoming black with KOH; generative hyphae with simple septa; dark brown, acute setae absent or present; cystidia never present$ Hymenochaetaceae $s"Hymenochaetaceae "
+2,cs2 $ Basidiocarp variably coloured,if black in KOH, then always with clamped generative hyphae; generative hyphae with clamps or simple septa; dark brown setae never present, cystidia absent or present $Poroid genera from other familles$s"Poroid genera from other familles"
+
+
+cs1,0$ KEY TO HYMENOCHAETACEAE
+1,2 $ Basidiocarp more or less centrally stipitate, usually on the ground; setae never present 
+1,3 $ Basidiocarp resupinate or pileate, sometimes with a lateral, tapering base; setae present or absent 
+2,0 $ Basidiocarp usually thin and pliable; gloeocystidia absent in the hymenium; mycorrhizal or causing a white rot $ Coltricia
+2,0 $  Basidiocarp large and fleshy, gloeocystidia present in hymenium; causing a brown rot (not belonging in the family)$Phaeolus
+3,0 $  Hyphal system dimitic with skeletal hyphae; basidiocarps mostly woody, perennial with layered tubes$Phellinus
+3,4 $ Hyphal system monomitic or pred.ominantly so, basidiocarps mostly fragile when dry, annual; species growing on living bushes belong here 
+4,0 $ Context distinctly duplex, upper loose part often separated from the lowerdense part by a black zone; setae absent; spores usually abundandy present, ellipsoid, pale yellowish, shorter than 4.5 uum ; on living trees or shrubs $Phylloporia
+4,0 $ Context homogeneous; setae present or absent; spores hyaline to rusty brown; longer than 4.5 uum, on dead wood $Inonotus
+
+cs2,0$KEY TO POLYPORACEAE AND OTHER FAMILlES WITH POROID SPECIES'
+
+rem$ CONDENSED KEY TO POLYPORACEAE AND POROID GENERA OF OTHER FAMILlES 
+The numbers in bold refer to the main key, those in normal print refer to the condensed key. 
+1,11$ Basidiocarp more or less centrally stipitate (all species with numerous pilei from a common base belong here) 
+1,2$ Basidiocarp resupinate to pileate, sometimes with a tapering lateraI base or stipe
+2,22$ Hymenophore hydnoid, lamellate, daedaleoid to sinuous 
+2,3$ Hymenophore with angular to round pores, sometimes slightly split and dentate in the dissepiments 
+3,30$ Spores omamented
+3,4$ Spores smooth  
+4,35$ Spores, cystidia or hyphae amyloid or dextrinoid
+4,5$ No amyloid or dextrinoid reaction in spores, cystidia or hyphae
+5,41$Generative hyphae with simple septa 
+5,6$Generative hyphae with clamps 
+rem$   6,53$Tubes and context brown, purplish black, orange, brick red or cinnabar red 
+6,52$Tubes and context brown, purplish black, orange, brick red or cinnabar red 
+6,7$Tubes and context white, ochraceous, yellow to pale brown 
+rem$ 7,70$Cystidia present in hymenium or context 
+7,64$Cystidia present in hymenium or context 
+7,8$Cystidia absent in hymenium or context
+rem$ 8,75$Hyphal system monomitic
+8,69$Hyphal system monomitic
+rem$ 8,85$Hyphal system di-or tri-mitic
+8,77$Hyphal system di-or tri-mitic
+
+KEY TO POLYPORACEAE AND OTHER FAMILlES WITH POROID SPECIES
+ Basidiocarps stipitate  (For sessile to resupinate basidiocarps, see 12)
+11,12$Spores ornamented
+11,13$Spores smooth
+12,0$Spores amyloid, coarsely crested; generative hyphae with simple septa $Bondarzewia
+12,0$Spores non-amyloid, angular; generative hyphae with clamps $Boletopsis.
+13,14$Generative hyphae with simple septa (species with both clamps and simple septa key out here
+13,16$Generative hyphae with clamps
+14,0$Basidiocarp fleshy; context rusty brown; gloeocystidia present $Phaeolus
+14,15$Basidiocarp fleshy to woody; context white to yellow or pale umber brown; gloeocystidia absent
+15,0$Generative hyphae inflated; on the ground; mycorrhizal $Albatrellus
+15,0$Generative hyphae not inflated; on wood or buried roots $Meripilus
+16,17$Basidiocarp with many pilei from a common base
+16,18$Basidiocarp with a single pileus
+17,0$Individual pilei more or less circular, 1-3 cm in diameter; hyphal system dimitic with binding hyphae $Polyporus umbellatus
+17,0$Individual pilei fan shaped to flabelliform; hyphal system monomitic $Grifola
+18,19$Hyphal system dimitic or trimitic; basidiocarps tough when fresh
+18,20$Hyphal system monomitic; basidiocarps normally fleshy and soft when fresh
+19,0$Hyphal system dimitic; dendroid binding hyphae present; spores cylindrical $Polyporus
+19,0$Hyphal system trimitic; on Abies in Central Europe; spores ellipsoid $Podofomes
+20,0$Spores spindle shaped, 12-17 x 4,5-6 )µm ; mostly on wood $Jahnoporus
+20,21$Spores globose to ellipsoid, shorter than 10 )µm ; usually terrestrial 
+21,0$Context duplex and fibrous; hyphae in context with thickened walls; gloeocystidia present $Abortiporus
+21,0$Context fleshy and homogeneous; hyphae thin-walled and inflated; gloeocystidia absent , $Albatrellus' 
+rem$ Basidiocarps sessile to resupinate; hymenophore hydnoid, lamellate, daedaleoid to sinuous ( Hymenophore more or less poroid, see 20)
+22,0$Context dark sepia brown to black $Gloeophyllum
+22,23$Context differently coloured
+23,24$Context wood-coloured to pale umber brown; pileus present
+23,25$Context white to ochraceous; pileate to resupinate
+24,0$Pileus semi glossy and smooth, faintly zoned; hymenophore lamellate to sinuous; context sepia brown; spores 7-11µm  long ; causes a white rot $Daedaleopsis
+24,0$Pileus dull, finely velutinate to irregularly tufted, mostly azonate, hymenophore daedaleoid to sinuous, context tan to ochraceous; spores 5,5-7µm long, usually very difficult to find in dry specimens; causes a brown rot $Daedalea
+25,0$Generative hyphae with simple septa; skeletocystidia present . $Irpex lacteus
+25,26$Generative hyphae with clamps; skeletocystidia absent; hymenial cystidia absent or present
+26,0$Hyphal system monomitic $Spongipellis
+26,27$Hyphal system di-or trimitic
+27,0$Basidiocarps resupinate to effused reflexed; spores ellipsoid; capitate hyphal ends scattered in the hymenium; hyphal system dimitic $Schizopora
+27,28$Basidiocarps pileate; spores cylindrical; capitate hyphal ends absent; hyphal system trimitic
+28,0$Pore surface pale brownish violet when fresh, fading to pale brown when old and dry; encrusted cystidia present in hymenium $Trichaptum
+28,29$Pore surface white to greyish; encrusted cystidia absent from hymenium
+29,0$Hymenophore lamellate; context homogenous; sword-like hyphal endings numerous in the hymenium $Lenzites
+29,0$Hymenophore labyrinthine to daedaleoid; context with black line next to tomentum; no sword-like hyphal endings in hymenium $Cerrena unicolor
+
+
+rem$ Basidiocarps sessile to resupinate; hymenophore poroid; spores ornamented (spores smooth see 25)
+30,0$Spores dextrinoid; basidiocarps with strong scent of anise; on Salix caprea $Haploporus odorus
+30,31$Spores negative in Melzer's reagent
+31,32$Hyphal system monomitic
+31,34$Hyphal system dimitic
+32,0$Basidiocarp pileate; upper surface brown and tomentose; spores yellow to pale brown $Lenzitella malenconii
+32,33$Basidiocarp resupinate; spores hyaline
+33,0$Spores asperulate, less than 5 J.Un in diameter $Trechispora
+33,0$Spores crested, larger than 5 J.Un in diameter $Lindtneria
+34,0$Spores oblong ellipsoid, striate, longer than 10 !JIll; basidiocarp on Quercus, strictly resupinate; generative hyphae with clamps $Pachykytospora tuberculosa
+34,0$Spores globose, 5-61 µm in diam; basidiocarp resupinate to effused reflexed; usually on conifers; generative hyphae with simple septa $Heterobasidion annosum
+
+
+rem$ Basidiocarps sessile to resupinate; hymenophore poroid; spores smooth; spores, cystidia and hyphae amyloid or dextrinoid in Melzer's reagent( Spores, cystidia or hyphae without reaction in Melzer's reagent, see 31)
+35,0$Spores amyloid $Anomoporia
+35,36$Spores dextrinoid or negative in Melzer's reagent
+36,0$Cystidia present and amyloid $Amylocystis
+36,37$Cystidia absent
+37,0$Hyphal system monomitic with clamped hyphae; spores cylindrical, dextrinoid . $Parmastomyces
+37,38$Hyphal system di-to trimitic; generative hyphae with clamps or simple septa; spores globose, ellipsoid to truncate, dextrinoid to non-dextrinoid
+38,0$Spores smooth, truncate to ellipsoid, usually distinctly thick-walled and with a variable dextrinoid reaction $Perenniporia.
+38,39$Spores smooth or finely asperulate, thin-walled, non-dextrinoid; vegetative hyphae more or less dextrinoid or amyloid
+39,0$Skeletal hyphae dextrinoid; spores globose, finely asperulate (difficult to observe); generative hyphae with simple septa $Heterobasidion
+39,40$Skeletal hyphae amyloid; spores cylindrical to oblong-ellipsoid, smooth; generative hyphae with clamps
+40,0$Causing brown rot in the substrate; pore surface white to citric yellow; skeletal hyphae unchanged in 3% KOH $Antrodia
+40,0$Causing white rot in the substrate; pore surface usually pale grey; skeletal hyphae dissolving in 3% KOH $Diplomitoporus lindbladii 
+
+
+rem$ Basidiocarps sessile to effused reflexed; hymenophore poroid; spores smooth; spores, cystidia and hyphae negative in Melzer's reagent; generative hyphae predominantly with simple septa ( Generative hyphae with clamps, see 43)
+41,0$Basidiocarp sulphurous yellow $Laetiporns
+41,42$Basidiocarp differently coloured
+42,43$Cystidia present, either in hymenium and/or trama
+42,47$Cystidia absent
+43,44$Cystidia smooth and thin-walled
+43,0$Cystidia metuloid and encrusted $Oxyporus
+44,45$Basidiocarp orange to reddish or dark brown 
+44,46$Basidiocarps white to light coloured
+45,0$Basidiocarp reddish to orange; spores cylindrical to oblong ellipsoid; cystidia hyaline $Pycnoporellus
+45,0$Basidiocarp dark brown; spores subglobose; cystidia with yellowish to dark coloured content $Phaeolus
+46,0$Basidiocarps pileate to resupinate; pore surface vivid orange red or pinkish fading to reddish brown, ochraceous or greyish black; trama thick-walled cystidia absent or present; hymenial mammillate, small, smooth cystidia usually present $Rigidoporus
+46,0$Pore surface white to pale ochraceous, more or less unchanged when dry; mammillate cystidia absent $Oxyporus
+47,48$Spores allantoid, cylindric to oblong-ellipsoid
+47,50$Spores globose to subglobose
+48,0$Basidiocarp resupinate, white, cream, beige, pink to purplish, dissepiments sterile $Ceriporia
+48,49$Basidiocarp resupinate to pileate, reddish to purplish when dry, if resupinate, hymenium present over the dissepiments
+49,0$Basidiocarp with shallow pores and hymenium continuous over the pore-edges; context white and strikingly different from the tubes; causes a white rot $Gloeoporus
+49,0$Basidiocarp with normal pores, sterile along the edges; context and tubes of almost equal colour; causes a brown rot $Leptoporus mollis
+50,0$Basidiocarp pileate to resupinate, whitish, ochraceous or reddish to beige or greyish blackish, coriaceous to hard when dry; basal hyphae thick-walled, simulating skeletal hyphae $Rigidoporus
+50,51$Basidiocarps resupinate, fragile when dry; hyphae thin-walled 
+51,0$Pore surface yellowish to ochraceous; on organic debris on the ground; spores thick-walled and cyanophilous $Byssoporia terrestre
+51,0$Pore surface white to bluish waxy w hen fresh, often brown; spreading to the ground; spores thin-walled and non-cyanophilous $Physisporinus
+
+ds original, manque le 42 ... à décaler ....
+' Basidiocarps sessile to effused reflexed; hymenophore poroid; spores smooth; spores, cystidia and hyphae negative in Melzer's reagent; generative hyphae with clamps; tubes and/or context black, dark brown, orange to cinnabar red (Tubes and context white to pale cinnamon, see 60)
+52,53$Tubes and context orange, brick to cinnabar red
+52,55$Tubes and context brown to purplish black 
+53,0$Basidiocarp perennial and often ungulate; tubes and context brick red; spores truncate and thick-walled; on Juniperus $Pyrofomes demidoffii
+53,54$Basidiocarp annual and shelf-like to resupinate; tubes and context orange to cinnabarred; on angiosperms
+54,0$Basidiocarp sappy, orange-red when fresh, hyphal system monomitic $Hapalopilus
+54,0$Basidiocarp tough, cinnabar red, hyphal system trimitic $Pycnoporus
+55,0$Basidiocarp perennial, applanate to ungulate, very hard; pileus smooth with a crust in grey to brown colours; mycelial core present at base of context $Fomes
+55,56$Basidiocarp annual to bi-annual, soft to tough, applanate to resupinate; normally no hard crust present on pileus; no mycelial core present in context 
+56,57$Basidiocarp fleshy and sappy when fresh; hyphal system monomitic although some sclerified clamped hyphae may occur
+56,58$Basidiocarp tough to bard when fresh; hyphal system di-to trimitic
+57,0$Basidiocarp cinnamon, cherry red to violet with KOH $Hapalopilus
+57,0$Pileus dark brown to black, pore surface whitish when fresh, darkening when touched and dried, no reaction with KOH $Ischnoderma
+58,59$Basidiocarp resupinate
+58,60$Basidiocarp pileate
+59,0$Basidiocarp hard and perennial; spores ellipsoid; on Quercus, causes a white rot $Donkiporia expansa
+59,0$Basidiocarp soft and flexible; spores cylindrical; causes a brown rot $Gloeophyllum
+60,61$Context dark umber brown and separated from persistent or transient tomentum by a black zone, which by age may become a thin black cuticle; basidiocarps effused reflexed or pileate; binding hyphae usually rare or absent; spores usually shorter than 12 µm 
+60,62$Context mostly in shades of rusty to umber brown, tomentum if present, often villose to strigose, not separated from context by black zone; if pileus smooth, then grey to pale brown; binding hyphae in context; spores longer than 12 µm 
+61,0$Spores 8-10 µm long; skeletal hyphae smooth; cosmopolitan genus; on hardwoods $Datronia
+61,0$Spores 4-5 µm long; skeletal hyphae finely encrusted; North-European boreal genus; on gymnosperms $Piloporia
+62,0$On gymnosperms, causing a brown rot;, pileus either smooth, tomentose or scrupose-warted $Gloeophyllum
+62,63$On angiosperms, causing a white rot; pileus consistently villose to velutinate .55
+63,0$Pileus smooth, black; pores large, 1-3 mm in diameter; on Quercus in the Mediterranean area $Hexagonia nitida
+63,0$Pileus hirsute to hispid, brownish to grey, small to medium; widespread in south and Central Europe $Coriolopsis gallica
+
+ saut ds original
+
+' Basidiocarps sessile to resupinate; hymenophore poroid; spores smooth; all structures negative in Melzer's reagent; generative hyphae with clamps; context and tubes light-coloured; cystidia present in hymenium or context (Cystidia absent from hymenium or context, see 65)
+64,65$Hyphal system dimitic with skeletal hyphae; pore surface pinkish, cocoa-coloured, yellow to pale brown or violet
+64,67$Hyphal system monomitic; pore surface white to discoloured sordid ochraceous when dry
+65,0$Basidiocarp pileate; pileus grey to ochraceous or white; pore surface often with violet shades when fresh, spores cylindrical, longer than 7 µm $Trichaptum
+65,66$Basidiocarp resupinate to rarely pileate; pore surface cocoa-brown, pinkish to yellow; spores shorter than 7 µm 
+66,0$Cystidia large and ventricose; skeletal hyphae few, restricted to the context; pore surface yellow; causes a brown rot $Auriporia aurolenta
+66,0$Cystidia club shaped, formed by the outer encrusted parts of skeletal hyphae; skeletal hyphae dominating; pore surface cocoa-brown, pinkish to pale straw-coloured; causes a white rot $Junghuhnia
+67,0$Basidiocarp large and sappy; upper surface hirsute; cystidia ventricose, up to 50µm  long $Climacocystis
+67,68$Basidiocarp resupinate to pileate, tough to soft; pileus if present, smooth or finely velutinate; cystidia ventricose to tubular 
+68,0$Cystidia tubular, thin-walled and smooth; spores allantoid, 3-4 µm long; causes a white rot $Chaetoporellus
+68,0$Cystidia clavated to ventricose, apically encrusted and thick-walled; spores cylindrical to allantoid, longer than 4 µm ; causes a brown rot $Oligoporus
+
+'Basidiocarps sessile to resupinate; hymenophore poroid; spores smooth; spores, cystidia and hyphae negative in Melzer's reagent; generative hyphae with clamps; tubes and context light-coloured; cystidia absent; hyphal system monomitic. (Hyphal system di-or trimitic, see 75)
+69,70$Basidiocarps resupinate
+69,73$Basidiocarps pileate
+70,0$Basidia urniform with 4 to 8 sterigmata; hyphae with numerous oil drops and with scattered ampullaceous swellings at the septa $Sistotrema
+70,71$Basidia clavate with 4 sterigmata; hyphae without oil drops and without ampullaceous swellings 
+71,0$Pore surface pale pink to deep reddish; tubes dense and gelatinous; hymenium continuous over the pore-mouths; context white and cottony $Gloeoporus
+71,72$Pores differently coloured; hymenophore not gelatinous; dissepiments normally sterile; context more or less of same colour as tubes
+72,0$Basidiocarp resupinate; causing a white rot $Ceriporiopsis
+72,0$Basidiocarp resupinate to pileate; causing a brown rot $Oligoporus
+73,0$Spores drop-shaped to globose, thick-walled and cyanophilous $Spongipellis
+73,74$Spores differently shaped, thin-walled and non-cyanophilous
+74,0$Pileus adpressed velutinate and dark brown or glabrous with a black, in part velutinous wrinkled surface; pores and tubes whitish to pale brown when fresh $Ischnoderma
+74,75$Pileus white, greyish 10 discoloured, but never with a black wrinkled surface 
+75,0$Tube layer buff, grey to blackish; context white; in one species separated from tubes by a thin dark zone, causing a white rot $Bjerkandera
+75,76$Tubes and context more or less of same colour, or tubes at least not grey to almost black, no distinct dense zone between context and tubes
+76,0$Basidiocarps effused reflexed; distinctly monomitic without thickened hyphae; causing brown rot $Oligoporus
+76,0$Basidiocarps distinctly pileate, nominally with no effused part; with thickened hyphae which may be interpreted as skeletals; causing white rot $Tyromyces
+
+' Basidiocarps sessile to resupinate; hymenophore poroid; spores smooth spores, cystidia and hyphae negative in Melzer's reagent generative hyphae with clamps; tubes and context light-coloured cystidia absent; hyphal system di-or tri-mitic
+77,0$Spores truncate to broadly ellipsoid, thick-walled $Perenniporia
+77,78$Spores allantoid 10 ellipsoid, thin-walled
+78,79$Dendroid binding hyphae present, skeletal hyphae absent
+78,81$Dendroid binding hyphae absent, skeletal hyphae present, short tortuous binding hyphae present or absent
+79,0$Basidiocarp resupinate to effused reflexed $Dichomitus
+79,80$Basidiocarp pileate, sessile, fan shaped to dimidiate with a contracted base
+80,0$Basidiocarp large and punky with papery smooth surface; causes a brown rot $Piptoporus
+80,0$Basidiocarp small to medium, rather dense and hard when dry; causes a white rot $Polyporus
+81,82$Basidiocarp pileate, sessile to dimidiate, woody hard to tough; pileus glabrous, with or without a distinct crust, often spreading from the base in reddish or black colours, or hirsute to tomentose; in some cases with a black layer between tomentum and context; all perennial species belong here
+81,84$Basidiocarp resupinate to effused-reflexed or pileate and then with a narrow pileus; pileus glabrous to velutinate, never with a crust or black line under tomentum; all species annual
+82,0$Basidiocarp soft and watery when fresh, mostly white to sordid brown when old or dried. short lived and annual; binding hyphae absent; skeletal hyphae relatively few in the context and generative hyphae dominate in the basidiocarps $Tyromyces
+
+
+82,83$Basidiocarp woody hard to tough, perennial or annual, but long lived; pileus glabrous 10 hirsute, white, yellowish to sordid brown or black to reddish because of cuticle spreading from the base, binding hyphae present, but may he difficult to observe in some species; skeletal hyphae dominating in the basidiocarp
+83,0$Basidiocarp tough to hard; annual species but long lived in the season; pileus white, greyish, sordid brown or blackish when dry, glabrous to hirsute, in .some species with a black line between the tomentum and the context; causing white rot $Trametes
+83,0$Basidiocarp mostly woody hard to very tough, perennial; pileus white, sordid brown to black or reddish, sometimes with a cuticle spreading from the base, glabrous to finely velutinate, tomentum absent; causing brown rot $Fomitopsis
+84,0$Skeletal hyphae in the dissepiments finely encrusted; species with a pale orange pore surface belong here $Skeletocutis
+84,85$Skeletal hyphae mostly smooth, occasionally with scattered large crystals
+85,0$Skeletal hyphae with a wide lumen totally dominating; generative hyphae often very difficult to find; basidia longitudinally septate; pore surface often discoloure to pale brown when dry; rare species $Protomerulius caryae
+85,86$Skeletal hyphae thick-walled to solid ; generative hyphae normally easily observed; basidia not septate; pore surface variable; many common species
+86,0$Causing a brown rot; all species with spores longer than 7 µm belong here $Antrodia
+86,87$Causing a white rot
+87,0$Spores ellipsoid to cylindric, up to 5 µm long; basidiocarps often semi translucent whitish when fresh, becoming dense and pale straw coloured when dry, pileate to resupinate; on dead wood or often on other fungi $Antrodiella
+87,0$Spores allantoids to cylindric, 5-7 µm long; basidiocarps white, straw coloured to greyish and resupinate; always on dead wood $Diplomitoporus

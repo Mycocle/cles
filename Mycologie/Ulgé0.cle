@@ -1,0 +1,30 @@
+rem $ KEY TO THE SECTIONS AND SUBSECTIONS
+1,2 $ Pileus without veil, smooth or with setulae and/or setae; $$s"section Pseudocoprinus"
+1,4 $ *. Pileus with veil, without setules or setae.
+
+2,3 $ . Stipe glabrous; pileus glabrous or with scattered, microscopical, long, brown hairs.
+2,0 $ Stipe and pileus with setulae and/or setae; $ subsect. Setulosi J. Lange
+
+3,0 $ Stipe and pileus glabrous; spores with eccentric germ pore; $ subsect. Glabri J. Lange
+3,0 $ Stipe glabrous; pileus under microscope with scattered, long brown hairs (> 200 m); spores with central germ pore; $ subsect. Auricomi Sing.(only one species: C. auricomus)
+
+4,8 $ Veil at least in part consisting of (sub)globose elements; $$s" section Veliformes"
+4,5 $ Veil mainly consisting of elongate elements; $ $s"section Coprinus"
+
+5,6 $ . Veil scarce, tightly adhering to surface of pileus and usually difficult to remove; basidiocarps medium to rather large with 4-10 mm wide stipe; pileus white, greyish, grey-brown to ochre brown below veil, if white than pileus with annulus on stipe.
+5,7 $ *. Veil abundant, loosely attached and easy removable from pileus; basidiocarps very small to small, a few medium-sized; stipe 1-4(-6) mm wide; pileus white to greyish below veil, rare brown; never annulus on stipe.
+
+6,0 $ Pileus grey or brown; stipe without annulus; veil sparse, only at centre and brown; when veil whitish or silvery grey then spores warty; $ subsect. Atramentarii (Fr.) Konr. & Maubl.
+6,0 $ Pileus whitish with cream, ochre or darker brown centre; stipe with annulus on lower half of stipe; veil white; $ subsect. Coprinus Sing.
+
+7,0 $ Veil made up of branched, diverculate, thin- or thickwalled hyphae; if elements in chains with distinct end cells then the walls are thickened and yellow-brown; $ subsect. Alachuani Sing.
+7,0 $ Veil made up of chains of smooth, thin-walled, filamentous to elongate, sometimes ellipsoid or a few almost globose elements with distinct end cells; $ subsect. Lanatuli J. Lange
+
+8,9 $ . Fruit bodies medium-sized, somewhat fleshy; stipe 3-10 mm thick; pileus usually brown, never pure white; veil present in form of scattered, granulose floccules or small flocculose scales, often (partly) thick-walled and brown-pigmented under microscope; pileus conical or campanulate, long closed, only tardily expanding, never applanate when old, not grooved, without veil at margin when young.
+8,10 $ *. Fruit bodies very small to small, very thin-fleshed; stipe 0.5-3 mm thick; pileus white to grey; veil mealy-powdery, entirely covering the pileus, at centre often woolly-floccose, white, sometimes pale pinkish brown, yellowish or grey; thin-walled, not pigmented or rarely thick-walled, pale yellow-brown in centre of pileus; pileus expanding to become applanate, usually radially grooved and splitting, when young covered in woolly veil at margin.
+
+9,0 $ Veil breaking up in small, more persistent flocculose scales, microscopically existing of chains of fusiform, ellipsoid to globose, in part usually thick-walled cells not colouring in KOH or ammonia; $ subsect. Domesticii Sing.
+9,0 $ Veil present in scattered, granulose flocks which soon disappear, microscopically existing of a layer of globose, thin-walled cells, slightly colouring pink or lilaceous in KOH or ammonia; $ subsect. Micacei (Fr.) Uljé & Noordel.
+
+10,0 $ Elements of veil smooth or with crystals that easily dissolve in HCl; spores without episporium; $ subsect. Nivei Citerin emend.Uljé & Noordel.
+10,0 $ Elements of veil with persistent, nipple-shaped warts that do not dissolve in HCl; spores usually with distinct, rarely indistinct or lacking episporium; $ subsect. Narcotici Uljé & Noordel.

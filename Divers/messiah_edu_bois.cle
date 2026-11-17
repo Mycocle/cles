@@ -1,0 +1,573 @@
+
+Titre$Mycètes accroissant sur le bois 
+COM$tiré de http://www.messiah.edu/Oakes//fungi_on_wood/
+rem http://www.messiah.edu/Oakes/fungi_on_wood/
+rem 1,0$d'origine d'emplacement d'Au d'accès $f"http://www.messiah.edu/Oakes/fungi_on_wood/index.htm"
+1,cs1$Nids d'oiseaux$f"Nest.cle"
+1,cs2$rameaux, coraux$f"Coral.cle"
+1,cs3$cuirs $f"Parchment.cle"
+1,cs4$coupes$$f"Cup.cle"
+1,cs5$lamellés $$f"Gilled.cle"
+1,cs6$gélatineux$$f"Irregularly.cle"
+1,cs7$polypores$$f"Poroid.cle"
+1,cs8$vesces$$f"Puffball.cle"
+1,cs9$phallus$$f"Stinkhorn.cle"
+1,cs10$aiguillés$$f"Spines.cle"
+
+cs1,0$
+
+1,0 $Basidiocarpe minuscule (1,5-3 millimètre de large),presque sphérique d'abord ; blanc à jaune-orange ; s'ouvrant à la forme 4-9star-shaped rayonne et montrant une boule simple et foncée de spore (peridiole) qui peut être catapultée un distanceof plus de 6 m $ Sphaerobolus Stellatus$
+1,2 $Basidiocarpe plus grand,en général 6-10 millimètres de large et d'hauteur ; nombreux "oeuf " (peridioles) contenus dans chaque coupe ("nid")$$
+2,0 $Peridioles blancs ; intérieur de tasse lisse $Crucibulum Laeve $
+2,3 $ Peridioles gris à grisâtre-brun à noirâtre$$
+3,0 $Intérieur de la tasse rayé ou cannelé verticalement ; extérieur de tasse velu $Cyathus Striatus $
+3,4 $La tasse intérieure lissent ; extérieur de tasse finement velu à shaggy-velu$$
+4,0 $Peridioles 2-3,5 millimètres de large ; extérieur de tasse finement velu,velouté ; la bouche de cupflaring,mettent en marge souvent onduleux $Cyathus Olla $
+4,0 $Peridioles 1-2 millimètres de large ; en forme de tasse au moins shaggy-velu extérieur quand jeunes ; l'ouverture de la tasse évasant pas clairement, typiquement circulaire $Cyathus Stercoreus$
+
+
+cs2,0$
+
+
+Titre$Mycètes accroissant sur Wood/Key aux mycètes à ailettes/clef au club,au corail,ou à feuillu Laitue-comme des mycètes$$
+COM$tiré de http://www.messiah.edu/Oakes$$
+
+
+1,2 $Basidiocarpe se produisant l'un ou l'autre en tant que 1) complexe,laitue-comme les masses du complexe aplati et onduleux-mis en marge du branchesor 2),corail-comme des structures de droit ver-comme les tiges qui s'embranchent à plusieurs reprises$$
+1,6 $Les Basidiocarpe individuellement simples dans l'aspect,se produisant comme simple,droit,non ramifié ou économiquement branchedor ont bifurqué les structures qui peuvent ou ne peuvent être étroitement emballées ensemble$$
+2,3 $Branches aplaties et onduleux-mises en marge,formant le complexe laitue-comme des faisceaux$$
+2,5 $Branches pas clairement aplaties,formant le complexe,fortement embranché,corail-comme des faisceaux$$
+3,0 $Lumière de Basidiocarpe au brun rougeâtre foncé $Foliacea de Tremella$
+3,4 $Blanc de Basidiocarpe au bronzage jaune pâle ou pâle$$
+4,0 $Brun foncé s'enracinant profondément pour noircir la tige actuelle ; l'individu s'embranche les attips les plus foncés $Crispa de Sparassis$
+4,0 $Tige s'enracinante absente ; différentes branches les plus pâles aux bouts $Spathulata de Sparassis$
+5,0 $De fruit de corps le contrat davantage,semblant être constitué de beaucoup s'est fortement embranché,mais parallèle,stalks;branches droits dirigés et en dehors couronne-comme des bouts $Espèces de Ramaria.$
+5,0 $Basidiocarpe avec ouvert,candélabres -- comme la structure ; branches avec couronne-comme des bouts $Pyxidata de Clavicorona$
+6,7 $Brun de Basidiocarpe au noir,au moins en partie$$
+6,10 $Nuances de Basidiocarpe diverses de blanc,de jaune,orange ou rouge ; dans aucun noir de partie$$
+7,0 $Basidiocarpe dans les faisceaux denses ; différents Basidiocarpe sensibles,sans tissu charnu interne,verythin (1-1,5 millimètres de large),jusqu'à 2 centimètres grands,et apparaissants comme tête cylindrique sur la tige étroite,courte,brillante,noire $Espèces de Stemonitis.$
+7,8 $Les Basidiocarpe choisissent ou ont groupé ; différents corps 1,5 millimètre plus grands que de large,jusqu'à 8 centimètres de fruit de grand,avec le tissu charnu interne qui peut être tout à fait dur ou boisé$$
+8,0 $Chair à l'intérieur de brun au noir ; Basidiocarpe non ramifié ; le club supérieur comme la tête allongée ou pas andusually comprimé ou ayant un sillon longitudinal,égrappent velouté ; tige et tête avec des blackspines (objectif de main d'utilisation) $Hirsutum de Trichoglossum$
+8,9 $Chair à l'intérieur de blanc ; le Basidiocarpe s'est embranché ou pas ; parties supérieures non comprimées ou ayantes le sillon d'alongitudinal. Les surfaces externes des espèces suivantes peuvent être partiellement blanches pour polir le whenimmature mais sont la plupart du temps noires ou brunes tendant vers le noir.$$
+9,0 $Basidiocarpe épais (1-3 centimètre de large) ; apparaissant comme tordu,doigt-comme des clubs $Polymorpha de Xylaria$
+9,0 $Le Basidiocarpe amincissent (0,5-1 centimètre de large),bifurqué,apparaissant comme clubs de andouiller-like $Hypoxylon de Xylaria$
+10,11 $Basidiocarpe sans résistance de la structure,s'effondrant dans un matériel gluant où touché ; whiteto rosâtre au rouge$$
+10,12 $Basidiocarpe plus durement que décrit ci-dessus,intégrité structurale de maintien une fois touché ; blanchâtre orvariously coloré$$
+11,0 $Les Basidiocarpe blanchâtres,apparaissant en tant que masses dispersées et groupées "des corps droits icicles";individual minuscules et translucides de fruit centimètre de 0,5-1 millimètre de largeur et 0,1-1 high;branched ou simple $Fruticulosa de Ceratiomyxa$
+11,35 $Basidiocarpe rosâtres à rougeâtre,apparaissant en tant que masseswith en masse serré et comprimé l'aspect des framboises ; corps droits de fruit d'individu moins de 0,5 millimètre de large et$$
+12,0 $Basidiocarpe très minuscule (1-1,5 millimètres de large,3-10 millimètres de grand),blanchâtre ; se produisant sur les notations algue-couvertes et débarquées $Mucida de Multiclavula$
+12,13 $Basidiocarpe pas comme décrit ci-dessus,en général plus grand,non blanchâtre$$
+13,14 $Le Basidiocarpe se compose de a tête-comme la partie concernée une tige$$
+13,18 $Le Basidiocarpe manquant de l'égrappé tête-comme la partie,se produisant car les tiges cylindrique droites withpointed des bouts,s'est embranché ou pas ; jaune à jaune-orange ; chair dure et gélatineuse$$
+14,15 $Tête aplatie longitudnally d'une façon quelconque$$
+14,16 $La tête chapeau-comme,irrégulièrement lobé et compliqué,des marges inrolled fortement ; pas longitudnallycompressed$$
+15,0 $Le ventilateur principal à cuillère-formé avec les marges onduleuses,écrèment coloré au jaune jaunâtre de tobrownish ; égrappez plus foncé en couleurs (ocre à brun-rougeâtre),petit duveteux,attaché au substrat par les poils oranges $Velutipes de Spathulariopsis$
+15,0 $Cuillère principale ou langue-formé,comprimé ou longitudinalement silloné ; stalkscaly-granulaire ; tête et orange de tige à jaunir $Rufum de Microglossum$
+16,0 $Verdâtre foncé principal,jaune de tige au jaune orange $Viscosa de Leotia$
+16,17 $Le chef et égrappent plus ou moins la même couleur$$
+17,0 $Jaune mat de Basidiocarpe à jaune-orange $Lubrica de Leotia$
+17,0 $Vert de pois de Basidiocarpe au vert bleuâtre $Atrovirens de Leotia$
+18,0 $Basidiocarpe 1-2,5 centimètres de large,2,5-10 centimètres de grand ; s'embrancher de la base avec le haut a branchesusually bifurqué $Viscosa de Calocera$
+18,0 $Basidiocarpe jusqu'à 3 millimètres de large et jusqu'à 1,5 centimètre de grand ; apex non ramifié ou parfois de forkedat $Cornée de Calocera$
+35,0 $millimètre de haut $Ferruginosa de Tubifera$
+
+
+
+rem mycologiques de gestion de clés$
+
+Titre$Mycètes accroissant sur Wood/Key au/à ailettes de mycètes/clef aux mycètes de croûte et de parchemin$$
+COM$tiré de http://www.messiah.edu/Oakes$$
+
+
+cs3,0$
+1,2 $Basidiocarpe se produisant comme projetant étagère-comme ou pétale-comme des chapeaux (parchemin-comme dans des parties de texture) avec ou de withoutresupinate (croûte-comme)$$
+1,6 $Basidiocarpe sans étagère de projection ou pétale-comme des chapeaux,1) apparaissant comme sheetlike ou formor de propagation de crustlike 2) aussi gonflé,noirâtre axe-comme des croissances sur des brindilles ou 3) que les morceaux étroitement disposés et cassés de whitishto grisâtres au carreau de céramique de tanish$$
+2,0 $Brun fertile de surface de resupinate avec des setae coniques (objectif de main d'utilisation),lisse ou criqué extérieur ; capsbrownish et concentrique réparti en zones ; la chair tourne noirâtre avec du KOH ; les Basidiocarpe fondent souvent latéralement aux colonies de formlarger $Complexe de tabacina de Hymenochaete$
+2,3 $Surface fertile sans setae coniques ; chair non noirâtre avec du KOH$$
+3,0 $Chapeau gray/silvery pâle et couvert de fibres soyeuses de rayonnement minuscule ; les chapeaux 0,5-1 centimètre de large mais laterallyfused souvent ; brindilles extérieures fertiles et branches mortes blanchâtres et croissantes de caroliniana de hornbeam(Carpinus) $Striatum de Stereum$
+3,4 $Chapeau en général velu mais couleur,taille,et substrat pas comme ci-dessus$$
+4,0 $Couvre 1-7 centimètre de large ; distinctement réparti en zones avec des nuances de brun foncé,de rouille,et de gris ; le cuir épais fertile de surface tocinnamon-polissent ; typiquement formant différentes parenthèses plutôt que de fondre $Ostrea de Stereum$
+4,5 $Couvre 0,3-2 centimètre de large,zoné,souvent fondu latéralement$$
+5,0 $Chapeau couvert de poils bruts et raides ; cuir épais fertile de surface au gris $Hirsutum de Stereum$
+5,0 $Marge proche velue de chapeau,douce et brillante soyeuse,radialement sillonée ; l'orange extérieure fertile mais le fadingto cannelle-polissent,légèrement strié où les chapeaux se joignent $Complicatum de Stereum$
+6,7 $Sheetlike de Basidiocarpe ,crustlike,s'étendant dans l'aspect$$
+6,9 $Basidiocarpe comme gonflé,noirâtre axe-comme des croissances sur des brindilles ou en tant que morceaux étroitement disposés et cassés de whitishto grisâtres aux carreaux de céramique de tanish$$
+7,0 $Basidiocarpe mou,la masse pelucheuse,gluante,jaunâtre,écartante d'abord ; mûrissant dans sec,ocre aux jusqu'à 20 centimètres rouge-brownmass long,1-3 centimètre épais ; avec une croûte fragile et noirâtre,pulvérulent,la masse de dryspore dessous $Septica de Fuligo$
+7,8 $Basidiocarpe dur,noirâtre,carboné$$
+8,0 $Sur les branches se délabrantes de bois dur,les encerclant souvent ; surface finement rude au nearlysmooth et brillante,parfois criqué ; chair 1-1,5 millimètres d'épaisseur $Stigmate de Diatrype$
+8,0 $Sur des tronçons et des racines des bois durs se délabrants ; la surface irrégulière avec bosse-comme donner de pores finelyroughened l'aspect ; chair 3-6 millimètres d'épaisseur ; souvent fragile et facilement détaché $Deusta d'Ustulina$
+9,0 $Basidiocarpe comme fusiforme ou comme noeud-comme le gonflement sur des andbranches de brindilles de cerise (Prunus) $Morbosa d'Apiosporina$
+9,0 $Basidiocarpe dur et boisé ; en apparaissant en tant que morceaux étroitement disposés,petits,cassés de whitishto rosâtre-polissez les tuiles typiquement sur les notations et les tronçons débarqués de chêne $Frustulatus de Xylobolus$
+
+
+
+
+cs4,0$
+
+
+
+
+
+Titre$Mycètes accroissant sur Wood/Key aux mycètes à ailettes/clef à la tasse et aux mycètes Soucoupe-Formés$$
+
+
+
+COM$tiré de http://www.messiah.edu/Oakes$$
+
+
+1,2 $La surface fertile (à l'intérieur de la tasse ou si soucoupe-comme,de l'extrados) a coloré jaune ou orange à vert ou violacé orange-redor$$
+1,9 $Surface fertile (à l'intérieur de la tasse ou si soucoupe-comme,de l'extrados) 1) blanchâtre et concentrique répartie en zones,2) entirelywhitish ou noirâtre,ou 3) une certaine nuance de brun comprenant le bronzage,le brun brun ou plus foncé rougeâtre$$
+2,3 $Basidiocarpe rouge,rouge-orange,jaune-orange à l'orange mate ; marge fringée de remarquable (poils bruns ou noirâtres de lens)dark de main d'utilisation$$
+2,4 $Basidiocarpe pas avec la combinaison ci-dessus de couleur et des poils foncés marginaux$$
+3,0 $Basidiocarpe jaune-orange à l'orange mate ; 1,5-5 millimètre de large $Erinaceus de Scutellinia$
+3,0 $Rouge de Basidiocarpe ,rouge-orange à l'orange ; 3-15 millimètres de large $Scutellata de Scutellinia$
+4,5 $Basidiocarpe vert ou jaune ou violacé$$
+4,7 $Rouge lumineux de Basidiocarpe $$
+5,0 $Vert de Basidiocarpe ; vert colonisé en bois $Aeruginascens de Chlorociboria$
+5,6 $Jaune de Basidiocarpe ou violacé$$
+6,0 $Basidiocarpe jaune citron $Citrina de Bisporella$
+6,0 $Basidiocarpe violacé $Sarcoides d'Ascocoryne$
+7,0 $Tasse-comme le Basidiocarpe concerné une tige,tige et tasse couvertes de poils de conspicuouswhite $Floccosa de Microstoma$
+7,8 $Basidiocarpe égrappé ou pas ; non couvert de poils blancs remarquables$$
+8,0 $Peu profond tasse-comme le Basidiocarpe jusqu'à 1,3 centimètre de large ; tige remarquable $Occidentalis de Sarcoscypha$
+8,0 $Peu profond,tasse-comme le Basidiocarpe 2-5 centimètre de large ; short ou manquer de tige $Austriaca de Sarcoscypha$
+9,0 $Surface fertile concentrique répartie en zones,0,5-2 centimètre de large $Conchifer de Trametes$
+9,10 $Surface fertile non répartie en zones$$
+10,11 $Blanchâtre extérieur ou noirâtre fertile$$
+10,14 $Fertile une certaine nuance de brun comprenant le bronzage,le brun brun ou plus foncé rougeâtre$$
+11,12 $Blanchâtre extérieur fertile$$
+11,13 $Noirâtre extérieur fertile$$
+12,0 $Basidiocarpe plus grand (1-3 centimètre de large),surface externe couverte de poils de conspicuousbrownish $Hemisphaerica de Humaria$
+12,0 $Basidiocarpe très petit (1 millimètre de large),égrappé,et couvert de poils de conspicuouswhite $Virgineus de Dasyscyphus$
+13,0 $Basidiocarpe par tasse urne-formée,3-8 centimètre de large ; présent distinct de tige $Craterium d'Urnula$
+13,0 $Le Basidiocarpe soucoupe-a formé à plat-complété à la maturité,2-4 centimètre de large ; stalkless $Inquinans de la Bulgarie$
+14,15 $Chair de Basidiocarpe caoutchouteux-gélatineuse$$
+14,16 $Chair de Basidiocarpe fragile,non gélatineux ou caoutchouteux ; tasse de Basidiocarpe à soucoupe-formé,et sometimesirregularly à formé avec les marges onduleuses ou déchirées$$
+15,0 $Basidiocarpe 1-3,5 centimètres de large,décidément deux-modifié la tonalité avec le bronzage extérieur fertile au brownand rougeâtre la surface externe brune tendant vers le noir et finement velu $Rufa de Galiella$
+15,0 $Basidiocarpe 3-15 centimètre de large,pas distinctement deux-modifié la tonalité ; le Basidiocarpe oreille-a formé à irregularlycup-formé avec des parties du Basidiocarpe irrégulièrement froissé ou avec augmenté,veine-likemarkings $Auricule d'Auricularia$
+16,0 $Surface externe semblable en couleurs sur la surface (fertile) intérieure $Badioconfusa de Peziza$
+16,0 $Surface externe blanchâtre $Repanda de Peziza$
+
+Titre$Mycètes accroissant sur Wood/Key aux mycètes à ailettes//Key aux mycètes à ailettes$$
+COM$tiré de http://www.messiah.edu/Oakes$$
+
+
+cs5,0$
+
+
+1,cs11 $Basidiocarp sessile ou de tige latérale $Groupez A$
+1,2 $Basidiocarp avec un central à la tige excentrique$$
+2,0 $Volva actuel,anneau absent $Bombycina de Volvariella$
+2,3 $Volva absent,présent d'anneau ou pas$$
+3,cs15 $Anneau actuel sur la partie supérieure du pied $Groupe E$
+3,4 $Anneau absent sur la partie supérieure du pied$$
+4,5 $Bord des lames même$$
+4,7 $Bord des lames entaillées ou dentées comme une scie ou sembler érodé ou déchiré$$
+5,cs12 $ lames clairement decurrent à subdecurrent $Groupe B$
+5,6 $Les lames libèrent ou si attachées,non decurrent$$
+6,cs14 $Copie de spore pourpre-brune au noir $Groupe D$
+6,cs13 $Blanc d'impression de spore à polir ou rosâtre-saumons $Groupe C$
+7,0 $Le cuir épais d'impression de spore,couvrent rosâtre-brun pour brunir,lisse ; brun rosâtre d' lames $Omphalodes de Lentinellus$
+7,8 $Copie de spore rosâtre ou blanche$$
+8,0 $La copie de spore rosâtre,couvrent bleuâtre à la violette, lame affile bleu-noir foncé $Serrulata de Leptonia$
+8,0 $Le blanc d'impression de spore,couvrent brunâtre-gris,strié avec les fibres foncées et radiales ; le blanc d' lames ,peut sembler déchiré ou érodé ; rhizomorphs blancs à la base de la tige $Platyphylla de Megacollybia$
+
+
+ 
+cs6,0$ 
+1,2 $Basidiocarpe noirâtre ou blanchâtre$ $ 
+1,3 $Basidiocarpe jaunâtre à jaune-orange ou à violacé ou à brunâtre$ $ 
+2,0 $Basidiocarpe noirâtre $Glandulosa d'Exidia$ 
+2,0 $Basidiocarpe blanchâtre $Pululahuana de Ductifera$ 
+3,4 $Basidiocarpe jaunâtre à jaune-orange$ $ 
+3,5 $Basidiocarpe violacé ou brunâtre ; sur des bois durs$ $ 
+4,0 $Point de Basidiocarpe d'attachement proche blanchâtre ; se développe sur des notations de conifère $Palmatus de Dacrymyces$ 
+4,0 $Basidiocarpe sans point d'attachement blanchâtre ; sur des notations de bois dur $Mesenterica de Tremella$ 
+5,0 $Basidiocarpe violacé ; différents Basidiocarpe tasse-comme ou disque-comme jusqu'à 1 centimètre de large mais sooncoalesce pour former une masse gélatineuse irrégulière $Sarcoides d'Ascocoryne$ 
+5,6 $Basidiocarpe brunâtre (jaunâtre à rougeâtre au brun grisâtre)$ $ 
+6,0 $Basidiocarpe irrégulièrement cupulaire ou oreille-formé avec des parties irrégulièrement froissées ou avec raisedvein-comme des inscriptions, finement tomentose $Auricule d'Auricularia$ 
+6,0 $Le Basidiocarpe pas comme ci-dessus, se produisant que de forme irrégulière, contorted le tomentose de clusters;not $Recisa d'Exidia$ 
+
+cs7,0$ 
+rem polypores groupe commence au cs16
+1,2 $Basidiocarp 1) presque globuleux ;diamètre 1-3 centimètre ; sur le bois conifére ; surface des pores recouverte d'un voile partiel ou 2) basidiocarp extrêmement petit (1-3 millimètres de diamètre), pendant d'une tige-likebase$ $ 
+1,3 $Basidiocarp pas comme ci-dessus$ $ 
+2,0 $Basidiocarp extrêmement petit et en suspens $Pendulus de Porodisculus$ 
+2,0 $Basidiocarp globuleux avec des pores couverts par un voile partiel $Volvatus de Cryptoporus$ 
+3,4 $De surface le porelike fertile superficiellement mais se composer d'un réseau des puits peu profonds, rides, andbranched des plis avec des croix-veines$ $ 
+3,5 $La surface fertile avec 1) les pores ronds ou angulaires distincts, ou 2) étudie à fond cette forme dent-comme des structures, ou 3)sinueux ou enroulement étudie à fond beaucoup plus longtemps dans une direction (mazelike ou daedaleoid), ou 4) étudie à fond thatform lame -comme les structures (lamellaires)$ $ 
+4,0 $Extrados du rose de corail de pileus, presque glabre ; projection de jusqu'à 8 centimètres de substrat $Incarnata de Phlebia$ 
+4,0 $Extrados de blanc de pileus, wooly ; projection de jusqu'à 1,5 centimètre de substrat $Tremellosa de Phlebia$ 
+5,6 $Surface fertile avec les pores qui apparaissent comme toothlike, mazelike, ou lamellaire$ $ 
+5,7 $Surface fertile avec les pores ronds ou angulaires distincts$ $ 
+6,cs17 $Surface comme daedaleoid ou lamellaire fertile $Groupe B$f"Group B - pores.cle"
+
+6,cs16 $Toothlike extérieur fertile $Groupez A $f"Group A - pores.cle"
+7,cs18 $Basidiocarp dur et boisé si frais et montrant plus d'une couche de tubes (c.-à-d. croissance une de l'an morethan) quand coupe verticalement en bas du centre (polypores éternels) $Groupe C$f"Group C - pores.cle"
+
+7,8 $Basidiocarps doux, charnu, leathery, ou semblable au liège si frais et en montrant seulement une couche de tubeswhen réduit verticalement en bas du centre$ $ 
+8,9 $Brun brun de substance (contexte) ou plus foncé jaunâtre intérieur ou décidément rosâtre, rougeâtre, jaunâtre, ou orange$ $ 
+8,10 $Bronzage blanc, blanchâtre, jaune pâle ou très léger de substance intérieure (contexte)$ $ 
+9,cs19 $Contexte rosâtre à rougeâtre ou à jaunâtre ou à orange $Groupe D $f"Group D - pores.cle"
+
+9,cs20 $Brun brun de contexte ou plus foncé jaunâtre $Groupe E $f"Group E - pores.cle"
+10,cs21 $Basidiocarp avec tige simple ou embranchée plus ou moins distincte $Groupe F $f"Group F - pores.cle"
+10,11 $Basidiocarp non refoulé (sessile)$ $ 
+11,12 $De pore de surface jaune distinctement ou plus ou moins fumée-coloré ou noir$ $ 
+11,13 $Surface de pore pas comme ci-dessus$ $ 
+12,0 $La surface de pore jaunissent distinctement $Sulphureus de Laetiporus$ 
+12,cs22 $Surface de pore plus ou moins fumée-coloré ou noir $Groupe G $f"Group G - pores.cle"
+13,0 $Marge de pileus projetant des 5 millimètres de haut en bas ou plus au delà du surface;found de pore seulement sur le bouleau (bétula) $Betulinus de Piptoporus$ 
+13,14 $Marge pas comme ci-dessus$ $ 
+14,0 $Surface de pileus davantage ou moins entièrement brun ou noirâtre ; étudie à fond le blanc, meurtrissure brunâtre, chair aqueuse quand des jeunes $Resinosum d'Ischnoderma$ 
+14,15 $Surface de pileus pas uniformément brune en couleurs$ $ 
+15,cs24 $Société de Basidiocarp et whenfresh semblable au liège, fibreux ou dur et leathery $Groupe I$f"Group I - pores.cle"
+15,cs23 $Basidiocarp doux et spongieux dans la texture si frais, contexte souvent aqueux $Groupe H $f"Group H - pores.cle"
+
+cs8,0$ 
+1,2 $Fruitbody petit, 0,15-1,5 centimètre de large et d'hauteur à la maturité$ $ 
+1,4 $Fruitbody en général plus en grande partie que 1,5 centimètre de large et d'hauteur à la maturité$ $ 
+2,0 $Fruitbody velouté ; orange ou plus pâle jaunâtre avec un membrane(lid) velu orange jaunâtre couvrant le dessus. Le déplacement de la membrane indique un certain nombre de tasse blanchâtre de withinthe d'"oeufs" (des peridioles) ("nid") $LaeveNote de Crucibulum : D'autres espèces des mycètes du nid de l'oiseau, quand les jeunes, ont également des membranes couvrir les peridioles.$ 
+2,3 $Fruitbody différemment coloré mais non velu ; peridioles absents$ $ 
+3,0 $Rouge extérieur de brique au noir, petit inégal ; le sectionnement indique la chair dure et noire avec le cavities(perithecia) minutieux $Fragiforme de Hypoxylon$ 
+3,0 $Rosâtre-gris ou brun tendant vers le jaune extérieur ou olivaceous-brun ; le sectionnement indique rosâtre uniforme, la masse de pâte-likespore si non mûr, changeant en la masse pulvérulente et ocre de spore si mûr $Epidendrum de Lycogala$ 
+4,5 $Société de Fruitbody au contact, dur ou boisé$ $ 
+4,7 $Fruitbody charnu ou doux$ $ 
+5,0 $Présent dur de membrane, couvrant des pores d'un poroid fruitbody ; membrane opensforming par la suite un trou ; sur des conifères $Volvatus de Cryptoporus$ 
+5,6 $Membrane absente, pas un mycète de poroid$ $ 
+6,0 $Fruitbody arrondi ou aplati ; pelez profondément, dur, jaune-brun, et warted;interior violacé-noir, marbré avec les veines blanchâtres $Citrinum de sclérodermie$ 
+6,0 $Fruitbody arrondi, noirâtre extérieur à la maturité (grisâtre-blanche, puis brun-rougeâtre quand immature), boutonneux ; chair noirâtre et concentrique répartie en zones $Concentrica de Daldinia$ 
+7,8 $L'intérieur de Fruitbody, une fois en coupe de haut en bas, indiquant deux ou plus internes chambersfilled avec la boue olive-verte$ $ 
+7,10 $Intérieur de Fruitbody sans boue verdâtre dans les chambres distinctes$ $ 
+8,0 $Boue se produisant en tant que plusieurs chambres (plus de de deux) dans la partie supérieure de l'en forme de poire body;fruitbody de fruit à arrondi, blanche à rosâtre, attaché au substrat à la base par les rhizomorphs blancs de topinkish $Saccatus de Phallogaster$ 
+8,9 $Boue apparaissant en tant que deux chambres de chaque côté d'un noyau central non de tissu de boue$ $ 
+9,0 $Fruitbody, unsectioned, apparaissant oeuf-comme (ovale à en forme de poire) ; wide;whitish de centimètres de 3,5-6 centimètres de grand et 3-4,5 à rosâtre ; attaché au substrat par les rhizomorphs rosâtres $Ravenelii de phallus$ 
+9,0 $Fruitbody, unsectioned, apparaissant oeuf-comme (ovale à rond ou poire-shaped), 1-2 centimètre grand et cmwide 1-1,5 ; blanc à rosâtre-rouge ; attaché au substrat par les rhizomorphs blancs $Espèces de Mutinus.$ 
+10,0 $Blanchâtre et spongieux intérieurs, souvent marbré avec les veines rosâtres ; blanchâtre extérieur ; fruitbodies arebumpy, arrondi aux masses irrégulières habituellement trouvées en association avec des lames rosâtres de mushroomswith grisâtre-brun et une tige blanchâtre $Abortivum d'Entoloma$ 
+10,11 $Blanchâtre et charnu intérieurs si non mûr, sec et pulvérulent à maturiy ; spore mûre masspurple-brune ou jaune à olive-brun$ $ 
+11,0 $Violacé-brun de masse de spore si mûr. $Subincarnata de Morganella$ 
+11,12 $Verdâtre-brun de masse de spore si mûr$ $ 
+12,0 $En forme de poire presque à en rond ; smoothish, jaune-brun extérieurs, couverts d'abord de minutewarts, granules ou épines ; s'ouvrir avec un pore sur le dessus ; fruitbody attaché aux rhizomorphs en bois de bywhite $Pyriforme de lycoperdon$ 
+12,0 $Rond à turban-formé, blanc, vieillissant à jaune-brun ; la surface d'abord couvert par les épines longerconical d'épines et de granules plus courts entre, de plus grandes épines interrompent dans les cicatrices rondes de leavingdistinct d'âge entourées par les épines courtes et le granules.Opening par un pore sur le dessus $Perlatum de lycoperdon$ 
+
+cs9,0$ 
+ rem phallus
+ 
+1,0 $Tige blanchâtre ; tête distincte couverte de boue brune olive, marge inférieure de tête librement de la tige ; tasse rosâtre de whiteto (volva) à la base de la tige $Ravenelii de phallus$ 
+1,2 $Tige rosâtre-rouge à l'orangish (ou au blanc) ; manquer distinct de tête ; boue olive-brune couvrant une partie de tige de theupper ; blanc, sac-comme le volva à la base de la tige$ $ 
+2,0 $Rouge rosâtre de tige à rosâtre-orange, avec élégance conique du milieu vers l'apex ; sporemass gluants couvrant le haut 1/3 ou le ½ de la tige (jusqu'à 6 centimètres) $Elegans de Mutinus$ 
+2,0 $Blanc de tige au rose à rosâtre-rouge, conique abruptement à l'apex ; bâche gluante de la masse de spore seulement l'upper¼ ou moins (2 ou 3 centimètres) de tige $Caninus de Mutinus$ 
+
+cs10,0$ 
+rem spines 
+1,2 $Couvre le présent, 1) individuellement sessile ou égrappé, ou 2) comprendre reflexed des parties d'effused-reflexed l'habitude de croissance$ $ 
+1,6 $Couvre le resupinate absent, de fruit de corps 1) entièrement ou 2) se produisant comme masse des épines pendantes$ $ 
+
+2,0 $Basidiocarpe distinctement gélatineux, se produisant en tant que chapeaux stalkless 2-8 centimètre de large ou avec les tiges latérales ; extrados de chapeau blanchâtre à grisâtre à brunâtre ; dessous couvert de short, toothlike, épines blanchâtre-translucides $Gelatinosum de Pseudohydnum$ 
+2,3 $Basidiocarpe pas avec la combinaison ci-dessus des traits$ $ 
+3,4 $Le Basidiocarpe effused-reflexed$ $ 
+3,5 $Le Basidiocarpe des chapeaux sessile ou égrappés, pas effused-reflexed$ $ 
+4,0 $Couvre l'ocre avec les marges blanchâtres ; bronzage ou ocre extérieur fertile, blanchâtres vers la marge, soutenant des épines 1-1,5 millimètres long et souvent bifurqué $Ochraceum de Steccherinum$ 
+4,0 $Couvre le blanc ; blanc extérieur fertile, soutenant le blanc aux dents aplaties jaunâtres 0,5-5 millimètre long qui forment des tubes $LacteusNote d'Irpex : Le lacteus d'Irpex est un mycète de poroid. C'est des pores décomposent rapidement (c.-à-d. les parties des tubes betweenadjacent de murs disparaissent) pour former dent-comme des projections. Vérifiez près des marges l'évidence de la nature d'itsporoid. Certains autres mycètes de poroid (le groupe principal A) développent également a dent-comme la surface fertile.$ 
+5,0 $Basidiocarpe se composant (15-30 centimètre de haut) des faisceaux grands de grands (10-15 centimètre de large), stalkless, recouvrants chapeaux jaunâtre-blancs avec les undersurfaces dentés ou épineux ; les épines 0,5-2 centimètre long ; le mycète se produit sur les troncs des arbres latifoliés de vie $Septentrionale de Climacodon$ 
+5,0 $Le Basidiocarpe se composant légèrement, dur, rein à en forme d'hélice à la circulaire couvre 2,5-7,5 centimètres de large avec ou sans une tige latérale courte ; les chapeaux soutiennent les épines brunâtres 1-3 millimètres de long sur la face inférieure ; les épines semblent fondues et bifurquées à leurs bouts ; le mycète se produit sur des notations et des branches tombées $Adustum de Mycorrhaphium$ 
+6,7 $Resupinate de Basidiocarpe , crustlike apparaissant$ $ 
+6,11 $Fruitbody se produisant comme masse des épines pendantes ; habituellement le whitsh mais les spécimens plus anciens peut être jaunâtres$ $ 
+7,8 $Jaune de Basidiocarpe ou jaune-orange blanchâtre ou distinctement lumineux$ $ 
+7,10 $Bronzage de champignon, ocre ou brunâtre$ $ 
+8,0 $Le blanc extérieur fertile, soutenant le blanc aux dents aplaties jaunâtres 0,5-5 millimètre long qui forment des tubes (voient la note ci-dessus) $Lacteus d'Irpex$ 
+8,9 $De surface jaune lumineux distinctement ou jaune-orange fertile$ $ 
+9,0 $Basidiocarpe formant les pièces rapportées de propagation avec les dents aiguës de haut en bas (5-10 millimètres long) ; se produisant sur les arbres fruitiers, en particulier pommes ; fruité d'odeur ou désagréable fort et doux $Setosa de Sarcodontia$ 
+9,0 $Sheetlike de Basidiocarpe avec la surface fertile jaune-orange et dentée lumineuse et avec le présent orange lumineux des rhizomorphs (10-20 centimètre long) ; les dents 1-4 millimètres long $Chrysorhiza de Phanerochaete$ 
+10,0 $Olive-brun extérieur fertile au brun de cannelle ; couvert de dents inégales et aplaties 3-6 millimètres long, dents couvertes par des setae foncés (objectif de main d'utilisation) $Olivaceus de Hydnochaete$ 
+10,0 $Bronzage ou ocre extérieur fertile, blanchâtre vers la marge ; couvert d'épines 1-1,5 millimètres long et souvent bifurqué $Ochraceum de Steccherinum$ 
+11,0 $Fruitbody semblant non ramifié, se produisant comme masse 10-25 centimètre globeuse, de beardlike de large et haut avec des épines de 2-5 centimètres long (dents) formées les lignes et en couvrant les côtés $Erinaceus de Hericium$ 
+11,12 $Fruitbody s'est embranché avec des épines sur les branches$ $ 
+12,0 $Les épines 0,3-1 centimètre long, accrochant plus ou moins même dans les rangées le long des branches $Coralloides de Hericium$ 
+12,0 $Les épines 2-4 centimètre long, tendant à être en touffes aux extrémités des branches mais également le long des branches aussi bien $Americanum de Hericium$ 
+
+ ...............................
+sous clés 
+rem groupe A
+
+cs11,0$ 
+
+1,0 $lame affile entaillé ou denté, comme une scie ; chapeau brunâtre, en masse velu $Ursinus de Lentinellus$ 
+1,2 $lame affile même$ $ 
+2,0 $Le noir grisâtre de Basidiocarps, très petit (2-6 millimètres de large), a trouvé sur des oflogs de dessous $Applicatus de Resupinatus$ 
+2,3 $Basidiocarps non noir, en général plus grand, plus en évidence montré$ $ 
+3,0 $Brun d'impression de spore $Espèces de Crepidotus.$ 
+3,4 $Copie de spore blanche, lilas-grise, rose ou jaunâtre$ $ 
+4,5 $Blanc d'impression de spore ou lilas-gris$ $ 
+4,11 $Rose d'impression de spore ou jaunâtre$ $ 
+5,6 $Chapeau clairement velu ou brouillé$ $ 
+5,9 $Chapeau lisse petit à velu ou écallieux, pas distinctement velu ou brouillé$ $ 
+6,0 $Corps fruitier plus grand (2,5-7,5 centimètres de large) ; couvrez pinkish-bronzage à la violette brun-rougeâtre ou teintée, âge de tanwith $Strigosus de Lentinus$ 
+6,7 $Corps fruitier petit (1-3 centimètre de large) ; chapeau blanchâtre, blanchâtre-gris à brunâtre$ $ 
+7,0 $ lames vraies actuelles, ni serti par replis ni dédoublé en long ; couvrez semi-finale-circular ou rein-shaped;gills brunâtre pour pâlir la cannelle ; goût amer $Stipticus de Panellus$ 
+7,8 $ lame -comme des plis sertis par replis ou dédoublés en long ; plie blanchâtre, gris ou rose-teintée$ $ 
+8,0 $Plis sertis par replis $Crispa de Plicaturopsis$ 
+8,0 $Les plis se sont dédoublés en long $Commune de Schizophyllum$ 
+  
+groupe B
+cs12,0$ 
+1,2 $Chapeau, tige ou toutes les deux avec des secteurs clairement velus ou veloutés$ $ 
+1,4 $Chapeau et tige lisses, sans secteurs velus ou veloutés remarquables bien que les touffes des fibres, des poils emmêlés, et des smallscales puissent être présentes sur quelques espèces$ $ 
+2,0 $Chapeau 0,5-2,5 centimètre de large, base de tige couverte de poils denses d'orangish, mushroomsdensely groupés $Campanella de Xeromphalina$ 
+2,3 $Chapeau en général plus en grande partie que 2,5 centimètres de large, champignons solitaires à groupé ou à groupé$ $ 
+3,0 $Corps convexe de chapeau à plat, brunâtre ; la tige 2,5-10 centimètres long, jusqu'à 3 centimètres d'épaisseur, central à l'excentrique, poils withblackish-bruns veloutés ; les lames jaunâtres, ont bifurqué à pore-comme la tige proche, yellowishto d'impression de spore brunâtre $Atrotomentosus de Paxillus$ 
+3,25 $Rein de chapeau à éventer ou entonnoir-être formé ; chapeau et tige, rosâtre bronzage en masse velu et velouté aux teintes violettes de brownwith rougeâtre, ochraceous pâle devenant ou bronzage avec l'âge ; tige courte et tronquée (typiquement moins que$ $ 
+4,0 $Rose de saumons d'impression de spore ; formes avortées actuelles en plus des formes à ailettes $Abortivum d'Entoloma$ 
+4,5 $Blanc d'impression de spore à la crème, jaune pâle, lilas-gris, ou brunâtre$ $ 
+5,0 $Copie de spore brunâtre ; couvrez brunâtre, sec à gluant, à lisse ou à couvert de hairs;flesh emmêlé, d' lames , et de brun de contusion de tige ou brun rougeâtre sur la manipulation $Involutus de Paxillus$ 
+5,6 $Blanc d'impression de spore à crème ou à jaune ou à lilas-gris$ $ 
+6,0 $Jaune d'impression de spore ; chapeau brunâtre ; lames d'or $Chrysophylla de Chrysomphalina$ 
+6,7 $Blanc d'impression de spore à la crème ou lilas-gris$ $ 
+7,8 $Chapeau rouge-orange à l'orange à jaune-orange$ $ 
+7,9 $Brun foncé de chapeau à jaune-brun ou au blanc à la crème ou à grisâtre-brun$ $ 
+8,0 $Chapeau 7,5-20 centimètres de large $Illudens d'Omphalotus$ 
+8,0 $Chapeau plus petit, jusqu'à 4 centimètres de large $Cantharellus de Hygrocybe$ 
+9,0 $Blanc de couleur de chapeau à la crème à grisâtre ou à grisâtre-brun ; extérieur lissez, sans fibres de tuftsof ou balances $Complexe d'ostreatus de Pleurotus$ 
+9,0 $Chapeau jaune-brun avec des touffes brunes plus foncées des fibres ou des balances ; se produit les inclusters à la base des arbres $Tabescens d'Armillaria$ 
+25,0 $centimètre long), excentrique ; lames non bifurquées ou porelike ; blanc d'impression de spore $Strigosus de Lentinus$ 
+
+ 
+cs13,0$ 
+1,2 $Blanc d'impression de spore à polir$ $ 
+1,14 $Rose d'impression de spore ou pinkish/salmon$ $ 
+2,0 $Chapeau 5-15 centimètre de large, blanchâtre au début, avec l'âge, tannish devenant, souvent fendant et formant les pièces rapportées écallieuses de petit scalesor ; lames attachées, blanchâtre à la crème ; la tige blanchâtre, vaillant, excentrique, 5-10 centimètre long, 1-2 centimètre épais, oftenbending du point d'attachement ; se produisant séparément ou dans de petits groupes sur des bois durs, souvent des arbres vivants d'aîné de boîte de woundson (negundo d'Acer) $Ulmarius de Hypsizygus$ 
+2,3 $Pas avec la combinaison ci-dessus des caractéristiques$ $ 
+3,4 $Chapeau avec les fibres remarquables, les balances fibreuses, ou les poils d'une couleur différente que la couleur de fond de chapeau$ $ 
+3,7 $Chapeau lisse, sans poils remarquables ou balances fibreuses différents en couleurs que la couleur de fond de chapeau$ $ 
+4,0 $ lames librement, chapeau avec de longs, radialement disposés poils fauves $Zonata de Crinipellis$ 
+4,5 $ lames jointes$ $ 
+5,0 $Chapeau brunâtre-gris, strié des fibres foncées et radiales ; lames blanches ; base blanche de rhizomorphsat de tige $Platyphylla de Megacollybia$ 
+5,6 $Chapeau jaunâtre à jaunâtre-orange ; jaune d' lames ; tige sans rhizomorphs$ $ 
+6,0 $Chapeau jaunâtre avec les balances noirâtres et fibreuses sur le centre $Decora de Tricholomopsis$ 
+6,0 $Chapeau jaunâtre-orange avec les balances rougeâtres et fibreuses $Rutilans de Tricholomopsis$ 
+7,8 $Basidiocarp très petit (des chapeaux de 2 millimètres à 3 centimètres de large, tiges jusqu'aux thick);caps de 1,5 millimètre plissés, évier au centre, lames peuvent être fixés à un collier$ $ 
+7,9 $Basidiocarp plus en grande partie qu'en haut, couvrent non plissé ou évier au centre$ $ 
+8,0 $Chapeau brunâtre ; tige velours-brune ; lames fixées à un collier ; le champignon a l'odeur d'afoul. $Foetidum de Micromphale$ 
+8,0 $Blanc de chapeau ; tige dure, brillant, noir ; des lames peuvent être attachées à un collaror à la tige $Rotulu de Marasmius$ 
+9,0 $Tige très longtemps (8-20 centimètre) au-dessus de la terre et de faire rectifier un portionbelow s'enracinant également long, attaché à une racine ; le chapeau brunâtre et collant, sometimeswrinkled ; lames blanches $Furfuracea de Xerula$ 
+9,10 $Tige pas comme ci-dessus ; champignon sur le bois$ $ 
+10,11 $Orangish de champignon avec les bords rouge-oranges remarquables d' lame ou la chair rougeâtre-brownwith de champignon et le jus sang-rouge d'exsudation de tige où coupé$ $ 
+10,12 $Champignon sans bords d' lame ou jus rouge-oranges de rouge de sang$ $ 
+11,0 $Chair et jus sang-rouge d'exsudation de tige $Haematopus de Mycena$ 
+11,0 $lame affile rouge-orange $Leaiana de Mycena$ 
+12,0 $Chapeau collant et couleur fauve en couleurs ; égrappez l'obscurité ci-dessus et veloutée jaunâtre ci-dessous avec le shortbrown aux poils bruns tendant vers le noir ci-dessous ; les lames écrèment pour jaunir $Velutipes de Flammulina$ 
+12,13 $Pas comme ci-dessus$ $ 
+13,0 $Le chapeau conique à en forme de cloche, polir-brun à cannelle-brun avec grisâtre strient grisâtre-blanc pâle de margin;stipe au brun foncé dans l'âge, base non couverte par le mycélium blanc ; goût d'odorand désagréable ; choisissez ou dans des faisceaux de cespitose sur des notations et des tronçons de decayedhardwood $Galericulata de Mycena$ 
+13,0 $Corps convexe de chapeau à l'effacement presque plat et brun-rougeâtre au bronzage ; la tige brun-rougeâtre avec basecovered par le mycélium blanc ; odeur et goût non distinctifs ; souvent accroissant dans les cespitoseclusters sur les notations de conifère et le bois délabré $Acervatus de Gymnopus$ 
+14,0 $Chapeau rougeâtre à rosâtre et clairement en filet avec des arêtes et des pits;gills joints et rosâtres $Palmatus de Rhodotus$ 
+14,15 $Chapeau jaunâtre ou brunâtre ; les lames libèrent et rosâtre à la maturité$ $ 
+15,0 $Jaune de chapeau et de tige $Admirabilis de Pluteus$ 
+15,16 $Chapeau brunâtre$ $ 
+16,0 $Chapeau brunâtre ; lame affile la même couleur que lame ; tige blanchâtre $Cervinus de Pluteus$ 
+16,0 $Brun foncé de chapeau ; lame affile le brun foncé pour noircir ; égrappez blanchâtre, couvert par de petites fibres foncées $Atromarginatus de Pluteus$ 
+cs14,0$ 
+1,2 $Brun pourpre d'impression de spore$ $ 
+1,6 $Noir d'impression de spore$ $ 
+2,3 $Chapeau jaunâtre ou brique-rouge$ $ 
+2,4 $Chapeau blanc ou crémeux à brun clair au brun foncé$ $ 
+3,0 $Chapeau brique-rouge ; lames blanchâtres, devenant violacé-gris à la maturité $Sublateritium de Hypholoma$ 
+3,0 $Chapeau jaunâtre ; le jaune d' lames , puis verdâtre, alors teinté pourpre-brownwhen mûrissent $Fasciculare de Hypholoma$ 
+4,5 $Chapeau lisse, sans rider radial distinct ; pied moins de 6 millimètres d'épaisseur à l'apex$ $ 
+4,6 $Le chapeau distinctement a radialement ridé, effacement brunâtre à la couleur fauve ; pied plus grand que$ $ 
+5,0 $Chapeau crème à miel-brun ; occurrence simple à dispersé à nombreux $Candolleana de Psathyrella$ 
+5,0 $Effacement brun foncé de chapeau au bronzage ; souvent se produisant dans dense, faisceaux de cespitose $Hydrophila de Psathyrella$ 
+6,0 $Chapeau gris-brun, 5-7,5 centimètres de large ; tige 1-2 centimètre épais à l'apex ; lames noires d'encre $Note d'atramentarius de Coprinus : a membrane-comme, anneau fibreux peut être proche actuel la base de tige.$ 
+6,0 $Couvrez fauve-brun, 2,5-5 centimètres de large, avec mica-comme des granules au first;stalk 3-5 millimètres à l'apex, lames quelque peu noires d'encre $Micaceus de Coprinus$ 
+6,0 $millimètre profondément à l'apex $Rugocephala de Psathyrella$ 
+cs15,0$ 
+1,2 $Blanc d'impression de spore$ $ 
+1,5 $Copie de spore l'une ou l'autre orange à l'orange rouillée au brun rouillé à brun ou à pourpre-brun ou à plus foncé$ $ 
+2,0 $lame affile dentelé ; couvrez blanchâtre avec les balances brunes, tige écallieuse $Lepidius de Lentinus$ 
+2,3 $lame affile même$ $ 
+3,0 $ lames fortement decurrent sur la tige ; voilez des leavingfragments évanescents et membranous d'anneau sur la marge de chapeau $Dryinus de Pleurotus$ 
+3,4 $ lames attachées à la tige mais pas nettement decurrent$ $ 
+4,0 $Chapeau orange et granulaire ; tige engainée avec les granules oranges jusqu'à l'anneau $Granosum de Cystoderma$ 
+4,0 $Brun jaune de chapeau, collant, avec les poils noirs droits sur le centre plus foncé. Lié à blackshoestring-comme les rhizomorphs sous l'écorce des arbres parasités $Mellea d'Armillaria$ 
+5,6 $Orange d'impression de spore à l'orange rouillée au brun rouillé au brun$ $ 
+5,12 $Copie de spore pourpre-brune à pourpre-noir$ $ 
+6,7 $Chapeau et tige couverts de balances ou de granules remarquables$ $ 
+6,10 $Chapeau et tige non couverts de balances remarquables$ $ 
+7,0 $Basidiocarps solitaire à plusieurs ; couvrez la marge loqueteuse avec la zone partielle de remnants;a de voile des fibres ou un léger anneau sur la tige supérieure $Erinaceellus de Phaeomarasmius$ 
+7,8 $Basidiocarps typiquement dans des faisceaux de cespitose$ $ 
+8,0 $Chapeau sec $Squarrosa de Pholiota$ 
+8,9 $Chapeau collant à visqueux (gluant)$ $ 
+9,0 $Chapeau gluant, balances plates $Aurivella de Pholiota$ 
+9,0 $Le chapeau collant, balances érigent et dirigé $Squarrosoides de Pholiota$ 
+10,0 $Basidiocarp grand (chapeau 7,5 - 18 centimètres de large, égrappent 5-18 le centimètre long, orange d'impression de thick);spore de 1-3 centimètre à l'orange rouillée $Spectabilis de Gymnopilus$ 
+10,11 $Basidiocarp plus petit (le chapeau 2,5-10 centimètres de large, égrappent 3-12,5 centimètres de long, 3-10 millimètres de thick);spore de brun d'impression$ $ 
+11,0 $Brun foncé et effacement de chapeau, ne fendant pas ; égrappez brunâtre à noirâtre vers le mycélium blanc dense de basewith à la base $Autumnalis de Galerina$ 
+11,0 $Le chapeau brun tendant vers le jaune, peut être fendu à fissuré avec l'âge ; rhizomorphs blancs de withcordlike blanchâtre de tige à la base $Acericola d'Agrocybe$ 
+12,13 $Anneau membranous$ $ 
+12,14 $L'anneau non membranous mais plutôt sous forme de zone remarquable d'anneau des fibres apprimées s'approchent de la tige d'apexof. De telles zones de fibrillose peuvent prendre la couleur foncée des spores après accumulation suffisante de depositionand de spore.$ $ 
+13,0 $Anneau évanescent, fragile $Candolleana de Psathyrella$ 
+13,0 $Anneau persistant, remarquable, segmenté sur le dessous et radialement le groovedon l'extrados $Rugosoannulata de Stropharia$ 
+14,0 $Chapeau brique-rouge ; lames blanchâtres, devenant violacé-gris à la maturité $Sublateritium de Hypholoma$ 
+14,0 $Chapeau jaunâtre ; les lames jaunissent, puis verdâtre, alors teinté pourpre-brownwhen mûrissez $Fasciculare de Hypholoma$ 
+
+rem polypores
+cs16,0$ 
+
+rem $Groupez A - Les mycètes de Poroid avec les pores qui se cassent jusqu'à Formtoothlike structure$ $ 
+
+1,2 $Surface de pore avec la coloration pourpre ou violette au moins près de la marge$ $ 
+1,3 $Surface de pore sans tonalités pourpres ou violettes$ $ 
+2,0 $Croissance sur le bois conifére $Abietinum de Trichaptum$ 
+2,0 $Croissance sur des bois durs. $Biforme de Trichaptum$ 
+3,0 $La partie de Caplike de effused-reflexed (parfois entièrement le basidiocarp de resupinate) moins de 1 centimètre de long, tout pièce le blanc à crème-coloré $Lacteus d'Irpex$ 
+3,4 $La partie de Caplike de sessile ou effused-reflexed le basidiocarp plus de 1 centimètre long, de blanchâtre ou pas$ $ 
+4,0 $L'azonate de pileus ou faiblement zoné, marge strient radialement ; extrados crème au cuir épais jaunâtre ; les pores écrèment au cuir épais jaunâtre ; aucune ligne foncée mince dans le contexte au-dessous du thepubescence de la surface de chapeau $Pubescens de Trametes$ 
+4,0 $Le pileus zoné, mettent en marge pas radialement pour strier ; le blanc d'extrados au gris pour pâlir le brun mais peut être dû verdâtre aux algues ; étudie à fond blanchâtre quand le jeune, gris cendré à fumeux avec l'âge ; amincissez le contexte foncé de linein au-dessous du pubescence de la surface de chapeau $Unicolor de Cerrena$ 
+cs17,0$ 
+1,2 $Substance intérieure (contexte) de basidiocarp blanc ou colorée légère ou, si plus foncé, puis moins de 1 millimètre d'épaisseur.$ $ 
+1,7 $Brun intérieur de substance (contexte) distinctement et plus de 1 millimètre épais$ $ 
+2,0 $Basidiocarp se produisant en tant que le grand, complexe faisceau ou rosette de grand (souvent 10 centimètres ou plus de broad), pilei. refoulés.... $Berkeleyi de Bondarzewia$ 
+2,3 $Basidiocarps pas comme ci-dessus, non refoulé (sessile), plus simple en structure$ $ 
+3,4 $Extrados plus ou moins glabre$ $ 
+3,6 $Extrados pubescent, fortement zoné$ $ 
+4,0 $Ouvertures de pore 1-4 millimètres de large, murs de pore environ 1 (ou plus) millimètre profondément ; typicallyzonate d'extrados pas ; occurrence la plupart du temps sur le chêne (quercus) et la châtaigne (Castanea) $Quercina de Daedalea$ 
+4,5 $Ouvertures de pore 0,5-1,5 millimètre de large ; murs de pore moins de 1 millimètre d'épaisseur ; l'extrados concentricallygrooved souvent (sulcate) ; sur de divers centres serveurs.$ $ 
+5,0 $Extrados grisâtre en général à brunâtre, zoné ; étudie à fond blanchâtre si jeune, le withage brunâtre ; jeune meurtrissure de surfaces de pore rosâtre-brune $Confragosa de Daedaleopsis$ 
+5,0 $Extrados la plupart du temps blanc à blanchâtre, non zoné ; étudie à fond blanchâtre, ne meurtrissant pas $Elegans de Trametes$ 
+6,0 $Daedaloid marginal de pores $Unicolor de Cerrena$ 
+6,0 $Pores marginaux lamellaires $Betulina de Lenzites$ 
+7,8 $Basidiocarp moins de 1 centimètre d'épaisseur$ $ 
+7,9 $Basidiocarp plus de 1 centimètre d'épaisseur$ $ 
+8,0 $Extrados glabre, zoné ; de substance bronzage intérieur de lumière très ; étudie à fond le blanc à brunâtre, sometimesbruising rosâtre-brun ; sur des bois durs $Confragosa de Daedaleopsis$ 
+8,0 $Extrados velu et zoné ; substance intérieure rouillé-brune ; sur conifersonly $Sepiarium de Gloeophyllum$ 
+9,0 $Basidiocarp sur une grande variété de bois durs ; les pores jusqu'à 1 millimètre de diamètre, étudient à fond wallsless que 1 millimètre d'épaisseur $Confragosa de Daedaleopsis$ 
+9,0 $Basidiocarp seulement sur le chêne (quercus) et la châtaigne (Castanea) ; les ouvertures de pore 1-4 millimètres de large, pore mure 1-3 millimètres d'épaisseur $Quercina de Daedalea$ 
+
+cs18,0$ 
+rem $Groupe C - Mycètes de Poroid avec les pores ronds ou angulaires et l'une couche morethan de tubes$ $ 
+1,2 $Brun jaunâtre intérieur de substance (contexte) à brun ou rosâtre plus foncé à rougeâtre$ $ 
+1,5 $Substance intérieure blanche ou de couleur claire$ $ 
+2,0 $Rose attrayant de substance intérieure au brun rosâtre $Cajanderi de Fomitopsis$ 
+2,3 $Brun brun tendant vers le jaune ou plus foncé de substance intérieure$ $ 
+3,0 $Basidiocarp typiquement sur la sauterelle noire de vie (Robinia) ; noir d'extrados, silloné et jaunâtre extérieur de cracked;pore au brun rougeâtre $RobineaeNote de Phellinus : Il y a beaucoup d'autres espèces de Phellinus qui peuvent seulement être sûrement séparées du chaque les caractères microscopiques otherusing.$ 
+3,4 $Basidiocarp sur de divers centres serveurs de bois dur (vivant ou complètement) ; extrados non noir et criqué mais coveredwith une croûte dure au-dessous dont la substance intérieure est plus molle ; blanc de pore ou brun extérieur$ $ 
+4,0 $Basidiocarp sabot-formé ; brun extérieur de pore, ne meurtrissant pas $Fomentarius de Fomes$ 
+4,0 $Basidiocarps plat ; blanc extérieur de pore, meurtrissant le brun foncé $Applanatum de Ganoderma$ 
+5,0 $Extrados rougeâtre au début, devenant brunâtre ou noirâtre, habituellement avec rougeâtre persistant, résineux (sticky)crust sur la marge arrondie ; blanchâtre extérieur de pore à jaunâtre ; occurrence sur des andconifers de bois durs $Pinicola de Fomitopsis$ 
+5,6 $Pas comme ci-dessus$ $ 
+6,0 $Basidiocarp se produisant sur les tronçons et à la base de la vie et des conifères morts $Annosum de Heterobasidion$ 
+6,7 $Basidiocarp se produisant sur des bois durs$ $ 
+7,0 $Blanc de Basidiocarp à la crème, des spécimens plus anciens souvent avec de la mousse sur le dessus ; sur les bois durs vivants seulement, habituellement à la base du érable (Acer) $Populinus d'Oxyporus$ 
+7,0 $Basidiocarp avec l'extrados noirâtre, criqué et silloné, brun clair extérieur de pore ; occurringonly sur vivre ou cendre morte (Fraxinus) ; $Fraxinophila de Perenniporia$ 
+
+cs19,0$ 
+
+1,0 $Étudie à fond séparable en tant que tubes indépendants ; basidiocarp charnu, gélatineux sur la sève rouge d'exsudation de top;flesh une fois coupé $Hepatica de Fistulina$ 
+1,2 $Pores non séparables, basidiocarp non gélatineux ; exsudation de la sève rouge une fois coupé$ $ 
+2,0 $Brun rose de pore ou rosâtre extérieur ; typiquement sur le rose attrayant de hosts;context conifére au brun rosâtre $Cajandari de Fomitopsis$ 
+2,3 $Rougeâtre-orange rouge-foncé de pore ou lumineux extérieur si frais ; sur des bois durs$ $ 
+3,0 $Orange rougeâtre lumineuse extérieure de pore si frais ; orange jaunâtre lumineuse extérieure de pileus quand fresh;basidiocarp mou et aqueux si frais ; rouge extérieur de cerise de pileus avec du KOH $Croceus de Hapalopilus$ 
+3,0 $Rouge-foncé extérieur de pore ; orange extérieure de pileus au rouge de cinabre si frais, towhite d'effacement avec l'âge ; basidiocarp leathery si frais ; la surface de pore maintient une meilleure surface de thanpileus de couleur $Cinnabarinus de Pycnoporus$ 
+
+
+cs20,0$ 
+rem $Groupe E - Mycètes de Poroid avec les pores ronds ou angulaires, onelayer des tubes, et un contexte brun brun ou plus foncé jaunâtre$ $ 
+1,2 $Basidiocarp avec plus ou moins d'une tige distincte$ $ 
+1,3 $Basidiocarp pas de tige mais du type de parenthèse (sessile)$ $ 
+2,0 $Extrados non verni ; seulement sur des conifères, la plupart du temps stipitate sur la terre des racines ; texture uniforme de contextof, pas de deux couches d'uniformité différente $Schweinitzii de Phaeolus$ 
+2,0 $Extrados de basidiocarp couvert de vernis rouge ; seulement sur des bois durs $Lucidum de Ganoderma$ 
+3,0 $Extrados du rouge de basidiocarp verni $Lucidum de Ganoderma$ 
+3,4 $Non rouge d'extrados verni$ $ 
+4,5 $Croissance seulement sur des conifères$ $ 
+4,6 $Croissance sur des bois durs$ $ 
+5,0 $Pileus glabre ; semblable au liège ou leathery $Cajandera de Fomitopsis$ 
+5,0 $Tomentose de pileus, mou si frais, fragile si sec $Schweinitzii de Phaeolus$ 
+6,0 $Basidiocarp plus ou moins de masse globeuse, avec beaucoup de petits, recouvrants étroitement pilei $Graveolens de Globifomes$ 
+6,7 $Basidiocarp une parenthèse simple ou quelques pilei de recouvrement$ $ 
+7,0 $Substance intérieure de tannish de basidiocarp à ochraceous ; brun andbruising de blanc extérieur de pore $Resinosum d'Ischnoderma$ 
+7,8 $Brun brun de substance intérieure ou plus foncé jaunâtre ; surface de pore non blanche et meurtrissante$ $ 
+8,0 $Violette de rotation de Basidiocarp où touché avec du KOH $Nidulans de Hapalopilus$ 
+8,9 $Basidiocarp tournant noir ou plus foncé (mais non violet) où touché avec la solution de KOH$ $ 
+9,0 $Basidiocarp 2,5 - 15 centimètres de large et jusqu'à 2 centimètres d'épaisseur ; sur de divers hardwoodspecies morts ; obscurité d'extrados, brun rouillé au noir avec l'âge, velouté au moins sur la marge croissante d'jaune-ocre $Gilvus de Phellinus$ 
+9,0 $Basidiocarp jusqu'à 35 centimètres de large et 10 centimètres d'épaisseur ; la plupart du temps à la base du chêne vivant (quercus) treescausing une putréfaction de bout et de racine ; l'extrados brun tendant vers le jaune, andcracking brun foncé devenant avec l'âge, glabre, mettent en marge la même couleur que le chapeau ou plus pâle activelygrowing $DryadeusNote d'Inonotus : Il y a beaucoup d'autres espèces d'Inonotus qui peuvent seulement être sûrement séparées de l'eachother en utilisant les caractères microscopiques.$ 
+
+
+cs21,0$ 
+rem $Groupe F - Mycètes de Poroid avec les pores ronds ou angulaires, onelayer des tubes, blanchâtres pour allumer le contexte de bronzage, et une tige$ $ 
+1,2 $Extrados couvert de brunâtre ou rougeâtre, vernir-comme la couche ou le crust.Note : Une couche vernie, si présent, est en général dure, glabre, et brillante ou glacée du moins quand les surfaces de young.Upper des spécimens vernis plus anciens peuvent devenir mates si couvert par une couche de spores déposées.$ $ 
+1,4 $Extrados pas du tout verni, bien que parfois rougeâtre$ $ 
+2,0 $L'extrados couvert de vernis brunâtre, refoulent le noir $Badius de Polyporus$ 
+2,3 $Extrados et tige couverts de vernis rougeâtre$ $ 
+3,0 $Sur le bois conifére seulement ; substance intérieure crème pour pâlir le cuir épais $Tsugae de Ganoderma$ 
+3,0 $Sur des bois durs seulement ; substance intérieure crème $Lucidum de Ganoderma$ 
+4,5 $Orange lumineuse d'extrados de pileus aux saumons colorés, sans balances ; étudie à fond petit (3-5 par millimètre)$ $ 
+4,6 $Orange non lumineux d'extrados de pileus ou saumoné ; si l'orangish, alors chapeaux sont écallieux et étudie à fond l'arelarge (1-2 millimètres de large)$ $ 
+5,0 $Jaune lumineux extérieur de pore ; occurrence en tant que pilei simples pour imbriquer des faisceaux sur des troncs des notations tombées par treesor $Sulphureus de Laetiporus$ 
+5,0 $Blanc extérieur de pore ; occurrence comme rosettes à la base de l'arbre ou sur voisin moulu $Cincinnatus de Laetiporus$ 
+6,7 $Refoulez plus ou moins embranché, en provoquant les faisceaux et/ou les rosettes composés latéralement des pilei ci-joints par stemmedor ; occurrence à la base des arbres ou des racines enterrées$ $ 
+6,9 $Tige non embranchée, chaque tige provoquant un pileus (note : les tiges de 2 3 pilei peuvent provenir d'un commonbase) ; se produisant sur des notations, des troncs, et des tiges tombées.$ $ 
+7,0 $Pilei petits (principalement moins de 7 centimètres de large) et nombreux $Frondosa de Grifola$ 
+7,8 $Pilei plus grands (souvent 10 centimètres ou plus larges) et pas comme nombreux$ $ 
+8,0 $Basidiocarp devenant noirâtre où manipulé et sur le séchage $Sumstinei de Meripilus$ 
+8,0 $Basidiocarp ne devenant pas noirâtre $Berkeleyi de Bondarzewia$ 
+9,10 $Noir de tige ou brun très foncé au moins en partie$ $ 
+9,12 $Tige brun non noir ou très foncé$ $ 
+10,0 $Étudie à fond 0,25 à 2 par millimètre $Squamosus de Polyporus$ 
+10,11 $Étudie à fond 4 à 8 par millimètre$ $ 
+11,0 $Brun extérieur de châtaigne de pileus à plus foncé $Badius de Polyporus$ 
+11,0 $Cuir épais extérieur de cannelle de pileus au bronzage $Varius de Polyporus$ 
+12,13 $La tige s'est mal développée, tronqué, latéral ; pileus semi-circulaire à rein-formé$ $ 
+12,14 $Tige bien développée, central à l'excentrique ; circulaire de pileus dans le contour$ $ 
+13,0 $Marge de chapeau ne projetant pas en bas ; chapeau jaune-orange à rougeâtre-orange (se fanant avec le dessus d'age)on, écallieux ; pores 1-2/mm $Alveolaris de Polyporus$ 
+13,0 $Marge de chapeau projetant en bas au-dessous du niveau des tubes ; couvrez pâlot pour pâlir le brun sur des top;pores 3-4/mm $Betulinus de Piptoporus$ 
+14,0 $Étudie à fond 2 ou 3 par millimètre ; pileus fumeux-brun ou fumeux-noir $Brumalis de Polyporus$ 
+14,15 $Étudie à fond 0,5 à 1 par millimètre ; allumeur de pileus en couleurs$ $ 
+15,0 $Marge de chapeau fringée de poils $Arcularius de Polyporus$ 
+15,0 $Marge de chapeau lacérée, non fringé de poils $Craterellus de Polyporus$ 
+
+cs22,0$ 
+rem $Groupe G - Mycètes de Poroid avec les pores ronds ou angulaires, onelayer des tubes, blanchâtres pour n'allumer le contexte de bronzage, aucune tige, la surface fumée-colorée ou noire d'anda de pore$ $ 
+1,2 $Azonate extérieur de pileus ou faiblement zoné$ 
+1,4 $Surface de pileus distinctement zonée ; décidément velu$ $ 
+2,0 $Basidiocarp moins de 1 centimètre d'épaisseur ; pores 6-7 par millimètre $Adusta de Bjerkandera$ 
+2,3 $Basidiocarp 1 centimètre plus grand qu'épais ; pores 2-5 par millimètre$ $ 
+3,0 $Couche foncée absente à la base des tubes ; presque toujours sur le saule (Salix) ; les odeurs de anisewhen frais. $Suaveolens de Trametes$ 
+3,0 $Couche foncée dans le contexte à la base des tubes ; occurrence sur de divers bois durs $Fumosa de Bjerkandera$ 
+4,0 $Pileus pas aussi fortement zoné, blanc grisâtre de pileus au gris à brunâtre avec de zones l'unicolorousin presque tout spécimen donné excepté des zones marginales brunes plus foncées $Trametes hirsuta$ 
+4,0 $Surface de pileus fortement zonée avec beaucoup de bandes différemment colorées d'étroit $Versicolor de Trametes$ 
+cs23,0$ 
+rem $Groupe H - Mycètes de Poroid avec les pores ronds ou angulaires, onelayer des tubes, blanchâtres pour allumer le contexte de bronzage, aucun tige, nosmoke ou la surface colorée noire de pore, et un doux, spongytexture avec un contexte aqueux$ $ 
+1,0 $Rougeâtre extérieur de pore coloré quand frais et capable être épluché au loin dans une couche de thinrubbery $Gloeoporus dichrous$ 
+1,2 $Surface de pore non rougeâtre et non capable être épluché au loin$ $ 
+2,3 $Basidiocarp 1) blanchâtre avec des teintes de bleu, ou 2) blanchâtre pour polir et de la meurtrissure brun-rougeâtre où manipulé$ $ 
+2,4 $Blanc de Basidiocarp à la crème à polir ou à la paille colorée, ne meurtrissant pas$ $ 
+3,0 $Les intrados supérieurs et blanchâtres pour polir et meurtrissant le brownwhere rougeâtre ont manipulé $Oligoporus fragilis$ 
+3,0 $Les intrados supérieurs et blanchâtres avec des teintes de bleu, meurtrissant parfois intensément le bluewhere ont manipulé $Caesius d'Oligoporus$ 
+4,0 $Occurrence sur des conifères ; pores 1-2 par millimètre $Borealis de Climacocystis$ 
+4,0 $Occurrence sur des bois durs ; pores 3-5 par millimètre $Chioneus de Tyromyces$ 
+
+
+cs24,0$ 
+rem $Groupe I - Mycètes de Poroid avec les pores ronds ou angulaires, onelayer des tubes, blanchâtres pour allumer le contexte de bronzage, aucun tige, nosmoke ou la surface colorée noire de pore, et une texture semblable au liège, fibreuse, dure, ou leathery$ $ 
+1,2 $Croissance sur des conifères$ $ 
+1,3 $Croissance sur des bois durs$ $ 
+2,0 $Pileus moins de 5 millimètres d'épaisseur ; surface de pore avec la coloration violette $Abietinum de Trichaptum$ 
+2,0 $Pileus jusqu'à 5 centimètres d'épaisseur ; la crème extérieure de pore a coloré $Annosum de Heterobasidion$ 
+3,4 $Surface de pore avec les couleurs violettes ou rougeâtres$ $ 
+3,5 $Surface de pore sans couleurs violettes ou rougeâtres$ $ 
+4,0 $Rougeâtre extérieur de pore si frais et épluchant au loin dans une couche caoutchouteuse mince $Gloeoporus dichrous$ 
+4,0 $Pores avec les couleurs violettes $Biforme de Trichaptum$ 
+5,0 $Fruitbody formant de petites structures concentrique réparties en zones et cupulaires sur sessile, blanchâtre, étagère-comme des parties soutenant des pores dessous $Conchifer de Trametes$ 
+5,6 $Fruitbody sans structures cupulaires$ $ 
+6,7 $Extrados de pileus zoné$ $ 
+6,8 $Extrados d'azonate de pileus ou faiblement zoné ; crème de pileus ou polir-coloré$ $ 
+7,0 $Pileus pas aussi fortement zoné, blanc grisâtre de pileus au gris au brun avec zonesnearly unicolorous dans tout spécimen donné excepté des zones marginales plus foncées $Trametes hirsuta$ 
+7,0 $La zonation de pileus remarquable avec des beaucoup d'étroit, contrastant brusquement, differentlycolored des zones $Versicolor de Trametes$ 
+8,0 $Le pileus amincissent (moins de 1 centimètre), jusqu'à 6 centimètres de large ; la marge strient radialement $Pubescens de Trametes$ 
+8,9 $Pileus centimètres profondément (1-4 centimètre), 10 ou plus de large ; marge pas radialement strier$ $ 
+9,0 $Le contexte a séparé des tubes par couche foncée étroite $Fumosa de Bjerkandera$ 
+9,10 $Contexte non séparé des tubes par couche foncée étroite$ $ 
+10,0 $Croissance sur la sauterelle noire (Robinia) ou le hackberry (Celtis) ; ne sent pas l'ofanise ; 5-7 pores par millimètre $Robiniophila de Perenniporia$ 
+10,0 $Accroissant sur le saule (Salix), odeur d'anis si frais ; 2 ou 3 pores par millimètre $  tram  *********$
+
+
+

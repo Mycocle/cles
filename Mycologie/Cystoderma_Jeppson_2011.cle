@@ -1,0 +1,38 @@
+Titre$ Cystoderma Mikael Jeppson 2011
+com$ adapt GF oct 2014
+rem$LANGUE$Suédois
+1,0$ source : Grynskivlingar (Cystoderma och Cystodermella) i Sverige///Mikael Jeppson/// Svensk Mykologisk Tidskrift 32 (3): 15–23 2011
+1,5$ Bibliographie
+1,0$
+1,cs1 $ Sporer amyloida $ Cystoderma (sid 16)$s"cystoderma"
+1,cs2 $ Sporer ej amyloida $ Cystodermella (sid 20)$s"cystoderma"
+5,0$  Broström, D. & Soop, K. 2000. Några intressanta lokaler i Ovansiljan. I. Jordstjärnan 21(2); 3–10. ///Gulden, G., Mohn Jensen, K. & Stordal, J. 1985.Arctic and Alpine Fungi – 1. Soppkonsulenten.Oslo. ///Hansen, L. & Knudsen, H. (eds.) 1992. Nordic Macromycetes Vol. 2. Nordsvamp – Copenhagen. ///Harmaja, H. 2002. Amylolepiota, Clavicybe and Cystodermella, new genera of the Agaricales.Karstenia 42: 39–48. ///Knudsen, H. & Vesterholt, J. (eds.). 2008. Funga Nordica. Nordsvamp – Copenhagen. Saar, I. 2003. The genera Cystoderma and Cystodermella (Tricholomataceae) in temperate Eurasia. Mycotaxon 86: 455–473. ///Saar, I., Põldmaa, K. & Kõljalg, U. 2009. The phylogeny and taxonomy of genera Cystoderma and Cystodermella (Agaricales) based on nuclear ITS and LSU sequences. Mycological Progress 8: 59–73.
+
+cs1,0$
+cystoderma
+1,2 $ Fot med tydlig ring
+1,4 $ Fot med flockig ring som efterhand försvinner
+2,0 $ Sporer > 5  µm  långa; hatt gulbrun - brun $ cystoderma  tuomikoskii
+2,3 $ Sporer 4 - 5 x 3 - 3,5  µm ; hatt vitaktig - grårosa - rostbrun
+3,0 $ Hatt vitaktig - blekt grårosa $ cystoderma  carcharias var. carcharias
+3,0 $ Hatt ockrabrun - rostbrun $ cystoderma  carcharias var. fallax
+4,5 $ Rikligt med arthrokonidier i hattköttet omedelbart under hatthuden; sporer  avlångt ellipsoida, 6 - 8 x 3 - 4,5  µm 
+4,0 $ Arthrokonidier saknas; sporer ellipsoida, 5 - 6 x 3 - 4  µm  $ cystoderma  amianthinum
+5,0 $ Hela fruktkroppen vit $ cystoderma  jasonis var. niveum
+5,6 $ Hatt ± gulbrun
+6,0 $ Fot upptill violett $ cystoderma  jasonis var. lilacipes
+6,0 $ Fot upptill gulaktig - brun $ cystoderma  jasonis var. jasonis   (inkl. var. saarenoksae)
+
+
+cs2,0$
+rem $ Cystodermella
+1,0 $ Fruktkropp rent vit $ cystodermella  granulosa var. ambrosii
+1,2 $ Fruktkropp pigmenterad
+2,0 $ Hatt med brunaktig färg $ cystodermella  granulosa var. granulosa
+2,3 $ . Hatt med mer eller mindre orange - rödbruna färgtoner 3
+3,0 $ Fot med vita flockar; cystider saknas $ cystodermella  adnatifolia
+3,0 $ Fot med vita - brunaktiga - orangefärgade flockar; rikligt med spetsiga,  spjutliknande cystider $ cystodermella  cinnabarina
+
+
+µm
+

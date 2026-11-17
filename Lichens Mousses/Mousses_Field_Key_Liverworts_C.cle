@@ -1,0 +1,749 @@
+MYCOCLE 00210760719050612C5D12
+ clé exploitable par Mycoclé 2.04
+Mycoclé 2.05  Field key to commoner and/or distinctive mosses and liverworts
+ Adaptation par A. Paris, 2013
+REM$LANGUE$Détection automatique
+260036913579111315171921232527293133353739414345474951535557596163656769717375777981838587899193959799101103105107109111113115117119121123125127129131133135137139141143145147149151153155157159161163165167169171173180182184186188190192194196198200202204206208210212214216218220222224226228230232234236238240242244246248250252254256258260262264266268270272274276278280282284286288290292294296298300302304306308310312314316318320322324326328330332334336338340342344346348350352354356358360362364366368370372374376378380382384386388390392394396398400402404406408410412414416418420422424426428430432434436438440442444446448450452454456458460462464466468470472474476478480482484486488490492494496498500502504506508510512514516518520522524526528530532534536538540542544546548550552554556558560562564566568570572574576578580582584586588590592594596598600602604606608610612614616618620622624626628630632634636638640642644646648650652654656658660662664666668670672674676678680682684686688690692694696698700702704706708710712714716718720722724726728730732734736738740742
+0s"Hornworts & Thallose liverworts" Plant without distinct leaves. 011113505
+0 Plant with distinct leaves011213602
+0s"Leafy liverworts" Leaves arranged either strictly in 2 ranks or in 3 ranks (one on each side of the stem and one in mid-ventral line) ; the leaves most commonly round or 2-lobed, without nerves (sometimes leaves are so deeply divided as to appear 4- or 5-ranked. 0223147024
+0 Leaves not arranged strictly in ranks (except in Fissidens and Distichium, which have nerved leaves, and Schistostega, which has a shining green protonema) ; the leaves never 2-lobed, most often tapering to an acute or rounded tip, with or without nerves022414803
+0 Plants consisting of numerous upright stems on which branches are in groups arranged spirally down the stem ; all grow in bogs or wet ground, and look pale when dry, but are vivid green, orange-brown or purple-red when moist, and hold water like a sponge 03451590Sphagnum0
+0 Plants never showing the regular, whorled branching of Sphagnum ; habits and habitats various0346151004
+0s"Acrocarpous mosses" Separate, upright or ascending shoots which are simple, forked, or with a few short lateral branches ; leaves very seldom like thin, glossy scales ; seta arising from tip of shoots (except in some species of Fissidens, Racomitrium, etc.). The acrocarp/pleurocarp split may appear difficult at first. Looking at the gallery of images on pp. 9-18 may help. 04671611078
+0s"Pleurocarpous mosses" Mat-like growth of much-branched stems, which are irregularly intertwined and most often prostrate or arched ; branching most often irregular or pinnate (occasionally growth is upright from a horizontal stolon, branched above to give plant a miniature tree habit, e.g. Climacium) ; leaves most often like thin, glossy scales ; seta not arising from tip of stems. The acrocarp/pleurocarp split may appear difficult at first. Looking at the gallery of images on pp. 9-18 may help. 046816120285
+0 Thallus with gemmae in very obvious receptacles0519171306
+0 Thallus without gemmae in receptacles05110171408
+0 Gemmae visible in open-topped receptacles ; no gemmae on thallus tips ; upper surface of thallus with raised pores06911181507
+0 Gemmae hidden in receptacles like flasks with a long neck ; thallus tips with star-shaped gemmae on the surface; upper surface of thallus without raised pores 0691218160Blasia pusilla0
+0 Gemmae in cup-shaped receptacles 07111319170Marchantia polymorpha0
+0 Gemmae in crescent-shaped receptacles 07111419180Lunularia cruciata0
+0 Upper surface of thallus with polygonal markings ; a more or less raised pore in centre of each polygon081015201909
+0 Upper surface of thallus without such markings and pores0810162020011
+0 Thalli usually > 1 cm wide ; plants strongly scented ; pores on upper surface easily visible to naked eye ; scales on lower surface not overlapping each other 09151721210Conocephalum spp.0
+0 Thalli always < 1 cm wide ; plant scentless ; pores on upper surface hardly visible to naked eye ; scales on lower surface overlapping one another0915182122010
+0 Diamond-shaped marking prominent ; thallus tastes peppery ; young female heads dull green and 4-lobed 010181922230Preissia quadrata0
+0 Diamond-shaped markings very faint ; thallus not peppery to taste ; young female heads bright green and with 5-7 lobes 010182022240Reboulia hemisphaerica0
+0 Plants growing in pale green rosettes on bare soils, or floating in pools01116212325012
+0 Plants deep or vivid green ; habit various01116222326015
+0 Upper surface of thallus with round-topped cells and a spongy appearance ; on wet mud 012212324270Riccia cavernosa0
+0 Upper surface of thallus with flat-topped cells, or some round-topped cells, not appearing spongy01221242428013
+0 Thallus narrow, forming mats of Y-shaped plants ; either floating or on periodically flooded mud 013242525290Riccia fluitans0
+0 Thallus with sort, wide branches, plants ± forming rosettes ; on soil01324262530014
+0 V-shaped groove in upper surface of thallus ; thallus edges curved up ; clear margin of long, narrow cells along sides of thallus (hand lens) 014262726310Riccia sorocarpa0
+0 Wide, shallow groove in upper surface of thallus ; thallus edges curved down ; no clear margin along sides of thallus (hand lens) 014262826320Riccia glauca0
+0 Thallus < 2 mm wide (check in case of branches of Pellia endiviifolia)01522292733016
+0 Thallus 3 mm wide or more01522302734019
+0 Midrib strongly differentiated from much thinner margins of thallus ; growing on trees or rocks01629312835017
+0 Midrib lacking ; growing in marshes, on wet soil, etc. 016293228360Riccardia spp.0
+0 Entire plant covered with short hairs, making a look furry 017313329370Apometzgeria pubescens0
+0 Hairs restricted to margins and underside of plant01731342938018
+0 Narrow shoot tip with abundant gemmae ; tip sticking away from substrate 018343530390Metzgeria fruticulosa/M. temperata0
+0 Shoot tip usually without gemmae (occasionally a few) ; tip not narrower than rest of thallus, not sticking away from substrate 018343630400Metzgeria furcata0
+0 Midrib well-defined (obvious when viewed from underside of thallus)01930373141020
+0 Midrib not well-defined01930383142023
+0 Thallus with narrow, forking branches at the tip 020373932430Pellia endiviifolia0
+0 Thallus without forking branches at the tip02037403244021
+0 Plant monoicous (female part in a flap on upper side of thallus ; male parts in small volcano-like hollows on same thallus ; non-fertile plants should be recorded as Pellia sp.) 021404133450Pellia epiphylla0
+0 Plant dioicous (female part in a short tube on upper side of thallus ; male parts in small volcano-like hollows on separate thallus ; non-fertile plants should be recorded as Pellia sp.)02140423346022
+0 Female plants with tubes that have fringed mouths 022424334470Pellia endiviifolia0
+0 Female plants with tubes that have mouths which are slightly wavy 022424434480Pellia neesiana0
+0 Plants vivid mid-green, with a greasy appearance ; thalli parallel-sided ; margins curved upwards ; fertile parts on thallus sides ; capsules egg-shaped, held on a colourless seta 023384535490Aneura pinguis0
+0 Plant forming dark green rosettes ; margins not curved upwards ; fertile parts in pits on upper surface ; capsules long, horn-like and green 023384635500Anthoceros spp./Phaeoceros spp.0
+0 Leaves divided into 2 unequal lobes, the smaller one lying more or less flat on or under the larger one, thus sometimes giving impression that leaves are in 4 ranks0243473651030
+0 Leaves not divided into 2 unequal lobes, may be 2-toothed0243483652025
+0 Leaves irregular, wavy, not distinctly separated from each other or from the stem ; appearance like a small lettuce02548493753026
+0 Leaves in regular rows and quite distinct from stem02548503754027
+0 Plant pale or dark green ; rhizoids purple ; on soil (only identifiable to species using spores – collect ripe, black capsules) 026495138550Fossombronia spp.0
+0 Plant bright green ; rhizoids pale ; in dune slacks 026495238560Petalophyllum ralfsii0
+0 Leaves split into many finely divided parts, sometimes appearing almost furry02750533957028
+0 Leaves not finely divided ; may have toothed or entire margins02750543958029
+0 Plant forming strikingly pale whitish-green patches, with bi- or tripinnately branched shoots 5-12 cm long 028535540590Trichocolea tomentella0
+0 Plant reddish-brown (or yellow, orange, or olive-green), with once pinnate to bipinnate shoots ; leaf lobes fringed with long teeth 028535640600Ptilidium ciliare0
+0 Leaves 2-, 3-, or 4-cleft, more or less symmetrical02954574161045
+0 Leaves simple and rounded, the margins either entire or with numerous, minute teeth02954584162065
+0 Smaller lobe lying on top of larger lobe, distinct when plant in situ03047594263031
+0 Smaller lobe under larger lobe, not visible when plant in situ03047604264038
+0 Each leaf divided to near base into 2 narrow oblong elements ; very common on acidic banks, rocks, etc. 031596143650Diplophyllum albicans0
+0 Each leaf divided to about 1/3 or less, the segments round or nearly so, not narrowly oblong ; habitats various03159624366032
+0 Smaller lobe only marginally smaller than larger one 032626344670Scapania compacta0
+0 Smaller lobe < 3/4 of the size of the larger one03262644468033
+0 Shoot tip bearing conspicuous clusters of red or brown gemmae03364654569034
+0 Gemmae green (if present)03364664570035
+0 Leaf lobes rounded or sometimes pointed, not tapering to a point ; gemmae brown 034656746710Scapania nemorea0
+0 Leaf lobes tapering to a sharp point ; gemmae bright red 034656846720Scapania umbrosa0
+0 Larger leaf lobe with base running down stem (hand lens, view from behind) ; smaller leaf lobe with base not running down stem 035666947730Scapania undulata0
+0 Either both leaf lobes have bases running down the stem, or neither does03566704774036
+0 Smaller leaf lobe crossing beyond the stem by a long way03670714875037
+0 Smaller leaf lobe not crossing the stem 036707248760Scapania irrigua0
+0 Tiny teeth visible at base of smaller lobe (x20 hand lens), just above junction with stem ; acid-lover, typical of wooded valleys 037717349770Scapania gracilis0
+0 No teeth at base of smaller lobe ; lime-lover, typical of humid limestone or lime-rich sandstone 037717449780Scapania aspera0
+0 Colonies composed of red/purple, cylindrical worm-like shoots 038607550790Pleurozia purpurea0
+0 Shoots not cylindrical and worm-like ; usually tightly pressed to a substrate03860765080039
+0 Shoots forming black patches, tipped yellowish-green, on limestone or lime-rich rock 039767751810Marchesinia mackaii0
+0 Shoots not black03976785182040
+0 Plants yellowish-green ; leaves with basal part folded over underneath, but without lobule04078795283041
+0 Plants dark green, brownish, reddish, etc. ; leaves with a lobule on the lower surface, attached to the stem only at the base04078805284043
+0 Plants minute (shoots < 0.5 mm wide) ; tiny, oval leaves spaced out along the stem like beads 041798153850Cololejeunea minutissimum/Microlejeunea0
+0 Plants larger (shoots at least 1 mm wide)04179825386042
+0 Shoots about 1 mm wide ; leaves with angle on back edge ; underleaves present 042828354870Lejeunea spp.0
+0 Shoots about 2 mm wide ; leaves round, with no angle ; underleaves absent 042828454880Radula complanata0
+0 Plant deep green when dry, vivid green when moist ; edges of many leaves curled upwards, giving shoots an untidy appearance from above 043808555890Porella platyphylla0
+0 Plant usually reddish or brown, occasionally green ; leaf edges not curled upwards, so leaves look like neat scales04380865590044
+0 Lobule as wide as long ; common on trees and branches, growing appressed to bark 044868756910Frullania dilatata0
+0 Lobule much longer than wide ; frequent on rocks, where often grows appressed ; on trees and branches in western Britain, usually hanging loose from the bark 044868856920Frullania tamarisci0
+0 Plants with a strong, peppery or must smell (some people cannot detect it ; if in doubt then look up these very common species) ; leaves 2-lobed04557895793046
+0 Plants with no distinctive smell ; leaves 2-, 3- or 4-lobed04557905794047
+0 Some leaves entire, others with 2 sharp lobes 046899158950Lophocolea heterophylla0
+0 All leaves with 2 sharp lobes 046899258960Lophocolea bidentata0
+0 Individual leaves scarcely visible with the naked eye ; like tiny hands, with 3 or 4 symmetrical lobes (x20 hand lens)04790935997048
+0 Individual leaves easily visible with the naked eye, or if not so then with 2 symmetrical lobes04790945998050
+0 Leaves with 3 or 4 'fingers' shorter than the 'palm' ; branching pinnate 048939560990Lepidozia reptans0
+0 Leaves with 3 or 4 'fingers' clearly longer than the 'palm' ; branching irregular048939660100049
+0 Leaves composed entirely of 'fingers' ; a species of dry but humid places 0499697611010Blepharostoma trichophyllum0
+0 Leaves with a short but distinct 'hand' ; species of bogs, peat or humus 0499698611020Kurzia spp.0
+0 Tip of each leaf split into 3 small but distinct teeth ; leaf tapering from very wide base, asymmetrical ; very robust, olive-green species of humid woods, etc. (shoots up to 5 mm across) 0509499621030Bazzania trilobata0
+0 Leaves more or less symmetrical : either showing 2 shallow teeth at tip only, or more deeply divided into 2 or 3 lobes0509410062104051
+0 Leaves almost flat, with the leading edge lying on top of the next leaf up the shoot ; plants pale white- or blue-green05110010163105052
+0 Leaves concave, usually obviously so, or if flat then the leading edge of each leaf tucked under the next leaf up the shoot ; plants less obviously pale05110010263106053
+0 Tips of leaf lobes divergent, with a wide angle between them 052101103641070Calypogeia arguta0
+0 Tips of leaf lobes ending close together, with an acute or rounded angle between them 052101104641080Calypogeia fissa0
+0 Shoots almost flat ; leaves with 2 lobes pointing towards each other and with a wide, crescent-shaped gap between them 053102105651090Cephalozia connivens/C. lunulifolia0
+0 Shoots with somewhat to strongly concave leaves ; lobes usually not pointing towards each other ; gap between lobes various05310210665110054
+0 Leaves divided more than halfway to the base into 2 lobes ; plants very slender, with shoots < 2 mm wide05410610766111055
+0 Leaves divided to much less than halfway to the base into 2 or 3 lobes05410610866112057
+0 Very long leaf lobes curve so the tips nearly meet ; shoots other bright red 055107109671130Nowellia curvifolia0
+0 Leaf lobes only slightly curved, tips more or less divergent ; shoots never red05510711067114056
+0 Stem translucent 056110111681150Cephalozia bicuspidata0
+0 Stem opaque 056110112681160Cephaloziella spp.0
+0 Many leaves with 3 lobes05710811369117058
+0 All leaves with 2 lobes05710811469118060
+0 Shoot tip clearly different from the remainder of the shoot, with tightly pressed, narrowed leaves, tipped with pale gemmae 058113115701190Barbilophozia attenuata0
+0 Shoot tip not differentiated ; gemmae absent or present05811311670120059
+0 One leaf edge much longer than the other, so that the 3 lobes point 90° to the stem ; gemmae occasionally present 059116117711210Tritomaria quinquedentata0
+0 Both leaf edges of similar length, so the 3 lobes point about 45° to the stem ; gemmae absent 059116118711220Barbilophozia floerkei0
+0 Gemmae conspicuous on leaf tip06011411972123061
+0 Gemmae absent from leaf tip06011412072124063
+0 Gemmae green or very pale06111912173125062
+0 Gemmae red or brown 061119122731260Lophozia excisa/L. bicrenata/L. sudetica0
+0 Underside of stem brown ; plants bright mid-green ; leaves with 2 lobes, but no extra teeth 062121123741270Lophozia ventricosa0
+0 Entire stem green ; plants very pale green ; leaves with 2 lobes, and with extra teeth on leaf margins (hand lens) 062121124741280Lophozia incisa0
+0 Leaves with broadly rounded lobes ; leaf edges not recurved06312012575129064
+0 Leaves with sharply pointed lobes ; x20 hand lens shows that at least some leaves have recurved edges 063120126751300Marsupella emarginata0
+0 Plant dark green, brown or black ; inflated perianths < 2 times as long as wide ; mostly in acidic habitats 064125127761310Gymnocolea inflata0
+0 Plant pale green, often looking very translucent ; perianths tubular, > 2 times as long as wide ; mostly in lime-rich habitats 064125128761320Leiocolea turbinata0
+0 Robust (shoot 3 mm wide), variegated red and yellow-green ; forming conspicuous, erect cushions 06558129771330Mylia taylorii0
+0 Not red and not forming cushions0655813077134066
+0 Shoot usually with obvious gemmae06613013178135067
+0 Gemmae absent06613013278136069
+0 Leaves with the leading edge lying on top of the next leaf up the shoot 067131133791370Calypogeia spp.0
+0 Leaves with the leading edge of each leaf tucked under the next leaf up the shoot06713113479138068
+0 Gemmae produced on leaves that are clearly longer and more pointed than those on the rest of the shoot 068134135801390Mylia anomala0
+0 Gemmae produced on leaves that look the same as or smaller than those on the rest of the shoot 068134136801400Odontoschisma denudatum0
+0 Shoot laterally compressed, especially near tip, so that there are 2 ranks of leaves on opposite sides of the stem and more or less appressed to it06913213781141070
+0 Shoot dorsi-ventrally compressed, the 2 ranks of obliquely inserted leaves lying more or less flat, one on each side of the stem06913213881142074
+0 In Sphagnum bogs ; shoots usually orange-brown, with numerous very slender, thread-like branches that appear leafless and grow downwards from the stem 070137139821430Odontoschisma sphagni0
+0 Not in Sphagnum bogs ; very slender, thread-like, apparently leafless branches absent, any slender shoots not growing downwards07013714082144071
+0 Plants usually with some very slender, creeping shoots with small leaves ; leaf margins often with a border of enlarged cells (hand lens) 071140141831450Jungermannia gracillima0
+0 Very slender shoots absent ; border absent07114014283146072
+0 Leaves very slightly appressed to each other, so shoots appear strongly flattened and the stem is scarcely flattened and the stem is scarcely visible from above 072142143841470Nardia compressa0
+0 Leaves less tightly appressed ; stem clearly visible07214214484148073
+0 Underleaves present (x20 hand lens ; check carefully the shoot tip) 073144145851490Nardia scalaris0
+0 Underleaves absent 073144146851500Jungermannia spp.0
+0 Leaves convex, with one margin extending down onto stem07413814786151075
+0 Leaves flat, margin not turning down along stem07413814886152077
+0 Leaves entire ; plants of very wet places 075147149871530Chiloscyphus spp.0
+0 Leaf margin toothed, although teeth may be very sparse ; plants of humid but dry places07514715087154076
+0 Leaves broadly rounded ; leaves not deciduous ; plants unscented 076150151881550Plagiochila asplenioides/P. porelloides0
+0 Leaves tapering to a squared-off or 2-lobed tip ; leaves often deciduous ; plants scented when lightly crushed ; restricted to western Britain 076150152881560Plagiochila killarniensis/P. punctata/P. spinulosa0
+0 Leaves in opposite pairs on stem ; relatively long and narrow ; underleaves joined to lateral leaves (hand lens), and toothed along margin but not notched at tip 077148153891570Saccogyna viticulosa0
+0 Leaves alternate along stem ; relatively short and broad ; underleaves free, broadly rounded, with (sometimes shallow) notch at tip 077148154891580Calypogeia spp.0
+0 Leaves with very obvious vertical plates of green tissue on upper surface of the nerve (hand lens), either closely packed, making the leaf appear opaque, or loosely packed. – Polytrichum, Atrichum, etc.078715590159088
+0 Leaves lacking vertical plates of green tissue on upper surface078715690160079
+0 Leaves arranged strictly in 2 ranks07915615791161080
+0 Leaves not strictly in 2 ranks07915615891162081
+0 Shoot look like miniature ferns. – Fissidens, etc.08015715992163096
+0 Shoots with very long, slender leaves, not looking like miniature ferns 080157160921640Distichium spp.0
+0 Some or all of the leaves ending in almost white hair point. – Grimmia, Tortula, etc.081158161931650104
+0 Leaves lacking almost white hair point08115816293166082
+0 Dense cushions whitish-green when dry ; leaves broadly spearhead-shaped, blunt at tip, 6-8 mm long, appearing nerveless 082162163941670Leucobryum spp.0
+0 Colonies not whitish-green when dry ; leaves not appearing nerveless08216216494168083
+0 Leaf tip almost white, making whole shoots appear silvery ; shoots with appressed leaves, making them catkin-like 083164165951690Bryum argenteum0
+0 Whole leaf green, brownish, almost black, etc., but not looking silvery08316416695170084
+0 Capsules disproportionately large compared with leafy parts08416616796171085
+0 Capsules not disproportionately large, or absent08416616896172086
+0 Capsule on a long seta ; leaves almost invisible 085167169971730Buxbaumia spp.0
+0 Capsules on a very short seta, looking like cereal grains surrounded by strap-like leaves 085167170971740Diphyscium foliosum0
+0 Leaves narrowly spearhead-shaped, > 5 times as long as wide ; each leaf tapering to a long, fine point into which the nerve runs. – Dicranella, Dicranum, etc.086168171981750126
+0 Leaves either with rounded outlines, or parallel-sided, or if gradually tapering then not > 5 times as long as wide08616817298176087
+0 Leaves large to very large (largest leaves 3.5-10 mm long and 1-3 mm wide) ; plants mostly robust (sometimes bud-like or forming short rosettes), in wide patches rather than compact cushions. – Mnium, Plagiomnium, etc.087172173991770156
+0 Leaves medium-sized to very small (3-5 mm long or less, most commonly 1-2 mm long and seldom as much as 1 mm wide) ; plants mostly small and slender (occasionally tall and small-leaved) ; habit various, often forming compact cushions, sometimes forming turfs or scattered shoots. This large section is subdivided into five, according to habitat, growing on : 0871721749917800
+0 * tarmac or concrete paths087172175991790172
+0 * walls in towns and villages, on bridge parapets, etc.087172176991800181
+0 * rocks, including surfaces of boulders, cliffs and drystone walls087172177991810196
+0 * soil, including gravely detritus, sand, clay, loam, peaty humus, soil-capped walls, and thin soil on roadsides or paths087172178991820225
+0 * trees, logs, fence posts or decaying tree stumps087172179991830267
+0 Margins of leaves inrolled and untoothed (hand lens) ; shoots 2 mm-7 cm tall088155180100184089
+0 Margins of leaves plane and toothed (hand lens) ; shoots 1-25 cm tall088155181100185092
+0 Scattered, tiny plants (2-4 mm across) on lime-rich soil 0891801821011860Aloina spp.0
+0 Scattered plants (> 5 mm across) or dense patches on acidic soil089180183101187090
+0 Longest leaves < 3 mm ; vertical plates of green tissue on upper surface of the nerve few, wavy and loosely packed ; north-western 0901831841021880Oligotrichum hercynicum0
+0 Leaves longer ; vertical plates of green tissue on upper surface of the nerve dense, straight and crowded090183185102189091
+0 Leaves with almost white hair point 0911851861031900Polytrichum piliferum0
+0 Almost white hair point lacking ; leaves ending in short but acute, brown point 0911851871031910Polytrichum juniperinum0
+0 Each leaf with fewer than 5 loosely packed, vertical plates of green tissue restricted to the upper surface of the nerve 0921811881041920Atrichum undulatum0
+0 25+ densely packed plates covering almost entire leaf surface092181189104193093
+0 Plant pale bluish-green (glaucous) above 0931891901051940Pogonatum urnigerum0
+0 Plant mid-green or dark green above093189191105195094
+0 Shoots 0.5-1 cm tall, leaves forming a rosette 0941911921061960Pogonatum aloides0
+0 Shoots 3-25 cm tall, leaves along stem094191193106197095
+0 Chiefly on wet moorland ; leaf sheath glossy (visible when upper leaves are stripped off a stem) ; plant often > 15 cm tall 0951931941071980Polytrichum commune0
+0 Chiefly in woods ; leaf sheath dull ; plants rarely > 9 cm tall 0951931951071990Polytrichastrum formosum0
+0 Leaves nerveless ; protonema shining green like glow-worm tails ; scarce plant of caves, rabbit holes, etc. 0961591961082000Schistostega pennata0
+0 Leaves nerved to tip or near it ; protonema not shining	97096159197108201097
+0 Minute (shoots < 5 mm long) ; fruiting plants with < 5 pairs of leaves (non-fruiting plants unidentifiable) 0971971981092020Fissidens exilis/F. pusillus/F. viridulus0
+0 Larger (shoots 5 mm or longer) ; fruiting plants with > 5 pairs of leaves097197199109203098
+0 On rocks and masonry in rivers or streams 0981992001102040Fissidens crassipes/F. rufulus/F. rivularis0
+0 Not on rocks in rivers or streams098199201110205099
+0 Leaves bordered with long, narrow cells (hand lens) ; small (stems 0.5-2 cm) ; seta terminal0992012021112060100
+0 Leaves not bordered (hand lens) ; larger (stems 1-8 cm) ; seta various0992012031112070101
+0 Capsule upright (not conclusively identifiable without capsules) 01002022041122080Fissidens bryoides0
+0 Capsule inclined, more or less horizontal (not conclusively identifiable without capsules) 01002022051122090Fissidens incurvus/F. curnovii0
+0 Nerve ending at leaf tip in a short, protruding point ; seta basal 01012032061132100Fissidens taxifolius0
+0 Nerve ending below leaf tip ; seta terminal or lateral01012032071132110102
+0 Shoots about 4 mm wide ; leaves down-curved at tip, giving shoots rounded backs ; leaf margins untoothed ; seta terminal 01022072081142120Fissidens osmundoides0
+0 Shoots flat, about 8 mm wide ; leaf margins irregularly toothed ; seta lateral01022072091142130103
+0 Leaves with very distinct pale marginal band ; on dry, calcareous rocks (needs checking with microscope) 01032092101152140Fissidens dubius0
+0 Leaves with indistinct or no pale marginal band ; in flushes, fens or on wet, calcareous rocks (needs checking with microscope) 01032092111152150Fissidens adianthoides0
+0 Nerve projecting from leaf tip as a fine, greenish hair ; leaves corkscrew-curled when dry 01041612121162160Bryum capillare0
+0 Nerve projecting as a colourless or white, very distinct hair point ; leaves not corkscrew-curled when dry01041612131162170105
+0 Leaves very long, narrow and sword-shaped01052132141172180106
+0 Leaves relatively shorter – roughly triangular or tongue-shaped01052132151172190108
+0 Plants dark, blackish-green ; leaves 6-9 mm long, with long, untidy-looking hair point 01062142161182200Campylopus atrovirens0
+0 Plants light or mid-green ; leaves 4-5 mm long, with relatively short hair point01062142171182210107
+0 Hair points bent back when dry, looking star-like ; nerve > 1/4 of leaf width at base (hand lens) 01072172181192220Campylopus introflexus0
+0 Hair points not bent back when dry ; nerve < 1/4 of leaf width at base (hand lens) 01072172191192230Campylopus brevipilus0
+0 On trees or fence posts01082152201202240109
+0 On some other substrate01082152211202250113
+0 Prominent line of powder-like gemmae on upper side of nerve 01092202221212260Syntrichia papillosa0
+0 Gemmae absent from leaves01092202231212270110
+0 Capsules on curved-seta (straight when old and dry) 01102232241222280Grimmia pulvinata0
+0 Capsules with straight, sometimes very short, seta01102232251222290111
+0 Leaves tapering into wide-based hair point ; capsule scarcely raised above leaves 01112252261232300Orthotrichum diaphanum0
+0 Narrow hair point projects from middle of broad leaf tip ; capsule (if present) on seta long enough to hold capsule base clear of leaves01112252271232310112
+0 Hair point smooth (hand lens) 01122272281242320Syntrichia laevipila0
+0 Hair point with sharp teeth throughout its length (hand lens) 01122272291242330Syntrichia virescens0
+0 On sand dunes ; plans bright golden green to orange-brown when moist ; leaves strongly bent back, tapering to a narrow tip, with strongly recurved margins 01132212301252340Syntrichia ruralis subsp. ruraliformis0
+0 Some other habitat and appearance01132212311252350114
+0 Forming straggling patches ; stems freely branched01142312321262360115
+0 Forming neat tufts or cushions ; stems little branched (mostly simple or merely forked)01142312331262370117
+0 Hair point with narrow teeth at 90° to base (hand lens) ; plants very robust ; forming loose carpets, 20 cm to 1 m or more across, on peat or rock (individual stems often 12-25 cm long) 01155742341272380Racomitrium lanuginosum0
+0 Hair point with forward-pointing teeth ; plants much more slender, in loose tufts or thin, straggling patches a few centimeters across, on rock (individual stems 2-8 cm)01155742351272390116
+0 Leaves very concave, with rounded backs and no nerve ; capsules on short seta, hidden among leaves 01162352361282400Hedwigia stellata0
+0 Leaves flat or with keeled backs and an obvious nerve ; capsules on long seta (> 5 times length of capsule) 01162352371282410Racomitrium heterostichum agg.0
+0 Capsules always present (search carefully for old ones) on short seta so capsule base is hidden among sheathing leaves01172332381292420118
+0 Capsules (if present) on seta long enough to hold capsule base clear of leaves01172332391292430119
+0 Plants squat and unbranched ; old capsules with folds when dry ; young capsules with slightly hairy calyptra 01182382401302440Orthotrichum diaphanum0
+0 Plants loosely branches ; old capsules smooth ; calyptra without hairs 01182382411302450Schistidium crassipilum0
+0 Leaves abruptly narrowing into hair point (may be parallel-sided or tapering before abrupt narrowing)01192392421312460120
+0 Leaves gradually tapering into hair point01192392431312470123
+0 Hair point smooth (hand lens)01202422441322480121
+0 Hair point with sharp teeth throughout its length (hand lens)01202422451322490122
+0 Leaves tongue-shaped, appearing thickened on margins (hand lens) ; capsules on long (> 1.5 cm) straight seta 01212442461332500Tortula muralis0
+0 Leaves gradually tapering from base, then abruptly narrowing into hair point ; margins recurved, but not thickened ; capsules on short (< 8 mm) curved seta (NB : straightens when dry) 01212442471332510Grimmia pulvinata0
+0 Leaf margins recurved for most of its length ; upper part of leaves curved upwards and inwards 01222452481342520Syntrichia ruralis subsp. ruralis0
+0 Leaf margins not recurved ; upper part of leaves flat 01222452491342530Syntrichia intermedia0
+0 Shoots with abundant, short branches ; usually on gravelly soil, mine waste, etc. 01232432501352540Racomitrium ericoides0
+0 Shoots with long, irregular branches or unbranched ; on rock01232432511352550124
+0 Tiny (< 8 mm deep), almost black cushions ; almost always with pale green capsules on short (as long as capsule), straight seta 01242512521362560Grimmia donniana0
+0 Cushions at least 1 cm deep ; seta either curved or much longer than capsules01242512531362570125
+0 Capsules on long, straight seta ; hair point flattened where it joins the rest of the leaf 01252532541372580Racomitrium heterostichum0
+0 Capsules on short, curved seta (but rarely produced) ; hair point not flattened where it joins the rest of the leaf 01252532551372590Grimmia trichophylla0
+0 Robust, 2.5-15 cm tall01261712561382600127
+0 Small, up to 2 cm tall01261712571382610137
+0 Leaves strongly curved and turned to one side, at least at the shoot tip01272562581392620128
+0 Leaves straight01272562591392630130
+0 Leaves very long (the longest being 10-14 mm), all sickle-shaped and very strongly turned to one side of shoot ; chiefly in sheltered, humid woods 01282582601402640Dicranum majus0
+0 Leaves shorter (the longest 6-8 mm), less strongly and regularly turned to one side of shoot ; habitat various	12901282582611402650129
+0 Nerve at base of leaf 1/3 to 1/2 width of base of leaf (hand lens) ; plants dark green ; leaves wavy when dry, 4-5 mm long 01292612621412660Campylopus flexuosus0
+0 Nerve at base of leaf < 1/5 width of base of leaf (hand lens) ; leaves 4-8 mm long, little altered when dry ; shoots brownish below and bright, yellowish-green above 01292612631412670Dicranum scoparium0
+0 Forming deep cushions or scattered in bogs and wet places on moors ; leaves dull, yellowish-green, spreading when moist, shriveled and curled when dry 01302592641422680Aulacomnium palustre0
+0 Habitat different ; if on bogs or moors then leaves shiny01302592651422690131
+0 Leaves much twisted and curled when dry01312652661432700132
+0 Leaves little altered when dry01312652671432710134
+0 Cushions yellow-green ; leaf margins untoothed (but sometimes irregularly notched near tip) and undulate ; very rarely fertile ; strict lime-lover 01322662681442720Tortella tortuosa0
+0 Cushions dull green or pale green ; leaf margins toothed, not undulate ; usually fertile ; on acidic or midly limey substrate01322662691442730133
+0 Cushions dark green near shoot tip and black near the centre ; leaves with bluntly toothed margins (clearly visible with x10 hand lens) ; usually with pale brown, cylindrical capsules ; on siliceous, upland rocks 01332692701452740Ptychomitrium polyphyllum0
+0 Cushions pale green ; leaves rigidly straight ; leaf margins finely toothed (just visible with x10 hand lens) ; characteristic apple-shaped capsules usually present ; habitat various 01332692711452750Bartramia pomiformis0
+0 Leaves widely spreading to give shoot a bottle-brush effect ; orange or red-brown rhizoids on stems very obvious 01342672721462760Breutelia chrysocoma0
+0 Leaves not as above ; orange rhizoids seldom obvious01342672731462770135
+0 Leaves with evident expanded blade either side of nerve, all the way to the leaf tip ; plant yellow-green 01352732741472780Dicranum scoparium0
+0 Leaves bristle-like, abruptly narrowed to form long, fine tip composed almost entirely of nerve (if leaf blade is not very obvious then key here)01352732751472790136
+0 Leaves almost straight when moist, and slightly wavy when dry ; orange-brown patch at basal angles of leaf ; on acidic substrate 01362752761482800Campylopus flexuosus0
+0 Leaves markedly wavy when moist or dry ; no orange-brown patches ; on calcareous substrate 01362752771482810Ditrichum gracile0
+0 Minute plants on base-rich rock ; leaves < 1 mm long ; tiny capsule on seta < 3 mm long01372572781492820138
+0 Plants taller ; on soil or acidic rock, or on base-rich rocks in flushes01372572791492830139
+0 Seta curved, leaves brownish-green 01382782801502840Seligeria recurvata0
+0 Seta straight, leaves vivid green 01382782811502850Other Seligeria spp.0
+0 Leaves with evident blade either side of nerve, all the way to the leaf tip ; plant yellow-green 01392792821512860Dicranum scoparium0
+0 Leaves bristle-like, abruptly narrowed to form long, fine tip composed almost entirely of nerve (if leaf blade is not very obvious then key here)01392792831512870140
+0 Leaves appearing thick, opaque & dull green ; leaves narrow and strap-like, scarcely tapering from base 01402832841522880Diphyscium foliosum0
+0 Leaves translucent, usually shiny green ; leaves tapering, so wider at base than tip01402832851522890141
+0 Leaves bent back from a sheathing base, held at 90° to vertical01412852861532900142
+0 Leaves not bent back from a sheathing base01412852871532910144
+0 Limb of leaf composed almost entirely of nerve, appearing cylindrical through a hand lens 01422862881542920Trichodon cylindricus0
+0 Limb of leaf with blade apparent to tip, appearing flat through a hand lens01422862891542930143
+0 Upper and lower leaves of the same length ; tubers absent from stems 01432892901552940Dicranella schreberiana0
+0 Upper leaves much longer than lower leaves ; red tubers often produced on short rhizoids between leaves on lower part of stem 01432892911552950Leptobryum pyriforme0
+0 Leaves strongly curved and turned to one side01442872921562960145
+0 Leaves straight or wavy, spreading, not turned to one side01442872931562970147
+0 Shoots bright green ; in lime-rich places 01452922941572980Dicranella varia0
+0 Shoots dark green ; in acidic places01452922951572990146
+0 Capsule erect, cylindrical, symmetrical (not identifiable when non-fertile), mostly in uplands 01462952961583000Ditrichum heteromallum0
+0 Capsule inclined, curved and asymmetrical ; both in lowlands and uplands and very common on acidic woodland banks 01462952971583010Dicranella heteromalla0
+0 Leaf and shoots tips fragile ; colonies usually covered with shoot fragments01472932981593020148
+0 Leaf and shoot tips not detaching from rest of plant01472932991593030150
+0 Colonies dark green ; red-brown patch at basal corners of leaves (x20 hand lens) 01482983001603040Campylopus flexuosus0
+0 Colonies vivid light green ; red-brown patches lacking (x20 hand lens)01482983011603050149
+0 Individual shoots narrow and scarcely distinct in colonies ; leaves widest at base (hand lens) 01493013021613060Campylopus pyriformis0
+0 Colonies composed of clearly distinct, rather wide shoots ; leaves widest a short way above the base (hand lens) 01493013031613070Campylopus fragilis0
+0 Leaves with very distinct red base (x10 hand lens) ; plants shiny dark green ; on base-rich rocks, often in springs 01502993041623080Blindia acuta0
+0 Leaves without red base ; plants mid- or light green ; in other habitats01502993051623090151
+0 Curved seta supporting egg-shaped capsule ; on rotting logs, peat, acidic rock, etc. 01513053061633100Orthodontium lineare0
+0 Seta straight or very short ; on soil01513053071633110152
+0 Lowest 1/4 of shoot (stem and leaves) red ; on acidic soil 01523073081643120Dicranella rufescens0
+0 Shoots entirely green ; on base-rich, neutral or acidic soil01523073091643130153
+0 Upper leaves only slightly longer than lower ones, not strikingly different01533093101653140154
+0 Upper leaves of shoots strikingly different from lower leaves01533093111653150155
+0 Capsules dark red, inclined, on long, red seta 01543103121663160Dicranella varia0
+0 Capsules absent 01543103131663170Dicranella staphyllina (collect to check for tubers)0
+0 Upper leaves held vertically ; capsule oval, without separate lid, immersed between bristle-like leaves at top of shoots 01553113141673180Pleuridium acuminatum/P. subulatum0
+0 Upper leaves spreading horizontally ; capsule pear-shaped, with separate lid falling to reveal peristome, on long seta 01553113151673190Leptobryum pyriforme0
+0 Leaves spearhead- or tongue-shaped or gradually tapering, at least 4 times as long as broad01561733161683200157
+0 Leaves rounded or egg-shaped, 2 to 3 times as long as broad01561733171683210165
+0 Leaves wrinkled transversely01573163181693220158
+0 Leaves not wrinkled transversely01573163191693230159
+0 Upright stem with few or no branches ; leaves with teeth on back and double teeth on margins (hand lens); narrowly cylindrical capsules common in winter 01583183201703240Atrichum undulatum0
+0 Stem usually branched above, branches often arching ; leaves with single teeth, only on margins ; usually without capsules 01583183211703250Plagiomnium undulatum0
+0 Leaf margins toothed (double teeth fine, but clearly visible with x10 hand lens) and with thickened border 01593193221713260Mnium hornum0
+0 Leaf margins entire01593193231713270160
+0 Leaf tip rounded ; tufts vivid green when moist ; dull, glaucous and with much curled leaves when dry ; stem with abundant, brown rhizoids ; lime-lover, commonest on limestone walls and mortar, or on limestone outcrops 01603233241723280Encalypta streptocarpa0
+0 Leaf tip acute or with shortly excurrent nerve ; appearance and habitat various, but not forming tufts on mortar of walls as above01603233251723290161
+0 Stem short, < 2 cm tall, upright or forming turfs01613253261733300162
+0 Stem elongated, 3-10 cm or more, either straggling or forming very deep cushions01613253271733310163
+0 Leaves 2.5-4 mm long, without pale margins (hand lens) ; plants growing as turfs or patches on soil ; shoots usually without capsules ; common, especially abundant on coasts 01623263281743320Trichostomum brachydontium0
+0 Leaves 3-6 mm long, with pale margins (hand lens) ; forming short rosettes about 5 mm tall ; nearly always with capsules (or starting to produce them) ; capsule 7-9 mm long, erect and narrowly cylindrical, on long seta ; moderately common, mostly inland 01623263291743330Tortula subulata0
+0 Shoots straggling and dark green ; margins of leaves thickened to form a narrow border (hand lens) ; capsules common, almost hidden by leaves ; mostly by rivers 01633273301753340Cinclidotus fontinaloides0
+0 Shots light yellowish-green ; margins of leaves not bordered ; capsules on long seta, rarely produced01633273311753350164
+0 Forming hanging patches on lime-rich rocks or walls, or the base of trees 01643313321763360Anomodon viticulosus (a pleurocarp)0
+0 Growing as cushions, hummocks or scattered plant in bogs, heaths of flushes 01643313331763370Aulacomnium palustre0
+0 Leaf tip rounded ; nerve not excurrent01653173341773380166
+0 Leaf tip acute ; nerve often excurrent in short point01653173351773390168
+0 Leaf margins not thickened ; leaves very opaque ; only on limestone, mortar on walls, etc. 01663343361783400Encalypta streptocarpa0
+0 Leaf margins thickened ; leaves translucent ; habitats various01663343371783410167
+0 Leaf margins untoothed ; shoots upright 01673373381793420Rhizomnium punctatum0
+0 Leaf margins toothed ; if apparently untoothed then shoots creeping 01673373391793430Plagiomnium spp. (affine/rostratum, etc.)0
+0 On dung in wet places ; leaves strongly and irregularly toothed ; plants usually very fertile, with flask-shaped capsules 01683353401803440Splachnum ampullaceum0
+0 Habitat, leaves and capsules not as above01683353411803450169
+0 Erect stems crowned by striking, flower-like leaf rosettes which are 1.5-2.5 cm across 01693413421813460Rhodobryum roseum0
+0 Not forming wide, flower-like rosettes of leaves01693413431813470170
+0 Leaf without well-defined border ; nerve not excurrent ; unripe capsule asymmetrical, on curved seta ; ripe capsule furrowed when dry 01703433441823480Funaria hygrometrica0
+0 Leaf with well-defined border ; nerve excurrent ; capsule symmetrical, on straight seta, not furrowed when dry01703433451823490171
+0 Nerve excurrent in long, pale greenish, hair-like point ; leaves spirally curled when dry ; on dry ground, walls, trees, etc. 01713453461833500Bryum capillare0
+0 Nerve strongly excurrent or ending in tip ; leaves shrunken or slightly curled, but not spiral when dry ; tall plants (3-10 cm) in wet, lime-rich places 01713453471833510Bryum pseudotriquetrum0
+0 Leaf parallel-sided or with rounded outline01721753481843520173
+0 Leaf gradually tapering to tip01721753491843530178
+0 Leaves parallel-sided, opaque and yellowish-green01733483501853540174
+0 Leaves rounded, opaque or translucent, and bright or brownish green01733483511853550175
+0 Nerve excurrent in short point 01743503521863560Barbula unguiculata0
+0 Nerve ending in leaf tip 01743503531863570Barbula convoluta/B. sardoa0
+0 Leaves opaque, dirty brownish-green ; nerve ending in tip 01753513541873580Syntrichia latifolia0
+0 Leaves translucent01753513551873590176
+0 Capsule on long, wavy seta ; young capsule tightly sheathed by bunched leaves 01763553561883600Funaria hygrometrica0
+0 Capsule on straight seta, although capsule itself nodding ; young capsule not tightly sheathed by leaves01763553571883610177
+0 Nerve excurrent in a wispy point ; bulbils absent 01773573581893620Bryum capillare0
+0 Nerve ending in leaf tip or shortly excurrent ; yellowish-green bulbils present in leaf axils 01773573591893630Bryum dichotomum0
+0 Leaf tip narrow but rounded (hand lens)01783493601903640179
+0 Leaf tip sharply pointed (hand lens)01783493611903650180
+0 Leaves 2-3 mm long, > 3 times as long as wide 01793603621913660Didymodon nicholsonii0
+0 Leaves 2 mm long or shorter, < 2 times as long as wide 01793603631913670Didymodon luridus0
+0 Leaves curved to one side, looking like a spiral from above 01803613641923680Didymodon insulanus0
+0 Leaves straight when viewed from above 01803613651923690Ceratodon purpureus0
+0 Medium-sized plants with leaves at least 4 mm long01811763661933700182
+0 Very small plants, with leaves 3 mm long or shorter01811763671933710188
+0 Leaves corkscrew-curled when dry, egg-shaped ; nerve projecting from leaf tip as a fine, greenish hair 01823663681943720Bryum capillare0
+0 Leaves not corkscrew-curled when dry, gradually tapering to tip ; nerve ending in leaf tip01823663691943730183
+0 Plants dull, dark green ; capsule usually present, covered by hairy calyptra01833693701953740184
+0 Plants yellowish-green or mid-green ; capsules rare, calyptra not hairy01833693711953750185
+0 Capsules projecting above leaves on long seta 01843703721963760Orthotrichum anomalum0
+0 Capsules hidden among leaves on short seta 01843703731963770Orthotrichum cupulatum0
+0 Leaf margins with notches ; leaf tip sometimes missing01853713741973780186
+0 Leaf margins without notches ; leaf tip never missing01853713751973790187
+0 Leaf base with sharp V-shaped division between colourless basal cells and green upper cells (remove a leaf) 01863743761983800Tortella tortuosa0
+0 Leaf base with a few colourless cells, but no sharp V-shaped division from upper cells 01863743771983810Didymodon sinuosus0
+0 Leaf tip shaped like a boat's prow (view from side through a hand lens) 01873753781993820Trichostomum crispulum0
+0 Leaf tip not shaped like a boat's prow01873753791993830188
+0 Leaves parallel-sided to just below tip ; on mortar courses01883793802003840189
+0 Leaves tapering to tip ; on mortar, tops or sides of walls01883793812003850192
+0 Leaf margins rolled back underneath, almost to nerve 01893803822013860Pseudocrossidium revolutum0
+0 Leaf margins not rolled back, may be down-curved01893803832013870190
+0 Leaf margins down-curved ; nerve protruding beyond tip of leaf in short point 01903833842023880Barbula unguiculata0
+0 Leaf margins not down-curved ; nerve not protruding01903833852023890191
+0 Leaf margins wavy ; plants yellowish-green 01913853862033900Barbula sardoa0
+0 Leaf margins flat ; plants vivid mid-green 01913853872033910Zygodon viridissimus0
+0 Nerve ending below rounded leaf tip 01923813882043920Didymodon luridus/D. tophaceus0
+0 Nerve protruding beyond the acute leaf tip01923813892043930193
+0 Shoots reddish-brown below ; leaf tip often with a few teeth ; leaf gradually tapering, then abruptly angled in at tip 01933893902053940Bryoerythrophyllum recurvirostrum0
+0 Shoots green or orange below ; leaf tip untoothed ; leaf gradually tapering all the way to the tip01933893912053950194
+0 Leaves curved to one side, looking like a spiral when viewed from above 01943913922063960Didymodon insulanus0
+0 Leaves more or less straight01943913932063970195
+0 Plants dark green 01953933942073980Didymodon rigidulus0
+0 Plants yellow-green 01953933952073990Didymodon vinealis0
+0 Tiny, almost black or red-brown cushions on acidic, upland rocks ; leaves < 1 mm long ; capsules opening with 4 slits01961773962084000197
+0 Green cushions (sometimes brownish) or patches in various habitats ; leaves usually > 1 mm long ; capsules opening with a single hole01961773972084010198
+0 Leaves curved, mostly composed of nerve 01973963982094020Andreaea rothii0
+0 Leaves straight, nerveless 01973963992094030Andreaea rupestris0
+0 Stems prostrate or ascending at tip, with plenty of irregular branching01983974002104040199
+0 Stems erect or nearly so, unbranched or sparsely so01983974012104050205
+0 Leaf tip rounded (hand lens)01994004022114060200
+0 Leaf tip acute01994004032114070201
+0 Leaf tip with teeth (hand lens), about half as wide as leaf base, so leaves appear short and blunt ; mostly on rocks by streams 02004024042124080Racomitrium aciculare0
+0 Leaf tip without teeth (hand lens), about 1/4 as wide as leaf base ; usually forming patches on damp, upland cliffs 02004024052124090Racomitrium aquaticum0
+0 Leaf margins much thicker than rest of leaf (hand lens), not recurved 02014034062134100Cinclidotus fontinaloides0
+0 Leaf margins not thicker than rest of leaf (hand lens) (may look thicker if recurved, so check carefully)02014034072134110202
+0 Leaves curved (examine colony as a whole) ; capsules hidden among sheathing leaves02024074082144120203
+0 Leaves straight (examine colony as a whole) ; capsules not hidden, held above leaves on long seta02024074092144130204
+0 Capsule longer than wide (about 1.5 times as long as wide) 02034084102154140Schistidium apocarpum0
+0 Capsule as long as wide 02034084112154150Schistidium rivulare0
+0 Shoots tightly appressed to rocky surfaces, with short tassel-like branches 02044094122164160Racomitrium fasciculare0
+0 Shoots loosely or not appressed to rocky surfaces ; branches long and irregular 02044094132164170Racomitrium heterostichum (forms without hair points)0
+0 Individual colonies forming discrete, well-defined cushions02054014142174180206
+0 Colonies forming turfs, loose ill-defined tufts, etc.02054014152174190211
+0 Capsules hidden among sheathing leaves ; dense, olive-green, rounded cushions on coastal rocks 02064144162184200Schistidium maritimum0
+0 Capsules, if present, not sheathed by leaves ; generally not on coastal rocks (a few of the following are occasional by the sea)02064144172184210207
+0 Short (< 2 cm tall) cushions on acidic boulders or rocks ; dull green ; capsules abundant02074174182194220208
+0 Tall (> 2 cm tall) cushions on base-rich cliffs, especially under overhangs, or on calcareous boulders ; bright or yellow-green ; capsules uncommon02074174192194230209
+0 Leaves 1-2 mm long, untoothed 02084184202204240Dicranoweisia cirrata0
+0 Leaves 2-3 mm long, margins obviously toothed (hand lens) 02084184212204250Ptychomitrium polyphyllum0
+0 Mid-green cushions ; leaves long and narrow (> 3 times as long as wide), with parallel sides and acute tip 02094194222214260Amphidium mougeotii0
+0 Yellow-green cushions ; either leaves shorter (< 3 times as long as wide), or gradually tapering and with wavy margins02094194232214270210
+0 Leaves short (< 3 times as long as wide), tipped with a single pointed cell (x20 hand lens) ; leaf margins not undulate ; cushions vivid yellow-green 02104234242224280Anoectangium aestivum0
+0 Leaves long (> 4 times as long as wide), gradually tapering to one or two blunt cells (x20 hand lens) ; leaf margins undulate ; cushions pale green 02104234252224290Tortella tortuosa0
+0 Leaf margins toothed (hand lens) ; plants of wet places02114154262234300212
+0 Leaf margins untoothed (hand lens), but may be notched (see 220) ; plants of various habitats02114154272234310213
+0 Leaves tapering sharply ; margins recurved ; plants glaucous green ; stem with matted rhizoids among lower leaves 02124264282244320Philonotis fontana0
+0 Leaves acute or blunt ; margins plane ; plants not blue-green ; stem without matted rhizoids among lower leaves 02124264292244330Dichodontium spp.0
+0 Leaves with rounded or egg-shaped outline02134274302254340214
+0 Leaves parallel-sided or gradually tapering to tip02134274312254350216
+0 Leaves corkscrew-curled when dry ; nerve projecting from leaf tip as a fine greenish hair 02144304322264360Bryum capillare0
+0 Leaves more or less straight when dry ; nerve ending in leaf tip02144304332264370215
+0 Margins recurved ; plants wine red (sometimes dark green) ; shoots without slightly appressed leaves 02154334342274380Bryum alpinum0
+0 Margins plane ; plants always dark green ; shoots with tightly appressed leaves often projecting above main colony 02154334352274390Pohlia nutans0
+0 Leaves > 4 mm long, parallel-sided02164314362284400217
+0 Leaves < 3 mm long, tapering gradually from base to leaf tip02164314372284410221
+0 Plants dull, dark green ; leaf margins recurved ; capsules usually present, covered by hairy calyptra02174364382294420218
+0 Plants yellowish-green or mid-green ; leaf margins not recurved ; capsules very rare, calyptra not hairy02174364392294430219
+0 Capsules projecting above leaves on long seta 02184384402304440Orthotrichum anomalum0
+0 Capsules hidden among leaves on short seta 02184384412304450Orthotrichum cupulatum0
+0 Leaf margins without notches ; leaf tip never missing ; nerve protruding beyond leaf tip as a blunt point 02194394422314460Trichostomum brachydontium0
+0 Leaf margins with notches ; leaf tip sometimes missing ; nerve ending in leaf tip02194394432314470220
+0 Leaf base with sharp V-shaped division between colourless basal cells and green upper cells (remove a leaf) 02204434442324480Tortella tortuosa0
+0 Leaf base with a few colourless cells, but no sharp V-shaped division from upper cells 02204434452324490Didymodon sinuosus0
+0 Plants on damp calcareous rock faces02214374462334500222
+0 Plants not on damp, calcareous rock faces02214374472334510223
+0 Leaf tip rounded (hand lens) 02224464482344520Gymnostomum aeruginosum0
+0 Leaf tip sharply pointed (hand lens) 02224464492344530Eucladium verticillatum0
+0 Leaves with narrow upper part composed mostly of nerve ; leaves never toothed at tip (hand lens) 02234474502354540Didymodon rigidulus0
+0 Leaves with leaf blade continuing all the way to leaf tip ; 1 or 2 obscure teeth near leaf tip (hand lens)02234474512354550224
+0 Leaf gradually tapering, then suddenly angled in at tip ; upper leaves dull, yellow-green and opaque 02244514522364560Bryoerythrophyllum recurvirostrum0
+0 Leaf gradually tapering all the way to the tip ; leaves glossy green (or pink or reddish) and translucent 02244514532364570Ceratodon purpureus0
+0 Stem with matted rhizoids among lower leaves ; leaves sharply tapering ; margins recurved ; plants glaucous green 02251784542374580Philonotis fontana0
+0 Stem without matted rhizoids, or rhizoids very sparse ; if leaves tapering and margins recurved, then plants yellow-green or mid-green02251784552374590226
+0 Leaves at tip of shoot forming a nest-like group, holding several gemmae 02264554562384600Tetraphis pellucida0
+0 Leaves not forming a nest ; gemmae absent from shoot tip02264554572384610227
+0 Leaves tapering from base to tip02274574582394620228
+0 Leaves parallel-sided until just below tip, or with egg-shaped outline02274574592394630243
+0 Minute (< 3 mm tall) plants with capsules on very short seta, hidden among leaves ; capsules without differentiated lid (hand lens) ; leaves translucent02284584602404640229
+0 Capsules on long seta or absent, mostly with differentiated lid ; if seta very short, then plants > 5 mm and leaves opaque02284584612404650230
+0 Bud-like plants arising from green mat of protonema ; leaves nerveless and with toothed margins 02294604622414660Ephemerum minutissimum/E. serratum0
+0 Upright (but tiny) plants with no mat of protonema ; leaves with faint nerves and without teeth 02294604632414670Pseudephemerum nitidum0
+0 Leaf margins wavy ; leaf base with sharp, V-shaped division between colourless basal cells and green upper cells (remove a leaf) ; robust, yellow-green cushions in limestone grassland 02304614642424680Tortella tortuosa0
+0 Leaf margins not wavy ; leaf base without V-shaped division02304614652424690231
+0 Leaf tip with a few teeth (hand lens)02314654662434700232
+0 Leaf tip without teeth (hand lens)02314654672434710234
+0 Leaf margins recurved only in lower half of leaf ; irregular teeth in upper half of leaf 02324664682444720Dichodontium spp.0
+0 Leaf margins recurved almost to leaf tip (to upper 1/4 at least) ; teeth restricted to extreme tip02324664692444730233
+0 Leaf gradually tapering, then abruptly angled in at tip ; upper leaves dull, yellow-green and opaque, lower leaves brick red 02334694702454740Bryoerythrophyllum recurvirostrum0
+0 Leaf gradually tapering all the way to the tip ; leaves glossy, green, pink or red, and translucent 02334694712454750Ceratodon purpureus0
+0 Leaves with very broad upright base then bent back 90° to point away from stem 02344674722464760Dichodontium palustre0
+0 Leaf tip not abruptly bent back ; straight or gradually curved02344674732464770235
+0 Upper leaves curved to one side when viewed from above, looking like a spiral02354734742474780236
+0 Upper leaves straight, not looking like a spiral02354734752474790237
+0 Lower leaves with tip pointing downwards to the ground 02364744762484800Didymodon fallax0
+0 Lower leaves with tip at 90° to stem or angled up 02364744772484810Didymodon insulanus0
+0 Nerve ending below rounded leaf tip 02374754782494820Didymodon tophaceus0
+0 Nerve excurrent from or ending in acute leaf tip02374754792494830238
+0 Plants dark green ; shoots 1 cm tall or taller ; in tufa-forming flushes 02384794802504840Hymenostylium recurvirostrum0
+0 Plants yellow green ; shorter than 1 cm ; on dry, calcareous or acidic soil02384794812504850239
+0 Plants shiny and with translucent leaves02394814822514860240
+0 Plants dull, leaves opaque02394814832514870241
+0 Most shoots short and upright ; inclined capsules on long, purple seta 02404824842524880Ceratodon purpureus0
+0 Most shoots sprawling on the ground ; spherical capsules with very short seta hidden by sheathing leaves 02404824852524890Archidium alternifolium0
+0 Plants orange-green or brownish-green ; leaves curved, with tip pointing slightly downwards 02414834862534900Didymodon fallax0
+0 Plants yellow-green ; leaves more or less straight02414834872534910242
+0 Leaf margins strongly recurved (margins recurved to nerve) all the way to leaf tip 02424874882544920Pseudocrossidium hornschuchianum0
+0 Leaf margins slightly recurved and not all the way to leaf tip 02424874892544930Didymodon vinealis0
+0 Leaves parallel-sided until just below tip02434594902554940244
+0 Leaves with rounded outline02434594912554950250
+0 Leaf margins turned upwards or incurved (hand lens)02444904922564960245
+0 Leaf margins plane or recurved (hand lens)02444904932564970248
+0 Leaf margins turned upwards ; leaf tip hooded (shaped like the prow of a boat) ; capsules seldom present 02454924942574980Trichostomum crispulum0
+0 Leaf margins incurved ; capsules common (only identifiable in fruit)02454924952574990246
+0 Seta very short ; spherical capsules hidden among leaves 02464954962585000Weissia longifolia0
+0 Seta > 4 times the length of capsule, so capsules clearly visible02464954972585010247
+0 Capsule with wide mouth ; peristome present (although sometimes very hard to detect) 02474974982595020Weissia controversa0
+0 Capsule with narrow mouth covered by a membrane ; peristome absent 02474974992595030Weissia brachycarpa0
+0 Nerve excurrent as short point02484935002605040249
+0 Nerve ending in or below leaf tip 02484935012605050Barbula convoluta/B. sardoa0
+0 Leaf margins recurved ; capsule common 02495005022615060Barbula unguiculata0
+0 Leaf margins plane ; capsule rare 02495005032615070Trichostomum brachydontium0
+0 Leaves with elongated cells (hand lens), usually translucent ; capsules nodding (some species identifiable without capsules). – Bryum & Pohlia02504915042625080251
+0 Leaves with square cells (hand lens), usually looking opaque ; capsules upright or hidden among leaves (only identifiable with capsules). – Pottiales02504915052625090258
+0 Bulbils present in leaf axils (between leaves and stem)02515045062635100252
+0 No bulbils in leaf axils02515045072635110253
+0 Leaves < 3 times as long as wide, concave and usually pressed to stem 02525065082645120Bryum dichotomum0
+0 Leaves > 3 times as long as wide, flat and held well back from stem 02525065092645130Pohlia annotina0
+0 Plants dark green ; shoots with tightly appressed leaves often projecting above main colony ; on peat or acidic soil 02535075102655140Pohlia nutans0
+0 Plants mid-green or pale green ; shoots without appressed leaves02535075112655150254
+0 Leaves pale green, contrasting strongly with red stem ; margins not recurved02545115122665160255
+0 Leaves and stem of similar colours ; leaf margins recurved02545115132665170256
+0 Usually tall plants (> 5 mm), occasionally smaller ; usually forming loose tufts ; strikingly pale, dull, whitish-green 02555125142675180Pohlia wahlenbergii0
+0 Short plants (< 5 mm) ; usually growing as scattered patches ; shiny, pale green, but not almost white 02555125152675190Pohlia melanodon0
+0 Whole plants pale, vivid pink 02565135162685200Bryum pallens0
+0 Plants green, brown, red, etc., but not vivid pink02565135172685210257
+0 Red, spherical tubers between leaves near stem base (hand lens) 02575175182695220Bryum rubens0
+0 Tubers, if present, only on long rhizoids (collect plants with ripe capsules if present, or small tufts if on disturbed soil, arable land or river banks) 02575175192695230Bryum spp.0
+0 Capsule completely covered by very large, pale calyptra with a long, drawn-out tip 02585055202705240Encalypta vulgaris0
+0 Calyptra short, not completely covering capsule, or capsules absent02585055212705250259
+0 Seta very short ; capsule spherical, hidden among leaves 02595215222715260Phascum cuspidatum0
+0 Seta longer than capsule02595215232715270260
+0 Capsule spherical or egg-shaped, without a deciduous lid02605235242725280261
+0 Capsule oblong or wide-mouthed, with a separate lid02605235252725290262
+0 Capsule spherical ; tiny (< 4 mm tall) plants 02615245262735300Microbryum rectum0
+0 Capsule egg-shaped ; small (5-8 mm tall) plants 02615245272735310Protobryum bryoides0
+0 Capsule hardly longer than wide, with a wide mouth and no peristome 02625255282745320Tortula truncata0
+0 Capsule at least 2 times as long as wide ; peristome present or absent02625255292745330263
+0 Peristome present02635295302755340264
+0 Peristome absent02635295312755350265
+0 Peristome at least 1/4 length of capsule ; tall plants > 8 mm 02645305322765360Tortula lanceola0
+0 Peristome very short ; tiny plants < 5 mm tall 02645305332765370Pottia davalliana/P. starkeana0
+0 Leaves with a few teeth near tip ; tall (about 1 cm), brown plants on upper saltmarsh or salty cliff tops 02655315342775380Hennediella heimii0
+0 Leaves without teeth ; green, or if brown then tiny (< 5 mm)02655315352775390266
+0 Tiny (< 5 mm tall) plants with brown leaves 02665355362785400Pottia davalliana0
+0 Tall (> 8 mm) plants with green leaves 02665355372785410Tortula modica0
+0 Gemmae clearly visible x10 hand lens on shoot tip, on leaves or between leaves and stem02671795382795420268
+0 Gemmae absent or only clearly visible under a microscope02671795392795430272
+0 Green gemmae on shoot tip ; on decaying wood or acidic bark02685385402805440269
+0 Brown gemmae on leaves or between leaves and stem ; on bark of living trees02685385412805450270
+0 Gemmae clustered on stalks projecting above shoot tips, giving the impression of pin-heads 02695405422815460Aulacomnium androgynum0
+0 Gemmae lying in a cup of leaves at shoot tip 02695405432815470Tetraphis pellucida0
+0 Gemmae looking like brown hairs between leaves and stem ; leaves relatively short and wide, clearly < 4 times as long as wide 02705415442825480Bryum laevifilum0
+0 Gemmae on the leaves themselves ; leaves > 4 times as long as wide02705415452825490271
+0 Clusters of brown gemmae like pom-poms on tip of leaves 02715455462835500Ulota phyllantha0
+0 Gemmae abundant all over leaf surfaces 02715455472835510Orthotrichum lyellii0
+0 Mosses on trees by silty rivers02725395482845520273
+0 Mosses on trees away from silty rivers02725395492845530276
+0 Leaves with rounded outline and blunt tip, opaque, dirty green 02735485502855540Syntrichia latifolia0
+0 Leaves with parallel sides or gradually tapering ; translucent if with rounded outline (Bryum capillare)02735485512855550274
+0 Leaf margins much thicker than rest of leaf (x20 hand lens), not recurved, nerve excurrent in short, blunt point 02745515522865560Dialytrichia mucronata0
+0 Leaf margins not thickened, sometimes recurved02745515532865570275
+0 Capsules partly hidden among leaves ; leaf tip bluntly rounded ; plants dark green 02755535542875580Orthotrichum rivulare/O. sprucei0
+0 Not fitting all three of these characters02755535552875590276
+0 Leaves with rounded outline, corkscrew-curled when dry ; nerve projecting from leaf tip as fine greenish or pale brown hair ; capsules pendulous 02765555562885600Bryum capillare0
+0 Leaves parallel-sided or gradually tapering from base ; nerve ending in leaf tip ; capsules not pendulous02765555572885610277
+0 Plants vivid green ; leaves very short (< 2 mm long), with acute tip ; leaves appressed to stem when dry, rapidly spreading when wetted02775575582895620278
+0 Plants dull green or with longer, blunter leaves ; if vivid green then leaves curled when dry02775575592895630279
+0 Capsules on long, curved seta 02785585602905640Zygodon conoideus0
+0 Capsules on long, straight seta or absent 02785585612905650Zygodon spp.0
+0 Capsule on seta long enough to hold it well above leaves ; leaves curled when dry02795595622915660280
+0 Capsule either hidden among leaves or only just visible projecting from among them ; leaves straight when dry02795595632915670282
+0 Calyptra hairless and without dark tip ; seta > 5 times as long as capsule 02805625642925680Dicranoweisia cirrata0
+0 Either calyptra very hairy, or with a dark tip02805625652925690281
+0 Calyptra covered with abundant, orange-brown hairs ; calyptra > 3 times as long as wide, with hairs obscuring dark tip 02815655662935700Ulota bruchii/U. crispa0
+0 Calyptra with sparse, pale hairs ; < 3 times as long as wide, with dark tip and with dark spots around its lower edge 02815655672935710Orthotrichum pulchellum0
+0 Calyptra hairless, with dark tip contrasting strongly with papery, pale lower part ; plants forming compact, rounded cushions 02825635682945720Orthotrichum stramineum0
+0 Calyptra hairy ; plants loosely branched, or tiny and narrow02825635692945730283
+0 Calyptra very narrow, pale green, > 3 times as long as wide ; plants < 1 cm tall, with very narrow individual shoots 02835695702955740Orthotrichum tenellum0
+0 Calyptra < 3 times as long as wide ; plants > 1 cm tall02835695712955750284
+0 Dry capsules furrowed ; leaves with acute tip 02845715722965760Orthotrichum affine0
+0 Dry capsules smooth ; leaves with very narrow, sharply pointed tip 02845715732965770Orthotrichum striatum0
+0 Some or all of the leaves ending in almost white hair point. - Branched acrocarps028585742975780115
+0 Leaves lacking almost white hair point (no true pleurocaps have hair points)028585752975790286
+0 Shoots not strongly flattened in one plane02865755762985800287
+0 Shoots strongly flattened in one plane02865755772985810288
+0 Leaves strongly curved and turned downwards or to one side, at least near tip of shoots02875765782995820297
+0 Leaves straight or evenly spreading-recurved, not turned to one side, even at the shoot tip02875765792995830323
+0 Plants growing as fans on trees, calcareous rocks or walls02885775803005840289
+0 Plants growing in patches on soil or rotting wood02885775813005850292
+0 Leaves transversely wrinkled02895805823015860290
+0 Leaves not transversely wrinkled02895805833015870291
+0 Shoots 4-5 mm wide at tip, often golden brown ; mostly on calcareous rocks 02905825843025880Neckera crispa0
+0 Shoots 1.5-3 mm wide at tip, pale green ; on trees and shrubs in western woodlands 02905825853025890Neckera pumila0
+0 Nerve short and single, but hard to see with a hand lens ; shoots brownish, with leaves curving down on either side, giving a rounded back to branches ; loose, untidy habit ; looks like a leafy liverwort 02915835863035900Homalia trichomanoides0
+0 Nerve absent ; branches with leaves less down-curved ; plant forming dense, pale whitish-green patches 02915835873035910Neckera complanata0
+0 Leaves tapering gradually to an acute tip ; often down-curved at tip02925815883045920293
+0 Leaves not gradually tapering ; flat or concave, but not obviously down-curved02925815893045930294
+0 Long nerve present 02935885903055940Leptodictyum riparium0
+0 Nerve absent, or very short and double 02935885913055950Hypnum jutlandicum0
+0 Shoots 6-8 mm wide ; leaves about 5 mm long and 3 mm wide, translucent, with rounded tip and extremely large cells that are easily seen with a hand lens 02945895923065960Hookeria lucens0
+0 Shoots 4-5 mm wide or less ; leaves smaller, less translucent, more or less parallel-sided, acute-tipped ; individual cells scarcely visible with a hand lens02945895933065970295
+0 Shoots robust (4-5 mm wide), strikingly pale green, scarcely glossy ; leaves transversely wrinkled 02955935943075980Plagiothecium undulatum0
+0 Shoots medium-sized (2-4 m wide), deeper green, moderately to very glossy ; leaves not wrinkled02955935953075990296
+0 Plant slender, forming neat patches with many parallel shoots about 1 mm wide ; minute, deciduous branchlets often present in axils of some leaves 02965955963086000Pseudotaxiphyllum elegans0
+0 Plant larger ; shoots lacking deciduous branchlets 02965955973086010Plagiothecium spp.0
+0 Stems red ; robust, rigid, irregularly pinnately branched ; abundant in upland woods and on hillsides in the north and west 02975785983096020Rhytidiadelphus loreus0
+0 Stems green, or almost black ; habitats various02975785993096030298
+0 On trees02985996003106040299
+0 On some other substrate02985996013106050302
+0 Leaves only slightly curved, nerve present ; capsules < 2 times as long as wide, with short beak to lid 02996006023116060Brachythecium velutinum0
+0 Leaves moderately to strongly curved, often forming almost complete circles, nerve present or absent ; capsules > 2 times as long as wide02996006033116070300
+0 Leaves very narrow, very strongly curved, forming complete circles up to about 3 mm in diameter ; nerved more or less of leaf tip ; leaves with longitudinal folds 03006036043126080Sanionia uncinata0
+0 Leaves moderately to strongly curved ; nerveless and without longitudinal folds03006036053126090301
+0 Capsules frequent in winter, with a very short lid ; plants consistently very slender, appearing combed down vertical surfaces 03016056063136100Hypnum andoi0
+0 Capsules occasional in winter, with a long-beaked lid ; plants very variable in size and appearance 03016056073136110Hypnum cupressiforme0
+0 On dry ground, soil, wall tops, stony ground, etc.03026016083146120303
+0 In wetlands, marshes, flushes or bogs, or on wet rocks by streams and lakes03026016093146130307
+0 Plant with numerous nearly erect shoot, themselves sparingly branched ; glossy, very pale green plant of grassy banks, etc., chiefly on acidic soils 03036086103156140Brachythecium albicans0
+0 Shoots mainly prostrate or ascending, with numerous pinnate branches03036086113156150304
+0 Branches very crowded ; shoot tip contrastingly pale green, the leaves strongly curled in various directions ; abundant in calcareous habitats 03046116123166160Ctenidium molluscum0
+0 Branches not crowded ; all leaves regularly curved and turned downwards (but not strongly curled as above)03046116133166170305
+0 Pale to silvery green species of heathland and other acidic ground ; shoots flattened and pinnately branched 03056136143176180Hypnum jutlandicum0
+0 Green, olive, or bronzed, prostrate species on rocks, tiles or base-rich soil03056136153176190306
+0 Glossy, bronzed, robust species of base-rich, often sandy ground or calcareous rocks ; leaves 2-3 mm long 03066156163186200Hypnum lacunosum var. lacunosum0
+0 Green or brown, prostrate species of stones, tiles, wall tops, etc. ; leaves up to 2 mm long 03066156173186210Hypnum cupressiforme0
+0 On rocks by lakes, streams of waterfalls03076096183196220308
+0 On peaty or other soil, in marshes, bogs or pools03076096193196230315
+0 Plant dark red-brown, purple-brown or blackish-green ; primary stem prostrate with long (8-15 cm), little branched nearly prostrate secondary shoots03086186203206240309
+0 Plant yellowish-green to golden ; secondary shoots either short, erect and nearly simple, or long and freely branched03086186213206250310
+0 Leaves with strong nerve extending to leaf tip 03096206223216260Scorpidium revolvens0
+0 Leaves without a nerve 03096206233216270Scorpidium scorpioides0
+0 Primary stem prostrate, with short, nearly simple, erect or ascending secondary shoots03106216243226280311
+0 Shoots long and freely branched, often regularly pinnate03106216253226290312
+0 Shoots dark green below and more golden at tip ; leaves large, down-turned and crowded ; leaf tip acute 03116246263236300Brachythecium plumosum0
+0 Shoots dull yellowish-green to brownish ; leaves small, tightly curved and not crowded ; leaf tip blunt 03116246273236310Hygrohypnum luridum0
+0 Red-brown rhizoids present on the stem ; leaves equally curved throughout ; strong nerve present03126256283246320313
+0 Red-brown rhizoids absent from the stem ; leaves more strongly curved at shoot tip than elsewhere ; nerve absent03126256293246330314
+0 Leaves on any one shoot all curved in one direction, but not so much that the tip curls round and back towards the leaf base ; rhizoids sparse on stem 03136286303256340Cratoneuron filicinum0
+0 Leaves uniformly and strongly curved ; older stems with abundant, red-brown rhizoids 03136286313256350Palustriella commutata/P. falcata0
+0 Young shoots very small and crowded, their leaves strongly curled ; on calcareous rocks 03146296323266360Ctenidium molluscum0
+0 Young shoots not crowded, often elongated, their leaves only slightly curved ; mainly on siliceous rocks by waterfalls, etc. 03146296333266370Hyocomium armoricum0
+0 Leaves very short (< 2 mm long)03156196343276380316
+0 Leaves longer than 2 mm03156196353276390318
+0 Branches at shoot tip very slender and crowded, their leaves strongly curled ; nerve absent 03166346363286400Ctenidium molluscum0
+0 Branches at shoot tip not very crowded, their leaves only slightly curved ; distinct nerve present03166346373286410317
+0 Sparse, red-brown outgrowths on lower part of stem (hand lens) 03176376383296420Cratoneuron filicinum0
+0 Stem entirely without outgrowths below 03176376393296430Drepanocladus aduncus (small forms)0
+0 Leaves without a nerve, crowded, noticeably broad, concave and shortly pointed at the tip ; dark red-brown, purplish or blackish-green plant with long, prostrate, little-branched shoots 03186356403306440Scorpidium scorpioides0
+0 Leaves with a nerve, and finely pointed03186356413306450319
+0 Leaves strongly pleated 03196416423316460Palustriella commutata/P. falcata0
+0 Leaves not pleated03196416433316470320
+0 Leaves strongly and uniformly curved (almost to form a circle) ; shoots prostrate, little-branched, dark red 03206436443326480Scorpidium revolvens0
+0 Either leaves strongly curved, but plants upright, or shoots prostrate/floating, but most leaves only slightly curved	32103206436453326490321
+0 Sprawling plants in lowland ditches (D. aduncus) or bog pools (W. fluitans) ; only identifiable with a microscope 03216456463336500Drepanocladus aduncus/Warnstorfia fluitans0
+0 Upright plants in flushes or fens03216456473336510322
+0 Leaves strongly curved (almost to form a circle), relatively short and broad ; shoots often mottled green and red, not orange ; no prominent inflated, colourless cells at basal angles of leaves 03226476483346520Scorpidium cossonii0
+0 Leaves moderately curved (tip pointing more or less at right angle to stem), relatively long and narrow ; shoots usually orange or light green ; prominent group of inflated, colourless cells at basal angles of leaves 03226476493346530Warnstorfia exannulata0
+0 Plant aquatic, growing submerged (periodically) in streams, rivers or lakes03235796503356540324
+0 Plant not aquatic03235796513356550328
+0 Shoots triangular in cross-section ; leaves long (5 mm), keeled, strictly in 3 ranks 03246506523366560Fontinalis antipyretica0
+0 Shoots not triangular in cross-section03246506533366570325
+0 Shoots very long, narrow (< 3 mm wide) and string-like ; dark green, with appressed, round-backed leaves 03256536543376580Fontinalis squamosa0
+0 Shoots not string-like03256536553376590326
+0 Leaves with thickened margins easily visible through a x10 hand lens 03266556563386600Cinclidotus fontinaloides (an acrocarp)0
+0 Leaves without thickened margins03266556573386610327
+0 Tip of shoots flat ; leaves wide and bluntly pointed ; nerve not quite reaching tip 03276576583396620Platyhypnidium riparioides0
+0 Tip of shoots not flat ; leaves narrow and gradually tapering to tip ; nerve very thick, reaching leaf tip 03276576593396630Cratoneuron filicinum/Hygroamblystegium spp.0
+0 Very large plants (> 12 cm long), habit bushy ; stems rigid, erect, red, and branched from the base ; leaves 3-5 mm long 03286516603406640Rhytidiadelphus triquetrus0
+0 Plants and leaves not so large03286516613406650329
+0 Appressed patches on bark with fruiting stems projecting, and abundant capsules on short seta (less than capsule length) along one side of shoots 03296616623416660Cryphaea heteromalla0
+0 Capsules, if present, with seta longer than capsules ; not appressed to bark03296616633416670330
+0 Secondary shoots somewhat tassel-like or resembling miniature trees, with erect or ascending, almost bare main stem and crowded branches above03306636643426680331
+0 Plants lacking this tree-like or nearly tree-like habit03306636653426690334
+0 Stems thick, rigid, and blackish-green or dark brown, unbranched for several centimeters, so that habit is markedly tree-like ; in grassy places, on calcareous rocks or woodland floor03316646663436700332
+0 Stems thin, weak and not dark green, with some branches almost to base, so that habit tassel-like or nearly tree-like ; on tree bases or acidic rocks03316646673436710333
+0 Stems erect ; leaves 2-3 mm long, branches originating from the same level on the main stem, so looking like miniature palm trees ; in moist, grassy places 03326666683446720Climacium dendroides0
+0 Stems sub-erect or arched ; leaves about 1 mm long, branches arising from different places on the main stem ; on shaded, calcareous rocks, woodland floor, etc. 03326666693446730Thamnobryum alopecurum0
+0 Stem leaves finely drawn out at tip ; branches appear slender and acutely pointed ; capsules curved, inclined 03336676703456740Isothecium myosuroides0
+0 Stem leaves only shortly pointed ; branches usually appear relatively stout and bluntly pointed ; capsules straight, erect 03336676713456750Isothecium alopecuroides0
+0 Shoots regularly bi- or tripinnate in one plane, hence frond-like or feather-like03346656723466760335
+0 Shoots simple or only once pinnate, or irregularly branched03346656733466770337
+0 Shoots not symmetrically tripinnate ; stem without outgrowths, so apparently shiny ; branch leaves < 1 mm long, much narrower than stem leaves ; leaves with prominent nerve 03356726743476780Kindbergia praelonga0
+0 Shoots symmetrically tripinnate ; stem with abundant outgrowths, so appearing fuzzy and dull ; leaves with or without a nerve03356726753476790336
+0 Stems green or almost black, rigid ; leaves not glossy, vivid green, yellow-green or orange, whole plant very opaque 03366756763486800Thuidium tamariscinum0
+0 Stems red, not rigid ; leaves glossy, pale or dull yellowish green, whole plant appearing translucent 03366756773486810Hylocomium splendens0
+0 Stems red or orange-red ; nerve absent03376736783496820338
+0 Stems green or yellowish ; nerve present or absent03376736793496830342
+0 Leaves straight, with very short point or rounded at tip, appressed or slightly spreading ; branching usually very regularly pinnate03386786803506840339
+0 Leaves curved, with broad base and long, acute tip which is widely spreading or recurved ; branching most often irregular (sometimes pinnate)03386786813506850340
+0 Uppermost leaves rolled together (even when moist) to form sharp, spearhead shoot tip, lower leaves rather widely spreading ; growing in damp places, including lawns 03396806823516860Calliergonella cuspidata0
+0 Spearhead shoot tip normally lacking (at least when moist), lower leaves not widely spreading ; chiefly heath and moorland 03396806833516870Pleurozium schreberi0
+0 Leaf tip straight or slightly curved back ; stem with abundant, fuzzy outgrowths (hand lens) ; irregular bushy growth form 03406816843526880Loeskeobryum brevirostre0
+0 Leaves strongly curved ; stem lacking outgrowths ; more or less pinnate03406816853526890341
+0 Plant robust (shoots > 4 mm wide), with strong, rigid, freely branched stems ; leaves curved gradually from base to long, fine, hook-like tip ; upland woods and mountain slopes 03416856863536900Rhytidiadelphus loreus0
+0 Plant of medium-size (shoots < 3 mm), with relatively weak, little-branched stems ; leaves abruptly bent outwards above short, clasping base, divergent tip straight and scarcely hook-like ; grassy places (very common) 03416856873536910Rhytidiadelphus squarrosus0
+0 Semi-aquatic : in flushes, marshes or on rocks or tree bases by water03426796883546920343
+0 Not semi-aquatic ; habitat various03426796893546930351
+0 Nerve absent03436886903556940344
+0 Leaves with nerve03436886913556950346
+0 Uppermost leaves rolled together to form sharp, spearhead shoot tip 03446906923566960Calliergonella cuspidata0
+0 Uppermost leaves not forming a spearhead03446906933566970345
+0 Leaves with long point, much narrower than leaf base ; uppermost leaves widely spreading in conspicuously star-like manner ; in calcareous flushes 03456936943576980Campylium stellatum0
+0 Leaves small (about 1 mm), without narrow upper part ; secondary stems with long, slender branches ; dark green plant with golden shoot tips ; on rocks by waterfalls and upland streams 03456936953576990Hyocomium armoricum0
+0 Leaves very short (< 1.5 mm long) ; capsules abundant ; tiny yellowish-green plant on silty tree bases by rivers 03466916963587000Leskea polycarpa0
+0 Leaves longer (> 1.5 mm long) ; colour not yellowish-green03466916973587010347
+0 Leaf tip obtuse, rounded or hooded ; shoots upright in wetlands03476976983597020348
+0 Leaf tip sharply pointed03476976993597030349
+0 Leaves overlapping ; shoots string-like ; rhizoids growing from leaf tip 03486987003607040Straminergon stramineum0
+0 Leaves widely spreading ; shoots not string-like ; no rhizoids on leaf tip 03486987013607050Calliergon cordifolium0
+0 Tip of shoots flat ; leaves egg-shaped and shortly pointed ; plant deep green or brown ; older stems often nearly bare of leaves ; always by or in running water 03496997023617060Platyhypnidium riparioides0
+0 Leaves narrower, with rather long, fine point ; plant mid-green ; older stems not bare of leaves03496997033617070350
+0 Secondary stems with numerous short, nearly erect branches ; leaves crowded and not widely spreading ; tip of branches light yellowish-green and very glossy 03507037043627080Brachythecium rivulare0
+0 Habit usually creeping, with irregular or pinnate branching ; leaves rather distantly spaced and widely spreading; tip of branches darker green and not very glossy 03507037053627090Leptodictyum riparium0
+0 Leaves minute (0.5 mm long), only just distinguishable with the naked eye03516897063637100352
+0 Leaves larger (1 mm or over), easily seen with the naked eye03516897073637110353
+0 Leaves > 3 times as long as wide, with very long, narrow tip ; usually on wood, stone, walls, etc. 03527067083647120Amblystegium serpens0
+0 Leaves about 2 times as long as wide, with relatively short, tip ; usually on soil 03527067093647130Rhynchostegiella pumila0
+0 Leaves bluntly rounded, or abruptly contracted into minute point at tip03537077103657140354
+0 Leaves gradually tapering to acute point03537077113657150356
+0 Leaves opaque, not glossy, much shriveled and curled when dry ; yellow-green plant of calcareous banks or limestone 03547107123667160Anomodon viticulosus0
+0 Leaves translucent, glossy, little altered when dry ; habitats various03547107133667170355
+0 Uppermost leaves rolled together to form sharp, spearhead shoot tip ; shoots green or occasionally orange-green ; very common in wet lawns, fens, flushes, etc. 03557137143677180Calliergonella cuspidata0
+0 Spearhead lacking, shoot tip appearing blunt and rounded ; branches swollen with concave leaves ; usually pale green ; very common on dry, grassy banks, woodland floor, etc. 03557137153677190Pseudoscleropodium purum0
+0 Plant with numerous, fine branches on which the leaves are much smaller and narrower than on the main stems ; forming untidy, usually deep green, straggling mats on shaded banks, etc. 03567117163687200Kindbergia praelonga0
+0 Plant lacking very fine, small-leaved branches, and less intricately branched ; leaves nearly equal in size throughout shoot03567117173687210357
+0 Tiny plants with abundant, short branches and very narrow (> 4 times as long as wide), gradually tapering, short (less or equal to 1.5 mm long) leaves with no pleats ; common on wall mortar and limestone 03577177183697220Rhynchostegiella tenella0
+0 Plants larger, with longer leaves ; leaves with or without pleats03577177193697230358
+0 Leaves without nerve, leaves pointing up from substrate in the same direction to form a crest ; plants creeping, usually olive-green 03587197203707240Hypnum resupinatum0
+0 Leaves with a nerve, not pointing up from substrate03587197213707250359
+0 Leaves strongly and obviously pleated (hand lens) ; narrowly spearhead-shaped, tapering gradually from base to a rather long, fine tip, usually 2-2.5 mm long ; plants very glossy03597217223717260360
+0 Leaves not or scarcely pleated (except Eurhynchium striatum), often < 2 mm long, rather abruptly narrowed above the middle to form fairly short, fine point ; dull or glossy03597217233717270361
+0 Bright green, with silky sheen, creeping on walls, boulders or tree bases ; branches curved when dry 03607227243727280Homalothecium sericeum0
+0 Yellowish, of loose habit with ascending branches ; in calcareous grassland or sand dunes ; branches always straight 03607227253727290Homalothecium lutescens0
+0 Robust ; leafy shoots (stem and stem leaves) 2 mm or more across, leaves 1.5-2.5 mm long and 1 mm broad at base03617237263737300362
+0 Slender ; leafy shoots (stem and stem leaves) 1 mm across, leaves distinctly smaller than above03617237273737310365
+0 Shoots upright, glossy pale green, with spearhead shoot tip ; leaves very concave, with a fine wispy point at the tip 03627267283747320Cirriphyllum piliferum0
+0 Plants either irregularly branches or creeping, without spearhead shoot tip03627267293747330363
+0 Shoots usually with long (> 1.5 cm), upright branches, rarely creeping ; leaves appressed to stem, making shoots string-like ; plants very pale or yellowish-green 03637297303757340Brachythecium albicans0
+0 Shoots creeping or with short (< 1 cm) branches ; shoots not string-like03637297313757350364
+0 Stems and branches rather rigid, forming big, bushy tufts ; leaves evenly and widely spreading when dry ; stem leaves heart-shaped to triangular, with strong longitudinal pleats ; capsule lid long-beaked 03647317323767360Eurhynchium striatum0
+0 Stems creeping, with soft, irregular ascending branches, not forming bushy tufts ; leaves less regularly and widely spreading when dry, broadly egg-shaped to spearhead-shaped and not or only faintly pleated ; lid of capsule not long-beaked 03647317333767370Brachythecium rutabulum0
+0 Leaves rather widely spaced on stems and branches so that they hardly overlap ; common on soil 03657277343777380Oxyrrhynchium hians0
+0 Leaves less widely spaced, so that many overlap03657277353777390366
+0 Shoot with long (> 1.5 cm) upright branches ; leaves appressed to stem, making shoots string-like ; plants very pale or yellowish-green 03667357363787400Brachythecium albicans0
+0 Shoots creeping or with short (< 1 cm) branches ; shoots not string-like03667357373787410367
+0 Capsule lid long-beaked ; seta smooth (not identifiable in the field without capsules)03677377383797420368
+0 Capsule lid not long-beaked ; seta roughened (not identifiable in the field without capsules)03677377393797430369
+0 Leaves more or less flat ; plants mid-green ; forming loose, irregularly branched mats 03687387403807440Rhynchostegium confertum0
+0 Leaves very concave ; plants pale green ; forming neat patches of rather tightly packed branches 03687387413807450Rhynchostegium murale0
+0 Long, narrow leaves with nerve almost reaching the tip ; seta roughened in upper half ; mostly on rocks, especially in the west 03697397423817460Brachythecium populeum0
+0 Relatively shorter, wider leaves, with nerve reaching 3/4 of the way up leaf ; seta roughened throughout ; on rocks, trees or soil, mostly in the east 03697397433817470Brachythecium velutinum0

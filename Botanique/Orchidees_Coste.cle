@@ -1,0 +1,256 @@
+Titre$ Clé des Orchidées - Coste, Flore de la France, volume 3, 1906.
+com$ Adaptation par Aurélien Paris
+rem$ Attention : les orchidées sont des fleurs protégées. Elles ne doivent pas être cueillies, déterrées ou coupées. Lorsque les caractères des racines sont déterminants, examiner plutôt les deux possibilités de la Clé, sans abimer la plante.
+
+1,2$ 1a : Feuilles toutes réduites à des écailles ou à des gaines ; plantes entièrement violacées ou roussâtres, jamais vertes.
+1,5$ 1b : Feuilles développées sur la tige ou à sa base ; plantes vertes, à fleurs ni roussâtres, ni violettes.
+
+2,3$ 2a : Fleurs munies d'un éperon très court en forme de sac ; épi court, pauciflore ; tige grêle ou délicate ; racine ramifiée comme le corail.
+2,4$ 2b : Fleurs munies d'un éperon allongé en alène ou sans éperon ; épi long, multiflore ; tige robuste ; racine formée de fibres nombreuses fasciculées.
+
+3,0$ 3a : Fleurs petites (moins de 1 cm. de long avec le pédicelle), 4-12 sur une tige grêle ; bractées minuscules, très courtes ; labelle placé en bas de la fleur et étalé ; masses polliniques bipartites sessiles, sans caudicule ni rétinacle. $ Corallorrhiza innata R. Br.
+3,0$ 3b : Fleurs assez grandes (plus de 2 cm. de long avec le pédicelle), 2-5 sur une tige très délicate ; bractées ovales, presque aussi longues que l'ovaire ; labelle placé en haut de la fleur et dressé ; masses polliniques atténuées en longs caudicules fixés à un rétinacle commun (= E. gmelini). $ Epipogon aphyllum Swartz.
+
+4,0$ 4a : Fleurs violettes, dressées, en épi lâche ; bractées grandes, égalant ou dépassant l'ovaire ; divisions du périanthe un peu plus longues que le labelle ; celui-ci oblong, rétréci au-dessous du milieu, prolongé à la base en long éperon en alène (= Ionorchis a.). $ Limodorum abortivum Swartz.
+4,0,N$ Varie (Loire inférieure, Algérie) à labelle petit, spatulé, non articulé, éperon assez court (2 mm.) : L. trabutanum Battandier
+4,0$ 4b : Fleurs roussâtres, ascendantes, en épi dense au sommet ; bractées de moitié plus courtes que l'ovaire ; divisions du périanthe 2 fois plus courtes que le labelle ; celui-ci bilobé au sommet, creux à la base et gibbeux sans éperon en dessous. $ Neottia nidus-avis Rich.
+
+5,6$ 5a : Fleurs à labelle prolongé à la base en éperon tantôt long et en tube, tantôt court et subglobuleux ; racine portant au-dessous des fibres 2 tubercules entiers ou palmés.
+5,7$ 5b : Fleurs à labelle toujours dépourvu d'éperon à sa base.
+
+6,CS3$ 6a : Labelle toujours très distinct des autres divisions du périanthe, placé en bas de la fleur ; ovaire contourné sur lui-même; feuilles ovales, oblongues ou lancéolées. $ Orchis
+6,0$ 6b : Labelle à peine distinct des autres divisions du périanthe, placé en haut de la fleur ; ovaire non contourné ; feuilles linéaires-carénées, nombreuses ; épi ovoïde très serré, d'un pourpre noir, à odeur de vanille (= N. angustifolia, Orchis n.). $ Nigritella nigra Reich. 
+
+7,8$ 7a : Souche munie de 2 (rarement 1 ou 3-5) tubercules ou bulbes entiers, nus ou parfois tuniqués.
+7,13$ 7b : Souche fibreuse ou rampante-stolonifère, sans tubercules.
+
+8,9$ 8a : Fleurs assez grandes, pourprées ou brunâtres, rarement verdâtres bordées de rose ; feuilles caulinaires assez nombreuses vers la base de la tige ; 2 tubercules nus sous les fibres radicales.
+8,11$ 8b : Fleurs petites, blanches ou d'un vert jaunâtre ; feuilles caulinaires 2-3 vers la base, ou réduites à des bractées engainantes ou nulles ; 1-5 tubercules ou bulbes à la base de la tige.
+
+9,CS2$ 9a : Divisions du périanthe étalées ou ouvertes, libres, non cuspidées ; labelle un peu charnu, plus ou moins convexe, à bords repliés en dessous ; 2 rétinacles libres renfermés dans 2 bursicules distinctes. $ Ophrys
+9,10$ 9b : Divisions du périanthe toutes dressées et conniventes en casque, souvent soudées, cuspidées ou aiguës ; labelle peu épais, ni convexe, ni à bords repliés en dessous ; 1 seul rétinacle dans une bursicule uniloculaire
+
+10,CS1$ 10a : Fleurs d'un rouge vineux ou cendré, peu nombreuses ; bractées plus longues que l'ovaire non contourné ; labelle muni à la base de 1-2 callosités, à lobes latéraux redressés sous le casque, le moyen en languette entière. $ Serapias
+10,0$ 10b : Fleurs d'un vert jaunâtre un peu rosé, nombreuses ; bractées un peu plus courtes que l'ovaire contourné ; labelle plan, à 3 lobes linéaires presque parallèles, le moyen plus long bifide au sommet (= Ophrys a.). $ Aceras anthropophorum R. Br.
+
+11,CS6$ 11a : Fleurs blanches, en épi contourné en spirale et très serré ; divisions du périanthe en tube à la base, libres au sommet et presque à 2 lèvres ; tige garnie de bractées engainantes ; tubercules allongés en fuseau ou en navet. $ Spiranthes
+11,12$ 11b : Fleurs d'un vert jaunâtre, en épi grêle et lâche ; divisions du périanthe libres, conniventes ou étalées ; tige nue, sauf à la base ; tubercules ou bulbes ovoïdes ou subglobuleux.
+
+12,CS4$ 12a : Fleurs penchées, à divisions toutes conniventes ; labelle placé en bas, plan, trilobé ; bractées égalant ou dépassant l'ovaire ; tubercules nus, placés sous les fibres radicales ; plantes des lieux secs. $ Herminium
+12,CS5$ 12b : Fleurs dressées, à divisions étalées ou ouvertes ; labelle placé en haut, concave, entier ou crénelé ; bractées égalant à peine le pédicelle de l'ovaire ; bulbes tuniqués, surmontant la racine ; plantes des marais tourbeux. $ Malaxis
+
+13,0$ 13a : Fleur très grande, solitaire, penchée sur un long pédoncule ; périanthe à 4 divisions étalées en croix, très inégales, l'inférieure bilobée ; labelle renflé et creusé en forme de sabot ; les 2 étamines latérales fertiles, la moyenne pétaloïde stérile. $ Cypripedium calceolus L.
+13,14$ 13b : Fleurs moyennes ou petites, en épi ou en grappe, sessiles ou pédicellées ; périanthe à 5 divisions conniventes ou ouvertes, peu inégales, entières ; labelle non en forme de sabot ; étamine centrale seule fertile.
+
+14,15$ 14a : Feuilles 2 ou plusieurs, étalées vers le milieu ou la base de la tige.
+14,16$ 14b : Feuilles généralement nombreuses, alternes, occupant presque toute la longueur de la tige, les inférieures réduites à des gaines.
+
+15,CS7$ 15a : Feuilles 2 opposées vers le milieu de la tige, embrassantes, à nervures simples ; souche fibreuse, sans stolons ; fleurs verdâtres, en grappe lâche non spiralée ; labelle en languette plane à la base, bifide au sommet. $ Listera
+15,0$ 15b : Feuilles plusieurs en rosette radicale, pétiolées, nervées en réseau ; souche longuement rampante-stolonifère ; fleurs blanches, en épi serré spiralé unilatéral ; labelle en languette canaliculée entière. $ Goodyera repens R. Br.
+
+16,CS8$ 16a : Fleurs dressées, subsessiles, en épi lâche ; périanthe pétaloïde en dehors comme en dedans ; gynostème allongé ; masses polliniques sans rétinacle ; ovaire contourné et presque sessile. $ Cephalanthera
+16,CS9$ 16b : Fleurs étalées ou pendantes, pédicellées, en grappe lâche ou assez serrée ; périanthe un peu herbacé en dehors ; gynostème court ; masses polliniques réunies par un rétinacle commun ; ovaire non contourné, mais à pédicelle tordu. $ Epipactis
+
+
+CS1,0$ Serapias L.
+
+1,2$ 1a : Fleurs grandes, en épi court, ovale, assez dense ; labelle à lobe moyen presque aussi large que les latéraux réunis, ovale-acuminé, en cœur à la base, très velu en dessus.
+1,3$ 1b : Fleurs moins grandes, en épi long ou lâche ; labelle à lobe moyen sensiblement plus étroit que les latéraux réunis, oblong-lancéolé ou lancéolé, jamais en cœur à la base.
+
+2,0$ 2a : Labelle muni à la base interne de 2 callosités dirigées en avant et divergentes ; lobe moyen d'un rouge vineux assez foncé ; divisions internes du périanthe ondulées aux bords ; tige tachée de pourpre à la base. $ S. cordigera L.
+2,0$ 2b : Labelle muni à la base de 2 callosités presque parallèles et un peu écartées ; lobe moyen rouge brique sur le pourtour, jaune ocracé au centre ; divisions internes à bords non ondulés ; tige nullement tachée de pourpre. $ S. neglecta De Notaris
+
+3,0$ 3a : Bractées allongées, violet rougeâtre, dépassant beaucoup les fleurs ; labelle fortement velu en dessus, muni à la base de 2 callosités un peu divergentes ; lobe moyen rouge fauve, 2-3 fois aussi long que large ; plante robuste de 20-110 cm. (= S. pseudocordigera). $ S. longipetala Pollini
+3,4$ 3b : Bractées rougeâtres ou verdâtres, plus courtes que les fleurs ou les dépassant à peine ; labelle glabre ou pubescent en dessus ; lobe moyen n'étant pas 2-3 fois aussi long que large ; plantes assez grêles de 10-40 cm.
+
+4,0$ 4a : Labelle presque 2 fois aussi long que les divisions du périanthe, muni à la base d'une seule callosité noirâtre ; lobe moyen rouge clair, éloigné de l'ovaire, long de 12-15 mm. sur 5-8 de large ; fleurs 2-6, assez grandes. $ S. lingua L.
+4,0$ 4b : Labelle égalant environ les divisions du périanthe, muni à la base de 2 callosités parallèles ; lobe moyen rouge ferrugineux, réfléchi contre l'ovaire, long de 8-10 mm. sur 3-5 ; fleurs plus nombreuses, petites (= S. parviflora, S. laxiflora). $ S. occultata Gay
+
+
+CS2,0$ Ophrys L.
+
+1,2$ 1a : Divisions extérieures du périanthe vertes ou jaunâtres.
+1,8$ 1b : Divisions extérieures du périanthe, roses ou presque blanches.
+
+2,3$ 2a : Labelle entier ou obscurément trilobé ; divisions intérieures du périanthe linéaires glabres ; gynostème terminé en bec court et droit.
+2,4$ 2b : Labelle nettement trilobé ; divisions intérieures linéaires ou ovales-triangulaires ; gynostème sans bec ou à bec très court et obtus.
+
+3,0$ 3a : Labelle moyen, aussi long que les divisions extérieures verdâtres, obovale, velouté, d'abord d'un brun pourpre, à la fin jaunâtre, muni au centre de 2-4 raies symétriques, et à la base de 2 gibbosités peu marquées (= O. aranifera). $ O. sphegodes Miller
+3,0$ 3b : Labelle assez petit, égalant à peine les divisions extérieures jaunâtres, ovale-arrondi, velouté, d'un brun verdâtre ou grisâtre, muni au centre d'un écusson glabre limité par des lignes courbes, et à la base de 2 gibbosités peu marquées (= O. pseudospeculum). $ O. litigiosa G. Camus
+3,0$ 3c : Labelle assez grand, plus long que les divisions extérieures, d'un vert jaunâtre, obovale-oblong, brièvement apiculé, velu-laineux, d'un pourpre noir, muni au centre de 2 raies symétriques glabres, et il la base de 2 gibbosités coniques très saillantes (= O. mammosa). $ O. atrata Lindbl.
+
+4,5$ 4a : Divisions intérieures du périanthe glabres, la supérieure arquée en voûte sur le gynostème ; labelle trilobé vers le sommet, à lobe moyen échancré.
+4,6$ 4b : Divisions intérieures du périanthe veloutées ou ciliées ; labelle trilobé vers le milieu ou à la base.
+
+5,0$ 5a : Labelle obovale-oblong, insensiblement atténué en coin à la base, brunâtre et velouté sur tout le pourtour, à lobe moyen échancré-bilobulé ; divisions intérieures du périanthe verdâtres ou roussâtres (= O. funerea). $ O. fusca Link.
+5,0$ 5b : Labelle largement obovale, brusquement contracté et à peine en coin à la base, rougeâtre et pubescent au centre, entouré d'un large bord jaune et glabre, à lobe moyen crénelé ou échancré ; divisions intérieures du périanthe jaunâtres. $ O. lutea Cavan.
+
+6,0$ 6a : Fleurs espacées, en long épi grêle ; divisions intérieures du périanthe linéaires-filiformes, allongées, les extérieures étalées en croix ; labelle obovale-oblong, trilobé vers le milieu, à lobe moyen bilobé au sommet (= O. muscifera, O. myodes). $ O. insectifera L.
+6,7$ 6b : Fleurs assez rapprochées, en épi court ; divisions intérieures du périanthe ovales-triangulaires, courtes, l'extérieure supérieure arquée en voûte ; labelle obovale-arrondi, trilobé vers la base, à lobe moyen entier ou subtrilobé.
+
+7,0$ 7a : Labelle grand, bien plus long que les divisions extérieures, obovale en coin, trilobé au-dessus de la base, marqué au centre d'une large tache entourée d'une ligne jaunâtre, à lobe moyen obtus ou rétus, dépourvu d'appendice. $ O. speculum Link.
+7,0$ 7b : Labelle petit, un peu plus court que les divisions extérieures, subglobuleux-hémisphérique, trifide à la base, à tache centrale, non cerclée de jaune, à lobe moyen subtrilobé, terminé par un appendice recourbé en dessous. $ O. bombyliflora Link.
+
+8,0$ 8a : Labelle plus court que les divisions extérieures du périanthe, suborbiculaire, muni au sommet d'un appendice recourbé en dessous ; gynostème terminé en bec long et flexueux. $ O. apifera Huds.
+8,9$ 8b : Labelle plus long que les divisions extérieures du périanthe, obovale ou oblong, muni au sommet d'un appendice dirigé en avant ou en dessus ; gynostème sans bec ou à bec court et droit.
+
+9,10$ 9a : Labelle à gibbosités de la base peu saillantes et souvent nulles ; divisions intérieures du périanthe glabres ou ciliées, 1-2 fois seulement plus courtes que les extérieures.
+9,11$ 9b : Labelle muni à la base de 2 gibbosités coniques saillantes ; divisions intérieures du périanthe veloutées ou pubescentes, 2-4 fois plus courtes que les extérieures.
+
+10,0$ 10a : Labelle d'un pourpre noirâtre, obovale-oblong, recourbé latéralement, marqué au centre d'une large tache subquadrangulaire, terminé par un appendice assez long et replié en dessus ; gynostème à bec aigu. $ O. bertolonii Moretti
+10,0$ 10b : Labelle d'un brun pourpre violacé, subquadrangulaire, marqué de 2 taches assez larges formant un écusson rectangulaire, terminé par un appendice très court et dirigé en avant ; gynostème à bec subobtus. $ O. arachnitiformis Gren. & Philip.
+
+11,0$ 11a : Labelle subquadrangulaire, en coin à la base, très élargi au sommet (5 mm.), légèrement trilobé, brun jaunâtre, terminé par un appendice en forme de dent ; gynostème obtus, sans bec (= O. grandiflora). $ O. tenthredinifera Willd.
+11,12$ 11b : Labelle obovale ou subcylindrique, peu élargi ou atténué au sommet, d'un brun pourpre, terminé par un appendice recourbé en dessus ; gynostème à bec court et droit.
+
+12,0$ 12a : Labelle obovale-suborbiculaire, convexe, entier ou presque entier, tronqué et un peu élargi au sommet, terminé par un appendice obtus ou denticulé ; divisions intérieures triangulaires (= O. fuciflora, O. arachnites). $ O. holoserica (Burm. f.) W. Greuter
+12,0$ 12b : Labelle oblong-elliptique, subcylindrique, trilobé, atténué au sommet, terminé par un appendice lancéolé, aigu ou rarement obtus ; divisions intérieures linéaires. $ O. scolopax Cav.
+
+
+CS3,0$ Orchis L. (incl. Aceras pp., Anacamptis, Coeloglossum, Dactylorhiza, Gymnadenia, Himantoglossum, Neotinea, Platanthera)
+
+1,2$ 1a : Éperon très court (1-3 mm.), en forme de sac, égalant au plus le tiers de l'ovaire ; divisions extérieures du périanthe plus ou moins conniventes en casque.
+1,7$ 1b : Éperon plus ou moins allongé, conique ou linéaire, égalant au moins la moitié de l'ovaire, très rarement le tiers seulement.
+
+2,3$ 2a : Fleurs grandes, en gros épis larges de 4-6 cm. ; bractées environ 2 fois plus longues que l'ovaire ; rétinacles soudés en un seul renfermé dans une bursicule uniloculaire ; plantes robustes.
+2,4$ 2b : Fleurs petites ou très petites, en épis étroits (1-2 cm.) ; bractées plus courtes ou plus longues que l'ovaire ; 2 rétinacles libres ; plantes grêles ou peu robustes.
+
+3,0$ 3a : Fleurs verdâtres rayées et ponctuées de pourpre, à odeur de bouc, en épi long et un peu lâche ; divisions du périanthe toutes conniventes en casque ; labelle très allongé (4-6 cm.), à 3 lanières linéaires tordues en spirale, la moyenne 3-4 fois plus longue que les latérales (= Himantoglossum h., Aceras h.). $ O. hircina Crantz
+3,0$ 3b : Fleurs roses ou pourpres, à odeur d'Iris, en épi ample et serré ; divisions latérales externes un peu ouvertes et étalées ; labelle 2 fois plus long que les divisions, à 3 lobes plans, les latéraux lancéolés en faux, le moyen un peu plus long, en cœur renversé à 2 lobes divariqués (= Aceras l.). $ O. longibracteata Biv.
+
+4,5$ 4a : Bractées égalant ou dépassant l'ovaire ; rétinacles dépourvus de bursicule ; tubercules palmés ou comme fasciculés.
+4,6$ 4b : Bractées plus courtes que l'ovaire ; rétinacles renfermés dans une bursicule à 2 loges ; tubercules entiers, ovoïdes ou subglobuleux.
+
+5,0$ 5a : Fleurs verdâtres, assez petites, à odeur de prune, en épi un peu lâche ; labelle 1-2 fois plus long que le casque, pendant, linéaire, divisé au sommet en 3 dents, la moyenne plus courte ; tubercules lobés au sommet et palmés (= Coeloglossum v.). $ O. viridis Crantz
+5,0$ 5b : Fleurs blanchâtres, peu ou point odorantes, très petites, en épi serré très étroit ; labelle égalant environ le casque, petit, trifide, à lobes divergents, le moyen un peu plus grand ; tubercules divisés presque jusqu'à la base et fasciculés (= Coeloglossum a.). $ O. albida Scop.
+
+6,0$ 6a : Fleurs d'un rose pâle ou carné, à odeur de vanille, en épi unilatéral très serré ; divisions extérieures du périanthe ovales-lancéolées, soudées inférieurement, un peu gibbeuses à la base ; labelle un peu plus court que le casque (= Neotinea maculata, Aceras densiflora). $ O. intacta Link.
+6,0$ 6b : Fleurs d'un pourpre noirâtre au sommet, à odeur agréable, en épi conique serré ; divisions extérieures du périanthe ovales, libres jusqu'à la base, non gibbeuses ; labelle plus long que le casque. $ O. ustulata L.
+
+7,8$ 7a : Divisions extérieures du périanthe toutes conniventes en casque ; tubercules entiers, ovoïdes ou subglobuleux.
+7,17$ 7b : Divisions extérieures du périanthe plus ou moins étalées ou redressées, au moins les 2 latérales ; tubercules entiers ou palmés.
+
+8,9$ 8a : Bractées minuscules, en forme d'écailles, beaucoup plus courtes que l'ovaire ; labelle tripartit, à lobe moyen profondément bifide avec une dent dans l'échancrure ; plantes élevées, atteignant 30-80 cm.
+8,11$ 8b : Bractées oblongues ou lancéolées-linéaires, égalant presque ou dépassant l'ovaire ; labelle trifide, trilobé ou entier ; plantes de 10-40 cm.
+
+9,0$ 9a : Casque d'un pourpre noir, courtement ovoïde-aigu ; lobes latéraux du labelle linéaires-oblongs, rapprochés du lobe moyen ; celui-ci dilaté dès la base, divisé au sommet en 2 lobules 4-6 fois plus larges que les lobes latéraux (= O. fusca). $ O. purpurea Huds.
+9,10$ 9b : Casque d'un rose clair ou cendré, ovoide-acuminé ; lobes latéraux du labelle linéaires, écartés du lobe moyen ; celui-ci étroit à la base, puis divisé en 2 lobules linéaires ou oblongs.
+
+10,0$ 10a : Lobe moyen du labelle dilaté au sommet et divisé en 2 lobules divergents, 2-3 fois plus larges et au moins 2 fois plus courts que les latéraux ; épi floral oblong, peu serré (= O. galbata). $ O. militaris L.
+10,0$ 10b : Lobe moyen du labelle non dilaté, mais divisé en 2 lobules linéaires filiformes, arqués-recourbés en avant, aussi étroits et à peu près aussi longs que les lobes latéraux ; épi floral courtement ovoïde, serré (= O. tephrosanthos). $ O. simia Lamk.
+
+11,12$ 11a : Labelle trifide ou nettement trilobé, à lobe moyen dépassant les latéraux ; casque à divisions soudées intérieurement ; fleurs en épi serré.
+11,15$ 11b : Labelle obscurément trilobé ou non divisé, à lobe moyen plus petit que les latéraux ou nul ; casque à divisions libres ; fleurs en épi lâche.
+
+12,13$ 12a : Fleurs d'un rose pâle ou blanchâtres, presque inodores ; divisions extérieures du périanthe divergentes au sommet ; labelle trifide, à lobe moyen plus grand et bifide ou tronqué-émarginé, avec une dent dans l'échancrure.
+12,14$ 12b : Fleurs d'un rouge brun ou vineux, odorantes ; divisions du périanthe toutes conniventes jusqu'au sommet ; labelle trilobé, à lobes peu inégaux, le moyen oblong, aigu, entier.
+
+13,0$ 13a : Fleurs rose lilas, en épi d'abord subglobuleux ; casque à divisions brièvement acuminées ; labelle à lobes latéraux linéaires-spatulés, à lobe moyen obovale en coin et échancré-bilobé ; tige grêle et élancée (= O. variegata). $ O. tridentata Scop.
+13,0$ 13b : Fleurs rose très pâle ou blanchâtres, en épi d'abord ovoïde-conique ; casque à divisions longuement acuminées ; labelle à lobes latéraux obovales-obliques, à lobe moyen en éventail tronqué-denticulé ou émarginé ; tige basse et trapue (= O. tridentata var. acuminata). $ O. lactea Poiret
+
+14,0$ 14a : Fleurs rouge brun sale, à forte odeur de punaise, en épi oblong étroit assez serré ; bractées à peine membraneuses ; divisions du périanthe brièvement acuminées ; lobe moyen du labelle dépassant peu les latéraux. $ O. coriophora L.
+14,0$ 14b : Fleurs rouge vineux plus clair, à odeur agréable de vanille, en épi ovale-oblong très serré ; bractées membraneuses-blanchâtres ; divisions du périanthe longuement acuminées ; lobe moyen du labelle dépassant sensiblement les latéraux (= O. coriophora var. fragrans). $ O. fragrans Poll.
+
+15,0$ 15a : Fleurs grandes, d'un rouge écarlate ; bractées plus longues que l'ovaire, multinervées ; casque allongé, lancéolé ; labelle simple, suborbiculaire en éventail, étalé ; éperon dirigé en bas et presque pendant. $ O. papilionacea L.
+15,16$ 15b : Fleurs moyennes ou petites, non d'un rouge écarlate ; bractées égalant à peine l'ovaire, à 1-3 nervures ; casque court, obtus, subglobuleux ; labelle trilobé, à lobes latéraux plus grands réfléchis ; éperon ascendant ou horizontal.
+
+16,0$ 16a : Labelle à peine plus long que le casque, concolore, pourpre-violet, rosé ou blanc, ponctué de pourpre ; éperon presque droit, cylindrique ou en massue ; épi court, ovale, peu fourni. $ O. morio L.
+16,0,N$ Varie dans le Midi, à fleurs petites, éperon plus long, feuilles mucronées, avec tubercules subsessiles (O. picta Lois.) ou quelques-uns pédicellés (O. champagneuxii Barnéoud).
+16,0$ 16b : Labelle bien plus long que le casque, discolore, les lobes latéraux d'un violet foncé, le moyen blanc ponctué de pourpre et très court ; éperon courbé, long, comprimé-spatulé ; épi oblong-cylindrique (= O. longicornis). $ O. longicornu Poiret
+
+17,18$ 17a : Divisions extérieures d'abord rapprochées des intérieures et un peu conniventes, puis les latérales plus ou moins étalées ; éperon environ de moitié plus court que l'ovaire.
+17,19$ 17b : Divisions extérieures latérales nettement étalées ou redressées en forme d'ailes ; éperon souvent aussi long ou plus long que l'ovaire.
+
+18,0$ 18a : Fleurs d'un violet clair ou lilas, petites, nombreuses, en épi subglobuleux très serré ; divisions extérieures longuement cuspidées ; éperon grêle, cylindracé ; tige munie de gaines à la base ; tubercules oblongs, parfois incisés au sommet. $ O. globosa L.
+18,0$ 18b : Fleurs purpurines un peu verdâtres en dedans, assez grandes, peu nombreuses, en épi cylindrique assez lâche ; divisions extérieures obtuses, non cuspidées ; éperon épais, conique obtus ; tige munie de 4-6 feuilles à la base ; tubercules ovoïdes entiers (= O. brevicornis). $ O. spitzelii Sauter
+
+19,20$ 19a : Labelle simple, entier ou seulement crénelé au bord.
+19,22$ 19b : Labelle trilobé, à lobes plus ou moins distincts.
+
+20,0$ 20a : Fleurs d'un pourpre foncé, peu nombreuses ; labelle suborbiculaire ou obovale en coin, crénelé ; éperon épais, dirigé en bas, 1-2 fois plus court que l'ovaire ; bursicule à 2 loges ; plusieurs feuilles oblongues-lancéolées, souvent maculées ; tubercules ovoïdes-obtus. $ O. saccata Ten.
+20,21$ 20b :  Fleurs blanches ou un peu verdâtres, nombreuses ; labelle linéaire allongé, entier ; éperon grêle, presque horizontal, 1-2 fois plus long que l'ovaire ; bursicule nulle ; 2-3 feuilles grandes, ovales-oblongues, non maculées ; tubercules en fuseau aigu.
+
+21,0$ 21a : Anthères à loges rapprochées et parallèles ; fossette stigmatique à bord épais ; éperon en alène ; divisions latérales extérieures du périanthe lancéolées ; fleurs odorantes le soir (= Platanthera b.). $ O. bifolia L.
+21,0$ 21b : Anthères à loges écartées, divergentes à la base ; fossette stigmatique à bord étroit ; éperon en massue grêle ; divisions latérales du périanthe oblongues ; fleurs plus grandes, souvent inodores (= Platanthera m., P. chlorantha). $ O. montana Schmidt
+
+22,23$ 22a : Éperon horizontal ou dirigé en haut, cylindracé ou conique ; épi généralement lâche ; tubercules entiers, ovoïdes ou subglobuleux.
+22,28$ 22b : Éperon dirigé en bas ou pendant ; épi multiflore serré ; tubercules ordinairement palmés ou lobés, à lobes terminés par une fibre.
+
+23,24$ 23a : Fleurs d'un jaune pâle ou blanchâtre, très rarement purpurines tachées de jaune.
+23,26$ 23b : Fleurs purpurines ou rosées, accidentellement blanches, jamais tachées de jaune.
+
+24,0$ 24a : Feuilles largement obovales ou oblongues, dilatées au-dessus du milieu, non tachées ; fleurs odorantes, en épi serré ; bractées uninervées ; labelle non ponctué ; éperon un peu plus court que l'ovaire $ O. pallens L.
+24,25$ 24b : Feuilles oblongues-lancéolées, non élargies dans le haut ; fleurs presque inodores, en épi lâche ; bractées inférieures trinervées ; labelle ponctué de pourpre ; éperon à peu près aussi long que l'ovaire.
+
+25,0$ 25a : Feuilles tachées de pourpre noir ; fleurs assez grandes, 6-20 en épi à la fin allongé ; labelle concolore, d'un jaune à peine plus foncé ; éperon ne dépassant pas l'ovaire ; plante assez grêle et élancée. $ O. provincialis Balbis.
+25,0$ 25b : Feuilles non tachées ; fleurs plus grandes, 3-10 en épi court ; labelle discolore, d'un jaune foncé au milieu ; éperon dépassant l'ovaire ; plante moins élevée mais plus robuste (= O. provincialis var. pauciflora). $ O. pauciflora Ten.
+
+26,0$ 26a : Tige nue au sommet, munie à la base de feuilles étalées, oblongues-obtuses ou subobtuses, ordinairement tachées de noir ; bractées à 1-3 nervures ; labelle fortement ponctué de pourpre ; éperon aussi long que l'ovaire (incl. O. speciosa et O. olbiensis). $ O. mascula L.
+26,27$ 26b : Tige feuillée jusqu'au sommet, à feuilles dressées, lancéolées-linéaires aiguës, non tachées ; bractées à 3-7 nervures ; labelle non ou finement ponctué à la base ; éperon d'un tiers environ plus court que l'ovaire.
+
+27,0$ 27a : Labelle presque bilobé, à lobe moyen presque nul, les latéraux larges et rabattus l'un contre l'autre ; éperon horizontal ou dirigé en haut, dilaté-échancré au sommet ; bractées un peu plus courtes que l'ovaire. $ O. laxiflora Lamk.
+27,0$ 27b : Labelle trilobé, à lobe moyen égalant ou dépassant les latéraux, ceux-ci d'abord étalés, à la fin un peu repliés ; éperon horizontal ou dirigé en bas, atténué-obtus au sommet ; bractées dépassant l'ovaire. $ O. palustris Jacq.
+
+28,29$ 28a : Fleurs petites, non rayées ni ponctuées de pourpre ; éperon grêle, filiforme, allongé ; 1 seul rétinacle dans une bursicule uniloculaire ou 2 sans bursicule ; bractées à 3 nervures simples.
+28,31$ 28b : Fleurs assez grandes, rayées ou ponctuées de pourpre ; éperon assez épais, cylindrique ou conique, presque droit ; 2 rétinacles libres dans une bursicule à 2 loges ; bractées inférieures à nervures ramifiées en réseau.
+
+29,0$ 29a : Fleurs d'un rose vif, inodores, en épi court, ovoïde-conique, très obtus ; labelle tripartit, muni à la base de 2 petites lamelles verticales ; rétinacles soudés en 1 seul dans une bursicule uniloculaire ; tubercules ovoïdes entiers (= Anacamptis p.). $ O. pyramidalis L.
+29,30$ 29b : Fleurs d'un rose pâle, odorantes, en épi grêle, allongé, cylindracé, aigu ; labelle trilobé, dépourvu de lamelles à la base interne ; 2 rétinacles libres sans bursicule ; tubercules palmés, à lobes terminés en fibre allongée.
+
+30,0$ 30a : Éperon très grêle, 1-2 fois plus long que l'ovaire ; divisions latérales extérieures du périanthe étalées-dressées et descendantes ; labelle obovale, plus large que long ; fleurs petites (8-10 mm.), en épi assez serré (= Gymnadenia c.). $ O. conopsea L.
+30,0$ 30b : Éperon légèrement épaissi, égalant à peu près l'ovaire ; divisions latérales du périanthe étalées en ligne droite ; labelle plus étroit, un peu plus long que large ; fleurs très petites (5-7 mm.), en épi plus grêle et plus serré (= Gymnadenia o.). $ O. odoratissima L.
+
+31,32$ 31a : Fleurs d'un blanc lilas ou jaunâtres, rarement purpurines ; tige basse et creuse, ou élancée et pleine.
+31,33$ 31b : Fleurs purpurines ou rose carné, inodores ; tige creuse, ordinairement robuste, souvent très élevée.
+
+32,0$ 32a : Fleurs jaunâtres ou purpurines tachées de jaune, peu odorantes, en épi ovale court ; bractées inférieures dépassant les fleurs ; éperon gros, conique, égalant ou dépassant l'ovaire ; feuilles d'un vert clair ; tubercules incisés-lobés (= Dactylorhiza s.). $ O. sambucina L.
+32,0$ 32b : Fleurs d'un blanc lilas ou rosées, à odeur agréable, en épi cylindracé-conique ; bractées ne dépassant pas les fleurs ; éperon cylindrique, plus court que l'ovaire ; feuilles tachées de noir en travers ; tubercules profondément lobés (= Dactylorhiza m.). $ O. maculata L.
+
+33,0$ 33a : Feuilles étalées-dressées, oblongues-lancéolées, plus larges vers le milieu, souvent tachées de brun ; tubercules à lobes presque parallèles ; fleurs d'un pourpre foncé un peu violacé ; labelle à lobes latéraux rejetés en arrière (= Dactylorhiza majalis). $ O. latifolia L.
+33,0$ 33b : Feuilles dressées, plus étroites, lancéolées, plus larges à la base et insensiblement atténuées, non tachées ; tubercules à lobes nettement divergents ; fleurs plus pâles, carnées ou roses ; labelle à lobes latéraux ordinairement à peine repliés (= Dactylorhiza i.). $ O. incarnata L.
+
+
+CS4,0$ Herminium L.
+
+1,0$ 1a : Feuilles nombreuses, toutes radicales, linéaires, égalant ou dépassant la tige ; épi court paucifIore ; labelle réfléchi, trilobé, à lobes latéraux réduits à une dent courte et arrondie ; 2 tubercules sessiles, non accompagnés de bulbes latéraux (= Chamorchis a.). $ H. alpinum Lindl.
+1,0$ 1b : Feuilles radicales 2-3, ovales ou oblongues-lancéolées, bien plus courtes que la tige ; épi effilé, multiflore ; labelle horizontal ou connivent, trifide, à lobes latéraux linéaires divergents ; 1 seul tubercule sessile, accompagné de 1-4 longuement pédicellés (= H. clandestinum). $ H. monorchis R. Br.
+
+
+CS5,0$ Malaxis Swartz.
+
+1,0$ 1a : Tige pentagone ; feuilles petites, ovales-spatulées, bien plus courtes que l'épi floral ; bulbes superposés, écartés, l'un placé à la base de la feuille supérieure, l'inférieur à racine pivotante ; fleurs nombreuses, en épi long et effilé (= Sturmia p., Hammarbya p.). $ M. paludosa Swartz
+1,0$ 1b : Tige triquètre dans le haut ; feuilles assez grandes, oblongues-lancéolées, atteignant presque l'épi ; bulbes juxtaposés, contigus, placés à la base de la tige et munis de fibres radicales ; fleurs peu nombreuses) en épi court et très lâche (= Liparis l., Sturmia l.). $ M. loeselii Swartz
+
+
+CS6,0$ Spiranthes Rich.
+
+1,0$ 1a : Feuilles radicales entourant la tige, lancéolées-linéaires, développées à la floraison ; tubercules allongés-cylindriques ; fleurs peu odorantes, se montrant en été. $ S. aestivalis Rich.
+1,0$ 1b : Feuilles radicales en rosette latérale à la tige, ovales ou oblongues, non développées à la floraison ; tubercules oblongs en navet ; fleurs très odorantes, apparaissant en automne (= S. autumnalis). $ S. spiralis C. Koch
+
+
+CS7,0$ Listera R. Br.
+
+1,0$ 1a : Feuilles ovales, arrondies à la base, grandes (6-9 cm. de long sur 3-6 de large), plus longues que larges ; fleurs moyennes, en grappe allongée ; labelle oblong, à 2 lobes obtus presque parallèles ; plante raide de 20-60 cm (= Neottia o.). $ L. ovata R. Br.
+1,0$ 1b : Feuilles ovales-triangulaires, en cœur à la base, petites (1-2 cm.), aussi larges que longues ; fleurs petites, en grappe courte ; labelle trilobé, à lobe moyen fendu en 2 lobules très aigus et divergents ; plante délicate de 10-20 cm (= Neottia c.). $ L. cordata R. Br.
+
+
+CS8,0$ Cephalanthera Rich.
+
+1,0$ 1a : Fleurs d'un rose vif ; divisions du périanthe toutes acuminées, égalant à peu près le labelle ; ovaire pubescent-glanduleux ; tige pubescente dans le haut. $ C. rubra Rich.
+1,2$ 1b : Fleurs blanches ou jaunâtres ; divisions intérieures ou toutes obtuses, dépassant le labelle ; ovaire glabre ; tige glabre dans toute son étendue	2
+
+2,0$ 2a : Périanthe d'un blanc pur, à divisions extérieures aiguës ; bractées petites, membraneuses, beaucoup plus courtes que l'ovaire ; feuillés lancéolées, rapprochées, 3-5 fois plus longues que les entrenœuds (= C. ensifolia). $ C. longifolia Fritsch
+2,0$ 2b : Périanthe blanc jaunâtre, à divisions toutes obtuses ; bractées allongées, foliacées, dépassant l'ovaire ou même la fleur ; feuilles ovales-lancéolées, écartées, au plus 2 fois plus longues que les entrenœuds (= C. pallens, C. alba, C. grandiflora). $ C. damasonium (Miller) Druce
+
+
+CS9,0$ Epipactis Hall.
+
+1,2$ 1a : Labelle arrondi ou seulement apiculé au sommet ; fleurs souvent peu nombreuses, pendantes, en grappe lâche ; feuilles larges de 1-3 cm., à nervures lisses.
+1,3$ 1b : Labelle terminé en pointe recourbée ; fleurs ordinairement nombreuses, étalées ou penchées, en grappe assez dense ; feuilles larges souvent de 3-6 cm., à nervures plus ou moins scabres.
+
+2,0$ 2a : Tige densément feuillée, à feuilles rapprochées, plus longues que les entrenœuds, longues de 5-10 cm. ; souche stolonifère ; labelle à languette suborbiculaire, égalant ou dépassant les divisions extérieures ; ovaire oblong (= Helleborine p.). $ E. palustris Crantz.
+2,0$ 2b : Tige peu feuillée, à feuilles petites, écartées, plus courtes que les entrenœuds ou les égalant, longues de 1-4 cm. ; souche non stolonifère ; labelle à languette ovale apiculée, plus courte que les divisions ; ovaire en toupie (= Helleborine m.). $ E. microphylla Swartz.
+
+3,0$ 3a : Bractées toutes plus courtes que les fleurs ou les inférieures un peu plus longues ; fleurs d'un rouge foncé, assez petites, peu ouvertes, un peu odorantes ; gibbosités du labelle plissées-crépues (= E. rubiginosa, E. atropurpurea, Helleborine a.). $ E. atrorubens Schult.
+3,0$ 3b : Bractées inférieures dépassant longuement les fleurs ; fleurs verdâtres, rosées ou violacées, assez grandes, très ouvertes, inodores ; gibbosités du labelle lisses ou presque lisses (= Helleborine latifolia). $ E. helleborine (L.) Crantz.
+3,0,N$ Varie à feuilles plus étroites, avec fleurs toutes verdâtres (E. viridiflora Reich.) ou fleurs et souvent toute la plante d’un rouge violacé (E. violacea Bor.).

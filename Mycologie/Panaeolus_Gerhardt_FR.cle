@@ -1,0 +1,63 @@
+1,cs1 $ Sporée noire ; spores plus ou moins aplaties, donc ovales vue de profil, lisses à finement rugueuses (figure 2 b-k), sous le microscope brun rougeâtre foncé, noires, anthracite ou vert olive, transparentes à opaques, s'éclaircissant dans la potasse $ Panaeolus $s"Genre Panaeolus"
+1,cs2 $ Sporée brun foncé ; spores non aplaties, donc rondes vue de profil, nettement rugueuses (figure 2a), sous le microscope jaune brunâtre-transparent, be s'éclaircissant pas dans la potasse $ Panaeolina $s"Genre Panaeolina"
+
+
+Cs1,0 $    Schlüssel: Untergattungen und Sektionen der Gattung Panaeolus
+
+1,Cs3 $ Cuticule grasse, collante, non hygrophane ; carpophore massif, relativement charnu, généralement peu pigmenté ; les spores sous microscope optique sont toujours lisses ; toutes les espèces avec des sulfidies et sans méthoïde $ Panaeolus subg. Anellaria $s"Panaeolus subg. Anellaria"
+1,2 $ Cuticule généralement sèche, hygrophane ou non ; carpophore grêles, peu charnus, généralement fortement pigmenté ; spores sous microscope optique, lisses ou rugueuses ; Sulfidies ou métuloïdes présents ou  absents
+
+2,Cs4 $ Lamelles avec des métuloïdes à paroi épaisse et visibles qui sécrètent souvent des cristaux à l'extrémité (figure 3 h-j) ; sulfidies inexistantes ; carpophores virant souvent au  bleue à la blessure $ Panaeolus subg. Copelandia $s"Panaeolus subg. Copelandia"
+2,3 $ Pas de métuloïdes à paroi épaisse (des sulfites avec un contenu réfractif peuvent être présents ); carpophores non bleuissants  $ Panaeolus subg. Panaeolus $s"Panaeolus subg. Panaeolus
+
+3,Cs5 $ Carpophores voilé (les restes sous forme de dents marginales ou d' anneau  ); les spores au microscope sont toujours très sombres, opaques, souvent de façon significative angulaire avec des pores germinatifde premier plan, en vision large, avec des lignes latérales à peu près parallèles (type papilionaceus ou similaire, Fig. 2e). $ Sg. Panaeolus. sect. Panaeolus $s"sect. Panaeolus"
+3,4 $ Pas de voile ; autres caractéristiques variables
+
+4,Cs6 $ Spores dans le microscope optique (immersion dans l'huile) ou dans le microscope électronique à balayage finement rugueux. $ Sg.Panaeolus sect. Verrucispora $s"sect. Verrucispora"
+4,5 $ Spores absolument lisses
+
+5,0 $ Bord de la lamelle (loupe) avec des gouttelettes jaunâtres à travers les excrétions visqueuses de cheilocystidia (figure 3 f); Spurs z.T. avec des gouttes d'huile; Les sulfidies manquent. Seulement une espèce (29) $ Panaeolus guttulatus
+5,0,N$ Sg.Panaeolus sect. Guttulati
+5,Cs7 $ Lame lamellaire sans gouttelettes jaunâtres; Cheilocystidène sans sécrétions visqueuses; Spores sans gouttes d'huile; Surface lamellaire avec ou sans sulfidie $ Sg. Panaeolus sect. Laevispora $s"sect. Laevispora"
+
+
+Cs2,0 $     Schlüssel: Arten der Gattung Panaeolina 
+
+1,0 $ Sporen gewöhnlich mit 1 bis 2 großen Öltrop­fen (auch am Exsikkat); nahezu kosmopolitische Art (30)  $ Panaeolina foenisecii 
+1,2 $ Sporen gewöhnlich ohne Öltropfen
+
+2,0 $ Sporenbreite 10 µm nicht überschreitend, Ornament wie bei P. foenisecii; Basidien konstant 4-sporig; kräftige nordamerikanische Art (31)  $ Panaeolina castaneifolia 
+2,0 $ Sporenbreite 12 µm erreichend, Ornament grober als bei foenisecii; Basidien 1-bis 4-sporig; indische Art (32) $ Panaeolina indica 
+
+
+Cs3,0 $    Schlüssel:	 Arten der Untergattung Anellaria
+
+1,0 $ Velum als aufsteigender Ring am Stiel sichtbar; Hut oft typisch halb eiförmig (1)  $ Panaeolus semiovatus var, semiovatus
+1,2 $ Velum als zähnchenförmiger Hutrandbehang sichtbar oder fehlend; Hut halbkugelig oder glockig
+
+2,0 $ Velumartiger Hutrandbehang vorhanden (kann im Alter verschwinden); Sporen langgestreckt, im Mittel­wert 20 µm Länge erreichend, wenig abgeflacht (Abb. 2 c); Art der gemäßigten Zonen (2)  $ Panaeolus semiovatus var. phalaenarum
+2,0 $ Velum fehlend; Sporen gedrungener und stärker abge­flacht, im Mittelwert kürzer als 20 um (ca. 15-20 um lang), ähnlich papilionaceus-Typ; Art der tropischen und subtropischen Zonen (3) $ Panaeolus antillarum 
+
+
+Cs4,0 $ $      Schlüssel:	 Arten der Untergattung Copelandia 
+
+1,2 $ Basidien konstant 2-sporig (selten I-sporig)
+1,4 $ Basidien innerhalb eines Fruchtkörpers 2-bis 4-sporig oderkonstant4-sporig
+
+2,0 $ Metuloiden an Spitze deutlich grün gefärbt; Sporen ca. 10-12 µm lang (8) $ Panaeolus chlorocystis 
+2,3 $ Metuloiden nicht grün gefärbt; Sporen ca. 12-14 µm lang
+
+3,0 $ Spitze der Metuloiden relativ dickwandig, oft mit Wandmaterial ausgefüllt, kräftig gelbbraun gefärbt (wie bei P. cyanescens, Abb. 3 h); nordafrikanische Art (6) $ Panaeolus bisporus 
+3,0 $ Spitze der Metuloiden relativ dünnwandig, meist hohl, Wandung blaß gefärbt; indische Art (10) $ Panaeolus tirunelveliensis 
+
+4,0 $ Sporen ca. 12-15(17) µm lang; Fruchtkörper oft blaß gefärbt (weißlich, gelblich, isabellfarben) (4) $ Panaeolus cyaneseens 
+4,5 $ Sporen ca. 9-12 µm lang; Fruchtkörper kräftiger pig­mentiert (grau grünlich, graubraun, schwarzbraun) 
+
+5,0 $ Spitze älterer Metuloiden konisch, nicht schnabelartig abgesetzt, sehr dickwandig und massiv (Abb. 3 j), dunkel rotbraun gefärbt (11)  $ Panaeolus tropicalis 
+5,6 $ Spitze der Metuloiden schnabelartig abgesetzt, Wan­dung fast farblos bis gelbbräunlich
+
+6,0 $ Metuloiden sehr blaß gefärbt und durchgehend dünn­wandig, Spitze meist ohne Kristalle (Abb. 3 i) (7) $  Panaeolus cambodginiensis
+6,7 $ Metuloiden normal gefärbt (gelbbräunlich), Wände im oder unterhalb des Schnabels deutlich verdickt (wie bei P. cyanescens), Spitze oft mit Kristallen (Abb. 3 h)
+
+7,0 $ Sporen stets länger als breit, Keimporus nicht extrem vorstehend; Basidien 2-bis 4-sporig (5)$ Panaeolus affinis 
+7,0 $ Sporen wirken oft breiter als lang, Keimpo­rus extrem vorstehend (Abb. 2 i); Basidien 4-sporig (9) $ Panaeolus lentisporus 

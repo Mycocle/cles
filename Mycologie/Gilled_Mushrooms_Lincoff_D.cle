@@ -1,0 +1,193 @@
+titre$GILLED  MUSHROOMS  FOR BEGINNERS, by Gary Lincoff
+com$ adapt GF 03/2017
+1,0$ introduction ///Gilled mushrooms have spore prints that can be placed in four basic color groups: white to yellowish (called “white”), pinkish to salmon (called “pink”), yellow-brown to rusty-brown (called “brown”), and purple-brown to purple-black to black (called “black”). There is also one mushroom with a distinctly greenish spore print (Chlorophyllum molybdites, the Green-spored Lepiota), and one with a distinctly lilac-gray spore print (Pleurotus ostreatus, the Oyster Mushroom).
+1,0$
+
+
+1, CS1$ WHITE-SPORED GILLED MUSHROOMS
+
+1, CS2$ PINK-SPORED GILLED MUSHROOMS
+
+1, CS3$ BROWN-SPORED GILLED MUSHROOMS
+1, CS4$ PURPLE-BROWN TO BLACK-SPORED GILLED MUSHROOMS
+
+
+Cs1,0$
+
+1,13$  Stem absent, lateral, or eccentric
+1,2$  Stem central
+2,3$  Ring (skirtlike or band of tissue) on stem OR saclike cup at base of stem or removable patches of tissue on cap
+2,5$  NO ring on stem or cup at base of stem
+3,cs11 $  Ring on stem OR cup at base of stem $ $s"AMANITA 
+3,4$  Ring on stem but NO cup at base of stem
+4,0$  Gills attached to somewhat decurrent $ ARMILLARIA
+4,cs12$  Gills free $ $s"LEPIOTA 
+5,6$  Gills brittle, crumbly or gills oozing milklike latex on breaking
+5,7$  Gills not as above
+6,cs13$  Gills brittle or crumbly on breaking $ $s"RUSSULA 
+6,cs14$  Gills oozing milklike latex on breaking $ $s"LACTARIUS 
+7,0$  Gills waxy or waxlike on rubbing $ HYGROPHORUS
+7,8$ Gills not waxy
+8,10$  Cap fleshy but stem cartilaginous or rubbery
+8,9$  Cap and stem fleshy; medium to large
+9,cs15$  Gills decurrent (even slightly) $ $s"CLITOCYBE 
+9,0$  Gills notched at stem $ TRICHOLOMA
+10,11$  Cap fleshy, stem cartilaginous, small to large
+10,12$  Cap fleshy, stem fleshy to cartilaginous, small
+11,cs16$  Cap fleshy, stem cartilaginous $ $s"COLLYBIA 
+11,0$  Cap fleshy, stem rubbery, bendable $ MARASMIUS
+12,0$  Cap & stem fleshy, small, typically on wood $ MYCENA
+12,0$  Cap fleshy, stem cartilaginous $ XEROMPHALINA
+13,cs17$  Mushrooms fleshy, putrescent $ $s"PLEUROTUS 
+13,14$  Mushrooms tough, leathery to woody
+14,0$  Mushroom leathery $ see SCHIZOPHYLLUM (under chanterelles)
+14,0$  Mushroom tough, woodlike $ see LENZITES (under polypores)
+
+cs11,0$ $s"AMANITA 
+1,2$ Cap margin striate (pleated)
+1,5$ Cap margin smooth
+2,0$ Cup absent but ring present $ sect. Amanita
+2,3$ Cup present and ring present sect. Vaginatae
+3,4$ Cup present but ring absent 
+4,0$ Cup leathery, persistent $ sect. Volvatae
+4,0$ Cup membranous $ sect. Vaginatae
+5,0$ Cup present, leathery $ sect. Volvatae
+5,0$ Cup present, membranous $ sect. Phalloideae
+5,6$ Cup absent but cap & stem showing remnants of universal veil, as tissue fragments, powder, or warts
+6,0$ Stem bulbous, swollen $ sect. Validae
+6,0$ Stem rooting $ sect. Lepidella
+
+cs12,0$ $s"LEPIOTA 
+
+1,0$ Mushroom with scaly cap $ Lepiota
+1,2$ Mushrooms large, fleshy
+1,3$ Mushrooms medium to small
+2,0$ Mushroom green-spored $ Chlorophyllum
+2,0$ Mushrooms white-spored $ Macrolepiota
+3,0$ Mushroom Agaricus-like $ Leucoagaricus
+3,0$ Mushroom Coprinus-like $ Leucocoprinus
+
+cs13,0$ russula
+1,0$ Mushroom hard-fleshed, white or staining on bruising or aging $ sect. Compacta
+1,2$ Mushroom not hard-fleshed
+2,0$ Cap mostly red, slimy, shiny $ sect. Russula
+2,0$ Cap variously colored, matte $ sect. Rigidae
+2,0$ Cap yellowish, smelling like marzipan when young, fetid when mature $ sect. Ingratae
+
+
+
+cs14,0$ lactarius
+1,0$ Gills oozing orange, red or blue when broken; mushrooms turning greenish on bruising $ sect. Dapetes
+1,0$ Gills oozing mild, white latex; mushrooms orange to brownish orange or darker $ sect. Dulces
+1,0$ Gills oozing peppery or acrid white latex; mushrooms white to whitish, hard- fleshed $ sect. Albati
+1,0$ Gills oozing white latex, turning pinkish; mushrooms with velvet like brown to beige caps $ sect. Plinthogali
+1,0$ Gills oozing mild to acrid white latex; mushrooms often fragrant, caps dry, matte $ sect. Russulares
+1,0$ Gills oozing mild to acrid white latex, sometimes changing to yellow or purple; mushroom caps either slimy to shiny or dry and fringed $ sect. Lactarius
+
+ cs15,0$ clito
+1,0$ Gills forked $ see Cantharellus
+1,2$ Gills straight, not forked
+2,3$ Gills deeply decurrent
+2,4$ Gills barely decurrent
+3,0$ Mushrooms bright orange, clustered on wood $ Omphalotus
+3,0$ Mushrooms honey-brown, clustered on the ground on buried wood $ Armillaria tabescens
+3,0$ Mushrooms whitish $ Clitocybe
+4,0$ Mushrooms blue to tan; spore print pinkish tan, on the ground $ Clitocybe nuda
+4,0$ Mushrooms pinkish brown to tan; gills pinkish to lilac; spore print white; on ground $ Laccaria
+
+cs16,0$  collyb
+1,0$ Mushrooms tiny, attached to tubers $ Collybia tuberosa 
+1,0$ Mushrooms large, rooting $ Oudemansiella radicata 
+1,0$ Mushrooms large, at base of trees; stem with white, 'root' $ Tricholomopsis  platyphylla
+1,0$ Mushrooms medium sized, orange $ Collybia dryophila
+
+cs17 pleurotus
+1,2$ Stem absent
+1,4$ Stem lateral or eccentric
+2,0$ Spore print lilac-gray $ Pleurotus ostreatus
+2,0$ Spore print pink$Phyllotopsis nidulans
+2,3$ Spore print white
+3,0$ Cap hairy $ Lentinellus ursinus
+3,0$ Cap smooth $ Pleurotus spp.
+4,5$ Stem short, stublike, mostly lateral
+5,0$ Mushrooms hairy $ Panus rudis
+5,0$ Mushrooms smooth $ Panellus
+5,6$ Stem long, eccentric
+6,0$ Clustered on wood $ Pleurotus
+6,0$ Singly, high in trees $ Hypsizygus
+
+Cs2,0$
+
+1,2$  Gills free
+2,0$  $ Cup present about base of stem  VOLVARIELLA
+2,0$  Cup absent; on wood $ PLUTEUS
+2,3$  Gills attached
+3,0$  Gills attached but not decurrent $ ENTOLOMA
+3,4$  Gills long decurrent or short decurrent
+4,0$  Gills long decurrent $ CLITOPILUS
+4,0$  Gills short decurrent; mushrooms often in association with numbers of small, whitish, balllike spheres $ Entoloma abortivum
+
+Cs3,0$
+
+1,2$  Stem absent, lateral or eccentric
+1,3$  Stem central
+2,0$  Stem absent; mushrooms small $ CREPIDOTUS
+2,0$  Stem lateral to eccentric,large $ Paxillus atromentarius
+3,4$  Membranous ring present
+3,5$  Membranous ring absent
+4,cs21$  Gills attached $ $s"PHOLIOTA 
+4,cs22$  Gills free $ $s"AGARICUS 
+5,6$  Partial veil present or absent but no ring on stem; at most only a band of colored fibrils on upper stem
+5,8$  Not as above
+6,cs23$  Gills colored becoming rusty brown $ $s"CORTINARIUS 
+6,7$  Gills gray-brown to brown
+7,0$  Cap mostly dry with radial fibrils $ INOCYBE
+7,0$  Cap slimy; shiny and sticky when dry $ HEBELOMA
+8,10$  Mushrooms small, fragile, gills not decurent
+8,9$  Mushroom large, gills decurrent
+9,0$  Cap margin inrolled; cap yellowish $ Paxillus involutus
+9,0$  Cap margin straight; cap reddish, gills yellow $ PHYLLOPORUS
+10,0$  Cap dunce-shaped, white to tan $ Conocybe lactea
+10,0$  Cap flat, hemispherical, yellow $ Agrocybe pediades
+
+cs21,0$ pholiota
+1,2$ Mushrooms on wood
+1,3$ Mushrooms on ground
+2,0$ Clustered, cap & stem orange, smooth to innately scaly $ Gymnopilus
+2,0$ Clustered; cap usually scaly $ Pholiota
+2,0$ Single to scattered on wood; cap smooth and hygrophanous (drying from brown to yellow) $ Galerina
+3,0$ On wood chips; ring high on stem $ Agrocybe praecox
+3,0$ Ring at middle of stem $ Rozites
+
+
+cs22,0$ agaricus
+1,0$ Mushrooms of parks, grasslands $ sect. Agaricus 
+1,2$ Mushrooms of parks or woods
+2,0$ Staining red on peeling or bruising $ sect. Sanguinolenta
+2,3$ Staining yellow on bruising
+3,0$ Smells of anise or almond extract $ sect. Arvenses
+3,0$ Smells of creosote or medicine cabinet $ sect. Xanthodermei
+
+cs23,0$ corti
+1 ,0$ Mushrooms dry, violet; cap scaly $ sect. Cortinarius
+1,0$ Cap & stem slimy to shiny $ sect. Myxacium
+1,0$ Cap slimy; stem dry, often bulbous $ sect. Phlegmacium
+1,0$ Cap & stem dry; silvery-blue $ sect. Sericeocybe
+1,0$ Cap & stem dry; brownish $ sect. Telamonia
+1,0$ Cap & stem dry; gills red or orange $ sect. Dermocybe
+1 ,0$ Cap & stem dry; gills greenish yellow $ sect. Leprocybe
+
+
+Cs4,0$
+1,2$  Spore print purple brown to purple black
+1,4$  Spore print mostly blackish
+2,0$  Ring present on stem; white cordlike 'root' at base of stem $ STROPHARIA
+2,3$  Partial veil present but ring absent
+3,0$  Big clusters on wood $ NAEMATOLOMA
+3,0$  Single or small clusters on wood or soil $ PSILOCYBE
+4,0$  Cap deliquescing (dissolving into black ink) $ COPRINUS
+4,5$  Cap not deliquescing
+5,0$  Mushrooms on dung; stem generally stiff $ PANAEOLUS
+5,0$  Mushrooms usually on wood $ PSATHYRELLA
+
+

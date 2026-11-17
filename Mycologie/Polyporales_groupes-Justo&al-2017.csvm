@@ -1,0 +1,38 @@
+commentaire =;1 Regular round to angular pores;;;;;;;;;;;;;;;;;;;;;;;
+commentaire =;2 Irregular, sinuous,  daedaleoid pores or lamellae;;;;;;;;;;;;;;;;;;;;;;;
+commentaire =;3 Surface smooth or with small grains, rounded  projections, folds, wrinkles;;;;;;;;;;;;;;;;;;;;;;;
+commentaire =;4  Surface with tooh-like  projections, aculei, rigid hairs, spine-like  structures;;;;;;;;;;;;;;;;;;;;;;;
+commentaire =;" + indicates the character is common in the family, but not necessarily present in all species;";;;;;;;;;;;;;;;;;;;;;;;
+commentaire =;(+) indicates the characters is present in only a few species;;;;;;;;;;;;;;;;;;;;;;;
+commentaire = source  : 2017 A revised family-level classification of the Polyporales,Justo, A. et al.;;;;;;;;;;;;;;;;;;;;;;;;
+commentaire = https://pubmed.ncbi.nlm.nih.gov/23935031/;;;;;;;;;;;;;;;;;;;;;;;;
+commentaire = Adapté G Fannechere mars 2023;;;;;;;;;;;;;;;;;;;;;;;;
+
+champ =Taxon;Basidiome Pileate;Basidiome Stipitate;Basidiome Resupinate;Poroid (1);Hymenophore Daedaleoid /Lamellate (2);Hymenophore Smooth (3);Hymenophore Hydnoid(4);Rot White;Rot Brown;Spores Amyloid;Spores Dextrinoid;Spores Ornamented;Spores Pigmented;Spores Thick-walled;Cystidia Smooth;Cystidia Ornamented;Cystidia Thick-walled;Hyphae Clamps;Hyphal system Monomitic;Hyphal system Dimitic;Hyphal system Trimitic;Hyphal system Homothallic;Hyphal system Bipolar;Tetrapolar
+Cerrenaceae;+;;+;+;(+);;+;+;;;;;;(+);+;(+);(+);+;+;+;(+);;+;+
+Dacryobolaceae;+;(+);+;+;;(+);(+);;+;(+);;(+);;(+);+;(+);(+);+;+;+;(+);;;+
+Fomitopsidaceae;+;;+;+;(+);;;;+;;;;(+);;;;;+;(+);+;+;+;+;
+Gelatoporiaceae;;;+;+;;;;+;;;;;;;;;;+;+;(+);;;+;+
+Grifolaceae;+;+;;+;;;;+;;;;;;;;;;+;;+;;;;+
+Hyphodermataceae;;;+;;;+;(+);+;;;;;;;+;(+);(+);+;+;;;;+;
+Incrustoporiaceae;+;;+;+;;;;+;;;;;;(+);;(+);;+;(+);+;;;;+
+Irpicaceae;(+);;+;+;(+);+;(+);+;(+);;;;;;(+);(+);(+);+;+;(+);;(+)?;;(+)
+Ischnodermataceae;+;;;+;;;;+;;;;;;;;;;+;;+;;;+;
+Laetiporaceae;+;+;(+);+;(+);;;;+;;;;;;(+);;;;(+);+;;;+;
+Meripilaceae;+;+;+;+;;;;+;;;;;;+;;+;+;;+;(+);;?;?;?
+Meruliaceae;(+);;+;+;;+;+;+;;;;;;(+);+;+;+;+;+;(+);;;+;
+Panaceae;+;+;;;+;+;;+;;;;;;;+;(+);+;+;;+;;;;+
+Phanerochaetaceae;(+);;+;(+);(+);+;(+);+;;;;;;;+;+;+;(+);+;;;;+;
+Podoscyphaceae;+;+;+;(+);(+);+;;+;;;;(+);;(+);+;(+);+;+;+;+;(+);;;+
+Polyporaceae;+;+;+;+;+;(+);(+);+;;;(+);(+);(+);+;(+);(+);(+);+;(+);+;+;;;+
+Sparassidaceae;spathulate;;;;;+;;;+;;;;;;(+);;;(+);+;;;;+;
+Steccherinaceae;+;(+);+;+;(+);;+;+;;;;;;;(+);+;+;+;+;+;;;;+
+
+
+
+"Symbols: + indicates the character is common in the family, but not necessarily present in all species;"
+"common in the family, but not necessarily present in all species; (+) indicates the characters is present in only a few species"
+
+"+ : character is common in the family, but not necessarily present in all species;"
+
+(+) indicates the characters is present in only a few species

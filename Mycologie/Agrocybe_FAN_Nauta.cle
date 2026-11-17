@@ -1,0 +1,107 @@
+Titre$ A G R O C Y B E  -  NAUTA
+Com$ Fl. Ag. Neerl.  Adapté par Paul Bertéa 19-10-2013 / Rév. 04-12-2013
+
+1,cs1 $ MAIN KEY TO THE SPECIES $$S"MAIN KEY"
+1,cs2 $ ALTERNATIVE KEY $$S"ALTERNATIVE KEY"
+
+
+cs1,0 $  MAIN KEY TO THE SPECIES
+
+1,2 $ Annulus present
+1,9 $ Annulus lacking, other veil remnants may be present
+
+2,0 $ Spores large, on average 12.5-16.0 x 8.0-11.0 µm, with wide germ pore up to 2.0 µm; cheilocystidia lageniform, up to 45 x 14 µm; pileus small to medium-sized, usually 10-30 mm in diametre. $ A. pediades var. cinctula 
+2,3 $ Spores up to 13 x 6.5 µm on average, either with inconspicuous, or narrow or wide germ pore up to 1.5 µm; cheilocystidia usually utriform or clavate, or a mix of clavate and lageniform, if only lageniform then up to 75 x 30 µm; pileus usually larger, up to 110 mm in diametre.
+
+3,4 $ Spores without conspicuous germ pore
+3,5 $ Spores usually with conspicuous germ pore up to 1.5 |jm; pileus usually yellowish brown, greasy to viscid, sometimes when young dark brown and glutinous
+
+4,0 $ Pileus yellowish white to yellow-brown; spores on average 10.0-11.0 x 5.0-6.0 µm $ A. cylindrica
+4,0 $Pileus dark brown, glutinous when moist; spores on average 11.5-13.0 x 6.0-6.5 µm $ A. erebia
+
+5,0 $ Spores with germ pore up to 0.5 µm wide; pileocystidia present; cheilocystidia only clavate, lamella edge sterile; taste weakly unpleasant but not farinaceous $ A. cylindrica
+5,6 $ Spores with conspicuous germ pore of 1.0-1.5 µm wide; pileocystidia lacking; cheilocystidia either utriform or of two types, if only clavate then lamella edge heterogeneous; taste farinaceous. 
+
+6,7 $ Spores on average longer than 11.0 µm
+6,8 $ Pileus surface smooth; spores on average 8.5-10.0 x 5.0-7.0 µm.
+
+7,0 $ Pileus surface remarkably radially venose; usually with large but fragile annulus; taste farinaceous $ A. rivulosa
+7,0 $ Pileus surface soon fissurate to areolate-rimose; only when young annulate; taste neutral. $ A. dura 
+
+8,0 $ Lamella edge sterile, composed of predominantly clavate cheilocystidia of 10-20 x 6.5-11 µm intermixed with lageniform to utriform cheilocystidia of 35-40 µm long; pileus 10-40(60) mm in diametre, shortly translucently striate at margin; stipe slender, 1-4 mm wide; annulus ascending $ A. elatella
+8,0 $ Lamella edge heterogeneous, composed of basidia intermixed with usually utriform cheilocystidia of 35-65 µm long; pileus 20-80 mm in diametre, not translucently striate; stipe not slender, 3-11 mm wide; annulus descending	 $ A. praecox
+
+9,10 $ Pileus in wet condition whitish to yellowish white, with appendiculate veil at margin; taste of fruitbodies neutral $ A. dura
+9,10 $ Pileus in wet condition yellow, yellow-brown, or brown, usually without appendiculate veil; taste of fruitbodies farinaceous
+
+10,0 $ Pleurocystidia lageniform with characteristic fingerlike projections $ A. arvalis
+10,11 $ Pleurocystidia different: either lageniform without projections, or utriform or globose, or absent.
+
+11,12 $ Spores small, on average 6.5-9.5 x 4.0-6.0 µm, without or with inconspicuous narrow germ pore up to 0.5 µm wide; pileocystidia often present
+11,14 $ Spores larger, on average 9.0-15.0 x 5.0-9.5 µm, with conspicuous germ pore of 1.0-2.0 µm wide; pileocystidia present or absent
+
+12,0 $ Pileus brown or yellowish brown, usually with olivaceous tinges; spores on average 6.5-7.5 x 4.0-5.0 µm; on wood $ A. firma
+12,13 $ Pileus yellowish without olivaceous tinges; spores on average 7.5-9.5 x 5.0-6.0 µm; not on wood 
+
+13,0 $ Fruitbodies small to medium-sized, pileus 10-50 mm in diametre; lamella edge heterogeneous; spores on average 7.5-8.5 x 5.0-6.0 µm; average Q (1.45)1.50-1.65(1.70) $ A. vervacti
+13,0 $ Fruitbodies very small, pileus 3-15 mm in diametre; lamella edge sterile; spores on average 8.0-9.5 x 5.0-5.5 µm; average Q 1.60-1.80 $ A. pusiola
+
+14,15 $ Spores with germ pore of c. 1.0 µm wide; cheilocystidia up to 60 µm long; pileocystidia usually present 
+14,16 $ Spores with germ pore of 1.5-2.0 µm wide; cheilocystidia up to 45 µm long; pileocystidia absent
+
+15,0 $ Pileus young with olivaceous tinge; pileocystidia lacking; spores up to 14.5 x 8.5 µm in size; pleurocystidia globose, 25-40 µm long $ A. smithii
+15,0,N$ Watl. & Bigelow in Mycotaxon 17: 378. 1983///- Not yet found in the Netherlands.///- According to Enderle (in Doc. mycol. 25(100) : 147-150. 1995) occurring in southern Germany. 
+15,0 $ Pileus without olivaceous tinges; pileocystidia present; spores up to 13.5 x 7.5 µm in size; pleurocystidia clavate or utriform, 35-55(65) µm long $ A. putaminum
+
+16,0 $ Pleurocystidia present, of different size or shape than cheilocystidia $ A. ochracea
+16,0 $ Pleurocystidia absent, sometimes some pleurocystidia near edge of lamella and then of same size and shape as cheilocystidia $ A. pediades
+
+
+cs2,0 $   ALTERNATIVE KEY
+
+1,2 $ Spores with conspicuous germ pore; pileocystidia absent or present
+1,12 $ Spores without germ pore or with inconspicuous narrow germ pore up to 0.5 µm; pileocystidia present or elements of pileipellis with irregular outgrowths
+
+2,3 $ Germ pore up to 1.0 µm wide; pileus usually dry; pileocystidia present, rarely absent
+2,6 $ Germ pore 1.0-2.0 µm wide; pileus greasy to viscid; pileocystidia absent
+
+3,4 $ Pileocystidia present; spores usually less than 7.0 µm wide, on average 9.0-11.5 x 5.0-7.0 µm, range 8.0-13.5(15.5) x 4.5-8.0(8.5) µm
+3,0 $ Pileocystidia absent; spores 12.0-14.5 x 7.0-8.5 µm $ A. smithii 
+3,0,N$ Watl. & Bigelow in Mycotaxon 17; 378. 1983///- Not yet found in the Netherlands. ///- According to Enderle (in Doc. mycol. 25 (100): 147-150. 1995) occurring in southern Germany. 
+
+4,0 $ Annulus present; cheilocystidia clavate $ A. cylindrica
+4,5 $ Annulus absent; cheilocystidia lageniform
+
+5,0 $ Pleurocystidia lageniform with characteristic outgrowths; spores on average 9.0-10.0 x 5.0-5.5 µm $ A. arvalis
+5,0 $ Pleurocystidia utriform or clavate, without outgrowths; spores on average 10.5-11.5 x 6.0-7.0 µm $ A. putaminum
+
+6,7 $ Veil present, usually in the form of an annulus, or appendicaulte at margin of pileus
+6,11 $ Veil not conspicuous, only sometimes present as remnants
+
+7,0 $ Spores with germ pore of 1.5-2.0 µm wide; cheilocystidia lageniform $ A. pediades var. cinctula
+7,8 $ Spores with a germ pore of 1.0-1.5 µm wide; cheilocystidia utriform or predominantly clavate or cylindrical 
+
+8,0 $ Veil appendiculate at margin of pileus, annulus only sometimes present when young; taste of fruitbodies neutral; pileus whitish yellow; spore length on average 12.0-13.0 µm $ A. dura
+8,9 $ Veil forming an annulus; taste of fruitbodies farinaceous; pileus yellow to yellow-brown; spore length on average 8.5-12.0 µm
+
+9,0 $ Cheilocystidia utriform $ A. praecox
+9,10 $ Cheilocystidia predominantly clavate or globose, sometimes also utriform
+
+10,0 $ Spores on average 9.0-10.0 x 6.5-7.0 µm; lamella edge sterile; cheilocystidia predominantly clavate, intermixed with lageniform to utriform cystidia; pileus surface smooth $ A. elatella 
+10,0 $ Spores on average 11.5-12.0 x 7.0-8.0 µm; lamella edge heterogeneous; cheilocystidia only clavate and globose; pileus surface remarkably radially rimose $ A. rivulosa
+
+11,0 $ Pleurocystidia present, of different size or shape than cheilocystidia $ A. ochracea
+11,0 $ Pleurocystidia absent, sometimes some pleurocystidia near edge of lamella present and then of same size and shape as cheilocystidia $ A. pediades var. pediades
+
+12,13 $ Annulus present; spores on average 10.0-13.0 x 5.0-6.5 µm; pleurocystidia present; at least some of cheilocystidia clavate
+12,14 $ Annulus lacking; spores on average 6.5-9.5 x 4.0-6.0 µm; pleurocystidia usually absent or scattered, if present lageniform
+
+13,0 $ Pileus yellow-white, dry to greasy when wet; spores on average 10.0-11.0 x 5.0-6.0 µm $ A. cylindrica
+13,0 $ Pileus dark brown, glutinous when moist; spores on average 11.5-13.0 x 6.0-6.5 µm $ A. erebia
+
+14,0 $ Spores with narrow germ pore up to 0.5 µm; pleurocystidia absent or very scarce $ A. vervacti
+14,15 $ Spores without germ pore, thin-walled apical spot may be present; pleurocystidia usually scattered, sometimes abundant
+
+15,0 $ Pileus brown or yellowish brown, usually with olivaceous tinge, dry; spores on average 6.5-7.5 x 4.0-5.0 µm; on wood $ A. firma
+15,0 $ Pileus yellow, in wet condition greasy to glutinous; spores on average 8.0-9.5 x 5.0-5.5 µm; not on wood $ A. pusiola
+
