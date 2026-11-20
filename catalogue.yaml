@@ -982,12 +982,12 @@ keys:
     notes: 'http://assobotanique32.free.fr/Doc/bota32 Cle flore 32 revision 1_5.pdf/ adpat GF'
     review: [title, authors, language, taxa]
   cle-des-genres-et-especes-gers-3:
-    file: Divers/Equisetum_Gers.cle
+    file: 'Botanique/Equisetum_Gers.cle'
     title: 'Clé des genres et espèces végétales de la flore du Gers : Equisetum'
     taxa: [Equisetum]
     authors: [Gers]
     language: fr
-    category: divers
+    category: botanique
     notes: 'http://assobotanique32.free.fr/Doc/bota32 Cle flore 32 revision 1_5.pdf/ adpat GF / $ Equisetum :'
     review: [title, authors, language, taxa]
   cle-des-hepatiques-a-feuilles-aeag:
@@ -1045,7 +1045,7 @@ keys:
     notes: 'cf Petr Hrouda Trad G Fannechère, 1001 champignons ;Roux 2006,,Bull. N° 3 FAMM'
     review: [title, authors, language, taxa]
   cle-des-inocybes-de-m:
-    file: Mycologie/inocybe.Bon-T3.cle
+    file: 'Mycologie/inocybes.Bon.T3.cle'
     compiledFile: Mycologie/inocybe.Bon-T3_C.cle
     title: 'Clé des inocybes de M.Bon /(3ième partie) : espèces gibbosporées = sous-genre CLYPEUS Britz.'
     language: fr
@@ -1999,7 +1999,7 @@ keys:
     category: mycologie
     notes: 'Adaptation par A. Paris 2011'
   cortinarius-sous-genre-telamonia-flandre-haan-2013:
-    file: 'Mycologie/Telemonia_ Haan_&_al_2013.cle'
+    file: 'Mycologie/Telemonia_de Haan_et_al_2013.cle'
     title: 'Cortinarius sous-genre Telamonia (Flandre)'
     taxa: [Telemonia]
     authors: ['De Haan et al.']
@@ -2884,10 +2884,10 @@ keys:
     language: it
     category: mycologie
   fougeres-xxx-etc:
-    file: Divers/Fougères.cle
+    file: 'Botanique/Fougères.cle'
     title: 'Fougères xxx etc .....'
     language: fr
-    category: divers
+    category: botanique
     notes: 'Jean-Claude DUMAS 2008 etc ...'
     review: [title, authors, language]
   fungi-fimicoli-italici:
@@ -3447,12 +3447,12 @@ keys:
     notes: 'tiré de http://www.bgbm.org/BGBM/Staff/Wiss/Sipman/keys/perteuro.htm adapté GF mai 08'
     review: [title, authors, language, taxa]
   genus-pertusaria-and-some-confusible-2:
-    file: Mycologie/Lichens_Pertusaria-BGBM.cle
+    file: 'Lichens Mousses/Pertusaria-BGBM-lichens.cle'
     title: 'genus Pertusaria and some confusible taxa in Europe and the Mediterranean'
     taxa: [Pertusaria]
     authors: [Pertusaria, Bgbm]
     language: en
-    category: mycologie
+    category: lichens-bryophytes
     notes: 'tiré de http://www.bgbm.org/BGBM/Staff/Wiss/Sipman/keys/perteuro.htm adapté GF mai 08'
     review: [title, authors, language, taxa]
   geopora:
@@ -4358,12 +4358,12 @@ keys:
     notes: 'Gro Gulden A preliminary guide to the macromycetes in the Finse area / GF 2011'
     review: [title, authors, language, taxa]
   keys-to-the-genera-of-tgbmd:
-    file: Mycologie/Lichen-Genera_TGBMD.cle
+    file: 'Lichens Mousses/Lichen-Genera_TGBMD.cle'
     title: 'Keys to the Genera of the Lichens of British Columbia'
     taxa: [Lichen]
     authors: [Tgbmd]
     language: en
-    category: mycologie
+    category: lichens-bryophytes
     notes: 'Trevor Goward, Bruce McCune & Del Meidinger 1994 / Adaptation par Aurélien Paris'
     review: [title, authors, language, taxa]
   kf-y-to-the-species-boekhout:
@@ -4824,11 +4824,11 @@ keys:
     category: mycologie
     notes: 'DM - Tome 23 - Fascicule n° 89 - Septembre 1993 - Spécial CORTINAIRES /adapt JCV& GF mars 09'
   les-macrolichens-de-belgique-du:
-    file: Mycologie/Macrolichens-BelLuxNFra.cle
+    file: 'Lichens Mousses/Macrolichens-BelLuxNFra.cle'
     title: 'Les macrolichens de Belgique, du Luxembourg et du nord de la France'
     taxa: [Macrolichens]
     language: fr
-    category: mycologie
+    category: lichens-bryophytes
     notes: 'Compilation et adaptation par Aurélien Paris / cf http://www.mnhn.lu/recherche/ferrantia/default.asp'
     review: [title, authors, language, taxa]
   leucoagaricus-funga-nordica-lange:
@@ -4886,13 +4886,13 @@ keys:
     category: mycologie
     notes: 'Persoonia 32, 2014:52–82 - Adapté par Paul Bertéa 14-02-2014'
   lycogala-du-quebec-labbe-2008:
-    file: Botanique/lycogala_quebec_2008.cle
+    file: 'Myxos/lycogala_quebec_2008.cle'
     title: 'Lycogala du Québec'
     taxa: [Lycogala]
     authors: [Labbé]
     year: 2008
     language: fr
-    category: botanique
+    category: myxomycetes
     notes: 'Adaptation : Roland Labbé, juin 2008 / GF 2015'
   lycoperdaceae-et-geastraceae-pacific-nw-2013:
     file: 'Mycologie/LYCOPERDACEAE-GEASTRACEAE PNW-2013.cle'
@@ -7186,13 +7186,13 @@ keys:
     category: mycologie
     notes: 'Bernicchia Adaptet complément GF fev 2013'
   stereum-pacific-nw-gibson-2012:
-    file: 'Myconav/Stereum-PacificNW Gibson 2012.cle'
+    file: 'Mycologie/Stereum-PacificNW Gibson 2012.cle'
     title: 'Stereum Pacific NW'
     taxa: [Stereum]
     authors: [Gibson]
     year: 2012
     language: en
-    category: divers
+    category: mycologie
     notes: 'adapt GF janv 2018'
   stropharia-noordeloos-2011:
     file: Mycologie/Stropharia_Noordeloos.cle
