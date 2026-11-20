@@ -1,0 +1,4 @@
+# Les clés Mycoclé et fichiers de données sont publiés tels quels, fins de ligne
+# Windows (CRLF) comprises : Mycoclé, logiciel Windows, en a besoin. Aucune
+# conversion par Git, quel que soit le réglage core.autocrlf de chacun.
+* -text
